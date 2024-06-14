@@ -1,0 +1,18 @@
+LIVRAISON 1672-01
+LIVRAISON 1673-02
+LIVRAISON 1673-03
+LIVRAISON 1673-04
+LIVRAISON 1673-05
+ls: /Users/amleth/Library/CloudStorage/Dropbox/CNRS/iremus/data-iremus/in/mercure-galant-sources-github/tei/articles/MG-1673-05*: No such file or directory
+ls: /Users/amleth/Library/CloudStorage/Dropbox/CNRS/iremus/data-iremus/in/mercure-galant-sources-github/tei/articles/1673-05*: No such file or directory
+LIVRAISON 1673-06
+LIVRAISON 1677-03
+LIVRAISON 1677-04
+LIVRAISON 1677-05
+LIVRAISON 1677-06
+LIVRAISON 1677-07
+LIVRAISON 1677-08
+LIVRAISON 1677-09
+LIVRAISON 1677-10
+LIVRAISON 1677-11
+LIVRAISON 1677-12
