@@ -12,4 +12,13 @@ MG-1696-11.xml
 MG-1706-03.xml
 MG-1710-10.xml
 
-ls: /Users/amleth/Library/CloudStorage/Dropbox/CNRS/iremus/data-iremus/in/mercure-galant-github/xml/1721*.xml: No such file or directory
+/Users/amleth/Library/CloudStorage/Dropbox/CNRS/iremus/data-iremus/in/mercure-galant-github/xml/MG-1721-01.xml
+LIVRAISON 1721-01
+/Users/amleth/Library/CloudStorage/Dropbox/CNRS/iremus/data-iremus/in/mercure-galant-github/xml/MG-1721-02.xml
+LIVRAISON 1721-02
+/Users/amleth/Library/CloudStorage/Dropbox/CNRS/iremus/data-iremus/in/mercure-galant-github/xml/MG-1721-03.xml
+LIVRAISON 1721-03
+/Users/amleth/Library/CloudStorage/Dropbox/CNRS/iremus/data-iremus/in/mercure-galant-github/xml/MG-1721-04.xml
+LIVRAISON 1721-04
+/Users/amleth/Library/CloudStorage/Dropbox/CNRS/iremus/data-iremus/in/mercure-galant-github/xml/MG-1721-05.xml
+LIVRAISON 1721-05
