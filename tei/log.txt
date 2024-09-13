@@ -12,13 +12,27 @@ MG-1696-11.xml
 MG-1706-03.xml
 MG-1710-10.xml
 
-/Users/amleth/Library/CloudStorage/Dropbox/CNRS/iremus/data-iremus/in/mercure-galant-github/xml/MG-1721-01.xml
-LIVRAISON 1721-01
-/Users/amleth/Library/CloudStorage/Dropbox/CNRS/iremus/data-iremus/in/mercure-galant-github/xml/MG-1721-02.xml
-LIVRAISON 1721-02
-/Users/amleth/Library/CloudStorage/Dropbox/CNRS/iremus/data-iremus/in/mercure-galant-github/xml/MG-1721-03.xml
-LIVRAISON 1721-03
-/Users/amleth/Library/CloudStorage/Dropbox/CNRS/iremus/data-iremus/in/mercure-galant-github/xml/MG-1721-04.xml
-LIVRAISON 1721-04
-/Users/amleth/Library/CloudStorage/Dropbox/CNRS/iremus/data-iremus/in/mercure-galant-github/xml/MG-1721-05.xml
-LIVRAISON 1721-05
+/Users/amleth/Library/CloudStorage/Dropbox/CNRS/iremus/data-iremus/in/mercure-galant-github/xml/MG-1720-01.xml
+LIVRAISON 1720-01
+/Users/amleth/Library/CloudStorage/Dropbox/CNRS/iremus/data-iremus/in/mercure-galant-github/xml/MG-1720-02.xml
+LIVRAISON 1720-02
+/Users/amleth/Library/CloudStorage/Dropbox/CNRS/iremus/data-iremus/in/mercure-galant-github/xml/MG-1720-03.xml
+LIVRAISON 1720-03
+/Users/amleth/Library/CloudStorage/Dropbox/CNRS/iremus/data-iremus/in/mercure-galant-github/xml/MG-1720-04.xml
+LIVRAISON 1720-04
+/Users/amleth/Library/CloudStorage/Dropbox/CNRS/iremus/data-iremus/in/mercure-galant-github/xml/MG-1720-05.xml
+LIVRAISON 1720-05
+/Users/amleth/Library/CloudStorage/Dropbox/CNRS/iremus/data-iremus/in/mercure-galant-github/xml/MG-1720-06.xml
+LIVRAISON 1720-06
+/Users/amleth/Library/CloudStorage/Dropbox/CNRS/iremus/data-iremus/in/mercure-galant-github/xml/MG-1720-07.xml
+LIVRAISON 1720-07
+/Users/amleth/Library/CloudStorage/Dropbox/CNRS/iremus/data-iremus/in/mercure-galant-github/xml/MG-1720-08.xml
+LIVRAISON 1720-08
+/Users/amleth/Library/CloudStorage/Dropbox/CNRS/iremus/data-iremus/in/mercure-galant-github/xml/MG-1720-09.xml
+LIVRAISON 1720-09
+/Users/amleth/Library/CloudStorage/Dropbox/CNRS/iremus/data-iremus/in/mercure-galant-github/xml/MG-1720-10.xml
+LIVRAISON 1720-10
+/Users/amleth/Library/CloudStorage/Dropbox/CNRS/iremus/data-iremus/in/mercure-galant-github/xml/MG-1720-11.xml
+LIVRAISON 1720-11
+/Users/amleth/Library/CloudStorage/Dropbox/CNRS/iremus/data-iremus/in/mercure-galant-github/xml/MG-1720-12.xml
+LIVRAISON 1720-12
