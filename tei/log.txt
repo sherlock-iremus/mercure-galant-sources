@@ -1233,3 +1233,18 @@ LIVRAISON 1721-03
 LIVRAISON 1721-04
 /Users/amleth/Library/CloudStorage/Dropbox/CNRS/iremus/data-iremus/in/mercure-galant-github/xml/MG-1721-05.xml
 LIVRAISON 1721-05
+Fichiers en erreur :
+ls: unrecognized option `--github/xml/*.xml'
+usage: ls [-@ABCFGHILOPRSTUWXabcdefghiklmnopqrstuvwxy1%,] [--color=when] [-D format] [file ...]
+rm: illegal option -- g
+usage: rm [-f | -i] [-dIPRrvWx] file ...
+       unlink [--] file
+mkdir: illegal option -- g
+usage: mkdir [-pv] [-m mode] directory_name ...
+rm: illegal option -- g
+usage: rm [-f | -i] [-dIPRrvWx] file ...
+       unlink [--] file
+mkdir: illegal option -- g
+usage: mkdir [-pv] [-m mode] directory_name ...
+ls: unrecognized option `--github/xml/*.xml'
+usage: ls [-@ABCFGHILOPRSTUWXabcdefghiklmnopqrstuvwxy1%,] [--color=when] [-D format] [file ...]
