@@ -1,4 +1,42 @@
 Fichiers en erreur :
-ls: /Users/amleth/repositories/mercure-galant-github/xml/*.xml: No such file or directory
+MG-1680-04.xml
+MG-1681-03.xml
+MG-1683-03e.xml
+MG-1688-12a.xml
+MG-1689-01a.xml
+MG-1689-04a.xml
+MG-1689-09.xml
+MG-1690-10.xml
+MG-1692-11.xml
+MG-1696-11.xml
+MG-1706-03.xml
+MG-1710-10.xml
 
-ls: /Users/amleth/repositories/mercure-galant-github/xml/*.xml: No such file or directory
+/Users/amleth/repositories/mercure-galant-sources-github//tei-edition/MG-1672-01.xml
+LIVRAISON 1672-01
+/Users/amleth/repositories/mercure-galant-sources-github//tei-edition/MG-1673-02.xml
+LIVRAISON 1673-02
+/Users/amleth/repositories/mercure-galant-sources-github//tei-edition/MG-1673-03.xml
+LIVRAISON 1673-03
+/Users/amleth/repositories/mercure-galant-sources-github//tei-edition/MG-1673-04.xml
+LIVRAISON 1673-04
+/Users/amleth/repositories/mercure-galant-sources-github//tei-edition/MG-1673-05.xml
+LIVRAISON 1673-05
+/Users/amleth/repositories/mercure-galant-sources-github//tei-edition/MG-1673-06.xml
+LIVRAISON 1673-06
+/Users/amleth/repositories/mercure-galant-sources-github//tei-edition/MG-1677-03.xml
+LIVRAISON 1677-03
+/Users/amleth/repositories/mercure-galant-sources-github//tei-edition/MG-1677-04.xml
+LIVRAISON 1677-04
+/Users/amleth/repositories/mercure-galant-sources-github//tei-edition/MG-1677-05.xml
+LIVRAISON 1677-05
+/Users/amleth/repositories/mercure-galant-sources-github//tei-edition/MG-1677-06.xml
+LIVRAISON 1677-06
+/Users/amleth/repositories/mercure-galant-sources-github//tei-edition/MG-1677-07.xml
+LIVRAISON 1677-07
+/Users/amleth/repositories/mercure-galant-sources-github//tei-edition/MG-1677-08.xml
+LIVRAISON 1677-08
+/Users/amleth/repositories/mercure-galant-sources-github//tei-edition/MG-1677-09.xml
+LIVRAISON 1677-09
+/Users/amleth/repositories/mercure-galant-sources-github//tei-edition/MG-1677-10.xml
+LIVRAISON 1677-10
