@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+1681-03e_2961681-03e_296<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+1681-03e_2961681-03e_296<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1681-03e">
  <teiHeader>
   <fileDesc>
@@ -2036,21 +2037,25 @@
      </lg>
     </quote>
    </div>
-   <div type="article" xml:id="MG-1681-03e_296">
-    <head>[Clé d’une lettre codée]*</head>
+   <div type="article" xml:id="MG-1681-03e_296a">
+    <head>[Publication d'une vue du palais du Prado]*</head>
     <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1681 (tome XIII),
-     p. 296-307.</bibl><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : La Figure où
+     p. 296.</bibl><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : La Figure où
       est représentée la <hi rend="i">Casa Real del Pardo</hi>, doit regarder la page
       296.</note>
     <p><hi rend="i">La seconde Planche que je vous envoye, vous ofre la Veuë de l’autre Maison
-      Royale d’Espagne que je vous ay dit estre aux environs de Madrid. Elle n’en est éloignée que
-      de deux lieuës, &amp; s’appelle</hi> Casa Real del Prado. <hi rend="i">Vous pourrez examiner à
+     Royale d’Espagne que je vous ay dit estre aux environs de Madrid. Elle n’en est éloignée que
+     de deux lieuës, &amp; s’appelle</hi> Casa Real del Prado. <hi rend="i">Vous pourrez examiner à
       loisir ce qu’elle a de remarquable.</hi></p>
+   </div>
+   <div type="article" xml:id="MG-1681-03e_296b">
+    <head>[Clef d’une lettre codée]*</head>
+    <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1681 (tome XIII),
+     p. 296-307.</bibl>
     <p><hi rend="i">Je viens à la Lettre du Spirituel Berger des Rives du Tarn, qui sous un sens
-      découvert en cache un autre que personne n’a pû découvrir. Il y avoit en cela une espece
-      d’impossibilité, parce qu’elle est écrite sur trois Alphabets, tous trois transposez, &amp;
-      qui répondent à nostre Alphabet commun. La Lettre qui suit contient ces trois Alphabets, &amp;
-      donne la Clef de tout le secret.</hi></p>
+     découvert en cache un autre que personne n’a pû découvrir. Il y avoit en cela une espece
+     d’impossibilité, parce qu’elle est écrite sur trois Alphabets, tous trois transposez, &amp;
+     qui répondent à nostre Alphabet commun. La Lettre qui suit contient ces trois Alphabets, &amp; donne la Clef de tout le secret.</hi></p>
     <quote>
      <label><hi rend="i">Sur les Bords du Tarn, ce 19. Mars 1681.</hi></label>
      <p>Je vous envoye, Monsieur, le déchifrement de la Lettre du 24. Septembre dernier, contenuë
