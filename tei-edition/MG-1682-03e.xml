@@ -68,7 +68,7 @@
       <head><hi rend="i">Extraordinaire du Mercure galant</hi>, quartier de janvier 1682 (tome
         XVII).</head>
       <div type="article" xml:id="MG-1682-03e_001" resp="wordpro">
-        <head>[Avant-propos]*</head>
+        <head resp="editor">Avant-propos</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1682 (tome XVII),
           p. 1-2.</bibl>
         <p><hi rend="i">Tant d’habiles Gens m’ont envoyé de longs &amp; sçavans Ouvrages, que cette
@@ -79,7 +79,7 @@
             premieres, j’avois esté obligé de les réserver.</hi></p>
       </div>
       <div type="article" xml:id="MG-1682-03e_002" resp="wordpro">
-        <head>[Sentiments de Mr du Rosier aux questions du XVe Extraordinaire]*</head>
+        <head resp="editor">Sentiments de Mr du Rosier aux questions du XVe Extraordinaire</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1682 (tome XVII),
           p. 2-8.</bibl>
         <p/>
@@ -860,7 +860,7 @@
         </quote>
       </div>
       <div type="article" xml:id="MG-1682-03e_098" resp="wordpro">
-        <head>[Sentiments sur les questions de précédents Extraordinaires]*</head>
+        <head resp="editor">Sentiments sur les questions de précédents Extraordinaires</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1682 (tome XVII),
           p. 98-100.</bibl>
         <quote>
@@ -1010,7 +1010,7 @@
         </quote>
       </div>
       <div type="article" xml:id="MG-1682-03e_142" resp="wordpro">
-        <head>[Sentiments sur les questions de précédents Extraordinaires]*</head>
+        <head resp="editor">Sentiments sur les questions de précédents Extraordinaires</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1682 (tome XVII),
           p. 142-144.</bibl>
         <quote>
@@ -1075,7 +1075,7 @@
         </quote>
       </div>
       <div type="article" xml:id="MG-1682-03e_147" resp="wordpro">
-        <head>[Sentiments sur les questions de précédents Extraordinaires]*</head>
+        <head resp="editor">Sentiments sur les questions de précédents Extraordinaires</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1682 (tome XVII),
           p. 147-149.</bibl>
         <quote>
@@ -1411,7 +1411,7 @@
         </quote>
       </div>
       <div type="article" xml:id="MG-1682-03e_219" resp="wordpro">
-        <head>[Sentiments sur les questions de précédents Extraordinaires]*</head>
+        <head resp="editor">Sentiments sur les questions de précédents Extraordinaires</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1682 (tome XVII),
           p. 219-251.</bibl>
         <quote>
@@ -1704,7 +1704,7 @@
         </quote>
       </div>
       <div type="article" xml:id="MG-1682-03e_251" resp="wordpro">
-        <head>[Trois sonnets de Mr le Président de Silvecane de Lyon]*</head>
+        <head resp="editor">Trois sonnets de Mr le Président de Silvecane de Lyon</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1682 (tome XVII),
           p. 251-256.</bibl>
         <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : La
@@ -2545,7 +2545,7 @@
         </quote>
       </div>
       <div type="article" xml:id="MG-1682-03e_382" resp="wordpro">
-        <head>[Annonce du prochain Extraordinaire]*</head>
+        <head resp="editor">Annonce du prochain Extraordinaire</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1682 (tome XVII),
           p. 382.</bibl>
         <p><hi rend="i">Je vous réserve pour l’Extraordinaire prochain divers Traitez sur la

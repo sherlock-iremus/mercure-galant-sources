@@ -551,7 +551,7 @@
           a grande apparence que le temps de voir finir sa clôture n’arrivera pas si tost.</p>
       </div>
       <div type="article" xml:id="MG-1689-12_227" resp="camille">
-        <head>[Envoi de médailles gravées]*</head>
+        <head resp="editor">Envoi de médailles gravées</head>
         <bibl><title>Mercure galant</title>, décembre 1689 [tome 12], p. 227-228.</bibl>
         <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : La
           Medaille doit regarder la page 227.</note>
@@ -649,14 +649,14 @@
           Libraires de la ruë Saint Jacques.</p>
       </div>
       <div type="article" xml:id="MG-1689-12_248" resp="wordpro">
-        <head>[Mort de Marthe de Neufbourg]*</head>
+        <head resp="editor">Mort de Marthe de Neufbourg</head>
         <bibl><title>Mercure galant</title>, décembre 1689 [tome 12], p. 248.</bibl>
         <p/>
         <p>Dame Marthe de Neuf-bourg. Elle estoit Femme de Messire Renouard de Villayer, Doyen du
           Conseil. Il est de l’Academie Françoise.</p>
       </div>
       <div type="article" xml:id="MG-1689-12_252" resp="wordpro">
-        <head>[Mort d’Emery Bigot]*</head>
+        <head resp="editor">Mort d’Emery Bigot</head>
         <bibl><title>Mercure galant</title>, décembre 1689 [tome 12], p. 252.</bibl>
         <p/>
         <p>Emery Bigot. Il estoit d’une fort bonne Famille de Roüen, &amp; Fils d’un Conseiller de
@@ -667,7 +667,7 @@
           mort le 18. de ce mois, âgé d’environ soixante &amp; quatre ans.</p>
       </div>
       <div type="article" xml:id="MG-1689-12_253" resp="wordpro">
-        <head>[Epitaphe pour M. Soirot]*</head>
+        <head resp="editor">Epitaphe pour M. Soirot</head>
         <bibl><title>Mercure galant</title>, décembre 1689 [tome 12], p. 253-254.</bibl>
         <p/>
         <p>On a eu aussi nouvelles de la mort de M<hi rend="sup">r</hi> Soirot, arrivée depuis trois

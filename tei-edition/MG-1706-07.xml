@@ -63,14 +63,14 @@
     <body>
                 <head><hi rend="i">Mercure galant</hi>, juillet 1706 [tome 7].</head>
                 <div type="article" xml:id="MG-1706-07_98">
-                    <head>[Publication de l’Histoire des Journaux]*</head>
+                    <head resp="editor">Publication de l’Histoire des Journaux</head>
                     <bibl><title>Mercure galant</title>, juillet 1706 [tome 7], p. 98.</bibl>
                     <p>M<hi rend="sup">r</hi> Juncker a donné depuis peu, en Allemagne, l’Histoire
                         des Journaux ; &amp; on dit que l’on travaille en France sur le mesme
                         sujet.</p>
                 </div>
                 <div type="article" xml:id="MG-1706-07_101">
-                    <head>[Publication de la troisième édition des œuvres philosophiques de M<hi rend="sup">r</hi> le Clerc]*</head>
+                    <head resp="editor">Publication de la troisième édition des œuvres philosophiques de M<hi rend="sup">r</hi> le Clerc</head>
                     <bibl><title>Mercure galant</title>, juillet 1706 [tome 7], p. 101.</bibl>
                     <p>M<hi rend="sup">r</hi> le Clerc a donné à Amsterdam une 3<hi rend="sup">e</hi>. 
                         édition de ses œuvres philosophiques. <hi rend="i">Joannis
@@ -81,7 +81,7 @@
                         Physique, que l’on ne connoît pas certainement assez en Hollande.</p>
                 </div>
                 <div type="article" xml:id="MG-1706-07_102">
-                    <head>[Nouvelle édition de l’Art de penser]*</head>
+                    <head resp="editor">Nouvelle édition de l’Art de penser</head>
                     <bibl><title>Mercure galant</title>, juillet 1706 [tome 7], p. 102-103.</bibl>
                     <p>On a fait à Hall une nouvelle édition de <hi rend="i">l’Art de penser</hi>,
                         en Latin. Le Libraire a promis d’y ajoûter toutes les remarques
@@ -117,7 +117,7 @@
                         enrichie.</p>
                 </div>
                 <div type="article" xml:id="MG-1706-07_120">
-                    <head>[Mort de Jacques Testu]*</head>
+                    <head resp="editor">Mort de Jacques Testu</head>
                     <bibl><title>Mercure galant</title>, juillet 1706 [tome 7], p. 120-124.</bibl>
                     <p>M<hi rend="sup">re</hi> Jacques Testu, Conseiller Aumônier &amp; Predicateur
                         Ordinaire du Roy, Abbé de Nôtre-Dame de Belval, Prieur de S. Denis de la
@@ -149,7 +149,7 @@
                         freres sont enterrez aux Carmes Déchaussez.</p>
                 </div>
                 <div type="article" xml:id="MG-1706-07_124">
-                    <head>[Mort de Pierre Blanger]*</head>
+                    <head resp="editor">Mort de Pierre Blanger</head>
                     <bibl><title>Mercure galant</title>, juillet 1706 [tome 7], p. 124-127.</bibl>
                     <p>M<hi rend="sup">re</hi> Pierre Blanger, Docteur en Theologie de la Faculté de
                         Paris, Senieur de la maison de Sorbonne, Prieur de la Chapelle de la Reyne,
@@ -178,7 +178,7 @@
                         en avoit fait, étoit tres-bon &amp; tres-judicieux.</p>
                 </div>
                 <div type="article" xml:id="MG-1706-07_142a">
-                    <head>[Mort de M<hi rend="sup">r</hi> de Riouperoux]*</head>
+                    <head resp="editor">Mort de M<hi rend="sup">r</hi> de Riouperoux</head>
                     <bibl><title>Mercure galant</title>, juillet 1706 [tome 7], p. 142.</bibl>
                     <p>Le Parnasse François vient de perdre M<hi rend="sup">r</hi> de Riouperoux,
                         Auteur de plusieurs Pieces de Theatre, qui ont eu un grand succés, du nombre
@@ -520,7 +520,7 @@
                     </quote>
                 </div>
                 <div type="article" xml:id="MG-1706-07_429">
-                    <head>[Réception du duc de Chartres à Milan]*</head>
+                    <head resp="editor">Réception du duc de Chartres à Milan</head>
                     <bibl><title>Mercure galant</title>, juillet 1706 [tome 7], p. 429-432.</bibl>
                     <p>Son Altesse Royale partit le 10 dans le dessein d’arriver le 11 à Milan.
                         Monsieur le Prince de Vaudemont, qui avoit fait préparer &amp; peindre

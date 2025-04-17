@@ -518,7 +518,7 @@
         </ref>
       </div>
       <div type="article" xml:id="MG-1690-09_113" resp="mercure" copyOf="JLB-MG-1690-09_114">
-        <head>[Réjouissances faites à Agen]*</head>
+        <head resp="editor">Réjouissances faites à Agen</head>
         <bibl><title>Mercure Galant</title>, septembre 1690, p. 113-115, 120-121.</bibl>
         <p>Comme les Victoires du Roy ont continué, on a fait de nouvelles réjoüissances dans toutes
           les Villes, &amp; celle d'Agen n'a rien épargné pour faire voir combien elle s'interessoit
@@ -545,7 +545,7 @@
           autres danses.</p>
       </div>
       <div type="article" xml:id="MG-1690-09_121" resp="mercure">
-        <head>[Réjouissances fait à Uzez]*</head>
+        <head resp="editor">Réjouissances fait à Uzez</head>
         <bibl><title>Mercure Galant</title>, septembre 1690, p. 121-123.</bibl>
         <p>Je ne vous parleray point d'un Feu d'artifice qui a esté fait à Uzez dans la mesme
           occasion par l'ordre de M<hi rend="sup">r</hi> l'Evesque, ny d'un Soupé magnifique de
@@ -558,7 +558,7 @@
           suit. [...]</p>
       </div>
       <div type="article" xml:id="MG-1690-09_137" resp="mercure">
-        <head>[Réjouissances faites à Mende]*</head>
+        <head resp="editor">Réjouissances faites à Mende</head>
         <bibl><title>Mercure Galant</title>, septembre 1690, p. 137-140.</bibl>
         <p>La Ville de Mende, dans le Givaudan, Province du Gouvernement de Languedoc, n'a pas
           monstré moins de zele, qu'Agen &amp; Uzez. Les Chanoines de la Collegiale de tous les
@@ -578,7 +578,7 @@
           rejouïssances durerent jusqu'au jour.</p>
       </div>
       <div type="article" xml:id="MG-1690-09_140" resp="mercure">
-        <head>[Réjouissances faites à Nogent-le-Roi]*</head>
+        <head resp="editor">Réjouissances faites à Nogent-le-Roi</head>
         <bibl><title>Mercure Galant</title>, septembre 1690, p. 140-141.</bibl>
         <p>On en fit de fort grandes à Nogent le Roy le 23. de Juillet, pour la Victoire remportée à
           Fleurus par l'Armée du Roy, &amp; elles furent renouvellées le 30. du mesme mois pour la
@@ -591,7 +591,7 @@
           de la Justice à leur teste.</p>
       </div>
       <div type="article" xml:id="MG-1690-09_147" resp="mercure" copyOf="JLB-MG-1690-09_148">
-        <head>[Réjouissances faites à Toulon]*</head>
+        <head resp="editor">Réjouissances faites à Toulon</head>
         <bibl><title>Mercure Galant</title>, septembre 1690, p. 147-150.</bibl>
         <p>Les mesmes réjouïssances ont esté faites à Toulon, où l'on a chanté le <hi rend="sc">Te
             Deum</hi> dans la Cathedrale avec beaucoup de ceremonie. Entre les Particuliers qui ont
@@ -1080,7 +1080,7 @@
         </quote>
       </div>
       <div type="article" xml:id="MG-1690-09_296" resp="wordpro">
-        <head>[Mort de Pierre Gaucher de Sainte Marthe]*</head>
+        <head resp="editor">Mort de Pierre Gaucher de Sainte Marthe</head>
         <bibl><title>Mercure galant</title>, septembre 1690 [tome 10], p. 296-299.</bibl>
         <p>Messire Pierre Gaucher de Sainte Marthe, Seigneur de Meré sur Indre &amp; des Lionnieres,
           Maistre d’Hostel du Roy, &amp; Historiographe de France, est mort aussi depuis peu de
@@ -1099,7 +1099,7 @@
           Bibliotheque du Roy à Fontainebleau, est d’une des branches de cette Famille.</p>
       </div>
       <div type="article" xml:id="MG-1690-09_342" resp="wordpro">
-        <head>[La Pierre de touche politique]*</head>
+        <head resp="editor">La Pierre de touche politique</head>
         <bibl><title>Mercure galant</title>, septembre 1690 [tome 10], p. 342-343.</bibl>
         <p><hi rend="i">Le S<hi rend="sup">r</hi> Guerout avertit qu’en debitant le Mercure, il
             debitera aussi au commencement de chaque mois</hi>, La Pierre de touche politique, <hi

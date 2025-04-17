@@ -66,7 +66,7 @@
     <body>
       <head><hi rend="i">Mercure galant</hi>, mars 1709 [tome 3].</head>
       <div type="article" xml:id="MG-1709-03_011">
-        <head>[Prix d’académie fondé par Betoulaud]*</head>
+        <head resp="editor">Prix d’académie fondé par Betoulaud</head>
         <bibl><title>Mercure galant</title>, mars 1709 [tome 3], p. 11-14.</bibl>
         <p>Mr de Betoulaud, Gentilhomme né en Gascogne, qui faisoit sa residence à Bordeaux ; qui
           aimoit beaucoup les belles-Lettres ; qui en faisoit profession, &amp; dont je vous ay
@@ -89,7 +89,7 @@
           marque davantage le grand amour d’un sujet pour son Roy.</p>
       </div>
       <div type="article" xml:id="MG-1709-03_038">
-        <head>[Pompe funèbre à Montréal pour la duchesse de Pontchartrain]*</head>
+        <head resp="editor">Pompe funèbre à Montréal pour la duchesse de Pontchartrain</head>
         <bibl><title>Mercure galant</title>, mars 1709 [tome 3], p. 38.</bibl>
         <quote>
           <p><hi rend="i">On vient de faire dans cette Capitale de la nouvelle France, un Service
@@ -99,7 +99,7 @@
         </quote>
       </div>
       <div type="article" xml:id="MG-1709-03_039">
-        <head>[Pompes funèbres au Canada pour Laval-Montmorency]*</head>
+        <head resp="editor">Pompes funèbres au Canada pour Laval-Montmorency</head>
         <bibl><title>Mercure galant</title>, mars 1709 [tome 3], p. 39-46.</bibl>
         <quote>
           <p><hi rend="i">Le plus illustre d’entre les morts de cette année dans la Colonie, est Mr

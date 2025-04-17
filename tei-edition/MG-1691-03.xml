@@ -260,7 +260,7 @@
           nom.</p>
       </div>
       <div type="article" xml:id="MG-1691-03_021" resp="wordpro">
-        <head>[Des ouvrages de l’abbé de Viani, auteur de la Paraphrase allegorique]*</head>
+        <head resp="editor">Des ouvrages de l’abbé de Viani, auteur de la Paraphrase allegorique</head>
         <bibl><title>Mercure galant</title>, mars 1691 [tome 3], p. 21-23.</bibl>
         <p/>
         <p>Vous avez déja veu un Ouvrage de mesme nature de cet excellent homme. C’est <hi rend="i"
@@ -462,7 +462,7 @@
         </ref>
       </div>
       <div type="article" xml:id="MG-1691-03_087" resp="wordpro">
-        <head>[Plaisir du carnaval]*</head>
+        <head resp="editor">Plaisir du carnaval</head>
         <bibl><title>Mercure galant</title>, mars 1691 [tome 3], p. 87-90.</bibl>
         <p/>
         <p>Vous vous plaignez que dans ma dernière Lettre je ne vous ay point parlé des plaisirs du
@@ -724,7 +724,7 @@
           gloire de nostre auguste Monarque.</p>
       </div>
       <div type="article" xml:id="MG-1691-03_129" resp="wordpro">
-        <head>[Mort de Jean-Jacques Renouard de Villayer]*</head>
+        <head resp="editor">Mort de Jean-Jacques Renouard de Villayer</head>
         <bibl><title>Mercure galant</title>, mars 1691 [tome 3], p. 129-131.</bibl>
         <p/>
         <p>Il y a presentement à l’Academie Françoise une place vacante par la mort de Messire
@@ -740,7 +740,7 @@
           place de Conseiller d’Estat Ordinaire.</p>
       </div>
       <div type="article" xml:id="MG-1691-03_131" resp="wordpro">
-        <head>[Jetons de l’année 1691]*</head>
+        <head resp="editor">Jetons de l’année 1691</head>
         <bibl><title>Mercure galant</title>, mars 1691 [tome 3], p. 131-132.</bibl>
         <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : Les
           Jettons doivent regarder la page 131.</note>
@@ -955,7 +955,7 @@
           tres-grand prix.</p>
       </div>
       <div type="article" xml:id="MG-1691-03_164" resp="wordpro">
-        <head>[Mort de l’abbé de Belebat]*</head>
+        <head resp="editor">Mort de l’abbé de Belebat</head>
         <bibl><title>Mercure galant</title>, mars 1691 [tome 3], p. 164-167.</bibl>
         <p/>
         <p>Il me reste à vous apprendre sur cette triste matiere, que M<hi rend="sup">r</hi> l’Abbé
@@ -1233,7 +1233,7 @@
           avoit eu de force sur le cœur du Cavalier.</p>
       </div>
       <div type="article" xml:id="MG-1691-03_210" resp="wordpro">
-        <head>[Poème sur le prince d’Orange]*</head>
+        <head resp="editor">Poème sur le prince d’Orange</head>
         <bibl><title>Mercure galant</title>, mars 1691 [tome 3], p. 210-217.</bibl>
         <p/>
         <p>Je vous promis dans ma Lettre du mois passé de vous entretenir dans celle-cy du Voyage du
@@ -1316,7 +1316,7 @@
         </quote>
       </div>
       <div type="article" xml:id="MG-1691-03_284" resp="mercure">
-        <head>[Article des Enigmes, extrait]*</head>
+        <head resp="editor">Article des Enigmes, extrait</head>
         <bibl><title>Mercure galant</title>, mars 1691 [tome 3], p. 284-293.</bibl>
         <p/>
         <p>L'Enigme du mois passé<note resp="editor">Voir <ref target="MG-1691-02_293">l'énoncé de

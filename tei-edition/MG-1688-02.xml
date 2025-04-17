@@ -331,7 +331,7 @@
         </quote>
       </div>
       <div type="article" xml:id="MG-1688-02_051" resp="wordpro">
-        <head>[Mort de M. le Noble]*</head>
+        <head resp="editor">Mort de M. le Noble</head>
         <bibl><title>Mercure galant</title>, février 1688 [tome 2], p. 51-53</bibl>
         <p>M<hi rend="sup">r</hi> le Noble, Seigneur du Bellay &amp; de Thennelieres, cy-devant
           Lieutenant General, &amp; premier President au Bailliage de Troyes, mourut aussi dans le
@@ -951,7 +951,7 @@
           la peinture que l’on y en fait a son agrément.</p>
       </div>
       <div type="article" xml:id="MG-1688-02_146" resp="mercure">
-        <head>[Jetons]*</head>
+        <head resp="editor">Jetons</head>
         <bibl><title>Mercure galant</title>, février 1688 [tome 2], p. 146-147</bibl>
         <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : Les
           Jettons doivent regarder la planche 146.</note>

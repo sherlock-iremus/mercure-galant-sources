@@ -1010,7 +1010,7 @@
         </quote>
       </div>
       <div type="article" xml:id="MG-1690-02_151" resp="wordpro">
-        <head>[Description des jetons de l'année]*</head>
+        <head resp="editor">Description des jetons de l'année</head>
         <bibl><title>Mercure galant</title>, février 1690 [tome 2], p. 151-160.</bibl>
         <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> :
           L’Estampe des Jettons, doit regarder la page 151.</note>
@@ -1114,7 +1114,7 @@
           jamais veu de cette nature.</p>
       </div>
       <div type="article" xml:id="MG-1690-02_214" resp="wordpro">
-        <head>[Mort de Mr Miton]*</head>
+        <head resp="editor">Mort de Mr Miton</head>
         <bibl><title>Mercure galant</title>, février 1690 [tome 2], p. 214-216.</bibl>
         <p>J’ay à vous apprendre une autre mort, qui vous fera regreter la perte que les Gens de
           Lettres ont faite icy depuis peu de jours. C’est celle du fameux M<hi rend="sup"

@@ -830,7 +830,7 @@
           connoissent.</p>
       </div>
       <div type="article" xml:id="MG-1678-07_108" resp="mercure">
-        <head>[Vers sur le voyage de la duchesse de Toscane à Caen]*</head>
+        <head resp="editor">Vers sur le voyage de la duchesse de Toscane à Caen</head>
         <bibl><title>Mercure galant</title>, juillet 1678 [tome 7], p. 108-135.</bibl>
         <p>Vous avez sçeu sans doute que Madame la Duchesse de Toscane a fait un voyage à Caën dans
           les premiers jours de ce Mois. Il faut vous en apprendre les particularitez. Ce que je
@@ -1829,7 +1829,7 @@
           n’eust la main aussi dangereuse que les yeux.</p>
       </div>
       <div type="article" xml:id="MG-1678-07_356" resp="mercure">
-        <head>[Explication en vers de la première Enigme du mois de juin]*</head>
+        <head resp="editor">Explication en vers de la première Enigme du mois de juin</head>
         <bibl><title>Mercure galant</title>, juillet 1678 [tome 7], p. 356-360.</bibl>
         <p>Monsieur le Duc de Saint Aignan est Autheur de la premiere des Enigmes du dernier Mois.
           Le vray Mot en a esté trouvé par M<hi rend="sup">r</hi> Giffon, de l’Académie Royale
@@ -1868,7 +1868,7 @@
           en Vers.</p>
       </div>
       <div type="article" xml:id="MG-1678-07_360" resp="mercure">
-        <head>[Explication en vers de la deuxième Enigme du mois de juin]*</head>
+        <head resp="editor">Explication en vers de la deuxième Enigme du mois de juin</head>
         <bibl><title>Mercure galant</title>, juillet 1678 [tome 7], p. 360-364.</bibl>
         <p>Vous trouverez celle de la seconde Enigme dans ce Madrigal.</p>
         <quote>
@@ -1904,7 +1904,7 @@
             Boule, &amp; la Lampe.</hi></p>
       </div>
       <div type="article" xml:id="MG-1678-07_364" resp="mercure">
-        <head>[Deux nouvelles énigmes]*</head>
+        <head resp="editor">Deux nouvelles énigmes</head>
         <bibl><title>Mercure galant</title>, juillet 1678 [tome 7], p. 364-367.</bibl>
         <p>Voicy deux nouvelles Enigmes. M<hi rend="sup">r</hi> Gardien Secretaire du Roy, a fait la
           premiere. L’autre est d’une Personne de qualité.</p>
@@ -1955,7 +1955,7 @@
         </quote>
       </div>
       <div type="article" xml:id="MG-1678-07_367" resp="mercure">
-        <head>[Explication de l’Enigme en figure]*</head>
+        <head resp="editor">Explication de l’Enigme en figure</head>
         <bibl><title>Mercure galant</title>, juillet 1678 [tome 7], p. 367-373.</bibl>
         <p>Ces diférentes Explications ont esté données à l'Enigme d'Antée &amp; d'Hercule.
           Messieurs Giffon, &amp; Poulain Armateur de la Ciutat, <hi rend="i">la Paix Generale</hi>
@@ -1999,7 +1999,7 @@
           l’air par Hercule.</p>
       </div>
       <div type="article" xml:id="MG-1678-07_373" resp="mercure">
-        <head>[Nouvelle Enigme en figure]*</head>
+        <head resp="editor">Nouvelle Enigme en figure</head>
         <bibl><title>Mercure galant</title>, juillet 1678 [tome 7], p. 373-375.</bibl>
         <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : L’Enigme
           en Figure, doit regarder la page 373.</note>
