@@ -67,7 +67,7 @@
    <head><hi rend="i">Extraordinaire du Mercure Galant</hi>, quartier de janvier 1681 (tome
     XIII).</head>
    <div type="article" xml:id="MG-1681-03e_001">
-    <head>[Avant-propos]*</head>
+    <head resp="editor">Avant-propos</head>
     <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1681 (tome XIII),
      p. 1-2.</bibl>
     <p><hi rend="i">Voicy, Madame, la treiziéme Lettre Extraordinaire que je vous écris, depuis que
@@ -83,7 +83,7 @@
       que vous la voyiez entiere. C’est par elle que je commence la mienne.</hi></p>
    </div>
    <div type="article" xml:id="MG-1681-03e_003">
-    <head>[Lettre de réponses aux questions du dernier extraordinaire]*</head>
+    <head resp="editor">Lettre de réponses aux questions du dernier extraordinaire</head>
     <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1681 (tome XIII),
      p. 3-13.</bibl>
     <quote>
@@ -441,7 +441,7 @@
     </quote>
    </div>
    <div type="article" xml:id="MG-1681-03e_089">
-    <head>[Madrigaux sur les énigmes précédentes]*</head>
+    <head resp="editor">Madrigaux sur les énigmes précédentes</head>
     <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1681 (tome XIII),
      p. 89-91.</bibl>
     <p><hi rend="i">On m’a seulement envoyé quatre Madrigaux sur les Enigmes du Mois de Decembre,
@@ -670,7 +670,7 @@
     </quote>
    </div>
    <div type="article" xml:id="MG-1681-03e_121">
-    <head>[Lettre de De Lignières à Madame ***]*</head>
+    <head resp="editor">Lettre de De Lignières à Madame ***</head>
     <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1681 (tome XIII),
      p. 121-125.</bibl>
     <p><hi rend="i">La Lettre qui suit a esté écrite à une Princesse plus considérable encor par ses
@@ -1634,7 +1634,7 @@
     </quote>
    </div>
    <div type="article" xml:id="MG-1681-03e_259">
-    <head>[Explications en vers des énigmes précédentes]*</head>
+    <head resp="editor">Explications en vers des énigmes précédentes</head>
     <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1681 (tome XIII),
      p. 259-268.</bibl>
     <p><hi rend="i">Les Enigmes du Mois de Janvier, dont les Mots estoient</hi> la Bassete, <hi
@@ -2038,7 +2038,7 @@
     </quote>
    </div>
    <div type="article" xml:id="MG-1681-03e_296a">
-    <head>[Publication d'une vue du palais du Prado]*</head>
+    <head resp="editor">Publication d'une vue du palais du Prado</head>
     <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1681 (tome XIII),
      p. 296.</bibl><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : La Figure où
       est représentée la <hi rend="i">Casa Real del Pardo</hi>, doit regarder la page
@@ -2049,7 +2049,7 @@
       loisir ce qu’elle a de remarquable.</hi></p>
    </div>
    <div type="article" xml:id="MG-1681-03e_296b">
-    <head>[Clef d’une lettre codée]*</head>
+    <head resp="editor">Clef d’une lettre codée</head>
     <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1681 (tome XIII),
      p. 296-307.</bibl>
     <p><hi rend="i">Je viens à la Lettre du Spirituel Berger des Rives du Tarn, qui sous un sens
@@ -2256,7 +2256,7 @@
     </quote>
    </div>
    <div type="article" xml:id="MG-1681-03e_317">
-    <head>[Explication de l’histoire énigmatique]*</head>
+    <head resp="editor">Explication de l’histoire énigmatique</head>
     <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1681 (tome XIII),
      p. 317-322.</bibl>
     <quote>
@@ -2378,7 +2378,7 @@
     </quote>
    </div>
    <div type="article" xml:id="MG-1681-03e_326">
-    <head>[Sur les question de l’Extraordinaire d’Octobre 1680]*</head>
+    <head resp="editor">Sur les question de l’Extraordinaire d’Octobre 1680</head>
     <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1681 (tome XIII),
      p. 326-336.</bibl>
     <quote>
@@ -2575,7 +2575,7 @@
     </quote>
    </div>
    <div type="article" xml:id="MG-1681-03e_350">
-    <head>[Explications en vers des énigmes précédentes]*</head>
+    <head resp="editor">Explications en vers des énigmes précédentes</head>
     <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1681 (tome XIII),
      p. 350-381.</bibl>
     <p><hi rend="i">Je vous manday la derniere fois que les vrays Mots des deux Enigmes en Vers,
@@ -3362,7 +3362,7 @@
     </quote>
    </div>
    <div type="article" xml:id="MG-1681-03e_381">
-    <head>[Explication de l’énigme en figure de février]*</head>
+    <head resp="editor">Explication de l’énigme en figure de février</head>
     <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1681 (tome XIII),
      p. 381-382.</bibl>
     <p><hi rend="i">Vous remarquerez, Madame, que les trois dernieres de ces Explications renferment

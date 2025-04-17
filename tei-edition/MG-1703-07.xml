@@ -216,7 +216,7 @@
           </quote>
         </div>
         <div type="article" xml:id="MG-1703-07_46">
-          <head>[Lettre remplie d’érudition] [Sur les Nouveaux Essais Critiques de Prose &amp; de Poësie]*</head>
+          <head resp="editor">Lettre remplie d’érudition] [Sur les Nouveaux Essais Critiques de Prose &amp; de Poësie</head>
           <bibl><title>Mercure galant</title>, juillet 1703 [tome 7], p. 46-47.</bibl>
           <quote>
             <p><hi rend="i">J’ay lû avec plaisir les Nouveaux</hi> Essais Critiques de Prose &amp;
@@ -237,7 +237,7 @@
           </quote>
         </div>
         <div type="article" xml:id="MG-1703-07_49">
-          <head>[Cérémonie au Mans]*</head>
+          <head resp="editor">Cérémonie au Mans</head>
           <bibl><title>Mercure galant</title>, juillet 1703 [tome 7], p. 49-51.</bibl>
           <p>Les frequentes &amp; longues pluyes qui desoloient depuis plusieurs mois la Province du
             Maine, faisant avec raison craindre pour la recolte : M<hi rend="sup">r</hi> l’Evesque
@@ -1720,7 +1720,7 @@
             d’or.</p>
         </div>
         <div type="article" xml:id="MG-1703-07_285">
-          <head>[Lettre du roi à Mgr l’archevêque de Paris]*</head>
+          <head resp="editor">Lettre du roi à Mgr l’archevêque de Paris</head>
           <bibl><title>Mercure galant</title>, juillet 1703 [tome 7], p. 285-290.</bibl>
           <p>Je vous envoye la Lettre du Roy écrite à M<hi rend="sup">r</hi> l’Archevêque de Paris
             pour faire chanter le <hi rend="i">Te Deum.</hi></p>

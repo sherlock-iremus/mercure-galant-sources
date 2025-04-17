@@ -62,7 +62,7 @@
   <text>
     <body>
       <div type="article" xml:id="MG-1682-09b_004">
-        <head>[Madrigal.]*</head>
+        <head resp="editor">Madrigal.</head>
         <bibl><title>Mercure galant</title>, septembre 1682 (seconde partie) [tome 10],
           p. 4-5.</bibl>
         <p>[...] Voicy un Madrigal qui a esté fait sur la facilité qu’il a toûjours euë à prendre
@@ -176,7 +176,7 @@
         </quote>
       </div>
       <div type="article" xml:id="MG-1682-09b_015">
-        <head>[Lettre du médecin blayois sur les réjouissances de Bordeaux]*</head>
+        <head resp="editor">Lettre du médecin blayois sur les réjouissances de Bordeaux</head>
         <bibl><title>Mercure galant</title>, septembre 1682 (seconde partie) [tome 10], p.15-25,
           27,29-44, 47-51, 54-62.</bibl>
         <p/>
@@ -505,7 +505,7 @@
           Vaisseaux.[...]</p>
       </div>
       <div type="article" xml:id="MG-1682-09b_068">
-        <head>[Réjouissances à Vannes pour la naissance du duc de Bourgogne]*</head>
+        <head resp="editor">Réjouissances à Vannes pour la naissance du duc de Bourgogne</head>
         <bibl><title>Mercure galant</title>, septembre 1682 (seconde partie) [tome 10], p. 68,
           74-81..</bibl>
         <p/>
@@ -578,7 +578,7 @@
         </quote>
       </div>
       <div type="article" xml:id="MG-1682-09b_082">
-        <head>[Vers sur l’illumination des galeries du Louvre.]*</head>
+        <head resp="editor">Vers sur l’illumination des galeries du Louvre.</head>
         <bibl><title>Mercure galant</title>, septembre 1682 (seconde partie) [tome 10],
           p. 82-86.</bibl>
         <p>Cette Naissance a donné lieu à ces autres Vers, dont vous trouverez le tour aisé. Ils
@@ -653,7 +653,7 @@
         </quote>
       </div>
       <div type="article" xml:id="MG-1682-09b_086">
-        <head>[Impromptu.]*</head>
+        <head resp="editor">Impromptu.</head>
         <bibl><title>Mercure galant</title>, septembre 1682 (seconde partie) [tome 10],
           p. 86-87.</bibl>
         <p/>
@@ -693,7 +693,7 @@
         </quote>
       </div>
       <div type="article" xml:id="MG-1682-09b_088">
-        <head>[Aventure.]*</head>
+        <head resp="editor">Aventure.</head>
         <bibl><title>Mercure galant</title>, septembre 1682 (seconde partie) [tome 10],
           p. 88-125.</bibl>
         <p/>
@@ -910,7 +910,7 @@
           toûjours son vieil Epoux, &amp; son vieil Epoux ne sert plus à sa vangeance.</p>
       </div>
       <div type="article" xml:id="MG-1682-09b_125">
-        <head>[Réjouissances à Montpellier pour la naissance du duc de Bourgogne]*</head>
+        <head resp="editor">Réjouissances à Montpellier pour la naissance du duc de Bourgogne</head>
         <bibl><title>Mercure galant</title>, septembre 1682 (seconde partie) [tome 10], p. 125-130,
           134-137.</bibl>
         <p/>
@@ -960,7 +960,7 @@
           dura environ deux heures. [...]</p>
       </div>
       <div type="article" xml:id="MG-1682-09b_142">
-        <head>[Réjouissances à Grenoble pour la naissance du duc de Bourgogne]*</head>
+        <head resp="editor">Réjouissances à Grenoble pour la naissance du duc de Bourgogne</head>
         <bibl><title>Mercure galant</title>, septembre 1682 (seconde partie) [tome 10], p. 142-143,
           145-152.</bibl>
         <p/>
@@ -1015,7 +1015,7 @@
           sortirent pour voir allumer le Feu. [...]</p>
       </div>
       <div type="article" xml:id="MG-1682-09b_163">
-        <head>[Réjouissances à Vienne pour la naissance du duc de Bourgogne]*</head>
+        <head resp="editor">Réjouissances à Vienne pour la naissance du duc de Bourgogne</head>
         <bibl><title>Mercure galant</title>, septembre 1682 (seconde partie) [tome 10], p.
           163-164.</bibl>
         <p/>
@@ -1142,7 +1142,7 @@
         </quote>
       </div>
       <div type="article" xml:id="MG-1682-09b_175">
-        <head>[Sonnets de M<hi rend="sup">r</hi> l’Abbé de la Volpiliere.]*</head>
+        <head resp="editor">Sonnets de M<hi rend="sup">r</hi> l’Abbé de la Volpiliere.</head>
         <bibl><title>Mercure galant</title>, septembre 1682 (seconde partie) [tome 10],
           p. 175-178.</bibl>
         <p/>
@@ -1209,7 +1209,7 @@
         </quote>
       </div>
       <div type="article" xml:id="MG-1682-09b_179">
-        <head>[Sonnet de M<hi rend="sup">r</hi> du Mas de Joigny.]*</head>
+        <head resp="editor">Sonnet de M<hi rend="sup">r</hi> du Mas de Joigny.</head>
         <bibl><title>Mercure galant</title>, septembre 1682 (seconde partie) [tome 10],
           p. 179-180.</bibl>
         <quote>
@@ -1242,7 +1242,7 @@
         </quote>
       </div>
       <div type="article" xml:id="MG-1682-09b_183">
-        <head>[Concert pour la Dauphine]*</head>
+        <head resp="editor">Concert pour la Dauphine</head>
         <bibl><title>Mercure galant</title>, septembre 1682 (seconde partie) [tome 10], p.
           183-187.</bibl>
         <p/>
@@ -1275,7 +1275,7 @@
           toutes choses.</p>
       </div>
       <div type="article" xml:id="MG-1682-09b_187">
-        <head>[Réjouissances pour la naissance du duc de Bourgogne à Tours]*</head>
+        <head resp="editor">Réjouissances pour la naissance du duc de Bourgogne à Tours</head>
         <bibl><title>Mercure galant</title>, septembre 1682 (seconde partie) [tome 10], p.
           187-202.</bibl>
         <p/>
@@ -1389,7 +1389,7 @@
           vous aurez lû la Lettre qui suit.</p>
       </div>
       <div type="article" xml:id="MG-1682-09b_204">
-        <head>[Lettre de Candes]*</head>
+        <head resp="editor">Lettre de Candes</head>
         <bibl><title>Mercure galant</title>, septembre 1682 (seconde partie) [tome 10], p. 204-206,
           212-214.</bibl>
         <p/>
@@ -1428,7 +1428,7 @@
             Regne de LOUIS XIV. ne peuvent servir qu'à des réjoüissances.</hi></p>
       </div>
       <div type="article" xml:id="MG-1682-09b_215">
-        <head>[Réjouissances pour la naissance du duc de Bourgogne à Limoges]*</head>
+        <head resp="editor">Réjouissances pour la naissance du duc de Bourgogne à Limoges</head>
         <bibl><title>Mercure galant</title>, septembre 1682 (seconde partie) [tome 10], p.
           215.</bibl>
         <p/>
@@ -1439,7 +1439,7 @@
           avec grande pompe.</p>
       </div>
       <div type="article" xml:id="MG-1682-09b_218">
-        <head>[Explications de devises par des vers de Charles Perrault.]*</head>
+        <head resp="editor">Explications de devises par des vers de Charles Perrault.</head>
         <bibl><title>Mercure galant</title>, septembre 1682 (seconde partie) [tome 10],
           p. 218-226.</bibl>
         <p/>
@@ -1518,7 +1518,7 @@
           Petit-Fils.</p>
       </div>
       <div type="article" xml:id="MG-1682-09b_229">
-        <head>[Réjouissances à Paris pour la naissance du duc de Bourgogne]*</head>
+        <head resp="editor">Réjouissances à Paris pour la naissance du duc de Bourgogne</head>
         <bibl><title>Mercure galant</title>, septembre 1682 (seconde partie) [tome 10], p. 229-233,
           235-237.</bibl>
         <p/>
@@ -1555,7 +1555,7 @@
           Feste.</p>
       </div>
       <div type="article" xml:id="MG-1682-09b_240">
-        <head>[Réjouissances à Melun pour la naissance du duc de Bourgogne]*</head>
+        <head resp="editor">Réjouissances à Melun pour la naissance du duc de Bourgogne</head>
         <bibl><title>Mercure galant</title>, septembre 1682 (seconde partie) [tome 10], p.
           240-241.</bibl>
         <p/>
@@ -1570,7 +1570,7 @@
           Ville.</p>
       </div>
       <div type="article" xml:id="MG-1682-09b_242">
-        <head>[Réjouissances au Havre et distiques.]*</head>
+        <head resp="editor">Réjouissances au Havre et distiques.</head>
         <bibl><title>Mercure galant</title>, septembre 1682 (seconde partie) [tome 10],
           p. 242-262.</bibl>
         <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : La
@@ -1871,7 +1871,7 @@
           occasions, &amp; n’en a point fait qu’on n’ait leûs avec plaisir.</p>
       </div>
       <div type="article" xml:id="MG-1682-09b_275">
-        <head>[Mariage à l’hôtel de Saint-Aignan.]*</head>
+        <head resp="editor">Mariage à l’hôtel de Saint-Aignan.</head>
         <bibl><title>Mercure galant</title>, septembre 1682 (seconde partie) [tome 10],
           p. 275-279.</bibl>
         <p>[...] M le Duc de S. Aignan, qui s’est toûjours distingué en tout, n’a pû recevoir
@@ -1900,7 +1900,7 @@
           fait aussi renouveler ses Provisions.</p>
       </div>
       <div type="article" xml:id="MG-1682-09b_288">
-        <head>[Réjouissances à Marseille pour la naissance du duc de Bourgogne]*</head>
+        <head resp="editor">Réjouissances à Marseille pour la naissance du duc de Bourgogne</head>
         <bibl><title>Mercure galant</title>, septembre 1682 (seconde partie) [tome 10], p. 288-291,
           294-300, 304-305, 307-309.</bibl>
         <p/>
@@ -1962,7 +1962,7 @@
           joüir de ce plaisir.</p>
       </div>
       <div type="article" xml:id="MG-1682-09b_311">
-        <head>[Devises provenant de Dijon.]*</head>
+        <head resp="editor">Devises provenant de Dijon.</head>
         <bibl><title>Mercure galant</title>, septembre 1682 (seconde partie) [tome 10],
           p. 311-321.</bibl>
         <p/>
@@ -2126,7 +2126,7 @@
           de Dijon.</p>
       </div>
       <div type="article" xml:id="MG-1682-09b_325">
-        <head>[Réjouissances à Compiègne pour la naissance du duc de Bourgogne]*</head>
+        <head resp="editor">Réjouissances à Compiègne pour la naissance du duc de Bourgogne</head>
         <bibl><title>Mercure galant</title>, septembre 1682 (seconde partie) [tome 10], p.
           325-330.</bibl>
         <p/>
@@ -2203,7 +2203,7 @@
         </quote>
       </div>
       <div type="article" xml:id="MG-1682-09b_331b" copyOf="JLB-MG-1682-09b_331" resp="angele">
-        <head>[Mort de M. l'Evêque de Bazas en Guyenne, suivie de celle de M. Testu]*</head>
+        <head resp="editor">Mort de M. l'Evêque de Bazas en Guyenne, suivie de celle de M. Testu</head>
         <bibl><title>Mercure galant</title>, septembre 1682 (seconde partie) [tome 10], p.
           331-334.</bibl>
         <p/>
@@ -2226,7 +2226,7 @@
           [...]</p>
       </div>
       <div type="article" xml:id="MG-1682-09b_335">
-        <head>[Réjouissances à Mont-Louis pour la naissance du duc de Bourgogne]*</head>
+        <head resp="editor">Réjouissances à Mont-Louis pour la naissance du duc de Bourgogne</head>
         <bibl><title>Mercure galant</title>, septembre 1682 (seconde partie) [tome 10], p.
           335-338.</bibl>
         <p/>
@@ -2251,7 +2251,7 @@
           de Vin.</p>
       </div>
       <div type="article" xml:id="MG-1682-09b_338">
-        <head>[Réjouissances à l'abbaye de Fontevraud pour la naissance du duc de Bourgogne]*</head>
+        <head resp="editor">Réjouissances à l'abbaye de Fontevraud pour la naissance du duc de Bourgogne</head>
         <bibl><title>Mercure galant</title>, septembre 1682 (seconde partie) [tome 10], p.
           338-339.</bibl>
         <p/>
@@ -2281,7 +2281,7 @@
             rend="i">Te Deum</hi> à la priere de cette illustre &amp; pieuse Abbesse.</p>
       </div>
       <div type="article" xml:id="MG-1682-09b_343">
-        <head>[Réjouissances à Bourg-en-Bresse pour la naissance du duc de Bourgogne]*</head>
+        <head resp="editor">Réjouissances à Bourg-en-Bresse pour la naissance du duc de Bourgogne</head>
         <bibl><title>Mercure galant</title>, septembre 1682 (seconde partie) [tome 10], p.
           343-346.</bibl>
         <p/>
@@ -2304,7 +2304,7 @@
           beaucoup de vertu, &amp; qui en donne tous les jours de grands exemples.</p>
       </div>
       <div type="article" xml:id="MG-1682-09b_347">
-        <head>[Réjouissances à Asnières-sur-Oise pour la naissance du duc de Bourgogne]*</head>
+        <head resp="editor">Réjouissances à Asnières-sur-Oise pour la naissance du duc de Bourgogne</head>
         <bibl><title>Mercure galant</title>, septembre 1682 (seconde partie) [tome 10], p.
             347-349.</bibl>
         <p/>

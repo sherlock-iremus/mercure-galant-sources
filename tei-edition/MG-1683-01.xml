@@ -66,7 +66,7 @@
     <body>
       <head><hi rend="i">Mercure galant</hi>, janvier 1683 [tome 1].</head>
       <div type="article" xml:id="MG-1683-01_001" resp="nbb">
-        <head>[Prélude]*</head>
+        <head resp="editor">Prélude</head>
         <bibl><title>Mercure galant</title>, janvier 1683 [tome 1], p. 1-3</bibl>
         <p>J’ay presque toûjours commencé ma premiere Lettre de chaque Année, par un abregé des
           Eloges du Roy, répandus dans celles des onze derniers Mois de la précedente. Je m’en
@@ -919,7 +919,7 @@
             dispositions à persuader &amp; à plaire dans l'Art Oratoire.</hi></p>
       </div>
       <div type="article" xml:id="MG-1683-01_147" resp="angele">
-        <head>[Air de Violon]*</head>
+        <head resp="editor">Air de Violon</head>
         <bibl><title>Mercure galant</title>, janvier 1683 [tome 1], p. 147-148.</bibl>
         <p>Les Airs de Violon<note resp="author" place="margin"><hi rend="i">Avis pour placer les
               Figures</hi> : l’Air de Violon, doit regarder la page 147.</note> qui estoient dans ma
@@ -1283,7 +1283,7 @@
         </quote>
       </div>
       <div type="article" xml:id="MG-1683-01_248" resp="mercure">
-        <head>[Piece de Lut de M<hi rend="sup">r</hi> Gallot]*</head>
+        <head resp="editor">Piece de Lut de M<hi rend="sup">r</hi> Gallot</head>
         <bibl><title>Mercure galant</title>, janvier 1683 [tome 1], p. 248-249.</bibl>
         <p>Comme je sçay que vous estimez beaucoup M<hi rend="sup">r</hi> Gallot,<note resp="author"
             place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : la Piece de Lut, doit
@@ -1656,7 +1656,7 @@
           tres-bien entendus, &amp; d'une façon toute singuliere.</p>
       </div>
       <div type="article" xml:id="MG-1683-01_324" resp="nbb">
-        <head>[Vers à M. de Fourcy]*</head>
+        <head resp="editor">Vers à M. de Fourcy</head>
         <bibl><title>Mercure galant</title>, janvier 1683 [tome 1], p. 324-326</bibl>
         <p>Le Roy ayant nommé M<hi rend="sup">r</hi> le Président de Fourcy pour remplir la place de
           Prevost des Marchands, apres M<hi rend="sup">r</hi> de Pomereu, ce Président reçeut le

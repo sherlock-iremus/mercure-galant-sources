@@ -706,7 +706,7 @@
         </quote>
       </div>
       <div type="article" xml:id="MG-1692-03_175" resp="wordpro">
-        <head>[Nouvelle médaille]*</head>
+        <head resp="editor">Nouvelle médaille</head>
         <bibl><title>Mercure galant</title>, mars 1692 [tome 3], p. 175-176.</bibl>
         <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : La
           Medaille doit regarder la page 175.</note>
@@ -1102,7 +1102,7 @@
         </ref>
       </div>
       <div type="article" xml:id="MG-1692-03_269" resp="wordpro">
-        <head>[Mort de Messire Anne Hedelin]*</head>
+        <head resp="editor">Mort de Messire Anne Hedelin</head>
         <bibl><title>Mercure galant</title>, mars 1692 [tome 3], p. 269-271.</bibl>
         <p>On a eu avis de Nemours que Messire Anne Hedelin, Seigneur du Martroy, Chaufour, &amp;
           autres lieux, ancien President, Lieutenant General, Maistre des Eaux &amp; Forests, &amp;

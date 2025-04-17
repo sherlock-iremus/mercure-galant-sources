@@ -67,7 +67,7 @@
     <body>
       <head><hi rend="i">Mercure galant</hi>, octobre 1683 (premiere partie) [tome 11].</head>
       <div type="article" xml:id="MG-1683-10a_010" resp="nbb">
-        <head>[Devise de M. Magnin]*</head>
+        <head resp="editor">Devise de M. Magnin</head>
         <bibl><title>Mercure galant</title>, octobre 1683 (premiere partie) [tome 11],
           p. 10-11.</bibl>
         <p>Voyez, Madame, si quand ce grand Prince fait tant de choses dignes du haut rang où Dieu
@@ -88,7 +88,7 @@
         </quote>
       </div>
       <div type="article" xml:id="MG-1683-10a_027" resp="nbb">
-        <head>[Devises pour le service de la reine fait à Chauny]*</head>
+        <head resp="editor">Devises pour le service de la reine fait à Chauny</head>
         <bibl><title>Mercure galant</title>, octobre 1683 (premiere partie) [tome 11],
           p. 27-34.</bibl>
         <p>Le mesme jour 19. les Minimes de la Ville de Chauny, firent un Service des plus
@@ -1006,7 +1006,7 @@
         </quote>
       </div>
       <div type="article" xml:id="MG-1683-10a_321" resp="angele">
-        <head>[Planche notée]*</head>
+        <head resp="editor">Planche notée</head>
         <bibl><title>Mercure galant</title>, octobre 1683 (premiere partie) [tome 11],
           p. 321-323.</bibl>
         <p>Quoy que les anciens Noëls soient communs<note resp="author" place="margin"><hi rend="i"

@@ -66,7 +66,7 @@
     <body>
       <head><hi rend="i"> Mercure galant</hi>, janvier 1692 [tome 1].</head>
       <div type="article" xml:id="MG-1692-01a_081" resp="wordpro">
-        <head>[Sonnet pour une personne qui a renoncé au monde]*</head>
+        <head resp="editor">Sonnet pour une personne qui a renoncé au monde</head>
         <bibl><title>Mercure galant</title>, janvier 1692 [tome 1], p. 81-83.</bibl>
         <p>Voicy un Sonnet qui a esté fait pour une autre personne qui a depuis peu renoncé au
           monde, &amp; pris l’Habit de Religieuse.</p>
@@ -253,7 +253,7 @@
         </quote>
       </div>
       <div type="article" xml:id="MG-1692-01a_094" resp="wordpro">
-        <head>[Quatrain sur le corps d’une momie d’Egypte]*</head>
+        <head resp="editor">Quatrain sur le corps d’une momie d’Egypte</head>
         <bibl><title>Mercure galant</title>, janvier 1692 [tome 1], p. 94-95.</bibl>
         <p>Le Voyageur qui le montre aux curieux, pretend que ce soit celuy d’une Princesse
           d’Egipte, descendue du sang des anciens Rois. C’est là-dessus que l’on a fait ce
@@ -560,7 +560,7 @@
           sera un nouvel article pour la premiere Lettre que vous recevrez de moy.</p>
       </div>
       <div type="article" xml:id="MG-1692-01a_191" resp="wordpro">
-        <head>[Article XI de la Capitulation de Limerick]*</head>
+        <head resp="editor">Article XI de la Capitulation de Limerick</head>
         <bibl><title>Mercure galant</title>, janvier 1692 [tome 1], p. 191-193.</bibl>
         <quote>
           <label>XI.</label>
@@ -578,7 +578,7 @@
         </quote>
       </div>
       <div type="article" xml:id="MG-1692-01a_204" resp="wordpro">
-        <head>[Article XXV de la Capitulation de Limerick]*</head>
+        <head resp="editor">Article XXV de la Capitulation de Limerick</head>
         <bibl><title>Mercure galant</title>, janvier 1692 [tome 1], p. 204-205.</bibl>
         <quote>
           <label>XXV.</label>
@@ -592,7 +592,7 @@
         </quote>
       </div>
       <div type="article" xml:id="MG-1692-01a_211" resp="wordpro">
-        <head>[Roi d’Angleterre reçu au cloître Saint-Martin près de Tours]*</head>
+        <head resp="editor">Roi d’Angleterre reçu au cloître Saint-Martin près de Tours</head>
         <bibl><title>Mercure galant</title>, janvier 1692 [tome 1], p. 211-214.</bibl>
         <p>Sa Majesté descendit au Cloistre de S. Martin, dans la Maison de M<hi rend="sup">r</hi>
           l’Abbé Milon, Chanoine de l’Eglise de Tours, &amp; Elle y fut traitée magnifiquement avec
@@ -615,7 +615,7 @@
           l’Eglise.</p>
       </div>
       <div type="article" xml:id="MG-1692-01a_229" resp="wordpro">
-        <head>[Mort de Messire Gabriel Remon]*</head>
+        <head resp="editor">Mort de Messire Gabriel Remon</head>
         <bibl><title>Mercure galant</title>, janvier 1692 [tome 1], p. 229-231.</bibl>
         <p>Le 30 du mesme mois, l’Eglise de Tours perdit Messire Gabriel Remon, qui en estoit
           Chanoine dés l’an 1618. &amp; Prevost de Leré. Il s’estoit rendu recommandable par son
@@ -923,7 +923,7 @@
         </quote>
       </div>
       <div type="article" xml:id="MG-1692-01a_288" resp="wordpro">
-        <head>[Nouvelle Médaille]*</head>
+        <head resp="editor">Nouvelle Médaille</head>
         <bibl><title>Mercure galant</title>, janvier 1692 [tome 1], p. 288-289.</bibl>
         <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : La
           Medaille doit regarder la page 288.</note>
@@ -936,7 +936,7 @@
           Royaume dont il prend la conduite.</p>
       </div>
       <div type="article" xml:id="MG-1692-01a_299" resp="mercure">
-        <head>[Loterie chez M. Philidor]*</head>
+        <head resp="editor">Loterie chez M. Philidor</head>
         <bibl><title>Mercure Galant</title>, janvier 1692, p. 299-302.</bibl>
         <p>Pour vous répondre sur ce que vous demandez si les Lotteries<note resp="editor">Pour les loteries, voir aussi <ref target="MG-1692-10_306">cet article</ref>
           et <ref target="MG-1692-11_261">cet article</ref>.</note> font encore un des

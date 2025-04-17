@@ -66,7 +66,7 @@
     <body>
       <head><hi rend="i">Mercure galant</hi>, décembre 1681 [tome 13].</head>
       <div type="article" xml:id="MG-1681-12_016">
-        <head>[Panégyrique du Roy adressé à Messieurs de l’Académie Royale d’Arles]*</head>
+        <head resp="editor">Panégyrique du Roy adressé à Messieurs de l’Académie Royale d’Arles</head>
         <bibl><title>Mercure galant</title>, décembre 1681 [tome 13], p. 16-18.</bibl>
         <p>Strasbourg &amp; Cazal ayant fait parler toute l’Europe, ont esté une féconde &amp;
           glorieuse matiere pour M<hi rend="sup">rs</hi> de l’Académie Royale d’Arles, dont la plus
@@ -155,7 +155,7 @@
           Lys.</p>
       </div>
       <div type="article" xml:id="MG-1681-12_042" resp="louise">
-        <head>[Devises à l'occasion de la reddition de Strasbourg]*</head>
+        <head resp="editor">Devises à l'occasion de la reddition de Strasbourg</head>
         <bibl><title>Mercure galant</title>, décembre 1681 [tome 13], p. 42-47.</bibl>
         <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : Les
           Devises doivent regarder la page 42.</note>
@@ -1014,7 +1014,7 @@
         </quote>
       </div>
       <div type="article" xml:id="MG-1681-12_281a">
-        <head>[Enigme en figure]*</head>
+        <head resp="editor">Enigme en figure</head>
         <bibl><title>Mercure galant</title>, décembre 1681 [tome 13], p. 281.</bibl>
         <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : L’Enigme
           en figure doit regarder la page 281.</note>
@@ -1364,7 +1364,7 @@
           presque toutes les Nations polies.</p>
       </div>
       <div type="article" xml:id="MG-1681-12_337">
-        <head>[Chanson]*</head>
+        <head resp="editor">Chanson</head>
         <bibl><title>Mercure galant</title>, décembre 1681 [tome 13], p. 337-338.</bibl>
         <p>Adieu, Madame. Le temps me presse si fort de finir ma Lettre, que je vous laisse chercher
           les Paroles de la seconde Chanson que je vous envoye, parmy les Notes qui vous apprendront

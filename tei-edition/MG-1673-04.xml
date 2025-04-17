@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--  -->
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" n="MG-1673-04" xml:lang="fre">
+<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="MG-1673-04" xml:lang="fre">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -31,36 +32,39 @@
       </editionStmt>
       <publicationStmt>
         <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2014"/>
+        <date when="2014" />
         <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1673-04/</idno>
         <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
-    Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-<p>Cette ressource électronique protégée par le code de la propriété intellectuelle
-    sur les bases de données (L341-1) est mise à disposition de la communauté
-    scientifique internationale par l’OBVIL, selon les termes de la licence Creative
-    Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification
-    3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
-<p>Attribution : afin de référencer la source, toute utilisation ou publication
-    dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout
-    l’adresse Internet de la ressource.</p>
-<p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique,
-    toute utilisation commerciale est interdite.</p>
-<p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-    électronique, notamment en intégrant toutes les contributions extérieures, la
-    diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p></licence>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
+              Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle
+              sur les bases de données (L341-1) est mise à disposition de la communauté
+              scientifique internationale par l’OBVIL, selon les termes de la licence Creative
+              Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification
+              3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication
+              dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout
+              l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique,
+              toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+              électronique, notamment en intégrant toutes les contributions extérieures, la
+              diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Le Mercure galant, tome IV</title>, <publisher>Claude Barbin</publisher>, <date>1673</date>.</bibl>
+        <bibl><title>Le Mercure galant, tome IV</title>, <publisher>Claude Barbin</publisher>, <date>
+          1673</date>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1673"/>
+        <date when="1673" />
       </creation>
       <langUsage>
-        <language ident="fre"/>
+        <language ident="fre" />
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -70,18 +74,18 @@
       <div type="article" xml:id="MG-1673-04_000" resp="mercure">
         <head>Au Lecteur</head>
         <bibl><title>Le Mercure galant</title>, 1673 (tome IV), p. [I-III].</bibl>
-        <p>JE ne dois pas me plaindre du succez du <hi rend="italic">Mercure Galant</hi> ; On l’a contrefait
-            en tant d’endroits, que j’ay lieu de croire que le debit en a esté tres-grand. Mes
-            Libraires n’en doivent pas estre si satisfaits, &amp; les Impressions qu’on en a faites
-            à Lyon, Vezel, Utrech, Amsterdam, &amp; autres Lieux, ont fait beaucoup de tort à celle
-            de Paris : Ce n’est pas qu’elle ne soit beaucoup plus correcte, &amp;
-            l’on n’en doit pas douter, puis que les Copies égalent rarement les Originaux. Je dois
-            donc avertir le Lecteur, que ceux qui n’ont pas acheté ou acheter le <hi rend="italic">Mercure galant</hi> à
-            Paris, n’ont que des Exemplaires remplis de fautes tres-considerables, puis qu’elles
-            changent le sens en beaucoup d’endroits, &amp; que la plupart des Noms de ceux dont j’ay
-            parlé font tellement défigurez, qu’à peine en peut-on reconnoistre la moitié ; C’est à
-            quoy le Lecteur doit prendre garde. Je le prie aussi de se souvenir que l’on vendra sans
-            y manquer le premier jour d’Aoust prochain, le Cinquiéme Tome du <hi rend="italic">Mercure
+        <p>JE ne dois pas me plaindre du succez du <hi rend="italic">Mercure Galant</hi> ; On l’a
+          contrefait en tant d’endroits, que j’ay lieu de croire que le debit en a esté tres-grand.
+          Mes Libraires n’en doivent pas estre si satisfaits, &amp; les Impressions qu’on en a
+          faites à Lyon, Vezel, Utrech, Amsterdam, &amp; autres Lieux, ont fait beaucoup de tort à
+          celle de Paris : Ce n’est pas qu’elle ne soit beaucoup plus correcte, &amp; l’on n’en doit
+          pas douter, puis que les Copies égalent rarement les Originaux. Je dois donc avertir le
+          Lecteur, que ceux qui n’ont pas acheté ou acheter le <hi rend="italic">Mercure galant</hi>
+          à Paris, n’ont que des Exemplaires remplis de fautes tres-considerables, puis qu’elles
+          changent le sens en beaucoup d’endroits, &amp; que la plupart des Noms de ceux dont j’ay
+          parlé font tellement défigurez, qu’à peine en peut-on reconnoistre la moitié ; C’est à
+          quoy le Lecteur doit prendre garde. Je le prie aussi de se souvenir que l’on vendra sans y
+          manquer le premier jour d’Aoust prochain, le Cinquiéme Tome du <hi rend="italic">Mercure
           Galant</hi>.</p>
       </div>
       <div type="article" xml:id="MG-1673-04_001" resp="mercure">
@@ -156,8 +160,8 @@
           &amp; n’oza plus le regarder. Le Prince lia conversation avec Lucille, &amp; l’ayant
           pressée obligeamment de luy dire tout ce qu’il souhaitoit d’aprendre, il eut d’elle tout
           l’éclaircissement qu’il desiroit. À peine eut-il appris tout ce qu’il vouloit sçavoir,
-          qu’il se tourna vers tous ceux qui estoient autour de luy, &amp; <hi rend="b"/>leur dit le
-          nom de Celie, le lieu de sa naissance, les noms de ses Parens, ceux qui vivoient encor,
+          qu’il se tourna vers tous ceux qui estoient autour de luy, &amp; <hi rend="b" />leur dit
+          le nom de Celie, le lieu de sa naissance, les noms de ses Parens, ceux qui vivoient encor,
           &amp; ceux qui estoient en l’autre monde, &amp; il dit mesme jusques au nom de la demeure
           &amp; de l’Enseigne où elle demeuroit dans la Ville Capitale. Leonidas qui estoit chargé
           d’une partie des Affaires les plus importantes de l’Estat, qui depuis long-temps estoit
@@ -168,7 +172,7 @@
           &amp; qu’à faire connoistre qu’elles n’estoient point de celles que le grand jour efface.
           La Salle fut à peine éclairée, qu’on servit la Collation. Tous les Admirateurs de Celie
           luy en envoyerent, tous les yeux furent attachez sur elle, elle fut le sujet de
-          l’entretien de la plus grande partie de Assemblée ; &amp; <hi rend="b"/>sa sœur la voyant
+          l’entretien de la plus grande partie de Assemblée ; &amp; <hi rend="b" />sa sœur la voyant
           accablée de caresses, de regards &amp; de Confitures, commença prudamment à se chagriner ;
           Elle appréhenda que tous ces honneurs, pour estre trop grands, ne tournassent à la fin en
           raillerie ; &amp; comme elle n’estoit venue que pour voir la Comedie, elle craignit de la
@@ -190,22 +194,23 @@
           ne souffriroit point qu’elles couchassent dans celle qu’elles avoient choisie. Lucille se
           douta bien que toutes ces galanteries ne venoient que du Prince ou de Leonidas, mais elle
           n’en témoigna rien. Elle ne se trompoit pas dans ces conjectures ; Leonidas avoit envoyé
-          querir l’Hoste, &amp; <hi rend="b"/>luy avoit parlé luy-mesme. Sa passion estoit devenuë
+          querir l’Hoste, &amp; <hi rend="b" />luy avoit parlé luy-mesme. Sa passion estoit devenuë
           si forte dés sa naissance, que depuis beaucoup de Siecles nous n’avons peut-estre point eu
           d’exemple d’une si violente ardeur. Quand les deux Sœurs furent couchées, l’aînée qui
-          avoit de l’esprit, fit reflexion sur tout ce qui s’estoit passé ; &amp; <hi rend="b"/>comme elle jugea de la suite par de si beaux commencemens, elle resolut de partir le
-          lendemain, &amp; mesme de grand matin, quoy que son dessein eut esté de rester quelques
-          jours à la Cour, pour faire voir à sa Sœur les Appartemens du Chasteau. Celie ne pût
-          apprendre cette Nouvelle, sans en soûpirer ; elle auroit volontiers demeuré plus
-          long-temps à la Cour, &amp; ce qui s’estoit passé ne l’en avoit point rebutée ; Elle n’en
-          témoigna toutefois rien à sa Sœur, &amp; <hi rend="b"/>partit dés le lendemain avec elle.
-          Lucille qui se douta bien que l’Hoste avoit esté gagné, ne luy fit point connoistre son
-          dessein, &amp; luy dit seulement en sortant de chez luy, qu’elle alloit à l’Eglise. Deux
-          heures apres leur départ, Leonidas envoya sçavoir de leurs nouvelles. Son Messager y
-          revint plusieurs fois, &amp; cet Amant ayant sçeu qu’on ne les pouvoit trouver, les fit
-          chercher par tout : Il ne les crût toutefois point parties jusques au soir ; mais quand la
-          nuit fut venuë, il ne douta plus de leur départ. Il en eut un chagrin qui ne se peut qu’à
-          peine concevoir ; mais il auroit esté au desespoir, s’il n’avoit pas sçeu le lieu où elles
+          avoit de l’esprit, fit reflexion sur tout ce qui s’estoit passé ; &amp; <hi rend="b" />comme
+          elle jugea de la suite par de si beaux commencemens, elle resolut de partir le lendemain,
+          &amp; mesme de grand matin, quoy que son dessein eut esté de rester quelques jours à la
+          Cour, pour faire voir à sa Sœur les Appartemens du Chasteau. Celie ne pût apprendre cette
+          Nouvelle, sans en soûpirer ; elle auroit volontiers demeuré plus long-temps à la Cour,
+          &amp; ce qui s’estoit passé ne l’en avoit point rebutée ; Elle n’en témoigna toutefois
+          rien à sa Sœur, &amp; <hi rend="b" />partit dés le lendemain avec elle. Lucille qui se
+          douta bien que l’Hoste avoit esté gagné, ne luy fit point connoistre son dessein,
+          &amp; luy dit seulement en sortant de chez luy, qu’elle alloit à l’Eglise. Deux heures
+          apres leur départ, Leonidas envoya sçavoir de leurs nouvelles. Son Messager y revint
+          plusieurs fois, &amp; cet Amant ayant sçeu qu’on ne les pouvoit trouver, les fit chercher
+          par tout : Il ne les crût toutefois point parties jusques au soir ; mais quand la nuit fut
+          venuë, il ne douta plus de leur départ. Il en eut un chagrin qui ne se peut qu’à peine
+          concevoir ; mais il auroit esté au desespoir, s’il n’avoit pas sçeu le lieu où elles
           demeuroient à la Ville. Il envoya dés le lendemain pour sçavoir de leurs nouvelles, mais
           on ne trouva personne, &amp; l’on dit qu’elles n’estoient point revenuës. Il y renvoya le
           jour suivant, on dit la mesme chose à celuy qui y fut de sa part : De sorte qu’ayant encor
@@ -279,12 +284,12 @@
           sur la parole d’un Grand Prince, qui n’en voudroit pas manquer mesme à ses plus grands
           Ennemis. Leonidas parla peu ; mais ses yeux parlerent beaucoup ; l’excez de son amour le
           rendit presque immobile, &amp; l’on ne vit jamais tant de chagrin que celuy qu’il témoigna
-          dans le moment qu’il fallut se separer, &amp; <hi rend="b"/>laisser Lucille &amp; Celie
+          dans le moment qu’il fallut se separer, &amp; <hi rend="b" />laisser Lucille &amp; Celie
           chez leur Amie. En disant adieu à cette derniere, il luy serra la main avec des transports
           presque incroyables : Il la pria tout bas de se ressouvenir de luy. Il n’oublia pas
           Lucille, &amp; luy fit toutes les amitiez imaginables, estant forcément persuadé qu’il ne
           pourroit estre heureux sans elle, puis qu’elle avoit sur sa sœurr une authorite de Mere.
-          Le Prince ne parut pas si passionné, &amp; <hi rend="b"/>tout son procedé fit assez
+          Le Prince ne parut pas si passionné, &amp; <hi rend="b" />tout son procedé fit assez
           connoistre, que s’il estoit d’humeur à profiter d’une avanture, il ne vouloit, ny la
           chercher, ny qu’elle luy fit de la peine. Laissons retourner ces deux Amans chez eux,
           &amp; suivons Lucille &amp; Celie jusques à la Chambre de leur Amie. Avant que d’y entrer,
@@ -318,11 +323,12 @@
           fait persuadé que Lucille &amp; sa sœurr furent allées en leur Pays, ny mesmes qu’elles y
           dûssent aller, il ne laissa pas de faire tout ce qu’il pût pour empescher le Prince d’en
           douter. Il le crût ; &amp; ne voulant pas se faire une affaire de ce commencement
-          d’avanture, il oublia tout à fait Celile, &amp; <hi rend="b"/>laissa à Leonidas le soin de
-          la chercher. Peut-estre ne l’auroit-il de longtemps trouvée, si la Fortune ne s’en fut
+          d’avanture, il oublia tout à fait Celile, &amp; <hi rend="b" />laissa à Leonidas le soin
+          de la chercher. Peut-estre ne l’auroit-il de longtemps trouvée, si la Fortune ne s’en fut
           mélée huit jours apres, &amp; ne luy eut fait rencontrer Celie qui sortoit d’un petit
           Temple qui estoit dans le mesme Fauxbourg où elle logeoit. Il ne l’eut pas plutost
-          apperçeuë, qu’il sortit de son Carosse avec beaucoup de précipitation, &amp; <hi rend="b"/>courut luy parler. Il la pressa d’y monter, elle s’en défendit ; il luy dit qu’il ne la
+          apperçeuë, qu’il sortit de son Carosse avec beaucoup de précipitation, &amp; <hi rend="b" />courut
+          luy parler. Il la pressa d’y monter, elle s’en défendit ; il luy dit qu’il ne la
           quitteroit point, &amp; qu’il la suivroit à pied. Elle fut embarrassée de cette réponse ;
           &amp; voyant qu’il se mettoit en estat de tenir sa parole, elle crût qu’elle devoit avoir
           cette complaisance pour luy, &amp; qu’elle ne seroit point blâmée de la sœurr, puis
@@ -345,7 +351,7 @@
           qu’elle l’aimoit. Comment auroit-elle pû luy dire ? elle l’ignoroit elle mesme. Leonidas
           qui ne pouvoit la regarder, sans devenir de moment en moment encor plus amoureux, mit
           toutes choses en usage pour se faire aimer. Il ouvrit trois ou quatre Armoires peintes
-          &amp; dorées qui estoient dans la muraille de la Chambre, &amp; <hi rend="b"/>qui
+          &amp; dorées qui estoient dans la muraille de la Chambre, &amp; <hi rend="b" />qui
           sembloient n’y avoit esté faites que pour y servir d’ornement. Il tira de l’une un grand
           Bassin remply de toutes sortes de Confitures, &amp; de l’autre quantité de Liqueurs
           délicieuses. Les Confitures n’épouvantent point les Filles de l’âge de Celie : Elle mangea
@@ -353,7 +359,7 @@
           Leonidas ouvrit une autre Armoire, de laquelle il tira une Cornette, un Mouchoir,
           &amp; des Tours de Bras d’un Point de Venise admirable, que Celie ne pût refuser. Il n’en
           demeura pas là, &amp; tira d’une quatriéme Armoire deux Bources, dont l’une estoit de
-          Point d’Espagne, &amp; <hi rend="b"/>l’autre brodée avec des perles : Elles estoient
+          Point d’Espagne, &amp; <hi rend="b" />l’autre brodée avec des perles : Elles estoient
           remplies de cent cinquante Loüis chacune, &amp; pouvoient mettre bien des vertus à
           l’épreuve. Celie rougit à la veuë de ces Bources ; elle craignit que Leonidas ne voulut la
           contraindre à les prendre, &amp; elle appréhenda en mesme temps d’estre querellée de sa
@@ -369,15 +375,16 @@
           que Leonidas l’avoit enlevée. Elle ne se trompoit pas ; mais elle estoit persuadée que ce
           seroit pour plus long-temps. Celie n’osa presques la regarder en entrant ; &amp; apres
           avoir essuyé toutes ses reprimandes &amp; tous ses emportemens, elle luy donna la Lettre
-          de Leonidas, sans oser presque lever les yeux sur elle. Lucille la lût, &amp; <hi rend="b"/>feignit de s’adoucir, afin de luy faire dire tout ce qui s’estoit passé pendant le temps
-          qu’elle avoit esté avec Leonidas. Celie en fit un fidelle raport à sa Sœur, pendant lequel
-          Lucille eut plus d’une fois peur d’apprendre des choses qui l’auroient mises au desespoir.
-          Leur entretien estoit a peine finy, que Lucille reçût une Lettre de Leonidas, par laquelle
-          il la prioit de venir luy parler chez luy, &amp; de se laisser conduire par le Porteur.
-          Comme il ne demandoit que Lucille, &amp; que ce n’estoit pas d’elle qu’il estoit amoureux,
-          elle ne fit point de difficulté de l’aller trouver. Elle fut conduite par un Escalier
-          dérobé dans la Chambre de Leonidas, qui la reçût presques avec autant de joye qu’il auroit
-          fait sa Maistresse. Il tâcha par toutes sortes de moyens de se la rendre favorable,
+          de Leonidas, sans oser presque lever les yeux sur elle. Lucille la lût, &amp; <hi rend="b" />feignit
+          de s’adoucir, afin de luy faire dire tout ce qui s’estoit passé pendant le temps qu’elle
+          avoit esté avec Leonidas. Celie en fit un fidelle raport à sa Sœur, pendant lequel Lucille
+          eut plus d’une fois peur d’apprendre des choses qui l’auroient mises au desespoir. Leur
+          entretien estoit a peine finy, que Lucille reçût une Lettre de Leonidas, par laquelle il
+          la prioit de venir luy parler chez luy, &amp; de se laisser conduire par le Porteur. Comme
+          il ne demandoit que Lucille, &amp; que ce n’estoit pas d’elle qu’il estoit amoureux, elle
+          ne fit point de difficulté de l’aller trouver. Elle fut conduite par un Escalier dérobé
+          dans la Chambre de Leonidas, qui la reçût presques avec autant de joye qu’il auroit fait
+          sa Maistresse. Il tâcha par toutes sortes de moyens de se la rendre favorable,
           &amp; joignit aux prieres des offres si avantageuses, qu’elles en auroient pû tenter
           beaucoup d’autres plus accommodées que Lucille. Cette vertueuse Personne refusa de le
           servir, sans luy faire voir de ces vertus diablesses qui ne s’expliquent qu’avec
@@ -385,15 +392,17 @@
           point prévaloir de la jeunesse &amp; de la simplicité de sa sœurr. Tout ce que Lucille dit
           à Leonidas, ne le satisfit point ; il estoit trop amoureux, &amp; s’estoit fortement mis
           dans l’esprit de se faire aimer, &amp; de surmonter tous les obstacles qui pouroient
-          s’opposer à sa passion ; &amp; <hi rend="b"/>pour venir à bout de son dessein, il alloit
+          s’opposer à sa passion ; &amp; <hi rend="b" />pour venir à bout de son dessein, il alloit
           encor presser Lucille de luy estre favorable, lors qu’on luy vint dire qu’un Ambassadeur
           qui venoit luy rendre visite, estoit à la Porte. Il fut obligé de quitter Lucille, qui
           s’en retourna chez elle avec beaucoup de chagrin, jugeant bien par la maniere dont
-          Leonidas luy avoit parlé, qu’il ne pouroit jamais vaincre sa passion, &amp; <hi rend="b"/>qu’elle luy feroit entreprendre toutes choses pour venir à bout de ses souhaits. Lucille
-          estant de retour chez elle, continua de faire les mesmes refléxions ; &amp;<hi rend="b"> <hi rend="i">s</hi></hi>on inquiétude parut si grande sur son visage, que Celie s’en
+          Leonidas luy avoit parlé, qu’il ne pouroit jamais vaincre sa passion, &amp; <hi rend="b" />qu’elle
+          luy feroit entreprendre toutes choses pour venir à bout de ses souhaits. Lucille estant de
+          retour chez elle, continua de faire les mesmes refléxions ; &amp;<hi rend="b"> <hi
+              rend="i">s</hi></hi>on inquiétude parut si grande sur son visage, que Celie s’en
           apperçut, &amp; luy demanda le sujet de sa tristesse. Lucille luy en dit une partie,
           &amp; tâcha de luy faire concevoir le danger qu’il y avoit de donner son cœur, &amp; les
-          peines que l’amour &amp; <hi rend="b"/>l’inconstance des Hommes faisoient souffrir à
+          peines que l’amour &amp; <hi rend="b" />l’inconstance des Hommes faisoient souffrir à
           celles qui s’engageoient dans de grandes passions. Lucille n’oublia rien pour persuader
           ces veritez à sa sœurr ; &amp; pour les luy faire mieux comprendre, elle les luy expliqua
           familierement, &amp; s’accommoda à son esprit. Elles n’avoient pas encor finy cet
@@ -403,7 +412,8 @@
           eut-il ouvert la bouche, que sa voix le fit reconnoître. Il se jetta aux genoux de Celie,
           il embrassa ceux de Lucille. Il luy dit mille fois qu’il alloit mourir, &amp; la conjura
           avec un torrent de larmes de parler pour luy. Il leur fit pitié à toutes deux, &amp; les
-          embarassa fort, car elles crûrent qu’il estoit veritablement malade, &amp; <hi rend="b"/>l’on dit qu’elles ne se tromperent pas. Elles luy donnerent quelque espoir (ce qu’elles
+          embarassa fort, car elles crûrent qu’il estoit veritablement malade, &amp; <hi rend="b" />l’on
+          dit qu’elles ne se tromperent pas. Elles luy donnerent quelque espoir (ce qu’elles
           n’avoient point encor fait) &amp; Lucille souffrit qu’il baisast les mains de Celie, sur
           lesquelles il pensa rendre l’ame. Il s’en retourna un peu plus satisfait qu’il n’avoit
           encor esté ; mais son trouble estoit toûjours si grand, qu’ayant mis sur luy une somme
@@ -416,8 +426,8 @@
           Elle crût pourtant devoir faire tous ses efforts pour banir celuy-cy de chez elle ;
           &amp; afin de n’avoir rien à sa reprocher, elle jugea à propos de luy faire écrire par
           Celie, &amp; de dicter elle-mesme la Lettre à sa sœurr ; ce qu’elle fit. Celie ne
-          l’écrivit qu’avec chagrin ; &amp; <hi rend="b"/>quoy que Leonidas ne fut pas dans un âge à
-          inspirer beaucoup d’amour à une jeune Personne, ses manieres n’avoient pas laissé de la
+          l’écrivit qu’avec chagrin ; &amp; <hi rend="b" />quoy que Leonidas ne fut pas dans un âge
+          à inspirer beaucoup d’amour à une jeune Personne, ses manieres n’avoient pas laissé de la
           toucher, &amp; elle commençoit à sentir qu’elle auroit esté fâchée de ne le plus voir :
           Elle n’en sçavoit pas bien la raison, &amp; peut-estre que la vanité s’estoit emparée de
           son cœur aussi-bien que l’amour. Il fallut pourtant écrire, malgré tout ce qu’elle
@@ -435,7 +445,7 @@
           écrivit à Lucille une Lettre pleine d’emportement. Il luy manda que sa sœurr avoit des
           Confidens qui se trouveroient mal des conseils qu’ils luy donnoient. Il adjoûtoit que
           Celie n’avoit point écrit d’elle-mesme, <hi rend="i">qu’elle avoit fait tout ce qu’elle
-            avoit pû pour se faire vouloir ce qu’il souhaitoit.</hi> C’estoit l’endroit de la Lettre
+          avoit pû pour se faire vouloir ce qu’il souhaitoit.</hi> C’estoit l’endroit de la Lettre
           de Celie qui l’avoit le plus choqué, &amp; ce fut ce qui l’obligea d’écrire à Lucille,
           qu’il soupçonna d’abord d’avoir dicté la Lettre de sa sœurr. Lucille connut bien qu’il la
           soupçonnoit ; mais comme elle avoit de l’esprit, elle n’en témoigna rien. Leonidas en eut
@@ -448,107 +458,107 @@
           l’esprit de sa sœurr, se retira, &amp; l’abandonna à la conduite d’une Sœur aisnée nommée
           Aristée, qui souhaitoit avec beaucoup de passion de se mesler des affaires de Celie.
           Chacun s’en trouva bien, car elle n’estoit pas si severe que Lucille. Quelques jours apres
-          l’union d’Aristée &amp; <hi rend="b"/>de Celie, Lucille se retira chez une de ses Parentes
-          pour les laisser ensemble. Leonidas leur rendit souvent visite, &amp; fut toûjours bien
-          reçeu. Sa passion augmentant toûjours, loin de diminuer, Celie se vit bien-tost logée dans
-          une Maison magnifique &amp; richement meublée ; &amp; Leonidas pouvant alors la voir plus
-          commodément &amp; à ses heures de loisir, alla souvent passer les soirées chez elle, apres
-          avoir pendant tout le jour donné ses soins aux Affaires les plus importantes de l’Estat.
-          Jamais Amant ne fut si amoureux, ny si magnifique ; &amp; jamais Amant ne fit tant de
-          bien, &amp; n’en fit tant donner à sa Maistresse, puis qu’il fit faire à la Cour beaucoup
-          d’affaires sous son nom, dont elle tira des sommes tres-considérables qu’elle remit entre
-          ses mains, afin qu’il luy fit profiter cet argent. Les choses demeurerent quelque temps en
-          cet état, &amp; jamais Amans ne furent si amoureux, si contens, ny si satisfaits l’un de
-          l’autre. Licinius, Parent de Leonidas, &amp; qui luy estoit redevable d’une partie de sa
-          fortune, &amp; qui sçavoit son amour, parce qu’il ne luy cachoit rien, ne pût voir leur
-          bonheur sans leur porter envie ; &amp; quoy qu’il eut une Maistresse capable de retenir
-          toûjours le plus insensible cœur, tous ces charmes ne l’empescherent pas de prendre de
-          l’amour pour Celie. Il combatit longtemps cette passion, &amp; fit tout ce qu’il luy fut
-          possible pour la surmonter. Il estoit au desespoir d’aimer la Maistresse de son Parent,
-          &amp; d’un Parent à qui il avoit tous les jours de nouvelles obligations ;
-          &amp; l’infidélité qu’il faisoit à Hortense (c’est le nom de celle qu’il aimoit &amp; dont
-          il estoit aimé) ne luy causoit pas moins de chagrin. Toutes ces considerations furent
-          cause qu’il balança longtemps s’il se declareroit : mais enfin son amour l’emporta sur son
-          incertitude ; &amp; apres avoir fait connoistre sa passion à Celie par toutes les choses
-          qui précedent ordinairement les declarations d’amour, il l’assura de ce que ses soins, ses
-          yeux, &amp; ses soûpirs, luy avoient déja dit plusieurs fois, &amp; luy protesta avec des
-          transports tout pleins de tendresse &amp; <hi rend="b"/>d’ardeur, qu’il l’aimeroit
-          toûjours, quand mesme elle ne répondrait jamais à sa passion. Celie, que mille raisons
-          devoient empescher de trahir Leonidas, reçeut tres-mal cette declaration ; elle s’en
-          irrita mesme, &amp; defendit à Licinius avec toute la fierté dont elle estoit capable, de
-          luy dire jamais le moindre mot de son amour. Il ne luy promit rien ; il eut raison, il ne
-          luy auroit pas tenu sa parole, puis que dés le lendemain il luy fit connoistre tout ce
-          qu’il sentoit avec des paroles bien plus pressantes. On est ordinairement timide le jour
-          d’une declaration, &amp; on ne dit pas tout ce que l’on a résolu de dire : mais quand ce
-          premier pas est une fois fait, &amp; qu’un Amant a vaincu la timidité qui accompagne son
-          amour lors qu’il n’en a pas encor parlé, il en dit souvent plus qu’il ne voudroit,
-          &amp; mesme plus qu’il ne devroit. C’est ce que fit Licinius ; il ne laissa échaper aucune
-          occasion de parler à Celie sans l’entretenir de son amour ; &amp; quand il en estoit
-          empesché, il luy en donnoit toutes les marques muettes dont un Amant est capable. Celie
-          luy representa plusieurs fois tout ce qu’il devoit à Leonidas ; mais toutes ces
-          considérations sont foibles, quand l’amour est violent. Il est aisé de juger que le sien
-          le fut, puis qu’il ne se contenta pas d’en parler plusieurs fois à Celie, &amp; qu’il luy
-          écrivit avec les termes les plus passionnez que peut inventer un Amant, tout ce qu’il luy
-          avoit dit plusieurs fois. La surprise de Celie fut grande, &amp; elle en lieu de
-          s’étonner, n’ayant jamais crû que Licinius qui avoit de l’esprit, fut assez aveuglé pour
-          luy donner par écrit des preuves de la passion qu’il avoit pour elle. Il devoit
-          appréhender qu’elle ne les montrât à Leonidas, comme elle fit quelque temps apres : mais
-          comme elle craignoit de le perdre, ce ne fut qu’avec bien de la peine, &amp; qu’apres
-          s’estre apperçeuë que Leonidas avoit remarqué la passion de son Parent. Elle crût qu’elle
-          se rendroit coupable à la cacher plus longtemps, &amp; qu’elle en devoit parler à Leonidas
-          avant que Leonidas luy en parlast ; ce qu’elle fit, sans rendre pourtant Licinius aussi
-          coupable qu’il l’estoit. Quoy qu’une Femme n’aime pas toûjours tous ceux qui soûpirent
-          pour elle, elle leur en sçait quelquefois bon gré, &amp; ne les punit pas toûjours. Encor
-          que Leonidas ne doutast point de l’amour de Licinius, il tâchoit dans de certains momens
-          de se persuader à luy-mesme qu’il se trompoit : mais quand Celie l’eut assuré de ce qu’il
-          appréhendoit de sçavoir au vray, il en eut une douleur mortelle. Quoy que Celie ne
-          répondit point à sa passion, cette douleur donna beaucoup de chagrin à cette belle
-          Personne ; elle crût que Leonidas pouroit la soupçonner ; &amp; voyant que sa douleur
-          &amp; son inquiétude redoubloient de moment en moment, elle se résolut de luy montrer les
-          Lettres quelle avoit reçeuës de Licinius. Ce fut un coup de foudre pour Leonidas ; il ne
-          voulut pourtant point s’en plaindre à son Parent ; &amp; puis qu’il ne luy dist rien, il
-          falloit qu’il en fut empesché par de bonnes raisons. Les choses demeurerent quelque temps
-          en cet état, c’est a dire que Leonidas fut toûjours beaucoup chagrin, Licinius fort
-          amoureux, &amp; Celie toûjours importunée : mais l’amour vouloit qu’elle le fut davantage,
-          car le Prince fit un voyage où Leonidas fut obligé d’aller. S’il avoit pu s’en dispenser,
-          il seroit demeuré avec beaucoup de joye aupres de son aimable Celie ; mais il estoit
-          absolument necesaire qu’il fut au voyage. Il partit avec une douleur qui ne se peut
-          exprimer ; il avoit raison d’en avoir, il quittoit sa Maistresse, &amp; laissoit un Rival
-          aupres d’elle. Il ne croyoit pas que ce Rival fut aimé, mais il appréhendoit qu’on ne
-          l’aimast. L’amour fait voir tous les jours des choses plus surprenantes. Si Leonidas fut
-          au desespoir de partir, &amp; si Celie en eut beaucoup de chagrin, Licinius en eut
-          beaucoup de joye : Il crût qu’il profiteroit de l’absence de son Parent, qu’il verroit
-          plus souvent Celie, qu’il luy parleroit plus commodément de son amour, qu’il luy en feroit
-          mieux connoistre l’excès, &amp; que l’absence de Leonidas pouroit le faire oublier. Il ne
-          tint pas à luy, il y travailla de tout son possible, &amp; fit tout ce qu’un Amant peut
-          s’imaginer pour se faire aimer &amp; pour faire oublier son Rival. Il n’eut pas tout le
-          temps qu’il souhaitoit pour venir à bout de ses desseins. Leonidas ne pouvant vivre sans
-          voir Celie, se representoit à tous momens son Rival aupres d’elle ; &amp; ne pouvant
-          suporter ny les peines de l’absence, ny les cruelles inquiétudes de sa jalousie, il envoya
-          querir Celie, qui le fut aussitost trouver avec un équipage digne de celuy qui la mandoit,
-          &amp; qui auroit encor esté plus grand &amp; plus magnifique, s’il n’eut pas esté à propos
-          d’en retrancher les choses qui auroient fait trop d’éclat. Ce revers de fortune fit à son
-          tour connoistre à Licinius que nul Amant ne se peut dire heureux ; &amp; c’est avec
-          raison, puis qu’il y a trop de choses à craindre dans l’Empire d’Amour. Il eut bien voulu
-          aller avec Celie, ou du moins trouver quelques raisons pour faire le voyage où le Prince
-          estoit allé : mais quelque esprit que l’amour inspire aux Amans, il n'en pût trouver
-          d’assez bonnes, &amp; rien n’auroit eté capable d’empescher Leonidas d’en connoistre le
-          sujet. Il fallut donc que cet Amant souffrit à son tour les maux de l’absence dont son
-          Rival alloit estre guery, &amp; qu’il vit partir Celie. Il en fut au desespoir, &amp; sa
-          douleur augmenta encor, lors qu’au moment de son départ il remarqua la joye que cette
-          charmante Personne ressentoit d’aller trouver Leonidas. Il crût que ses soûpirs &amp; ses
-          larmes pouroient la moderer ; mais il se trompa : Toute la tendresse qu’il luy fit
-          paroistre, ne la toucha point ; &amp; la joye qu’elle avoit de partir, l’empescha de
-          songer à toute autre chose qu’au voyage qu’elle alloit faire. Elle dit adieu à Licinius
-          avec une gayeté pleine d’enjouëment qui luy perça le cœur. Le dépit &amp; la douleur
-          qu’il en eut, furent inconcevables ; mais quand elle luy auroit fait voir toute la
-          tendresse imaginable, il n’auroit pas eu moins de chagrin de la voir partir, tant il est
-          vray qu’il est dificile d’estre content quand on aime. La joye que Celie eut d’aller
-          trouver Leonidas ; le peu de chagrin qu’elle eut de le quitter, &amp; la dureté qu’elle
-          luy fit voir en luy disant adieu, ne furent pas capables d’alterer son amour : Il résolut
-          d’estre toûjours constant, &amp; d’avoir toûjours autant d’ardeur pour ce charmant objet,
-          qu’il commençoit d’avoir d’indiférence pour Hortense. Cette Amante infortunée qui sçavoit
-          son infidelité, n’osoit presques s’en plaindre ; elle craignoit de le fâcher ;
+          l’union d’Aristée &amp; <hi rend="b" />de Celie, Lucille se retira chez une de ses
+          Parentes pour les laisser ensemble. Leonidas leur rendit souvent visite, &amp; fut
+          toûjours bien reçeu. Sa passion augmentant toûjours, loin de diminuer, Celie se vit
+          bien-tost logée dans une Maison magnifique &amp; richement meublée ; &amp; Leonidas
+          pouvant alors la voir plus commodément &amp; à ses heures de loisir, alla souvent passer
+          les soirées chez elle, apres avoir pendant tout le jour donné ses soins aux Affaires les
+          plus importantes de l’Estat. Jamais Amant ne fut si amoureux, ny si magnifique ;
+          &amp; jamais Amant ne fit tant de bien, &amp; n’en fit tant donner à sa Maistresse, puis
+          qu’il fit faire à la Cour beaucoup d’affaires sous son nom, dont elle tira des sommes
+          tres-considérables qu’elle remit entre ses mains, afin qu’il luy fit profiter cet argent.
+          Les choses demeurerent quelque temps en cet état, &amp; jamais Amans ne furent si
+          amoureux, si contens, ny si satisfaits l’un de l’autre. Licinius, Parent de Leonidas,
+          &amp; qui luy estoit redevable d’une partie de sa fortune, &amp; qui sçavoit son amour,
+          parce qu’il ne luy cachoit rien, ne pût voir leur bonheur sans leur porter envie ;
+          &amp; quoy qu’il eut une Maistresse capable de retenir toûjours le plus insensible cœur,
+          tous ces charmes ne l’empescherent pas de prendre de l’amour pour Celie. Il combatit
+          longtemps cette passion, &amp; fit tout ce qu’il luy fut possible pour la surmonter. Il
+          estoit au desespoir d’aimer la Maistresse de son Parent, &amp; d’un Parent à qui il avoit
+          tous les jours de nouvelles obligations ; &amp; l’infidélité qu’il faisoit à Hortense
+          (c’est le nom de celle qu’il aimoit &amp; dont il estoit aimé) ne luy causoit pas moins de
+          chagrin. Toutes ces considerations furent cause qu’il balança longtemps s’il se
+          declareroit : mais enfin son amour l’emporta sur son incertitude ; &amp; apres avoir fait
+          connoistre sa passion à Celie par toutes les choses qui précedent ordinairement les
+          declarations d’amour, il l’assura de ce que ses soins, ses yeux, &amp; ses soûpirs, luy
+          avoient déja dit plusieurs fois, &amp; luy protesta avec des transports tout pleins de
+          tendresse &amp; <hi rend="b" />d’ardeur, qu’il l’aimeroit toûjours, quand mesme elle ne
+          répondrait jamais à sa passion. Celie, que mille raisons devoient empescher de trahir
+          Leonidas, reçeut tres-mal cette declaration ; elle s’en irrita mesme, &amp; defendit à
+          Licinius avec toute la fierté dont elle estoit capable, de luy dire jamais le moindre mot
+          de son amour. Il ne luy promit rien ; il eut raison, il ne luy auroit pas tenu sa parole,
+          puis que dés le lendemain il luy fit connoistre tout ce qu’il sentoit avec des paroles
+          bien plus pressantes. On est ordinairement timide le jour d’une declaration, &amp; on ne
+          dit pas tout ce que l’on a résolu de dire : mais quand ce premier pas est une fois fait,
+          &amp; qu’un Amant a vaincu la timidité qui accompagne son amour lors qu’il n’en a pas
+          encor parlé, il en dit souvent plus qu’il ne voudroit, &amp; mesme plus qu’il ne devroit.
+          C’est ce que fit Licinius ; il ne laissa échaper aucune occasion de parler à Celie sans
+          l’entretenir de son amour ; &amp; quand il en estoit empesché, il luy en donnoit toutes
+          les marques muettes dont un Amant est capable. Celie luy representa plusieurs fois tout ce
+          qu’il devoit à Leonidas ; mais toutes ces considérations sont foibles, quand l’amour est
+          violent. Il est aisé de juger que le sien le fut, puis qu’il ne se contenta pas d’en
+          parler plusieurs fois à Celie, &amp; qu’il luy écrivit avec les termes les plus passionnez
+          que peut inventer un Amant, tout ce qu’il luy avoit dit plusieurs fois. La surprise de
+          Celie fut grande, &amp; elle en lieu de s’étonner, n’ayant jamais crû que Licinius qui
+          avoit de l’esprit, fut assez aveuglé pour luy donner par écrit des preuves de la passion
+          qu’il avoit pour elle. Il devoit appréhender qu’elle ne les montrât à Leonidas, comme elle
+          fit quelque temps apres : mais comme elle craignoit de le perdre, ce ne fut qu’avec bien
+          de la peine, &amp; qu’apres s’estre apperçeuë que Leonidas avoit remarqué la passion de
+          son Parent. Elle crût qu’elle se rendroit coupable à la cacher plus longtemps,
+          &amp; qu’elle en devoit parler à Leonidas avant que Leonidas luy en parlast ; ce qu’elle
+          fit, sans rendre pourtant Licinius aussi coupable qu’il l’estoit. Quoy qu’une Femme n’aime
+          pas toûjours tous ceux qui soûpirent pour elle, elle leur en sçait quelquefois bon gré,
+          &amp; ne les punit pas toûjours. Encor que Leonidas ne doutast point de l’amour de
+          Licinius, il tâchoit dans de certains momens de se persuader à luy-mesme qu’il se
+          trompoit : mais quand Celie l’eut assuré de ce qu’il appréhendoit de sçavoir au vray, il
+          en eut une douleur mortelle. Quoy que Celie ne répondit point à sa passion, cette douleur
+          donna beaucoup de chagrin à cette belle Personne ; elle crût que Leonidas pouroit la
+          soupçonner ; &amp; voyant que sa douleur &amp; son inquiétude redoubloient de moment en
+          moment, elle se résolut de luy montrer les Lettres quelle avoit reçeuës de Licinius. Ce
+          fut un coup de foudre pour Leonidas ; il ne voulut pourtant point s’en plaindre à son
+          Parent ; &amp; puis qu’il ne luy dist rien, il falloit qu’il en fut empesché par de bonnes
+          raisons. Les choses demeurerent quelque temps en cet état, c’est a dire que Leonidas fut
+          toûjours beaucoup chagrin, Licinius fort amoureux, &amp; Celie toûjours importunée : mais
+          l’amour vouloit qu’elle le fut davantage, car le Prince fit un voyage où Leonidas fut
+          obligé d’aller. S’il avoit pu s’en dispenser, il seroit demeuré avec beaucoup de joye
+          aupres de son aimable Celie ; mais il estoit absolument necesaire qu’il fut au voyage. Il
+          partit avec une douleur qui ne se peut exprimer ; il avoit raison d’en avoir, il quittoit
+          sa Maistresse, &amp; laissoit un Rival aupres d’elle. Il ne croyoit pas que ce Rival fut
+          aimé, mais il appréhendoit qu’on ne l’aimast. L’amour fait voir tous les jours des choses
+          plus surprenantes. Si Leonidas fut au desespoir de partir, &amp; si Celie en eut beaucoup
+          de chagrin, Licinius en eut beaucoup de joye : Il crût qu’il profiteroit de l’absence de
+          son Parent, qu’il verroit plus souvent Celie, qu’il luy parleroit plus commodément de son
+          amour, qu’il luy en feroit mieux connoistre l’excès, &amp; que l’absence de Leonidas
+          pouroit le faire oublier. Il ne tint pas à luy, il y travailla de tout son possible,
+          &amp; fit tout ce qu’un Amant peut s’imaginer pour se faire aimer &amp; pour faire oublier
+          son Rival. Il n’eut pas tout le temps qu’il souhaitoit pour venir à bout de ses desseins.
+          Leonidas ne pouvant vivre sans voir Celie, se representoit à tous momens son Rival aupres
+          d’elle ; &amp; ne pouvant suporter ny les peines de l’absence, ny les cruelles inquiétudes
+          de sa jalousie, il envoya querir Celie, qui le fut aussitost trouver avec un équipage
+          digne de celuy qui la mandoit, &amp; qui auroit encor esté plus grand &amp; plus
+          magnifique, s’il n’eut pas esté à propos d’en retrancher les choses qui auroient fait trop
+          d’éclat. Ce revers de fortune fit à son tour connoistre à Licinius que nul Amant ne se
+          peut dire heureux ; &amp; c’est avec raison, puis qu’il y a trop de choses à craindre dans
+          l’Empire d’Amour. Il eut bien voulu aller avec Celie, ou du moins trouver quelques raisons
+          pour faire le voyage où le Prince estoit allé : mais quelque esprit que l’amour inspire
+          aux Amans, il n'en pût trouver d’assez bonnes, &amp; rien n’auroit eté capable d’empescher
+          Leonidas d’en connoistre le sujet. Il fallut donc que cet Amant souffrit à son tour les
+          maux de l’absence dont son Rival alloit estre guery, &amp; qu’il vit partir Celie. Il en
+          fut au desespoir, &amp; sa douleur augmenta encor, lors qu’au moment de son départ il
+          remarqua la joye que cette charmante Personne ressentoit d’aller trouver Leonidas. Il crût
+          que ses soûpirs &amp; ses larmes pouroient la moderer ; mais il se trompa : Toute la
+          tendresse qu’il luy fit paroistre, ne la toucha point ; &amp; la joye qu’elle avoit de
+          partir, l’empescha de songer à toute autre chose qu’au voyage qu’elle alloit faire. Elle
+          dit adieu à Licinius avec une gayeté pleine d’enjouëment qui luy perça le cœur. Le dépit
+          &amp; la douleur qu’il en eut, furent inconcevables ; mais quand elle luy auroit fait voir
+          toute la tendresse imaginable, il n’auroit pas eu moins de chagrin de la voir partir, tant
+          il est vray qu’il est dificile d’estre content quand on aime. La joye que Celie eut
+          d’aller trouver Leonidas ; le peu de chagrin qu’elle eut de le quitter, &amp; la dureté
+          qu’elle luy fit voir en luy disant adieu, ne furent pas capables d’alterer son amour : Il
+          résolut d’estre toûjours constant, &amp; d’avoir toûjours autant d’ardeur pour ce charmant
+          objet, qu’il commençoit d’avoir d’indiférence pour Hortense. Cette Amante infortunée qui
+          sçavoit son infidelité, n’osoit presques s’en plaindre ; elle craignoit de le fâcher ;
           &amp; sçachant qu’il ne cherchoit qu’un prétexte pour la quiter, elle ne luy en vouloit
           pas fournir, en luy reprochant son manquement de foy. Elle le vit pendant l’absence de
           Celie plus souvent qu’elle n’avoit accoûtumé ; mais, helas, quelle veuë ! Il estoit aupres
@@ -577,10 +587,10 @@
           l’argent à elle, qu’elle luy avoit laissé pour faire profiter. La mort de Leonidas ne
           changea point le cœur de Celie ; Licinius ne le pût toucher ; &amp; peut-estre qu’elle
           auroit moins souffert sa presence qu’auparavant, s’il ne luy eut témoigné qu’il vouloit
-          prendre soin de ses affaires, &amp; <hi rend="b"/>qu’il luy feroit rendre les sommes
+          prendre soin de ses affaires, &amp; <hi rend="b" />qu’il luy feroit rendre les sommes
           qu’elle disoit que Leonidas avoit à elle. Ces offres ne déplûrent pas à Celie ; elle les
-          écouta d’abord sans les accepter, &amp; <hi rend="b"/>les reçeut quelque temps apres. Cela
-          luy donna lieu d’avoir commerce avec elle, &amp; <hi rend="b"/>de recevoir de ses
+          écouta d’abord sans les accepter, &amp; <hi rend="b" />les reçeut quelque temps apres.
+          Cela luy donna lieu d’avoir commerce avec elle, &amp; <hi rend="b" />de recevoir de ses
           Lettres ; &amp; quelquefois mesme quand elle avoit quelque chose de pressé à luy dire,
           elle alloit le trouver chez luy. Pendant toutes ces entreveuës, Hotense estoit accablée de
           jalousie &amp; de douleur ; &amp; dés que Leonidas fut mort, elle appréhenda que Celie ne
@@ -620,7 +630,7 @@
           soins, par ses services ; &amp; par ses soûpirs. La malheureuse Hortense n’eust pas
           plutost appris cette nouvelle, qu’elle sentit un saisissement qui luy fit croire qu’elle
           mourroit bientost. Sa pensée ne fut que trop veritable ; &amp; peu de jours apres ayant
-          senty que les forces luy man <lb/> quoient, elle brûla toutes les Lettres de Licinius,
+          senty que les forces luy man <lb /> quoient, elle brûla toutes les Lettres de Licinius,
           &amp; toutes les hardes qu’il luy avoit données, &amp; elle jetta mesme dans le feu tous
           les Bijoux qu’elle en avoit reçeus, de peur que sa Rivale ne s’en parast. Elle mourut
           quelque temps apres. Licinius &amp; Celie donnerent quelques larmes à sa mort ; mais la
@@ -633,9 +643,9 @@
           blâma aucun des Interessez dans cette Histoire ; &amp; comme l’amour excuse tout, ils
           furent tous justifiez. On parloit encor de la passion de Leonidas, lors qu’une Femme de la
           Compagnie, qui devoit dans peu de jours faire un voyage sur Mer, nous dit que nous
-          parlions de l’amour bien à nostre aise ; &amp; que si quelque Corsaire la prenoit,
-            &amp; <hi rend="b"/>devenoit amoureux d’elle, elle n’en pouroit entendre parler avec
-          tant de plaisir.</p>
+          parlions de l’amour bien à nostre aise ; &amp; que si quelque Corsaire la prenoit, &amp; <hi
+            rend="b" />devenoit amoureux d’elle, elle n’en pouroit entendre parler avec tant de
+          plaisir.</p>
       </div>
       <div type="article" xml:id="MG-1673-04_111" resp="mercure">
         <head>[Éloge de l’Académie française sur les valeurs militaires des Français] *</head>
@@ -748,7 +758,7 @@
           fâché, luy repartit Licaste avec un air triste, d’estre obligé de vous venir dire que
           Luciane ne sçauroit vous voir aujourd’huy, Elle n’a pû se dispenser de sortir avec un de
           ses Oncles, qui l’a pressée avec toutes les instances possibles, de venir avec luy
-          solliciter un Juge qu’elle connoist, &amp; <hi rend="b"/>qui mesme est Rapporteur d’un
+          solliciter un Juge qu’elle connoist, &amp; <hi rend="b" />qui mesme est Rapporteur d’un
           grand Procez que son Oncle a depuis dix ans, &amp; que l’on doit juger demain. Le
           Campagnard fut inconsolable, mais il trouva que Luciane avoit raison d’estre sortie avec
           son Oncle, &amp; dit qu’elle n’auroit pû luy refuser sa demande, sans estre blâmée de tout
@@ -866,12 +876,12 @@
           indisposée presques pendant toute une nuit, elle s’endormit le matin à l’heure qu’elle se
           levoit ordinairement. Un Parent de feu Monsieur de Robinval, qui croyoit avoir le
           privilege d’entrer sans qu’on y pût trouver à redire, luy amena un Marchand le mesme
-          matin ; &amp; <hi rend="b"/>l’ayant conduit jusques aupres de son lit, il l’éveilla par le
-          grand bruit qu’il fit, &amp; luy presenta aussi tost celuy qu’il avoit amené. Il se trouva
-          malheureusement qu’il estoit de sa connoissance, &amp; qu’il sçavoit qu’elle avoit esté
-          mariée à Licaste, (car ce mariage n’avoit pû estre caché à tout le monde.) Cet Homme,
+          matin ; &amp; <hi rend="b" />l’ayant conduit jusques aupres de son lit, il l’éveilla par
+          le grand bruit qu’il fit, &amp; luy presenta aussi tost celuy qu’il avoit amené. Il se
+          trouva malheureusement qu’il estoit de sa connoissance, &amp; qu’il sçavoit qu’elle avoit
+          esté mariée à Licaste, (car ce mariage n’avoit pû estre caché à tout le monde.) Cet Homme,
           apellé Argante, l’ayant reconnuë d’abord, &amp; la voix de Luciane l’ayant confirmé dans
-          sa pensée, il la salüa comme une Peronne qu’il connoissoit, &amp; <hi rend="b"/>luy dit
+          sa pensée, il la salüa comme une Peronne qu’il connoissoit, &amp; <hi rend="b" />luy dit
           qu’il n’avoit pas crû venir parler à elle, &amp; qu’il n’avoit mesme pas appris que son
           premier Mary fut mort. Elle luy dit que feu Monsieur de Robinval l’avoit tant pressée de
           se marier avant la fin de l’année de son Veuvage, qu’elle n’avoit pû resister à la force
@@ -907,9 +917,10 @@
           étonnans exemples il venoit de prouver l’inconstance, il finit son discours, en disant
           qu’il alloit dans peu se marier. Ces paroles que l’on n’attendoit pas surprirent toute la
           Compagnie. Comment, marier ! luy repartirent plusieurs en mesme temps ; ce que vous nous
-          venez de dire seroit-il possible, &amp; <hi rend="b"/>voudriez-vous vous marier, s’il est
+          venez de dire seroit-il possible, &amp; <hi rend="b" />voudriez-vous vous marier, s’il est
           vray que vous ayez une aussi parfaite connoissance des Femmes, que vous avez voulu nous le
-          faire croire ? Je les connois mieux que personne du monde, leur repartit-il, &amp; <hi rend="b"/>je sçay dequoy elles sont capables ; mais toute leur inconstance ne les fait
+          faire croire ? Je les connois mieux que personne du monde, leur repartit-il, &amp; <hi
+            rend="b" />je sçay dequoy elles sont capables ; mais toute leur inconstance ne les fait
           pas paroitre moins aimables à nos yeux, &amp; ne font pas qu’on s’en puisse passer. Chacun
           demeura d’accord de cette verité, &amp; Argimon poursuivit son discours de la sorte. Comme
           je croy bien mieux connoistre les Femmes que beaucoup d’autres qui n’ont pas éprouvé leur
@@ -921,7 +932,7 @@
           mille précautions j’ay toûjours esté malheureux en Maistresses, je veux que le hazard me
           rende heureux en Femme ; &amp; dés que j’auray terminé icy quelques affaires, j’iray me
           marier à la Campagne, suivant la parole que j’ay donnée, &amp; je n’ay voulu sçavoir, ny
-          l’esprit, ny la beauté de celle que je vais épouser ; &amp; <hi rend="b"/>de peur d’estre
+          l’esprit, ny la beauté de celle que je vais épouser ; &amp; <hi rend="b" />de peur d’estre
           tenté de m’en informer, je n’ay pas mesme voulu que l’on m’ait dit son nom. Je sçay
           qu’elle a du bien, cela me suffit ; quant au reste je croy que je ne le sçauray que trop
           tost. Cette maniere d’agir fut trouvée fort extraordinaire ; &amp; ce procedé bizare, que
@@ -1013,11 +1024,11 @@
           luy fit monter une rougeur sur son visage, qui luy causa beaucoup de trouble. Elle sentit
           l’état où elle estoit, &amp; de peur de le faire connoistre, elle baissa les yeux ; mais
           il arriva dans ce moment que Cleandre en tirant son Mouchoir de sa poche, laissa tomber le
-          Portrait d’Olimpe.<hi rend="b"/> Aristée qui avoit déja la veuë baissée, s’en apperçeut
+          Portrait d’Olimpe.<hi rend="b" /> Aristée qui avoit déja la veuë baissée, s’en apperçeut
           plutost que luy ; &amp; l’ayant ramassé avec une précipitation qui marquoit &amp; beaucoup
           d’amour &amp; beaucoup de jalousie, elle l’ouvrit en tremblant ; &amp; la beauté qu’il
           representoit ayant paru trop charmante à ses yeux, &amp; n’ayant point douté qu’elle ne
-          fut aimée de Cleandre, elle sentit tout ce qui ne peut s’exprimer,<hi rend="b"/>
+          fut aimée de Cleandre, elle sentit tout ce qui ne peut s’exprimer,<hi rend="b" />
           &amp; qu’elle ne pourroit elle mesme bien décrire : mais voyant qu’une partie de
           l’Assemblée s’appercevoit de son trouble, elle eut l’esprit assez present pour feindre de
           se trouver mal, &amp; elle se laissa tomber sur un Siege qui n’estoit qu’à deux pas
@@ -1174,42 +1185,42 @@
           <label rend="center">En vers libres,</label>
           <label rend="center">Sur le Siege de Charleroy</label>
           <lg>
-            <l><space/>VErs la fin du mois de Decembre,</l>
-            <l><space/>Dorilas vint un jour chez moy :</l>
+            <l><space />VErs la fin du mois de Decembre,</l>
+            <l><space />Dorilas vint un jour chez moy :</l>
             <l>Ah Dieux ! s’écria-t-il en entrant dans ma Chambre,</l>
             <l>Je suis saisi de dépit &amp; d’effroy ;</l>
             <l>Les Ennemis ont marché vers la Sambre,</l>
-            <l><space/>Et vont entrer dans Charleroy !</l>
+            <l><space />Et vont entrer dans Charleroy !</l>
           </lg>
           <lg>
             <l>Après ce mot… Ma foy, je ne sçaurois vous dire</l>
-            <l><space/>S’il continua d’en conter,</l>
-            <l><space/>Car je fis un éclat de rire</l>
-            <l><space/>Qui m’empescha de l’ecouter.</l>
+            <l><space />S’il continua d’en conter,</l>
+            <l><space />Car je fis un éclat de rire</l>
+            <l><space />Qui m’empescha de l’ecouter.</l>
             <l>Luy, d’un air serieux qui montre qu’il s’irrite :</l>
             <l>Vostre rire est plus fou que ce qui vous l’excite,</l>
             <l>Me dit-il, achevez bien de rire, achevez :</l>
             <l>Mais de ma crainte enfin que vous desaprouvez,</l>
-            <l><space/>La cause est-elle si petite,</l>
+            <l><space />La cause est-elle si petite,</l>
             <l>Qu’on ne doive l’avoir qu’au point que vous l’avez ?</l>
             <l>Eh ! non, non, Charleroy, dis-je, est un fort bon giste ;</l>
             <l>Mais qu’ils entrent dans dedans, je croy que vous rêvez,</l>
             <l>Car nos chers Hollandois sont, comme vous sçavez,</l>
             <l>Trop gras &amp; trop pesans, pour avancer si viste.</l>
             <l>Oüy, fort bien, reprit-il, ils sont gras &amp; pesans ;</l>
-            <l><space/>Mais par quelle valeur si grande,</l>
-            <l><space/>Le petit nombre de trois cens</l>
-            <l><space/>Peut-il se defendre au dedans</l>
+            <l><space />Mais par quelle valeur si grande,</l>
+            <l><space />Le petit nombre de trois cens</l>
+            <l><space />Peut-il se defendre au dedans</l>
             <l>Contre l’Armée entière de Holande ?</l>
             <l>À laquelle on a joint ce secours si fameux</l>
-            <l><space/>De nostre Amy le plus sincere,</l>
-            <l><space/>De l’Espagnol, qui, pour le faire,</l>
+            <l><space />De nostre Amy le plus sincere,</l>
+            <l><space />De l’Espagnol, qui, pour le faire,</l>
             <l>S’épuise, épie, &amp; court depuis un an, ou deux ?</l>
           </lg>
           <lg>
             <l>L’état où je vous voy, passe la raillerie,</l>
             <l>Luy dis-je : Cependant pour vous mettre en repos,</l>
-            <l><space/>Ecoutez-moy, je vous en prie.</l>
+            <l><space />Ecoutez-moy, je vous en prie.</l>
             <l>L’y voyant disposé, je luy tins ce propos.</l>
             <l>Ne rougissez-vous pas d’avoie eu l’ame atteinte</l>
             <l>Des honteux mouvemens d’une si lâche crainte ?</l>
@@ -1263,24 +1274,24 @@
             <l>À craindre que jamais la Holande nous domte ;</l>
             <l>Et s’il faut que vostre ame ait cet indigne effroy</l>
             <l>De penser que <hi rend="i">Montal</hi> luy donne Charleroy.</l>
-            <l><space/>L’ame de courroux animée,</l>
+            <l><space />L’ame de courroux animée,</l>
             <l>J’allois poursuivre encor d’un ton plus furieux,</l>
             <l>Lors qu’une Dame entra, que sans peine mes yeux</l>
             <l>Connurent pour la Renommée :</l>
             <l>Du feu, viste, du feu, je suis bien enrûmée,</l>
             <l>Laissez-moy de chauffer, dit-elle, avec vous deux.</l>
-            <l><space/>Il fait un froid insuportable,</l>
-            <l><space/>Et sur tout devant Charleroy :</l>
+            <l><space />Il fait un froid insuportable,</l>
+            <l><space />Et sur tout devant Charleroy :</l>
             <l>Hier encor l’assemblée y paroissoit passable,</l>
             <l>Mais pour y demeurer, il faudroit par ma foy</l>
             <l>Avoir la peau la plus dure que le Diable ;</l>
-            <l><space/><hi rend="i">Montal</hi> l’a de mesme je croy,</l>
+            <l><space /><hi rend="i">Montal</hi> l’a de mesme je croy,</l>
             <l>Car pendant que chacun court se chauffer chez soy,</l>
-            <l><space/>Pour luy seul la place est tenable.</l>
+            <l><space />Pour luy seul la place est tenable.</l>
             <l>Comment, dis-je en riant, que veut dire cela ?</l>
             <l>Eh ! quoy les Holandois, ces testes si subtiles,</l>
-            <l><space/>Ces vaillans Repreneurs de Villes,</l>
-            <l><space/>N’ont pas encor pris celle-là ?</l>
+            <l><space />Ces vaillans Repreneurs de Villes,</l>
+            <l><space />N’ont pas encor pris celle-là ?</l>
           </lg>
           <lg>
             <l>Pris celle-là, dit-elle, ô soupçons ridicules !</l>
@@ -1290,13 +1301,13 @@
             <l>Eux qui craignent le froid à tel point, reprit-elle,</l>
             <l>Que pendant l’Esté mesme, en nous voyant venir,</l>
             <l>Ils furent si glacez de la seule nouvelle,</l>
-            <l><space/>Qu’ils ne sçavoient que devenir.</l>
+            <l><space />Qu’ils ne sçavoient que devenir.</l>
             <l>Comment à Charleroy pourroient-ils soûtenir</l>
             <l>Les dangereux effets d’une bise mortelle,</l>
-            <l><space/>Contre les rigueurs de laquelle,</l>
+            <l><space />Contre les rigueurs de laquelle,</l>
             <l>Les Tourbes de Namur, &amp; le Bois de Bruxelles,</l>
-            <l><space/>N’a pû les résoudre à tenir ?</l>
-            <l><space/>Mais pour vous porte à me croire,</l>
+            <l><space />N’a pû les résoudre à tenir ?</l>
+            <l><space />Mais pour vous porte à me croire,</l>
             <l>Ecoutez en deux mots vous en sçaurez l’Histoire.</l>
           </lg>
           <lg>
@@ -1304,13 +1315,13 @@
             <l>De luy rendre visite avoit fait le dessein ;</l>
             <l>À quoy diable, dit-il, est-ce qu’il se dispose ?</l>
             <l>Au temps qu’il fait, on devoit l’avertir</l>
-            <l><space/>Qu’il est dangereux de sortir :</l>
+            <l><space />Qu’il est dangereux de sortir :</l>
             <l>Mais il veut s’enrûmer, &amp; puis que j’en suis cause,</l>
-            <l><space/>Je ne dois songer qu’à partir,</l>
+            <l><space />Je ne dois songer qu’à partir,</l>
             <l>Pour l’aller recevoir, &amp; bien le divertir ;</l>
             <l>Car puis que pour me voir, ainsi qu’il le supose,</l>
             <l>Mon ancien Camarade à tant de froid s’expose,</l>
-            <l><space/>Comme bon sang ne peut mentir,</l>
+            <l><space />Comme bon sang ne peut mentir,</l>
             <l>Je dois le régaler au moins de quelque chose.</l>
           </lg>
           <lg>
@@ -1322,73 +1333,73 @@
           <lg>
             <l>Dés qu’il est arrivé, son étude s’applique</l>
             <l>À préparer, pour chasser le chagrin,</l>
-            <l><space/>Un fort grand Concert de musique,</l>
-            <l><space/>Avec des Instumens d’airin ;</l>
-            <l><space/>Et comme le froid estoit rude,</l>
+            <l><space />Un fort grand Concert de musique,</l>
+            <l><space />Avec des Instumens d’airin ;</l>
+            <l><space />Et comme le froid estoit rude,</l>
             <l>Pour en faire écouter plus à l’aise le jeu,</l>
-            <l><space/>Son obligeante inquiétude</l>
+            <l><space />Son obligeante inquiétude</l>
             <l>Promit aux Visiteurs de leur faire grand feu.</l>
           </lg>
           <lg>
-            <l><space/>Quoy qu’au ton de nos Serenades</l>
-            <l><space/>Ils dûssent estre accoûtumez</l>
+            <l><space />Quoy qu’au ton de nos Serenades</l>
+            <l><space />Ils dûssent estre accoûtumez</l>
             <l>(Car ils ont eu souvent de pareilles aubades)</l>
             <l>Espagnols, Holandois, tous furent alarmez,</l>
             <l>Tous prirent le dessein de quitter la Partie ;</l>
             <l>Et leur oreille au Bal fut si mal assortie,</l>
             <l>Qu’a peine on avoit eu le temps de commencer,</l>
             <l>Qu’ils témoignerent tous ne sçavoir rien danser,</l>
-            <l><space/>Sinon le Branle de sortie.</l>
+            <l><space />Sinon le Branle de sortie.</l>
           </lg>
           <lg>
-            <l><space/>Ils le dansent en vérité,</l>
-            <l><space/>Avecque leur air ordinaire ;</l>
-            <l><space/>Mais cela ne m’étonne guere,</l>
+            <l><space />Ils le dansent en vérité,</l>
+            <l><space />Avecque leur air ordinaire ;</l>
+            <l><space />Mais cela ne m’étonne guere,</l>
             <l>Car ils l’ont devant nous tant de fois repété,</l>
             <l>Que pour Grossiers qu’ils puissent estre,</l>
             <l>L’un et l’autre Païs le doit sçavoir en Masitre.</l>
           </lg>
           <lg>
-            <l><space/>Mais comme à servir les Ingrats</l>
+            <l><space />Mais comme à servir les Ingrats</l>
             <l>On gagne leur courroux pour tout prix de sa peine,</l>
             <l>Nos genereux Danseurs conçeurent de la haine</l>
             <l>Pour les Musiciens qui leur marquoient leurs pas :</l>
             <l>Ils les auroient blessez s’ils avoient eu des Fléches ;</l>
             <l>Car pour leurs malheureux Mousquets,</l>
             <l>Le rûme &amp; la roupie en rompoient les effets,</l>
-            <l><space/>En tombant sur le feu des méches,</l>
-            <l><space/>Et la poudre des bassinets.</l>
+            <l><space />En tombant sur le feu des méches,</l>
+            <l><space />Et la poudre des bassinets.</l>
           </lg>
           <lg>
-            <l><space/>À ce procédé punissable,</l>
-            <l><space/>Les Musiciens irritez,</l>
+            <l><space />À ce procédé punissable,</l>
+            <l><space />Les Musiciens irritez,</l>
             <l>Entonnerent d’abord un air plus effroyable,</l>
-            <l><space/>Et d’une fughe épouvantable</l>
+            <l><space />Et d’une fughe épouvantable</l>
             <l>La Basse repéta cent tons précipitez.</l>
             <l>Alors tous en desordre ils s’assurent d’un giste</l>
-            <l><space/>Dans les Bois &amp; dans les Valons ;</l>
+            <l><space />Dans les Bois &amp; dans les Valons ;</l>
             <l>Et quoy que gros, pesans, &amp; gueres longs,</l>
-            <l><space/>Ils témoignerent par leur fuite,</l>
-            <l><space/>Que le son des Violons</l>
+            <l><space />Ils témoignerent par leur fuite,</l>
+            <l><space />Que le son des Violons</l>
             <l>Estoit un beau secret pour les faire aller viste,</l>
             <l>Encor qu’ils eussent tous les mules aux talons.</l>
           </lg>
           <lg>
-            <l><space/>Ainsi, tous quitterent la Place</l>
-            <l><space/>En incivils, sans voir <hi rend="i">Montal</hi>,</l>
-            <l><space/>Et sans luy rendre aucune grace</l>
+            <l><space />Ainsi, tous quitterent la Place</l>
+            <l><space />En incivils, sans voir <hi rend="i">Montal</hi>,</l>
+            <l><space />Et sans luy rendre aucune grace</l>
             <l>Du soin qu’il avoit pris pour ce fameux régal.</l>
-            <l><space/>Mais comme je suis peu secrette,</l>
+            <l><space />Mais comme je suis peu secrette,</l>
             <l>Je veux tout dire, &amp; ne rien negliger.</l>
-            <l><space/>Lors que cette Race indiscrette</l>
-            <l><space/>À pris le soin de déloger,</l>
-            <l><space/>Ce n’a pas esté sans Trompette :</l>
+            <l><space />Lors que cette Race indiscrette</l>
+            <l><space />À pris le soin de déloger,</l>
+            <l><space />Ce n’a pas esté sans Trompette :</l>
             <l>Ils en ont dont sans doute ils doivent faire cas,</l>
             <l>Leur industrie est en cela parfaite,</l>
             <l>Et nous met aupres d’eux trente degrez plus bas,</l>
             <l>Car ils sçavent sonner certain air de retraite</l>
             <l>Qui charme à tous momens, &amp; sauve leurs Soldats,</l>
-            <l><space/>Et qu’en France l’on ne sçait pas.</l>
+            <l><space />Et qu’en France l’on ne sçait pas.</l>
           </lg>
           <lg>
             <l>L’Espagne par bonheur chez soy n’a point d’Achile,</l>
@@ -1398,30 +1409,29 @@
             <l><hi rend="i">Louvignies</hi>, dit-on, peut fort bien nous l’apprendre ;</l>
             <l>Mais, par ma foy, si la chose est ainsi</l>
             <l>Que l’on veut nous la faire entendre,</l>
-            <l><space/>Son Cheval est donc mort aussi,</l>
+            <l><space />Son Cheval est donc mort aussi,</l>
             <l>Car je vis quand il reçeut l’entorce</l>
-            <l><space/>D’un coup pour son talon fatal,</l>
+            <l><space />D’un coup pour son talon fatal,</l>
             <l>Il les tenoit tous deux apuyez avec force</l>
-            <l><space/>Contre les flancs de son Cheval.</l>
+            <l><space />Contre les flancs de son Cheval.</l>
           </lg>
           <lg>
-            <l><space/>Adieu, Messieurs, poursuivit-elle,</l>
+            <l><space />Adieu, Messieurs, poursuivit-elle,</l>
             <l>Vous ne serez pas si-tost régalez</l>
-            <l><space/>Du détail de cette nouvelle ;</l>
-            <l><space/>Mais j’ay peine à la croire telle,</l>
-            <l><space/>Sans que pour la rendre si belle,</l>
-            <l><hi rend="i">Duras</hi> &amp; <hi rend="i">Montauban</hi> s’en soient un peu
-              meslez.</l>
+            <l><space />Du détail de cette nouvelle ;</l>
+            <l><space />Mais j’ay peine à la croire telle,</l>
+            <l><space />Sans que pour la rendre si belle,</l>
+            <l><hi rend="i">Duras</hi> &amp; <hi rend="i">Montauban</hi> s’en soient un peu meslez.</l>
             <l>Je vais d’une vistesse à nulle autre seconde</l>
-            <l><space/>En informer tous les Estats,</l>
+            <l><space />En informer tous les Estats,</l>
             <l>Parler du Grand <hi rend="i">Loüis</hi> sur la Terre &amp; sur l’Onde,</l>
-            <l><space/>Et disposer tout le Monde</l>
-            <l><space/>À se soûmettre à son bras.</l>
-            <l><space/>À cette derniere parole</l>
-            <l><space/>La belle Courriere s’envole ;</l>
-            <l><space/>Et je gronday tant Dorilas,</l>
+            <l><space />Et disposer tout le Monde</l>
+            <l><space />À se soûmettre à son bras.</l>
+            <l><space />À cette derniere parole</l>
+            <l><space />La belle Courriere s’envole ;</l>
+            <l><space />Et je gronday tant Dorilas,</l>
             <l>Qu’enfin je le rendis, par cent justes reproches,</l>
-            <l><space/>Plus penaut qu’un Fondeur de Cloches.</l>
+            <l><space />Plus penaut qu’un Fondeur de Cloches.</l>
           </lg>
         </quote>
       </div>
@@ -1453,9 +1463,8 @@
           qu’elle est de bon exemple, &amp; qu’elle a touché les cœurs.</p>
       </div>
       <div type="article" xml:id="MG-1673-04_261" resp="mercure">
-        <head>[Critique sur les deux précédentes livraisons du <hi rend="i">Mercure galant.</hi>]*</head>
-        <bibl><title>Le Mercure galant</title>, 1673 (tome IV), p. 261-266 [pagination
-          erronée].</bibl>
+        <head resp="editor">Critique sur les deux précédentes livraisons du <hi rend="i">Mercure galant.</hi></head>
+        <bibl><title>Le Mercure galant</title>, 1673 (tome IV), p. 261-266 [pagination erronée].</bibl>
         <p>Quelques affaires m’ayant empesché de retourner sitost que je souhaitois dans la Ruelle,
           où j’avois appris l’Histoire de Leonidas, je fus à peine delivré de l’embarras qu’elles me
           donnoient, que j’y retournay ; &amp; je n’y suis pas plutost entré, que j’entendis ce que
@@ -1526,57 +1535,57 @@
           <label rend="center">Sur la</label>
           <label rend="center">Mort de Moliere.</label>
           <l>Si dans son Art, c’est estre un Ouvrier parfait,</l>
-          <l><space/>Que sçavoir trait pour trait</l>
-          <l><space/><space/>Imiter la Nature</l>
-          <l><space/><hi rend="i">Molière</hi> doit passer pour tel ;</l>
+          <l><space />Que sçavoir trait pour trait</l>
+          <l><space /><space />Imiter la Nature</l>
+          <l><space /><hi rend="i">Molière</hi> doit passer pour tel ;</l>
           <l>Michel-Ange, Le Brun et toute la Peinture.</l>
           <l>Comme luy n’ont sçeu faire un Mort au naturel.</l>
           <label rend="center">Autre.</label>
           <l>CY git un grand Acteur que l’on dit estre mort ;</l>
-          <l><space/>Je ne sçay s’il l’est, ou s’il dort.</l>
-          <l><space/>Sa Maladie Imaginaire</l>
-          <l><space/>Ne sçauroit l’avoir fait mourir,</l>
-          <l><space/>C'est un tour qu’il fait à plaisir</l>
-          <l><space/>Car il aimoit à contrefaire.</l>
-          <l><space/>Quoi qu’il en soit cy gist <hi rend="i">Moliere</hi> ;</l>
-          <l><space/>Comme il estoit Comedien,</l>
-          <l><space/>S'il fait le Mort, il le fait bien.</l>
+          <l><space />Je ne sçay s’il l’est, ou s’il dort.</l>
+          <l><space />Sa Maladie Imaginaire</l>
+          <l><space />Ne sçauroit l’avoir fait mourir,</l>
+          <l><space />C'est un tour qu’il fait à plaisir</l>
+          <l><space />Car il aimoit à contrefaire.</l>
+          <l><space />Quoi qu’il en soit cy gist <hi rend="i">Moliere</hi> ;</l>
+          <l><space />Comme il estoit Comedien,</l>
+          <l><space />S'il fait le Mort, il le fait bien.</l>
           <label rend="center">Autre.</label>
-          <l><space/>Cy gist le Terence François,</l>
-          <l><space/>Qui merita pendant sa vie,</l>
-          <l><space/>De divertir malgré l’envie,</l>
-          <l><space/>Le plus sage de tous les Rois :</l>
-          <l><space/>Il a poussé l’Esprit Comique</l>
-          <l><space/>Jusques au dernier de ses jours ;</l>
-          <l><space/>La Mort en arrestant le cours,</l>
-          <l><space/>Il a finy par le Tragique.</l>
+          <l><space />Cy gist le Terence François,</l>
+          <l><space />Qui merita pendant sa vie,</l>
+          <l><space />De divertir malgré l’envie,</l>
+          <l><space />Le plus sage de tous les Rois :</l>
+          <l><space />Il a poussé l’Esprit Comique</l>
+          <l><space />Jusques au dernier de ses jours ;</l>
+          <l><space />La Mort en arrestant le cours,</l>
+          <l><space />Il a finy par le Tragique.</l>
           <label rend="center">Autre.</label>
-          <l><space/>CY git qui parut sur la Scene</l>
-          <l><space/>Le Singe de la Vie humaine,</l>
-          <l><space/>Qui n’aura jamais son égal,</l>
+          <l><space />CY git qui parut sur la Scene</l>
+          <l><space />Le Singe de la Vie humaine,</l>
+          <l><space />Qui n’aura jamais son égal,</l>
           <l>Qui voulant de la Mort, ainsi que de la Vie,</l>
           <l>Estre l’Imitateur dans une Comedie,</l>
           <l>Pour trop bien réüssir, y réüssit fort mal ;</l>
-          <l><space/>Car la Mort en estant ravie,</l>
-          <l><space/>Trouva si belle la Copie</l>
-          <l><space/>Qu'elle en fit un Original.</l>
+          <l><space />Car la Mort en estant ravie,</l>
+          <l><space />Trouva si belle la Copie</l>
+          <l><space />Qu'elle en fit un Original.</l>
           <label rend="center">Autre.</label>
-          <l><space/>CY git sous cette froide Biere,</l>
-          <l><space/>Le fameux Comique <hi rend="i">Moliere</hi>,</l>
-          <l><space/>Je ne sçay pas bien s’il y dort ;</l>
-          <l><space/>Celuy qui sçeut tout contrefaire,</l>
+          <l><space />CY git sous cette froide Biere,</l>
+          <l><space />Le fameux Comique <hi rend="i">Moliere</hi>,</l>
+          <l><space />Je ne sçay pas bien s’il y dort ;</l>
+          <l><space />Celuy qui sçeut tout contrefaire,</l>
           <l>Y pourroit bien encor contrefaire le Mort.</l>
           <label rend="center">Autre.</label>
-          <l><space/>Celuy qui git dans ce Tombeau,</l>
-          <l><space/>Passant, c’est le fameux <hi rend="i">Moliere</hi>,</l>
-          <l><space/>De qui l’esprit estoit si beau,</l>
+          <l><space />Celuy qui git dans ce Tombeau,</l>
+          <l><space />Passant, c’est le fameux <hi rend="i">Moliere</hi>,</l>
+          <l><space />De qui l’esprit estoit si beau,</l>
           <l>Que rien ne faisoit peine à sa vive lumière.</l>
           <l>Regrete son trépas si tu chéris les vers,</l>
           <l>Car il charmoit les sens sur tous Sujets divers :</l>
           <l>Mais la cruelle Parque, en nous faisant injure,</l>
-          <l><space/>S'accordant avecque la Mort,</l>
-          <l><space/>La laissé dans la Sepulture,</l>
-          <l><space/>Où cet Acteur faisait le Mort.</l>
+          <l><space />S'accordant avecque la Mort,</l>
+          <l><space />La laissé dans la Sepulture,</l>
+          <l><space />Où cet Acteur faisait le Mort.</l>
           <label rend="center">Autre.</label>
           <l>Sous ce Tombeau gissent Plaute et Terence,</l>
           <l>Et cependant le seul <hi rend="i">Moliere</hi> y git.</l>
@@ -1587,21 +1596,21 @@
           <l>Pour un longtemps, selon toute apparence,</l>
           <l>Terence, Plaute &amp; <hi rend="i">Moliere</hi> sont morts.</l>
           <label rend="center">Autre.</label>
-          <l><space/>C'Est donc là le pauvre <hi rend="i">Moliere</hi></l>
-          <l><space/>Qu'on porte dans le Cimetière,</l>
+          <l><space />C'Est donc là le pauvre <hi rend="i">Moliere</hi></l>
+          <l><space />Qu'on porte dans le Cimetière,</l>
           <l>En le voyant passer, dirent quelques Voisins.</l>
-          <l><space/>Non, non, dit un Apoticaire,</l>
-          <l><space/>Ce n’est qu’un Mort Imaginaire,</l>
-          <l><space/>Qui se raille des Medecins.</l>
+          <l><space />Non, non, dit un Apoticaire,</l>
+          <l><space />Ce n’est qu’un Mort Imaginaire,</l>
+          <l><space />Qui se raille des Medecins.</l>
           <label rend="center">Autre.</label>
           <l>PLuton voulant donner aux gens de l’autre vie</l>
-          <l><space/>Le plaisir de la Comedie,</l>
+          <l><space />Le plaisir de la Comedie,</l>
           <l>Ayant pour faire un choix longtemps délibéré,</l>
-          <l><space/>Ne trouva rien plus à leur gré,</l>
-          <l><space/>Que le <hi rend="i">Malade Imaginaire</hi> ;</l>
+          <l><space />Ne trouva rien plus à leur gré,</l>
+          <l><space />Que le <hi rend="i">Malade Imaginaire</hi> ;</l>
           <l>Mais comme par malheur il manquoit un Acteur,</l>
           <l>L'un d’entr'eux dit tout haut qu’on ne pouvoit mieux faire</l>
-          <l><space/>Que d’envoyer quérir l’Autheur.</l>
+          <l><space />Que d’envoyer quérir l’Autheur.</l>
           <label rend="center">Autre.</label>
           <l>MOliere à chacun a fait voir</l>
           <l>L'inutilité du sçavoir</l>
@@ -1666,7 +1675,7 @@
             qu’elles y servent, je sçaurai les y accommoder, &amp; je suivray en cela l’exemple de
             bien d’autres. Repetons les donc encore une fois ces paroles, pour les appliquer au
             sujet que nous traitons. <hi rend="i">Ma Femme est morte, je la pleure ; si elle vivoit,
-              nous nous querellerions</hi>. Moliere est mort, plusieurs le pleurent, &amp; s’il
+            nous nous querellerions</hi>. Moliere est mort, plusieurs le pleurent, &amp; s’il
             vivoit, ils luy porteroient envie. Il est mort, ce grand Reformateur de tout le Genre
             humain ; ce Peintre des Mœurs, cet Introducteur des Plaisirs, des Ris &amp; des Jeux ;
             ce Frondeur des vices, ce redoutable Fleau de tous les Turlupins ; &amp; pour tout
@@ -1741,7 +1750,8 @@
             est utile, les Comediens le sont ; si les Comediens sont utiles, les Autheurs le sont
             encor davantage ; si les Autheurs le sont, Moliere a dû l’estre beaucoup ; &amp; s’il
             l’a esté nous devons pleurer sa perte. Pleurons la donc, Messieurs, pleurons la ; mais
-            pendant que nous la pleurerons, écoutons ces Violons qui la pleurent aussi<note resp="author"> Les Violons jouënt languissamment.</note>. C'est assez. Messieurs,
+            pendant que nous la pleurerons, écoutons ces Violons qui la pleurent aussi<note
+              resp="author"> Les Violons jouënt languissamment.</note>. C'est assez. Messieurs,
             c’est assez ; la maniere de joüer de cet inimitable Acteur me réveille, &amp; puis
             qu’elle fait le sujet de mon troisiéme Point, il faut que j’en parle sans attendre
             davantage. Les Anciens n’ont jamais eu d’Acteur égal à celuy dont nous pleurons
@@ -1828,16 +1838,18 @@
             faire voir son Tombeau. Hastez-vous. Est-il achevé ? Estes-vous prests ? Faites-nous
             voir ce qui doit renouveller nos douleurs.</p>
           <stage>On tire un rideau de deuil, &amp; le mausolée paroist.</stage>
-          <p>Ah que voy-je ! Je ne puis sans mourir regarder cet Illustre Défunt.<note resp="author"> Il s’enfonce dans la Chaise.</note> Fuyons ces objets funebres.<note resp="author"> Il se releve.</note> Il faut pourtant avoir un peu de fermeté,
-            &amp; regarder ce Tombeau ; Tombeau, qui renfermez les ris &amp; les jeux ; Tombeau, qui
-            renfermez la joye ; Tombeau... Tombeau... Tombeau... C’est un Tombeau, Messieurs, &amp;
-            vous le voyez bien. Tous les Poëtes de l’antiquité remplissent ces niches ; &amp; les
-            plus Comiques soûtiennent.... Ah ! Messieurs, je ne puis achever, quand je voy que les
-            yeux de cet illustre Autheur sont fermez pour jamais ; je ne puis retenir mes larmes.
-            Démocrite n’avoit jamais pleuré, &amp; vous voyez ce Philosophe le mouchoir à la main.
-            Ephestion mourut de rire, &amp; cependant vous le voyez aujourd’huy fondre en larmes
-            auprès du Tombeau de cet Illustre Défunt. Ah remplissons toutes ces urnes avec l’eau de
-            nos pleurs. Il nous en a fait répandre de joye, versons-en de douleur auprès de son
+          <p>Ah que voy-je ! Je ne puis sans mourir regarder cet Illustre Défunt.<note resp="author">
+            Il s’enfonce dans la Chaise.</note> Fuyons ces objets funebres.<note resp="author"> Il
+            se releve.</note> Il faut pourtant avoir un peu de fermeté, &amp; regarder ce Tombeau ;
+            Tombeau, qui renfermez les ris &amp; les jeux ; Tombeau, qui renfermez la joye ;
+            Tombeau... Tombeau... Tombeau... C’est un Tombeau, Messieurs, &amp; vous le voyez bien.
+            Tous les Poëtes de l’antiquité remplissent ces niches ; &amp; les plus Comiques
+            soûtiennent.... Ah ! Messieurs, je ne puis achever, quand je voy que les yeux de cet
+            illustre Autheur sont fermez pour jamais ; je ne puis retenir mes larmes. Démocrite
+            n’avoit jamais pleuré, &amp; vous voyez ce Philosophe le mouchoir à la main. Ephestion
+            mourut de rire, &amp; cependant vous le voyez aujourd’huy fondre en larmes auprès du
+            Tombeau de cet Illustre Défunt. Ah remplissons toutes ces urnes avec l’eau de nos
+            pleurs. Il nous en a fait répandre de joye, versons-en de douleur auprès de son
             Tombeau ; honorons-le de toutes manieres. Riches, faites faire des Statuës à sa gloire.
             Beaux Esprits, apportez des Ouvrages qui ne chantent que ses louanges. Et vous, Peuples,
             donnez-luy des larmes, si vous ne les pouvez accompagner d’autre chose. Il est mort, ce

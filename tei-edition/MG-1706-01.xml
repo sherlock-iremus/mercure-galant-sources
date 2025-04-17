@@ -63,7 +63,7 @@
     <body>
                 <head><hi rend="i">Mercure galant</hi>, janvier 1706 [tome 1].</head>
                 <div type="article" xml:id="MG-1706-01_43">
-                    <head>[Mort de François Destiene]*</head>
+                    <head resp="editor">Mort de François Destiene</head>
                     <bibl><title>Mercure galant</title>, janvier 1706 [tome 1], p. 43-44.</bibl>
                     <p>M<hi rend="sup">re</hi> François Destiene, Seigneur de Barlemont, est mort en
                         Provence. C’estoit un Gentilhomme de beaucoup d’esprit, qui faisoit de
@@ -217,7 +217,7 @@
                         Castel-dos-Rius sera toûjours en veneration dans toute la France.</p>
                 </div>
                 <div type="article" xml:id="MG-1706-01_227">
-                    <head>[M<hi rend="sup">rs</hi> Boivin et Fraguier remplacent M<hi rend="sup">r</hi> Pouchard]*</head>
+                    <head resp="editor">M<hi rend="sup">rs</hi> Boivin et Fraguier remplacent M<hi rend="sup">r</hi> Pouchard</head>
                     <bibl><title>Mercure galant</title>, janvier 1706 [tome 1], p. 227-228.</bibl>
                     <p>M<hi rend="sup">r</hi> Boivin, Sous-Bibliothecaire de la Bibliotheque du Roy,
                         qui a donné une traduction Latine de Gregorias, a esté pourvû de la Chaire
@@ -421,7 +421,7 @@
                         l’Octave dans l’Eglise de S. Hilaire, &amp; son discours fut fort aplaudi.</p>
                 </div>
                 <div type="article" xml:id="MG-1706-01_351">
-                    <head>[Extrait d’une Lettre de Madrid]*</head>
+                    <head resp="editor">Extrait d’une Lettre de Madrid</head>
                     <bibl><title>Mercure galant</title>, janvier 1706 [tome 1], p. 351-352.</bibl>
                     <p>Ce que vous allez lire est tiré d’une autre Lettre de Madrid, &amp; peut
                         servir de suite à la Lettre precedente.</p>

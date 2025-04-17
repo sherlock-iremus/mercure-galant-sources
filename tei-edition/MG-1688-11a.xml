@@ -67,7 +67,7 @@
     <body>
       <head><hi rend="i">Mercure galant</hi>, novembre 1688 (première partie) [tome 15].</head>
       <div type="article" xml:id="MG-1688-11a_017" resp="wordpro">
-        <head>[Mort de Madame la présidente de Mesme]*</head>
+        <head resp="editor">Mort de Madame la présidente de Mesme</head>
         <bibl><title>Mercure galant</title>, novembre 1688 (première partie) [tome 15],
           p. 17-18</bibl>
         <p/>
@@ -1187,7 +1187,7 @@
           Presidial, de la Prevosté, de l’Election, &amp; du Grenier à Sel y assisterent aussi.</p>
       </div>
       <div type="article" xml:id="MG-1688-11a_183" resp="wordpro">
-        <head>[Bénéfices donnés à l’Abbé de Genest]*</head>
+        <head resp="editor">Bénéfices donnés à l’Abbé de Genest</head>
         <bibl><title>Mercure galant</title>, novembre 1688 (première partie) [tome 15],
           p. 183-184</bibl>
         <p/>
@@ -1200,7 +1200,7 @@
           reussit avec beaucoup d’avantage.</p>
       </div>
       <div type="article" xml:id="MG-1688-11a_185" resp="wordpro">
-        <head>[Bénéfices donnés à l’Abbé de Bussy-Rabutin]*</head>
+        <head resp="editor">Bénéfices donnés à l’Abbé de Bussy-Rabutin</head>
         <bibl><title>Mercure galant</title>, novembre 1688 (première partie) [tome 15],
           p. 185</bibl>
         <p/>
@@ -1472,7 +1472,7 @@
         </ref>
       </div>
       <div type="article" xml:id="MG-1688-11a_283" resp="wordpro">
-        <head>[Médaille représentant le pasteur Jurieu]*</head>
+        <head resp="editor">Médaille représentant le pasteur Jurieu</head>
         <bibl><title>Mercure galant</title>, novembre 1688 (première partie) [tome 15],
           p. 283-284</bibl>
         <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : La
@@ -1486,7 +1486,7 @@
           d’exposer leurs vies &amp; leurs biens.</p>
       </div>
       <div type="article" xml:id="MG-1688-11a_295" resp="wordpro">
-        <head>[Entreprises du prince d'Orange relatées dans la troisième partie des Affaires du temps.]*</head>
+        <head resp="editor">Entreprises du prince d'Orange relatées dans la troisième partie des Affaires du temps.</head>
         <bibl><title>Mercure galant</title>, novembre 1688 (première partie) [tome 15],
           p. 295-297</bibl>
         <p/>
@@ -1545,7 +1545,7 @@
           l’Hostel de Crequy sur le Quay Malacquest.</p>
       </div>
       <div type="article" xml:id="MG-1688-11a_332" resp="mercure">
-        <head>[Mort de Philippe Quinault]*</head>
+        <head resp="editor">Mort de Philippe Quinault</head>
         <bibl><title>Mercure galant</title>, novembre 1688 (première partie) [tome 15], p.
           332-334</bibl>
         <p/>
@@ -1564,7 +1564,7 @@
           estoit Auditeur, &amp; à l'Academie Françoise.</p>
       </div>
       <div type="article" xml:id="MG-1688-11a_334" resp="wordpro">
-        <head>[Mort de M. Doujat]*</head>
+        <head resp="editor">Mort de M. Doujat</head>
         <bibl><title>Mercure galant</title>, novembre 1688 (première partie) [tome 15],
           p. 334-337</bibl>
         <p/>
