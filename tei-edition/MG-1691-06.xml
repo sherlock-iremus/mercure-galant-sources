@@ -1852,14 +1852,19 @@
         </quote>
       </div>
       <div type="article" xml:id="MG-1691-06_208" resp="wordpro">
-        <head>[Histoire]</head>
-        <bibl><title>Mercure galant</title>, juin 1691 [tome 6], p. 208-243.</bibl>
-        <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : La
-          Medaille doit regarder la page 208.</note>
-        <p/>
-        <p>L’usage estant de fraper des Medailles pour tout ce qui se fait de memorable dans les
-          Etats des Souverains, je vous envoye celle qui a esté frapée à l’occasion du mariage du
-          Roy d’Espagne.</p>
+        <div type="article" xml:id="MG-1691-06_208a" resp="wordpro">
+          <head>[Médaille frappée pour le mariage du roi d’Espagne]*</head>
+          <bibl><title>Mercure galant</title>, juin 1691 [tome 6], p. 208.</bibl>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : La
+            Medaille doit regarder la page 208.</note>
+          <p/>
+          <p>L’usage estant de fraper des Medailles pour tout ce qui se fait de memorable dans les
+            Etats des Souverains, je vous envoye celle qui a esté frapée à l’occasion du mariage du
+            Roy d’Espagne.</p>
+        </div>
+        <div type="article" xml:id="MG-1691-06_208b" resp="wordpro">
+          <head>[Histoire]</head>
+          <bibl><title>Mercure galant</title>, juin 1691 [tome 6], p. 208-243.</bibl>
         <p>Les passions violentes font beaucoup souffrir. Heureux qui est assez maistre de
           soy-mesme, pour se tenir toujours en estat de les surmonter. Un Cavalier, que la qualité
           de fort honneste homme, &amp; les avantages du bien &amp; de la naissance rendoient un
