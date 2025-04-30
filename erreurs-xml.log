@@ -1,0 +1,321 @@
+./tei-edition/MG-1681-03.xml:1381: parser error : Opening and ending tag mismatch: p line 1372 and div
+</div>
+      ^
+./tei-edition/MG-1681-03.xml:2019: parser error : Opening and ending tag mismatch: div line 1369 and body
+    </body>
+           ^
+./tei-edition/MG-1681-03.xml:2020: parser error : Opening and ending tag mismatch: body line 66 and text
+  </text>
+         ^
+./tei-edition/MG-1681-03.xml:2021: parser error : Opening and ending tag mismatch: text line 65 and TEI
+</TEI>
+      ^
+./tei-edition/MG-1681-03.xml:2022: parser error : Premature end of data in tag TEI line 3
+
+^
+./tei-edition/MG-1681-03e.xml:2: parser error : Start tag expected, '<' not found
+1681-03e_2961681-03e_296<?xml-model href="https://obvil.github.io/Teinte/teinte.
+^
+./tei-edition/MG-1681-09.xml:1943: parser error : Opening and ending tag mismatch: note line 1943 and head
+<note resp="editor">Médaille avec le portrait de la duchesse de Fontanges</head
+                                                                               ^
+./tei-edition/MG-1681-09.xml:1952: parser error : Opening and ending tag mismatch: head line 1943 and div
+   </div>
+         ^
+./tei-edition/MG-1681-09.xml:2198: parser error : Opening and ending tag mismatch: div line 1942 and body
+  </body>
+         ^
+./tei-edition/MG-1681-09.xml:2199: parser error : Opening and ending tag mismatch: body line 64 and text
+ </text>
+        ^
+./tei-edition/MG-1681-09.xml:2200: parser error : Opening and ending tag mismatch: text line 63 and TEI
+</TEI>
+      ^
+./tei-edition/MG-1681-09.xml:2201: parser error : Premature end of data in tag TEI line 3
+
+^
+./tei-edition/MG-1683-03e.xml:2: parser error : Start tag expected, '<' not found
+sentiments<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="app
+^
+./tei-edition/MG-1685-06e.xml:1199: parser error : Opening and ending tag mismatch: bibl line 1199 and note
+ril 1685 (tome XXX), p. 285-265 ["><hi rend="italic">rect. </hi>285-289].</note>
+                                                                               ^
+./tei-edition/MG-1685-06e.xml:1199: parser error : Opening and ending tag mismatch: div line 1197 and bibl
+85 (tome XXX), p. 285-265 ["><hi rend="italic">rect. </hi>285-289].</note></bibl
+                                                                               ^
+./tei-edition/MG-1685-06e.xml:1285: parser error : Opening and ending tag mismatch: body line 63 and div
+        </div>
+              ^
+./tei-edition/MG-1685-06e.xml:1288: parser error : Opening and ending tag mismatch: div line 1286 and bibl
+os (265-279) ; cet article fait partie de la seconde série.</note></bibl></bibl
+                                                                               ^
+./tei-edition/MG-1685-06e.xml:1495: parser error : Opening and ending tag mismatch: text line 62 and div
+        </div>
+              ^
+./tei-edition/MG-1685-06e.xml:1496: parser error : Opening and ending tag mismatch: TEI line 2 and body
+      </body>
+             ^
+./tei-edition/MG-1685-06e.xml:1497: parser error : Extra content at the end of the document
+  </text>
+  ^
+./tei-edition/MG-1685-11.xml:111: parser error : Opening and ending tag mismatch: bibl line 111 and title
+ novembre 1685 [tome 11], p. 25-68 ["><hi rend="italic">rect.</hi> 52-68]</title
+                                                                               ^
+./tei-edition/MG-1687-11.xml:990: element div: validity error : ID MG-1687-11_244 already defined
+      <div type="article" xml:id="MG-1687-11_244" resp="wordpro">
+                                                                ^
+./tei-edition/MG-1687-11.xml:1007: parser error : Opening and ending tag mismatch: div line 990 and p
+        dans la Relation dont je viens de vous parler.</p>
+                                                          ^
+./tei-edition/MG-1687-11.xml:1008: parser error : Opening and ending tag mismatch: body line 64 and div
+      </div>
+            ^
+./tei-edition/MG-1687-11.xml:1145: parser error : Opening and ending tag mismatch: text line 63 and body
+    </body>
+           ^
+./tei-edition/MG-1687-11.xml:1146: parser error : Opening and ending tag mismatch: TEI line 3 and text
+  </text>
+         ^
+./tei-edition/MG-1687-11.xml:1147: parser error : Extra content at the end of the document
+</TEI>
+^
+./tei-edition/MG-1688-12a.xml:1103: parser error : Opening and ending tag mismatch: p line 830 and div
+      </div>
+            ^
+./tei-edition/MG-1688-12a.xml:1489: parser error : Opening and ending tag mismatch: quote line 753 and body
+    </body>
+           ^
+./tei-edition/MG-1688-12a.xml:1490: parser error : Opening and ending tag mismatch: div line 740 and text
+  </text>
+         ^
+./tei-edition/MG-1688-12a.xml:1491: parser error : Opening and ending tag mismatch: body line 67 and TEI
+</TEI>
+      ^
+./tei-edition/MG-1688-12a.xml:1492: parser error : Premature end of data in tag text line 66
+
+^
+./tei-edition/MG-1689-01a.xml:83: parser error : Opening and ending tag mismatch: note line 83 and hi
+              <l rend="i">Que ta main <note resp="author"></hi> Matth. c. 5.</n
+                                                               ^
+./tei-edition/MG-1689-01a.xml:83: parser error : Opening and ending tag mismatch: l line 83 and note
+          <l rend="i">Que ta main <note resp="author"></hi> Matth. c. 5.</note>
+                                                                               ^
+./tei-edition/MG-1689-01a.xml:83: parser error : Opening and ending tag mismatch: lg line 72 and l
+ <note resp="author"></hi> Matth. c. 5.</note> triomphante ose mettre le fer</l
+                                                                               ^
+./tei-edition/MG-1689-01a.xml:91: parser error : Opening and ending tag mismatch: note line 91 and hi
+              <l rend="i">Le doigt de Dieu <note resp="author"></hi> Exod. c. 8
+                                                                    ^
+./tei-edition/MG-1689-01a.xml:91: parser error : Opening and ending tag mismatch: l line 91 and note
+       <l rend="i">Le doigt de Dieu <note resp="author"></hi> Exod. c. 8</note>
+                                                                               ^
+./tei-edition/MG-1689-01a.xml:91: parser error : Opening and ending tag mismatch: quote line 70 and hi
+ote resp="author"></hi> Exod. c. 8</note>sur toy se découvre à nos yeux,</hi>
+                                                                               ^
+./tei-edition/MG-1689-01a.xml:91: parser error : Opening and ending tag mismatch: div line 65 and l
+ resp="author"></hi> Exod. c. 8</note>sur toy se découvre à nos yeux,</hi></l
+                                                                               ^
+./tei-edition/MG-1689-01a.xml:107: parser error : Opening and ending tag mismatch: note line 107 and hi
+              <l rend="i">Distingua ce <note resp="author"></hi> Constantin le G
+                                                                ^
+./tei-edition/MG-1689-01a.xml:107: parser error : Opening and ending tag mismatch: l line 107 and note
+  <l rend="i">Distingua ce <note resp="author"></hi> Constantin le Grand.</note>
+                                                                               ^
+./tei-edition/MG-1689-01a.xml:107: parser error : Opening and ending tag mismatch: body line 63 and hi
+sp="author"></hi> Constantin le Grand.</note>Heros, qui fidelle à ses loix</hi>
+                                                                               ^
+./tei-edition/MG-1689-01a.xml:107: parser error : Opening and ending tag mismatch: text line 62 and l
+"author"></hi> Constantin le Grand.</note>Heros, qui fidelle à ses loix</hi></l
+                                                                               ^
+./tei-edition/MG-1689-01a.xml:124: parser error : Opening and ending tag mismatch: note line 124 and hi
+              <l rend="i">Reviennent <note resp="author"></hi> Luc. c. 15.</not
+                                                              ^
+./tei-edition/MG-1689-01a.xml:124: parser error : Opening and ending tag mismatch: l line 124 and note
+            <l rend="i">Reviennent <note resp="author"></hi> Luc. c. 15.</note>
+                                                                               ^
+./tei-edition/MG-1689-01a.xml:124: parser error : Opening and ending tag mismatch: TEI line 2 and hi
+e resp="author"></hi> Luc. c. 15.</note>à l’envi dans le sein paternel,</hi>
+                                                                               ^
+./tei-edition/MG-1689-01a.xml:124: parser error : Extra content at the end of the document
+e resp="author"></hi> Luc. c. 15.</note>à l’envi dans le sein paternel,</hi>
+                                                                               ^
+./tei-edition/MG-1689-04a.xml:171: parser error : Opening and ending tag mismatch: note line 171 and hi
+que vous vous estes attiré un semblable succés. Vous <note resp="author"></hi>
+                                                                               ^
+./tei-edition/MG-1689-04a.xml:171: parser error : Opening and ending tag mismatch: hi line 171 and note
+� un semblable succés. Vous <note resp="author"></hi> A M. de Callieres.</note>
+                                                                               ^
+./tei-edition/MG-1689-04a.xml:171: parser error : Opening and ending tag mismatch: p line 171 and hi
+p; où celuy qui obtient ce qu’il desire s’en doit la meilleure partie.</hi>
+                                                                               ^
+./tei-edition/MG-1689-04a.xml:171: parser error : Opening and ending tag mismatch: quote line 169 and p
+où celuy qui obtient ce qu’il desire s’en doit la meilleure partie.</hi></p
+                                                                               ^
+./tei-edition/MG-1689-04a.xml:172: parser error : Opening and ending tag mismatch: note line 172 and hi
+            <p><hi rend="i">Il en est de mesme de vous <note resp="author"></hi>
+                                                                               ^
+./tei-edition/MG-1689-04a.xml:172: parser error : Opening and ending tag mismatch: hi line 172 and note
+d="i">Il en est de mesme de vous <note resp="author"></hi> A M. Renaudot.</note>
+                                                                               ^
+./tei-edition/MG-1689-04a.xml:172: parser error : Opening and ending tag mismatch: p line 172 and hi
+ment d’une affaire ne sont pas toujours ceux qui la conduisent à sa fin.</hi>
+                                                                               ^
+./tei-edition/MG-1689-04a.xml:172: parser error : Opening and ending tag mismatch: div line 164 and p
+t d’une affaire ne sont pas toujours ceux qui la conduisent à sa fin.</hi></p
+                                                                               ^
+./tei-edition/MG-1689-04a.xml:190: parser error : Opening and ending tag mismatch: body line 63 and quote
+          </quote>
+                  ^
+./tei-edition/MG-1689-04a.xml:191: parser error : Opening and ending tag mismatch: text line 62 and div
+        </div>
+              ^
+./tei-edition/MG-1689-04a.xml:479: parser error : Opening and ending tag mismatch: TEI line 2 and body
+      </body>
+             ^
+./tei-edition/MG-1689-04a.xml:480: parser error : Extra content at the end of the document
+  </text>
+  ^
+./tei-edition/MG-1689-09.xml:410: parser error : Opening and ending tag mismatch: p line 410 and hi
+ vos jeunes gens auront des visions, &amp; vos vieillards auront des songes</hi>
+                                                                               ^
+./tei-edition/MG-1689-09.xml:410: parser error : Opening and ending tag mismatch: div line 407 and p
+onnaire ou le Songeur, pourroit-on pas dire qu’en expliquant en 1665. [...]</p
+                                                                               ^
+./tei-edition/MG-1689-09.xml:438: parser error : Opening and ending tag mismatch: body line 63 and div
+        </div>
+              ^
+./tei-edition/MG-1689-09.xml:541: parser error : Opening and ending tag mismatch: text line 62 and body
+      </body>
+             ^
+./tei-edition/MG-1689-09.xml:542: parser error : Opening and ending tag mismatch: TEI line 2 and text
+  </text>
+         ^
+./tei-edition/MG-1689-09.xml:543: parser error : Extra content at the end of the document
+</TEI>
+^
+./tei-edition/MG-1690-10.xml:375: parser error : Opening and ending tag mismatch: note line 375 and l
+� <note resp="author"><note>Excipit Eridanus, Metam. 2.</note> fait naufrage,</l
+                                                                               ^
+./tei-edition/MG-1690-10.xml:391: parser error : Opening and ending tag mismatch: l line 375 and lg
+            </lg>
+                 ^
+./tei-edition/MG-1690-10.xml:392: parser error : Opening and ending tag mismatch: lg line 328 and quote
+          </quote>
+                  ^
+./tei-edition/MG-1690-10.xml:393: parser error : Opening and ending tag mismatch: quote line 326 and div
+        </div>
+              ^
+./tei-edition/MG-1690-10.xml:587: parser error : Opening and ending tag mismatch: div line 322 and body
+      </body>
+             ^
+./tei-edition/MG-1690-10.xml:588: parser error : Opening and ending tag mismatch: body line 63 and text
+  </text>
+         ^
+./tei-edition/MG-1690-10.xml:589: parser error : Opening and ending tag mismatch: text line 62 and TEI
+</TEI>
+      ^
+./tei-edition/MG-1690-10.xml:590: parser error : Premature end of data in tag TEI line 2
+
+^
+./tei-edition/MG-1691-06.xml:2139: parser error : Opening and ending tag mismatch: div line 1854 and body
+    </body>
+           ^
+./tei-edition/MG-1691-06.xml:2140: parser error : Opening and ending tag mismatch: body line 66 and text
+  </text>
+         ^
+./tei-edition/MG-1691-06.xml:2141: parser error : Opening and ending tag mismatch: text line 65 and TEI
+</TEI>
+      ^
+./tei-edition/MG-1691-06.xml:2142: parser error : Premature end of data in tag TEI line 3
+
+^
+./tei-edition/MG-1692-11.xml:888: parser error : expected '>'
+          <bibl><title>Mercure galant</title>, novembre 1692 [tome 14], p. 256-
+          ^
+./tei-edition/MG-1696-11.xml:787: parser error : Opening and ending tag mismatch: body line 63 and div
+      </div>
+            ^
+./tei-edition/MG-1696-11.xml:809: parser error : Opening and ending tag mismatch: text line 62 and body
+      </body>
+             ^
+./tei-edition/MG-1696-11.xml:810: parser error : Opening and ending tag mismatch: TEI line 2 and text
+  </text>
+         ^
+./tei-edition/MG-1696-11.xml:811: parser error : Extra content at the end of the document
+</TEI>
+^
+./tei-edition/MG-1706-02.xml:392: parser error : Opening and ending tag mismatch: p line 392 and note
+ous le nom de <hi rend="i">Joseph</hi>, n’a pas moins tiré de larmes, </note>
+                                                                               ^
+./tei-edition/MG-1706-02.xml:432: parser error : Opening and ending tag mismatch: div line 381 and p
+                        cette nature mieux executez.</p>
+                                                        ^
+./tei-edition/MG-1706-02.xml:433: parser error : Opening and ending tag mismatch: body line 63 and div
+                </div>
+                      ^
+./tei-edition/MG-1706-02.xml:758: parser error : Opening and ending tag mismatch: text line 62 and body
+            </body>
+                   ^
+./tei-edition/MG-1706-02.xml:759: parser error : Opening and ending tag mismatch: TEI line 2 and text
+  </text>
+         ^
+./tei-edition/MG-1706-02.xml:760: parser error : Extra content at the end of the document
+</TEI>
+^
+./tei-edition/MG-1706-03.xml:349: parser error : error parsing attribute name
+                    <head <note> resp="editor">Critique de la nouvelle Grammaire
+                          ^
+./tei-edition/MG-1706-03.xml:349: parser error : attributes construct error
+                    <head <note> resp="editor">Critique de la nouvelle Grammaire
+                          ^
+./tei-edition/MG-1706-03.xml:349: parser error : Couldn't find end of Start Tag head line 349
+                    <head <note> resp="editor">Critique de la nouvelle Grammaire
+                          ^
+./tei-edition/MG-1706-03.xml:349: parser error : Opening and ending tag mismatch: div line 348 and head
+d <note> resp="editor">Critique de la nouvelle Grammaire Françoise</note></head
+                                                                               ^
+./tei-edition/MG-1706-03.xml:356: parser error : Opening and ending tag mismatch: body line 63 and div
+                </div>
+                      ^
+./tei-edition/MG-1706-03.xml:393: parser error : Opening and ending tag mismatch: p line 393 and hi
+r, &amp; qu’une Estampe de cette Medaille accompagneroit bien cet écrit.</hi>
+                                                                               ^
+./tei-edition/MG-1706-03.xml:393: parser error : Opening and ending tag mismatch: div line 390 and p
+&amp; qu’une Estampe de cette Medaille accompagneroit bien cet écrit.</hi></p
+                                                                               ^
+./tei-edition/MG-1706-03.xml:394: parser error : Opening and ending tag mismatch: text line 62 and div
+        </div>
+              ^
+./tei-edition/MG-1706-03.xml:847: parser error : Opening and ending tag mismatch: TEI line 2 and body
+            </body>
+                   ^
+./tei-edition/MG-1706-03.xml:848: parser error : Extra content at the end of the document
+  </text>
+  ^
+./tei-edition/MG-1710-10.xml:47: parser error : error parsing attribute name
+        <head <note resp="editor">Chanson Anacreontique</note></head>
+              ^
+./tei-edition/MG-1710-10.xml:47: parser error : attributes construct error
+        <head <note resp="editor">Chanson Anacreontique</note></head>
+              ^
+./tei-edition/MG-1710-10.xml:47: parser error : Couldn't find end of Start Tag head line 47
+        <head <note resp="editor">Chanson Anacreontique</note></head>
+              ^
+./tei-edition/MG-1710-10.xml:47: parser error : Opening and ending tag mismatch: div line 46 and head
+        <head <note resp="editor">Chanson Anacreontique</note></head>
+                                                                     ^
+./tei-edition/MG-1710-10.xml:50: parser error : EntityRef: expecting ';'
+f target="http://www.theaville.org/kitesite/index.php?r=vaudevilles/afficher&ref
+                                                                               ^
+./tei-edition/MG-1710-10.xml:85: parser error : Opening and ending tag mismatch: body line 44 and div
+      </div>
+            ^
+./tei-edition/MG-1710-10.xml:336: parser error : Opening and ending tag mismatch: text line 43 and body
+            </body>
+                   ^
+./tei-edition/MG-1710-10.xml:337: parser error : Opening and ending tag mismatch: TEI line 2 and text
+  </text>
+         ^
+./tei-edition/MG-1710-10.xml:338: parser error : Extra content at the end of the document
+</TEI>
+^
