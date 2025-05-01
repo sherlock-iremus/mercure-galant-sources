@@ -152,30 +152,6 @@ onnaire ou le Songeur, pourroit-on pas dire quâen expliquant en 1665. [...]
 ./tei-edition/MG-1689-09.xml:543: parser error : Extra content at the end of the document
 </TEI>
 ^
-./tei-edition/MG-1690-10.xml:375: parser error : Opening and ending tag mismatch: note line 375 and l
-´ <note resp="author"><note>Excipit Eridanus, Metam. 2.</note> fait naufrage,</l
-                                                                               ^
-./tei-edition/MG-1690-10.xml:391: parser error : Opening and ending tag mismatch: l line 375 and lg
-            </lg>
-                 ^
-./tei-edition/MG-1690-10.xml:392: parser error : Opening and ending tag mismatch: lg line 328 and quote
-          </quote>
-                  ^
-./tei-edition/MG-1690-10.xml:393: parser error : Opening and ending tag mismatch: quote line 326 and div
-        </div>
-              ^
-./tei-edition/MG-1690-10.xml:587: parser error : Opening and ending tag mismatch: div line 322 and body
-      </body>
-             ^
-./tei-edition/MG-1690-10.xml:588: parser error : Opening and ending tag mismatch: body line 63 and text
-  </text>
-         ^
-./tei-edition/MG-1690-10.xml:589: parser error : Opening and ending tag mismatch: text line 62 and TEI
-</TEI>
-      ^
-./tei-edition/MG-1690-10.xml:590: parser error : Premature end of data in tag TEI line 2
-
-^
 ./tei-edition/MG-1691-06.xml:2139: parser error : Opening and ending tag mismatch: div line 1854 and body
     </body>
            ^
