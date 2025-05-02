@@ -1,36 +1,3 @@
-./tei-edition/MG-1689-09.xml:410: parser error : Opening and ending tag mismatch: p line 410 and hi
- vos jeunes gens auront des visions, &amp; vos vieillards auront des songes</hi>
-                                                                               ^
-./tei-edition/MG-1689-09.xml:410: parser error : Opening and ending tag mismatch: div line 407 and p
-onnaire ou le Songeur, pourroit-on pas dire qu’en expliquant en 1665. [...]</p
-                                                                               ^
-./tei-edition/MG-1689-09.xml:438: parser error : Opening and ending tag mismatch: body line 63 and div
-        </div>
-              ^
-./tei-edition/MG-1689-09.xml:541: parser error : Opening and ending tag mismatch: text line 62 and body
-      </body>
-             ^
-./tei-edition/MG-1689-09.xml:542: parser error : Opening and ending tag mismatch: TEI line 2 and text
-  </text>
-         ^
-./tei-edition/MG-1689-09.xml:543: parser error : Extra content at the end of the document
-</TEI>
-^
-./tei-edition/MG-1691-06.xml:2137: parser error : Opening and ending tag mismatch: div line 1854 and body
-    </body>
-           ^
-./tei-edition/MG-1691-06.xml:2138: parser error : Opening and ending tag mismatch: body line 66 and text
-  </text>
-         ^
-./tei-edition/MG-1691-06.xml:2139: parser error : Opening and ending tag mismatch: text line 65 and TEI
-</TEI>
-      ^
-./tei-edition/MG-1691-06.xml:2140: parser error : Premature end of data in tag TEI line 3
-
-^
-./tei-edition/MG-1706-03.xml:390: element div: validity error : ID MG-1706-03_49 already defined
-        <div type="article" xml:id="MG-1706-03_49">
-                                                  ^
 ./tei-edition/MG-1706-03.xml:393: parser error : Opening and ending tag mismatch: p line 393 and hi
 r, &amp; qu’une Estampe de cette Medaille accompagneroit bien cet écrit.</hi>
                                                                                ^
