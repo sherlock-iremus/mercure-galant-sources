@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Extraordinaire du Mercure galant, quartier de juillet 1680 (tome XI).</title>
+        <title>Extraordinaire du Mercure galant, quartier de juillet 1680 [tome XI].</title>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL/IREMUS</edition>
@@ -47,7 +47,7 @@
       </publicationStmt>
       <sourceDesc>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet <date>1680</date>
-          (tome XI). <hi rend="i">Achevé d’imprimer le 15 octobre 1680</hi>.</bibl>
+          [tome XI]. <hi rend="i">Achevé d’imprimer le 15 octobre 1680</hi>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -63,7 +63,7 @@
     <body>
       <div type="article" xml:id="MG-1680-09e_003" resp="mercure">
         <head>Quelle est l’origine de la dance</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1680 (tome XI),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1680 [tome XI],
           p. 3-44.</bibl>
         <label>Quelle est l’origine de la dance.</label>
         <p>Chaque passion a ses mouvemens propres qui la font connoistre. Ainsi l’Amour, la Haine,
@@ -398,7 +398,7 @@
       </div>
       <div type="article" xml:id="MG-1680-09e_062" resp="mercure">
         <head>De l’origine de la Dance</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1680 (tome XI),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1680 [tome XI],
           p. 62-79.</bibl>
         <label>De l’origine de la Dance.</label>
         <p>Sans consulter les Autheurs qui peuvent avoir écrit sur ce sujet, je vay donner un cours
@@ -540,7 +540,7 @@
       </div>
       <div type="article" xml:id="MG-1680-09e_195" resp="louise">
         <head resp="editor">Vue de la Plaza de Santo Domingo et de ses fontaines</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1680 (tome XI),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1680 [tome XI],
           p. 195.</bibl>
         <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : La
           Figure où est écrit, <hi rend="i">Vista de la Plazuela de San Domingo, y de la Fuente en
@@ -554,7 +554,7 @@
       </div>
       <div type="article" xml:id="MG-1680-09e_240" resp="mercure">
         <head>De l’origine de l’harmonie</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1680 (tome XI),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1680 [tome XI],
           p. 240-275.</bibl>
         <label>De l’origine de l’harmonie.</label>
         <p>Voicy un sujet aussi laborieux que charmant, pour qui voudroit l’aprofondir ; mais pour
@@ -835,7 +835,7 @@
       </div>
       <div type="article" xml:id="MG-1680-09e_298" resp="louise">
         <head resp="editor">Vue de la Plaza de Santo Domingo, dite de la Cevada</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1680 (tome XI),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1680 [tome XI],
           p. 298.</bibl>
         <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : La
           Figure où est écrit, <hi rend="i">Vista de la Fuente y Plazuela de la Cavada de

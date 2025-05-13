@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Extraordinaire du Mercure galant, quartier d’octobre 1683 (tome XXIV).</title>
+        <title>Extraordinaire du Mercure galant, quartier d’octobre 1683 [tome XXIV].</title>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL/IReMuS</edition>
@@ -47,7 +47,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier d’<date>octobre 1683</date> (tome XXIV).</bibl>
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier d’<date>octobre 1683</date> [tome XXIV].</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -61,10 +61,10 @@
   </teiHeader>
   <text>
     <body>
-        <head><hi rend="i">Extraordinaire du Mercure galant</hi>, quartier d’octobre 1683 (tome XXIV).</head>
+        <head><hi rend="i">Extraordinaire du Mercure galant</hi>, quartier d’octobre 1683 [tome XXIV].</head>
         <div type="article" xml:id="MG-1683-12e_003" resp="mercure">
           <head>Conversation académique, dans lequelle il est traité des bonnes, &amp; des mauvaises qualitez de l’Air</head>
-          <bibl><title>Extraordinaire du Mercure galant</title>, quartier d’octobre 1683 (tome 24), p. 3, 8-11, 31-32.</bibl>
+          <bibl><title>Extraordinaire du Mercure galant</title>, quartier d’octobre 1683 [tome XXIV], p. 3, 8-11, 31-32.</bibl>
           <quote>
             <label>CONVERSATION ACADEMIQUE, Dans laquelle il est traité des bonnes, &amp; des mauvaises qualitez de l'Air.<lb/><hi rend="i">A Madame la Comtesse de C.R.C.</hi></label>
           </quote>
@@ -88,7 +88,7 @@
         </div>
         <div type="article" xml:id="MG-1683-12e_089" resp="nbb">
           <head>Suite du Traité des Lunetes</head>
-          <bibl><title>Extraordinaire du Mercure galant</title>, quartier d’octobre 1683 (tome 24), p. 89-102</bibl>
+          <bibl><title>Extraordinaire du Mercure galant</title>, quartier d’octobre 1683 [tome XXIV], p. 89-102</bibl>
           <quote>
             <label>SUITE DU TRAITÉ<lb/>DES LUNETES,<lb/>Dédié à Monseigneur le Duc<lb/>de Bourgogne,<lb/><hi rend="i">Par M<hi rend="sup">r</hi> Comiers d’Ambrun, Docteur<lb/>en Theologie, Prevost de Ternant,<lb/>Professeur des Mathématiques à Paris.</hi></label>
             <p/>
@@ -109,7 +109,7 @@
         </div>
         <div type="article" xml:id="MG-1683-12e_167" resp="nbb">
           <head>Sur l’Origine des Bains</head>
-          <bibl><title>Extraordinaire du Mercure galant</title>, quartier d’octobre 1683 (tome 24), p. 167-183</bibl>
+          <bibl><title>Extraordinaire du Mercure galant</title>, quartier d’octobre 1683 [tome XXIV], p. 167-183</bibl>
           <quote>
             <label>SUR L’ORIGINE<lb/>DES BAINS.</label>
             <lg>
@@ -543,7 +543,7 @@
         </div>
         <div type="article" xml:id="MG-1683-12e_184" resp="nbb">
           <head>S’il est permis à un Homme qui aime avec Passion, de souhaiter que la Personne qu’il aime, ne luy survive que d’un moment</head>
-          <bibl><title>Extraordinaire du Mercure galant</title>, quartier d’octobre 1683 (tome 24), p. 184-185</bibl>
+          <bibl><title>Extraordinaire du Mercure galant</title>, quartier d’octobre 1683 [tome XXIV], p. 184-185</bibl>
           <quote>
             <label>S’il est permis à un Homme qui aime avec passion, de souhaiter que la Personne qu’il aime, ne luy survive que d’un moment.</label>
             <lg>
@@ -567,7 +567,7 @@
         </div>
         <div type="article" xml:id="MG-1683-12e_185" resp="nbb">
           <head>Laquelle est à préférer, de la beauté de la Bouche, ou de celle des Yeux; de la beauté des Cheveux, ou de celle du Teint</head>
-          <bibl><title>Extraordinaire du Mercure galant</title>, quartier d’octobre 1683 (tome 24), p. 185-187</bibl>
+          <bibl><title>Extraordinaire du Mercure galant</title>, quartier d’octobre 1683 [tome XXIV], p. 185-187</bibl>
           <quote>
             <label>Laquelle est à préferer, de la beauté de la Bouche, ou de celle des Yeux ; de la beauté des Cheveux, ou de celle du Teint.</label>
             <lg>
@@ -610,7 +610,7 @@
         </div>
         <div type="article" xml:id="MG-1683-12e_188" resp="nbb">
           <head>A Mademoiselle ***</head>
-          <bibl><title>Extraordinaire du Mercure galant</title>, quartier d’octobre 1683 (tome 24), p. 188-195</bibl>
+          <bibl><title>Extraordinaire du Mercure galant</title>, quartier d’octobre 1683 [tome XXIV], p. 188-195</bibl>
           <quote>
             <label>A MADEMOISELLE***</label>
             <p/>
@@ -692,7 +692,7 @@
         </div>
         <div type="article" xml:id="MG-1683-12e_221" resp="nbb">
           <head resp="editor">Sentimens de Mr Bouchet sur quelques questions de précédents Extraordinaires</head>
-          <bibl><title>Extraordinaire du Mercure galant</title>, quartier d’octobre 1683 (tome 24), p. 221-229</bibl>
+          <bibl><title>Extraordinaire du Mercure galant</title>, quartier d’octobre 1683 [tome XXIV], p. 221-229</bibl>
           <quote>
             <label>Laquelle est à préferer, de la beauté de la Bouche, ou de celle des Yeux.</label>
             <lg>
@@ -868,7 +868,7 @@
         </div>
         <div type="article" xml:id="MG-1683-12e_230" resp="nbb">
           <head>Conclusion du Traité des Couronnes. Par Mr Germain de Caën</head>
-          <bibl><title>Extraordinaire du Mercure galant</title>, quartier d’octobre 1683 (tome 24), p. 230-321</bibl>
+          <bibl><title>Extraordinaire du Mercure galant</title>, quartier d’octobre 1683 [tome XXIV], p. 230-321</bibl>
           <quote>
             <label>CONCLUSION<lb/>DU TRAITÉ<lb/>DES COURONNES.<lb/><hi rend="i">Par M<hi rend="sup">r</hi> Germain de Caën.</hi></label>
             <p>La quatriéme &amp; derniere espéce des Couronnes anciennes, suivant la division génerale que nous en avons faite au commencement de ce Traité, renferme toutes celles que je comprens sous le nom de Couronnes Populaires, dont il me reste à parler. Ces Couronnes Populaires sont de tant de sortes, qu’il n’est pas aisé de faire une description bien exacte de chacune en particulier, sans les confondre souvent les unes avec les autres. La méthode qui m’a semblé la meilleure pour éviter cet inconvénient, a esté d’en faire une seconde division, en distinguant celles dont j’ay pú avoir quelque connoissance, en quatre Ordres différens. Dans le premier je mettray les Couronnes qui se donnoient dans les Jeux &amp; les Exercices Publics ; dans le second, celles dont on couronnoit les Mariez au jour de leurs Epousailles ; dans le troisiéme, je feray mention de celles qui estoient en usage dans les Festins ; &amp; enfin dans le dernier, je parleray de celles dont on se servoit aux Obséques des Défunts, &amp; dans quelques autres rencontres, de la Vie civile.</p>
@@ -1045,7 +1045,7 @@
         </div>
       <div type="article" xml:id="MG-1683-12e_321" resp="camille">
         <head resp="editor">Explication de l'égnime</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier d’octobre 1683 (tome 24), p. 321</bibl>
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier d’octobre 1683 [tome XXIV], p. 321</bibl>
 <p><hi rend="i">La premiere des Enigmes du mois de Novembre, dont</hi> la Cramaillere <hi rend="i">estoit le Mot, a donné lieu aux Explications que vous allez lire.</hi></p>
       </div>
       </body>

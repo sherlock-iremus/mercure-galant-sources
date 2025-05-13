@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Extraordinaire du Mercure galant, quartier d’octobre 1679 (tome VIII).</title>
+        <title>Extraordinaire du Mercure galant, quartier d’octobre 1679 [tome VIII].</title>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL/IREMUS</edition>
@@ -47,7 +47,7 @@
       </publicationStmt>
       <sourceDesc>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier d’octobre <date>1679</date>
-          (tome VIII). <hi rend="i">Achevé d’imprimer le 15 janvier 1680</hi>.</bibl>
+          [tome VIII]. <hi rend="i">Achevé d’imprimer le 15 janvier 1680</hi>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -64,7 +64,7 @@
       <div type="article" xml:id="MG-1679-12e_np" resp="mercure">
         <head>[Avis du libraire]</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, <date>quartier d'octobre 1679</date>
-          (tome VIII), p. [I-II].</bibl>
+          [tome VIII], p. [I-II].</bibl>
         <label>Le libraire </label>
         <label>au lecteur.</label>
         <p>AU LECTEUR.</p>

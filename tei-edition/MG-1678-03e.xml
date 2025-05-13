@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Extraordinaire du Mercure galant, quartier de janvier 1678 (tome I)<note resp="editor">Achevé d'imprimer daté du 15 mai 1678.</note>.</title>
+        <title>Extraordinaire du Mercure galant, quartier de janvier 1678 [tome I]<note resp="editor">Achevé d'imprimer daté du 15 mai 1678.</note>.</title>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL/IREMUS</edition>
@@ -55,7 +55,7 @@
       </publicationStmt>
       <sourceDesc>
         <bibl><title>Extraordinaire du Mercure galant</title>, <publisher>Claude
-            Blageart</publisher>, quartier de <date>janvier 1678</date> (tome I).<hi rend="i">Achevé
+            Blageart</publisher>, quartier de <date>janvier 1678</date> [tome I].<hi rend="i">Achevé
             d’imprimer le 15 mai 1678</hi>.</bibl>
       </sourceDesc>
     </fileDesc>
@@ -74,7 +74,7 @@
         I).</head>
       <div type="article" xml:id="MG-1678-03e_000a" resp="mercure">
         <head>Aux Dames</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           non-paginé.</bibl>
         <label rend="center">Aux Dames.</label>
         <p>CE n’est point vous faire un Présent, Mesdames, que de vous donner <hi rend="i"
@@ -143,7 +143,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_000b" resp="mercure">
         <head>Préface</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           non-paginé.</bibl>
         <label rend="center">Préface.</label>
         <p>SI la France a de tout temps passé de l’aveu mesme des autres Nations, pour le Royaume du
@@ -264,7 +264,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_001" resp="mercure">
         <head>Lettre sur les Enigmes de ce temps, À Monsieur le D.D.S.A.</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 1-45.</bibl>
         <p>VOUS le voulez, Madame, &amp; il n’y a pas moyen de m’en dispenser. Le commerce que les
           Lettres que je vous écris, me donnent avec le Public, attire vostre curiosité. Il est
@@ -608,7 +608,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_045" resp="mercure">
         <head>Pour l’Autheur du Mercure Galant</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 45-53.</bibl>
         <p>Tout ce que vous venez de lire est si juste, le stile en est si aisé, &amp; il y a tant à
           profiter des sçavantes Remarques qu’on y trouve, que je ne doute point qu’elles ne vous
@@ -680,7 +680,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_054" resp="mercure">
         <head>À Monsieur le President de Boissieu</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 53-59.</bibl>
         <p>Lisez cependant ce que vous allez trouver écrit sous le nom de l’Hermite de S. Giraud. La
           Lettre m’a esté envoyée avec un Billet particulier qui m’apprend que ce spirituel
@@ -737,7 +737,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_059" resp="mercure">
         <head resp="editor">Air de M. Fleury</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 59-61.</bibl>
         <p>Un peu d’interruption, Madame. Vous continuërez à lire plus volontiers quand vous vous
           serez divertie à chanter un Air qui a esté fait sur le Printemps. Il est de saison, &amp;
@@ -766,7 +766,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_061" resp="mercure">
         <head>Lettre I</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 61-70.</bibl>
         <p>Je reviens aux Lettres. Il y en a beaucoup dont je retranche des choses fort
           spirituellement tournées, mais elles me flatent trop pour me laisser en pouvoir de vous
@@ -850,7 +850,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_071" resp="mercure">
         <head>Lettre II</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 71-75.</bibl>
         <quote>
           <label rend="center">Lettre II.</label>
@@ -895,7 +895,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_076" resp="mercure">
         <head>Lettre III</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 76-77.</bibl>
         <quote>
           <label rend="center">Lettre III.</label>
@@ -917,7 +917,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_078" resp="mercure">
         <head>Lettre IV</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 78-81.</bibl>
         <quote>
           <label rend="center">Lettre IV.</label>
@@ -953,7 +953,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_081" resp="mercure">
         <head>Lettre V. Sur les deux Enigmes du Tome de Janvier</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 81-83.</bibl>
         <quote>
           <label rend="center">Lettre V.</label>
@@ -982,7 +982,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_083" resp="mercure">
         <head>Lettre VI</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 83-85.</bibl>
         <quote>
           <label rend="center">Lettre VI.</label>
@@ -1010,7 +1010,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_086" resp="mercure">
         <head>Lettre VII</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 86-89.</bibl>
         <quote>
           <label rend="center">Lettre VII.</label>
@@ -1053,7 +1053,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_089" resp="mercure">
         <head>Lettre VIII</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 89-91.</bibl>
         <quote>
           <label rend="center">Lettre VIII.</label>
@@ -1080,7 +1080,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_092" resp="mercure">
         <head>Lettre IX</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 92-94.</bibl>
         <quote>
           <label rend="center">Lettre IX.</label>
@@ -1109,7 +1109,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_094" resp="mercure">
         <head>Lettre X</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 94-99.</bibl>
         <quote>
           <label rend="center">Lettre X.</label>
@@ -1195,7 +1195,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_102" resp="mercure">
         <head>Lettre XI</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 102-106.</bibl>
         <quote>
           <label rend="center">Lettre XI.</label>
@@ -1242,7 +1242,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_107" resp="mercure">
         <head>Lettre XII</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 107-109.</bibl>
         <quote>
           <label rend="center">Lettre XII.</label>
@@ -1267,7 +1267,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_109" resp="mercure">
         <head>Lettre XIII</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 109-116.</bibl>
         <quote>
           <label rend="center">Lettre XIII.</label>
@@ -1326,7 +1326,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_116" resp="mercure">
         <head>Lettre XIV</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 116-119.</bibl>
         <quote>
           <label rend="center">Lettre XIV.</label>
@@ -1368,7 +1368,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_120" resp="mercure">
         <head>Lettre XV</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 120-126.</bibl>
         <quote>
           <label rend="center">Lettre XV.</label>
@@ -1427,7 +1427,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_127" resp="mercure">
         <head>Lettre XVI</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 127-135.</bibl>
         <quote>
           <label rend="center">Lettre XVI.</label>
@@ -1502,7 +1502,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_135" resp="mercure">
         <head>Lettre XVII</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 135-136.</bibl>
         <quote>
           <label rend="center">Lettre XVII.</label>
@@ -1532,7 +1532,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_137" resp="mercure">
         <head>Lettre XVIII</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 137-139.</bibl>
         <quote>
           <label rend="center">Lettre XVIII.</label>
@@ -1556,7 +1556,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_139" resp="mercure">
         <head>Lettre XIX</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 139-144.</bibl>
         <quote>
           <label rend="center">Lettre XIX.</label>
@@ -1612,7 +1612,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_145" resp="mercure">
         <head>Lettre XX. Illustrissimo signore</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 145-147.</bibl>
         <quote>
           <label rend="center">Lettre XX.</label>
@@ -1665,7 +1665,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_149" resp="mercure">
         <head>Lettre XXI</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 149-151.</bibl>
         <quote><label rend="center">Lettre XXI.</label>
           <p rend="i">À Paris. </p>
@@ -1698,7 +1698,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_152" resp="mercure">
         <head>Lettre XXII</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 152-154.</bibl>
         <quote>
           <label rend="center">Lettre XXII.</label>
@@ -1739,7 +1739,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_154" resp="mercure">
         <head>Lettre XXIII</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 154-162.</bibl>
         <quote>
           <label rend="center">Lettre XVIII.</label>
@@ -1825,7 +1825,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_163" resp="mercure">
         <head>Lettre XXIV</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 163-166.</bibl>
         <quote>
           <label rend="center">Lettre XXIV.</label>
@@ -1869,7 +1869,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_167" resp="mercure">
         <head>Lettre XXV</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 167-172.</bibl>
         <quote>
           <label rend="center">Lettre XXV.</label>
@@ -1920,7 +1920,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_170" resp="mercure">
         <head>Lettre XXVI</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 170-176.</bibl>
         <quote>
           <label rend="center">Lettre XXVI.</label>
@@ -2006,7 +2006,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_176" resp="mercure">
         <head>Lettre XXVII</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 176-181.</bibl>
         <quote>
           <label rend="center">Lettre XXVII.</label>
@@ -2056,7 +2056,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_181" resp="mercure">
         <head>Lettre XXVIII</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 181-183.</bibl>
         <quote>
           <label rend="center">Lettre XXVIII.</label>
@@ -2080,7 +2080,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_184" resp="mercure">
         <head>Lettre XXIX</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 184-185.</bibl>
         <quote>
           <label rend="center">Lettre XXIX.</label>
@@ -2097,7 +2097,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_185" resp="mercure">
         <head>Lettre XXX</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 185-191.</bibl>
         <quote>
           <label rend="center">Lettre XXX.</label>
@@ -2164,7 +2164,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_191" resp="mercure">
         <head>Lettre XXXI</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 191-194.</bibl>
         <quote>
           <label rend="center">Lettre XXXI.</label>
@@ -2203,7 +2203,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_195" resp="mercure">
         <head>Lettre XXXII</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 195-198.</bibl>
         <quote>
           <label rend="center">Lettre XXXII.</label>
@@ -2236,7 +2236,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_198" resp="mercure">
         <head>Lettre XXXIII</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 198-201.</bibl>
         <quote>
           <label rend="center">Lettre XXXIII.</label>
@@ -2281,7 +2281,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_201" resp="mercure">
         <head>Lettre XXXIV</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 201-204.</bibl>
         <quote>
           <label rend="center">Lettre XXXIV.</label>
@@ -2322,7 +2322,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_204" resp="mercure">
         <head>Lettre XXXV</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 204-207.</bibl>
         <quote>
           <label rend="center">Lettre XXXV.</label>
@@ -2363,7 +2363,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_207" resp="mercure">
         <head>Lettre XXXVI</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 207-211.</bibl>
         <quote>
           <label rend="center">Lettre XXXVI.</label>
@@ -2413,7 +2413,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_212" resp="mercure">
         <head>Lettre XXXVII</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 212-214.</bibl>
         <quote>
           <label rend="center">Lettre XXXVII.</label>
@@ -2440,7 +2440,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_214" resp="mercure">
         <head>Lettre XXXVIII</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 214-219.</bibl>
         <quote>
           <label rend="center">Lettre XXXVIII.</label>
@@ -2489,7 +2489,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_220" resp="mercure">
         <head>Lettre XXXIX</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 220-224.</bibl>
         <quote>
           <label rend="center">Lettre XXXIX.</label>
@@ -2532,7 +2532,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_225" resp="mercure">
         <head>Lettre XL</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 225-226.</bibl>
         <quote>
           <label rend="center">Lettre XL.</label>
@@ -2556,7 +2556,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_227" resp="mercure">
         <head>Lettre XLI</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 227-229.</bibl>
         <quote>
           <label rend="center">Lettre XLI.</label>
@@ -2583,7 +2583,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_229" resp="mercure">
         <head>Lettre XLII</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 229-232.</bibl>
         <quote>
           <label rend="center">Lettre XLII.</label>
@@ -2616,7 +2616,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_232" resp="mercure">
         <head>Lettre XLIII</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 232-234.</bibl>
         <quote>
           <label rend="center">Lettre XLII.</label>
@@ -2653,7 +2653,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_276" resp="mercure">
         <head>Lettre XLIV</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 276-289.</bibl>
         <p>Je reviens aux Lettres, dont je n’ay interrompu la suite que pour vous donner à
           déchifrer. Il y en a qui contiennent d’agreables incidens. La premiere que vous allez voir
@@ -2759,7 +2759,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_289" resp="mercure">
         <head>Lettre XLV</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 289-296.</bibl>
         <quote>
           <label rend="center">Lettre XLV.</label>
@@ -2827,7 +2827,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_297" resp="mercure">
         <head>Lettre XLVI</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 297-303.</bibl>
         <quote>
           <label rend="center">Lettre XLVI.</label>
@@ -2897,7 +2897,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_303" resp="mercure">
         <head>Lettre XLVII</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 303-306.</bibl>
         <quote>
           <label rend="center">Lettre XLVII.</label>
@@ -2930,7 +2930,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_306" resp="mercure">
         <head>Reponse</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 306-310.</bibl>
         <quote>
           <label rend="center">Reponse.</label>
@@ -2969,7 +2969,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_311" resp="mercure">
         <head>Lettre XLVIII</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 311-312.</bibl>
         <quote>
           <label rend="center">Lettre XLVIII.</label>
@@ -2990,7 +2990,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_316" resp="mercure">
         <head>Lettre XLIX</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 316-318.</bibl>
         <quote>
           <label rend="center">Lettre XLIX.</label>
@@ -3015,7 +3015,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_318" resp="mercure">
         <head>Lettre L</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 318.</bibl>
         <quote>
           <label rend="center">Lettre L.</label>
@@ -3031,7 +3031,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_319" resp="mercure">
         <head>Lettre LI</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 319-321.</bibl>
         <quote>
           <label rend="center">Lettre LI.</label>
@@ -3059,7 +3059,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_321" resp="mercure">
         <head>Lettre LII</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 321-324.</bibl>
         <quote>
           <label rend="center">Lettre LII.</label>
@@ -3092,7 +3092,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_324" resp="mercure">
         <head>Lettre LIII</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 324-326.</bibl>
         <quote>
           <label rend="center">Lettre LIII.</label>
@@ -3123,7 +3123,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_327" resp="mercure">
         <head>Lettre LIV</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 327-333.</bibl>
         <quote>
           <label rend="center">Lettre LIV.</label>
@@ -3175,7 +3175,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_333" resp="mercure">
         <head>Lettre LV</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 333-336.</bibl>
         <quote>
           <label rend="center">Lettre LV.</label>
@@ -3208,7 +3208,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_337" resp="mercure">
         <head>Lettre LVI</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 337-339.</bibl>
         <quote>
           <label rend="center">Lettre LVI.</label>
@@ -3239,7 +3239,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_340" resp="mercure">
         <head>Lettre LVII</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 340-350.</bibl>
         <quote>
           <label rend="center">Lettre LVII.</label>
@@ -3347,7 +3347,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_350" resp="mercure">
         <head>Lettre LVIII</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 350-354.</bibl>
         <quote>
           <label rend="center">Lettre LVIII.</label>
@@ -3400,7 +3400,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_354" resp="mercure">
         <head>Fragment d’une lettre du Païs de Maine</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 354-358.</bibl>
         <quote>
           <label rend="center">Fragment d’une Lettre du Païs</label>
@@ -3428,7 +3428,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_360" resp="mercure">
         <head>Lettre LX</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 360-368.</bibl>
         <quote>
           <p>Avoüez, Monsieur, que ces Explications sont fort agreablement tournées, pour une
@@ -3453,7 +3453,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_368" resp="mercure">
         <head>Lettre LXI</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 368-379.</bibl>
         <quote>
           <label rend="center">Lettre LXI.</label>
@@ -3548,7 +3548,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_384" resp="mercure">
         <head>Lettre LXIII</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 384-389.</bibl>
         <quote>
           <label rend="center">Lettre LXIII.</label>
@@ -3600,7 +3600,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_390" resp="mercure">
         <head>Lettre LXIV</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 390-392.</bibl>
         <quote>
           <label rend="center">Lettre LXIV.</label>
@@ -3633,7 +3633,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_392" resp="mercure">
         <head>Lettre LXV</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 392-400.</bibl>
         <quote>
           <label rend="center">Lettre LXV.</label>
@@ -3713,7 +3713,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_401" resp="mercure">
         <head>Lettre LXVI</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 401-403.</bibl>
         <quote>
           <label rend="center">Lettre LXVI.</label>
@@ -3761,7 +3761,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_404" resp="mercure">
         <head>Lettre LXVII</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 404-407.</bibl>
         <quote>
           <label rend="center">Lettre LXVII.</label>
@@ -3794,7 +3794,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_407" resp="mercure">
         <head>Lettre LXVIII</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 407-410.</bibl>
         <quote>
           <label rend="center">Lettre LXVIII.</label>
@@ -3821,7 +3821,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_410" resp="mercure">
         <head>Lettre LXIX</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 410-412.</bibl>
         <quote>
           <label rend="center">Lettre LXIX.</label>
@@ -3846,7 +3846,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_412" resp="mercure">
         <head>Lettre LXX</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 412-420.</bibl>
         <quote>
           <label rend="center">Lettre LXX.</label>
@@ -3919,7 +3919,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_421" resp="mercure">
         <head>Lettre LXXI</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 421-434.</bibl>
         <quote>
           <label rend="center">Lettre LXXI.</label>
@@ -4100,7 +4100,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_434" resp="mercure">
         <head>Lettre LXXII</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 434-438.</bibl>
         <quote>
           <label rend="center">Lettre LXXII.</label>
@@ -4141,7 +4141,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_438" resp="mercure">
         <head>Lettre LXXIII</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 438-442.</bibl>
         <quote>
           <label rend="center">Lettre LXXIII.</label>
@@ -4172,7 +4172,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_442" resp="mercure">
         <head>Lettre LXXIV</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 442-449.</bibl>
         <quote>
           <label rend="center">Lettre LXXIV.</label>
@@ -4244,7 +4244,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_450" resp="mercure">
         <head>Lettre LXXV</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 450-462.</bibl>
         <quote>
           <label rend="center">Lettre LXXV.</label>
@@ -4348,7 +4348,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_462" resp="mercure">
         <head>Lettre LXXVI</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 462-481.</bibl>
         <quote>
           <label rend="center">Lettre LXXVI.</label>
@@ -4630,7 +4630,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_485" resp="mercure">
         <head>[Sur la première énigme de février 1677] *</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 485-488.</bibl>
         <p>Ce qui suit est d’un Homme de Qualité de Bordeaux, qui ayant expliquë les deux Enigmes du
           mois de Fevrier sur le <hi rend="i">Tambour</hi> &amp; sur <hi rend="i">l’Enseigne</hi>,
@@ -4678,7 +4678,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_491" resp="louise">
         <head resp="editor">Présentation des premières modes : Hommes en habits d'hiver</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I), p.
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I], p.
           491-493.</bibl>
         <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : La
           Figure de l’Homme en Manteau, doit estre à la page 492.</note>
@@ -4703,7 +4703,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_494" resp="mercure">
         <head>[Histoire de la fausse morte] *</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 494-508.</bibl>
         <p rend="i">Ainsi je passe à ce qui est arrivé depuis quelque temps dans la Cour d’Espagne.
           Quoy que l’Avanture soit aussi extraordinaire que surprenante, elle ne laisse pas d’estre
@@ -4816,7 +4816,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_508" resp="louise">
         <head resp="editor">Modes : Femmes en habit d’Hyver</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I), p.
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I], p.
           508-509.</bibl>
         <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : La Femme
           en Habit noir, &amp; Jupe d’Hermine, doit estre à la page 508.</note>
@@ -4839,7 +4839,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_510" resp="mercure">
         <head>Question proposée</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 510-511.</bibl>
         <p rend="i">Comme c’est chez elles que s’agitent toutes les Questions d’esprit, une Dame qui
           en a infiniment, en proposa une il y a quelques jours à plusieurs Personnes tres-éclairées
@@ -4860,7 +4860,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_511" resp="mercure">
         <head resp="editor">Air de Printemps, par un Maistre du Havre</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I), p. 511-512.</bibl>
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I], p. 511-512.</bibl>
         <p rend="i">Je n’ay plus qu’un Air de Printemps à vous faire voir, avant que de venir à
           l’Histoire Enigmatique que je vous ay promis de vous envoyer. Cet Air est de la
           Composition d’un Maistre du Havre. J’espere qu’il vous fera demeurer d’accord que les
@@ -4884,7 +4884,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_513" resp="mercure">
         <head>Histoire énigmatique</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           p. 513-520.</bibl>
         <p rend="i">Un peu d’application, Madame, ce que j’ay presentement à vous conter tient du
           Prodige. Voicy dequoy il s’agit. </p>
@@ -4952,7 +4952,7 @@
       </div>
       <div type="article" xml:id="MG-1678-03e_521" resp="louise">
         <head resp="editor">Modes</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 (tome I), p.
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I], p.
           521-547.</bibl>
         <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : La Femme
           en Habit de Printemps, doit estre à la page 521.</note>

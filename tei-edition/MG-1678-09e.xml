@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Extraordinaire du Mercure galant, quartier de juillet 1678 (tome III).</title>
+        <title>Extraordinaire du Mercure galant, quartier de juillet 1678 [tome III].</title>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL/IREMUS</edition>
@@ -55,7 +55,7 @@
       </publicationStmt>
       <sourceDesc>
         <bibl><title>Extraordinaire du Mercure galant</title>, <publisher>Claude
-          Blageart</publisher>, quartier de juillet <date>1678</date> (tome III). <hi rend="i"
+          Blageart</publisher>, quartier de juillet <date>1678</date> [tome III]. <hi rend="i"
             >Achevé d’imprimer le 15 octobre 1678</hi>.</bibl>
       </sourceDesc>
     </fileDesc>
@@ -74,7 +74,7 @@
         III).</head>
       <div type="article" xml:id="MG-1678-09e_000a" resp="mercure">
         <head>Preface</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           non paginé.</bibl>
         <label rend="center">Preface.</label>
         <p>TOUT ce qui porte le titre de Lettres dans cet Extraordinaire, ne doit point estre
@@ -97,7 +97,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_000b" resp="mercure">
         <head>Avis pour toûjours</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           non paginé.</bibl>
         <label rend="center"><hi rend="i">Avis pour toûjours.</hi></label>
         <p>ON prie ceux qui envoyeront des Memoires où il y aura des Noms propres, d’écrires ces
@@ -132,7 +132,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_000c" resp="mercure">
         <head resp="editor">Avant-Propos</head>
-        <bibl>1<title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl>1<title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 1-2.</bibl>
         <p>Je vous l’ay deja dit, Madame. Mes Lettres Extraordinaires sont un Suplément des
           Ordinaires, &amp; vous les trouverez composées en partie de ce que je ne puis faire entrer
@@ -146,7 +146,7 @@
       <div type="article" xml:id="MG-1678-09e_003" resp="mercure">
         <head>[Six Poèmes de M. Laussel, Avocat à Montpellier, sur des articles du Mercure du mois
           de Juin]*</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 3-7.</bibl>
         <quote>
           <label rend="center">L'HEUREUX INFORTUNÉ.</label>
@@ -237,7 +237,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_007" resp="mercure">
         <head>[Lettre de M. Gardien Secrétaire du Roy à Madame la Marquise de Fl.]*</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 7-19.</bibl>
         <p>Ce que j’ay proposé sur l’origine des Mouches, a donné lieu à plusieurs Personnes
           d’esprit d’imaginer de fort agreables choses. Voicy ce que M. Gardien Secretaire du Roy en
@@ -342,7 +342,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_019" resp="mercure">
         <head>Lettre a Mademoiselle D. S. C.</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 19-23.</bibl>
         <p><hi rend="i">Tandis que nous sommes sur les Fables, il faut vous apprendre une
             Métamorphose dont beaucoup de Gens devroient profiter. Vous la trouverez dans cette
@@ -408,7 +408,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_024" resp="mercure">
         <head>Lettre I</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 24-28.</bibl>
         <p rend="i">Il faut commencer à vous faire part du commerce que je continuë d’avoir avec le
           Public. Vous trouverez fort peu de Lettres de suite. J'auray soin de diversifier par tout
@@ -451,7 +451,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_028" resp="mercure">
         <head>Lettre II</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 28-34.</bibl>
         <quote>
           <label rend="center">LETTRE II.</label>
@@ -551,7 +551,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_034" resp="mercure">
         <head>Lettre III</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 34-36.</bibl>
         <quote>
           <label rend="center">LETTRE III.</label>
@@ -576,7 +576,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_036" resp="mercure">
         <head>Lettre IV</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 36-38.</bibl>
         <quote>
           <label rend="center">LETTRE IV.</label>
@@ -598,7 +598,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_038" resp="mercure">
         <head>Lettre V</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 38-49.</bibl>
         <quote>
           <label rend="center">LETTRE V.</label>
@@ -748,7 +748,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_049" resp="mercure">
         <head>Lettre VI</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 49-52.</bibl>
         <quote>
           <label rend="center">LETTRE VI.</label>
@@ -797,7 +797,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_053" resp="mercure">
         <head>Lettre VII</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 53-55.</bibl>
         <quote>
           <label rend="center">LETTRE VII.</label>
@@ -832,7 +832,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_055" resp="mercure">
         <head>Lettre VIII</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 55-57.</bibl>
         <quote>
           <label rend="center">LETTRE VIII.</label>
@@ -856,13 +856,13 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_058" resp="mercure">
         <head resp="editor">Réponse aux Énigmes</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 58-64.</bibl>
         <p>[…]</p>
       </div>
       <div type="article" xml:id="MG-1678-09e_064" resp="mercure">
         <head>Aux Chevaliers de Bacchus, Alcipe et Philandre</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 64-68.</bibl>
         <p rend="i">Voyez, Madame, comme les gousts sont diférens. Des deux premieres Pieces que
           vous allez voir, la premiere est toute pour Bacchus, &amp; la seconde fait connoistre que
@@ -900,7 +900,7 @@
       <div type="article" xml:id="MG-1678-09e_069" resp="mercure">
         <head>À Madame**. De la préférence que le plaisir d’aimer doit avoir sur tous les
           autres</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 69-79.</bibl>
         <quote>
           <label rend="center">À Madame**.</label>
@@ -996,7 +996,7 @@
       <div type="article" xml:id="MG-1678-09e_079" resp="mercure">
         <head>Le Silence d’une Belle qui se défendoit d’écrire sur ce qu’elle ne sçavoit pas bien
           s’expliquer par Lettres</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 79-80.</bibl>
         <quote>
           <label rend="center">Le Silence d’une Belle </label>
@@ -1021,7 +1021,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_080" resp="mercure">
         <head>Consultation d’Amour</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 80-81.</bibl>
         <quote>
           <label rend="center">Consultation d’Amour.</label>
@@ -1051,7 +1051,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_082" resp="mercure">
         <head>Rondeau Sur un Moineau que la perte de sa Femelle a fait mourir de douleur</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 82-83.</bibl>
         <quote>
           <label rend="center">Rondeau </label>
@@ -1083,7 +1083,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_083" resp="mercure">
         <head>Sonnet</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 83-84.</bibl>
         <quote>
           <label rend="center">Sonnet.</label>
@@ -1111,7 +1111,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_084" resp="mercure">
         <head>Fiction sur l’Origine des Mouches Galantes</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 84-88.</bibl>
         <quote>
           <label rend="center">Fiction </label>
@@ -1147,7 +1147,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_088" resp="mercure">
         <head>Problème Tiré du Mercure Galant du Mois de juin 1678</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 88-106.</bibl>
         <quote>
           <label rend="center">Problème</label>
@@ -1295,7 +1295,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_106" resp="mercure">
         <head>[Trois Sonnets imitant trois autres de Pétrarque]*</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 106-112.</bibl>
         <p>Les trois Sonnets qui suivent sont une imitation de trois autres de Petrarque, dont les
           premiers Vers vous sont marquez. M<hi rend="sup">r</hi>  Chaluet Avocat à Marseille en est
@@ -1376,7 +1376,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_112" resp="mercure">
         <head>[Autres Pièces : Le Berger Heureux et Élégie]*</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 112-118.</bibl>
         <p>Voicy d’autres Pieces qui portent leur recommandation par elles-mesmes ; ainsi je ne vous
           dis rien à leur avantage.</p>
@@ -1454,7 +1454,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_118" resp="mercure">
         <head>À Monsieur D. M. sous le nom de Philandre</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 118-122.</bibl>
         <quote>
           <label rend="center">À Monsieur D. M. sous le nom de Philandre.</label>
@@ -1509,7 +1509,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_122" resp="mercure">
         <head resp="editor">De l’origine de la Porcelaine</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 122-142.</bibl>
         <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : La Tour
           de Porcelaine, doit regarder la page 136.</note>
@@ -1668,7 +1668,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_142" resp="mercure">
         <head>Ode Bachique</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 142-146.</bibl>
         <p>Je reviens aux Ouvrages d’esprit. L'ode Bachique que vous allez voir sera pour vos Amis
           de bon goust. Elle est de saison. Nous sommes dans le plus fort des Vendanges.</p>
@@ -1766,7 +1766,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_147" resp="mercure">
         <head>La Reservée</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 147.</bibl>
         <quote>
           <label rend="center">La Reservée.</label>
@@ -1785,7 +1785,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_148" resp="mercure">
         <head>L'Amour Poete, Rondeau</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 148-149.</bibl>
         <quote>
           <label rend="center">L'Amour </label>
@@ -1814,7 +1814,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_149" resp="mercure">
         <head>L'Amant Indifférent, Madrigal</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 149-150.</bibl>
         <quote>
           <label rend="center">L'Amant </label>
@@ -1837,7 +1837,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_150" resp="mercure">
         <head>Lettre IX [sur l’origine des Mouches Galantes]*</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 150-157.</bibl>
         <quote>
           <label rend="center">LETTRE IX.</label>
@@ -1897,7 +1897,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_157" resp="mercure">
         <head>Lettre X</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 157-159.</bibl>
         <quote>
           <label rend="center">LETTRE X.</label>
@@ -1923,7 +1923,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_164a" resp="mercure">
         <head>Lettre XI [au nom du Dieu Mercure]*</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 159-163.</bibl>
         <p>Il faut vous avertir, Madame, que c’est au nom du Dieu Mercure qu’on m’a envoyé la Lettre
           suivante. Sa lecture vous pourroit embarrasser, si vous ne songez pas que c’est luy qui
@@ -1964,7 +1964,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_164b" resp="mercure">
         <head>Lettre XII [relative aux Énigmes]*</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 164-170.</bibl>
         <quote>
           <label rend="center">LETTRE XII.</label>
@@ -2036,7 +2036,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_171" resp="mercure">
         <head>Lettre XIII</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 171-179.</bibl>
         <quote>
           <label rend="center">LETTRE XIII.</label>
@@ -2109,13 +2109,13 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_179" resp="mercure">
         <head>Lettre XIV [relative aux énigmes]*</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 179-181.</bibl>
         <p>[…]</p>
       </div>
       <div type="article" xml:id="MG-1678-09e_181" resp="mercure">
         <head>Lettre XV</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 181-183.</bibl>
         <quote>
           <label rend="center">LETTRE XV.</label>
@@ -2136,7 +2136,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_183" resp="mercure">
         <head>Lettre XV [relative aux énigmes]*</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 183-195.</bibl>
         <p>mais je vous puis assurer avec une entiere certitude, que celle qui suit, quoy que
           Françoise vient de Madrid mesme, d’où elle a esté envoyée pour moy à un des plus fameux
@@ -2185,7 +2185,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_195" resp="mercure">
         <head>Lettre XVII [relative aux Mouches galantes]*</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 195-198.</bibl>
         <quote>
           <label rend="center">LETTRE XVII.</label>
@@ -2215,13 +2215,13 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_198" resp="mercure">
         <head>Lettre XVIII [relative aux Énigmes]*</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 198-201.</bibl>
         <p>[…]</p>
       </div>
       <div type="article" xml:id="MG-1678-09e_202" resp="mercure">
         <head>Lettre XIX [relative aux Énigmes]*</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 202-204.</bibl>
         <quote>
           <label rend="center">LETTRE XIX.</label>
@@ -2244,7 +2244,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_204" resp="mercure">
         <head>Lettre XX</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 204-208.</bibl>
         <quote>
           <label rend="center">LETTRE XX.</label>
@@ -2286,7 +2286,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_208" resp="mercure">
         <head>Lettre XXI</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 208-217.</bibl>
         <quote>
           <label rend="center">LETTRE XXI.</label>
@@ -2362,7 +2362,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_217" resp="mercure">
         <head>Lettre XXII [relative aux Mouches Galantes]*</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 217-219.</bibl>
         <quote>
           <label rend="center">LETTRE XXII.</label>
@@ -2389,7 +2389,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_219" resp="mercure">
         <head>Lettre XXIII [relative aux Énigmes]*</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 219-222.</bibl>
         <quote>
           <label rend="center">LETTRE XXIII.</label>
@@ -2437,7 +2437,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_223" resp="mercure">
         <head>Lettre XXIV</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 223-234.</bibl>
         <quote>
           <label rend="center">LETTRE XXIV.</label>
@@ -2543,7 +2543,7 @@
       <div type="article" xml:id="MG-1678-09e_234" resp="mercure">
         <head>Lettres sur les Enigmes en Peinture, A. M. L. D. D. S. A. à l’Autheur du Mercure
           Galant</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 234-273.</bibl>
         <p>J'interromps ces Lettres, pour vous en faire voir d’une autre nature. Vous m’avez
           témoigné estre si satisfaite de celles qui ont esté écrites sur les Enigmes en Paroles,
@@ -2591,7 +2591,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_273" resp="mercure">
         <head>[Solution de la lettre en chiffre]*</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 273-280.</bibl>
         <p>Je passe à un autre genre d’Enigmes, si on peut donner ce nom à tout ce qui est obscur.
           Je parle de ma Lettre en Chiffre du dernier Extraordinaire, qui est demeurée un secret
@@ -2626,7 +2626,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_280" resp="mercure">
         <head>Regles pour apprendre à déchiffrer [l’Énigme de la Lettre en Chiffre]*</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 280-286.</bibl>
         <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : La
           Lettre en Chiffres doit regarder la page 286.</note>
@@ -2660,7 +2660,7 @@
       <div type="article" xml:id="MG-1678-09e_287" resp="mercure">
         <head>[Remarques sur un article portant sur une étrange inscription apparaissant sur l’œuf
           d’un Serpent]*</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 287-297.</bibl>
         <p>Comme cette Lettre est extraordinaire, vos Amies me permettront s’il leur plaist, d’y
           mesler extraordinairement quelques lignes de Latin, pour vous faire voir l’explication que
@@ -2789,7 +2789,7 @@
       <div type="article" xml:id="MG-1678-09e_298a" resp="mercure">
         <head>LETTRE XXV [Remarques sur un article concernant un enfant monstrueux de Toulouse]
           *</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 298-300.</bibl>
         <p>On n’a pas seulement expliqué ces caracteres de l’œuf du Serpent sur la Paix. L'enfant
           monstrueux de Toulouse en a esté un présage. Vous le retrouverez dans cette Lettre.</p>
@@ -2817,7 +2817,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_300" copyOf="JLB-MG-1678-09e_298b" resp="mercure">
         <head>Air en Recit</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 300-302.</bibl>
         <p>Je vous envoye un grand Air qui louë le Roy de ce qu’il a bien voulu nous donner la Paix.
           Il est de M<hi rend="sup">t</hi> Furdaulx Maitre de Musique de la Cathédrale de Mets &amp;
@@ -2846,7 +2846,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_302" resp="mercure">
         <head>Fiction sur les Mouches</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 302-305.</bibl>
         <quote>
           <label rend="center">Fiction </label>
@@ -2874,7 +2874,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_305" resp="mercure">
         <head>Reponse à la Question Galante, Lettre XXVI</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 305-308.</bibl>
         <quote>
           <label rend="center">Reponse à la Question Galante, </label>
@@ -2910,7 +2910,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_309" resp="mercure">
         <head>[Réponses aux énigmes]*</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 309-317.</bibl>
         <p>Voicy comme les Enigmes du <hi rend="i">Clavessin</hi> &amp; du <hi rend="i"
           >Tournebroche</hi> ont esté expliquées par diférentes Personnes <note resp="editor">Voir <ref target="MG-1678-08_346">cet article</ref> pour
@@ -3043,7 +3043,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_317" resp="mercure">
         <head>[Madrigal répondant à l’Énigme du Clavecin]*</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 317-319.</bibl>
         <p>Le Madrigal qui suit a esté fait à l’occasion d’une belle Dame dont un Cavalier qu’on
           avoit mené chez elle se trouva charmé à l’entendre joüer du Clavessin. Comme on ne le peut
@@ -3068,7 +3068,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_319" resp="mercure">
         <head>Lettre XXVII</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 319-325.</bibl>
         <p>La Lettre que vous allez voir est d’un Particulier à un Amy.</p>
         <quote>
@@ -3125,7 +3125,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_326" resp="mercure">
         <head>Lettre XXVIII [relative aux Énigmes]*</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 326-327.</bibl>
         <quote>
           <label rend="center">LETTRE XXVIII.</label>
@@ -3145,7 +3145,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_327" resp="mercure">
         <head>Lettre XXIX</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 327-331.</bibl>
         <quote>
           <label rend="center">LETTRE XXIX.</label>
@@ -3188,7 +3188,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_332" resp="mercure">
         <head>Lettre XXX</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 332-338.</bibl>
         <quote>
           <label rend="center">LETTRE XXX.</label>
@@ -3256,7 +3256,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_338" resp="mercure">
         <head>Lettre XXXI</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 338-340.</bibl>
         <quote>
           <label rend="center">LETTRE XXXI.</label>
@@ -3289,7 +3289,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_340" resp="mercure">
         <head>De l’origine des Mouches des Dames</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 340-351.</bibl>
         <quote>
           <label rend="center">De l’origine </label>
@@ -3380,7 +3380,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_351" resp="mercure">
         <head>Air nouveau</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 351-352.</bibl>
         <p><hi rend="i">Vous aurez encor un Air nouveau que je ne puis me resoudre à laisser
             vieillir. Il est de la composition de M. du Parc, &amp; vous fera connoistre qu’il sçait
@@ -3402,7 +3402,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_352" resp="mercure">
         <head>[Pièces sur la Paix]*</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 352-373.</bibl>
         <p>J'adjoûte icy quelques Pieces sur la Paix, à celles que je vous ay envoyées dans ma
           Lettre du dernier mois.</p>
@@ -3732,7 +3732,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_373" resp="mercure">
         <head>Lettre XXXII. À Madame de ***</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 373-377.</bibl>
         <quote>
           <label rend="center">LETTRE XXXII. </label>
@@ -3801,7 +3801,7 @@
       <div type="article" xml:id="MG-1678-09e_378" resp="mercure">
         <head>Lettre XXXIII</head>
         <bibl>MG-1678-09e_378<title>Extraordinaire du Mercure galant</title>, quartier de juillet
-          1678 (tome III), p. 378-386.</bibl>
+          1678 [tome III], p. 378-386.</bibl>
         <quote>
           <p>LE bien que j’ay de vous écrire, Monsieur, n’en est pas moins solide, pour estre
             aujourd’huy l’effet d’un Songe. Je vous trace le recit de ce Songe à l’instant &amp; à
@@ -3876,7 +3876,7 @@
       <div type="article" xml:id="MG-1678-09e_386" resp="mercure">
         <head>[Proposition pour construire des fictions sur l’origine de l’Horloge de Sable]
           *</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 386-387.</bibl>
         <p>On a pris tant de plaisir à faire des Fictions sur cette origine des Mouches galantes,
           que je ne doute point qu’on ne se divertisse également à chercher celle de l’Horloge de
@@ -3893,7 +3893,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_387" resp="mercure">
         <head>Festes Galantes proposées</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 387-390.</bibl>
         <label rend="center">Festes Galantes</label>
         <label rend="center">proposées.</label>
@@ -3920,7 +3920,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_390" resp="mercure">
         <head>[Détails de la tour de porcelaine et pièces renvoyées au prochain numéro]*</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 390-395.</bibl>
         <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : Le Feu
           d’artifice doit regarder la page 393.</note>
@@ -3974,7 +3974,7 @@
       <div type="article" xml:id="MG-1678-09e_395" resp="mercure">
         <head>Desseins Proposez d’Arc de Triomphe, Pyramides &amp; Medailles à la gloire du Roy, le
           tout embelly de Figures, Bas-reliefs, Devises, Inscriptions &amp; autres Ornemens</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 395-397.</bibl>
         <p>Permettez-moy, Madame, de proposer icy des Desseins d’Ouvrages d’une autre nature. Ce que
           j’ay à dire là-dessus ne déplaira pas à ceux qui sont zelez pour la gloire de nostre
@@ -3997,7 +3997,7 @@
       </div>
       <div type="article" xml:id="MG-1678-09e_398" resp="mercure">
         <head>Lettre</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 (tome III),
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 398-407.</bibl>
         <p>J'allois fermer mon Paquet, lors que j’en ay reçeu un de Lyon qui contenoit trois
           Lettres. Je ne puis m’empescher de vous envoyer la premiere, &amp; de vous dire que vous
