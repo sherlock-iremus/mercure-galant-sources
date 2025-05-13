@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Mercure Galant, novembre 1682 [tome 13].</title>
+        <title>Mercure galant, novembre 1682 [tome 13]</title>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL/IReMuS</edition>
@@ -47,7 +47,7 @@
       </publicationStmt>
       <sourceDesc>
         <bibl><title>Mercure galant</title>, <date>novembre 1682</date> [<biblScope unit="volume"
-            >tome 13</biblScope>].</bibl>
+            >[tome XIII]</biblScope>].</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

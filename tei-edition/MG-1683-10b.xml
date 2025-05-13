@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Mercure galant, octobre 1683 (seconde partie) [tome 12].</title>
+        <title>Mercure galant, octobre 1683 (deuxième partie) [tome 12]</title>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL/IReMuS</edition>
@@ -50,7 +50,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>octobre 1683</date> (seconde partie) [tome
+        <bibl><title>Mercure galant</title>, <date>octobre 1683</date> (deuxième partie) [tome
           12].</bibl>
       </sourceDesc>
     </fileDesc>
@@ -65,10 +65,10 @@
   </teiHeader>
   <text>
     <body>
-      <head><hi rend="i">Mercure galant</hi>, octobre 1683 (seconde partie) [tome 12].</head>
+      <head><hi rend="i">Mercure galant</hi>, octobre 1683 (deuxième partie) [tome 12].</head>
       <div type="article" xml:id="MG-1683-10b_001" resp="nbb">
         <head>[Sur les relations du Siège de Vienne et les récits de voyage]</head>
-        <bibl><title>Mercure galant</title>, octobre 1683 (seconde partie) [tome 12],
+        <bibl><title>Mercure galant</title>, octobre 1683 (deuxième partie) [tome 12],
           p. 1-13.</bibl>
         <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : Le
           Portrait du Comte de Staremberg doit regarder la premiere page.</note>
@@ -123,7 +123,7 @@
       </div>
       <div type="article" xml:id="MG-1683-10b_208" resp="nbb">
         <head>[Prélude sur le siège de Vienne]</head>
-        <bibl><title>Mercure galant</title>, octobre 1683 (seconde partie) [tome 12],
+        <bibl><title>Mercure galant</title>, octobre 1683 (deuxième partie) [tome 12],
           p. 208-215.</bibl>
         <p>J’ay déja inseré dans cette Lettre tout le contenu de la Gazete de Vienne, &amp; je ne
           vous en ay pas donné le Prélude, parce que d’abord il m’a paru inutile. Je viens cependant
@@ -160,7 +160,7 @@
       </div>
       <div type="article" xml:id="MG-1683-10b_216" resp="nbb">
         <head>[Lettre de Rome]</head>
-        <bibl><title>Mercure galant</title>, octobre 1683 (seconde partie) [tome 12],
+        <bibl><title>Mercure galant</title>, octobre 1683 (deuxième partie) [tome 12],
           p. 216-220.</bibl>
         <p>Je ne dis rien des cinq cens mille Personnes qu’on veut que les Turcs ayent fait périr,
           ou emmenées en esclavage. Cela ne s’accorde pas avec les pertes continuelles qu’on veut
@@ -184,7 +184,7 @@
       </div>
       <div type="article" xml:id="MG-1683-10b_229" resp="nbb">
         <head>[Lettre de Vienne]</head>
-        <bibl><title>Mercure galant</title>, octobre 1683 (seconde partie) [tome 12],
+        <bibl><title>Mercure galant</title>, octobre 1683 (deuxième partie) [tome 12],
           p. 229-237.</bibl>
         <p>Ce qui s’est passé à l’Entreveuë de l’Empereur &amp; du Roy de Pologne, me paroist plus
           veritable, quoy qu’on n’en ait pas une entiere certitude. Je vous en ay déja parlé ; mais
@@ -229,7 +229,7 @@
       </div>
       <div type="article" xml:id="MG-1683-10b_292" resp="nbb">
         <head>Sur le Siege de Vienne</head>
-        <bibl><title>Mercure galant</title>, octobre 1683 (seconde partie) [tome 12],
+        <bibl><title>Mercure galant</title>, octobre 1683 (deuxième partie) [tome 12],
           p. 292-295.</bibl>
         <p>Comme les grands évenemens font presque toûjours faire des Vers à ceux qui aiment assez
           la Poësie, pour se donner le plaisir d’y travailler ; si-tost que le Siege de Vienne fut
@@ -267,7 +267,7 @@
       </div>
       <div type="article" xml:id="MG-1683-10b_295" resp="nbb">
         <head>Sur le Mesme Siege, fait pas le Grand Vizir</head>
-        <bibl><title>Mercure galant</title>, octobre 1683 (seconde partie) [tome 12],
+        <bibl><title>Mercure galant</title>, octobre 1683 (deuxième partie) [tome 12],
           p. 295-297.</bibl>
         <p>Voicy un autre Sonnet qui a couru dans le mesme temps. Il est de M<hi rend="sup">r</hi>
           de C. D. H. &amp; prédisoit le mauvais succés de cette mesme Entreprise.</p>
@@ -302,7 +302,7 @@
       </div>
       <div type="article" xml:id="MG-1683-10b_299" resp="nbb">
         <head>Sonnet</head>
-        <bibl><title>Mercure galant</title>, octobre 1683 (seconde partie) [tome 12],
+        <bibl><title>Mercure galant</title>, octobre 1683 (deuxième partie) [tome 12],
           p. 299-301.</bibl>
         <p>Voicy encore un autre Sonnet à la gloire du Pape, &amp; du Roy de Pologne, sur le Secours
           de Vienne. Il est de M<hi rend="sup">r</hi> le Chevalier Descouture.</p>
@@ -337,7 +337,7 @@
       </div>
       <div type="article" xml:id="MG-1683-10b_301" resp="nbb">
         <head resp="editor">Harangue au Pape Innocent XI</head>
-        <bibl><title>Mercure galant</title>, octobre 1683 (seconde partie) [tome 12],
+        <bibl><title>Mercure galant</title>, octobre 1683 (deuxième partie) [tome 12],
           p. 301-312.</bibl>
         <p>On ne sçauroit donner trop de loüanges à Sa Sainteté, &amp; tout ce qu’elle a fait en
           cette occasion est veritablement d’un saint Homme. Voicy une Traduction Latine de la
@@ -407,7 +407,7 @@
       </div>
       <div type="article" xml:id="MG-1683-10b_313" resp="nbb">
         <head>[De la fausseté des rélations sur le siège de Vienne]</head>
-        <bibl><title>Mercure galant</title>, octobre 1683 (seconde partie) [tome 12],
+        <bibl><title>Mercure galant</title>, octobre 1683 (deuxième partie) [tome 12],
           p. 313-316</bibl>
         <p>Je viens d’apprendre une chose qui me confirme la fausseté de toutes les Relations dont
           je vous ay parlé, &amp; la verité de ce que je vous écrits. Un Homme digne de foy, &amp;
@@ -426,7 +426,7 @@
       </div>
       <div type="article" xml:id="MG-1683-10b_319" resp="nbb">
         <head>[Sur les nouvelles du siege]</head>
-        <bibl><title>Mercure galant</title>, octobre 1683 (seconde partie) [tome 12],
+        <bibl><title>Mercure galant</title>, octobre 1683 (deuxième partie) [tome 12],
           p. 319-324</bibl>
         <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : La
           Figure de l'Etendard doit regarder la derniere page.</note>

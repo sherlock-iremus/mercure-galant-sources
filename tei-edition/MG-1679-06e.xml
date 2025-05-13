@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Extraordinaire du Mercure galant, quartier d'avril 1679 (tome VI).</title>
+        <title>Extraordinaire du Mercure galant, quartier d'avril 1679 [tome VI]</title>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL/IReMuS</edition>
@@ -47,7 +47,7 @@
       </publicationStmt>
       <sourceDesc>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier d'avril <date>1679</date>
-          (tome VI).<hi rend="i"
+          [tome VI].<hi rend="i"
             >Achevé d’imprimer le 15 juillet 1679</hi>.</bibl>
       </sourceDesc>
     </fileDesc>
@@ -62,10 +62,10 @@
   </teiHeader>
   <text>
     <body>
-      <head><hi rend="i">Extraordinaire du Mercure galant</hi>, quartier d'avril 1679 (tome VI).</head>
+      <head><hi rend="i">Extraordinaire du Mercure galant</hi>, quartier d'avril 1679 [tome VI].</head>
       <div type="article" xml:id="MG-1679-06e_221" resp="louise">
         <head resp="editor">Planche de médailles</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier d'avril 1679 (tome VI), p.
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier d'avril 1679 [tome VI], p.
           221-223.</bibl>
         <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : Les
           Medailles, doivent regarder la page 222.</note>
@@ -108,7 +108,7 @@
       </div>
       <div type="article" xml:id="MG-1679-06e_249" resp="mercure">
         <head>[explications de l'énigme du Tambour]</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier d’avril 1679 (tome VI), p. 249-252<note resp="editor">Cette énigme a été publiée dans <ref target="MG-1679-04_356"> le <hi rend="i">Mercure galant</hi> du mois d’avril 1679</ref>.</note></bibl>
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier d’avril 1679 [tome VI], p. 249-252<note resp="editor">Cette énigme a été publiée dans <ref target="MG-1679-04_356"> le <hi rend="i">Mercure galant</hi> du mois d’avril 1679</ref>.</note></bibl>
         <p/>
         <p>Des deux Enigmes du Mois d'Avril, il n'y a eu que celle du Tambour, qui ait fait faire
           quelques Explications. Je vous les envoye.</p>
@@ -170,7 +170,7 @@
       </div>
       <div type="article" xml:id="MG-1679-06e_299" resp="mercure">
         <head>Paroles d'un concert de musique, pour un jeune Prince</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier d'avril 1679 (tome VI), p.
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier d'avril 1679 [tome VI], p.
           299-306</bibl>
         <p/>
         <p>Les vers qui suivent ont esté faits pour estre chantez, &amp; forment une espece de
