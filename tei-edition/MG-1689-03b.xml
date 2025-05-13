@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Mercure galant, mars 1689 (seconde partie), Affaires du temps (tome 5).</title>
+        <title>Mercure galant, mars 1689 (deuxième partie), Affaires du temps (tome 5).</title>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL/IReMuS</edition>
@@ -47,7 +47,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>mars 1689</date> (seconde partie), Affaires du temps (tome 5).</bibl>
+        <bibl><title>Mercure galant</title>, <date>mars 1689</date> (deuxième partie), Affaires du temps (tome 5).</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -61,7 +61,7 @@
   </teiHeader>
   <text>
     <body>
-      <head><hi rend="i">Mercure galant</hi>mars 1689 (seconde partie), Affaires du temps (tome 5).</head>
+      <head><hi rend="i">Mercure galant</hi>mars 1689 (deuxième partie), Affaires du temps (tome 5).</head>
         <div type="article" xml:id="MG-1689-03b_193" resp="wordpro">
           <head resp="editor">Mesures prises par le Prince d’Orange concernant l’impression de récits de guerre</head>
           <bibl><title>Mercure galant</title>mars 1689 (seconde partie ), Affaires du temps (tome 5), p. 193-196.</bibl>
@@ -73,7 +73,7 @@
         </div>
         <div type="article" xml:id="MG-1689-03b_504" resp="wordpro">
           <head resp="editor">Annonce du prochain volume des <hi rend="i">Affaires du temps</hi></head>
-          <bibl><title>Mercure galant</title>, mars 1689 (seconde partie), Affaires du temps (tome 5), p. 504.</bibl>
+          <bibl><title>Mercure galant</title>, mars 1689 (deuxième partie), Affaires du temps (tome 5), p. 504.</bibl>
           <p/>
           <p>Comme j’ay enfin rejoint le Prince d’Orange malgré toute la précipitation avec laquelle il a couru vers le Trône, vous n’aurez que dans trois mois la sixiéme Partie des Affaires du temps. Cette histoire où je me permets le raisonnement, estant plutost pour remarquer ce que l’on peut dire sur les grands évenemens, que pour donner des nouvelles, je croy que vous vous contenterez jusque-là de mes Lettres ordinaires, que vous aurez toujours au commencement de chaque mois, &amp; qui contiendront ce qui se sera passé de plus important.</p>
         </div>

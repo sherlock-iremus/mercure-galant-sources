@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Mercure galant, février 1686 (seconde partie) [tome 3].</title>
+        <title>Mercure galant, février 1686 (deuxième partie) [tome 3].</title>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL/IReMuS</edition>
@@ -50,7 +50,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>février 1686</date> (seconde partie) [tome
+        <bibl><title>Mercure galant</title>, <date>février 1686</date> (deuxième partie) [tome
           3].</bibl>
       </sourceDesc>
     </fileDesc>
@@ -65,11 +65,11 @@
   </teiHeader>
   <text>
     <body>
-      <head><hi rend="i">Mercure galant</hi>, février 1686 (seconde partie) [tome 3].</head>
+      <head><hi rend="i">Mercure galant</hi>, février 1686 (deuxième partie) [tome 3].</head>
       <div type="article" xml:id="MG-1686-02b_001" resp="wordpro">
         <head>[Sonnet au Roy, pour avoir détruit l’Heresie, par M<hi rend="sup">r</hi>
           Marcel]</head>
-        <bibl><title>Mercure galant</title>, février 1686 (seconde partie) [tome 3], p. 1-5</bibl>
+        <bibl><title>Mercure galant</title>, février 1686 (deuxième partie) [tome 3], p. 1-5</bibl>
         <p/>
         <p><hi rend="i">Je vous tiens parole, Madame, &amp; j’ajoûte à ma Lettre une seconde Partie,
             ainsi que je vous l’ay promis au commencement de la premiere. Presque tous les Ouvrages
@@ -119,7 +119,7 @@
       </div>
       <div type="article" xml:id="MG-1686-02b_006" resp="wordpro">
         <head>[Dialogue de Damon &amp; de Tircis à l’Honneur du Roy, par le mesme]</head>
-        <bibl><title>Mercure galant</title>, février 1686 (seconde partie) [tome 3], p. 6-13</bibl>
+        <bibl><title>Mercure galant</title>, février 1686 (deuxième partie) [tome 3], p. 6-13</bibl>
         <quote>
           <label><hi rend="i">DIALOGUE</hi><lb/><hi rend="i">De Damon &amp; de Tircis, à l’honneur
               du Roy.</hi></label>
@@ -265,7 +265,7 @@
       </div>
       <div type="article" xml:id="MG-1686-02b_014" resp="wordpro">
         <head>[Priere pour le Roy, par le mesme]</head>
-        <bibl><title>Mercure galant</title>, février 1686 (seconde partie) [tome 3], p. 14-15</bibl>
+        <bibl><title>Mercure galant</title>, février 1686 (deuxième partie) [tome 3], p. 14-15</bibl>
         <quote>
           <label><hi rend="i">PRIERE A DIEV</hi><lb/><hi rend="i">pour le Roy.</hi></label>
           <lg>
@@ -298,7 +298,7 @@
       <div type="article" xml:id="MG-1686-02b_015" resp="wordpro">
         <head>[A Loüis le Grand, sur le zele qu’il a pour la Religion, contre ses Ennemis, par M<hi
             rend="sup">r</hi> de Rochebrune]</head>
-        <bibl><title>Mercure galant</title>, février 1686 (seconde partie) [tome 3], p. 15-17</bibl>
+        <bibl><title>Mercure galant</title>, février 1686 (deuxième partie) [tome 3], p. 15-17</bibl>
         <quote>
           <label><hi rend="i">A LOUIS LE GRAND</hi>,<lb/><hi rend="i">sur le zele qu’il a pour la
               Religion contre ses Ennemis.</hi></label>
@@ -334,7 +334,7 @@
       <div type="article" xml:id="MG-1686-02b_017" resp="wordpro">
         <head>[Sonnet au Roy, sur la revocation de l’Edit de Nantes, par Mademoiselle de
           Villandon]</head>
-        <bibl><title>Mercure galant</title>, février 1686 (seconde partie) [tome 3], p. 17-20</bibl>
+        <bibl><title>Mercure galant</title>, février 1686 (deuxième partie) [tome 3], p. 17-20</bibl>
         <quote>
           <label><hi rend="i">Sur la Révocation de l’Edit</hi><lb/><hi rend="i">de
             Nantes.</hi><lb/>SONNET AU ROY.</label>
@@ -396,7 +396,7 @@
       </div>
       <div type="article" xml:id="MG-1686-02b_021" resp="wordpro">
         <head>Entretien familier de l’Heresie &amp; de Calvin en l’autre Monde</head>
-        <bibl><title>Mercure galant</title>, février 1686 (seconde partie) [tome 3], p. 21-39</bibl>
+        <bibl><title>Mercure galant</title>, février 1686 (deuxième partie) [tome 3], p. 21-39</bibl>
         <quote>
           <label>ENTRETIEN FAMILIER<lb/>De l’Heresie &amp; de Calvin en l’autre Monde.</label>
           <label>L’HERESIE.</label>
@@ -571,7 +571,7 @@
       </div>
       <div type="article" xml:id="MG-1686-02b_039" resp="wordpro">
         <head>Sur la Revocation de l’Edit de Nantes. Sonnet</head>
-        <bibl><title>Mercure galant</title>, février 1686 (seconde partie) [tome 3], p. 39-41</bibl>
+        <bibl><title>Mercure galant</title>, février 1686 (deuxième partie) [tome 3], p. 39-41</bibl>
         <quote>
           <label><hi rend="i">Sur la Revocation de l’Edit de Nantes.</hi><lb/>SONNET.</label>
           <lg>
@@ -604,7 +604,7 @@
       <div type="article" xml:id="MG-1686-02b_041" resp="wordpro">
         <head>[Sonnet au Roy, sur la Conversion des Heretiques, par M<hi rend="sup">r</hi> le
           Houx]</head>
-        <bibl><title>Mercure galant</title>, février 1686 (seconde partie) [tome 3], p. 41-42</bibl>
+        <bibl><title>Mercure galant</title>, février 1686 (deuxième partie) [tome 3], p. 41-42</bibl>
         <quote>
           <label>AU ROY.<lb/><hi rend="i">Sur la Conversion des Heretiques</hi>.<lb/>SONNET.</label>
           <lg>
@@ -637,7 +637,7 @@
       </div>
       <div type="article" xml:id="MG-1686-02b_043" resp="wordpro">
         <head>Pour le Roy. Sonnet</head>
-        <bibl><title>Mercure galant</title>, février 1686 (seconde partie) [tome 3], p. 43-44</bibl>
+        <bibl><title>Mercure galant</title>, février 1686 (deuxième partie) [tome 3], p. 43-44</bibl>
         <quote>
           <label><hi rend="i">POUR LE ROY.</hi><lb/>SONNET.</label>
           <lg>
@@ -669,7 +669,7 @@
       </div>
       <div type="article" xml:id="MG-1686-02b_044" resp="wordpro">
         <head>Sur l’Extirpation de l’Heresie. Sonnet</head>
-        <bibl><title>Mercure galant</title>, février 1686 (seconde partie) [tome 3], p. 44-46</bibl>
+        <bibl><title>Mercure galant</title>, février 1686 (deuxième partie) [tome 3], p. 44-46</bibl>
         <quote>
           <label><hi rend="i">Sur l’Extirpation de l’Heresie.</hi><lb/>SONNET.</label>
           <lg>
@@ -701,7 +701,7 @@
       </div>
       <div type="article" xml:id="MG-1686-02b_046" resp="wordpro">
         <head>[Quatrains sur le mesme sujet]</head>
-        <bibl><title>Mercure galant</title>, février 1686 (seconde partie) [tome 3], p. 46-48</bibl>
+        <bibl><title>Mercure galant</title>, février 1686 (deuxième partie) [tome 3], p. 46-48</bibl>
         <quote>
           <label><hi rend="i">QUATRAINS.</hi></label>
           <lg>
@@ -785,7 +785,7 @@
       <div type="article" xml:id="MG-1686-02b_049" resp="wordpro">
         <head>[Discours prononcé dans l’Hostel de Ville de Marseille, sur la proposition de supplier
           le Roy d'agréer qu'on u érigeast une Statuë Equestre de Sa Majesté]</head>
-        <bibl><title>Mercure galant</title>, février 1686 (seconde partie) [tome 3], p. 49-69</bibl>
+        <bibl><title>Mercure galant</title>, février 1686 (deuxième partie) [tome 3], p. 49-69</bibl>
         <p/>
         <p><hi rend="i">Le Conseil de Ville s’estant extraordinairement assemblé à Marseille, on y
             proposa de supplier tres-humblement le Roy d’agréer qu’on y érigeast une Statuë Equestre
@@ -940,7 +940,7 @@
       </div>
       <div type="article" xml:id="MG-1686-02b_069" resp="wordpro">
         <head>[Lettre écrite au Roy, sur le mesme sujet]</head>
-        <bibl><title>Mercure galant</title>, février 1686 (seconde partie) [tome 3], p. 69-73</bibl>
+        <bibl><title>Mercure galant</title>, février 1686 (deuxième partie) [tome 3], p. 69-73</bibl>
         <p>[...] On écrivit aussi-tost la Lettre suivante, &amp; on le fit avec d’autant plus
           d’empressement, que le dessein qui venoit d’estre pris, n’estoit pas seulement l’effet de
           la Harague qu’on venoit d’entendre, mais du zele commun de toutes les personnes dont le
@@ -979,7 +979,7 @@
       </div>
       <div type="article" xml:id="MG-1686-02b_074" resp="wordpro">
         <head>[Vers en maniere de Poëme, pour le Roy]</head>
-        <bibl><title>Mercure galant</title>, février 1686 (seconde partie) [tome 3], p. 74-80</bibl>
+        <bibl><title>Mercure galant</title>, février 1686 (deuxième partie) [tome 3], p. 74-80</bibl>
         <quote>
           <label>POUR LE ROY.</label>
           <lg>
@@ -1060,7 +1060,7 @@
       </div>
       <div type="article" xml:id="MG-1686-02b_080" resp="wordpro">
         <head>[Eloge du Roy, prononcé à Roüen, par le Pere Chevillard]</head>
-        <bibl><title>Mercure galant</title>, février 1686 (seconde partie) [tome 3], p. 80-95</bibl>
+        <bibl><title>Mercure galant</title>, février 1686 (deuxième partie) [tome 3], p. 80-95</bibl>
         <p/>
         <p><hi rend="i">Je vous envoye le Fragment d’un Panegyrique, que j’ay recherché avec
             d’autant plus de soin, que je l’ay crû digne de vous estre envoyé ; estant persuadé
@@ -1153,7 +1153,7 @@
       </div>
       <div type="article" xml:id="MG-1686-02b_096" resp="wordpro">
         <head>Sur le fierté du Cheval qui porte le Roy. Sonnet</head>
-        <bibl><title>Mercure galant</title>, février 1686 (seconde partie) [tome 3], p. 96-97</bibl>
+        <bibl><title>Mercure galant</title>, février 1686 (deuxième partie) [tome 3], p. 96-97</bibl>
         <quote>
           <label><hi rend="i">Sur la fierté du Cheval qui porte<lb/>la Statuë du
             Roy</hi>.<lb/>SONNET.</label>
@@ -1187,7 +1187,7 @@
       <div type="article" xml:id="MG-1686-02b_098" resp="wordpro">
         <head>[Discours au Roy, sur la Conversion des Heretiques, par le Pere Claude Sallé,
           Celestin]</head>
-        <bibl><title>Mercure galant</title>, février 1686 (seconde partie) [tome 3],
+        <bibl><title>Mercure galant</title>, février 1686 (deuxième partie) [tome 3],
           p. 98-100</bibl>
         <quote>
           <label>AU ROY.<lb/><hi rend="i">Sur la Conversion des Heretiques.</hi></label>
@@ -1211,7 +1211,7 @@
       </div>
       <div type="article" xml:id="MG-1686-02b_100" resp="wordpro">
         <head>Plaintes de l’Eglise contre ses Enfans Rebelles</head>
-        <bibl><title>Mercure galant</title>, février 1686 (seconde partie) [tome 3],
+        <bibl><title>Mercure galant</title>, février 1686 (deuxième partie) [tome 3],
           p. 100-127</bibl>
         <quote>
           <label><hi rend="i">PLAINTE DE L’EGLISE<lb/>Contre ses Enfans Rebelles.</hi></label>
@@ -1595,7 +1595,7 @@
       </div>
       <div type="article" xml:id="MG-1686-02b_127" resp="wordpro">
         <head>[Lettre du Roy de Perse, au Roy]</head>
-        <bibl><title>Mercure galant</title>, février 1686 (seconde partie) [tome 3],
+        <bibl><title>Mercure galant</title>, février 1686 (deuxième partie) [tome 3],
           p. 127-136</bibl>
         <p/>
         <p><hi rend="i">Comme tout ce qui est dans cette seconde Partie de la Lettre que je vous
@@ -1664,7 +1664,7 @@
       </div>
       <div type="article" xml:id="MG-1686-02b_136" resp="wordpro">
         <head>[Idile au Roy [et prière], par M<hi rend="sup">r</hi> Perry]</head>
-        <bibl><title>Mercure galant</title>, février 1686 (seconde partie) [tome 3],
+        <bibl><title>Mercure galant</title>, février 1686 (deuxième partie) [tome 3],
           p. 136-145</bibl>
         <quote>
           <label>AU ROY,<lb/>IDILE.</label>
@@ -1785,7 +1785,7 @@
       <div type="article" xml:id="MG-1686-02b_159" resp="wordpro">
         <head>[Cantique pour le Roy, par M<hi rend="sup">r</hi> Magnin, de l’Académie Royale
           d’Arles]</head>
-        <bibl><title>Mercure galant</title>, février 1686 (seconde partie) [tome 3],
+        <bibl><title>Mercure galant</title>, février 1686 (deuxième partie) [tome 3],
           p. 159-172</bibl>
         <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : La
           Figure du Temple de Charenton doit regarder la page 160.</note>
@@ -1964,7 +1964,7 @@
       <div type="article" xml:id="MG-1686-02b_172" resp="wordpro">
         <head>[Poëme au Roy, sur les grandes Choses qu’il a faites pour la Religion Catholique, par
             M<hi rend="sup">r</hi> Bauldry]</head>
-        <bibl><title>Mercure galant</title>, février 1686 (seconde partie) [tome 3],
+        <bibl><title>Mercure galant</title>, février 1686 (deuxième partie) [tome 3],
           p. 172-180</bibl>
         <quote>
           <label>AU ROY.<lb/><hi rend="i">SUR LES GRANDES choses qu’il a faites pour la Religion
@@ -2066,7 +2066,7 @@
       </div>
       <div type="article" xml:id="MG-1686-02b_181" resp="wordpro">
         <head>[Histoire singuliere de deux Amans Calvinistes où parmy les intrigues &amp; les traverses de leur amour, on voit beaucoup de choses concernant la Religion, traitée d’une manière aisée &amp; intelligible à tout le monde. Cette Histoire peut estre utile en divertissant &amp; rendre habiles en matiere de Religion, ceux mesmes qui ne se sont jamais appliquez à lire des Livres de Controverse. On y voit un Ecrit tres-curieux, trouvé dans le Cabinet d’un grand Prince après sa mort, &amp; composé par luy-mesme]</head>
-        <bibl><title>Mercure galant</title>, février 1686 (seconde partie) [tome 3],
+        <bibl><title>Mercure galant</title>, février 1686 (deuxième partie) [tome 3],
           p. 181-311</bibl>
         <quote>
           <label>HISTOIRE.</label>
@@ -2901,7 +2901,7 @@
       </div>
       <div type="article" xml:id="MG-1686-02b_311" resp="wordpro">
         <head>[Devise pour Louis le Grand, par M<hi rend="sup">r</hi> de Verton]</head>
-        <bibl><title>Mercure galant</title>, février 1686 (seconde partie) [tome 3],
+        <bibl><title>Mercure galant</title>, février 1686 (deuxième partie) [tome 3],
           p. 311-313</bibl>
         <quote>
           <label>DEVISE<lb/><hi rend="sc">Pour Loüis le Grand</hi>.<lb/>Le Soleil avec ce
@@ -2937,7 +2937,7 @@
       </div>
       <div type="article" xml:id="MG-1686-02b_313" resp="wordpro">
         <head>[Devise sur la défaite de l’Heresie, par le mesme]</head>
-        <bibl><title>Mercure galant</title>, février 1686 (seconde partie) [tome 3],
+        <bibl><title>Mercure galant</title>, février 1686 (deuxième partie) [tome 3],
           p. 313-314</bibl>
         <quote>
           <label>DEVISE<lb/>Sur la Défaite de l’Heresie.</label>
@@ -2954,7 +2954,7 @@
       </div>
       <div type="article" xml:id="MG-1686-02b_314" resp="wordpro">
         <head>[Inscriptions pour servir à la Statuë du Roy, par le mesme]</head>
-        <bibl><title>Mercure galant</title>, février 1686 (seconde partie) [tome 3],
+        <bibl><title>Mercure galant</title>, février 1686 (deuxième partie) [tome 3],
           p. 314-315</bibl>
         <quote>
           <label><hi rend="i">Pour servir d’Inscription à la Statuë du Roy.</hi></label>
@@ -2980,7 +2980,7 @@
       </div>
       <div type="article" xml:id="MG-1686-02b_315" resp="wordpro">
         <head>[Devise sur la Figure Equestre de Sa Majesté]</head>
-        <bibl><title>Mercure galant</title>, février 1686 (seconde partie) [tome 3],
+        <bibl><title>Mercure galant</title>, février 1686 (deuxième partie) [tome 3],
           p. 315-316</bibl>
         <quote>
           <label>SUR LA FIGURE<lb/>Equestre du Roy.</label>
@@ -3002,7 +3002,7 @@
       </div>
       <div type="article" xml:id="MG-1686-02b_316" resp="wordpro">
         <head>Inscriptions pour le Louvre</head>
-        <bibl><title>Mercure galant</title>, février 1686 (seconde partie) [tome 3], p. 316</bibl>
+        <bibl><title>Mercure galant</title>, février 1686 (deuxième partie) [tome 3], p. 316</bibl>
         <quote>
           <label>INSCRIPTIONS<lb/>pour le Louvre.</label>
           <lg>
@@ -3021,7 +3021,7 @@
       <div type="article" xml:id="MG-1686-02b_317" resp="wordpro">
         <head>[Devise pour Sa Majesté, sur le sujet des Conversions, par le Pere Mourgues,
           Jesuite]</head>
-        <bibl><title>Mercure galant</title>, février 1686 (seconde partie) [tome 3], p. 317</bibl>
+        <bibl><title>Mercure galant</title>, février 1686 (deuxième partie) [tome 3], p. 317</bibl>
         <quote>
           <label>DEVISE<lb/><hi rend="sc">Pour sa Majesté</hi>,<lb/>sur le sujet des
             Conversions<lb/>presentes.</label>
@@ -3038,7 +3038,7 @@
       </div>
       <div type="article" xml:id="MG-1686-02b_318" resp="wordpro">
         <head>[Devise sur le Soleil, par Madame de Saliez, Viguiere d’Alby</head>
-        <bibl><title>Mercure galant</title>, février 1686 (seconde partie) [tome 3], p. 318</bibl>
+        <bibl><title>Mercure galant</title>, février 1686 (deuxième partie) [tome 3], p. 318</bibl>
         <quote>
           <label>DEVISE.<lb/>Elle a le Soleil pour corps.<lb/>Et pour ame, <hi rend="i">Più Grande
               là sù</hi>.<lb/>MADRIGAL.</label>
@@ -3054,7 +3054,7 @@
       </div>
       <div type="article" xml:id="MG-1686-02b_319" resp="wordpro">
         <head>[Lettre pastorale de M. l’Evesque d’Amiens]</head>
-        <bibl><title>Mercure galant</title>, février 1686 (seconde partie) [tome 3],
+        <bibl><title>Mercure galant</title>, février 1686 (deuxième partie) [tome 3],
           p. 319-333</bibl>
         <quote>
           <label><hi rend="i">LETTRE PASTORALE de Monsieur l’Evesque d’Amiens, pour regler les
