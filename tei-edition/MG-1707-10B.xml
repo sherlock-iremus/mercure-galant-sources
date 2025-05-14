@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1707-10B">
+<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1707-10b">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -27,7 +27,7 @@
       <publicationStmt>
         <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1707-10B</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1707-10b</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
     Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -62,7 +62,7 @@
   <text>
     <body>
 <head><hi rend="i">Histoire du siège de Toulon, première partie</hi>, [Mercure galant], octobre 1707 [tome 11].</head>
-<div type="article" xml:id="MG-1707-10B_210">
+<div type="article" xml:id="MG-1707-10b_210">
     <head resp="editor">Observations faites par M<hi rend="sup">r</hi> de Benat</head>
 <bibl><title>Histoire du siège de Toulon, première partie</title>, [Mercure galant], octobre 1707 [tome 11], p. 210-218.</bibl>
 <quote>

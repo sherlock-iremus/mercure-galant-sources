@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1707-10A">
+<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1707-10a">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -27,7 +27,7 @@
       <publicationStmt>
         <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1707-10A</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1707-10a</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
     Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -62,7 +62,7 @@
   <text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, octobre 1707 [première partie] [tome 10].</head>
-<div type="article" xml:id="MG-1707-10A_5">
+<div type="article" xml:id="MG-1707-10a_5">
 <head>[Ode, servant de Prelude]</head>
 <bibl><title>Mercure galant</title>, octobre 1707 [première partie] [tome 10], p. 5-14.</bibl>
 <p>Vous trouverez dans l’Ode qui suit un Portrait du Roy qui vous fera plaisir.</p>
@@ -211,7 +211,7 @@
 </quote>
 <p>Vous avez dû remarquer que cette Ode a esté faite sur le sujet donné par Messieurs de l’Academie Françoise pour le Prix de Poësie qui fut donné le jour de la Feste de Saint Louis. Cette Ode est une des six qui avoient esté reservées pour disputer le Prix. Elle est de M<hi rend="sup">r</hi> de Gendron du Petit Fouchault, dont je vous envoyai une Ode en 1698. sur la Paix de Riswick, &amp; qui fut tres-favorablement receuë du Roy &amp; du Public.</p>
 </div>
-<div type="article" xml:id="MG-1707-10A_79">
+<div type="article" xml:id="MG-1707-10a_79">
 <head>[Nouvelles de Pondichery]</head>
 <bibl><title>Mercure galant</title>, octobre 1707 [première partie] [tome 10], p. 79-84.</bibl>
 <p>Par un Vaisseau Danois parti de Pondichery au mois d’Octobre de l’année derniere 1706. on a eu avis que le Fort à cinq grands Bastions Royaux de deux cens toises de Poligone exterieur que M<hi rend="sup">rs</hi> de la Compagnie des Indes Orientales ont fait bâtir &amp; revêtir de Maçonnerie, qui fut commencé vers la fin de l’année 1701. a esté achevé à la fin du mois de May de l’année derniere, avec tous ses dehors ; sçavoir, ses demi-lunes &amp; ses chemins couverts, ses contrescarpes revêtuës, &amp; ses glacis avec des bâtardeaux, &amp; des écluses de Maçonnerie dans les fossez.</p>
@@ -236,7 +236,7 @@
 <p>On peut dire qu’outre la force de cet Ouvrage, que l’on assure n’avoir point de pareil dans toutes les Indes, sa construction est tres-belle. On n’entre dans ce Fort que par une seule porte d’une belle Architecture, dont l’ordonnance ressemble mieux à un Arc de Triomphe qu’à une Porte de Ville ; aussi est-elle nommée <hi rend="i">Porte Royale</hi>.</p>
 <p>Comme le Gouverneur de Pondichery attendoit tous les jours des nouvelles de France par l’arrivée de quelques Vaisseaux, il avoit differé de donner un nom à ce Fort, mais voyant qu’il n’en arrivoit point, il choisit le jour de la Feste de Saint Louis pour faire prendre les armes à toutes les Troupes de sa Garnison, &amp; lorsqu’elles furent assemblées au milieu de la Place il nomma ce Fort <hi rend="i">le Fort Louis</hi>. Aprés la Messe, le <hi rend="i">Te Deum</hi>, &amp; l’<hi rend="i">Exaudiat</hi> furent chantez au bruit d’une triple décharge de l’Artillerie &amp; de la Mousqueterie, aprés laquelle on fit la Procession, &amp; l’on benit le Fort dedans &amp; dehors au bruit de l’Artillerie.</p>
 </div>
-<div type="article" xml:id="MG-1707-10A_87">
+<div type="article" xml:id="MG-1707-10a_87">
     <head>[Transport du cœur de M<hi rend="sup">r</hi> le Duc de Nevers]</head>
 <bibl><title>Mercure galant</title>, octobre 1707 [première partie] [tome 10], p. 87-99.</bibl>
 <p>Le Cœur de M<hi rend="sup">r</hi> le Duc de Nevers a esté transporté de Paris à Nevers par Monsieur l’Abbé Bourgoing Deschamps, Prestre de la Communauté de saint Severin, où il s’est toûjours distingué par sa pieté &amp; par sa sagesse. Il est du Diocese mesme de Nevers, petit neveu du fameux Pere Bourgoing, General de l’Oratoire, &amp; d’une des plus nobles Familles du Nivernois.</p>
@@ -256,7 +256,7 @@
 <p>M<hi rend="sup">r</hi> de Nevers répondit à ce Discours, avec beaucoup d’éloquence, &amp; je vous feray part de sa réponse, si elle tombe entre mes mains.</p>
 <p>Ces Complimens furent faits à la porte de l’Eglise de S. Cir. Aprés quoy le cœur fut porté dans cette Eglise, qui estoit tenduë de noir, particulierement le Chœur qui estoit tendu depuis le haut jusqu’au bas. Le tout estoit chargé de quantité d’écussons de differentes grandeurs. Le lieu où l’on mit le cœur du Deffunt estoit entouré de chandeliers &amp; de flambeaux d’argent garnis de cierges. Le maître Autel &amp; tout le pourtour du Chœur étoient remplis de cierges de 3. livres chacun. Le lendemain la Messe fut celebrée Pontificalement, &amp; chantée en Musique, &amp; l’Oraison Funebre fut prononcée par un Pere Jesuite. Ainsi il y a lieu de croire qu’elle fut tres-belle.</p>
 </div>
-<div type="article" xml:id="MG-1707-10A_99">
+<div type="article" xml:id="MG-1707-10a_99">
   <head>Lettre d’un Pensionnaire du Collège des Jésuites de Toulouse, à un jeune Gentilhomme Espagnol, autrefois Pensionnaire du même Collège [Lettre touchant les rejouissances faites à Toulouse par de jeunes Espagnols, à l’occasion de la naissance du Prince des Asturies]</head>
 <bibl><title>Mercure galant</title>, octobre 1707 [première partie] [tome 10], p. 99-106.</bibl>
 <p>Rien n’est plus ordinaire dans le monde que la douleur &amp; la joye. Elles se succedent tour à tour, &amp; c’est pourquoy l’on dit ordinairement que <hi rend="i">l’un rit</hi> pendant que <hi rend="i">l’autre pleure</hi>. En effet, il est bien mort du monde pendant que tous les Sujets des deux plus grands Rois du monde se sont abandonnez aux transports de la plus vive joye, afin de celebrer avec autant d’éclat que de sincerité, la naissance du Prince des Asturies. Les jeunes Espagnols qui sont à Toulouse, n’ont pû attendre pour donner des marques de l’extrême joye que cette naissance leur faisoit ressentir, que la Ville de Toulouse eust commencé les Réjoüissances publiques qu’elle devoit faire pour cette naissance, &amp; vous apprendrez par la Lettre qui suit, quel a esté l’épanchement de leur joye &amp; de leur cœur, en cette occasion.</p>
@@ -265,7 +265,7 @@
 <p><hi rend="i">Ce n’est pas en Espagne seulement, M<hi rend="sup">r</hi>, que les Espagnols font éclater leur joye. Quoyque rien ne soit plus magnifique que les réjoüissances faites à Pampelune, &amp; que vous les décriviez mieux que ne devroit faire un Espagnol qui écrit en François, j’ay lieu de croire que vous apprendrez avec plaisir ce qui vient de se faire dans cette Maison au sujet de la naissance du Prince des Asturies. Nous en eûmes des nouvelles certaines par la Gazette d’Espagne Mecredi dernier, veille de la Nativité de Nôtre Dame. Je ne puis mieux vous marquer les transports de joye où s’abandonnerent nos Pensionnaires Espagnols en apprenant cette nouvelle, qu’en vous assurant qu’ils parurent sentir tout le bonheur de leur Nation. Les trois Messieurs d’Idiaques Don Joseph, Don Joachim, &amp; Don Xavier, se distinguerent sur tous les autres. Cette famille ne peut vous estre inconnuë, estant tres-illustre en Espagne par sa noblesse &amp; par le rang que les Seigneurs d’Idiaques tiennent à la Cour &amp; dans les Armées. Ces trois jeunes Espagnols, dont l’aîné n’a que seize ans, s’étant disposez dés le soir même à faire leurs devotions, pour rendre graces à Dieu de l’heureux accouchement de leur Reine, se confesserent &amp; communierent le lendemain avec la pieté que des parens tout Chrestiens leur ont inspirée. Aprés quoy voulant donner des marques publiques de leur joye, ils obtinrent de la Maison de Ville des Soldats, les Tambours, les Fifres, &amp; les Trompettes, qu’ils placerent sur le soir à la Tour du College, où l’on avoit mis un grand nombre de pots à feu &amp; de fusées. Ils allumerent eux-mêmes à l’entrée de la nuit au bruit des Trompettes, des Tambours, &amp; des décharges de la Mousqueterie, le Feu de joye qui estoit dans la ruë vis-à-vis le Corps de Logis où ils ont leur Appartement. Ce Corps de Logis estoit illuminé depuis le haut jusqu’au bas dans toute sa longueur, le Portrait du Roy d’Espagne estant placé au milieu. À peine eurent-ils commencé à crier</hi> Vive le Roy d’Espagne &amp; le Prince des Asturies, <hi rend="i">que tous les autres Pensionnaires &amp; un nombre infini de personnes qui occupoient toute la ruë répondirent par les mêmes cris de joye. La Feste dura depuis huit heures du soir jusqu’à dix heures &amp; demie. Pendant tout ce temps-là, on n’entendit que décharges de Mousqueterie accompagnées d’un grand nombre de fusées. Le Pont neuf estoit remply de peuple, parce qu’on y voit mieux la Tour du College qu’en aucun autre endroit. Tout ce grand peuple applaudit à cette Feste. Rien ne marque mieux le zele que leur illustre Famille a toûjours eu pour son Roy &amp; pour sa Nation, que les sentimens qu’ont fait paroître en cette occasion ces trois jeunes Seigneurs. Tout Toulouse en a jugé ainsi</hi>.</p>
 </quote>
 </div>
-<div type="article" xml:id="MG-1707-10A_143">
+<div type="article" xml:id="MG-1707-10a_143">
 <head>[Réjouissances faites par Monsieur l’Electeur de Cologne, pour la naissance du Prince des Asturies]</head>
 <bibl><title>Mercure galant</title>, octobre 1707 [première partie] [tome 10], p. 143-158.</bibl>
 <p>Je ne doute point que vous ne preniez beaucoup de plaisir à lire la Feste que vous trouverez dans la Lettre suivante.</p>
@@ -422,7 +422,7 @@
 <p><hi rend="i">La danse estant finie, le Pavillon s’ouvrit tout d’un coup, &amp; l’on vit paroître au milieu une Table en forme de fer à cheval, servie de tout ce que la saison peut fournir de plus delicat. Leurs Altesses Electorales, Mr le Duc de Vendôme, &amp; les Personnes les plus qualifiées y prirent place, pendant que tous les Officiers de distinction allerent se mettre à plusieurs autres Tables, que l’on avoit placées aux environs sous des Tentes, où l’abondance des Mets disputoit à l’envy avec la propreté &amp; le bon goût. Tant que dura le repas, les Timbales, les Trompettes &amp; les Hautbois accompagnerent tour à tour la bonne-chere, &amp; entretinrent la joye dans cette illustre Assemblée ; Et chacun revint ensuite par eau avec le même plaisir, &amp; dans le même ordre qu’on y estoit allé, fort content de tout ce qui avoit paru dans cette agreable Feste.</hi></p>
 </quote>
 </div>
-<div type="article" xml:id="MG-1707-10A_210">
+<div type="article" xml:id="MG-1707-10a_210">
 <head>[Suites des Réjouissances faites pour la naissance du Prince des Asturies]</head>
 <bibl><title>Mercure galant</title>, octobre 1707 [première partie] [tome 10], p. 210-220.</bibl>
 <p>Si je voulois vous faire part de toutes les réjoüissances qui ont esté faites à l’occasion de la Naissance du Prince des Asturies, toute ma Lettre en seroit remplie ; c’est pourquoy j’ay resolu de ne vous parler que de celles qui ont eu quelque chose de singulier, soit par des Decorations, par des Devises, ou par des Descriptions.</p>
@@ -491,7 +491,7 @@
 <p><hi rend="i">Il est bien juste d’honorer par nos tres-humbles respects un Prince que les deux plus grands Rois de la terre distinguent par les Emplois les plus honorables de leurs Royaumes. A-t-il fallu veiller à la garde de nos Provinces ! la France a esté témoin de vostre vigilance &amp; de vostre sagesse. A-t-il fallu se montrer à la teste des Armées pour les commander ? l’Espagne a esté le témoin de vostre prudence &amp; de vostre valeur. On vous a vû dans nos Contrées tenir des Peuples dans leur devoir, devenir la terreur de nos voisins, renverser leurs Forteresses ; &amp; dans d’autres climats on vous a vû dompter l’orgueil des Puissances confederées. Ne parle-t-on pas encore à vostre arrivée, de la celebre Bataille d’Almanza, de cette fameuse Journée, où vous avez merité une gloire immortelle. Ne s’entretient-on pas encore du grand nombre d’ennemis que vous avez vaincus, des legions que vous avez dissipées ; des peuples rebelles que vous avez réduits sous l’obéïssance de leur Roy ; n’applaudit-on pas encore à vos victoires ? Trop heureux de pouvoir feliciter celuy qui les a remportées. Vous avez fait triompher nos armes par tout où vous avez esté ; vous avez soûtenu des Royaumes chancelans. Digne appuy de tant de Couronnes, combien n’en meritez-vous pas ? Puissiez-vous heureusement finir cet ouvrage de gloire que vous avez si bien commencé ; que le Dieu des Batailles préside toûjours aux vôtres, comme il a déja fait, qu’il vous guide, qu’il vous accompagne, qu’il combatte avec vous, &amp; que nous ayons un jour le bonheur de vous revoir couronné de nouveaux lauriers pour vous feliciter sur de nouvelles victoires.</hi></p>
 </quote>
 </div>
-<div type="article" xml:id="MG-1707-10A_220">
+<div type="article" xml:id="MG-1707-10a_220">
 <head>[Suite du Journal de Fontainebleau]</head>
 <bibl><title>Mercure galant</title>, octobre 1707 [première partie] [tome 10], p. 220-251.</bibl>
 <p>Vous avez pris trop de plaisir à la lecture du Journal de Fontainebleau, qui est dans ma derniere Lettre, pour ne vous pas envoyer la suite comme je vous l’ay promis.</p>
@@ -510,13 +510,13 @@
 <p>Le 11. le Roy alla l’aprésdînée à la chasse du Cerf avec sa Vennerie. Madame la Duchesse de Bourgogne &amp; les Dames en Amazones, estoient de cette chasse. Elles se remirent en grand habit à leur retour, pour aller à la representation de la Tragedie d’Andromaque.</p>
 <p>Vous trouverez à la fin de ma Lettre, la suite de ce Journal.</p>
 </div>
-<div type="article" xml:id="MG-1707-10A_251">
+<div type="article" xml:id="MG-1707-10a_251">
 <head>[Article de Bayone qui en contient plusieurs qui regardent la Reine Doüairiere d’Espagne]</head>
 <bibl><title>Mercure galant</title>, octobre 1707 [première partie] [tome 10], p. 251-270.</bibl>
 <p>La Reine Doüairiere d’Espagne, dont la pieté continuë de se signaler, fit baptiser &amp; tint sur les Fonts dans la grande Eglise de Bayonne, le jour de S. Louis une Juive qui avoit embrassé volontairement la Religion Catholique, &amp; cette grande Princesse qui donne tous les jours des marques d’une bonté genereuse par les biens qu’elle continuë de faire, mit cette nouvelle Catholique dans un Convent.</p>
 <p>Le 28. du même mois, jour auquel on celebroit la Feste de Saint Augustin, Sa Majesté alla à la Benediction du Saint Sacrement dans l’Eglise des Augustins, où elle fut haranguée à la porte par le Pere Camartin Prieur de ce Convent. Son discours fut trouvé tres-beau, &amp; fut applaudi de toutes les personnes de distinction qui accompagnoient la Reine. Sa Majesté, suivie des principales personnes de sa Maison, &amp; de ce que Bayonne a de plus distingué, fut ensuite conduite devant le Saint Sacrement pendant que l’on chantoit le <hi rend="i">Te Deum</hi>, accompagné de l’Orgue, à l’issuë duquel la Musique chanta un Motet. La Symphonie fut admirée aussi bien que le S<hi rend="sup">r</hi> Loüis Delgrés qui chantoit le dessus, &amp; dont la voix fut trouvée tres-belle par la Reine, &amp; par toutes les personnes de l’Assemblée qui ont du goust pour la Musique. Aprés la Benediction du Saint Sacrement la Reine entra dans le Convent, où les Religieux luy presenterent une magnifique collation, dont Sa Majesté fut tres-satisfaite. La Suite de cette Reine estoit grande, &amp; l’on peut dire que tout Bayonne se trouva à cette Feste.</p>
 </div>
-<div type="article" xml:id="MG-1707-10A_254">
+<div type="article" xml:id="MG-1707-10a_254">
 <head>[Réjouissances faites par M<hi rend="sup">r</hi> le Marquis de Marimon]</head>
 <bibl><title>Mercure galant</title>, octobre 1707 [première partie] [tome 10], p. 254-270.</bibl>
 <p>J’ay cru vous devoir envoyer la Lettre suivante de la maniere que je l’ay reçuë ; ceux dont elle vient estant mieux informez que moy de la verité de tout ce qu’elle contient. D’ailleurs, on ne peut mettre dans un trop grand jour l’inviolable fidelité de ceux qui l’ont portée aussi loin pour leurs legitimes Souverains, que l’on a fait dans la Maison de Marimon.</p>
@@ -526,7 +526,7 @@
 <p><hi rend="i">La Maison de Marymon tient un grand rang en Espagne depuis plusieurs siecles. Outre les grandes Charges de Surintendant des Arcenaux &amp; de la Marine, de Tresorier &amp; d’Intendant de Catalogne, qui y ont esté comme hereditaires, elle en a possedé plusieurs autres tres-considerables. Le dixiéme ayeul de Mr le Marquis de Marymon Don Joseph, fut de son temps Bayle general de Catalogne. Un Marymon a esté grand Chambellan de Jean I. Roy d’Aragon. Ceux de ce nom ont pris des alliances dans les premieres Maisons du Pays, sçavoir dans celles de Corbera, de Tord, &amp; de Fernez. Leur Maison a donné plusieurs grands Sujets à l’Eglise &amp; aux Armées ; &amp; ce qui est encore infiniment plus estimable, c’est qu’elle fournit plusieurs exemples d’une fidelité inviolable &amp; comme hereditaire envers ses Souverains. Je dis comme hereditaire, puisqu’on peut compter cinq generations de suite de ceux de cette famille, qui ont abandonné leur Pays, pour ne point reconnoistre d’autre Maistre que le legitime. Lorsque les Catalans secoüerent le joug des Espagnols sous Philippe IV. en l’année</hi> 1640. <hi rend="i">Don Juan &amp; Don Bernardin de Marymon, ayeul &amp; bisayeul de Mr le Marquis de Marymon Don Joseph, se retirerent à Madrid. Mr le Marquis de Serdagnola a suivi deux fois leur exemple, &amp; il a laissé le sien à Mrs ses enfans &amp; à ses petit-fils. Quant à ce qui regarde l’antiquité de la Maison de Marymon, on n’en sçauroit donner une plus grande idée, qu’en faisant remarquer que la Ville de Serdagnola a passé de masle en masle par une succession sans interruption à ceux de cette famille, depuis plus de</hi> 480. <hi rend="i">ans.</hi></p>
 </quote>
 </div>
-<div type="article" xml:id="MG-1707-10A_270">
+<div type="article" xml:id="MG-1707-10a_270">
     <head>[Lettre de M<hi rend="sup">r</hi> Sarron]</head>
 <bibl><title>Mercure galant</title>, octobre 1707 [première partie] [tome 10], p. 270-274.</bibl>
 <p>Je crois devoir ajoûter icy la Lettre suivante, puisqu’elle regarde aussi la Naissance du Prince des Asturies. Elle est de M<hi rend="sup">r</hi> Sarron, dont les Ouvrages de cette nature, ont souvent brillé.</p>
@@ -555,13 +555,13 @@
 </quote>
 </quote>
 </div>
-<div type="article" xml:id="MG-1707-10A_292">
+<div type="article" xml:id="MG-1707-10a_292">
 <head resp="editor">Mort de l’Abbé de Lubiere</head>
 <bibl><title>Mercure galant</title>, octobre 1707 [première partie] [tome 10], p. 292-295.</bibl>
 <p>M<hi rend="sup">r</hi> l’Abbé de Lubiere est aussi decedé, âgé seulement de 31. an. Il y avoit lieu d’esperer qu’il feroit de grands progrés dans les Sciences &amp; dans la Chaire. Il avoit passé quelques années parmi les Jesuites ; mais le mauvais estat de sa santé l’obligea de sortir de cette Compagnie, qui fut aussi fâchée de le perdre, qu’il l’estoit de les quitter. Cet Abbé donna au commencement de cette année un Livre qui a pour Titre : <hi rend="i">l’Esprit du Siecle</hi>, &amp; dont le succés a esté grand, Le Roy ayant vû cet ouvrage, paroissoit fort disposé à luy faire du bien, lorsque Sa Majesté en apprit la mort.</p>
 <p>On trouve dans une Lettre qui est à la teste de cet Ouvrage un éloge fort delicat des Journalistes de Trevoux. M<hi rend="sup">r</hi> l’Abbé de Lubiere se preparoit à donner lorsqu’il est mort, un Recüeil des plus belles pensées des Peres de l’Eglise, sur toutes sortes de sujets de Morale. Il avoit redigé tout ce qu’il avoit trouvé dans les Peres qui pouvoit convenir à quelque vertu ou à quelque passion. Le Pere Plochut, Augustin &amp; Docteur de Sorbonne, luy avoit aidé à faire le choix des matieres. Il est à souhaiter qu’il remplisse les vûës de son Ami deffunt. Cet Abbé avoit un grand talent pour la Predication ; il avoit prêché dans les meilleures Chaires de Paris, &amp; il avoit esté choisi pour faire le Panegirique de Saint Ignace l’année prochaine à l’Eglise de Saint Loüis de la ruë S. Antoine, &amp; pour faire le Sermon de la Cene devant le Roy. Cet Abbé estoit d’Arles, &amp; cousin germain de M<hi rend="sup">r</hi> de Julien Lieutenant general des Armées du Roy. Il estoit originaire de la Principauté d’Orange, où son grand-pere estoit premier President du Conseil Souverain de cette Ville. Son pere quitta cette Principauté pour s’aller établir en Provence, &amp; le zele de la Religion y avoit beaucoup contribué.</p>
 </div>
-<div type="article" xml:id="MG-1707-10A_306">
+<div type="article" xml:id="MG-1707-10a_306">
 <head>[Suite de l’article du Journal de Fontainebleau qui se trouve dans ce volume]</head>
 <bibl><title>Mercure galant</title>, octobre 1707 [première partie] [tome 10], p. 306-320.</bibl>
 <p>Je croyois ne mettre dans cette Lettre que deux Articles du Journal de Fontainebleau ; mais je me trouve obligé d’en faire trois. Voici le second, &amp; ma Lettre finira par le dernier.</p>
@@ -579,7 +579,7 @@
 <p>S.M. alla tirer l’apresdînée du 21. &amp; Madame la Duchesse de Bourgogne se promena en Cavalcade dans la Forest. Messeigneurs les Princes allerent à la chasse du Sanglier. On joüa au retour jusqu’au souper du Roy.</p>
 <p>Vous trouverez la conclusion de ce Journal, &amp; le retour du Roy à Versailles à la fin de ma Lettre. Je crois qu’une Chanson sera bien placée à la suite des divertissemens dont l’Article precedent est rempli. Elle ne regarde pourtant pas l’Amour, l’Auteur des paroles de cet Air, ne voulant plus aimer que la belle gloire. La Saison est favorable ; le Champ est ouvert, &amp; les lauriers sont pour ceux qui les sçavent cueillir.</p>
 </div>
-      <div type="article" xml:id="MG-1707-10A_320" resp="angele">
+      <div type="article" xml:id="MG-1707-10a_320" resp="angele">
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, octobre 1707 [première partie] [tome 10], p. 320-321.</bibl>
         <p>Je crois qu'une Chanson sera bien placée à la suite des divertissemens dont l'Article precedent est rempli. Elle ne regarde pourtant pas l'Amour, l'Auteur des paroles de cet Air, ne voulant plus aimer que la belle gloire. La Saison est favorable ; le Champs est ouvert, &amp; les lauriers sont pour ceux qui les sçavent cüeillir.</p>
@@ -596,7 +596,7 @@
           </figure>
         </ref>
       </div>
-<div type="article" xml:id="MG-1707-10A_391">
+<div type="article" xml:id="MG-1707-10a_391">
 <head>[Fin du Journal de Fontainebleau]</head>
 <bibl><title>Mercure galant</title>, octobre 1707 [première partie] [tome 10], p. 391-401.</bibl>
 <p>Voicy la suite &amp; la fin du Journal de Fontainebleau, dont je crois que vous ne serez pas moins satisfaite, que de ce que je vous ay déja envoyé de ce Journal.</p>
@@ -606,7 +606,7 @@
 <p>Le 25. Monseigneur, &amp; Messeigneurs les Princes partirent à six heures du matin pour aller à Meudon. Le Roy &amp; Madame la Duchesse de Bourgogne entendirent la Messe à dix heures, &amp; dînerent ensuite, Sa Majesté à son petit Couvert, &amp; Madame la Duchesse de Bourgogne, &amp; ses Dames, chez Madame de Maintenon. Le Roy, Madame la Duchesse de Bourgogne, Madame la Duchesse du Lude, &amp; trois Dames du Palais partirent dans le même Carosse, &amp; arriverent à trois heures à Petit-Bourg, où M<hi rend="sup">r</hi> le Marquis d’Antin n’avoit rien oublié pour la reception de la Cour, de toutes les choses qui luy étoient permis de faire. Ce Marquis sçachant que le Roy devoit se promener en arrivant, avoit fait disposer dans son Jardin une Allée que Sa Majesté avoit marquée, parce qu’elle estoit necessaire pour l’embellissement de ce Jardin. Les terres en estoient égalées ; les trous faits pour planter les Ormes, qu’il avoit fait porter sur le lieu, afin que Sa Majesté pust avoir à Petit-Bourg le plaisir qu’elle prend souvent dans ses Jardins, en faisant planter devant Elle, des Avenuës &amp; des Bosquets si grands, qu’il paroist, quand l’ouvrage est achevé, que ce soit un ouvrage de vingt années fait par la nature ; &amp; la chose réüssit comme M<hi rend="sup">r</hi> d’Antin se l’estoit imaginée, Sa Majesté ayant fait planter devant Elle aussi long-temps que le jour le put permettre. Au retour, le Roy n’ayant aucun de ses Ministres pour travailler à son ordinaire, joüa avec Madame la Duchesse de Bourgogne &amp; les Dames ; mais seulement pour occuper cette Princesse, pour laquelle Sa Majesté a toûjours beaucoup d’attention. Toutes les Dames souperent avec le Roy. S.A.R. Madame, avoit pris les devans pour se rendre à Paris, à cause d’un rhume dont elle se sentoit incommodée.</p>
 <p>Le Roy entendit le 26. la Messe dans la Chapelle, pendant laquelle il y eut Musique ; M<hi rend="sup">r</hi> d’Antin ayant fait venir quelques Musiciens de Paris, pour augmenter le nombre de ceux que Sa Majesté entendit lors qu’elle passa à Petit-Bourg pour aller à Fontainebleau. Ce Prince retourna ensuite au Jardin, dont il ne sortit point que l’allée ne fust entierement plantée ; &amp; M<hi rend="sup">r</hi> d’Antin supplia le Roy de trouver bon qu’il la nommât l’<hi rend="i">Allée Royale</hi>, puisqu’elle estoit du goût &amp; de l’ordonnance de Sa Majesté. À l’issuë du dîné, qui fut servi à l’ordinaire par les Officiers du Roy, Sa Majesté partit avec les mesmes personnes qui avoient eu l’honneur de l’accompagner, &amp; elle arriva sur les cinq heures du soir à Versailles. Tout le peuple estoit dans l’avenuë, afin de témoigner plutôt la joye que luy causoit un retour si souhaité. À peine fut-on rentré dans Versailles que Madame la Duchesse de Bourgogne, &amp; toute la Cour allerent chez Monseigneur le Duc de Bretagne, que l’on trouva dans une santé parfaite. Le Roy n’alla point chez ce Prince, parce qu’on le devoit porter chez Sa Majesté. Mais ce jeune Prince ayant eu beaucoup de visites, Sa Majesté ordonna qu’on ne le portast chez Elle que le lendemain. Sa Majesté apprit en arrivant que la Ville de Lerida avoit esté emportée d’assaut.</p>
 </div>
-<div type="article" xml:id="MG-1707-10A_416">
+<div type="article" xml:id="MG-1707-10a_416">
 <head>Enigme.</head>
 <bibl><title>Mercure galant</title>, octobre 1707 [première partie] [tome 10], p. 416-418.</bibl>
 <p>Le mot de l’Enigme du mois passé, étoit le <hi rend="i">Puits</hi>. Ceux qui l’ont trouvé, sont Mrs l’Abbé de Lerac, &amp; le tout joly, Mr Richi de Lyon, Favier, D.D.S. Berkenhead, de Saint Germain en Laye ; Julien Milet, de la Gentilhommerie de Maire en Medoc ; Jame, du Faubourg S. Germain ; l’Arpenteur Royal de Belru ; le Boiteux des deux Aigles ; le Solitaire du Marais ; Tegor, de la ruë de la Cerizaye ; le Galant banal de S. Cloud ; un Pensionnaire de Mr Thomas ; le gros Tambour du bout ; le Solitaire ; Que-mine &amp; son amy Darius ; M<hi rend="sup">e</hi> de Neuvi-Paillou ; Mlles Roulon, de l’Echelle du Temple ; Geneviéve Jollain ; les filles de Mr Jame, du Faubourg S. Germain ; l’Aimable Brune d’Auteüil ; la plus jeune des belles Dames de la ruë des Bernardins ; la belle &amp; grosse Maman, de la ruë du Pont aux Choux, &amp; son aimable &amp; grande fille, de la ruë du Monceau S. Gervais ; la Colombe de Merignac prés de Bordeaux ; la vieille Pie du Desert ; la rare Simplicité ; la Bergere Climene &amp; son Berger Tircis ; les belles Vendangeuses du Seigneur de la Roche-Chargé ; Manon, de la ruë des cinq Diamans ; la petite Suedoise ; la Blonde sans pareille.</p>
@@ -627,7 +627,7 @@
 </lg>
 </quote>
 </div>
-      <div type="article" xml:id="MG-1707-10A_419a" resp="angele">
+      <div type="article" xml:id="MG-1707-10a_419a" resp="angele">
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, octobre 1707 [première partie] [tome 10], p. 419.</bibl>
         <quote>
@@ -645,14 +645,14 @@
           </figure>
         </ref>
       </div>
-      <div type="article" xml:id="MG-1707-10A_419b" copyOf="JLB-MG-1707-010A_419" resp="angele">
+      <div type="article" xml:id="MG-1707-10a_419b" copyOf="JLB-MG-1707-010A_419" resp="angele">
 <head>[Prix de Toulouse délivré à un Imposteur]</head>
 <bibl><title>Mercure galant</title>, octobre 1707 [première partie] [tome 10], p. 419-421.</bibl>
 <p>Je vous ay dit que Mr de la Monnoye de Dijon avoit remporté le trois de May le prix de l’Eclogue aux Jeux Floraux, ce qui n’est pas veritable. Cependant un autre auroit pû faire la même faute, puis qu’ayant voulu sçavoir depuis pourquoy l’on m’avoit mandé une fausseté pour un fait veritable, on m’a assuré qu’un homme avoit esté assez hardy pour se presenter dans l’Assemblée sous le nom de Mr de la Monnoye, &amp; que le prix luy avoit esté délivré. Cependant j’ay sçû par Mr de la Monnoye même, qu’il n’est point Auteur des Vers ausquels ce prix a esté ajugé, qu’il ne l’a ny reçû ny prétendu recevoir ; qu’il n’aspire plus il y a long-temps à de pareils honneurs ; &amp; que toutes les pieces, qui en ces sortes d’occasions pourroient à l’avenir estre envoyées sous son nom à Toulouse &amp; ailleurs, seront tres-certainement supposées.</p>
 <p>Il me reste à l’ordinaire une infinité d’articles, que je suis obligé de reserver pour le mois prochain. Je puis vous assurer que ma Lettre sera fort curieuse, à cause des belles matieres qui la remplissent ordinairement dans le mois de Novembre, &amp; que d’ailleurs la Guerre m’en doit fournir aussi. Je suis, Madame, vostre, &amp;c.</p>
 <p><hi rend="i">À Paris ce</hi> 29 <hi rend="i">Octobre</hi> 1707.</p>
 </div>
-<div type="article" xml:id="MG-1707-10A_422">
+<div type="article" xml:id="MG-1707-10a_422">
 <head>Le Libraire au Lecteur</head>
 <bibl><title>Mercure galant</title>, octobre 1707 [première partie] [tome 10], p. 422-426.</bibl>
 <quote>
@@ -661,7 +661,7 @@
 <p>Je dois ajoûter icy que l’Ouvrage ayant grossi par les raisons que je viens de dire, il ne peut estre donné au Public, que le Vendredy 18. de Novembre.</p>
 </quote>
 </div>
-<div type="article" xml:id="MG-1707-10A_426">
+<div type="article" xml:id="MG-1707-10a_426">
 <head>Avis</head>
 <bibl><title>Mercure galant</title>, octobre 1707 [première partie] [tome 10], p. 426.</bibl>
 <quote>
