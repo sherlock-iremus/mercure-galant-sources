@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Mercure galant, tome V, 1673 [achevé d'imprimer le 7 décembre 1673, daté M. DC. LXXIV au titre]tome</title>
+        <title>Le Mercure galant, tome V, 1673 [achevé d'imprimer le 7 décembre 1673, daté M. DC. LXXIV au titre]</title>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL/IReMuS</edition>
@@ -53,7 +53,7 @@
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Le Mercure galant, tome V</title>, <publisher>Henry Loison</publisher>, <date>1673</date>.</bibl>
+          <title>Le Mercure galant, tome V, <date>1673 [achevé d'imprimer le 7 décembre 1673, daté M. DC. LXXIV au titre]</title>, <publisher>Henry Loison</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

@@ -51,7 +51,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Le Mercure galant, tome II</title>, <publisher>Claude Barbin</publisher> et <publisher>Theodore Girard</publisher>, <date>1672</date>.</bibl>
+        <bibl><title>Le Mercure galant, tome II, depuis le départ du Roy jusques à son retour [1er mai-2 juillet 1672]</title>, Paris, <publisher>Claude Barbin</publisher> et <publisher>Theodore Girard</publisher>, <date>1672</date>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -65,7 +65,7 @@
   </teiHeader>
   <text>
     <body>
-      <head><hi rend="i">Le Mercure galant, depuis le départ du Roy jusques à son retour</hi>, tome II, [mai-juillet 1672] [achevé d'imprimer le 17 décembre 1672, daté M. DC. LXXIII au titre].</head>
+      <head><hi rend="i">Le Mercure galant, tome II, depuis le départ du Roy jusques à son retour</hi>, tome II, [mai-juillet 1672 ; achevé d'imprimer le 17 décembre 1672, daté M. DC. LXXIII au titre], Paris, <publisher>Claude Barbin</publisher> et <publisher>Theodore Girard</publisher>.</head>
       <div type="article" xml:id="MG-1672-02_000" resp="mercure">
         <head>Préface</head>
         <bibl><title>Le Mercure galant</title>, tome II, [mai-juillet 1672], 1672
