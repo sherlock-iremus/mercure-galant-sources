@@ -1,0 +1,3 @@
+./tei-edition/MG-1672-01.xml:869: validity error : xml:id : attribute value 1672-00_165 is not an NCName
+      <div type="article" xml:id="1672-00_165" resp="CRSH">
+                                                          ^
