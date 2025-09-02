@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>Air nouveau</head>
+        <bibl><title>Mercure galant</title>, décembre 1706 [tome 12], p. 328.</bibl>
+        <quote>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin">L’Air <hi rend="i">Tout le déplaisir</hi> page 328.</note>
+          <lg>
+            <l> <hi rend="i">Tout le déplaisir d’un Amant</hi></l>
+            <l>
+              <hi rend="i">Le plus long ne dure guere ;</hi>
+            </l>
+            <l>
+              <hi rend="i">Comment tenir sa colere</hi>
+            </l>
+            <l>
+              <hi rend="i">Quand on aime tendrement.</hi>
+            </l>
+          </lg>
+        </quote>
+        <ref target="images/1706-12_328.JPG">
+          <figure>
+            <graphic url="images/1706-12_328.JPG"/>
+          </figure>
+        </ref>
+      </div>
+    </body>
+  </text>
+</TEI>

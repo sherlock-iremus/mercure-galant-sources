@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>[Visitation de Sainte Marie]</head>
+        <bibl><title>Mercure galant</title>, septembre 1682 (première partie) [tome 9], p. 50-51.</bibl>
+        <p/>
+        <p>Outre les Prieres, les Instrumens de Musique, &amp; l'Artifice, dont se servirent les Religieuses de la Visitation de Sainte Marie de la Ruë du Bac, Fauxbourg S. Germain, pour marquer leur joye, elles étalerent des Tableaux de toutes les Conquestes de Sa Majesté. Ces tableaux estoient accompagnez de Devises &amp; d'Emblémes à sa gloire.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>[Estaing]</head>
+        <bibl><title>Mercure galant</title>, octobre 1682 (deuxième partie) [tome 12], p. 303-304.</bibl>
+        <p/>
+        <p>La Ville d'Estaing, Païs de Roüargues, s'est fort distinguée par les soins de M<hi rend="sup">r</hi> le Comte d'Estaing. Les Prestres du lieu, &amp; ceux du Comté, au nombre de plus de soixante, chanterent le <hi rend="i">Te Deum</hi>, en présence de toute la Noblesse, que ce Comte traita magnifiquement, ainsi que toute le Clergé. Les Violons, les Hautbois, &amp; toute la Symphonie du Païs, ne cesserent point de se faire entendre. Il y eut des Illuminations à toutes les Fenestres du Chasteau &amp; de la Ville, &amp; des Fontaines de Vin coulerent un jour &amp; une nuit.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

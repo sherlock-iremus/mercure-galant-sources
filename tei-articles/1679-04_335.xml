@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>[Profession de mademoiselle de Langlée]</head>
+        <bibl><title>Mercure galant</title>, avril [tome 4], 1679, p. 335-336.</bibl>
+        <p>Mademoiselle de Langlée, qui avoit pris l’Habit il y a un an parmy les Filles de l’Assomption, fit Profession ces jours passez entre les mains de M<hi rend="sup">r</hi> l’Evesque de S. Brieu, Frere de M<hi rend="sup">r</hi> le Marquis de la Hoguete, &amp; Neveu de feu M. l’Archeveque de Paris. La Ceremonie fut tres-belle. Les Religieuses y chanterent divinement à leur ordinaire. La beauté de ce Convent vous est connuë. Quantité de Filles de qualité &amp; d’un grand mérite, le rendent celebre. Madame leur Supérieure est Sœur de M<hi rend="sup">r</hi> de la Haye l’Ambassadeur. Il se trouva à cette Cerémonie. L’Assemblée estoit composée de plusieurs Evesques, &amp; d’un fort grand nombre de Personnes tres-considérables de l’un &amp; de l’autre Sexe.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

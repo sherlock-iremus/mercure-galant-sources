@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>[Messe &amp; Sermon en Grec]</head>
+        <bibl><title>Mercure galant</title>, mai 1686 [tome 6], p. 187-188</bibl>
+        <p/>
+        <p>Je vous ay parlé plusieurs fois de la Feste de la Commémoration du S. Sépulcre qu'on célèbre tous les ans aux Cordeliers du Grand Couvent, le Dimanche de Quasi modo. On y chante une Messe en Grec ; &amp; après l'Evangile, on fait un Discours dans la mesme Langue [...]</p>
+      </div>
+    </body>
+  </text>
+</TEI>

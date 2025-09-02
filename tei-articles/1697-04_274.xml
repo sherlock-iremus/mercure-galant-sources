@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>[Nouvelle Actrice Italienne]</head>
+        <bibl><title>Mercure galant</title>, avril 1697 [tome 4], p. 274-275.</bibl>
+        <p>On vient de voir paroistre une nouvelle Actrice sur le Théatre des Italiens, sous le nom de <hi rend="i">Spinetta</hi>. Elle y a représenté cinq ou six Personnages differens dans la mesme Piece, ce qui luy a attiré de grands applaudissemens, &amp; le nom d’Actrice Universelle. Elle est venüe de Bruxelles, où elle a joüé longtemps dans la Troupe de M<hi rend="sup">r</hi> l’Electeur de Baviere.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

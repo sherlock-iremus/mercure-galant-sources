@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head resp="editor">Bénéfices donnés à l’Abbé de Bussy-Rabutin</head>
+        <bibl><title>Mercure galant</title>, novembre 1688 (première partie) [tome 15], p. 185</bibl>
+        <p/>
+        <p>A M. l’Abbé de Bussi Rabutin, le Prieuré de Nostre-Dame de Lespan, Diocese d’Auxerre. Il est Fils de M<hi rend="sup">r</hi> de Bussi Rabutin, de l’Academie Françoise, qui a esté Mestre de Camp de la Cavalerie, &amp; dont les Ouvrages font l’éloge.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

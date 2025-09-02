@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>[Paroles sur les Fleurs Printanieres]</head>
+        <bibl>
+          <title>Mercure galant, avril 1680 [tome 5], p. 242-243</title>
+        </bibl>
+        <p>Ces autres Paroles sont de Mademoiselle Castille, dont vous en avez déjà veu de fort-agreables<note resp="editor">Voir <ref target="MG-1680-06_057">cet article et</ref> <ref target="MG-1680-06_209"> celui-ci</ref>.</note>. Elles sont aisées &amp; naturelles, &amp; mériteroient bien qu’on les mist en Air.</p>
+        <quote>
+          <l><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"> </space>Ah, qu’ils sont courts,</l>
+          <l><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"> </space>Les beaux jours</l>
+          <l><space rend="tab"> </space><space rend="tab"> </space>D’une Fleur printaniere !</l>
+          <l>C’est ainsi que s’enfuit la saison des Amours.</l>
+          <l>Hastez-vous donc d’aimer, ô jeune Beauté fiere,</l>
+          <l>Hastez-vous, on n’est pas jeune &amp; belle toûjours.</l>
+        </quote>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>[Ouverture du Prix du Jeu de l'Arquebuse dans la mesme Ville]</head>
+        <bibl><title>Mercure galant</title>, juin 1688 (première partie) [tome 8], p. 127-128</bibl>
+        <p/>
+        <p>Le 16. [mai] Monsieur le Prince fit l'ouverture du Prix du Jeu de l'Arquebuse, au son des Violons &amp; des Hautbois, &amp; au bruit des Timbales &amp; des Trompetes, par deux coups qu'il tira, &amp; qui donnerent assez prés du noir, pour faire voir qu'il auroit pû ensuite remporter le Prix, s'il ne s'estoit contenté de donner cette marque de son adresse en faisant honneur aux Chevaliers. [...]</p>
+      </div>
+    </body>
+  </text>
+</TEI>

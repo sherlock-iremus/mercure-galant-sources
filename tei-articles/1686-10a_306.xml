@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div copyOf="JLB_MG-1686-10_306">
+        <head>[Conversions faites à Mets]</head>
+        <bibl><title>Mercure galant</title>, octobre 1686 (première partie) [tome 13], p. 306-307</bibl>
+        <p/>
+        <p>Toutes les Conversions ont esté enfin achevées à Mets [...] On en a rendu grâces à Dieu par un <hi rend="i">Te Deum</hi> au retour d'une Procession Générale. M<hi rend="sup">r</hi> l'Evesque de Mets l'entonna, &amp; il fut chanté par la Musique. Le Parlement &amp; les autres Corps y assistèrent avec tout l'Estat Major [...]</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>[Sarlat]</head>
+        <bibl><title>Mercure galant</title>, octobre 1682 (deuxième partie) [tome 12], p. 329-330.</bibl>
+        <p/>
+        <p>La Compagnie des Penitens Bleus de la Ville de Sarlat, fit une Procession solemnelle le jour de Saint Jerôme leur Patron, &amp; en suite fit chanter un <hi rend="i">Te Deum</hi> en Musique avec Symphonie, pour rendre graces à Dieu de la Naissance du jeune Prince. La Cerémonie finit par le Voeu de faire une semblable Procession tous les ans, &amp; de construire une Chapelle, où l'on fera des prieres particulieres pour la prospérité de la Famille Royale.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

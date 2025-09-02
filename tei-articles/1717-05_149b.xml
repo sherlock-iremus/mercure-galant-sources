@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head resp="editor">Chanson</head>
+        <bibl><title>Nouveau Mercure </title>, mai 1717 [tome 5], p. 149-150.</bibl>
+        <quote>
+          <label>AUTRE</label>
+          <label>À mettre en Musique le mois prochain.</label>
+          <lg>
+            <l>
+              <hi rend="i">Tout est un jeu dans la vie,</hi>
+            </l>
+            <l>
+              <hi rend="i">Un jeu de mots fait la Philosophie;</hi>
+            </l>
+            <l>
+              <hi rend="i">La Medecine est une momerie ;</hi>
+            </l>
+            <l>
+              <hi rend="i">Chez Themis que de Tricherie !</hi>
+            </l>
+            <l>
+              <hi rend="i">Par ses jeux Mars met tout en feu,</hi>
+            </l>
+            <l>
+              <hi rend="i">Et Venus par filouterie</hi>
+            </l>
+            <l>
+              <hi rend="i">Fait valoir le fin de son Jeu</hi>
+            </l>
+            <l>
+              <hi rend="i">Tout est un jeu dans la vie.</hi>
+            </l>
+          </lg>
+        </quote>
+      </div>
+    </body>
+  </text>
+</TEI>

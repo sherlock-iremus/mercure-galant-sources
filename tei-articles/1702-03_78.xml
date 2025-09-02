@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>[Madrigal]</head>
+        <bibl><title>Mercure galant</title>, mars 1702 [tome 4], p. 78-79.</bibl>
+        <p>Il ne faut pas estre avare, mais l’argent est necessaire pour vivre heureux. C’est ce qui a donné lieu de dire à un homme qui ne paye que d’apparence.</p>
+        <quote>
+          <lg>
+            <l rend="i">Vostre argent n’est jamais de mise</l>
+            <l rend="i">Vous sçavez user de remise</l>
+            <l rend="i">L’Esperance en vostre maison</l>
+            <l rend="i">Y déborde à confusion</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l rend="i">Si sans l’agreable finance</l>
+            <l rend="i">On pouvoit vivre d’esperance</l>
+            <l rend="i">Chez les personnes de bon sens</l>
+            <l rend="i">Vous meriteriez de l’encens</l>
+          </lg>
+        </quote>
+      </div>
+    </body>
+  </text>
+</TEI>

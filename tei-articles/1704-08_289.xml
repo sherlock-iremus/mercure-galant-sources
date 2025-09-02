@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>[Theses soutenuës]</head>
+        <bibl><title>Mercure galant</title>, août 1704 [tome 9], p. 289-290.</bibl>
+        <p>Le 10. de ce mois M<hi rend="sup">r</hi> de Guyonnet, fils M<hi rend="sup">r</hi> de Guyonnet, Conseiller au Parlement de Bordeaux, soutint dans le College de Guyenne une These de Geometrie &amp; de Fortifications, dediée au Parlement ; l’Assemblée estoit tres-nombreuse. Le soutenant surprit d’autant plus l’Auditoire par la solidité de ses demonstrations &amp; de ses réponses, que c’est un jeune homme de quatorze ans ; ce qui donne lieu de croire, que si son esprit continuë à faire d’aussi grands progrés, l’âge le rendra un jour, un des plus habiles hommes de son siécle.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

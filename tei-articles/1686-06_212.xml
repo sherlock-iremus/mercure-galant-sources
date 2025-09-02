@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>[Tout ce qui s'est passé à la Reception des quatre nouveaux Chevaliers de l'Ordre]</head>
+        <bibl><title>Mercure galant</title>, juin 1686 [tome 7], p. 212-213</bibl>
+        <p/>
+        <p>[Le jour de la Pentecôte, le duc de Chartres, le duc de Bourbon, le prince de Conti et le duc du Maine furent reçus, en la chapelle de Versailles, chevaliers de l'Ordre du Saint-Esprit par Louis XIV.]</p>
+        <p/>
+        <p>[...] M<hi rend="sup">r</hi> l'Archevesque de Paris, Prélat Commandeur de l'Ordre, estant arrivé, revestu de ses habits pontificaux, commença le Veni Creator, que la Musique du Roy continua. [...]</p>
+      </div>
+    </body>
+  </text>
+</TEI>

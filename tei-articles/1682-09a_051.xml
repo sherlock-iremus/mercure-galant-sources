@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>[General de l'Ordre de la Sainte Trinité]</head>
+        <bibl><title>Mercure galant</title>, septembre 1682 (première partie) [tome 9], p. 51, 53-54.</bibl>
+        <p/>
+        <p>On ne peut rien voir de plus grand, de plus magnifique, ny de plus ingénieux, que ce qu'on a veu au Convent des Maturins. Le Pere Mercier, General de cet Ordre, appellé de la Sainte Trinité &amp; Rédemption des Captifs, avoit fait faire un Feu d'artifice élevé sur le Balcon de son Jardin. [...]</p>
+        <p>Le Pere General, quoy qu'indisposé depuis longtemps, descendit exprés, &amp; voulut luy-mesme allumer le Feu. Il fut tiré au bruit des Trompetes. Toute la Court estoit environnée d'un nombre presque infiny de Flambeaux de cire blanche. Avant &amp; apres le Feu, on tira quantité d'Artifice, &amp; pendant ce divertissement on distribua du Vin en abondance.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>[Relation de M<hi rend="sup">r</hi> Chassebras de Cramailles, contenant son Voyage depuis Venise jusques à Rome, &amp; ses Remarques sur les Villes, Lieux &amp; Chemins considerables, avec les Devotions de Nostre-Dame de Lorette, &amp; de Saint François d'Assise]</head>
+        <bibl><title>Mercure galant</title>, septembre 1685 [tome 9], p. 119</bibl>
+        <p/>
+        <p>Je vous ay déjà donné plusieurs Relations de M. de Chassebras de Cramailles, &amp; entre autres celle de dix ou douze <hi rend="i">Opera</hi>, qui furent representez à Venise en son seul Carnaval, du temps que ce curieux Voyageur y estoit. [...]</p>
+      </div>
+    </body>
+  </text>
+</TEI>

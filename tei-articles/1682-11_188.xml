@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>[Morlaix]</head>
+        <bibl><title>Mercure galant</title>, novembre 1682 [tome 13], p. 188, 194.</bibl>
+        <p/>
+        <p>Le Jeudy 17. de Septembre, on fit joüer à Morlaix, Ville partagée en deux Eveschez, un tres-beau Feu d'artifice. [...]</p>
+        <p/>
+        <p>Une Compagnie de Mousquetaires fit les décharges pendant le Feu, qui fut allumé au bruit des Tambours, des Violons, &amp; des Trompetes Marines. [...]</p>
+      </div>
+    </body>
+  </text>
+</TEI>

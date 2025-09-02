@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>[Livourne]</head>
+        <bibl><title>Mercure galant</title>, octobre 1682 (deuxième partie) [tome 12], p. 106.</bibl>
+        <p/>
+        <p>La Feste fut commencée à Livourne le Vendredy 21. Aoust, par un <hi rend="i">Te Deum</hi> que l'on chanta solemnellement dans l'Eglise des Peres Observantins, où est la Chapelle de Saint Loüis de la Nation Françoise. Il y eut deux Choeurs de Musique, &amp; une excellente Simphonie. [...]</p>
+      </div>
+    </body>
+  </text>
+</TEI>

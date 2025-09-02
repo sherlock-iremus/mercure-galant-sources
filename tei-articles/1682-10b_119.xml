@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>[Quatrain]</head>
+        <bibl><title>Mercure galant</title>, octobre 1682 (deuxième partie) [tome 12], p. 119.</bibl>
+        <p>M<hi rend="sup">r</hi> l’Archidiacre de Gémont, quoy qu’il ne soit pas François, estant né à Chambéry, a fait voir par ce Quatrain qu’il entroit dans les sentimens de toute la France.</p>
+        <quote>
+          <lg>
+            <l rend="i"> Que LOUIS a grande raison,</l>
+            <l rend="i"> De se loüer de la Victoire !</l>
+            <l rend="i">Elle songea jadis à soûtenir sa gloire,</l>
+            <l rend="i">Elle songe à présent à soûtenir son Nom.</l>
+          </lg>
+        </quote>
+      </div>
+    </body>
+  </text>
+</TEI>

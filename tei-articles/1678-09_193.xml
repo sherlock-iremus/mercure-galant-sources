@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head resp="editor">Portraits de Leurs Majestés gravez par Mademoiselle Masson</head>
+        <bibl><title>Mercure galant</title>, septembre 1678 [tome 9], p. 193.</bibl>
+        <p>Mademoiselle Masson la suit de pres dans ce merveilleux talent. Elle a gravé les Portraits de Leurs Majestez avec une si entiere ressemblance, qu’aucun trait n’y est oublié. J’ay appris qu’elle travailloit presentement à ceux de Leurs Altesses Royales.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>[Mort de M<hi rend="sup">r</hi> d’Estival]</head>
+        <bibl><title>Mercure galant</title>, septembre [tome 12], 1678, p. 130-131.</bibl>
+        <p><seg type="tab">    </seg>À propos de belles Voix, M<hi rend="sup">r</hi> d’Estival est mort, &amp; le Roy a perdu un de ses grands Musiciens en sa personne.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

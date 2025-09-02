@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head resp="editor">Nomination de l’Abesse du Pracelet à l’Abbaye de Nôtre-Dame</head>
+        <bibl><title>Mercure galant</title>, mai 1684 [tome 5], p. 373. <p>Madame l'Abbesse du Paraclet, Tante de M de la Rochefoucault a esté pourvúë de l'Abbaye de Nostre-Dame de Soissons, que la mort de Madame Armande-Henriete de Lorraine a laissée vacante.</p></bibl>
+      </div>
+    </body>
+  </text>
+</TEI>

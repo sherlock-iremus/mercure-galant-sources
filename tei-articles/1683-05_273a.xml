@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>Autre Madrigal, sur le mesme sujet</head>
+        <bibl><title>Mercure galant</title>, mai 1683 [tome 5], p. 273.</bibl>
+        <quote>
+          <label>AUTRE MADRIGAL,<lb/>Sur le mesme sujet.</label>
+          <lg>
+            <l rend="i">Parlez, nos Ennemis, qui que vous puissiez estre,</l>
+            <l rend="i">Prenez garde à ne pas trop faire les fendans.</l>
+            <l rend="i">Les Dents au petit Duc ne font que de paroistre ;</l>
+            <l rend="i"> Mais laissez-les seulement croistre,</l>
+            <l rend="i"> Et vous verrez dans peu de temps</l>
+            <l rend="i"> Qu’il parlera des grosses dents.</l>
+          </lg>
+        </quote>
+      </div>
+    </body>
+  </text>
+</TEI>

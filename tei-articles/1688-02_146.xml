@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head resp="editor">Jetons</head>
+        <bibl><title>Mercure galant</title>, février 1688 [tome 2], p. 146-147</bibl>
+        <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : Les Jettons doivent regarder la planche 146.</note>
+        <p/>
+        <p>Ayant fait graver depuis plusieurs années les Jettons qui se frappent tous les ans, j'ay cru devoir prendre encore le mesme soin celle-cy, &amp; je vous les envoye à mon ordinaire. La Planche que je joins à cette Lettre vous les fera voir. Comme on connoist presque tous ces Jettons par les explications qui sont au bas, il n'est pas besoin que je vous donne beaucoup d'éclaircissement là-dessus. Je vous diray seulement que le premier est pour la Maison de Madame la Dauphine, &amp; le dernier pour la Troupe Italienne.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head resp="editor">Circonstances de l'élection de Jean, marquis de Bade, à l'archevêché de Trèves</head>
+        <bibl><title>Mercure galant</title>octobre 1688 (deuxième partie), Affaires du temps (tome 1), p. 227-228</bibl>
+        <p/>
+        <p>[...] Bien loin de cela, nous avons beaucoup d'exemples de quantité de sujets, qui ayant esté postulez par la plus grande partie du Chapitre, ont esté preferez à ceux qui avoient esté élus par la moindre partie pour les Cathedrales &amp; pour les Metropolitaines d'Allemagne. Il nous suffira icy de marquer Jean, Marquis de Bade, qui fut postulé Archevesque de Tréves par la plus grande partie du Chapitre le 21. Juin 1456. c'est à dire quelques années après le Traité du Concordat Germanique. On le conduisit au grand Autel, au son des Cloches, &amp; il prit possession de l'Eglise &amp; de toutes les dépendances de l'Archevesché de Tréves, malgré les oppositions du Seigneur d'Issembourg, dont la plus petite partie avoit fait l'élection. [...]</p>
+      </div>
+    </body>
+  </text>
+</TEI>

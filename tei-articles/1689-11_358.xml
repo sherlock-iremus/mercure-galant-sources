@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head resp="editor">Avis</head>
+        <bibl><title>Mercure galant</title>, novembre 1689 [tome 11], p. 358.</bibl>
+        <p/>
+        <p>
+          <hi rend="i">Le Sieur Guerout avertit ceux qui voudront avoir le Mercure, &amp; autres Livres, qu’au commencement de Janvier 1690. il aura sa Boutique dans la Galerie neuve du Palais, auquel lieu les Libraires de Province luy pourront écrite.</hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

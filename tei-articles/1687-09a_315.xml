@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head resp="editor">Mort du Pere du Moulinet</head>
+        <bibl><title>Mercure galant</title>, septembre 1687 (première partie) [tome 13], p. 315-316</bibl>
+        <p/>
+        <p>Le Pere du Moulinet, Chanoine Regulier de Saint Augustin, mort en l’Abbaye de Sainte Geneviéve, d’une maniere d’apoplexie, à l’âge de 67. ans. Il estoit de Roüen, &amp; avoit une parfaite connoissance des Antiquitez Romaines, &amp; particulierement des Médailles. Il a fait un tres-beau Livre intitulé <hi rend="i">la France Metallique.</hi></p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>[Balet de la Jeunesse]</head>
+        <bibl><title>Mercure galant</title>, janvier 1686 [tome 1], p. 290-291.</bibl>
+        <p/>
+        <p>Le Balet <hi rend="i">de la Jeunesse</hi> a esté dancé cette semaine à la Cour, pour la premiere fois, mais n’en estant pas encore assez bien instruit pour vous en pouvoir parler à fond, je remets jusqu’au mois prochain à vous en apprendre les particularitez. Je suis, Madame, Vostre, &amp;c.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

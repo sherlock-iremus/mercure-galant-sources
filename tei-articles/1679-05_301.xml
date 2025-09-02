@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head resp="editor">Médaille représentant Charles II, roi d'Espagne</head>
+        <bibl><title>Mercure galant</title>, mai 1679 [tome 5], p. 301-302.</bibl>
+        <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : La Médaille qui represente le Roy d’Espagne, doit regarder la page 302.</note>
+        <p>Puis que nous sommes sur ce qui regarde l’Espagne, je croy qu’il ne sera point hors de propos de vous faire voir le Portrait du Prince qui la gouverne. Il est gravé d’apres une Médaille. C’est la seule que nous ayons de ce jeune Roy. Elle a esté faite à Londres par Joseph Rottier, l’un des meilleurs Ouvriers de toute l’Europe. On l’a fait venir en France, où il travaille presentement à une Médaille du Roy.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

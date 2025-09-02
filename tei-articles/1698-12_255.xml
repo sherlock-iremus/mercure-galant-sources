@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head resp="editor">Mort de M<hi rend="sup">r</hi> Pierre Richelet</head>
+        <bibl><title>Mercure galant</title>, décembre 1698 [tome 12], p. 255.</bibl>
+        <p>Pierre Richelet, Avocat au Parlement, natif de Cheminon en Champagne, mort âgé d’environ soixante-sept ans. Il nous a donné un Dictionnaire de la Langue Françoise, dont il y a eu plusieurs Editions ; un autre Dictionnaire des Rimes, un Traité des Genres des Noms, plusieurs Lettres &amp; autres Traitez concernans la pureté de nostre Langue. On dit qu’il a laissé une Poëtique &amp; une Grammaire pour la Langue Françoise.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

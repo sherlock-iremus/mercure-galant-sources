@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>[Chauny]</head>
+        <bibl><title>Mercure galant</title>, novembre 1682 [tome 13], p. 133-134.</bibl>
+        <p/>
+        <p>On en a veu beaucoup à Chauny, où M<hi rend="sup">r</hi> Vaillant Maire de la Ville, a remply tres-dignement les fonctions de sa Charge, par les divers ordres qu'il y donna pour la Feste. On la publia par le son des Cloches &amp; des Tambours, qui de concert avec les Canons &amp; les Boëtes, formerent une harmonie que l'on entendit de loin. [...]</p>
+      </div>
+    </body>
+  </text>
+</TEI>

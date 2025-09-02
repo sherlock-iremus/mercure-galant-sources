@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>[Réponse à ce Madrigal par Mademoiselle de Scudery]</head>
+        <bibl><title>Mercure galant</title>, septembre 1700 [tome 9], p. 190.</bibl>
+        <p>Mademoiselle de Scudery fit cette réponse à M<hi rend="sup">r</hi> Moreau.</p>
+        <quote>
+          <lg>
+            <l rend="i">Vostre Madrigal est galant,</l>
+            <l rend="i">Il est naturel &amp; sçavant,</l>
+            <l rend="i">Et j’ay regret, je le confesse,</l>
+            <l rend="i">De n’estre pas une Déesse.</l>
+          </lg>
+        </quote>
+      </div>
+    </body>
+  </text>
+</TEI>

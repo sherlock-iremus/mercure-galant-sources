@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>[Vers au mesme]</head>
+        <bibl><title>Le Nouveau Mercure galant</title>, novembre 1677 [tome IX], p. 206.</bibl>
+        <p>C’est ce qui a fait dire fort spirituellement à M<hi rend="sup">r</hi> Descourades.</p>
+        <quote>
+          <l rend="i">  Illustre le Tellier,</l>
+          <l rend="i">  Vous estes Chancelier,</l>
+          <l rend="i">Le Roy seul a fait cet Ouvrage ;</l>
+          <l rend="i">  Mais le Royaume entier,</l>
+          <l rend="i">  S’il eust falu prier,</l>
+          <l rend="i">  Eust donné son sufrage.</l>
+        </quote>
+      </div>
+    </body>
+  </text>
+</TEI>

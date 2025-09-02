@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>Réponse pour Iris</head>
+        <bibl><title>Mercure galant</title>, octobre 1684 [tome 12], p. 61.</bibl>
+        <quote>
+          <label>REPONSE POUR IRIS.</label>
+          <lg>
+            <l rend="i">Que vostre présent m’embarasse !</l>
+            <l rend="i">Dois-je donc croire, cher Tircis,</l>
+            <l rend="i">Que vous n’ayez que de la Glace</l>
+            <l rend="i">A présenter à vostre Iris ?</l>
+          </lg>
+        </quote>
+      </div>
+    </body>
+  </text>
+</TEI>

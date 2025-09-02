@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head resp="editor">Vers de Mr Salbray.</head>
+        <bibl><title>Mercure galant</title>, août 1682 [tome 8], p. 170-171.</bibl>
+        <p/>
+        <p>M<hi rend="sup">r</hi> Salbray, Valet de Chambre du Roy, a tiré d’heureux présages de ce que le Prince est né le Jeudy, &amp; dans le mois d’Aoust, appellé Auguste par les Latins. Voicy comment il explique sa pensée.</p>
+        <quote>
+          <lg>
+            <l rend="i">Ce nouveau Prince est né le jour de Jupiter,</l>
+            <l rend="i">C’est le plus beau destin qu’on puisse souhaiter ;</l>
+            <l rend="i">Le Sort, au choix de l’Astre, est favorable &amp; juste,</l>
+            <l rend="i">Puis qu’il doit hériter du Pouvoir souverain.</l>
+            <l rend="i">Pour comble de bonheur, c’est dans le Mois d’Auguste,</l>
+            <l rend="i">D’une heureuse Grandeur le présage est certain.</l>
+          </lg>
+        </quote>
+      </div>
+    </body>
+  </text>
+</TEI>

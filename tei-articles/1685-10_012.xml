@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>La France, au Roy</head>
+        <bibl><title>Mercure galant</title>, octobre 1685 [tome 10], p. 12-13</bibl>
+        <quote>
+          <label>LA FRANCE,<lb/><hi rend="i">AU ROY.</hi></label>
+          <lg>
+            <l rend="i">A ta haute Valeur quel Heros peut atteindre ?</l>
+            <l rend="i">Ta Pieté fait voir de grandes actions,</l>
+            <l rend="i">Monarque tout parfait, tu n’as plus rien à craindre,</l>
+            <l rend="i">Ny de tes Ennemis, ny de tes passions.</l>
+          </lg>
+        </quote>
+      </div>
+    </body>
+  </text>
+</TEI>

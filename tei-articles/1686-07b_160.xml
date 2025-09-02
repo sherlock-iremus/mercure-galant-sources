@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head resp="editor">Embarquement de l’abbé de Choisy</head>
+        <bibl><title>Mercure galant</title>, juillet 1686 (deuxième partie) [tome 9], p. 160-161</bibl>
+        <p/>
+        <p>M<hi rend="sup">r</hi> l’Ambassadeur partit de Bancok le 16. à huit heures du matin aprés avoir esté salüé par la Forteresse, &amp; s’étant embarqué dans un Balon avec M<hi rend="sup">r</hi> Constance, il arriva a la barre de la Riviere, où la Fregate qui portoit la Lettre du Roy estoit moüillée. M<hi rend="sup">r</hi> Constance entra dans cette Fregate, &amp; y demeura avec les Ambassadeurs Siamois. M<hi rend="sup">r</hi> le Chevalier de Chaumont à qui on avoit envoyé les Chaloupes du Navire, se mit dedans avec M<hi rend="sup">r</hi> l’Abbé de Choisy, &amp; les Gentilshommes de sa suite, pour se rendre à bord de <hi rend="i">l’Oyseau</hi>, où il arriva sur les sept heures.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

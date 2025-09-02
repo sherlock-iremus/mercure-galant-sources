@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head resp="editor">Impression d’une Fable de Monsieur de Mallement de Messange</head>
+        <bibl><title>Mercure galant</title>, mars 1702 [tome 4], p. 254-255.</bibl>
+        <p>Je ne vous ay point envoye la Fable que Mr de Mallement de Messange a faite sur le Milan &amp; sur l’Aigle. Vos Amis la trouveront imprimée chez le S<hi rend="sup">r</hi> Jean Moreau, ruë S. Jaques, à la Toison d’Or.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

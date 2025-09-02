@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head resp="editor">Annonce du prochain extraordinaire.</head>
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier d’octobre 1682 [tome XX], p. 354.</bibl>
+        <p/>
+        <p>
+          <hi rend="i">Il me reste encor la suite du Traité des Lunetes par le sçavant M. Comiers ; un Traité des Couronnes ; un autre de la Vie heureuse, &amp; divers Sentimens en Vers sur les diférentes Questions, dont je vous feray part dans l’Extraordinaire du mois d’Avril.</hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>Air nouveau</head>
+        <bibl><title>Mercure galant</title>, septembre 1706 [tome 9], p. 359.</bibl>
+        <p>Je vous envoye une Chanson nouvelle, qui convient au temps des Vendanges. <note resp="editor">Une version à deux voix, attribuée à Montailly, figure dans le <hi rend="italic">Recueil d'airs sérieux et à boire</hi> de février 1708 (Paris, Ballard, p. 34-35). Une basse vocale a été ajoutée, tandis que la partie de dessus comporte des variantes mélodiques et rythmiques mineures.</note></p>
+        <quote>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par ces paroles,<hi rend="i">Amy, je te vois rire, en regardant Catin</hi>, doit regarder la page 359.</note>
+          <lg>
+            <l> <hi rend="i">Amy, je te vois rire, en regardant Catin,</hi></l>
+            <l>
+              <hi rend="i">Dont les beaux yeux te font la guerre,</hi>
+            </l>
+            <l>
+              <hi rend="i">Pour moy, qui suis buveur, je ne ris qu’à mon verre,</hi>
+            </l>
+            <l> <hi rend="i">Quand il est plein de vin.</hi></l>
+          </lg>
+        </quote>
+        <ref target="images/1706-09_359.JPG">
+          <figure>
+            <graphic url="images/1706-09_359.JPG"/>
+          </figure>
+        </ref>
+      </div>
+    </body>
+  </text>
+</TEI>

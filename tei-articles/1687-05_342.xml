@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head resp="editor">Sur le livre des Epistres Morales &amp; Académiques de Sabatier</head>
+        <bibl><title>Mercure galant</title>, mai 1687 [tome 7], p. 342-343</bibl>
+        <p>Ces deux Volumes se trouvent à Paris dans la court neuve du Palais au Dauphin, chez le Sieur Gueroult, qui debite aussi un Livre nouveau, intitulé, <hi rend="i">Epitres Morales &amp; Academiques</hi>. Elles sont de M<hi rend="sup">r</hi> Sabatier, de l’Academie Royale d’Arles, sur divers sujets traitez en vers d’une maniere fort agreable. Il y en a 54. &amp; asseurement vous trouverez cet Ouvrage tres-digne de son Autheur, qui s’est acquis beaucoup de réputation en le donnant au Public.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

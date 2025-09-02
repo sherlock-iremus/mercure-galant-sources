@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head resp="editor">Enigme en figure</head>
+        <bibl><title>Mercure galant</title>, décembre 1681 [tome 13], p. 281.</bibl>
+        <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : L’Enigme en figure doit regarder la page 281.</note>
+        <p>Les diférentes Figures que vous trouverez dans la Planche que j’adjoûte icy, font une troisiéme Enigme dont vos Amies se divertiront à chercher le sens.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

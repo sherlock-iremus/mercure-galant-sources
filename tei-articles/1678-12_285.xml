@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>[Noms de ceux qui l’ont devinée]</head>
+        <bibl><title>Mercure galant</title>, décembre 1678 [tome 12], p. 285-286.</bibl>
+        <p>M<hi rend="sup">r</hi>  Maillard, du Quartier S. Paul ; Le bon Clerc, de Châlons ; &amp; M <hi rend="sup">r</hi>  de Manfec, S <hi rend="sup">r</hi>  de Pondoube, ont donné le mesme sens, le dernier en Vers. Les autres Explications ont esté sur <hi rend="i">le Chapeau, la Plume à écrire, une Peau à couvrir un Livre, la Mer</hi>, &amp; <hi rend="i">un Tambour de Basque.</hi></p>
+      </div>
+    </body>
+  </text>
+</TEI>

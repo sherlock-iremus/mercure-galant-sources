@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>[Ceremonie faite aux Cordeliers]</head>
+        <bibl><title>Mercure galant</title>, avril 1690, p. 231-232.</bibl>
+        <p/>
+        <p>On celebre chaque année au jour du Dimanche de <hi rend="i">Quasi modo</hi>, dans l'Eglise du Convent des Cordeliers de Paris, une Feste que les personnes qui ont visité les Saints Lieux, rendent solemnelle. Cette Ceremonie commence par une Procession publique d'un grand nombre de Religieux, &amp; de ceux qui ont eu le bonheur de voir le Sepulchre du Sauveur. Ils portent des palmes en leurs mains, &amp; sont precedez de Trompettes, de Timballes, de Hautbois, &amp; d'autres Instrumens de Musique, pour marquer la joye particuliere qu'ils ressentent de la Resurrection du Fils de Dieu, &amp; du triomphe qu'il a remporté sur ses ennemis. La Messe se chante ce jour-là en Grec, &amp; c'est un usage tres ancien. Aprés l'Evangile il y eut cette année un Sermon en la mesme Langue.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

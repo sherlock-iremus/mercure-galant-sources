@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>[Mort de M. de Bezons]</head>
+        <bibl><title>Mercure galant</title>, mars 1684 [tome 3], p. 234-236.</bibl>
+        <p>Messire Claude Bazin, Seigneur de Bezons, Conseiller d’Etat, apres avoir eu diverses attaques d’Apopléxie, en est mort depuis huit jours. Il avoit esté Avocat Général au Grand Conseil, Intendant à Soissons, Conseiller d’Etat ordinaire, &amp; quarante ans de l’Académie. Françoise. Il a laissé trois Fils, dont l’un est Intendant d’Orleans, l’autre, Mestre de Camp de Cavalerie ; &amp; le troisiéme, Agent géneral du Clergé de France-Madame le Blanc, Femme de M<hi rend="sup">r</hi> le Blanc Maistre des Requestes, qui a esté si longtemps Intendant en la Géneralité de Roüen, est sa Fille.</p>
+        <p>Messire Jean Lobel, Conseiller en la Cour des Aydes à Paris, où il avoit esté reçû en 1636. est mort aussi dans ce mois. Il avoit esté Procureur Géneral en la Cour des Aydes à Agen.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

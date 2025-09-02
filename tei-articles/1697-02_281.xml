@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>Air nouveau</head>
+        <bibl><title>Mercure galant</title>, février 1697 [tome 2], p. 281-282.</bibl>
+        <p>Je vous envoye un Air nouveau, estimé des Connoisseurs.</p>
+        <quote>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin">L’Air doit regarder la page 282.</note>
+          <lg>
+            <l rend="i">Que nous aurons une fàcheuse année,</l>
+            <l rend="i">Disoit Gregoire à son Voisin !</l>
+            <l rend="i">On ne boira point de bon vîn,</l>
+            <l rend="i">Sans voir sa bourse ruinée ;</l>
+            <l rend="i">Mais de me l'épargner je ne suis pas si fou,</l>
+            <l rend="i">J'aime mieux manger moins &amp; boire tout mon sou.</l>
+          </lg>
+        </quote>
+        <ref target="images/1697-02_281.JPG">
+          <figure>
+            <graphic url="images/1697-02_281.JPG"/>
+          </figure>
+        </ref>
+      </div>
+    </body>
+  </text>
+</TEI>

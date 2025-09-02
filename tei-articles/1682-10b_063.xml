@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>Madrigal</head>
+        <bibl><title>Mercure galant</title>, octobre 1682 (deuxième partie) [tome 12], p. 63-64.</bibl>
+        <quote>
+          <label>A M<hi rend="sup">me</hi> LA DAUPHINE.<lb/><hi rend="sc">Madrigal</hi>.</label>
+          <lg>
+            <l rend="i">Princesse, enfin le Ciel a remply tous nos vœux ;</l>
+            <l rend="i">Vous nous donnez un Fils dont l’heureuse Naissance</l>
+            <l rend="i">Vient pour éterniser le destin glorieux</l>
+            <l rend="i"> Dont joüit nostre auguste France.</l>
+            <l rend="i"> Ce Prince à peine voit le jour,</l>
+            <l rend="i">Qu’on le prend icy-bas pour le Dieu de l’Amour,</l>
+            <l rend="i">Tant aux yeux ébloüis il étale de charmes ;</l>
+            <l rend="i">Mais quand tout l’Orient, par l’effort de son Bras,</l>
+            <l rend="i">Sera contraint un jour de ployer sous ses armes,</l>
+            <l rend="i">Alors on le prendra pour le Dieu des Combats.</l>
+          </lg>
+        </quote>
+      </div>
+    </body>
+  </text>
+</TEI>

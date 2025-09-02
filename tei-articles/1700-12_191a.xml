@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head resp="editor">Oratoire composé par le Sieur Melani</head>
+        <bibl><title>Mercure galant</title>, décembre 1700 [tome 12], p. 191.</bibl>
+        <p>M<hi rend="sup">r</hi> le Cardinal d’Estrées fit faire le 28. du mois passé un Oratoire, composé par le sieur Melani, dont la Musique &amp; la Symphonie estoient tres-belles. Il donna ensuite à souper à tous les Cardinaux François, &amp; à M<hi rend="sup">r</hi> Ottobon, avec une magnificence qui répondoit à celle qu’il a toûjours faire paroître.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

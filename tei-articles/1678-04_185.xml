@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>[Siege d’Ypres, avec les Noms des Morts &amp; des Blessez, &amp; de tous ceux qui se sont signalez]</head>
+        <p>C’est vous parler longtemps d’Ypres sans vous en faire voir le Plan. Le voicy. Si vous avez esté satisfaite de celuy de Gand, vous devez l’estre encor davantage de ce dernier. Vous y verrez les Attaques de la Villes &amp; de la Citadelle, &amp; tout le Campement marqué avec tant d’exactitude, qu’il n’y a pas-un Escadron &amp; un Bataillon que vous n’y trouviez nommé. Il ne s’est fait aucun mouvement pendant le Siege où le Roy n’ait esté présent. […]</p>
+      </div>
+    </body>
+  </text>
+</TEI>

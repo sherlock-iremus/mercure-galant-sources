@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>[Comté de la Tour-d'Opin]</head>
+        <bibl><title>Mercure galant</title>, octobre 1682 (deuxième partie) [tome 12], p. 300-302.</bibl>
+        <p/>
+        <p>Comme le Comté de la Tour-d'Opin en Dauphiné, a eu la gloire d'estre le Lieu des Plaisirs des Princes Dauphins, on s'est empressé à y donner des marques de joye pour la Naissance de Monseigneur le Duc de Bourgogne. C'est un des plus agreables lieux de France, à neuf lieuës de Lyon, sur le grand chemin de Chambéry. Les princes Dauphins y demeuroient dans les plus belles saisons de l'année, &amp; ils avoient étably un tres-beau Bailiage pour tout le Viennois. Toute la Ville s'estant mise sous les armes le Mardy 22. de Septembre, alla prendre Madame la Comtesse de Mury, qui en est la Dame, &amp; l'accompagna en l'Eglise Paroissiale, où le <hi rend="i">Te Deum</hi> fut chanté sur les deux heures, au bruit du Canon &amp; de la Mousqueterie. [...]</p>
+      </div>
+    </body>
+  </text>
+</TEI>

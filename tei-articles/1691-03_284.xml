@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head resp="editor">Article des Enigmes, extrait</head>
+        <bibl><title>Mercure galant</title>, mars 1691 [tome 3], p. 284-293.</bibl>
+        <p/>
+        <p>L'Enigme du mois passé<note resp="editor">Voir <ref target="MG-1691-02_293">l'énoncé de l'énigme</ref>.</note> a esté expliquée sur le Violon qui en estoit le vray sens, par [liste des gagnants].</p>
+      </div>
+    </body>
+  </text>
+</TEI>

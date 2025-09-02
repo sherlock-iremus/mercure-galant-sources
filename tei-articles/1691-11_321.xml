@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>Avis</head>
+        <bibl><title>Mercure galant</title>, novembre 1691 [tome 11], p. 321.</bibl>
+        <p/>
+        <quote>
+          <label>AVIS.</label>
+          <p>
+            <hi rend="i">On donnera le 15. Decembre prochain, la suite de l’Histoire de la Vie du Prince d’Orange. Le Recueil des six premiers Entretiens en forme de Pasquinades, &amp; tout remply de Figures, ne se vend que quarante sols.</hi>
+          </p>
+        </quote>
+      </div>
+    </body>
+  </text>
+</TEI>

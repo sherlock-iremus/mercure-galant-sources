@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>[Procession aux Gobelins.] *</head>
+        <bibl><title>Mercure galant</title>, juin 1678 [tome 6], p. 230.</bibl>
+        <p>J’aurois beaucoup à vous dire sur ce qui s’est fait d’éclatant dans les deux jours destinez aux plus solemnelles Processions. Il y a eu une tres-agreable Symphonie aux Gobelins ; &amp; ce qui s’est fait avec beaucoup de magnificence en plusieurs endroits de Paris, s’est également pratiqué dans les Provinces.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

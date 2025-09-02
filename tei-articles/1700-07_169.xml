@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>[Ouvrages de Musique]</head>
+        <bibl><title>Mercure galant</title>, juillet 1700 [tome 7], p. 169-170.</bibl>
+        <p>On trouve chez le S<hi rend="sup">r</hi> Roussel les Pieces à deux, Basse de Viole, &amp; Basse de Violon, composées par M<hi rend="sup">r</hi> Philidor, l’aîné, Ordinaire de la Musique du Roy, &amp; l’un des deux Gardiens des Livres de Musique de Sa Majesté.</p>
+        <p>L’on y trouve aussi plusieurs Motets de M<hi rend="sup">r</hi> Marchand, Organiste du Roy, &amp; Ordinaire de sa Musique, avec les Pieces de Viole de M<hi rend="sup">r</hi> Denyau, &amp; un livre de Trio pour le Violon, le Hautbois, &amp; la Flûte.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

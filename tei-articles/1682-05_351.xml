@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head resp="editor">Livres nouveaux</head>
+        <bibl><title>Mercure galant</title>, mai 1682 [tome 5], p. 350-352.</bibl>
+        <p>La Duchesse d’Estramene se vend chez le S<hi rend="sup">r</hi> Blageart, Court neuve du Palais, au Dauphin.</p>
+        <p>Le S<hi rend="sup">r</hi> Libraire au Palais, à l’Ecu de France, debite un Livre nouveau, intitulé <hi rend="i">La Science parfaite des Notaires</hi>. Il est de M<hi rend="sup">r</hi> Ferriore Avocat en Parlement, celebre par quantité d’autres Livres de Droit qu’il a mis au jour depuis trois ans avec grand succés. Ce dernier est un Inquarto fort ample, &amp; aussi utile pour les Provinces de Droit Ecrit, que pour celles de Droit Coûtumier.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

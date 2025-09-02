@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head resp="editor">Vers latins du Pere d’Augier, Jesuite</head>
+        <bibl><title>Histoire du siège de Toulon (deuxième partie)</title>, octobre 1707 [tome 12],, p. 104-105.</bibl>
+        <p>Les Vers Latins qui suivent, sont du Pere d’Augier, Jesuite.</p>
+        <quote>
+          <lg>
+            <l>
+              <hi rend="i">Victor abit victus, latè vastavit Olivas,</hi>
+            </l>
+            <l>
+              <hi rend="i">Intactas Lauros, linquere cura fuit.</hi>
+            </l>
+          </lg>
+        </quote>
+        <quote>
+          <label>TRADUCTION.</label>
+          <lg>
+            <l>Victor étant vaincu, pour cacher sa défaite,</l>
+            <l>Fit un vaste dégast des Forests d’Oliviers ;</l>
+            <l> Mais il eut soin dans sa retraite,</l>
+            <l> De ne pas toucher aux Lauriers.</l>
+          </lg>
+          <p>De la Marés, C. ****</p>
+        </quote>
+      </div>
+    </body>
+  </text>
+</TEI>

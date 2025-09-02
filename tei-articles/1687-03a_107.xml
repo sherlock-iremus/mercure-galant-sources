@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>[Madrigal]</head>
+        <bibl><title>Mercure galant</title>, mars 1687 (première partie) [tome 4], p. 107-108</bibl>
+        <p>Vous en trouverez une tres-ardente, quoy qu’en peu de mots, dans ce Madrigal de M<hi rend="sup">r</hi> Doujat, Doyen de l’Academie Françoise.</p>
+        <quote>
+          <lg>
+            <l rend="i"> Arrestons desormais nos larmes,</l>
+            <l rend="i"> Elles ne sont plus de saison,</l>
+            <l rend="i">Le Ciel donne à LOVIS l’entiere guerison</l>
+            <l rend="i"> Du mal qui causoit nos alarmes.</l>
+            <l rend="i"> Grand Dieu, nostre eternel appuy,</l>
+            <l rend="i">Qu’au delà de Nestor ce grand Monarque vive !</l>
+            <l rend="i"> Que ce bien par toy nous arrive,</l>
+            <l rend="i"> Le reste nous viendra par luy.</l>
+          </lg>
+        </quote>
+      </div>
+    </body>
+  </text>
+</TEI>

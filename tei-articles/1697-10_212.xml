@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>[Madrigal sur le mesme sujet]</head>
+        <bibl><title>Mercure galant</title>, octobre 1697 [tome 10], p. 212-213.</bibl>
+        <p>Le Madrigal qui suit est de M<hi rend="sup">r</hi> Lucas, dont vous connoissez le genie &amp; le merite.</p>
+        <quote>
+          <lg>
+            <l rend="i">LOUIS donne la Paix, ce sage Conquerant</l>
+            <l rend="i">Va se vaincre soy-même, &amp; terminer la guerre,</l>
+            <l rend="i"> Puisque vaincre Louis le Grand,</l>
+            <l rend="i">Est plus que de dompter tous les Rois de la terre.</l>
+          </lg>
+        </quote>
+      </div>
+    </body>
+  </text>
+</TEI>

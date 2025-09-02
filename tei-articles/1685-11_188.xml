@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>[Choix que le Roy fait de M<hi rend="sup">r</hi> de Boucherat, pour remplir la place de Chancelier de France]</head>
+        <bibl><title>Mercure galant</title>, novembre 1685 [tome 11], p. 188-189</bibl>
+        <p>M<hi rend="sup">rs</hi> de l’Academie Françoise l’ont aussi complimenté. M<hi rend="sup">r</hi> Boyer, qui est presentement Chancelier de leur Compagnie, parla avec la justesse ordinaire aux Academiciens. Je vous entretiendray plus amplement le mois prochain de tous ces Complimens, &amp; vous en envoyeray quelques-uns.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

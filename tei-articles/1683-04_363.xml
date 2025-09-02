@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>[Phaéton, Opéra]</head>
+        <bibl><title>Mercure galant</title>, avril 1683 [tome 4], p. 363</bibl>
+        <p>L'Opéra de <hi rend="i">Phaéton</hi>, qui a servy de divertissement à la Cour ce Carnaval, fut donnê pour la premiere fois au Public Mardy dernier 27. de ce mois. Je vous en entretiendray dans ma premiere Lettre.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

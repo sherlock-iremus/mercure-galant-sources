@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head resp="editor">Livres nouveaux : Sur le livre Art de toucher le dessus &amp; la basse de Viole</head>
+        <bibl><title>Mercure galant</title>, juillet 1687 [tome 10], p. 325</bibl>
+        <p/>
+        <p>Je dois encore vous dire que M. d'Anoville Escuyer, a fait un Livre intitulé l'Art de toucher le dessus &amp; la basse de Viole, contenant tout ce qu'il y a de necessaire, d'utile &amp; de curieux dans cette science, avec des principes, des regles, &amp; des observations si intelligibles qu'on peut en acquerir la perfection en peu de temps, &amp; mesme sans le secours d'aucun Maistre.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

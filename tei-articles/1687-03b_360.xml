@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>[Madame l'Abbesse de Nostre-Dame d'Yerre]</head>
+        <bibl><title>Mercure galant</title>, mars 1687 (deuxième partie) [tome 5], p. 360</bibl>
+        <p/>
+        <p>Madame l'Abbesse de Nostre-Dame d'Yerre en Brie, après des Prieres de quarante heures qu'elles avoient fait faire dans son Eglise, y fit chanter un <hi rend="i">Te Deum</hi> en Musique le 19. de Janvier. [Fondation de l'Abbaye].</p>
+      </div>
+    </body>
+  </text>
+</TEI>
