@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,21 +14,20 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>[Devises pour le Roy]</head>
-        <bibl><title>Mercure galant</title>, février 1684 [tome 2], p. 10-12.</bibl>
-        <p>C’est sans-doute avec beaucoup de raison qu’on a choisy le Soleil pour la Devise du Roy. Il est, comme ce bel Astre, un des plus grands ornemens du Monde, &amp; l’on y découvre, aussi bien qu’en luy, un des purs rayons de la Lumiere eternelle. M<hi rend="sup">r</hi> Magnin a trouvé dans ces pensées, le sujet de deux Devises, dont le Soleil est le corps. L’une a ces paroles pour ame, <hi rend="i">Decus immutabile mundi</hi>, &amp; il les explique par ce Madrigal.</p>
-        <quote>
-          <lg>
-            <l rend="i">Il est la gloire du Monde,</l>
-            <l rend="i">Les delices, l’ornement.</l>
-            <l rend="i">De cette Source féconde,</l>
-            <l rend="i">L’Univers uniquement</l>
-            <l rend="i">Tient les Biens dont il abonde.</l>
-          </lg>
-        </quote>
-      </div>
-    </body>
+    <body><div>
+          <head>[Devises pour le Roy]</head>
+          <bibl><title>Mercure galant</title>, février 1684 [tome 2], p. 10-12.</bibl>
+          <p>C’est sans-doute avec beaucoup de raison qu’on a choisy le Soleil pour la Devise du Roy. Il est, comme ce bel Astre, un des plus grands ornemens du Monde, &amp; l’on y découvre, aussi bien qu’en luy, un des purs rayons de la Lumiere eternelle. M<hi rend="sup">r</hi> Magnin a trouvé dans ces pensées, le sujet de deux Devises, dont le Soleil est le corps. L’une a ces paroles pour ame, <hi rend="i">Decus immutabile mundi</hi>, &amp; il les explique par ce Madrigal.</p>
+          <quote>
+            <lg>
+              <l rend="i">Il est la gloire du Monde,</l>
+              <l rend="i">Les delices, l’ornement.</l>
+              <l rend="i">De cette Source féconde,</l>
+              <l rend="i">L’Univers uniquement</l>
+              <l rend="i">Tient les Biens dont il abonde.</l>
+            </lg>
+          </quote>
+        </div>
+      </body>
   </text>
 </TEI>

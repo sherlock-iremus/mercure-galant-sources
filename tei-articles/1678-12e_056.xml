@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Stances à Monsieur ***</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier d’octobre 1678 [tome IV], p. 56-59.</bibl>
-        <p>Ne jugez pas des Stances qui suivent par ce qui leur sert de commencement. Il est peu de Personnes nouvellement sorties des Etudes, qui ayent des sentimens aussi bien reglez qu’on les trouvera dans cet Ouvrage. Il est du Fils d’un Maistre des Comptes de Paris. Je ne vous dis rien des Vers. Je suis assûré que vous serez satisfaite de leur netteté, &amp; de leur force.</p>
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier d’octobre 1678 [tome IV], p.
+          56-59.</bibl>
+        <p>Ne jugez pas des Stances qui suivent par ce qui leur sert de commencement. Il est peu de
+          Personnes nouvellement sorties des Etudes, qui ayent des sentimens aussi bien reglez qu’on
+          les trouvera dans cet Ouvrage. Il est du Fils d’un Maistre des Comptes de Paris. Je ne
+          vous dis rien des Vers. Je suis assûré que vous serez satisfaite de leur netteté, &amp; de
+          leur force.</p>
         <quote>
           <label rend="center">Stances</label>
           <label rend="center">A Monsieur ***</label>
@@ -33,8 +37,7 @@
             <l>Que nous nous faisions un tourment</l>
             <l>De retourner dans une Classe,</l>
             <l>Pour nous batre à coups d’Argument ?</l>
-          </lg>
-          <lg>
+          </lg><lg>
             <l>Il faut joüer un autre Rôle ;</l>
             <l>Il faut chanter d’un autre ton,</l>
             <l>Quitter Aristote &amp; Platon,</l>
@@ -45,8 +48,7 @@
             <l>Et comme un Senateur nouveau,</l>
             <l>D'une grande Robe plissée</l>
             <l>Balayer souvent le Barreau.</l>
-          </lg>
-          <lg>
+          </lg><lg>
             <l>Nous avons quelque conjecture,</l>
             <l>Qu'un jour cette Robe au Palais</l>
             <l>Fatiguant la main d’un Laquais,</l>
@@ -57,8 +59,7 @@
             <l>Pour le rendre moins ennuyeux,</l>
             <l>Occupons nostre esprit sans cesse,</l>
             <l>Et travaillons à qui mieux-mieux.</l>
-          </lg>
-          <lg>
+          </lg><lg>
             <l>Les plus grands plaisirs de nostre âge</l>
             <l>Deviennent enfin languissans,</l>
             <l>Lors que nous en saoulons nos sens</l>
@@ -69,8 +70,7 @@
             <l>Et nous goustons mieux le plaisir,</l>
             <l>Quand deux ou trois heures d’étude</l>
             <l>En ont engendré le desir.</l>
-          </lg>
-          <lg>
+          </lg><lg>
             <l>D'un enragé Sardanapale</l>
             <l>Les plus voluptueux transports,</l>
             <l>Ne produisent que des remords</l>
@@ -81,8 +81,7 @@
             <l>Au lieu qu’un travail vigoureux</l>
             <l>Produit une solide joye</l>
             <l>Dans le fond d’un cœur genéreux.</l>
-          </lg>
-          <lg>
+          </lg><lg>
             <l> Plus nous écoutons la paresse,</l>
             <l>Et plus nous voulons l’écouter ;</l>
             <l>Rien n’est si fort à redouter</l>
@@ -96,6 +95,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

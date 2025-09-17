@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Recepte pour les pasles couleurs, à Iris</head>
         <bibl><title>Mercure galant</title>, février 1678 [tome 2], p. 96-99.</bibl>
-        <p>Voila des Nouvelles de toute espece. Vous leur donnerez l’ordre, s’il vous plaist. Il ne faudroit plus qu’un Mariage afin que rien n’y manquât. On parle d’en faire un au premier jour d’une jeune Personne pour laquelle un peu de pâleur a fait faire les Vers que vous allez voir.</p>
+        <p>Voila des Nouvelles de toute espece. Vous leur donnerez l’ordre, s’il vous plaist. Il ne
+          faudroit plus qu’un Mariage afin que rien n’y manquât. On parle d’en faire un au premier
+          jour d’une jeune Personne pour laquelle un peu de pâleur a fait faire les Vers que vous
+          allez voir.</p>
         <quote rend="border">
           <label rend="center">Recepte</label>
           <label rend="center">pour les</label>
@@ -63,8 +65,9 @@
             <l>Un jeune Medecin vaut bien mieux qu’une Vache.</l>
           </lg>
         </quote>
-        <p>On propose l’Ordonnance. C’est aux Belles qui se connoissent à juger de l’interest qu’elles ont de s’en servir selon le party qui se presente.</p>
+        <p>On propose l’Ordonnance. C’est aux Belles qui se connoissent à juger de l’interest
+          qu’elles ont de s’en servir selon le party qui se presente.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

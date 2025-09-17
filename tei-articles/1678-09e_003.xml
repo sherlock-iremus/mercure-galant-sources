@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,10 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>[Six Poèmes de M. Laussel, Avocat à Montpellier, sur des articles du Mercure du mois de Juin]*</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III], p. 3-7.</bibl>
+    <body><div>
+        <head>[Six Poèmes de M. Laussel, Avocat à Montpellier, sur des articles du Mercure du mois
+          de Juin]*</head>
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
+          p. 3-7.</bibl>
         <quote>
           <label rend="center">L'HEUREUX INFORTUNÉ.</label>
           <lg>
@@ -105,6 +106,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

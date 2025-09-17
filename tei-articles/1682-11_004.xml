@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Autre Sonnet]</head>
         <bibl><title>Mercure galant</title>, novembre 1682 [tome 13], p. 4-5.</bibl>
         <p/>
-        <p>M<hi rend="sup">r</hi> Diérville du Pontlevesque, animé du mesme zele, a fait cet autre Sonnet.</p>
+        <p>M<hi rend="sup">r</hi> Diérville du Pontlevesque, animé du mesme zele, a fait cet autre
+          Sonnet.</p>
         <quote>
           <lg>
             <l rend="i">Il me faudroit la voix de toutes les Neuf Sœurs,</l>
@@ -48,6 +48,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

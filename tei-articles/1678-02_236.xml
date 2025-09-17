@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>L’Hyver, au Roy sur son Départ</head>
         <bibl><title>Mercure galant</title>, février 1678 [tome 2], p. 236-241.</bibl>
-        <p>Toutes choses se disposant insensiblement pour le Départ de Sa Majesté, M<hi rend="sup">r</hi> de Roux qui a si bien fait parler l’Année 1677. fit aussi parler l’Hyver, &amp; voicy de quelle maniere.</p>
+        <p>Toutes choses se disposant insensiblement pour le Départ de Sa Majesté, M<hi rend="sup">r</hi> de Roux qui a si bien fait parler l’Année 1677. fit aussi parler l’Hyver, &amp;
+          voicy de quelle maniere.</p>
         <quote rend="border">
           <label rend="center">L’Hyver,</label>
           <label rend="center">Au Roy,</label>
@@ -100,8 +100,10 @@
             <l>Je respecte toûjours la Palme &amp; les Lauriers.</l>
           </lg>
         </quote>
-        <p>Il est vray que l’Hyver ne flétrit point les Lauriers, mais il est vray aussi qu’il n’y a jamais eu que <hi rend="sc">Loüis le Grand</hi> qui ait pris l’habitude d’en cueillir dans cette rigoureuse Saison.</p>
+        <p>Il est vray que l’Hyver ne flétrit point les Lauriers, mais il est vray aussi qu’il n’y a
+          jamais eu que <hi rend="sc">Loüis le Grand</hi> qui ait pris l’habitude d’en cueillir dans
+          cette rigoureuse Saison.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

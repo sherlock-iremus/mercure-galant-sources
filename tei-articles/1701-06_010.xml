@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,26 +14,25 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>[Autres sur le Traité de Partage]</head>
-        <bibl><title>Mercure galant</title>, juin 1701 [tome 8], p. 10-11.</bibl>
-        <quote>
-          <label>Sur le Traité de Partage des<lb/>Etats d’Espagne, signé par le Roy de France, par le Roy d’Angleterre, &amp; par les Hollandois.</label>
-          <lg>
-            <l rend="i">À raisonner plus je m’applique,</l>
-            <l rend="i">  Moins je comprens la politique</l>
-            <l rend="i"> De tous les Envieux du Roy.</l>
-            <l rend="i">Ils voudroient le contraindre à tenir le Partage</l>
-            <l rend="i">Qui met de grands Etats sous le joug de sa loy.</l>
-            <l rend="i">Est-ce donc que l’on veut le craindre davantage ?</l>
-            <l rend="i"> Car enfin dans l’estat present,</l>
-            <l rend="i">S’il se trouve assez fort pour estre redoutable,</l>
-            <l rend="i"> Que seroit-il, ce Monarque indomptable,</l>
-            <l rend="i">S’il devenoit plus riche &amp; plus puissant ?</l>
-          </lg>
-        </quote>
-      </div>
-    </body>
+    <body><div>
+          <head>[Autres sur le Traité de Partage]</head>
+          <bibl><title>Mercure galant</title>, juin 1701 [tome 8], p. 10-11.</bibl>
+          <quote>
+            <label>Sur le Traité de Partage des<lb/>Etats d’Espagne, signé par le Roy de France, par le Roy d’Angleterre, &amp; par les Hollandois.</label>
+            <lg>
+              <l rend="i">À raisonner plus je m’applique,</l>
+              <l rend="i">  Moins je comprens la politique</l>
+              <l rend="i"> De tous les Envieux du Roy.</l>
+              <l rend="i">Ils voudroient le contraindre à tenir le Partage</l>
+              <l rend="i">Qui met de grands Etats sous le joug de sa loy.</l>
+              <l rend="i">Est-ce donc que l’on veut le craindre davantage ?</l>
+              <l rend="i"> Car enfin dans l’estat present,</l>
+              <l rend="i">S’il se trouve assez fort pour estre redoutable,</l>
+              <l rend="i"> Que seroit-il, ce Monarque indomptable,</l>
+              <l rend="i">S’il devenoit plus riche &amp; plus puissant ?</l>
+            </lg>
+          </quote>
+        </div>
+        </body>
   </text>
 </TEI>

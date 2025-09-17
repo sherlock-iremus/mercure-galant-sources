@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Pour Mademoiselle de Villeregy, Madrigal.</head>
         <bibl><title>Mercure galant</title>, janvier 1678 [tome 1], p. 100-101.</bibl>
         <quote rend="border">
@@ -30,8 +29,11 @@
           <l><space/>Il vous priva de la santé</l>
           <l><space/>De peur de vous rendre adorable.</l>
         </quote>
-        <p>Si ce terme d’adorable pouvoit estre reçeu dans la Prose comme il est autorisé pour les Vers, on n’en chercheroit point d’autre pour exprimer ce que le Roy paroist à ses Peuples, dont on peut dire qu’il ne fait pas moins les delices qu’il est la terreur de ses Ennemis.</p>
+        <p>Si ce terme d’adorable pouvoit estre reçeu dans la Prose comme il est autorisé pour les
+          Vers, on n’en chercheroit point d’autre pour exprimer ce que le Roy paroist à ses Peuples,
+          dont on peut dire qu’il ne fait pas moins les delices qu’il est la terreur de ses
+          Ennemis.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

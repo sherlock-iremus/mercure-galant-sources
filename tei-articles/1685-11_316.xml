@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,24 +14,20 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, novembre 1685 [tome 11], p. 316-317.</bibl>
         <p>Le second Air nouveau que je vous envoye, est d'un Autheur fort celebre.</p>
         <quote>
-          <label>AIR NOUVEAU.</label>
-          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par <hi rend="i">L'Amour fut il jamais, &amp;c.</hi> doit regarder la page 317.</note>
-          <lg>
-            <l rend="i">Fut-il jamais un plus charmant bonheur !</l>
+          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par <hi rend="i">L'Amour fut il jamais, &amp;c.</hi> doit regarder la page 317.</note>
+          <lg><l rend="i">Fut-il jamais un plus charmant bonheur !</l>
             <l rend="i">D'un vin choisy ma cave est pleine,</l>
             <l rend="i">Et ma Phylis enfin sensible à mon ardeur,</l>
             <l rend="i">Aprés tant de rigueurs cesse d'estre inhumaine.</l>
             <l rend="i">Entre ces deux plaisirs je partage mon coeur,</l>
             <l rend="i">La nuit est à Philis, le jour à ma bouteille.</l>
             <l rend="i">L'une &amp; l'autre sans cesse me réveille,</l>
-            <l rend="i">Fut-il jamais un plus charmant bonheur !</l>
-          </lg>
+            <l rend="i">Fut-il jamais un plus charmant bonheur !</l></lg>
         </quote>
         <ref target="images/1685-11_316.JPG">
           <figure>
@@ -39,6 +35,6 @@
           </figure>
         </ref>
       </div>
-    </body>
+        </body>
   </text>
 </TEI>

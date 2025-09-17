@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Traduction du Chapitre premier du Livre de Job, mis en Vers]</head>
         <bibl><title>Mercure galant</title>, décembre 1692 [tome 15], p. 79-91.</bibl>
-        <p>Je vous envoye la Traduction du premier Chapitre du Livre de Job. Elle a esté faite par un jeune Provençal, dont vous avez déja veu quelques pieces dans mes Lettres. Il a entrepris de traduire ce Livre entier, &amp; pour s’appliquer à ce travail avec plus de confiance, il témoigne qu’il aura obligation aux Curieux qui voudront bien me marquer leur sentiment sur son dessein, &amp; sur la maniere dont ils croiront qu’il faudroit l’executer. J’espere vous envoyer le mois prochain une suite de cet Ouvrage.</p>
+        <p>Je vous envoye la Traduction du premier Chapitre du Livre de Job. Elle a esté faite par
+          un jeune Provençal, dont vous avez déja veu quelques pieces dans mes Lettres. Il a
+          entrepris de traduire ce Livre entier, &amp; pour s’appliquer à ce travail avec plus de
+          confiance, il témoigne qu’il aura obligation aux Curieux qui voudront bien me marquer leur
+          sentiment sur son dessein, &amp; sur la maniere dont ils croiront qu’il faudroit
+          l’executer. J’espere vous envoyer le mois prochain une suite de cet Ouvrage.</p>
         <quote>
           <label>TRADUCTION<lb/>DU LIVRE DE JOB.<lb/><hi rend="i">CHAPITRE I.</hi></label>
           <lg>
@@ -72,12 +76,8 @@
             <l rend="i"> Il faisoit plus ; chaque matin</l>
             <l rend="i"> Pour chacun d’eux offrant un sacrifice,</l>
             <l rend="i"> Il prioit Dieu de leur estre propice,</l>
-            <l>
-              <hi rend="i">Craignant que quelquefois dans l’excés du festin</hi>
-            </l>
-            <l>
-              <hi rend="i">Ils n’eussent offencé sa divine justice.</hi>
-            </l>
+            <l><hi rend="i">Craignant que quelquefois dans l’excés du festin</hi></l>
+            <l><hi rend="i">Ils n’eussent offencé sa divine justice.</hi></l>
           </lg>
           <ab type="ornament">***</ab>
           <lg>
@@ -237,12 +237,10 @@
             <l rend="i"> Ainsi souffrit patiemment,</l>
             <l rend="i">Ainsi parla ce Prince au fort de sa misere.</l>
             <l rend="i">Il benit de son Dieu le secret jugement,</l>
-            <l>
-              <hi rend="i">Et ne se plaignit point de sa juste colere.</hi>
-            </l>
+            <l><hi rend="i">Et ne se plaignit point de sa juste colere.</hi></l>
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

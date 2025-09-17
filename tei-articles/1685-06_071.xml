@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Vers de Mademoiselle de Scudery] La Fauvette à Sapho</head>
         <bibl><title>Mercure galant</title>, juin 1685 [tome 6], p. 71-74</bibl>
-        <p>Ces Vers me font souvenir de ceux que vous m’avez demandez de Mademoiselle de Scudery. Le trop de matiere m’empescha de vous les envoyer la derniere fois.</p>
+        <p>Ces Vers me font souvenir de ceux que vous m’avez demandez de Mademoiselle de Scudery. Le
+          trop de matiere m’empescha de vous les envoyer la derniere fois.</p>
         <quote>
-          <label>LA FAUVETE<lb/>A SAPHO<lb/>En arrivant à son petit Bois selon<lb/>sa coûtume, le 15. Avril 1685.</label>
+          <label>LA FAUVETE<lb/>A SAPHO<lb/>En arrivant à son petit Bois selon<lb/>sa coûtume, le
+            15. Avril 1685.</label>
           <lg>
             <l rend="i">Plus vîte qu’une Hyrondelle,</l>
             <l rend="i">Je viens avec les beaux jours,</l>
@@ -78,6 +79,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

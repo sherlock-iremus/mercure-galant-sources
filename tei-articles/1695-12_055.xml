@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Eglogue</head>
         <bibl><title>Mercure galant</title>, décembre 1695 [tome 13], p. 55-70.</bibl>
-        <p>Il n’y a rien dont on ne puisse tirer une matiere de dispute. C’est ce que vous connoîtrez par l’Ouvrage que vous allez lire, dans lequel deux Bergers examinent si le jour doit remporter l’avantage sur la nuit.</p>
+        <p>Il n’y a rien dont on ne puisse tirer une matiere de dispute. C’est ce que vous
+          connoîtrez par l’Ouvrage que vous allez lire, dans lequel deux Bergers examinent si le
+          jour doit remporter l’avantage sur la nuit.</p>
         <quote>
-          <label>
-            <hi rend="i">EGLOGUE.</hi>
-          </label>
+          <label><hi rend="i">EGLOGUE.</hi></label>
           <lg>
             <l rend="i">Un jour je vis de loin Philidor &amp; Silene</l>
             <l rend="i">S’asseoir nonchalamment sur le bord de la Seine,</l>
@@ -42,9 +41,7 @@
             <l rend="i">N’en doutons point, Berger, l’ame n’est point émuë</l>
             <l rend="i">De ce qui chaque jour se presente à la veuë.</l>
             <l rend="i">Combien de fois nos yeux ont-ils vû le Soleil,</l>
-            <l>
-              <hi rend="i">Sans avoir admiré cet Astre sans pareil ?</hi>
-            </l>
+            <l><hi rend="i">Sans avoir admiré cet Astre sans pareil ?</hi></l>
             <l rend="i">Ah, que plein de rayons il entre en sa carriere !</l>
             <l rend="i">Ce Dieu devant ses pas fait marcher la lumiere.</l>
             <l rend="i">Vois comme par son ordre elle ramene aux fleurs</l>
@@ -68,9 +65,7 @@
             <l rend="i">Mille Astres éclatans dont elle étoit parée.</l>
             <l rend="i">Par tout l’argent y brille enchassé dans l’azur,</l>
             <l rend="i">Le jour le Ciel n’est point ny si net, ny si pur,</l>
-            <l>
-              <hi rend="i">Et puis, le blond Phœbus éclairant toutes choses,</hi>
-            </l>
+            <l><hi rend="i">Et puis, le blond Phœbus éclairant toutes choses,</hi></l>
             <l rend="i">Montre d’affreux serpens, comme il montre des roses.</l>
             <l rend="i">S’il fait de cent vertus éclater les appas,</l>
             <l rend="i">Il luit sur cent forfaits qu’il faudroit ne voir pas.</l>
@@ -82,9 +77,7 @@
             <l rend="i">Je le croy, mais aussi cette foible clarté</l>
             <l rend="i">Qu’ont les Astres, n’est rien qu’un éclat emprunté.</l>
             <l rend="i">On dit que le Soleil finissant sa carriere,</l>
-            <l>
-              <hi rend="i">Daigne les enrichir de sa propre lumiere,</hi>
-            </l>
+            <l><hi rend="i">Daigne les enrichir de sa propre lumiere,</hi></l>
             <l rend="i">A leur retour on voit s’enfuir de toutes parts,</l>
             <l rend="i">Loin des lieux habitez, le Negoce &amp; les Arts.</l>
             <l rend="i">Ouy, si-tost que la nuit étend ses voiles sombres,</l>
@@ -101,9 +94,7 @@
             <l rend="i">Se plaint-on que la nuit soit sombre &amp; tenebreuse,</l>
             <l rend="i">Lors qu’on veut qu’elle cache une intrigue amoureuse ?</l>
             <l rend="i">Un jour le beau Tircis, le plus beau des Mortels,</l>
-            <l>
-              <hi rend="i">L’encensoir à la main s’approchoit des Autels,</hi>
-            </l>
+            <l><hi rend="i">L’encensoir à la main s’approchoit des Autels,</hi></l>
             <l rend="i">Qu’il avoit élevez exprés pour la Déesse,</l>
             <l rend="i">Et disoit ; chere Nuit, faites que ma Maistresse,</l>
             <l rend="i">Qui hesite à se rendre, à vostre ombre ait recours,</l>
@@ -187,9 +178,7 @@
             <l rend="i">L’image de la mort peut-elle estre agreable ?</l>
             <l rend="i">Elle est peinte sur nous quand le plus froid des Dieux</l>
             <l rend="i">D’un humide pavot appesantit les yeux.</l>
-            <l>
-              <hi rend="i">On se couche, on s’étend, on ferme la paupiere,</hi>
-            </l>
+            <l><hi rend="i">On se couche, on s’étend, on ferme la paupiere,</hi></l>
             <l rend="i">Nos sens sont interdits, nostre ame est prisonniere,</l>
             <l rend="i">Et le long de son lit étendu mollement</l>
             <l rend="i">Sur son chevet l’on tombe, on est sans mouvement.</l>
@@ -201,9 +190,7 @@
             <l rend="i">Nostre ame pour sortir fait en vain mille efforts,</l>
             <l rend="i">Que sans pouvoir mourir on meurt de mille morts,</l>
             <l rend="i">Le corps s’appesantit, sous les maux, il s’affaisse,</l>
-            <l>
-              <hi rend="i">Ensuite avec le temps la paupiere s’abbaisse,</hi>
-            </l>
+            <l><hi rend="i">Ensuite avec le temps la paupiere s’abbaisse,</hi></l>
             <l rend="i">Mais qui nous rend plus forts au moment du réveil ?</l>
             <l rend="i">Qui nous empesche enfin de mourir ? Le Sommeil.</l>
           </lg>
@@ -211,9 +198,7 @@
             <label type="speaker">SILENE.</label>
             <l rend="i"> Je ne puis me lasser de le redire encore,</l>
             <l rend="i">Rien n’est égal au jour qu’une Iris que j’adore,</l>
-            <l>
-              <hi rend="i">On l’estime, on l’admire, on l’aime en la voyant,</hi>
-            </l>
+            <l><hi rend="i">On l’estime, on l’admire, on l’aime en la voyant,</hi></l>
             <l rend="i">Tout charme à son abord, tout plaist, tout est riant,</l>
             <l rend="i">Cent fois dans mes discours m’efforçant de luy plaire,</l>
             <l rend="i">A l’objet le plus beau j’égalois la Bergere.</l>
@@ -222,6 +207,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

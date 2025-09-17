@@ -53,4 +53,5 @@ def process_livraison_file(f):
 
 
 for f in glob.glob('./tei-edition/*.xml'):
+    print(f)
     process_livraison_file(f)

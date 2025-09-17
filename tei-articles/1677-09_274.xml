@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Rondeau sur la Devise que le Prince Charles fit mettre sur ses Guidons en approchant de Mets]</head>
         <bibl><title>Le Nouveau Mercure galant</title>, septembre 1677 [tome VII], p. 274-276.</bibl>
         <p>En arrivant, pour commencer leur Campagne, le Prince Charles avoit mis sur ses Guidons, <hi rend="i">Nunc aut numquam</hi>. Vous sçavez, Madame, ou vous le devez sçavoir pour l’apprendre à vos Amies, que ces trois mots Latins signifient, <hi rend="i">Maintenant, ou Jamais</hi>. Voicy une façon de Rondeau qu’un Homme d’aussi bonne humeur que spirituel, a fait là-dessus.</p>
@@ -45,6 +44,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

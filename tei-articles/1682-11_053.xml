@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,20 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Dialogue en langage Perigordin</head>
         <bibl><title>Mercure galant</title>, novembre 1682 [tome 13], p. 53-63.</bibl>
         <p/>
-        <p>Chacun tâche d’épurer son stile, &amp; d’élever ses pensées, en parlant du Roy &amp; de la Maison Royale. Cependant il y a des manieres de loüer en langage du Païs, qui ne manquent pas de graces, &amp; on trouve quelquefois autant d’agrément à ce stile naturel, qu’aux expressions les plus relevées. Voicy un Dialogue Périgordin, qui a donné beaucoup de plaisir à une fort grande Compagnie. Il fut recité dans la Tragédie que les Ecoliers du College des Jesuites de Périgueux représenterent dans le temps qu’on y celébra la Naissance du jeune Prince.</p>
+        <p>Chacun tâche d’épurer son stile, &amp; d’élever ses pensées, en parlant du Roy &amp; de
+          la Maison Royale. Cependant il y a des manieres de loüer en langage du Païs, qui ne
+          manquent pas de graces, &amp; on trouve quelquefois autant d’agrément à ce stile naturel,
+          qu’aux expressions les plus relevées. Voicy un Dialogue Périgordin, qui a donné beaucoup
+          de plaisir à une fort grande Compagnie. Il fut recité dans la Tragédie que les Ecoliers du
+          College des Jesuites de Périgueux représenterent dans le temps qu’on y celébra la
+          Naissance du jeune Prince.</p>
         <quote>
-          <label>DIALOGUÉ<lb/>DE TREI BARGIÉ<lb/><hi rend="sc">Perigourdi</hi>,<lb/>Nomna <hi rend="sc">Françey, Guillaumé &amp; Frontou</hi>,<lb/>Sur là Coucha de Madamo lo Daufino,<lb/>d’un Fir que s’apello Monseigneur<lb/>lou Du de Bourgoüigno.</label>
+          <label>DIALOGUÉ<lb/>DE TREI BARGIÉ<lb/><hi rend="sc">Perigourdi</hi>,<lb/>Nomna <hi rend="sc">Françey, Guillaumé &amp; Frontou</hi>,<lb/>Sur là Coucha de Madamo lo
+            Daufino,<lb/>d’un Fir que s’apello Monseigneur<lb/>lou Du de Bourgoüigno.</label>
           <label type="speaker">GUILLAUMÉ.</label>
           <lg>
             <l rend="i">Vautrey, qué dizé-vou ? que dizey-tu, Frontou,</l>
@@ -68,7 +74,8 @@
           </lg>
           <label type="speaker">GUILLAUMÉ.</label>
           <lg>
-            <l rend="i">Ma Baudufo<note resp="author">Toupie.</note> ey tabé facho au tour &amp; courdado,</l>
+            <l rend="i">Ma Baudufo<note resp="author">Toupie.</note> ey tabé facho au tour &amp;
+              courdado,</l>
             <l rend="i">E, ma Dessubré tou, so que yaimé lou may,</l>
             <l rend="i">Ey mon bravé Fleijeou, que toûjour tamay vay,</l>
             <l rend="i">Me ser per fa dansa la Filla deou Villagé,</l>
@@ -112,7 +119,9 @@
             <l rend="i">Per na en tey naqu aqueou tan brave Efan.</l>
             <l rend="i">Mon joly Passerau que révé en voulan,</l>
             <l rend="i">You ly voudrio pourta qu’auquaré may enquero,</l>
-            <l rend="i">Un Eychirpeou<note resp="author">C’est une Invention dont les Bergers se servent pour prendre les petits Oyseaux.</note> tout niau qu’ay fa de Nouzilliero.</l>
+            <l rend="i">Un Eychirpeou<note resp="author">C’est une Invention dont les Bergers se
+                servent pour prendre les petits Oyseaux.</note> tout niau qu’ay fa de
+              Nouzilliero.</l>
             <l rend="i">A perpau d’Eychirpeou, disen que notre Rey,</l>
             <l rend="i">Lou Gran-Pay del Efan, que Diœu donné bon sey,</l>
             <l rend="i">Lou so tendré per tou, &amp; que s’ey grando peno,</l>
@@ -135,7 +144,9 @@
           </lg>
         </quote>
         <p/>
-        <p>Frontou chanta ces Paroles en Périgordin, sur l’air, <hi rend="i">Ne serons-nous pas en repos, Amy, à cette Table</hi> ? &amp; tous trois commencerent leur Dance par une Gavote.</p>
+        <p>Frontou chanta ces Paroles en Périgordin, sur l’air, <hi rend="i">Ne serons-nous pas en
+            repos, Amy, à cette Table</hi> ? &amp; tous trois commencerent leur Dance par une
+          Gavote.</p>
         <quote>
           <lg>
             <l rend="i"> Qué chacun de nou sio bien gay</l>
@@ -149,6 +160,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Chanson]</head>
         <bibl><title>Mercure galant</title>, avril 1678 [tome 4], p. 150-151.</bibl>
         <quote>
-          <label>DISPOSITION D’UNE<lb/> Belle à aimer.</label>
-          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : la Chanson qui commence par, <hi rend="i">Si vous poursuivez de m’aimer</hi>, doit regarder la Page 150.</note>
+          <label>DISPOSITION D’UNE<lb/> Belle à aimer.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : la Chanson qui commence par, <hi rend="i">Si vous poursuivez de m’aimer</hi>, doit regarder la Page 150.</note>
           <lg>
             <l rend="i">Si vous poursuivez de m’aimer,</l>
             <l rend="i">Je vous trouve assez redoutable ;</l>
@@ -36,6 +34,6 @@
           </figure>
         </ref>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

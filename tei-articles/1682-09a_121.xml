@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,21 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Reflexions sur la Liberté</head>
-        <bibl><title>Mercure galant</title>, septembre 1682 (première partie) [tome 9], p. 121-136.</bibl>
+        <bibl><title>Mercure galant</title>, septembre 1682 (première partie) [tome 9],
+          p. 121-136.</bibl>
         <p/>
-        <p>Je vous envoye des Vers qui ont esté faits sur les avantages de la Liberté, par une Personne de vostre Sexe. Ce qui vous paroistra presque incroyable, à voir &amp; leur netteté &amp; le tour aisé qu’ils ont, c’est que la Dame qui les a faits, ne s’est apperçeuë que depuis six mois qu’elle estoit née pour en faire. Elle a fort peu de commerce avec le monde, passe sa vie dans son domestique, &amp; se donnant toute entiere aux soins &amp; aux occupations de son ménage, elle prend ce temps pour s’abandonner à la resverie qui est necessaire à ceux que favorisent les Muses. Jugez, Madame, si on ne peut pas assurer avec verité ce que je croy vous avoir déja marqué en plusieurs occasions, que ce n’est ny par art ny par étude que l’on devient Poëte, mais par ce beau feu qui est inspiré de la Nature.</p>
+        <p>Je vous envoye des Vers qui ont esté faits sur les avantages de la Liberté, par une
+          Personne de vostre Sexe. Ce qui vous paroistra presque incroyable, à voir &amp; leur
+          netteté &amp; le tour aisé qu’ils ont, c’est que la Dame qui les a faits, ne s’est
+          apperçeuë que depuis six mois qu’elle estoit née pour en faire. Elle a fort peu de
+          commerce avec le monde, passe sa vie dans son domestique, &amp; se donnant toute entiere
+          aux soins &amp; aux occupations de son ménage, elle prend ce temps pour s’abandonner à la
+          resverie qui est necessaire à ceux que favorisent les Muses. Jugez, Madame, si on ne peut
+          pas assurer avec verité ce que je croy vous avoir déja marqué en plusieurs occasions, que
+          ce n’est ny par art ny par étude que l’on devient Poëte, mais par ce beau feu qui est
+          inspiré de la Nature.</p>
         <quote>
           <label>REFLEXIONS<lb/>SUR LA LIBERTÉ.</label>
           <lg>
@@ -172,6 +181,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

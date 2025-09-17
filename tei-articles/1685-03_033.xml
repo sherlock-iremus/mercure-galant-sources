@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Oenophile. Conte</head>
         <bibl><title>Mercure galant</title>, mars 1685 [tome 3], p. 33-49</bibl>
-        <p>Je vous envoye un Conte nouveau de M<hi rend="sup">r</hi> de la Barre de Tours. Ses Galans Ouvrages ont tant d’agrément, &amp; vous avez toûjours pris tant de plaisir à les lire, que je croy vous en procurer un fort grand, en vous faisant part de celuy-cy.</p>
+        <p>Je vous envoye un Conte nouveau de M<hi rend="sup">r</hi> de la Barre de Tours. Ses
+          Galans Ouvrages ont tant d’agrément, &amp; vous avez toûjours pris tant de plaisir à les
+          lire, que je croy vous en procurer un fort grand, en vous faisant part de celuy-cy.</p>
         <quote>
           <label>ŒNOPHILE.<lb/>CONTE.</label>
           <lg>
@@ -245,6 +246,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

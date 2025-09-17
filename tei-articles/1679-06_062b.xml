@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Sonnet italien]</head>
         <bibl><title>Mercure galant</title>, juin 1679 [tome 6], p. 62-65.</bibl>
-        <p>La Langue Italienne a une je ne sçay quelle délicatesse qui s’accommode admirablement à la Musique. Elle donne de grands agrémens aux Ouvrages de Poësie ; &amp; le Sonnet de M<hi rend="sup">r</hi> Tonty que je vous envoye vous en fera demeurer d’accord. Il a esté lû au Roy par M<hi rend="sup">r</hi> l’Abbé Dangeau, &amp; il n’a pas moins plû à Sa Majesté qu’à toute la Cour.</p>
+        <p>La Langue Italienne a une je ne sçay quelle délicatesse qui s’accommode admirablement à
+          la Musique. Elle donne de grands agrémens aux Ouvrages de Poësie ; &amp; le Sonnet de M<hi rend="sup">r</hi> Tonty que je vous envoye vous en fera demeurer d’accord. Il a esté lû
+          au Roy par M<hi rend="sup">r</hi> l’Abbé Dangeau, &amp; il n’a pas moins plû à Sa Majesté
+          qu’à toute la Cour.</p>
         <quote>
           <label type="head">Alla Maesta Christianissima</label>
           <label type="head">Di</label>
@@ -49,6 +51,6 @@
           <p rend="right"><hi rend="sc">Michel Angelo Tonti</hi>.</p>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

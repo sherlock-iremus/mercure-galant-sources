@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,37 +14,60 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Le Triomphe du Soleil, ou le feu de joye</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1679 [tome VII], p. 325-340.</bibl>
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1679 [tome VII],
+          p. 325-340.</bibl>
         <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : Le Feu de Rheims doit regarder la page 325.</note>
-        <quote>
-          <label>LE TRIOMPHE DU SOLEIL, <lb/>OU LE FEU DE JOYE, <lb/>Fait à Rheims devant l'Hôtel de Ville, pour la Paix genérale de l'Année 1679.</label>
-        </quote>
-        <p>La Ville de Rheims voulant marquer une reconnoissance particuliere, à l'Invincible Monarque qui a donné le calme à toute l'Europe, n'eut pas plûtost reçeu les ordres qu'elle attendoit impatiemment pour faire publier la Paix, qu'on y forma le dessein d'un Feu de joye, qui accompagnant cette Publication, pust faire connoitre le zele de ses Habitans. Voicy de quelle maniere il fut ordonné.</p>
-        <p>Dans l'endroit le plus élevé de la Machine, on voyoit un grand Soleil d'or, avec ces mots au dessous, <hi rend="i">Sic inferiora Serenat</hi>. Il estoit posé dans un Vase sur la pointe d'une Pyramide quarrée, de neuf pieds de hauteur, soûtenuë d'une Base de cinq. Sur chacun des costez de la Pyramide estoient trois Signes du Zodiaque, rangez suivant leur ordre, &amp; qui répondoient aux quatre Saisons, représentées sur les quatre Faces de la Base.</p>
+        <quote><label>LE TRIOMPHE DU SOLEIL, <lb/>OU LE FEU DE JOYE, <lb/>Fait à Rheims devant
+            l'Hôtel de Ville, pour la Paix genérale de l'Année 1679.</label></quote>
+        <p>La Ville de Rheims voulant marquer une reconnoissance particuliere, à l'Invincible
+          Monarque qui a donné le calme à toute l'Europe, n'eut pas plûtost reçeu les ordres qu'elle
+          attendoit impatiemment pour faire publier la Paix, qu'on y forma le dessein d'un Feu de
+          joye, qui accompagnant cette Publication, pust faire connoitre le zele de ses Habitans.
+          Voicy de quelle maniere il fut ordonné.</p>
+        <p>Dans l'endroit le plus élevé de la Machine, on voyoit un grand Soleil d'or, avec ces mots
+          au dessous, <hi rend="i">Sic inferiora Serenat</hi>. Il estoit posé dans un Vase sur la
+          pointe d'une Pyramide quarrée, de neuf pieds de hauteur, soûtenuë d'une Base de cinq. Sur
+          chacun des costez de la Pyramide estoient trois Signes du Zodiaque, rangez suivant leur
+          ordre, &amp; qui répondoient aux quatre Saisons, représentées sur les quatre Faces de la
+          Base.</p>
         <p> Le Printemps avoit pour Devise, <hi rend="i">A Sole &amp; Marte incipit annus.</hi></p>
-        <p>L'Esté estoit accompagné d'un Lyon, qui est un de ses trois Signes, &amp; qui fait les Armes de la Flandre, avec ces mots, <hi rend="i">Soli grata domus</hi></p>
+        <p>L'Esté estoit accompagné d'un Lyon, qui est un de ses trois Signes, &amp; qui fait les
+          Armes de la Flandre, avec ces mots, <hi rend="i">Soli grata domus</hi></p>
         <p>La Balance &amp; le Sagittaire représentoient l'Automne, &amp; il portoit pour Devise <hi rend="i">Libranque, arcuque verendus</hi></p>
-        <p>La Devise de l'Hyver estoit, <hi rend="i">Solis vis nescia bruma.</hi> Cette Base s'élevoit de dessus un Globe à seize pans quarrez, qui portoient autant de Devises, avec des Symboles de Paix &amp;de Guerre, dans huit Triangles. Ce Globe estoit de huit pieds de Diametre, &amp; les Devises.</p>
+        <p>La Devise de l'Hyver estoit, <hi rend="i">Solis vis nescia bruma.</hi> Cette Base
+          s'élevoit de dessus un Globe à seize pans quarrez, qui portoient autant de Devises, avec
+          des Symboles de Paix &amp;de Guerre, dans huit Triangles. Ce Globe estoit de huit pieds de
+          Diametre, &amp; les Devises.</p>
         <p>Un soleil levant avec ces mots, <hi rend="i">Reditindefessus &amp; idem.</hi></p>
-        <p>Le Septentrion figuré par les sept Etoiles de la petite Ourse, &amp; un Borée avec ces paroles, <hi rend="i">Aquilos subjicit illi.</hi></p>
-        <p>Le Midy, par un Soleil au plus haut de la Sphere, <hi rend="i">Terret cum colligit ignes.</hi></p>
+        <p>Le Septentrion figuré par les sept Etoiles de la petite Ourse, &amp; un Borée avec ces
+          paroles, <hi rend="i">Aquilos subjicit illi.</hi></p>
+        <p>Le Midy, par un Soleil au plus haut de la Sphere, <hi rend="i">Terret cum colligit
+            ignes.</hi></p>
         <p>Un Soleil couchant, <hi rend="i">Ad gentes alias propcrat.</hi></p>
         <p>Une Lune &amp; des Etoiles, <hi rend="i">Omnem vim influit absens.</hi></p>
         <p>Un Cadran Solaire, <hi rend="i">Omnia praefinit cum stare videtur.</hi></p>
-        <p>Hercule tenant un Lyon &amp; un Aigle enchaînez, <hi rend="i">Servat quos perdere posset.</hi></p>
+        <p>Hercule tenant un Lyon &amp; un Aigle enchaînez, <hi rend="i">Servat quos perdere
+            posset.</hi></p>
         <p>Neptune appaisant une Tempeste, <hi rend="i">Meros componere praestat.</hi></p>
-        <p>Mars présentant une branche d'Olivier à la Justice, <hi rend="i">Hic deditilla tuetur.</hi></p>
+        <p>Mars présentant une branche d'Olivier à la Justice, <hi rend="i">Hic deditilla
+            tuetur.</hi></p>
         <p>La Mer rompant une Digue, <hi rend="i">Obstantia vincit.</hi></p>
-        <p>Un Arc &amp; un Carquois, pendus à un Olivier, <hi rend="i">Cum feriit, feriatur.</hi></p>
-        <p>Un Aigle à deux testes, panchée sous un Soleil, <hi rend="i">Tantos non sustinet igues.</hi></p>
+        <p>Un Arc &amp; un Carquois, pendus à un Olivier, <hi rend="i">Cum feriit,
+          feriatur.</hi></p>
+        <p>Un Aigle à deux testes, panchée sous un Soleil, <hi rend="i">Tantos non sustinet
+            igues.</hi></p>
         <p>Une Pluye sur des Bleds naissans, <hi rend="i">Post nubila, surgit ubertas.</hi></p>
         <p>Un Soleil, <hi rend="i">Obit omnia paesens.</hi></p>
-        <p>Un Miroir ardent environné de Lézards &amp; d'Etoiles, &amp; recevant les rayons du Soleil, <hi rend="i">Vis &amp; decor omnis ab illo.</hi></p>
-        <p>Une Fontaine avec des Couleuvres auc ornemens du Bassin, <hi rend="i">Sufficit, nec deficit.</hi></p>
-        <p>Les Devises du Levant, du Midy, du Septentrion, &amp; du Couchant, estoient orientées &amp; répondoient aux quatre Faces d'une Plinthe, haute de deux pieds, &amp; large de trois, soutenant le Globe, sur laquelle on lisoit les Vers suivans qui expliquoient ces quatre Devises.</p>
+        <p>Un Miroir ardent environné de Lézards &amp; d'Etoiles, &amp; recevant les rayons du
+          Soleil, <hi rend="i">Vis &amp; decor omnis ab illo.</hi></p>
+        <p>Une Fontaine avec des Couleuvres auc ornemens du Bassin, <hi rend="i">Sufficit, nec
+            deficit.</hi></p>
+        <p>Les Devises du Levant, du Midy, du Septentrion, &amp; du Couchant, estoient orientées
+          &amp; répondoient aux quatre Faces d'une Plinthe, haute de deux pieds, &amp; large de
+          trois, soutenant le Globe, sur laquelle on lisoit les Vers suivans qui expliquoient ces
+          quatre Devises.</p>
         <label>Le Levant</label>
         <l>Redit indefessus &amp; idem.</l>
         <l rend="i">Ainsi sans jamais se lasser,</l>
@@ -71,13 +94,28 @@
         <l rend="i">Habitans des froides Contrées,</l>
         <l rend="i">Vous sçavez comme nous qu'il n'a point son pareil,</l>
         <l rend="i">Et vous avez appris quelles sont ses journées.</l>
-        <p>Plus bas il y avoit un Piedestal haut de trois pieds, &amp; large de sept, qui portoit tout ce que je viens de vous dire. Il estoit posé sur une espece de Theatre quarré, représentant le Temple de Janus. Ce Temple avoit quatre Portes, chacune ornée dans sa Face de deux Pilastres d'ordre Toscan, avec des Palmes &amp; des branches d'Oliviers, qui prenant naissance de dessus l'Imposte, se joignoient &amp; faisoient Arcade dans chaque costé. Il estoit haut de huit pieds, &amp; large de treize. La Corniche de ce Temple servoit d'appuy à une Attique de mesme largeur, haute de quatre pieds, que laquelle on avoit représenté les Elemens avec leurs Symboles, aux deux extrémitez.</p>
-        <p>La terre estoit figurée par Cybelle, tirée dans un Char par deux Tortuës, &amp; ces mots, <hi rend="i">Omnis mihi splendor ab illo.</hi></p>
-        <p>L'eau, par Thétis, portée sur un Char en forme de Conque, traînée par des Chevaux Marins, <hi rend="i">Excitat &amp; pacat.</hi></p>
-        <p>L'Air, par Junon, dans un Char tiré par deux Oyseaux de Paradis, <hi rend="i">Que cogit nubila, solvit.</hi></p>
-        <p>Le Feu, par Pluton, dans un Char tiré par des Salemandres, <hi rend="i">Hilarat, cum tertuit.</hi></p>
-        <p>Chaque Elément avoit encore son Emblême au dessus, dans chacune des Faces du Piedestal qui soûtenoit le Globe &amp; la Pyramide. C'estoient des Jeux de petits Amours qui avoient raport à l'Elément.</p>
-        <p>Des quatre coins de l'Attique s'élevoient quatre Figures, grandes comme le naturel, qui représentoient les quatre Parties du Monde. Leurs vœux estoient exprimez par les Vers suivans qu'on lisoit dans des Cartouches.</p>
+        <p>Plus bas il y avoit un Piedestal haut de trois pieds, &amp; large de sept, qui portoit
+          tout ce que je viens de vous dire. Il estoit posé sur une espece de Theatre quarré,
+          représentant le Temple de Janus. Ce Temple avoit quatre Portes, chacune ornée dans sa Face
+          de deux Pilastres d'ordre Toscan, avec des Palmes &amp; des branches d'Oliviers, qui
+          prenant naissance de dessus l'Imposte, se joignoient &amp; faisoient Arcade dans chaque
+          costé. Il estoit haut de huit pieds, &amp; large de treize. La Corniche de ce Temple
+          servoit d'appuy à une Attique de mesme largeur, haute de quatre pieds, que laquelle on
+          avoit représenté les Elemens avec leurs Symboles, aux deux extrémitez.</p>
+        <p>La terre estoit figurée par Cybelle, tirée dans un Char par deux Tortuës, &amp; ces mots,
+            <hi rend="i">Omnis mihi splendor ab illo.</hi></p>
+        <p>L'eau, par Thétis, portée sur un Char en forme de Conque, traînée par des Chevaux Marins,
+            <hi rend="i">Excitat &amp; pacat.</hi></p>
+        <p>L'Air, par Junon, dans un Char tiré par deux Oyseaux de Paradis, <hi rend="i">Que cogit
+            nubila, solvit.</hi></p>
+        <p>Le Feu, par Pluton, dans un Char tiré par des Salemandres, <hi rend="i">Hilarat, cum
+            tertuit.</hi></p>
+        <p>Chaque Elément avoit encore son Emblême au dessus, dans chacune des Faces du Piedestal
+          qui soûtenoit le Globe &amp; la Pyramide. C'estoient des Jeux de petits Amours qui avoient
+          raport à l'Elément.</p>
+        <p>Des quatre coins de l'Attique s'élevoient quatre Figures, grandes comme le naturel, qui
+          représentoient les quatre Parties du Monde. Leurs vœux estoient exprimez par les Vers
+          suivans qu'on lisoit dans des Cartouches.</p>
         <lg>
           <label>L'Europe</label>
           <l rend="i">Grace à tes soins, tout est calme chez moy,</l>
@@ -119,8 +157,10 @@
           <l rend="i">Consolons-nous ; on en fait mieux sa Cour,</l>
           <l rend="i">Quand on vient de loin pour la faire.</l>
         </lg>
-        <p>Chacun sçait assez combien les Elemens &amp; les Saisons ont contribué à la gloire de <hi rend="sc">Loüis le Grand</hi>. Ainsi il seroit inutile d'expliquer quel raport ils ont au triomphe.</p>
-        <p>Les Vers qui suivent se lisoient sur l'Hôtel de Ville au dessous des Armes du Roy qu'on avoit placées sur la Porte, dans un Cartouche séparé.</p>
+        <p>Chacun sçait assez combien les Elemens &amp; les Saisons ont contribué à la gloire de <hi rend="sc">Loüis le Grand</hi>. Ainsi il seroit inutile d'expliquer quel raport ils ont
+          au triomphe.</p>
+        <p>Les Vers qui suivent se lisoient sur l'Hôtel de Ville au dessous des Armes du Roy qu'on
+          avoit placées sur la Porte, dans un Cartouche séparé.</p>
         <label>Au roy.</label>
         <lg>
           <l rend="i">On ne peut le dire assez,</l>
@@ -138,7 +178,20 @@
           <l rend="i">Voila le comble des Prodiges,</l>
           <l rend="i">On ne peut le dire assez.</l>
         </lg>
-        <p>La Cerémonie de ce Feu ne s'estant pû faire avec celle de la Publication de la Paix le 28. Aoust, elle fut remise au Dimanche suivant, troisiéme du dernier Mois. La Compagnie des Arquebusiers s'estant rendüe ce jour-là dans la Place en tres-bel ordre sur les huit heures du soir, M<hi rend="sup">r</hi> le Comte de Lhery, Capitaine pour le Roy dans la Ville, &amp; M<hi rend="sup">r</hi> Coquebert Seigneur d'Agny, Lieutenant des Habitans, accompagnez des Conseillers &amp; des Echevins, &amp; précedez des Archers du Guet, mirent le feu à l'Apareil. Au mesme instant la figure du Soleil parut enflâmée, sans qu'on eust pû voir de quelle maniere le feu y estoit parvenu. Il se communiqua en suite à tout le reste de la Machine, qui estant couverte d'Artifice depuis le haut jusqu'au bas, &amp; remplie au dedans d'un tres-grand nombre de belles Fusées, de la composition du S<hi rend="sup">r</hi> Chastelain de Rheims, forma un tres-agreable spectacle, &amp; éclata par diverses reprises en mille sortes de feux d'artifice, tandis que les Trompetes, les Fifres, &amp; les Tambours, se meslant aux décharges continuelles des Arquebusiers, &amp; au bruit du Canon &amp; des Boëtes, faisoient dire à tout le monde que rien n'est plus beau qu'une Figure de Guerre dans une Céremonie de Paix.</p>
+        <p>La Cerémonie de ce Feu ne s'estant pû faire avec celle de la Publication de la Paix le
+          28. Aoust, elle fut remise au Dimanche suivant, troisiéme du dernier Mois. La Compagnie
+          des Arquebusiers s'estant rendüe ce jour-là dans la Place en tres-bel ordre sur les huit
+          heures du soir, M<hi rend="sup">r</hi> le Comte de Lhery, Capitaine pour le Roy dans la
+          Ville, &amp; M<hi rend="sup">r</hi> Coquebert Seigneur d'Agny, Lieutenant des Habitans,
+          accompagnez des Conseillers &amp; des Echevins, &amp; précedez des Archers du Guet, mirent
+          le feu à l'Apareil. Au mesme instant la figure du Soleil parut enflâmée, sans qu'on eust
+          pû voir de quelle maniere le feu y estoit parvenu. Il se communiqua en suite à tout le
+          reste de la Machine, qui estant couverte d'Artifice depuis le haut jusqu'au bas, &amp;
+          remplie au dedans d'un tres-grand nombre de belles Fusées, de la composition du S<hi rend="sup">r</hi> Chastelain de Rheims, forma un tres-agreable spectacle, &amp; éclata
+          par diverses reprises en mille sortes de feux d'artifice, tandis que les Trompetes, les
+          Fifres, &amp; les Tambours, se meslant aux décharges continuelles des Arquebusiers, &amp;
+          au bruit du Canon &amp; des Boëtes, faisoient dire à tout le monde que rien n'est plus
+          beau qu'une Figure de Guerre dans une Céremonie de Paix.</p>
       </div>
     </body>
   </text>

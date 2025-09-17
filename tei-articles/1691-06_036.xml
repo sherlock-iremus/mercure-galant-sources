@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,18 +14,18 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Au Roy, pendant le sejour de Sa Majesté devant Mons</head>
         <bibl><title>Mercure galant</title>, juin 1691 [tome 6], p. 36-43.</bibl>
         <p/>
-        <p>Je vous envoye des Vers dont je devrois vous avoir fait part plûtost, mais les Ouvrages qui n’ont pas encore esté vûs, estant toujours nouveaux pour ceux qui les lisent, celuy-cy doit avoir pour vous la grace de la nouveauté. Il est de M<hi rend="sup">r</hi> Andry, Docteur en Theologie, &amp; Directeur des Dames Religieuses de la Ville-l’Evesque.</p>
+        <p>Je vous envoye des Vers dont je devrois vous avoir fait part plûtost, mais les Ouvrages
+          qui n’ont pas encore esté vûs, estant toujours nouveaux pour ceux qui les lisent, celuy-cy
+          doit avoir pour vous la grace de la nouveauté. Il est de M<hi rend="sup">r</hi> Andry,
+          Docteur en Theologie, &amp; Directeur des Dames Religieuses de la Ville-l’Evesque.</p>
         <quote>
           <label>AU ROY,<lb/>Pendant le sejour de Sa<lb/>Majesté devant Mons.</label>
           <lg>
-            <l>
-              <hi rend="i">Auguste Conquerant, Heros inimitable,</hi>
-            </l>
+            <l><hi rend="i">Auguste Conquerant, Heros inimitable,</hi></l>
             <l rend="i">Prince à tes Ennemis sans cesse redoutable,</l>
             <l rend="i">Unique Protecteur de nos sacrez Autels,</l>
             <l rend="i">LOUIS, sans contredit, le plus grand des Mortels ;</l>
@@ -100,6 +100,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

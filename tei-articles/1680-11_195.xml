@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head resp="editor">Les fous divertissans</head>
         <p>[] <hi rend="i">Mercure galant</hi>, novembre [tome 14], 1680, p. 195.</p>
         <p>Les Comédiens François ont représenté dans le mesme temps <hi rend="i">les Fous divertissans</hi>, de M<hi rend="sup">r</hi> Poisson. C’est une Piece en trois Actes, avec des Chansons, &amp; des Entrées.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

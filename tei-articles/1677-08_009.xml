@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Fragmens d’une Lettre en Chansons]</head>
         <bibl><title>Le Nouveau Mercure galant</title>, août 1677 [tome VI], p. 9-13.</bibl>
         <p>Je vous ay promis une Lettre en Chansons, elles sont toûjours fort à la mode, mais on en trouve rarement de bonnes. Des raisons particulieres m’empeschent de vous envoyer entiere celle dont je pretendois vous faire part. En voicy quelques Couplets dont vous devez estre satisfaite.</p>
@@ -39,11 +38,7 @@
           </lg>
           <label>Sur l’Air <hi rend="i">des Importuns.</hi></label>
           <lg>
-            <l>
-              <hi rend="i">Grace à</hi>
-              <hi rend="sc">Loüis</hi>
-              <hi rend="i">, nous vous baisons les mains,</hi>
-            </l>
+            <l><hi rend="i">Grace à</hi> <hi rend="sc">Loüis</hi><hi rend="i">, nous vous baisons les mains,</hi></l>
             <l rend="i">Conquerans Grecs, &amp; Conquerans Romains,</l>
             <l rend="i">Cherchez ailleurs qui celebre vos Faits ;</l>
             <l rend="i"> Dans un Printemps</l>
@@ -76,10 +71,9 @@
             <l rend="i">  Trouve peu d’appas,</l>
             <l rend="i">  On ne le mitonne pas,</l>
             <l rend="i">  Et de l’Esclavage</l>
-            <l rend="i">  Il est bientost las.</l>
-          </lg>
+            <l rend="i">  Il est bientost las.</l></lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

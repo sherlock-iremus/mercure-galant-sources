@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>La Marche des Echets</head>
         <bibl><title>Mercure galant</title>, mars 1697 [tome 3], p. 220-221.</bibl>
-        <p>Je vous envoye les regles que M. Cassan Professeur de Mathematiques, à faites en douze Vers, sur la marche des Echets. Elles sont si succintes &amp; si claires qu’avec leur secours une seule leçon suffit pour la sçavoir, &amp; pour entrer en goût de continuer d’apprendre le jeu.</p>
+        <p>Je vous envoye les regles que M. Cassan Professeur de Mathematiques, à faites en douze
+          Vers, sur la marche des Echets. Elles sont si succintes &amp; si claires qu’avec leur
+          secours une seule leçon suffit pour la sçavoir, &amp; pour entrer en goût de continuer
+          d’apprendre le jeu.</p>
         <quote>
           <label>LA MARCHE DES ECHETS.</label>
           <lg>
@@ -37,6 +39,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

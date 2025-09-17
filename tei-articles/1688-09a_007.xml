@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,17 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Portrait de Loüis le Grand</head>
-        <bibl><title>Mercure galant</title>, septembre 1688 (première partie) [tome 12], p. 7-14</bibl>
+        <bibl><title>Mercure galant</title>, septembre 1688 (première partie) [tome 12],
+          p. 7-14</bibl>
         <p/>
-        <p>Voicy, Madame, un nouveau Portrait du Roy que je vous envoye. L’admiration que vous avez toûjours euë pour les grandes qualitez de cet auguste Monarque, me persuade aisément que je ne puis commencer ma Lettre d’une maniere plus agreable pour vous. M<hi rend="sup">r</hi> Bosquillon dont je vous ay déja envoyé plusieurs Ouvrages, est l’Auteur de celuy-cy. Tous ceux qui l’ont veu en ont esté fort contens, &amp; vous avez le discernement trop juste, pour n’y découvrir pas les mesmes beautez qu’ils y ont trouvées.</p>
+        <p>Voicy, Madame, un nouveau Portrait du Roy que je vous envoye. L’admiration que vous avez
+          toûjours euë pour les grandes qualitez de cet auguste Monarque, me persuade aisément que
+          je ne puis commencer ma Lettre d’une maniere plus agreable pour vous. M<hi rend="sup">r</hi> Bosquillon dont je vous ay déja envoyé plusieurs Ouvrages, est l’Auteur de
+          celuy-cy. Tous ceux qui l’ont veu en ont esté fort contens, &amp; vous avez le
+          discernement trop juste, pour n’y découvrir pas les mesmes beautez qu’ils y ont
+          trouvées.</p>
         <quote>
           <label>PORTRAIT<lb/>DE<lb/>LOUIS LE GRAND.</label>
           <lg>
@@ -98,6 +103,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

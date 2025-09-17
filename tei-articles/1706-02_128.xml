@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,49 +14,35 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>Air nouveau</head>
-        <bibl><title>Mercure galant</title>, février 1706 [tome 2], p. 128-129.</bibl>
-        <p>Je vous envoye une Chanson de M<hi rend="sup">r</hi> de Metz, de la Fléche en Anjou. Le sujet des paroles vous feroit connoistre qu’elles sont de luy, quand même je ne vous le nommerois pas.</p>
-        <quote>
-          <label>AIR NOUVEAU.</label>
-          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">O Paix ! charmante Paix</hi>, doit regarder la page 128.</note>
-          <lg>
-            <l> <hi rend="i">O Paix ! charmante Paix,</hi></l>
-            <l> <hi rend="i">Exauce nos souhaits</hi></l>
-            <l>
-              <hi rend="i">Descend, Fille du Ciel, delice de la Terre,</hi>
-            </l>
-            <l>
-              <hi rend="i">Aux accents de ta voix, fait taire le Tonnerre,</hi>
-            </l>
-            <l>
-              <hi rend="i">Viens, Louis s’est lassé de ses propres Exploits :</hi>
-            </l>
-            <l>
-              <hi rend="i">Tout l’Univers t’appelle, &amp; même les François.</hi>
-            </l>
-            <l>
-              <hi rend="i">Le plus grand des humains te prefere à Bellonne ;</hi>
-            </l>
-            <l>
-              <hi rend="i">En vain, toûjours constante, elle agrandit son Trône,</hi>
-            </l>
-            <l>
-              <hi rend="i">Il veut se délivrer de la necessité</hi>
-            </l>
-            <l>
-              <hi rend="i">De vaincre l’Univers, contre luy revolté.</hi>
-            </l>
-          </lg>
-        </quote>
-        <ref target="images/1706-02_128.JPG">
-          <figure>
-            <graphic url="images/1706-02_128.JPG"/>
-          </figure>
-        </ref>
-      </div>
-    </body>
+    <body><div>
+                    <head>Air nouveau</head>
+                    <bibl><title>Mercure galant</title>, février 1706 [tome 2], p. 128-129.</bibl>
+                    <p>Je vous envoye une Chanson de M<hi rend="sup">r</hi> de Metz, de la Fléche en Anjou. Le sujet des paroles vous feroit connoistre qu’elles sont de luy, quand même je ne vous le nommerois pas.</p>
+                    <quote>
+                        <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">O Paix ! charmante Paix</hi>, doit regarder la page 128.</note>
+                        <lg>
+                            <l> <hi rend="i">O Paix ! charmante Paix,</hi></l>
+                            <l> <hi rend="i">Exauce nos souhaits</hi></l>
+                            <l><hi rend="i">Descend, Fille du Ciel, delice de la Terre,</hi></l>
+                            <l><hi rend="i">Aux accents de ta voix, fait taire le Tonnerre,</hi></l>
+                            <l><hi rend="i">Viens, Louis s’est lassé de ses propres
+                                Exploits :</hi></l>
+                            <l><hi rend="i">Tout l’Univers t’appelle, &amp; même les
+                                François.</hi></l>
+                            <l><hi rend="i">Le plus grand des humains te prefere à
+                                Bellonne ;</hi></l>
+                            <l><hi rend="i">En vain, toûjours constante, elle agrandit son
+                                    Trône,</hi></l>
+                            <l><hi rend="i">Il veut se délivrer de la necessité</hi></l>
+                            <l><hi rend="i">De vaincre l’Univers, contre luy revolté.</hi></l>
+                        </lg>
+                    </quote>
+                    <ref target="images/1706-02_128.JPG">
+                        <figure>
+                            <graphic url="images/1706-02_128.JPG"/>
+                        </figure>
+                    </ref>
+                </div>
+                </body>
   </text>
 </TEI>

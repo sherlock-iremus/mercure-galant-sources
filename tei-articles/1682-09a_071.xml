@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,19 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Idille de Madame des Houlieres]</head>
-        <bibl><title>Mercure galant</title>, septembre 1682 (première partie) [tome 9], p. 71-81.</bibl>
+        <bibl><title>Mercure galant</title>, septembre 1682 (première partie) [tome 9],
+          p. 71-81.</bibl>
         <p/>
-        <p>Je joins à ces deux Sonnets, l’Idille de Madame des Houlieres, dont le bruit doit estre allé jusqu’à vous, par les applaudissemens qu’il a reçeus à la Cour &amp; à Paris. Il y a tant de délicatesse, de bon goust, &amp; de bon sens, dans tout ce qui part de cette illustre Personne, que si l’usage estoit que les Femmes fussent reçeuës à l’Académie, on préviendroit ses souhaits, pour luy offrir place dans cette celebre Compagnie.</p>
+        <p>Je joins à ces deux Sonnets, l’Idille de Madame des Houlieres, dont le bruit doit estre
+          allé jusqu’à vous, par les applaudissemens qu’il a reçeus à la Cour &amp; à Paris. Il y a
+          tant de délicatesse, de bon goust, &amp; de bon sens, dans tout ce qui part de cette
+          illustre Personne, que si l’usage estoit que les Femmes fussent reçeuës à l’Académie, on
+          préviendroit ses souhaits, pour luy offrir place dans cette celebre Compagnie.</p>
         <quote>
-          <label>POUR<lb/>LA NAISSANCE<lb/><hi rend="sc">de Monseigneur</hi><lb/>LE DUC<lb/>DE BOURGOGNE.<lb/>IDILLE.</label>
+          <label>POUR<lb/>LA NAISSANCE<lb/><hi rend="sc">de Monseigneur</hi><lb/>LE DUC<lb/>DE
+            BOURGOGNE.<lb/>IDILLE.</label>
           <lg>
             <l rend="i">L’Amour pressé d’une douleur amere,</l>
             <l rend="i">Eteint son Flambeau, rompt ses Traits,</l>
@@ -108,7 +113,8 @@
             <l rend="i">  Une Mortelle me surmonte ?</l>
             <l rend="i">Hé-bien, l’illustre Enfant dont vous vous alarmez,</l>
             <l rend="i">  Pres de moy tiendra vostre place ;</l>
-            <l>  <hi rend="i">Je veux</hi> (<hi rend="i">&amp; le Destin ne m’en dédira pas</hi>)</l>
+            <l>  <hi rend="i">Je veux</hi> (<hi rend="i">&amp; le Destin ne m’en dédira
+              pas</hi>)</l>
             <l rend="i">Que quoy qu’il dise, ou quoy qu’il fasse,</l>
             <l rend="i">On y trouve toûjours une nouvelle Grace ;</l>
             <l rend="i">Toutes vont par mon ordre accompagner ses pas.</l>
@@ -135,6 +141,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

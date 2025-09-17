@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div copyOf="JLB-MG-1677-07_002">
+    <body><div copyOf="JLB-MG-1677-07_002">
         <head>[Sonnet de Monsieur de Fontenelle à une de ses Amies qui l’avoit prié de luy apprendre l’Espagnol]</head>
         <bibl><title>Le Nouveau Mercure galant</title>, juillet 1677 ([tome V]), p. 1-5.</bibl>
         <p>Je vous l’avouë, Madame, j’ay de la joye que les Lettres que vous me permettez de vous adresser ayent un si grand cours dans le monde : &amp; l’embarras où je me trouve quelquefois pour choisir parmy ce qu’on m’apporte de tous costez, ce que je croy de plus curieux, pour vous, ne diminuë rien du plaisir que je me fais de contenter le Public, en luy faisant part de ce que je vous envoye.</p>
         <p>Je commence par un Sonnet qui n’est pas dans l’exacte régularité, mais qui ne laisse pas d’avoir son agrément par ses expressions naturelles. Une aimable Fille dont la conversation est un charme pour tous ceux qui la connoissent particulierement, avoit prié un de ses Amis, façon d’Amant, de luy apprendre l’Espagnol, parce qu’elle avoit entendu dire que cette Langue avoit je ne sçay quoy de majestueux &amp; de fier qui répondoit assez à son caractere. On ne refuse rien à ce qu’on aime. Il s’engagea volontiers à ce qu’elle souhaitoit de luy, &amp; pour l’en mieux assurer, il luy envoya ce Sonnet dés le jour mesme.</p>
         <quote>
           <label>SONNET.</label>
-          <lg>
-            <l rend="i">Parce que l’Espagnol est une Langue fiere,</l>
+          <lg><l rend="i">Parce que l’Espagnol est une Langue fiere,</l>
             <l rend="i">Je vous le dois apprendre ? Et bien soit, commençons ;</l>
             <l rend="i">Mais ce que je demande à ma belle Ecoliere,</l>
             <l rend="i">C’est de ne se servir jamais de mes Leçons.</l>
@@ -45,10 +43,9 @@
           <lg>
             <l rend="i">Mais que de son costé l’Espagnol se console ;</l>
             <l rend="i">Car ne pouvons-nous pas mesler dans nos amours,</l>
-            <l rend="i">Et liberté Françoise, &amp; constance Espagnole ?</l>
-          </lg>
+            <l rend="i">Et liberté Françoise, &amp; constance Espagnole ?</l></lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

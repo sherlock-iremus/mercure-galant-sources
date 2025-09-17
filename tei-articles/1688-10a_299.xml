@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,18 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Récit de Basse</head>
-        <bibl><title>Mercure galant</title>, octobre 1688 (première partie) [tome 14], p. 299-300.</bibl>
-        <p>L'Air qui suit est du fameux M<hi rend="sup">r</hi> de Bacilly. Il en a mesme fait les paroles, ainsi que d'une infinité d'autres Recits de Basse, dont il est l'original &amp; l'Inventeur. Il y a quelques Vers irreguliers mais il les a fait exprés de cette mesure, parce qu'ils s'accommodent mieux au chant.</p>
+        <bibl><title>Mercure galant</title>, octobre 1688 (première partie) [tome 14],
+          p. 299-300.</bibl>
+        <p>L'Air qui suit est du fameux M<hi rend="sup">r</hi> de Bacilly. Il en a mesme fait les
+          paroles, ainsi que d'une infinité d'autres Recits de Basse, dont il est l'original &amp;
+          l'Inventeur. Il y a quelques Vers irreguliers mais il les a fait exprés de cette mesure,
+          parce qu'ils s'accommodent mieux au chant.</p>
         <quote>
-          <label>RECIT DE BASSE.</label>
-          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : la Chanson qui commence par, <hi rend="i">Celebrons le verre à la main</hi>, doit regarder la page 300.</note>
+          <label>RECIT DE BASSE.</label><note resp="author" place="margin"><hi rend="i">Avis pour
+              placer les Figures</hi> : la Chanson qui commence par, <hi rend="i">Celebrons le verre
+              à la main</hi>, doit regarder la page 300.</note>
           <lg>
             <l rend="i">Celebrons le verre à la main</l>
             <l rend="i">Ces Vandanges,</l>
@@ -37,6 +41,6 @@
           </figure>
         </ref>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

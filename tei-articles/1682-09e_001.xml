@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>De l’Origine de la Pourpre […]</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet <date>1682</date> (<biblScope unit="volume">[tome XIX]</biblScope>), <biblScope unit="page">p. 1-29</biblScope>.</bibl>
         <p/>
-        <p>
-          <hi rend="i">Quoy que vous ayez déja vû plusieurs Traitez sur l’Origine, &amp; l’usage de la Pourpre, je croy, Madame, que vous ne serez pas fâchée, que je vous fasse encor part de celuy que j’ay receu de M. la Selve, de Nismes. Il seroit injuste de le priver de la gloire qu’il doit esperer de son travail ; &amp; d’ailleurs, si divers Autheurs traitent la mesme matiere, c’est toûjours d’une maniere si diférente, qu’on pourroit dire que tous leurs Ouvrages ramassez n’en forment qu’un seul. L’un rapporte ce que l’autre a oublié, &amp; pour estre instruit à fond d’une chose, il faut lire tout ce qui en a esté écrit. Ceux qui veulent bien se donner la peine de travailler sur les Sujets proposez dans mes Lettres Extraordinaires, peuvent s’assurer que je tiendray ce que j’ay promis, lors que j’ay dit que chacun auroit son tour. Il y a déja plus de quatre mois que l’Ouvrage que vous allez voir m’a esté rendu. J’en avois d’autres qui m’ayant esté donnez auparavant, devoient passer les premiers, &amp; je rends aujourd’huy la mesme justice à celuy que je viens de vous nommer, en commençant ce dix-neufiéme Extraordinaire par le Traité que je réserve de luy depuis si longtemps.</hi>
-        </p>
+        <p><hi rend="i">Quoy que vous ayez déja vû plusieurs Traitez sur l’Origine, &amp; l’usage de la Pourpre, je croy, Madame, que vous ne serez pas fâchée, que je vous fasse encor part de celuy que j’ay receu de M. la Selve, de Nismes. Il seroit injuste de le priver de la gloire qu’il doit esperer de son travail ; &amp; d’ailleurs, si divers Autheurs traitent la mesme matiere, c’est toûjours d’une maniere si diférente, qu’on pourroit dire que tous leurs Ouvrages ramassez n’en forment qu’un seul. L’un rapporte ce que l’autre a oublié, &amp; pour estre instruit à fond d’une chose, il faut lire tout ce qui en a esté écrit. Ceux qui veulent bien se donner la peine de travailler sur les Sujets proposez dans mes Lettres Extraordinaires, peuvent s’assurer que je tiendray ce que j’ay promis, lors que j’ay dit que chacun auroit son tour. Il y a déja plus de quatre mois que l’Ouvrage que vous allez voir m’a esté rendu. J’en avois d’autres qui m’ayant esté donnez auparavant, devoient passer les premiers, &amp; je rends aujourd’huy la mesme justice à celuy que je viens de vous nommer, en commençant ce dix-neufiéme Extraordinaire par le Traité que je réserve de luy depuis si longtemps.</hi></p>
         <quote>
           <label><hi rend="i">DE L’ORIGINE DE LA</hi><lb/><hi rend="i">Pourpre, de l’usage qu’en ont fait les Anciens, &amp; de sa diférence avec l’Ecarlate</hi>.</label>
           <p/>
@@ -77,6 +74,6 @@
           <p>Pline l. 16. c. 8. dit qu’elle s’appelle aussi <hi rend="i">Cusculium</hi>, &amp; qu’elle vient au bout des queuës où se tiennent les feuïlles du Chesne vert. On l’apelle Vermillon en Languedoc. Il y en a mesme beaucoup dans plusieurs endroits de cette Province, où les pauvres Gens la cueïllent avec grand soin. Elle se dit en Arabe <hi rend="i">Kermes</hi>, d’où est venu le mot de Cramoisy. Elle naist en Galatie, en Afrique, en Pisidie, en Cilicie, &amp; sur tout en Espagne dans l’Estramadure aupres de Mérida-Celle qu’on trouve dans l’Isle de Sardaigne n’est pas fort estimée. Au reste on ne la doit cueïllir ny trop tost, ny trop tard ; car si elle n’est que d’une année, la couleur en est trop foible ; si elle a passé quatre ans, elle a perdu sa force &amp; sa vertu. Son écorce s’appelle proprement graine d’Ecarlate, &amp; sa moüelle est le fin Pastel d’Ecarlate. L’écorce fournit plus de teinture, mais la moüelle fait la véritable Ecarlate. Quand on veut se servir de cette graine, on lave premierement les Draps dans l’eau seûre faite d’eau de Riviere bien nette, d’Agaric &amp; de Son ; puis on y jette l’Arsenic avec l’Allun pour les dégraisser afin qu’ils boivent bien la Teinture qu’on leur donne apres cela avec le pur Pastel. On vuide ensuite la Chaudiere de cette premiere eau, &amp; on la remplit d’eau claire, y mettant du Pastel &amp; de l’Agaric. La Gomme d’Arabie la rend plus rouge. La Couperose &amp; le Bresil font un faux Cramoisy. Les Cramoisys rouges qu’on fait sur les Laines en y meslant de la Cochenille qui vient des Indes, se font à peu prés de la mesme façon. Au reste il est certain qu’il y a des Eaux les unes meilleures que les autres. Il y en a qui enyvrent tellement les Laines, qu’elles reçoivent fort bien les Teintures, &amp; les retiennent tres-longtemps-sans se décharger. Les autres dégraissent les Draps d’une maniere toute particuliere, &amp; d’ordinaire les Teintures sont estimées à proportion des Eaux qu’on employe à les faire. La Riviere des Gobelins, outre qu’elle donne la commodité de faire de grands Réservoirs &amp; les plus beaux Canaux du monde, remplis d’une eau vive &amp; tres-claire, a cette admirable vertu de teindre en Ecarlate, ce qui donne à la France dequoy dédommager toute la Terre de la perte qu’on a faite de l’invention de faire la Pourpre. Cette Riviere est au Fauxbourg de Paris aupres de Gentilly, où l’on tint autrefois un Concile sous le Regne de Pepin, avec le consentement du Pape Paul. I. pour y examiner le diférent qu’il y avoit alors entre les deux Eglises, sur le sujet des Images, &amp; de la Procession du Saint Esprit. Enfin il n’est pas fort difficile de voir la diférence qu’il y a entre la Pourpre &amp; l’Ecarlate, puis qu’on se servoit pour faire celle-là de Poissons qu’on ne trouve plus, &amp; qu’on employe pour celle-cy des Graines qu’on trouve dans plusieurs endroits du Monde ; mais voicy ce qui leur est commun. On se sert aujourd’huy de l’Ecarlate presque de la mesme maniere qu’on se servoit autrefois de la Pourpre ; car, comme le Grand Pontife, les Prestres, &amp; tous ceux qui sacrifioient aux faux Dieux, portoient des Robes de Pourpre, ainsi les Princes de l’Eglise &amp; les Chanoines de plusieurs Chapitres de France en portent d’Ecarlate, lors qu’ils servent à l’Autel du vray Dieu. Comme les Empereurs estoient autrefois vestus de Pourpre, de mesme aujourd’huy les Roys &amp; les Souverains ont des Habits de cette couleur, pour briller avec plus d’éclat aux yeux de leurs Sujets ; &amp; comme les Sénateurs portoient autrefois la Robe de Pourpre, tout de mesme à present les Présidens, &amp; les Conseillers des Cours Souveraines, portent une Robe d’Ecarlate qui les distingue des Officiers des Cours subalternes, jusques-là mesme que la Messe qui se dit la Feste de Saint Martin à l’ouverture du premier Parlement du Royaume, s’appelle la Messe rouge, parce que les principaux Membres de cet auguste Corps sont habillez de cette couleur ; &amp; cela est si honorable, que plusieurs Cours ne pouvant estre Souveraines, font tous leurs efforts pour avoir le Privilege de porter la Robe rouge, qui en est la marque, &amp; le caractere.</p>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

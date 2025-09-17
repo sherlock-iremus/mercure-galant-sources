@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Dialogue de Damon &amp; de Tircis à l’Honneur du Roy, par le mesme]</head>
         <bibl><title>Mercure galant</title>, février 1686 (deuxième partie) [tome 3], p. 6-13</bibl>
         <quote>
-          <label>
-            <hi rend="i">DIALOGUE</hi>
-            <lb/>
-            <hi rend="i">De Damon &amp; de Tircis, à l’honneur du Roy.</hi>
-          </label>
+          <label><hi rend="i">DIALOGUE</hi><lb/><hi rend="i">De Damon &amp; de Tircis, à l’honneur
+              du Roy.</hi></label>
           <lg>
             <label>TIRCIS.</label>
             <l>O vous, Princes, vous Rois, &amp; vous, Peuples divers</l>
@@ -164,6 +160,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

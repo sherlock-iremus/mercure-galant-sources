@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Madrigal à Monseigneur le Dauphin]</head>
         <bibl><title>Mercure galant</title>, avril 1683 [tome 4], p. 14-15</bibl>
-        <p>Il doit y avoir un Camp aupres de la Saône, &amp; ce Madrigal a esté fait sur le bruit qui court que Monseigneur le Dauphin le commandera. Il est de M<hi rend="sup">r</hi> de Pressac, d’Evreux.</p>
+        <p>Il doit y avoir un Camp aupres de la Saône, &amp; ce Madrigal a esté fait sur le bruit
+          qui court que Monseigneur le Dauphin le commandera. Il est de M<hi rend="sup">r</hi> de
+          Pressac, d’Evreux.</p>
         <quote>
           <label>MADRIGAL.</label>
           <lg>
@@ -33,6 +34,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

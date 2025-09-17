@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,20 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Lettre XXXII. À Madame de ***</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III], p. 373-377.</bibl>
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
+          p. 373-377.</bibl>
         <quote>
           <label rend="center">LETTRE XXXII. </label>
           <label rend="center">À Madame de ***</label>
           <p rend="i">À Riom en Auvergne. </p>
-          <p>JE devrois, dites-vous, à l’exemple de beaucoup d’autres, composer quelque Ouvrage à la gloire de <hi rend="sc">Loüis le Grand</hi>, ou de Monseigneur <hi rend="sc">Le Dauphin</hi>. Ah, Madame, ou vous prétendez me railler, ou connoissant comme vous faites &amp; cet invincible Monarque &amp; cet aimable Prince, je dois croire que vous ne me connoissez pas. Pour des desseins si beaux, si relevez, il faut des Hommes extraordinaires. Je doute mesme qu’ils pûssent s’en acquiter comme il faut.</p>
+          <p>JE devrois, dites-vous, à l’exemple de beaucoup d’autres, composer quelque Ouvrage à la
+            gloire de <hi rend="sc">Loüis le Grand</hi>, ou de Monseigneur <hi rend="sc">Le
+              Dauphin</hi>. Ah, Madame, ou vous prétendez me railler, ou connoissant comme vous
+            faites &amp; cet invincible Monarque &amp; cet aimable Prince, je dois croire que vous
+            ne me connoissez pas. Pour des desseins si beaux, si relevez, il faut des Hommes
+            extraordinaires. Je doute mesme qu’ils pûssent s’en acquiter comme il faut.</p>
           <lg>
             <l>Quelle voix assez éclatante</l>
             <l>Peux chanter dignement la valeur triomphante</l>
@@ -31,7 +36,8 @@
             <l>Pour moy je me contente</l>
             <l>De les admirer mille fois.</l>
           </lg>
-          <p>Ce n’est pas à vous dire le vray, Madame, que souvent je ne sois assez teméraire pour entreprendre de celebrer au moins quelques-unes de ses immorteles actions.</p>
+          <p>Ce n’est pas à vous dire le vray, Madame, que souvent je ne sois assez teméraire pour
+            entreprendre de celebrer au moins quelques-unes de ses immorteles actions.</p>
           <lg>
             <l>Cent fois dans l’excés de mon zele,</l>
             <l>L'esprit tout plein de ses hauts faits,</l>
@@ -42,7 +48,9 @@
             <l>Que toutes les fois que j’y pense,</l>
             <l>Le Pinceau me tombe des mains.</l>
           </lg>
-          <p>La mesme chose pouroit bien arriver à d’autres qu’à moy ; &amp; je puis dire, sans qu’on ait lieu de s’en offencer, que personne ne dira jamais rien que de foible &amp; que de fort au dessous des grandes, des surprenantes qualitez de ce Héros.</p>
+          <p>La mesme chose pouroit bien arriver à d’autres qu’à moy ; &amp; je puis dire, sans
+            qu’on ait lieu de s’en offencer, que personne ne dira jamais rien que de foible &amp;
+            que de fort au dessous des grandes, des surprenantes qualitez de ce Héros.</p>
           <lg>
             <l>En vain la plus noble éloquence</l>
             <l>Etale la magnificence</l>
@@ -53,7 +61,8 @@
             <l>Et l’on ne sçauroit bien dépeindre</l>
             <l>Ce qu’on ne sçauroit concevoir.</l>
           </lg>
-          <p>Quant à Monseigneur <hi rend="sc">le Dauphin</hi>, il s’éleve tellement chaque jour, que bientost il sera aussi élevé pour nous.</p>
+          <p>Quant à Monseigneur <hi rend="sc">le Dauphin</hi>, il s’éleve tellement chaque jour,
+            que bientost il sera aussi élevé pour nous.</p>
           <lg>
             <l>Hastez-vous donc, fameux Apelles,</l>
             <l>D'achever vos Portraits,</l>
@@ -64,10 +73,15 @@
             <l>Car bientost cette Aurore</l>
             <l>Se va changer en un Soleil.</l>
           </lg>
-          <p>Déja mesme il jette tant d’éclat, que dans le Mercure Galant (que vous lisez, dites-vous, avec un plaisir extréme, &amp; avec attachement qui me surprendroit) il y a de bons yeux qui ne sçauroient le regarder fixement. Ainsi on se contente de parler de son Fleurer &amp; de ses Chevaux. Une autre fois, Madame, quand vous voudrez estre obeïe, songez à me commander des choses possibles. Alors je quitteray tout pour vous faire connoistre combien je suis vostre, &amp;c.</p>
+          <p>Déja mesme il jette tant d’éclat, que dans le Mercure Galant (que vous lisez,
+            dites-vous, avec un plaisir extréme, &amp; avec attachement qui me surprendroit) il y a
+            de bons yeux qui ne sçauroient le regarder fixement. Ainsi on se contente de parler de
+            son Fleurer &amp; de ses Chevaux. Une autre fois, Madame, quand vous voudrez estre
+            obeïe, songez à me commander des choses possibles. Alors je quitteray tout pour vous
+            faire connoistre combien je suis vostre, &amp;c.</p>
           <p><hi rend="sc">Chabrol</hi>.</p>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

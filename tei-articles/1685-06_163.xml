@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>[Reception de M<hi rend="sup">r</hi> de Chasteaugontier à la charge de Président au Mortier, avec plusieurs Ouvrages sur ce sujet]</head>
+    <body><div>
+        <head>[Reception de M<hi rend="sup">r</hi> de Chasteaugontier à la charge de Président au
+          Mortier, avec plusieurs Ouvrages sur ce sujet]</head>
         <bibl><title>Mercure galant</title>, juin 1685 [tome 6], p. 163-168</bibl>
-        <p>Je vous parlay la derniere fois de la survivance à la Charge de President au Mortier que le Roy avoit accordée à M<hi rend="sup">r</hi> le President de Bailleul pour M<hi rend="sup">r</hi> de Chasteau-Gontier son Fils. Il a esté receu depuis peu au Parlement, &amp; cette reception a donné lieu à M<hi rend="sup">r</hi> Diereville de faire ces trois Madrigaux.</p>
+        <p>Je vous parlay la derniere fois de la survivance à la Charge de President au Mortier que
+          le Roy avoit accordée à M<hi rend="sup">r</hi> le President de Bailleul pour M<hi rend="sup">r</hi> de Chasteau-Gontier son Fils. Il a esté receu depuis peu au Parlement,
+          &amp; cette reception a donné lieu à M<hi rend="sup">r</hi> Diereville de faire ces trois
+          Madrigaux.</p>
         <quote>
           <label>A MONSIEUR<lb/>LE PRESIDENT DE BAILLEUL.</label>
           <lg>
@@ -93,6 +96,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

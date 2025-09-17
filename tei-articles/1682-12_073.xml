@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Epistre à Madame la Présidente de Pommereuil</head>
         <bibl><title>Mercure galant</title>, décembre 1682 [tome 14], p. 73-83.</bibl>
         <p/>
-        <p>Je vous envoye des Vers qui sont faits il y a plus de trente ans ; mais comme ils ont peu couru, &amp; qu’il est des Maistres du Mestier dont les Ouvrages sont bons en tout temps, je n’ay pas voulu vous priver du plaisir de voir cette spirituelle &amp; galante Epistre, quoy que faite pour une Personne morte il y a tant d’années.</p>
+        <p>Je vous envoye des Vers qui sont faits il y a plus de trente ans ; mais comme ils ont peu
+          couru, &amp; qu’il est des Maistres du Mestier dont les Ouvrages sont bons en tout temps,
+          je n’ay pas voulu vous priver du plaisir de voir cette spirituelle &amp; galante Epistre,
+          quoy que faite pour une Personne morte il y a tant d’années.</p>
         <quote>
           <label>EPISTRE<lb/>A MADAME<lb/>LA PRESIDENTE<lb/>DE POMMEREUIL.</label>
           <lg>
@@ -228,6 +230,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

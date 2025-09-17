@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,18 +14,22 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>A Madame la Marquise Danguitar. A S. Simon</head>
         <bibl><title>Mercure galant</title>, avril 1686 [tome 5], p. 127-136</bibl>
         <p/>
-        <p>On a fort parle icy d’une Avanture, qui n’a pû se terminer que par un Arrest du Parlement. Je me préparois à vous la conter dans mon stile simple, quand il m’est tombé entre les mains une Lettre de M<hi rend="sup">r</hi> Vignier, où je l’ay trouvée écrite en Vers avec beaucoup d’agrément. Je vous l’envoye, estant asseuré que vous la lirez avec plaisir.</p>
+        <p>On a fort parle icy d’une Avanture, qui n’a pû se terminer que par un Arrest du
+          Parlement. Je me préparois à vous la conter dans mon stile simple, quand il m’est tombé
+          entre les mains une Lettre de M<hi rend="sup">r</hi> Vignier, où je l’ay trouvée écrite en
+          Vers avec beaucoup d’agrément. Je vous l’envoye, estant asseuré que vous la lirez avec
+          plaisir.</p>
         <quote>
           <label>A MADAME LA MARQUISE<lb/>DANGUITAR.<lb/><hi rend="i">A S. SIMON.</hi></label>
           <p>A Paris, ce 28. Mars 1686.</p>
-          <p>
-            <hi rend="i">Je connois, Madame, qu’une faute en fait commettre cent, &amp; qu’aprés avoir manqué plusieurs fois à son devoir, on ne sçait plus comment y rentrer. Il me falloit pour cela un Arrest de la Cour aussi agreable que celuy qui a esté rendu à la grande Tournelle Samedy dernier 23. Mars.</hi>
-          </p>
+          <p><hi rend="i">Je connois, Madame, qu’une faute en fait commettre cent, &amp; qu’aprés
+              avoir manqué plusieurs fois à son devoir, on ne sçait plus comment y rentrer. Il me
+              falloit pour cela un Arrest de la Cour aussi agreable que celuy qui a esté rendu à la
+              grande Tournelle Samedy dernier 23. Mars.</hi></p>
           <quote>
             <lg>
               <l> Un Galant à bonne Fortune,</l>
@@ -114,11 +118,13 @@
             </lg>
           </quote>
           <p/>
-          <p>
-            <hi rend="i">Avoüez, Madame, que vous me quitteriez tous les Mois pour une pareille Lettre. Encore qu’elle ne sois pas trop du temps où nous sommes, je n’ay pû m’empescher de vous faire part de cette Historiette. C’est assez qu’elle aille vers vous pour ne pas manquer de Commentaires &amp; de reflexions. Je suis avec beaucoup de respect, Vostre, &amp;c.</hi>
-          </p>
+          <p><hi rend="i">Avoüez, Madame, que vous me quitteriez tous les Mois pour une pareille
+              Lettre. Encore qu’elle ne sois pas trop du temps où nous sommes, je n’ay pû
+              m’empescher de vous faire part de cette Historiette. C’est assez qu’elle aille vers
+              vous pour ne pas manquer de Commentaires &amp; de reflexions. Je suis avec beaucoup de
+              respect, Vostre, &amp;c.</hi></p>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

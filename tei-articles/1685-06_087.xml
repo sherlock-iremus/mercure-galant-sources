@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Bouts-Rimez</head>
         <bibl><title>Mercure galant</title>, juin 1685 [tome 6], p. 87-89</bibl>
-        <p>J’ajoûte un Sonnet sur cette mesme matiere. Il est est de M<hi rend="sup">r</hi> Baraton, qui en 1682. remporta le prix donné par M<hi rend="sup">r</hi> le Duc de Saint Aignan, sur les Bouts-rimez de Jupiter &amp; Pharmacopole.</p>
+        <p>J’ajoûte un Sonnet sur cette mesme matiere. Il est est de M<hi rend="sup">r</hi> Baraton,
+          qui en 1682. remporta le prix donné par M<hi rend="sup">r</hi> le Duc de Saint Aignan, sur
+          les Bouts-rimez de Jupiter &amp; Pharmacopole.</p>
         <quote>
           <label>BOUTS-RIMEZ.</label>
           <lg>
@@ -48,6 +49,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

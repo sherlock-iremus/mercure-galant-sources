@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>De l'origine de l'harmonie</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier d’octobre 1680 [tome XII], p. 56-81.</bibl>
         <label>De l’origine de l’harmonie,</label>
@@ -156,16 +155,10 @@
         <p><hi rend="i">Et pour en écarter les maux</hi>, </p>
         <p rend="i">Attirez l’heureuse influence </p>
         <p rend="i">Qui peut couler sur nous par ses riches canaux. </p>
-        <p rend="i">
-          <space rend="tab"> </space>
-          <space rend="tab"> </space>
-          <space rend="tab"> </space>
-          <space rend="tab"> </space>
-          <space rend="tab"> </space>
-        </p>
-        <p><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"> </space>RAULT, de Roüen.</p>
-        <p rend="b"><space rend="tab"> </space>(16801502) De l’Harmonie </p>
+        <p rend="i"><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space> </p>
+        <p><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>RAULT, de Roüen.</p>
+        <p rend="b"><space rend="tab">    </space>(16801502) De l’Harmonie </p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

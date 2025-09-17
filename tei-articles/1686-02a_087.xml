@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Sur le Mariage</head>
-        <bibl><title>Mercure galant</title>, février 1686 (première partie) [tome 2], p. 87-98</bibl>
+        <bibl><title>Mercure galant</title>, février 1686 (première partie) [tome 2],
+          p. 87-98</bibl>
         <p/>
-        <p>Tant de Gens se plaignent du Mariage, que les Vers que vous allez lire, doivent estre d’un goust general. Je n’en connois point l’Autheur. Je sçay seulement qu’on les a fort estimez icy, &amp; que plusieurs Connoisseurs se sont empressez pour en avoir des Copies.</p>
+        <p>Tant de Gens se plaignent du Mariage, que les Vers que vous allez lire, doivent estre
+          d’un goust general. Je n’en connois point l’Autheur. Je sçay seulement qu’on les a fort
+          estimez icy, &amp; que plusieurs Connoisseurs se sont empressez pour en avoir des
+          Copies.</p>
         <quote>
           <label>SUR LE MARIAGE.</label>
           <lg>
@@ -142,6 +145,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

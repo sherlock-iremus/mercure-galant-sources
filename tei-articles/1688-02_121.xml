@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,16 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Le Quinquina d’Amour</head>
         <bibl><title>Mercure galant</title>, février 1688 [tome 2], p. 121-126</bibl>
         <p/>
-        <p>Voicy de fort jolis Vers sur une maladie dont on meurt tres-rarement, &amp; dont on dit toûjours que l’on est prest d’expirer, quoy qu’on n’en croye rien, Il y a aparence que lors qu’ils ont esté faits, le Medecin Anglois vivoit encore ; ou que s’agissant de Quinquina, on s’en servy de son nom pour rendre la galanterie plus agreable. Ces Vers sont fort estimez, &amp; comme je croy qu’ils seront nouveaux pour vous, je ne veux pas vous priver du plaisir que vous recevrez en les lisant.</p>
+        <p>Voicy de fort jolis Vers sur une maladie dont on meurt tres-rarement, &amp; dont on dit
+          toûjours que l’on est prest d’expirer, quoy qu’on n’en croye rien, Il y a aparence que
+          lors qu’ils ont esté faits, le Medecin Anglois vivoit encore ; ou que s’agissant de
+          Quinquina, on s’en servy de son nom pour rendre la galanterie plus agreable. Ces Vers sont
+          fort estimez, &amp; comme je croy qu’ils seront nouveaux pour vous, je ne veux pas vous
+          priver du plaisir que vous recevrez en les lisant.</p>
         <quote>
           <label>LE QUINQUINA<lb/>D’AMOUR.</label>
           <lg>
@@ -91,6 +95,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

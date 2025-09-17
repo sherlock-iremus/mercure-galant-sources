@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,20 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Réponse à cette Lettre]</head>
         <bibl><title>Mercure galant</title>, mai 1687 [tome 7], p. 112-122</bibl>
-        <p>M. Petit, Autheur des Dialogues Moraux, a fait cette réponse à M. le Duc de S. Aignan.</p>
+        <p>M. Petit, Autheur des Dialogues Moraux, a fait cette réponse à M. le Duc de S.
+          Aignan.</p>
         <quote>
           <p>A Roüen ce 21. Mars 1687.</p>
-          <p>
-            <hi rend="i">L’approbation, Monseigneur, dont vous honorez mes Dialogues, leur en vaut mille, elle seule, &amp; me vange hautement du mal qu’en ont dit quelques Critiques. Je les accuserois volontiers de méchant goust, puis que le leur ne se rencontre pas avec le vôtre, ny avec celuy de M<hi rend="sup">r</hi> le Duc de Montausier, qui m’a fait l’honneur de m’assurer qu’il estoit content de ce petit Ouvrage, m’exhortant comme vous faites, Monseigneur, à en donner une seconde partie au public. Vous sçavez que sa sincerité n’eut jamais rien de suspect.</hi>
-          </p>
+          <p><hi rend="i">L’approbation, Monseigneur, dont vous honorez mes Dialogues, leur en vaut
+              mille, elle seule, &amp; me vange hautement du mal qu’en ont dit quelques Critiques.
+              Je les accuserois volontiers de méchant goust, puis que le leur ne se rencontre pas
+              avec le vôtre, ny avec celuy de M<hi rend="sup">r</hi> le Duc de Montausier, qui m’a
+              fait l’honneur de m’assurer qu’il estoit content de ce petit Ouvrage, m’exhortant
+              comme vous faites, Monseigneur, à en donner une seconde partie au public. Vous sçavez
+              que sa sincerité n’eut jamais rien de suspect.</hi></p>
           <quote>
             <lg>
               <l>Mais, Duc, quel mal ces Dialogues</l>
@@ -34,9 +38,11 @@
               <l> A des gens qui valent mieux qu’eux.</l>
             </lg>
           </quote>
-          <p>
-            <hi rend="i">Pour preuve dequoy, l’on m’assure que M<hi rend="sup">r</hi> Miton, de qui je n’ay point l’avantage d’estre connu, en a dit beaucoup de bien. Les Ouvrages qu’il approuve peuvent paroistre au jour en toute assurance, car personne n’ignore de quel poids est son jugement, combien sa Critique est sage, &amp; quelle est la délicatesse de son esprit.</hi>
-          </p>
+          <p><hi rend="i">Pour preuve dequoy, l’on m’assure que M<hi rend="sup">r</hi> Miton, de qui
+              je n’ay point l’avantage d’estre connu, en a dit beaucoup de bien. Les Ouvrages qu’il
+              approuve peuvent paroistre au jour en toute assurance, car personne n’ignore de quel
+              poids est son jugement, combien sa Critique est sage, &amp; quelle est la délicatesse
+              de son esprit.</hi></p>
           <quote>
             <lg>
               <l>Aprés cela, Seigneur, dois je craindre les dents</l>
@@ -48,7 +54,14 @@
               <l> Que l’Esprit malin vous emporte !</l>
             </lg>
           </quote>
-          <p><hi rend="i">Ce seroit leur faire trop d’honneur que d’en parler d’avantage. J’aime mieux, Monseigneur, en répondant à vôtre Lettre aussi pleine d’esprit que d’honnesteté, vous dire, que</hi> Raffinage, Vieillard, <hi rend="i">&amp;</hi> Moult <hi rend="i">se trouvent tout glorieux de ce que vous voulez bien prendre leur party. Ils me chargent de vous en marquer leur reconnoissance, de vous en faire leurs tres-humbles remercimens, &amp; de vous assurer qu’ils se trouvent infiniment plus forts de vôtre protection, que de tout ce que j’ay pu dire en leur faveur dans mes Dialogues.</hi></p>
+          <p><hi rend="i">Ce seroit leur faire trop d’honneur que d’en parler d’avantage. J’aime
+              mieux, Monseigneur, en répondant à vôtre Lettre aussi pleine d’esprit que
+              d’honnesteté, vous dire, que</hi> Raffinage, Vieillard, <hi rend="i">&amp;</hi> Moult
+              <hi rend="i">se trouvent tout glorieux de ce que vous voulez bien prendre leur party.
+              Ils me chargent de vous en marquer leur reconnoissance, de vous en faire leurs
+              tres-humbles remercimens, &amp; de vous assurer qu’ils se trouvent infiniment plus
+              forts de vôtre protection, que de tout ce que j’ay pu dire en leur faveur dans mes
+              Dialogues.</hi></p>
           <quote>
             <lg>
               <l>Quand chacun d’eux s’expliquoit,</l>
@@ -83,7 +96,10 @@
               <l>En qui tout bonheur abonde.</l>
             </lg>
           </quote>
-          <p><hi rend="i">Je vous assure, Monseigneur, que</hi> Vieillarde <hi rend="i">ne put moderer sa joye de retrouver son Vieillard. Elle alla l’accoster avec empressement, &amp; sa tendresse se réveilla si bien que la journée ne se passa point qu’ils n’eussent renouvellé leur mariage.</hi></p>
+          <p><hi rend="i">Je vous assure, Monseigneur, que</hi> Vieillarde <hi rend="i">ne put
+              moderer sa joye de retrouver son Vieillard. Elle alla l’accoster avec empressement,
+              &amp; sa tendresse se réveilla si bien que la journée ne se passa point qu’ils
+              n’eussent renouvellé leur mariage.</hi></p>
           <quote>
             <lg>
               <l>Mais le Vieillard</l>
@@ -95,7 +111,8 @@
               <l>Et s’arma comme un Jaquemar.</l>
             </lg>
           </quote>
-          <p><hi rend="i">Je ne pus m’empescher de rire de le voir ainsi sous les armes ; &amp; je luy dis</hi>. Vieux, Patron, pourquoy vous armez vous de la sorte ?</p>
+          <p><hi rend="i">Je ne pus m’empescher de rire de le voir ainsi sous les armes ; &amp; je
+              luy dis</hi>. Vieux, Patron, pourquoy vous armez vous de la sorte ?</p>
           <quote>
             <lg>
               <l>Pour percer, <hi rend="i">me dit-il</hi>, par le ventre tout droit,</l>
@@ -106,7 +123,12 @@
               <l>Descende promptement aux manoirs les plus bas.</l>
             </lg>
           </quote>
-          <p>Soûtenu que je suis de Monseigneur vôtre frére en Apollon, <hi rend="i">â jouta-t’il</hi>, qu’ay-je à craindre ? Moult <hi rend="i">de son costé ne fait pas moins le résolu, &amp; depuis que vous l’avez vangé de la maniere que Voiture vangea</hi> car, <hi rend="i">que quelques impertinens vouloient proscrire, il est fier en Ostrogot, &amp; vous ne sçauriez croire à quel point il fait l’Olibrius.</hi></p>
+          <p>Soûtenu que je suis de Monseigneur vôtre frére en Apollon, <hi rend="i">â
+              jouta-t’il</hi>, qu’ay-je à craindre ? Moult <hi rend="i">de son costé ne fait pas
+              moins le résolu, &amp; depuis que vous l’avez vangé de la maniere que Voiture
+              vangea</hi> car, <hi rend="i">que quelques impertinens vouloient proscrire, il est
+              fier en Ostrogot, &amp; vous ne sçauriez croire à quel point il fait
+            l’Olibrius.</hi></p>
           <quote>
             <lg>
               <l> Il n’est plus vieux, il n’est plus triste,</l>
@@ -118,16 +140,25 @@
               <l>Dont il pretend leur couper le sifflet.</l>
             </lg>
           </quote>
-          <p><hi rend="i">Ainsi</hi> beaucoup <hi rend="i">qui l’a supplanté n’a qu’à se bien tenir, il se flatte de le supplanter à son tour, &amp; de rentrer dans ses droits. Enfin,</hi></p>
+          <p><hi rend="i">Ainsi</hi> beaucoup <hi rend="i">qui l’a supplanté n’a qu’à se bien tenir,
+              il se flatte de le supplanter à son tour, &amp; de rentrer dans ses droits.
+              Enfin,</hi></p>
           <quote>
             <lg>
               <l>Sa main croiroit faire un beau coup</l>
               <l>S’il pouvoit occire <hi rend="i">beaucoup.</hi></l>
             </lg>
           </quote>
-          <p><hi rend="i">Pour moy, Monseigneur, je voudrois qu’il s’en fust défait ; car</hi> Moult <hi rend="i">est infiniment plus joly, &amp; sort de la bouche bien plus agréablement. Que je sçay bon gré à cét Adverbe de faire voir qu’il a du cœur ! En verité, il m’anime par son exemple, &amp; je suis d’avis de dire hardiment à mes Critiques, que l’Auteur des Dialogues Satyriques &amp; Moraux s’épouvante peu de leur censure, puis qu’un Seigneur de vôtre importance veut bien luy faire l’honneur de le proteger, &amp; de luy accorder toûjours la qualité de son cher Frere en Apollon. C’est, Monseigneur, Vostre tres-humble, tres-obeïssant, &amp; tres-obligé serviteur.</hi></p>
+          <p><hi rend="i">Pour moy, Monseigneur, je voudrois qu’il s’en fust défait ; car</hi> Moult
+              <hi rend="i">est infiniment plus joly, &amp; sort de la bouche bien plus agréablement.
+              Que je sçay bon gré à cét Adverbe de faire voir qu’il a du cœur ! En verité, il
+              m’anime par son exemple, &amp; je suis d’avis de dire hardiment à mes Critiques, que
+              l’Auteur des Dialogues Satyriques &amp; Moraux s’épouvante peu de leur censure, puis
+              qu’un Seigneur de vôtre importance veut bien luy faire l’honneur de le proteger, &amp;
+              de luy accorder toûjours la qualité de son cher Frere en Apollon. C’est, Monseigneur,
+              Vostre tres-humble, tres-obeïssant, &amp; tres-obligé serviteur.</hi></p>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

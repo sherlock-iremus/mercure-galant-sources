@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head resp="editor">Air nouveau</head>
         <bibl><title>Mercure galant</title>, juillet 1698 [tome 7], air gravé est inséré entre les pages 268 et 269.</bibl>
         <quote>
-          <label>[AIR NOUVEAU.]</label>
-          <note resp="author" place="margin">L’Air doit regarder la page [2]69.</note>
+          <label>[AIR NOUVEAU.]</label><note resp="author" place="margin">L’Air doit regarder la page [2]69.</note>
           <lg>
             <l rend="i">[Quand l'amour veut toucher notre ame</l>
             <l rend="i">Il faut s'abandonner à toutes ses langueurs</l>
@@ -29,6 +27,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,16 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Idylle de Messieurs de l’Académie de Soissons]</head>
         <bibl><title>Mercure galant</title>, octobre 1678 [tome 10], p. 20-31.</bibl>
-        <p>Il y a déja longtemps que l’espérance de cette Paix a fait parler les sçavantes Muses de Soissons. Vous sçavez que l’Illustre Académie de la Ville que je viens de vous nommer, a esté reçeuë dans l’Alliance de celle que le Roy ne dédaigne pas de loger dans son Louvre, &amp; dont il a bien voulu se faire le Protecteur. Elle luy envoye tous les ans quelque Ouvrage en reconnoissance de cette association ; &amp; l’Idylle que vous allez voir, est celuy dont elle luy a fait présent cette année. Messieurs de l’Académie Françoise l’ont fort estimé, &amp; je ne doute pas que leur approbation ne soit suivie de la vostre.</p>
+        <p>Il y a déja longtemps que l’espérance de cette Paix a fait parler les sçavantes Muses de
+          Soissons. Vous sçavez que l’Illustre Académie de la Ville que je viens de vous nommer, a
+          esté reçeuë dans l’Alliance de celle que le Roy ne dédaigne pas de loger dans son Louvre,
+          &amp; dont il a bien voulu se faire le Protecteur. Elle luy envoye tous les ans quelque
+          Ouvrage en reconnoissance de cette association ; &amp; l’Idylle que vous allez voir, est
+          celuy dont elle luy a fait présent cette année. Messieurs de l’Académie Françoise l’ont
+          fort estimé, &amp; je ne doute pas que leur approbation ne soit suivie de la vostre.</p>
         <quote>
           <label rend="center">Idylle.</label>
           <l>Le riche émail des Fleurs orne bien nos Prairies,</l>
@@ -152,6 +157,6 @@
           <l>Avant que vous cessiez de chanter ce Héros.</l>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

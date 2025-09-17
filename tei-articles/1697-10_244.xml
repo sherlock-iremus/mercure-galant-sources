@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, octobre 1697 [tome 10], p. 244-245.</bibl>
         <p>Les Vers qui fuivent ont esté mis en Air par un fort habile Musicien.</p>
         <quote>
-          <label>AIR NOUVEAU.</label>
-          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air doit regarder la page 244.</note>
+          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour
+              placer les Figures</hi> : l’Air doit regarder la page 244.</note>
           <lg>
             <l rend="i">Non, rien ne peut ègaler mon ennuy,</l>
             <l rend="i">J'aime depuis longtemps un Berger que j'adore,</l>
@@ -37,6 +36,6 @@
           </figure>
         </ref>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

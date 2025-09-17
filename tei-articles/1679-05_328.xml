@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,16 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Ambassade du Printemps. Fleurs à Sylvie</head>
         <bibl><title>Mercure galant</title>, mai 1679 [tome 5], p. 328-331.</bibl>
-        <p>Comme la diversité plaist, &amp; que toutes les Harangues qui ont esté faites au Roy, ne l’ont pas esté en mesme jour, vous trouverez bon que je ne vous parle des autres que dans ma Lettre du premier Mois. Si vostre curiosité en murmure, je vay reparer ce retardement en vous faisant part d’une fort agreable Ambassade. Elle a esté faite au nom du Printemps, qui a député des Fleurs vers une Belle. Vous voyez bien, Madame, que cela sent un Bouquet. Il fut envoyé par M<hi rend="sup">r</hi> M. à Mademoiselle Fumée le jour de sa Feste. C'est une Personne, belle, spirituelle, &amp; de qualité.</p>
+        <p>Comme la diversité plaist, &amp; que toutes les Harangues qui ont esté faites au Roy, ne
+          l’ont pas esté en mesme jour, vous trouverez bon que je ne vous parle des autres que dans
+          ma Lettre du premier Mois. Si vostre curiosité en murmure, je vay reparer ce retardement
+          en vous faisant part d’une fort agreable Ambassade. Elle a esté faite au nom du Printemps,
+          qui a député des Fleurs vers une Belle. Vous voyez bien, Madame, que cela sent un Bouquet.
+          Il fut envoyé par M<hi rend="sup">r</hi> M. à Mademoiselle Fumée le jour de sa Feste.
+          C'est une Personne, belle, spirituelle, &amp; de qualité.</p>
         <quote>
           <label type="head">Ambassade<lb/>du Printemps.</label>
           <label type="head">Fleurs à Sylvie.</label>
@@ -32,14 +37,18 @@
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Pour confesser la verité,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Entre les Beautez naturelles,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Je vous le dis sans vanité,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Nous pensions estre les plus belles ;</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Nous pensions estre les plus
+            belles ;</l>
           <l><seg type="tab">    </seg>Mais à l’aspect de vos divins apas</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Il nous faut mettre bas les armes,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Il nous faut mettre bas les
+            armes,</l>
           <l><seg type="tab">    </seg>Et demeurer d’accord que vous avez des charmes,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Dont les nostres n’approchent pas.</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Dont les nostres n’approchent
+            pas.</l>
           <l/>
           <ab type="ornament">***</ab>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Les unes devant vous blanchissent,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Les unes devant vous
+            blanchissent,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Les autres de honte rougissent,</l>
           <l>Et les autres, malgré leur teint si frais, si doux,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Ont la jaunisse aupres de vous.</l>
@@ -51,15 +60,17 @@
           <l>Où jamais les Hyvers n’étendent leur empire.</l>
           <l/>
           <ab type="ornament">***</ab>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Mais comme un de vos Serviteurs,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Mais comme un de vos
+            Serviteurs,</l>
           <l>Il ajoûte à ces mots un avis salutaire ;</l>
           <l>C'est qu’on dit que vos yeux empoisonnent les cœurs,</l>
           <l>Et si vous ne prenez bien garde à cette affaire,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>On vous va voir au premier jour</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Entre les mains d’un Commissaire,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Entre les mains d’un
+            Commissaire,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Dans la Bastille de l’Amour.</l>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

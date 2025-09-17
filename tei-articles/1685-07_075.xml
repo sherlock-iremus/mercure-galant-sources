@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head resp="editor">Divers Airs et Sonnets</head>
         <bibl><title>Mercure galant</title>, juillet 1685 [tome 7], p. 75-81.</bibl>
-        <p>Voicy quatre Vers qui furent envoyez dans le mesme temps par Mademoiselle Dorville. L’Illustre M. de Bacilly en a fait un Air que vous trouverez icy noté.</p>
-        <quote>
-          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par <hi rend="i">Puis que vous ressemblez à qui vous donna l’estre</hi>, doit regarder la page 75.</note>
+        <p>Voicy quatre Vers qui furent envoyez dans le mesme temps par Mademoiselle Dorville.
+          L’Illustre M. de Bacilly en a fait un Air que vous trouverez icy noté.</p>
+        <quote><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> :
+            l’Air qui commence par <hi rend="i">Puis que vous ressemblez à qui vous donna
+              l’estre</hi>, doit regarder la page 75.</note>
           <lg>
             <l rend="i">Puis que vous ressemblez à qui vous donna l’estre,</l>
             <l rend="i"> Vous serez de nos jours</l>
@@ -28,7 +29,10 @@
             <l rend="i">Vous commencez déja ne faisant que de naistre.</l>
           </lg>
         </quote>
-        <p>M. de la Russaliere fit voir en cette rencontre, que les plus serieuses occupations, ne sont pas toûjours ennemies d’une Muse enjoüée. Il fit dire à cette aimable Enfant les Vers que vous allez lire, &amp; on les attacha à ses Bandelettes la premiere fois qu’on la porta à Madame la Duchesse sa Mere.</p>
+        <p>M. de la Russaliere fit voir en cette rencontre, que les plus serieuses occupations, ne
+          sont pas toûjours ennemies d’une Muse enjoüée. Il fit dire à cette aimable Enfant les Vers
+          que vous allez lire, &amp; on les attacha à ses Bandelettes la premiere fois qu’on la
+          porta à Madame la Duchesse sa Mere.</p>
         <quote>
           <lg>
             <l rend="i"> Pardon, Maman, pardon,</l>
@@ -60,7 +64,8 @@
             <l rend="i"> Et pour la Fille, &amp; pour la Mere.</l>
           </lg>
         </quote>
-        <p>M. le Clerc de l’Academie Françoise, qui a un zele tres particulier pour M. le Duc de Richelieu, a fait le Sonnet qui suit, sur cette Naissance.</p>
+        <p>M. le Clerc de l’Academie Françoise, qui a un zele tres particulier pour M. le Duc de
+          Richelieu, a fait le Sonnet qui suit, sur cette Naissance.</p>
         <quote>
           <lg>
             <l rend="i">Il vient de vous naistre une Fille,</l>
@@ -88,7 +93,8 @@
             <l rend="i">Annonçast ce jeune Soleil.</l>
           </lg>
         </quote>
-        <p>Cét autre Sonnet fut presenté de la part des Muses de Richelieu. M. de Grammont en est l’Autheur.</p>
+        <p>Cét autre Sonnet fut presenté de la part des Muses de Richelieu. M. de Grammont en est
+          l’Autheur.</p>
         <quote>
           <lg>
             <l rend="i">Aprés que sur nous la tristesse</l>
@@ -122,6 +128,6 @@
           </figure>
         </ref>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

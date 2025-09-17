@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Traité du Secret</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier d’octobre 1682 [tome XX], p. 40-65.</bibl>
         <quote>
@@ -45,6 +44,6 @@
           <p>Tout le monde n’est pas de l’humeur du Prince des Stoïciens, qui estant invité dans le Festin qu’un Citoyen d’Athenes avoit fait dresser pour régaler les Ambassadeurs du Roy de Perse, considéroit toutes choses sans dire mot, pendant qu’ils luy demanderent ce qu’il vouloit envoyer au Roy leur Maistre. <hi rend="i">Vous luy direz</hi>, leur répondit-il, <hi rend="i">que vous avez veu un Vieillard à Athenes, qui sçavoit se taire entre les Verres &amp; les Pots.</hi></p>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

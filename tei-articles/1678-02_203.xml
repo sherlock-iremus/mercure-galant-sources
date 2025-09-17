@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Réponse à l’Indiference]</head>
         <bibl><title>Mercure galant</title>, février 1678 [tome 2], p. 203-207.</bibl>
-        <p>Je vous envoyay la derniere fois l’Adieu qu’elle a fait à une tres-aimable Personne dont elle ne pouvoit plus défendre le cœur. Lisez, je vous prie, la Réponse que cette Belle luy fait.</p>
+        <p>Je vous envoyay la derniere fois l’Adieu qu’elle a fait à une tres-aimable Personne dont
+          elle ne pouvoit plus défendre le cœur. Lisez, je vous prie, la Réponse que cette Belle luy
+          fait.</p>
         <quote rend="border">
           <label rend="center">Réponse</label>
           <label rend="center">À l’Indiférence.</label>
@@ -83,6 +84,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,29 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[L'Amateur de l'antiquité] Rondeau en vieux Langage</head>
         <bibl><title>Mercure galant</title>, novembre 1682 [tome 13], p. 76-80.</bibl>
         <p/>
-        <p>On vient de me donner un Rondeau, dont je vous fais part dans le mesme instant. Il est d’un Autheur qui a eu raison de le faire en vieux langage, par complaisance pour un vieux Parent. Ce Parent estoit un Homme d’un caractere aussi extraordinaire qu’on en puisse voir. L’antiquité luy plaisoit en toutes choses, jusques là qu’il ne s’aima jamais tant que lors qu’il se vit la barbe grise. Ses Habits, ses Meubles, tout sentoit le temps de François I. Il se mesloit de rimer, &amp; les Poësies de Baïf estoient son modele. Sa Bibliotheque aussi singuliere que son esprit, estoit composée de tout ce qu’il avoit pû trouver de vieux Romanciers. Il avoit Marot &amp; du Bartas, quoy qu’il les trouvast un peu modernes, sans oublier Ronsard, qu’il réveroit particulierement comme le Prince des Poetes François. Il avoit aussi les Oeuvres de Sarazin &amp; de Voiture ; mais il ne les estimoit qu’à cause des Rondeaux &amp; des Ballades qu’ils avoient meslez parmy leurs Ouvrages. Il traitoit les belles Lettres du dernier de bagatelles, propres seulement pour amuser les jeunes Esprits ; mais il admiroit les Lettres Gauloises que le mesme Autheur a écrites au Comte Guicheüs, au Chevalier de l’Isle invisible. Le bon Homme qui n’a point démenty cette belle inclination tant qu’il a vécu, l’a conservée encor en mourant, puis qu’il a legué par son Testament une somme considérable à l’Autheur du Rondeau que je vous envoye, à la charge qu’il en feroit un certain nombre en stile Gaulois, ou de Ballades. Si les Ballades estoient de son goust, il seroit blâmable, si estant son Légataire, il négligeoit d’accomplir ses dernieres volontez.</p>
+        <p>On vient de me donner un Rondeau, dont je vous fais part dans le mesme instant. Il est
+          d’un Autheur qui a eu raison de le faire en vieux langage, par complaisance pour un vieux
+          Parent. Ce Parent estoit un Homme d’un caractere aussi extraordinaire qu’on en puisse
+          voir. L’antiquité luy plaisoit en toutes choses, jusques là qu’il ne s’aima jamais tant
+          que lors qu’il se vit la barbe grise. Ses Habits, ses Meubles, tout sentoit le temps de
+          François I. Il se mesloit de rimer, &amp; les Poësies de Baïf estoient son modele. Sa
+          Bibliotheque aussi singuliere que son esprit, estoit composée de tout ce qu’il avoit pû
+          trouver de vieux Romanciers. Il avoit Marot &amp; du Bartas, quoy qu’il les trouvast un
+          peu modernes, sans oublier Ronsard, qu’il réveroit particulierement comme le Prince des
+          Poetes François. Il avoit aussi les Oeuvres de Sarazin &amp; de Voiture ; mais il ne les
+          estimoit qu’à cause des Rondeaux &amp; des Ballades qu’ils avoient meslez parmy leurs
+          Ouvrages. Il traitoit les belles Lettres du dernier de bagatelles, propres seulement pour
+          amuser les jeunes Esprits ; mais il admiroit les Lettres Gauloises que le mesme Autheur a
+          écrites au Comte Guicheüs, au Chevalier de l’Isle invisible. Le bon Homme qui n’a point
+          démenty cette belle inclination tant qu’il a vécu, l’a conservée encor en mourant, puis
+          qu’il a legué par son Testament une somme considérable à l’Autheur du Rondeau que je vous
+          envoye, à la charge qu’il en feroit un certain nombre en stile Gaulois, ou de Ballades. Si
+          les Ballades estoient de son goust, il seroit blâmable, si estant son Légataire, il
+          négligeoit d’accomplir ses dernieres volontez.</p>
         <quote>
           <label>RONDEAU<lb/>en vieux Langage.</label>
           <lg>
@@ -47,6 +64,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

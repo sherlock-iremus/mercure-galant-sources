@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Idille de Madame des Houlieres sur la mort de ce Duc]</head>
         <bibl><title>Mercure galant</title>, septembre 1690 [tome 10], p. 101-108.</bibl>
-        <p>Cependant pour ne vous pas priver du plaisir de voir ce qui s’est fait à la gloire de ce Duc, dont les grandes qualitez ont fait tant de bruit dans tout le Royaume, je vous envoye un Ouvrage de Madame des Houlieres, sur le malheur arrivé aux Muses, qui en le perdant, ont perdu leur Protecteur.</p>
+        <p>Cependant pour ne vous pas priver du plaisir de voir ce qui s’est fait à la gloire de ce
+          Duc, dont les grandes qualitez ont fait tant de bruit dans tout le Royaume, je vous envoye
+          un Ouvrage de Madame des Houlieres, sur le malheur arrivé aux Muses, qui en le perdant,
+          ont perdu leur Protecteur.</p>
         <quote>
           <label>SUR LA MORT<lb/>De M<hi rend="sup">r</hi> le Duc de Montausier.<lb/>IDILLE</label>
           <lg>
@@ -50,9 +52,7 @@
             <l rend="i">Ah, qu’une telle perte ouvre de precipices !</l>
             <l rend="i">Qu’elle va vous livrer à d’injustes caprices !</l>
             <l rend="i"> Que de dédains, que de dégousts ?</l>
-            <l>
-              <hi rend="i">Muses, Vertus, helas ! l’Ignorance &amp; les Vices</hi>
-            </l>
+            <l><hi rend="i">Muses, Vertus, helas ! l’Ignorance &amp; les Vices</hi></l>
             <l rend="i">Peut-estre par sa mort triompheront de vous.</l>
           </lg>
           <ab type="ornament">***</ab>
@@ -121,9 +121,7 @@
             <l rend="i">Et tous deux sont suivis de ces illustres Morts,</l>
             <l rend="i">Qui dans une saison aux Muses plus propice,</l>
             <l rend="i"> Firent de leurs charmans accords</l>
-            <l>
-              <hi rend="i">Retentir si longtemps le Palais d’Artenice,</hi>
-            </l>
+            <l><hi rend="i">Retentir si longtemps le Palais d’Artenice,</hi></l>
             <l rend="i">Tandis que des grands noms du Heros que je plains</l>
             <l rend="i">Aux siecles à venir on transmet la memoire,</l>
             <l rend="i"> Et que les plus sçavantes mains</l>
@@ -131,6 +129,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

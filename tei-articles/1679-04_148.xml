@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,18 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>La Nymphe de Chaville</head>
         <bibl><title>Mercure galant</title>, avril 1679 [tome 4], p. 148-159.</bibl>
-        <p>Je croy vous avoir parlé d’un Panegyrique de M<hi rend="sup">r</hi> le Chancelier, fait en Vers Latins par M<hi rend="sup">r</hi> de Santeüil, Chanoine de S. Victor. Je ne vous repéteray point qu’il a un commerce tres-familier avec les Muses, &amp; qu’il ne part rien de luy qui ne fasse voir qu’elles le favorisent de leurs graces les plus particulieres. Le Panegyrique dont je vous parle en est une preuve. Elles y sont répanduës par tout. C’est ce qui a engagé un fort galant Homme, non pas à le traduire tout à fait en nostre Langue, mais à en prendre l’idée genérale &amp; quelques pensées, car pour la fiction elle est traitée diféremment. Cela n’empesche pas qu’il n’avoüe qu’on doit uniquement à M<hi rend="sup">r</hi> de Santeüil cette ingénieuse maniere de loüer M<hi rend="sup">r</hi> le Chancelier.</p>
+        <p>Je croy vous avoir parlé d’un Panegyrique de M<hi rend="sup">r</hi> le Chancelier, fait
+          en Vers Latins par M<hi rend="sup">r</hi> de Santeüil, Chanoine de S. Victor. Je ne vous
+          repéteray point qu’il a un commerce tres-familier avec les Muses, &amp; qu’il ne part rien
+          de luy qui ne fasse voir qu’elles le favorisent de leurs graces les plus particulieres. Le
+          Panegyrique dont je vous parle en est une preuve. Elles y sont répanduës par tout. C’est
+          ce qui a engagé un fort galant Homme, non pas à le traduire tout à fait en nostre Langue,
+          mais à en prendre l’idée genérale &amp; quelques pensées, car pour la fiction elle est
+          traitée diféremment. Cela n’empesche pas qu’il n’avoüe qu’on doit uniquement à M<hi rend="sup">r</hi> de Santeüil cette ingénieuse maniere de loüer M<hi rend="sup">r</hi>
+          le Chancelier.</p>
         <quote>
           <label>La Nymphe</label>
           <label>de Chaville.</label>
@@ -118,6 +125,6 @@
           <l>Et qu’ils soufrent la pompe, &amp; ne la cherchent pas.</l>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

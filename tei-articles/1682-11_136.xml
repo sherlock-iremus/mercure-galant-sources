@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Sonnet sur une Haye d’Epines</head>
         <bibl><title>Mercure galant</title>, novembre 1682 [tome 13], p. 136-139.</bibl>
         <p/>
-        <p>Voicy un Sonnet que j’ay reçeu sur le sujet de la Haye d’Epines que je proposay il y a quelques mois dans une de mes Lettres. Je n’ay pû vous l’envoyer plutost, à cause d’un grand nombre d’Articles ausquels il m’a falu donner place.</p>
+        <p>Voicy un Sonnet que j’ay reçeu sur le sujet de la Haye d’Epines que je proposay il y a
+          quelques mois dans une de mes Lettres. Je n’ay pû vous l’envoyer plutost, à cause d’un
+          grand nombre d’Articles ausquels il m’a falu donner place.</p>
         <quote>
           <label>SONNET<lb/>Sur une Haye d’Epines.</label>
           <lg>
@@ -49,8 +50,11 @@
           </lg>
         </quote>
         <p/>
-        <p>Quoy que rien ne paroisse plus stérile que les Epines, il faut demeurer d’accord que ce Sonnet ne manque pas de beautez. Cela fait voir qu’il n’y a point de matieres épineuses pour les Personnes d’esprit. Ceux qui ont du talent pour la Poësie, peuvent le faire paroître sur un Torrent. C’est le sujet qu’on leur propose pour travailler.</p>
+        <p>Quoy que rien ne paroisse plus stérile que les Epines, il faut demeurer d’accord que ce
+          Sonnet ne manque pas de beautez. Cela fait voir qu’il n’y a point de matieres épineuses
+          pour les Personnes d’esprit. Ceux qui ont du talent pour la Poësie, peuvent le faire
+          paroître sur un Torrent. C’est le sujet qu’on leur propose pour travailler.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

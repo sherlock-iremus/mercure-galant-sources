@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head resp="editor">Deux nouvelles énigmes</head>
         <bibl><title>Mercure galant</title>, juillet 1678 [tome 7], p. 364-367.</bibl>
-        <p>Voicy deux nouvelles Enigmes. M<hi rend="sup">r</hi> Gardien Secretaire du Roy, a fait la premiere. L’autre est d’une Personne de qualité.</p>
+        <p>Voicy deux nouvelles Enigmes. M<hi rend="sup">r</hi> Gardien Secretaire du Roy, a fait la
+          premiere. L’autre est d’une Personne de qualité.</p>
         <quote>
           <label>Enigme.</label>
           <lg>
@@ -65,6 +65,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

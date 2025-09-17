@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>[Depart de Monsieur Lorenzani pour aller en Italie chercher des Musiciens pour le Roy]</head>
+    <body><div>
+        <head>[Depart de Monsieur Lorenzani pour aller en Italie chercher des Musiciens pour le
+          Roy]</head>
         <bibl><title>Mercure galant</title>, juin 1679 [tome 6], p. 62.</bibl>
-        <p>Je vous marquay la derniere fois beaucoup de choses qui font connoistre le mérite de M<hi rend="sup">r</hi> Lorenzani. Vous serez aisément persuadée que je ne vous en ay rien mandé que de veritable, quand je vous diray que le Roy luy a donné une nouvelle marque de son estime, en luy ordonnant de faire un voyage en Italie, pour luy amener de ce Païs là les meilleurs Musiciens qu’il pourra trouver.</p>
+        <p>Je vous marquay la derniere fois beaucoup de choses qui font connoistre le mérite de M<hi rend="sup">r</hi> Lorenzani. Vous serez aisément persuadée que je ne vous en ay rien
+          mandé que de veritable, quand je vous diray que le Roy luy a donné une nouvelle marque de
+          son estime, en luy ordonnant de faire un voyage en Italie, pour luy amener de ce Païs là
+          les meilleurs Musiciens qu’il pourra trouver.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

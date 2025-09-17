@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Galanterie de M. de Rambouillet]</head>
         <bibl><title>Le Nouveau Mercure galant</title>, août 1677 [tome VI], p. 239-244.</bibl>
         <p>Je doy de Naples vous amener jusques au Camp où je laissay Monsieur le Mareschal de Créquy le Mois dernier, &amp; vous entretenir de ce qui s’est passé entre son Armée &amp; celle du Prince Charles ; mais avant que de faire ce trajet, je croy que vous serez bien aise de voir des Vers qu’on estime dans le monde, &amp; que le hazard a fait tomber entre mes mains. Ils sont de Monsieur de Ramboüillet, dont je vous ay déja parlé dans cette Lettre. Vous le connoissez, Madame, vous sçavez qu’il est galant, &amp; qu’il a beaucoup de délicatesse dans l’Esprit. Voicy dequoy en faire demeurer d’accord tous ceux qui le pouroient ignorer.</p>
@@ -96,6 +95,6 @@
           <l rend="i">On en voit quelqu’une bruler.</l>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

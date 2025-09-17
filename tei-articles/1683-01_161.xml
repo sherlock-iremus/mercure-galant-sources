@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,16 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Sur un Torrent. Sonnet</head>
         <bibl><title>Mercure galant</title>, janvier 1683 [tome 1], p. 161-164</bibl>
-        <p>Madame des Marais, Fille de M<hi rend="sup">r</hi> Berrier, Secretaire du Conseil, &amp; Femme de M<hi rend="sup">r</hi> Huraut, Comte des Marais, est aussi morte depuis peu de jours. Elle n’avoit que 32. ans. De pareilles morts nous font tous les jours connoistre, que nous n’avons point de jours assurez, &amp; qu’il n’y a rien qui passe si viste. C’est une pensée que vous trouverez exprimée d’une maniere fort spirituelle dans le Sonnet que vous allez voir. Il est fait sur le sujet d’un Torrent, qui a esté proposé dans quelqu’une de mes Lettres.</p>
+        <p>Madame des Marais, Fille de M<hi rend="sup">r</hi> Berrier, Secretaire du Conseil, &amp;
+          Femme de M<hi rend="sup">r</hi> Huraut, Comte des Marais, est aussi morte depuis peu de
+          jours. Elle n’avoit que 32. ans. De pareilles morts nous font tous les jours connoistre,
+          que nous n’avons point de jours assurez, &amp; qu’il n’y a rien qui passe si viste. C’est
+          une pensée que vous trouverez exprimée d’une maniere fort spirituelle dans le Sonnet que
+          vous allez voir. Il est fait sur le sujet d’un Torrent, qui a esté proposé dans quelqu’une
+          de mes Lettres.</p>
         <quote>
           <label>SUR UN TORRENT.<lb/><hi rend="sc">Sonnet</hi>.</label>
           <lg>
@@ -48,6 +53,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

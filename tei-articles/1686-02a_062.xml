@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,23 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>A Tircis. Vers libres</head>
-        <bibl><title>Mercure galant</title>, février 1686 (première partie) [tome 2], p. 62-69</bibl>
+        <bibl><title>Mercure galant</title>, février 1686 (première partie) [tome 2],
+          p. 62-69</bibl>
         <p/>
-        <p>Messire Loüis de la Tremoille, Comte d’Olonne, Baron d’Aspremont, mourut icy le 5. de ce mois, à l’âge de soixante ans. Il y avoit fort long temps que les goutes qui le tourmentoient cruellement, ne le laissoient pas en pouvoir de quitter la chambre. Il estoit Fils de Messire Philippes de la Tremoille, Comte d’Olonne, Senéchalde Poitou, &amp; avoit épousé Catherine Henriette d’Angennes de la Loupe, Sœur de Madame la Maréchale de la Ferté, dont il n’a point eu d’Enfans. Cette mort a rendu M<hi rend="sup">r</hi> le Marquis de Royan son Frere, Chef d’une branche Cadette de la Maison de la Tremoille.</p>
-        <p>Dame Marie Henriette Poncher, Femme de M<hi rend="sup">r</hi> Vallot Seigneur de Maignan, Conseiller au Grand Conseil, est morte environ dans le mesme temps.</p>
-        <p>L’Ouvrage qui suit merite bien que vous le lisiez. On ne m’en a point nommé l’Autheur. Je sçay seulement qu’un de ses Amis l’ayant prié de faire des Vers, pour justifier une inconstance dont l’accusoit sa Maistresse, il luy envoya ceux-cy pour s’en excuser.</p>
+        <p>Messire Loüis de la Tremoille, Comte d’Olonne, Baron d’Aspremont, mourut icy le 5. de ce
+          mois, à l’âge de soixante ans. Il y avoit fort long temps que les goutes qui le
+          tourmentoient cruellement, ne le laissoient pas en pouvoir de quitter la chambre. Il
+          estoit Fils de Messire Philippes de la Tremoille, Comte d’Olonne, Senéchalde Poitou, &amp;
+          avoit épousé Catherine Henriette d’Angennes de la Loupe, Sœur de Madame la Maréchale de la
+          Ferté, dont il n’a point eu d’Enfans. Cette mort a rendu M<hi rend="sup">r</hi> le Marquis
+          de Royan son Frere, Chef d’une branche Cadette de la Maison de la Tremoille.</p>
+        <p>Dame Marie Henriette Poncher, Femme de M<hi rend="sup">r</hi> Vallot Seigneur de Maignan,
+          Conseiller au Grand Conseil, est morte environ dans le mesme temps.</p>
+        <p>L’Ouvrage qui suit merite bien que vous le lisiez. On ne m’en a point nommé l’Autheur. Je
+          sçay seulement qu’un de ses Amis l’ayant prié de faire des Vers, pour justifier une
+          inconstance dont l’accusoit sa Maistresse, il luy envoya ceux-cy pour s’en excuser.</p>
         <quote>
           <label>A TIRSIS,<lb/><hi rend="sc">Vers libres.</hi></label>
           <lg>
@@ -130,6 +139,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

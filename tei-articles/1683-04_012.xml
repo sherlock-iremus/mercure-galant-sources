@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,17 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Alla Maesta Christianissima di Luigi Il Grande. Sonneto</head>
         <bibl><title>Mercure galant</title>, avril 1683 [tome 4], p. 12-14</bibl>
-        <p>Les Muses Françoises ne sont pas les seules qui chantent les loüanges de Sa Majesté. Les Italiennes ont le mesme empressement, &amp; voicy ce qu’elles disent par la bouche de Dom Thomas Maroullo, Frere de M<hi rend="sup">r</hi> le Duc Jean-Paul Dom Vincent Maroullo, Gentilhomme de la premiere qualité de Messine, qui s’estant retiré à Marseille avec toute sa Famille, a esté naturalisé François.</p>
+        <p>Les Muses Françoises ne sont pas les seules qui chantent les loüanges de Sa Majesté. Les
+          Italiennes ont le mesme empressement, &amp; voicy ce qu’elles disent par la bouche de Dom
+          Thomas Maroullo, Frere de M<hi rend="sup">r</hi> le Duc Jean-Paul Dom Vincent Maroullo,
+          Gentilhomme de la premiere qualité de Messine, qui s’estant retiré à Marseille avec toute
+          sa Famille, a esté naturalisé François.</p>
         <quote>
-          <label><hi rend="sc">Alla Maesta Christianissima</hi><lb/>DI LUIGI IL GRANDE.<lb/>SONNETO.</label>
+          <label><hi rend="sc">Alla Maesta Christianissima</hi><lb/>DI LUIGI IL
+            GRANDE.<lb/>SONNETO.</label>
           <lg>
             <l rend="i">O Del Gallico cielo invitto Atlante,</l>
             <l rend="i">A cui l’Eterea mole è lieve pondo :</l>
@@ -48,6 +52,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

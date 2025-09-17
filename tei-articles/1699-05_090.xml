@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>[Suite du Journal concernant l'Ambassadeur de Maroc, avec la Harangue qu'il a faite au Roy le jour de son audience de congé]<note resp="editor">Voir <ref target="MG-1699-02_215">cet article</ref> et <ref target="MG-1699-04_058">celui-ci</ref> pour le début du journal.</note></head>
-        <bibl><title>Mercure galant</title>, mai 1699 [tome 5], p. 90.</bibl>
-        <p>Deux jours aprés, il [l'ambassadeur] alla voir l'Opera d'Amadis de Grece, &amp; parut étonné d'avoir toujours vû des choses qui l'avoient enchanté toutes les fois qu'on l'avoit mené à l'Opera.</p>
-      </div>
-    </body>
+    <body><div>
+          <head>[Suite du Journal concernant l'Ambassadeur de Maroc, avec la Harangue qu'il a faite au Roy le jour de son audience de congé]<note resp="editor">Voir <ref target="MG-1699-02_215">cet article</ref> et <ref target="MG-1699-04_058">celui-ci</ref> pour le début du journal.</note></head>
+          <bibl><title>Mercure galant</title>, mai 1699 [tome 5], p. 90.</bibl>
+          <p>Deux jours aprés, il [l'ambassadeur] alla voir l'Opera d'Amadis de Grece, &amp; parut étonné d'avoir toujours vû des choses qui l'avoient enchanté toutes les fois qu'on l'avoit mené à l'Opera.</p>
+        </div>
+        </body>
   </text>
 </TEI>

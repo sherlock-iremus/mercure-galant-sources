@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Voyage de Hollande</head>
-        <bibl><title>Mercure galant</title>, décembre 1688 (première partie) [tome 16], p. 125-129</bibl>
+        <bibl><title>Mercure galant</title>, décembre 1688 (première partie) [tome 16],
+          p. 125-129</bibl>
         <p/>
-        <p>La situation des affaires me permet de vous envoyer des Vers d’un des hommes de France qui a le plus d’esprit. Il les fit à son retour d’un voyage de Hollande. Je ne doute point qu’ils ne vous plaisent, puis que ceux qui ont le goust le plus delicat se sont empressez pour en avoir des copies.</p>
+        <p>La situation des affaires me permet de vous envoyer des Vers d’un des hommes de France
+          qui a le plus d’esprit. Il les fit à son retour d’un voyage de Hollande. Je ne doute point
+          qu’ils ne vous plaisent, puis que ceux qui ont le goust le plus delicat se sont empressez
+          pour en avoir des copies.</p>
         <quote>
           <label>VOYAGE<lb/>DE HOLLANDE.</label>
           <lg>
@@ -89,6 +92,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

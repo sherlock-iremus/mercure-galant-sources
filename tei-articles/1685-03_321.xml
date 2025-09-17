@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head resp="editor">Sur le livre Theriaque</head>
         <bibl><title>Mercure galant</title>, mars 1685 [tome 3], p. 321</bibl>
-        <p>Je vous ay parlé de la Theriaque au commencement de cette Lettre. Ce grand Ouvrage a esté achevé depuis ce temps-là, mais c’est un Article qui demande trop d’étenduë pour pouvoir estre renfermé dans le peu de place qui me reste. Cela m’oblige de differer jusqu’au mois prochain, à vous en mander les particularitez. Je suis vostre, &amp;c.</p>
+        <p>Je vous ay parlé de la Theriaque au commencement de cette Lettre. Ce grand Ouvrage a esté
+          achevé depuis ce temps-là, mais c’est un Article qui demande trop d’étenduë pour pouvoir
+          estre renfermé dans le peu de place qui me reste. Cela m’oblige de differer jusqu’au mois
+          prochain, à vous en mander les particularitez. Je suis vostre, &amp;c.</p>
         <p/>
-        <p>
-          <hi rend="i">A Paris ce 31. Mars 1685.</hi>
-        </p>
+        <p><hi rend="i">A Paris ce 31. Mars 1685.</hi></p>
       </div>
     </body>
   </text>

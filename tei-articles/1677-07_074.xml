@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Sur le Jubilé de Son Altesse Royale</head>
         <bibl><title>Le Nouveau Mercure galant</title>, juillet 1677 ([tome V]), p 74-80.</bibl>
         <p>Dans le mesme temps que le Roy a fait éclater sa pieté par toutes ces magnificences, Monsieur a donné des marques publiques de la sienne, en venant gagner icy son Jubilé qu’il n’avoit pû gagner à l’Armée. Il a fait ses Stations avec un zele qui a édifié tout le monde. Cependant il s’est trouvé un Scrupuleux qui luy a donné quelque avis sur la préparation où ce grand Prince se devoit mettre pour une action si pieuse. Jugez, Madame, par la lecture de ces Vers, si le scrupule a deû l’arrester.</p>
@@ -77,6 +76,6 @@
         </quote>
         <p>Ces Vers m’ont esté donnez comme estant du Pere Comire Jesuite, qui en fait si bien de Latins. C’est un Homme dont le merite est connu. Il n’en faut point d’autre preuve que la correspondance qu’il entretient avec tous les Sçavans, &amp; l’estime particuliere qu’a pour luy Monsieur l’Evesque de Paderbon. Le sufrage de ce grand Prélat est un titre incontestable de gloire pour tous ceux à qui il croit qu’il soit juste de l’accorder.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

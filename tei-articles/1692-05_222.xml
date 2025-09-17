@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Le Cygne &amp; les Canards, Fable</head>
         <bibl><title>Mercure galant</title>, mai 1692 [tome 5], p. 222-224.</bibl>
-        <p>Je n’ay rien à vous expliquer sur le sujet de la Fable nouvelle que je vous envoye. Il suffit que l’on y parle d’un Cygne dont la blancheur a fait des Jaloux, pour vous faire entendre dequoy il s’agit. Elle est de M<hi rend="sup">r</hi> Moreau, Avocat General de la Chambre des Comptes de Dijon.</p>
+        <p>Je n’ay rien à vous expliquer sur le sujet de la Fable nouvelle que je vous envoye. Il
+          suffit que l’on y parle d’un Cygne dont la blancheur a fait des Jaloux, pour vous faire
+          entendre dequoy il s’agit. Elle est de M<hi rend="sup">r</hi> Moreau, Avocat General de la
+          Chambre des Comptes de Dijon.</p>
         <quote>
           <label>LE CYGNE<lb/>ET<lb/>LES CANARDS.<lb/><hi rend="i">FABLE.</hi></label>
           <lg>
@@ -48,6 +50,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

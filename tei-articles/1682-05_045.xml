@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Quatrain]</head>
         <bibl><title>Mercure galant</title>, mai 1682 [tome 5], p. 45-46.</bibl>
         <p/>
-        <p>Pour engager tous les beaux Esprits à travailler, l’espoir d’acquérir une Médaille du Roy estoit une douce amorce. Cependant il s’est trouvé une aimable Fille que cet avantage n’a pû toucher. Elle s’en est expliquée par ces quatre Vers.</p>
+        <p>Pour engager tous les beaux Esprits à travailler, l’espoir d’acquérir une Médaille du Roy
+          estoit une douce amorce. Cependant il s’est trouvé une aimable Fille que cet avantage n’a
+          pû toucher. Elle s’en est expliquée par ces quatre Vers.</p>
         <quote>
           <lg>
             <l rend="i">Un cœur comme le mien ne veut point de Médaille,</l>
@@ -29,6 +30,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

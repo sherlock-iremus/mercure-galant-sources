@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, mai 1696 [tome 5], p. 317.</bibl>
         <p>Je ne doute point que vous ne soyez contente de la nouvelle Chanson que je vous envoye.</p>
         <quote>
-          <label>AIR NOUVEAU.</label>
-          <note resp="author" place="margin">L’Air doit regarder la page 317.</note>
-          <lg>
-            <l rend="i">Je voudrois bien sur la fougere</l>
+          <label>AIR NOUVEAU.</label><note resp="author" place="margin">L’Air doit regarder la page 317.</note>
+          <lg><l rend="i">Je voudrois bien sur la fougere</l>
             <l rend="i">Choisir une jeune Bergere,</l>
             <l rend="i">Dont le cœur fust tendre &amp; constant ;</l>
             <l rend="i">Mais on n'en voit plus de fidelle.</l>
@@ -37,6 +34,6 @@
           </figure>
         </ref>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

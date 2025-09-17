@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,21 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Mascarade de la Paix</head>
         <bibl><title>Mercure galant</title>, avril 1679 [tome 4], p. 37-50.</bibl>
-        <p>Je ne vous dis rien, Madame, à l’avantage de cette Relation. Elle est écrite de ce stile aisé que vous preférez aux grandes paroles ; &amp; la vivacité naturelle de l’esprit y paroist, dépoüillée des vains artifices de l’étude. Tandis qu’Alby rendoit tant d’honneurs à un illustre Prélat, on faisoit une autre Cerémonie à Bourges. Une belle Personne s’y marioit, &amp; pour rendre la Feste plus solemnelle, on avoit préparé une Mascarade, dont le divertissement fut meslé aux réjoüissances de la Nopce. Cette Mascarade faisoit paroistre la Paix conduite par un François, &amp; suivie d’un Hollandois, d’un Espagnol, &amp; d’un Allemand, qui en dançant autour d’elle, donnoient des marques de l’extréme envie qu’ils avoient de revoir cette aimable Déesse dans leurs Païs. Un Héraut d’Armes les précedoit, &amp; chacun d’eux expliquoit ses sentimens par les Vers qui suivent. Ils sont de M. l’Abbé de la Chapelle. Son nom ne vous doit pas estre inconnu. Je me souviens de vous avoir déja parlé de luy</p>
+        <p>Je ne vous dis rien, Madame, à l’avantage de cette Relation. Elle est écrite de ce stile
+          aisé que vous preférez aux grandes paroles ; &amp; la vivacité naturelle de l’esprit y
+          paroist, dépoüillée des vains artifices de l’étude. Tandis qu’Alby rendoit tant d’honneurs
+          à un illustre Prélat, on faisoit une autre Cerémonie à Bourges. Une belle Personne s’y
+          marioit, &amp; pour rendre la Feste plus solemnelle, on avoit préparé une Mascarade, dont
+          le divertissement fut meslé aux réjoüissances de la Nopce. Cette Mascarade faisoit
+          paroistre la Paix conduite par un François, &amp; suivie d’un Hollandois, d’un Espagnol,
+          &amp; d’un Allemand, qui en dançant autour d’elle, donnoient des marques de l’extréme
+          envie qu’ils avoient de revoir cette aimable Déesse dans leurs Païs. Un Héraut d’Armes les
+          précedoit, &amp; chacun d’eux expliquoit ses sentimens par les Vers qui suivent. Ils sont
+          de M. l’Abbé de la Chapelle. Son nom ne vous doit pas estre inconnu. Je me souviens de
+          vous avoir déja parlé de luy</p>
         <quote>
           <label>Mascarade </label>
           <label>de la paix.</label>
@@ -144,6 +154,6 @@
           <l>Et que je crains enfin une Paix comme vous !</l>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

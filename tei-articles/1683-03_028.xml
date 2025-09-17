@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Plusieurs Madrigaux envoyez à Mademoiselle de Scudery, sur le mesme sujet]</head>
         <bibl><title>Mercure galant</title>, mars 1683 [tome 3], p. 28-32</bibl>
-        <p>On ne s’est pas tû dans une si belle occasion de parler, &amp; les Madrigaux suivans vous le font connoistre.</p>
+        <p>On ne s’est pas tû dans une si belle occasion de parler, &amp; les Madrigaux suivans vous
+          le font connoistre.</p>
         <quote>
           <label>SUR LA PENSION<lb/>donnée par le Roy à Mademoiselle de Scudery.</label>
           <lg>
@@ -81,6 +81,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

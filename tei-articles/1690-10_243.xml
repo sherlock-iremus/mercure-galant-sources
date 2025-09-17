@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head resp="editor">Mort de Mr. Amproux</head>
-        <bibl><title>Mercure galant</title>, octobre 1690 [tome 11], p. 243.</bibl>
-        <p>M<hi rend="sup">r</hi> Amproux, Conseiller en la Grand’ Chambre, est mort environ dans le mesme temps<note resp="editor">Que Louis-CHarles d'Albert, duc de Luynes.</note> . Il estoit Frere de feu M<hi rend="sup">r</hi> de Lorme, Intendant des Finances. On n’a guere veu de Juge qui ait paru plus integre. Il n’a jamais enduré qu’on luy ait fait aucunes sollicitations, &amp; comme il avoit une tres-belle Bibliotheque, il donnoit aux Livres &amp; à l’étude le temps qu’il auroit perdu à les écouter. Il estoit nouveau Converty.</p>
-      </div>
-    </body>
+    <body><div>
+          <head resp="editor">Mort de Mr. Amproux</head>
+          <bibl><title>Mercure galant</title>, octobre 1690 [tome 11], p. 243.</bibl>
+          <p>M<hi rend="sup">r</hi> Amproux, Conseiller en la Grand’ Chambre, est mort environ dans le mesme temps<note resp="editor">Que Louis-CHarles d'Albert, duc de Luynes.</note> . Il estoit Frere de feu M<hi rend="sup">r</hi> de Lorme, Intendant des Finances. On n’a guere veu de Juge qui ait paru plus integre. Il n’a jamais enduré qu’on luy ait fait aucunes sollicitations, &amp; comme il avoit une tres-belle Bibliotheque, il donnoit aux Livres &amp; à l’étude le temps qu’il auroit perdu à les écouter. Il estoit nouveau Converty.</p>
+        </div>
+        </body>
   </text>
 </TEI>

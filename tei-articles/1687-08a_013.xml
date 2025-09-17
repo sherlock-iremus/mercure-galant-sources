@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,19 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Le Levraut. Epitre]</head>
         <bibl><title>Mercure galant</title>, août 1687 (première partie) [tome 11], p. 13-24</bibl>
         <p/>
-        <p>Il y a long-temps qu’on a fait parler les Animaux, mais peut-estre n’y en a-t-il jamais eu aucun qui meritast tant d’estre écouté qu’un Levraut que l’on a donné vivant à Madame l’Abesse de Fontevraut, afin d’en faire une espece de Chasse pour le divertissement de Mademoiselle de Blois, qui est depuis quelque temps à Fontevraut. Il est vray que ce Levraut a esté instruit par un fort habile homme. M<hi rend="sup">r</hi> l’Abbé Genest, qui est auprés de cette jeune Princesse, a pris soin de luy apprendre à conter ses avantures d’une maniere agreable. Tout ce qu’il luy fait dire roule sur l’opinion des Siamois touchant la transmigration des ames, &amp; voicy comment le Levraut Avanturier s’en explique à cette Abbesse.</p>
+        <p>Il y a long-temps qu’on a fait parler les Animaux, mais peut-estre n’y en a-t-il jamais
+          eu aucun qui meritast tant d’estre écouté qu’un Levraut que l’on a donné vivant à Madame
+          l’Abesse de Fontevraut, afin d’en faire une espece de Chasse pour le divertissement de
+          Mademoiselle de Blois, qui est depuis quelque temps à Fontevraut. Il est vray que ce
+          Levraut a esté instruit par un fort habile homme. M<hi rend="sup">r</hi> l’Abbé Genest,
+          qui est auprés de cette jeune Princesse, a pris soin de luy apprendre à conter ses
+          avantures d’une maniere agreable. Tout ce qu’il luy fait dire roule sur l’opinion des
+          Siamois touchant la transmigration des ames, &amp; voicy comment le Levraut Avanturier
+          s’en explique à cette Abbesse.</p>
         <quote>
           <label>A MADAME L’ABBESSE<lb/>DE FONTEVRAUT.</label>
           <lg>
@@ -153,6 +160,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

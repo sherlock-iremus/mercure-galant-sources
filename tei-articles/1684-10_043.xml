@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>La Bourse du Bon Sens. Conte</head>
         <bibl><title>Mercure galant</title>, octobre 1684 [tome 12], p. 43-59.</bibl>
-        <p>Vous m’avez paru si contente du Conte qui a pour titre <hi rend="i">le Trésor découvert</hi>, &amp; que je vous ay envoyé dans ma XXVI. Lettre Extraordinaire, que je croy vous faire plaisir de vous en envoyer un second du mesme Autheur. M<hi rend="sup">r</hi> de la Barre de Tours, qui s’est diverty à mettre en Vers l’un &amp; l’autre, a trouvé ce stile aisé qui est propre aux Contes, &amp; que peu de Gens sçavent attraper.</p>
+        <p>Vous m’avez paru si contente du Conte qui a pour titre <hi rend="i">le Trésor
+            découvert</hi>, &amp; que je vous ay envoyé dans ma XXVI. Lettre Extraordinaire, que je
+          croy vous faire plaisir de vous en envoyer un second du mesme Autheur. M<hi rend="sup">r</hi> de la Barre de Tours, qui s’est diverty à mettre en Vers l’un &amp; l’autre, a
+          trouvé ce stile aisé qui est propre aux Contes, &amp; que peu de Gens sçavent
+          attraper.</p>
         <quote>
           <label>LA BOURSE<lb/>DU BON SENS.<lb/>CONTE.</label>
           <lg>
@@ -232,6 +235,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

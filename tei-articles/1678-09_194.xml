@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,18 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head resp="editor">Madrigal sur le tremblement de terre arrivé à Avignon et en Provence</head>
         <bibl><title>Mercure galant</title>, septembre 1678 [tome 9], p. 194-197.</bibl>
-        <p>On a esté fort effrayé à Avignon de ce que la Terre y a tremblé le second jour de ce Mois. Ce Prodige n’a esté suivy d’aucun desordre. C’est un bonheur que quelques-uns attribuent au Protecteur de la Ville S. Agricol, dont on celebroit ce jour là la Feste. Quoy que la Terre y ait tremblé jusqu’à trois fois, on pourroit se persuader qu’il y auroit eu de l’imagination dans cette croyance, si la mesme chose n’estoit arrivée le mesme jour à Arles &amp; à Aix. On venoit de recevoir nouvelles dans cette derniere Ville, que le Roy devoit l’honorer de sa résence, &amp; c’est à-dessus qu’on a fait ce Madrigal. Il est de la mesme veine dont est party le galant Ouvrage que je vous ay envoyé sur les Vers à soye.</p>
+        <p>On a esté fort effrayé à Avignon de ce que la Terre y a tremblé le second jour de ce
+          Mois. Ce Prodige n’a esté suivy d’aucun desordre. C’est un bonheur que quelques-uns
+          attribuent au Protecteur de la Ville S. Agricol, dont on celebroit ce jour là la Feste.
+          Quoy que la Terre y ait tremblé jusqu’à trois fois, on pourroit se persuader qu’il y
+          auroit eu de l’imagination dans cette croyance, si la mesme chose n’estoit arrivée le
+          mesme jour à Arles &amp; à Aix. On venoit de recevoir nouvelles dans cette derniere Ville,
+          que le Roy devoit l’honorer de sa résence, &amp; c’est à-dessus qu’on a fait ce Madrigal.
+          Il est de la mesme veine dont est party le galant Ouvrage que je vous ay envoyé sur les
+          Vers à soye.</p>
         <quote>
           <label rend="center">MADRIGAL.</label>
           <lg>
@@ -44,6 +51,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,16 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, janvier 1691 [tome 1], p. 332-333.</bibl>
-        <p>Je vous envoye un second Air nouveau dont les paroles sont de M<hi rend="sup">r</hi> Rabiet d'Antespine. Elles ont esté mises en chant par M<hi rend="sup">r</hi> Montailly.</p>
+        <p>Je vous envoye un second Air nouveau dont les paroles sont de M<hi rend="sup">r</hi>
+          Rabiet d'Antespine. Elles ont esté mises en chant par M<hi rend="sup">r</hi>
+          Montailly.</p>
         <quote>
-          <label>AIR NOUVEAU.</label>
-          <note resp="editor" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Non, l'Hyver n'est plus, &amp;c.</hi>, doit regarder la page 333.</note>
+          <label>AIR NOUVEAU.</label><note resp="editor" place="margin"><hi rend="i">Avis pour
+              placer les Figures</hi> : l’Air qui commence par <hi rend="i">Non, l'Hyver n'est plus,
+              &amp;c.</hi>, doit regarder la page 333.</note>
           <lg>
             <l rend="i">Non, l'hyver n'est plus en ces lieux.</l>
             <l rend="i">Il est vray que nos prez ont perdu leur verdure,</l>
@@ -39,6 +41,6 @@
           </figure>
         </ref>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

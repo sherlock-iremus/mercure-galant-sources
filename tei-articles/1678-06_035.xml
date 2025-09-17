@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,19 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[L’Amour blessé, Idylle]</head>
         <bibl><title>Mercure galant</title>, juin 1678 [tome 6], p. 35-49.</bibl>
-        <p>Voila, Madame, tout ce que j’avois à vous dire de ce fameux Monument qui fait tant d’honneur à la Ville de Rheims. J’ay beaucoup de joye d’avoir pû satisfaire vostre curiosité sur cet article, &amp; n’en ay pas moins d’avoir enfin recouvré le galant Idylle de l’Amour blessé, que vous avez envie de voir depuis si long-temps. On m’a dit qu’il n’est pas tout-à-fait nouveau ; mais outre qu’il sera pour vous, je l’ay demandé à tant de Gens qui n’en avoient point entendu parler, qu’il y a grande apparence qu’on en a fait courir fort peu de Copies. Je l’ay trouvé tout ce qu’on vous a dit qu’il estoit. Ceux qui vous l’ont vanté, l’ont fait avec beaucoup de justice, &amp; quoy qu’ils vous disent une autre fois en matiere de Vers aisément tournez, vous aurez sujet de les croire sur leur parole.</p>
+        <p>Voila, Madame, tout ce que j’avois à vous dire de ce fameux Monument qui fait tant
+          d’honneur à la Ville de Rheims. J’ay beaucoup de joye d’avoir pû satisfaire vostre
+          curiosité sur cet article, &amp; n’en ay pas moins d’avoir enfin recouvré le galant Idylle
+          de l’Amour blessé, que vous avez envie de voir depuis si long-temps. On m’a dit qu’il
+          n’est pas tout-à-fait nouveau ; mais outre qu’il sera pour vous, je l’ay demandé à tant de
+          Gens qui n’en avoient point entendu parler, qu’il y a grande apparence qu’on en a fait
+          courir fort peu de Copies. Je l’ay trouvé tout ce qu’on vous a dit qu’il estoit. Ceux qui
+          vous l’ont vanté, l’ont fait avec beaucoup de justice, &amp; quoy qu’ils vous disent une
+          autre fois en matiere de Vers aisément tournez, vous aurez sujet de les croire sur leur
+          parole.</p>
         <quote>
           <label rend="center">L’Amour</label>
           <label rend="center">blessé.</label>
@@ -148,7 +156,8 @@
             <l>Mais il eut le chagrin qu’à ses tristes helas,</l>
             <l>Par les airs les plus guais les Oyseaux répondirent,</l>
             <l><space/><space/><hi rend="i">Vous par qui tant de cœurs soûpirent</hi>, </l>
-            <l><hi rend="i">Soûpirez</hi>, disoient-ils, <hi rend="i">nous ne vous plaignons pas</hi>.</l>
+            <l><hi rend="i">Soûpirez</hi>, disoient-ils, <hi rend="i">nous ne vous plaignons
+                pas</hi>.</l>
           </lg>
           <ab type="ornament">***</ab>
           <lg>
@@ -231,6 +240,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

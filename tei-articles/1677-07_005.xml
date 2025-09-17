@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Eloge de Marqués petit Chien Arragonnois, du mesme Autheur]</head>
         <bibl><title>Le Nouveau Mercure galant</title>, juillet 1677 ([tome V]), p. 5-14.</bibl>
         <p>Ces quatorze Vers, si vous ne voulez pas les appeller un Sonnet, sont de M<hi rend="sup">r</hi> de Fontenelle ; &amp; comme vous ne me tiendrez pas quite, si je ne vous envoyois rien davantage de luy, en voicy d’autres qu’il fit il y a quelque temps, &amp; dont l’enjouëment a paru fort agreable. C’est un Chien qui en a fourny la matiere, &amp; elle ne semblera peut-estre pas assez relevée aux délicats ; mais pourquoy dédaigneroit-on de faire des Vers pour un Chien, puis qu’un de nos plus renommez Autheurs a fait autrefois les loüanges de la Fiévre Quarte ? Marqués est un tres-joly petit Animal. Il fut apporté dés ses premiers mois d’Arragon en France, &amp; il merite bien l’Eloge que vous allez voir.</p>
@@ -158,6 +157,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

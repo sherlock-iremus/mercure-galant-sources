@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,19 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Vers en faveur des Infidelles]</head>
         <bibl><title>Mercure galant</title>, juillet 1687 [tome 10], p. 159-164</bibl>
         <p/>
-        <p>Le Comte de Tekeli a joüé depuis dix ans un si grand Personnage sur le theatre du monde, que vous ne serez pas fâchée de voir le Portrait d’un homme dont vous entendez tous les jours parler. On en a frapé une Medaille. Je l’ay fait graver, &amp; je vous l’envoye.</p>
-        <p>Vous allez estre surprise, Madame de… que vous connoissez, &amp; qui a pris si souvent le party de la Constance, ne peut plus blâmer les Inconstans. Elle est charmée des Vers que vous allez lire. Le tour l’en a ébloüye, &amp; elle se rend aux raisons qui favorisent l’infidelité, parce que l’Autheur les a exprimées d’une maniere agreable. Voilà ce que c’est que d’avoir beaucoup d’esprit ; on vient à bout de persuader tout ce qu’on veut. Lisez ces Vers, &amp; m’en mandez vostre sentiment.</p>
+        <p>Le Comte de Tekeli a joüé depuis dix ans un si grand Personnage sur le theatre du monde,
+          que vous ne serez pas fâchée de voir le Portrait d’un homme dont vous entendez tous les
+          jours parler. On en a frapé une Medaille. Je l’ay fait graver, &amp; je vous l’envoye.</p>
+        <p>Vous allez estre surprise, Madame de… que vous connoissez, &amp; qui a pris si souvent le
+          party de la Constance, ne peut plus blâmer les Inconstans. Elle est charmée des Vers que
+          vous allez lire. Le tour l’en a ébloüye, &amp; elle se rend aux raisons qui favorisent
+          l’infidelité, parce que l’Autheur les a exprimées d’une maniere agreable. Voilà ce que
+          c’est que d’avoir beaucoup d’esprit ; on vient à bout de persuader tout ce qu’on veut.
+          Lisez ces Vers, &amp; m’en mandez vostre sentiment.</p>
         <quote>
           <label>SUR L’INCONSTANCE.</label>
           <lg>
@@ -80,6 +86,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

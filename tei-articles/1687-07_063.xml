@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,18 +14,31 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>[Ce qui s’est passé cette année aux Jeux Floraux qu’on celebre tous les ans à Toulouse, avec les Pieces qui ont remporté les Prix, &amp; les noms de ceux qui les ont faites]</head>
+    <body><div>
+        <head>[Ce qui s’est passé cette année aux Jeux Floraux qu’on celebre tous les ans à
+          Toulouse, avec les Pieces qui ont remporté les Prix, &amp; les noms de ceux qui les ont
+          faites]</head>
         <bibl><title>Mercure galant</title>, juillet 1687 [tome 10], p. 63-74</bibl>
         <p/>
-        <p>Il y a quelques années que je vous parlay amplement de l’Institution des Jeux Floraux, qu’on celebre tous les ans à Toulouse avec beaucoup de solemnité. Je vous apris qu’une Dame appellée Clemence, avoit laissé une partie de son bien pour fonder des Prix, qui sont les recompenses des victorieux. Le premier est une Eglantine d’argent. &amp; il se donne à celuy qui réussit le mieux dans la composition d’un Chant Royal. On donne un Vers qui doit finir un Sonnet qu’on est obligé de faire, &amp; ce Sonnet se fait pour l’essay. M<hi rend="sup">r</hi> de Cironis, âgé de quinze ans, a eu le premier Prix cette année. Il est Fils de M<hi rend="sup">r</hi> de Cironis, Sieur de la Bastide &amp; Beaufort, d’une des premieres Familles de la Ville, &amp; Petit-fils de M<hi rend="sup">r</hi> le President de Cironis, qui a fait voir la grandeur de son genie, non seulement dans l’Art militaire, ayant servy en qualité de Mestre de Camp, mais dans la Charge de Capitoul, dans celle de Tresorier de France, &amp; enfin de President au Parlement de Toulouse, qu’il a exercée avec beaucoup de capacité &amp; de gloire. Ce Vers,</p>
+        <p>Il y a quelques années que je vous parlay amplement de l’Institution des Jeux Floraux,
+          qu’on celebre tous les ans à Toulouse avec beaucoup de solemnité. Je vous apris qu’une
+          Dame appellée Clemence, avoit laissé une partie de son bien pour fonder des Prix, qui sont
+          les recompenses des victorieux. Le premier est une Eglantine d’argent. &amp; il se donne à
+          celuy qui réussit le mieux dans la composition d’un Chant Royal. On donne un Vers qui doit
+          finir un Sonnet qu’on est obligé de faire, &amp; ce Sonnet se fait pour l’essay. M<hi rend="sup">r</hi> de Cironis, âgé de quinze ans, a eu le premier Prix cette année. Il
+          est Fils de M<hi rend="sup">r</hi> de Cironis, Sieur de la Bastide &amp; Beaufort, d’une
+          des premieres Familles de la Ville, &amp; Petit-fils de M<hi rend="sup">r</hi> le
+          President de Cironis, qui a fait voir la grandeur de son genie, non seulement dans l’Art
+          militaire, ayant servy en qualité de Mestre de Camp, mais dans la Charge de Capitoul, dans
+          celle de Tresorier de France, &amp; enfin de President au Parlement de Toulouse, qu’il a
+          exercée avec beaucoup de capacité &amp; de gloire. Ce Vers,</p>
         <quote>
           <lg>
             <l rend="i">À toy, non pas à nous, Seigneur, la gloire est deuë.</l>
           </lg>
         </quote>
-        <p>ayant esté donné à M<hi rend="sup">r</hi> de Cironis, voicy le Sonnet qu’il fit pour l’essay.</p>
+        <p>ayant esté donné à M<hi rend="sup">r</hi> de Cironis, voicy le Sonnet qu’il fit pour
+          l’essay.</p>
         <quote>
           <lg>
             <l rend="i">L’invincible LOUIS, dont l’intrepidité</l>
@@ -140,6 +153,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

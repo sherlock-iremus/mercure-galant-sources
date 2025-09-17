@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Le Bucheron, le Loup, et le Chasseur. Fable</head>
         <bibl><title>Mercure galant</title>, décembre 1682 [tome 14], p. [289-295]*.</bibl>
         <p/>
-        <p>Je vous envoye une nouvelle Fable de M<hi rend="sup">r</hi> du Ruisseau, Autheur de celle des <hi rend="i">Arbres choisis par les Dieux</hi>, qui vous a tant plû, &amp; dont je vous fis part le dernier Mois.</p>
+        <p>Je vous envoye une nouvelle Fable de M<hi rend="sup">r</hi> du Ruisseau, Autheur de celle
+          des <hi rend="i">Arbres choisis par les Dieux</hi>, qui vous a tant plû, &amp; dont je
+          vous fis part le dernier Mois.</p>
         <quote>
           <label>LE BUCHERON,<lb/>LE LOUP,<lb/>ET LE CHASSEUR.<lb/>FABLE.</label>
           <lg>
@@ -94,6 +95,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[L’Indiférence à Iris]</head>
         <bibl><title>Mercure galant</title>, janvier 1678 [tome 1], p. 137-144.</bibl>
-        <p>Vous devez vous en [des satisfactions extraordinaires] promettre beaucoup d’une Galanterie de M<hi rend="sup">r</hi> de Fontenelle que j’ay à vous faire voir. Je sçay que son nom est une grande recommandation aupres de vous pour un Ouvrage. Celuy-cy est un Adieu que l’Indiférence fait à une jeune Personne qui commence à estre sensible, &amp; voicy de quelle maniere il la fait parler.</p>
+        <p>Vous devez vous en [des satisfactions extraordinaires] promettre beaucoup d’une
+          Galanterie de M<hi rend="sup">r</hi> de Fontenelle que j’ay à vous faire voir. Je sçay que
+          son nom est une grande recommandation aupres de vous pour un Ouvrage. Celuy-cy est un
+          Adieu que l’Indiférence fait à une jeune Personne qui commence à estre sensible, &amp;
+          voicy de quelle maniere il la fait parler.</p>
         <quote rend="border">
           <label rend="center">L’Indiférence,</label>
           <label rend="center">À Iris.</label>
@@ -35,8 +38,7 @@
             <l>Ou vous ne sçaviez pas que vous fussiez aimable,</l>
             <l><space/><space/>Ou l’on ne vous en disoit rien.</l>
           </lg>
-          <ab type="ornament">***</ab>
-          <lg>
+          <ab type="ornament">***</ab><lg>
             <l>Vous souffrez maintenant des gens qui vous le disent ;</l>
             <l>Sur ce que vous valez ils vous ouvrent les yeux,</l>
             <l><space/><space/>Et depuis qu’ils vous en instruisent</l>
@@ -55,8 +57,7 @@
             <l>Ne le sçauroit point mieux mettre en œuvre que moy,</l>
             <l>Car il est, entre nous, d’une certaine espece</l>
             <l><space/><space/>Assez propre à ce doux employ.</l>
-          </lg>
-          <lg>
+          </lg><lg>
             <l>Cultiver les talens d’une jeune Personne,</l>
             <l>Animer sa beauté, façonner son esprit,</l>
             <l>Ce n’est pas un mestier à quoy je sois trop bonne ;</l>
@@ -131,6 +132,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

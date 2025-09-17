@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,20 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>[Suite du discours sur le <hi rend="i">Bajazet</hi>, Tragédie du Sieur Racine] *</head>
+    <body><div>
+        <head>[Suite du discours sur le <hi rend="i">Bajazet</hi>, Tragédie du Sieur Racine]
+          *</head>
         <bibl><title>Le Mercure galant</title>, [janvier-avril] 1672 [tome 1], p. 89-90.</bibl>
-        <p>Mais retournons à l’Autheur de Bajazet, dont l’ouvrage m’a donné lieu de vous raconter cette aventure. Je n’ay rien à vous dire de son mérite ; il est si grand qu’on ne peut trouver de place sur le Parnasse aujourd’huy digne de luy estre offerte ; &amp; ses Amis le placent entre Sophocle &amp; Euripide, aux Pieces duquel il semble que Diogene Laërce veüille nous faire entendre que Socrate avoit la meilleure part des plus beaux endroits. Les Rivaux de cet Euripide ou Socrate François, voudroient bien je croy le voir déjà où sont ces grands personnages Grecs, quand bien mesme sa memoire devroit estre aussi glorieuse que celle qu’ils ont meritée.</p>
+        <p>Mais retournons à l’Autheur de Bajazet, dont l’ouvrage m’a donné lieu de vous raconter
+          cette aventure. Je n’ay rien à vous dire de son mérite ; il est si grand qu’on ne peut
+          trouver de place sur le Parnasse aujourd’huy digne de luy estre offerte ; &amp; ses Amis
+          le placent entre Sophocle &amp; Euripide, aux Pieces duquel il semble que Diogene Laërce
+          veüille nous faire entendre que Socrate avoit la meilleure part des plus beaux endroits.
+          Les Rivaux de cet Euripide ou Socrate François, voudroient bien je croy le voir déjà où
+          sont ces grands personnages Grecs, quand bien mesme sa memoire devroit estre aussi
+          glorieuse que celle qu’ils ont meritée.</p>
         <p rend="right i">À Paris, ce 9. Janvier. </p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head resp="editor">Explication de l'égnime</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier d’octobre 1683 [tome XXIV], p. 321</bibl>
-        <p><hi rend="i">La premiere des Enigmes du mois de Novembre, dont</hi> la Cramaillere <hi rend="i">estoit le Mot, a donné lieu aux Explications que vous allez lire.</hi></p>
+<p><hi rend="i">La premiere des Enigmes du mois de Novembre, dont</hi> la Cramaillere <hi rend="i">estoit le Mot, a donné lieu aux Explications que vous allez lire.</hi></p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

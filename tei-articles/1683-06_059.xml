@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Galanterie de M<hi rend="sup">r</hi> de Ligniere, à un jeune Seigneur Anglois</head>
         <bibl><title>Mercure galant</title>, juin 1683 [tome 6], p. 59-63.</bibl>
-        <p>La Galanterie qui suit porte sa recommandation aupres de vous, par le nom de son Autheur, dont je sçay que vous estimez tous les Ouvrages. On en voit peu dont le tour soit si aisé. Aussi sont-ils approuvez de tout le monde.</p>
+        <p>La Galanterie qui suit porte sa recommandation aupres de vous, par le nom de son Autheur,
+          dont je sçay que vous estimez tous les Ouvrages. On en voit peu dont le tour soit si aisé.
+          Aussi sont-ils approuvez de tout le monde.</p>
         <quote>
-          <label>GALANTERIE<lb/>DE M<hi rend="sup">r</hi> DE LIGNIERE,<lb/>A un jeune Seigneur Anglois.</label>
+          <label>GALANTERIE<lb/>DE M<hi rend="sup">r</hi> DE LIGNIERE,<lb/>A un jeune Seigneur
+            Anglois.</label>
           <lg>
             <l rend="i">On me demande un Compliment</l>
             <l rend="i">Pour deux Sujets pleins d’agrément.</l>
@@ -80,6 +82,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

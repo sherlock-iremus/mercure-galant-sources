@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Enigme]</head>
         <bibl><title>Le Nouveau Mercure galant</title>, août 1677 [tome VI], p. 16-23.</bibl>
         <p>Apres vous avoir divertie par des Vers dont le sens n’est pas difficile à comprendre, il faut que je vous en envoye qui ne vous donneront pas moins de plaisir, &amp; qui embarasseront agreablement vostre esprit. C’est l’effet qu’ils doivent produire ; &amp; celuy qui les a faits n’auroit pas atteint le but qu’il s’est proposé, s’il ne vous faisoit resver quelque temps. Peut-estre prendez-vous tout cela pour une Enigme, vous aurez raison, &amp; la voicy.</p>
@@ -59,6 +58,6 @@
         </quote>
         <p>On voit dans les vingt-sept Vers qui restent, des contrarietez semblables. Elles paroissent si justes qu’on relit l’Enigme une seconde fois, apres en avoir appris le sujet, que j’ay de la peine à concevoir comment il s’est trouvé une Personne qui ait voulu s’appliquer assez fortement, &amp; assez longtemps, pour faire un Ouvrage si remply de difficultez.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

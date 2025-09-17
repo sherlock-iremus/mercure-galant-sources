@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,10 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Edit de l’Amour</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier d’octobre 1678 [tome IV], p. 9-21.</bibl>
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier d’octobre 1678 [tome IV], p.
+          9-21.</bibl>
         <quote>
           <label rend="center">Edit de l’Amour.</label>
           <l><space/>L'Amour Maistre de l’Univers,</l>
@@ -250,6 +250,6 @@
           <l><space/>Et qu’il ne soit jamais aimé.</l>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

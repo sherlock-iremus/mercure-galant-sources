@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Paroles de M. Vaumorieres notées par M. Charpentier]</head>
         <bibl><title>Mercure galant</title>, février 1678 [tome 2], p. 16-19.</bibl>
-        <p>Vous avez raison de me dire que le premier des deux [Airs nouveaux] que je vous ay déja envoyez [le mois précédent] ne l’estoit pas. J’en avois crû ceux qui me l’avoient donné pour nouveau. Je n’y seray plus surpris, &amp; je puis répondre avec certitude que celuy que vous allez trouver icy noté n’a encor esté veu de personne. Je vous laisse juger des Paroles. L’Air est de M<hi rend="sup">r</hi> Charpentier, dont vous me dites que les Ouvrages sont si estimez dans vostre Province.</p>
+        <p>Vous avez raison de me dire que le premier des deux [Airs nouveaux] que je vous ay déja envoyez [le mois précédent] ne l’estoit pas.
+          J’en avois crû ceux qui me l’avoient donné pour nouveau. Je n’y seray plus surpris, &amp;
+          je puis répondre avec certitude que celuy que vous allez trouver icy noté n’a encor esté
+          veu de personne. Je vous laisse juger des Paroles. L’Air est de M<hi rend="sup">r</hi> Charpentier, dont vous me dites que les Ouvrages sont si estimez dans vostre
+          Province.</p>
         <quote>
           <label>AIR.</label>
           <l rend="i">En vain, Rivaux assidus</l>
@@ -28,8 +31,8 @@
           <l rend="i">Ce n’est pas que cette Belle</l>
           <l rend="i">Veüille recevoir ma foy ;</l>
           <l rend="i">C’est plutost que la Cruelle</l>
-          <l rend="i">N’aimera ny vous ny moy.</l>
-          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : la premiere Chanson qui commence par En vain Rivaux assidus, doit regarder la Page 19.</note>
+          <l rend="i">N’aimera ny vous ny moy.</l><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : la premiere Chanson qui commence par En vain
+            Rivaux assidus, doit regarder la Page 19.</note>
         </quote>
         <ref target="images/1678-02_016.JPG">
           <figure>
@@ -37,6 +40,6 @@
           </figure>
         </ref>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

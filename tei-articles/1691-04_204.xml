@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>Vers libres, imitez &amp; chantez sur des airs des Opera de Roland &amp; d'Armide</head>
+    <body><div>
+        <head>Vers libres, imitez &amp; chantez sur des airs des Opera de Roland &amp;
+          d'Armide</head>
         <bibl><title>Mercure galant</title>, avril 1691 [tome 4], p. 204-207.</bibl>
         <p/>
         <quote>
-          <label>VERS LIBRES,<lb/>Imitez &amp; chantez sur des airs<lb/>des Opera de Roland<lb/>&amp; d'Armide</label>
+          <label>VERS LIBRES,<lb/>Imitez &amp; chantez sur des airs<lb/>des Opera de
+            Roland<lb/>&amp; d'Armide</label>
           <lg>
             <l rend="i">Du plus grand de nos Rois celebrons la Conqueste,</l>
             <l rend="i">Les faits éclatans &amp; gueriers.</l>
@@ -86,6 +87,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,10 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Quelle est la marque essentielle d’une veritable Amitié. Fable</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1682 [tome XVII], p. 103-107.</bibl>
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1682 [tome XVII],
+          p. 103-107.</bibl>
         <quote>
           <label>Quelle est la marque essentielle d’une veritable Amitié.<lb/>FABLE.</label>
           <lg>
@@ -91,11 +91,9 @@
             <l rend="i"> Ce Recit est-il veritable ?</l>
             <l rend="i"> On nous le fait comme une Fable.</l>
           </lg>
-          <p>
-            <hi rend="sc">Daubaine.</hi>
-          </p>
+          <p><hi rend="sc">Daubaine.</hi></p>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

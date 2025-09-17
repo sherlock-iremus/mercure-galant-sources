@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, septembre 1692 [tome 12], p. 282-283.</bibl>
         <p>Au lieu d'une Médaille sur quelque action du Roy, comme je vous en envoye ordinairement, vous n'aurez aujourd'huy que quelques Vers mis en Musique à la loüange de ce grand Monarque.</p>
         <quote>
-          <label>AIR NOUVEAU.</label>
-          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">Retirez vous, &amp;c.</hi> pag. 282.</note>
-          <lg>
-            <l rend="i">Retirez vous, Tirans, qui nourrissez la guerre,</l>
+          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">Retirez vous, &amp;c.</hi> pag. 282.</note>
+          <lg><l rend="i">Retirez vous, Tirans, qui nourrissez la guerre,</l>
             <l rend="i">Cedez à la valeur du plus puissant des Rois.</l>
             <l rend="i">Loüis dont le Ciel a fait choix</l>
             <l rend="i">Sera toujours l'Arbitre de la Terre.</l>
@@ -34,8 +31,7 @@
             <l rend="i">Dans les combats il est terrible,</l>
             <l rend="i">Il reduit la Flandre aux abois.</l>
             <l rend="i">Il est ardent, il est penible.</l>
-            <l rend="i">Ses Ennemis vaincus admirent ses exploits.</l>
-          </lg>
+            <l rend="i">Ses Ennemis vaincus admirent ses exploits.</l></lg>
         </quote>
         <ref target="images/1692-09_282.JPG">
           <figure>
@@ -43,6 +39,6 @@
           </figure>
         </ref>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

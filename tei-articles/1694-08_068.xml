@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Sonnets sur divers sujets]</head>
         <bibl><title>Mercure galant</title>, août 1694 [tome 8], p. 68-74.</bibl>
-        <p>Les Pauvres du Diocese d’Auch ont coûté cette année vingt mille livres à M<hi rend="sup">r</hi> leur Archevesque, pour les chauffer &amp; pour les nourrir pendant six mois, à commencer du premier jour de Janvier dernier. C’est sur cette édifiante charité qu’a esté fait le Sonnet suivant, sur les Bouts-rimez proposez pour le Roy, par l’Academie des Lanternistes de Toulouse.</p>
+        <p>Les Pauvres du Diocese d’Auch ont coûté cette année vingt mille livres à M<hi rend="sup">r</hi> leur Archevesque, pour les chauffer &amp; pour les nourrir pendant six mois, à
+          commencer du premier jour de Janvier dernier. C’est sur cette édifiante charité qu’a esté
+          fait le Sonnet suivant, sur les Bouts-rimez proposez pour le Roy, par l’Academie des
+          Lanternistes de Toulouse.</p>
         <quote>
           <lg>
             <l><hi rend="i">Dressons, Necessiteux, à Suze un digne</hi> Buste,</l>
@@ -104,6 +106,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

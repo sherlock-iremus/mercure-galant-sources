@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,17 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head resp="editor">Publication de la troisième édition des œuvres philosophiques de M<hi rend="sup">r</hi> le Clerc</head>
-        <bibl><title>Mercure galant</title>, juillet 1706 [tome 7], p. 101.</bibl>
-        <p>M<hi rend="sup">r</hi> le Clerc a donné à Amsterdam une 3<hi rend="sup">e</hi>. édition de ses œuvres philosophiques. <hi rend="i">Joannis Clerici opera Philosophica, in quatuor volumina digesta, editio</hi> 3. <hi rend="i">auctior &amp; emendatior</hi>. Outre ces 3. éditions, il s’en est fait une à Londres. M<hi rend="sup">r</hi> le Clerc a ajoûté, dans cette édition, un petit traité de huit pages, où il parle de l’utilité de la Physique, que l’on ne connoît pas certainement assez en Hollande.</p>
-      </div>
-    </body>
+    <body><div>
+                    <head resp="editor">Publication de la troisième édition des œuvres philosophiques de M<hi rend="sup">r</hi> le Clerc</head>
+                    <bibl><title>Mercure galant</title>, juillet 1706 [tome 7], p. 101.</bibl>
+                    <p>M<hi rend="sup">r</hi> le Clerc a donné à Amsterdam une 3<hi rend="sup">e</hi>. 
+                        édition de ses œuvres philosophiques. <hi rend="i">Joannis
+                            Clerici opera Philosophica, in quatuor volumina digesta, editio</hi> 3.
+                            <hi rend="i">auctior &amp; emendatior</hi>. Outre ces 3. éditions, il
+                        s’en est fait une à Londres. M<hi rend="sup">r</hi> le Clerc a ajoûté, dans
+                        cette édition, un petit traité de huit pages, où il parle de l’utilité de la
+                        Physique, que l’on ne connoît pas certainement assez en Hollande.</p>
+                </div>
+                </body>
   </text>
 </TEI>

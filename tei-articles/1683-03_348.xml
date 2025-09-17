@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head resp="editor">Madrigal</head>
         <bibl><title>Mercure galant</title>, mars 1683 [tome 3], p. 348-349</bibl>
-        <p>Le lendemain de ce Mariage, une des meilleures Amies de la Mariée, ne pouvant luy rendre visite à cause d’une indisposition qui la retenoit au Lit, luy fit connoistre par ce Madrigal, la part qu’elle prenoit à sa joye.</p>
+        <p>Le lendemain de ce Mariage, une des meilleures Amies de la Mariée, ne pouvant luy rendre
+          visite à cause d’une indisposition qui la retenoit au Lit, luy fit connoistre par ce
+          Madrigal, la part qu’elle prenoit à sa joye.</p>
         <quote>
           <lg>
             <l rend="i"> Lors que l’Hymen par de sacrez liens</l>
@@ -32,8 +33,10 @@
             <l rend="i">  Je suis insensible à ma peine.</l>
           </lg>
         </quote>
-        <p>Ce Madrigal fut fort approuvé d’une belle &amp; nombreuse Compagnie, à qui la Mariée le fit voir. Il est de M<hi rend="sup">r</hi> Diéreville, dont vous avez déja veu de fort jolis Vers, &amp; par qui la Dame malade l’avoit fait faire.</p>
+        <p>Ce Madrigal fut fort approuvé d’une belle &amp; nombreuse Compagnie, à qui la Mariée le
+          fit voir. Il est de M<hi rend="sup">r</hi> Diéreville, dont vous avez déja veu de fort
+          jolis Vers, &amp; par qui la Dame malade l’avoit fait faire.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, décembre 1679 [tome 13], p. 336-337.</bibl>
         <p>Cet Article de Musique me fait souvenir d’un second Air à vous envoyer. Les Paroles sont de M<hi rend="sup">r</hi> l’Abbé Mallemant.</p>
         <quote>
-          <label>AIR NOUVEAU.</label>
-          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par <hi rend="i">Consolez-vous, mes chers Troupeaux</hi>, doit regarder la page 337.</note>
+          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par <hi rend="i">Consolez-vous, mes chers Troupeaux</hi>, doit regarder la page 337.</note>
           <l>Consolez-vous, mes chers Troupeaux,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>De tous les maux</l>
           <l><seg type="tab">    </seg>Que la froide saison nous donne.</l>
@@ -37,6 +35,6 @@
           </figure>
         </ref>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

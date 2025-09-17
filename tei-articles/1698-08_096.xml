@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Remerciment [de Mr le Chevalier d’Estampes] à M<hi rend="sup">r</hi> l’Abbé de Soubise</head>
         <bibl><title>Le Nouveau Mercure galant</title>, août, 1698, p. 96-102.</bibl>
-        <p>Je vous ay parlé de l’excellent Discours que M<hi rend="sup">r</hi> l’Abbé de Soubise prononça le mois passé en Sorbonne. Comme ce jour-là il fit donner congé à Harcourt, M<hi rend="sup">r</hi> Destampes, Chevalier de Malte, l’un des Ecoliers de ce College, luy en fit le remerciment suivant au nom de tous. Je ne l’avois pas pour vous envoyer quand je vous fis le détail de cette action.</p>
+        <p>Je vous ay parlé de l’excellent Discours que M<hi rend="sup">r</hi> l’Abbé de Soubise
+          prononça le mois passé en Sorbonne. Comme ce jour-là il fit donner congé à Harcourt, M<hi rend="sup">r</hi> Destampes, Chevalier de Malte, l’un des Ecoliers de ce College, luy en
+          fit le remerciment suivant au nom de tous. Je ne l’avois pas pour vous envoyer quand je
+          vous fis le détail de cette action.</p>
         <quote>
           <label>REMERCIMENT<lb/>À M<hi rend="sup">r</hi> L’ABBÉ<lb/>DE SOUBISE</label>
           <lg>
@@ -69,14 +71,12 @@
             <l rend="i">Mais pour le relever tous les efforts sont vains.</l>
             <l rend="i">Nos loüanges pourtant ont un mérite extrême,</l>
             <l rend="i">Ne les rejettez pas, le Ciel nous dit luy même</l>
-            <l>
-              <hi rend="i">Que le plus</hi>
-              <note resp="author">Ex ore infantium &amp; lactentium per cisti laudem tuam.</note>
-              <hi rend="i">pur encens se donne par nos mains.</hi>
-            </l>
+            <l><hi rend="i">Que le plus</hi><note resp="author">Ex ore infantium &amp;
+                lactentium per cisti laudem tuam.</note>
+              <hi rend="i">pur encens se donne par nos mains.</hi></l>
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

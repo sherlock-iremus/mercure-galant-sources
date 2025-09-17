@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Vers irreguliers sur le mariage de Monsieur le Duc de Chartres]</head>
         <bibl><title>Mercure galant</title>, mars 1692 [tome 3], p. 245-252.</bibl>
-        <p>Je vous envoyay le mois passé un détail exact sur tout ce qui regardoit le mariage de Monsieur le Duc de Chartres. Voicy ce que M<hi rend="sup">r</hi> Robinet a fait là-dessus pour ce jeune Prince. Vous avez vû tant de choses de sa façon, dont la lecture vous a fait plaisir, qu’il me seroit inutile de vouloir vous prévenir sur celuy que vous devez recevoir des Vers que vous allez lire.</p>
+        <p>Je vous envoyay le mois passé un détail exact sur tout ce qui regardoit le mariage de
+          Monsieur le Duc de Chartres. Voicy ce que M<hi rend="sup">r</hi> Robinet a fait là-dessus
+          pour ce jeune Prince. Vous avez vû tant de choses de sa façon, dont la lecture vous a fait
+          plaisir, qu’il me seroit inutile de vouloir vous prévenir sur celuy que vous devez
+          recevoir des Vers que vous allez lire.</p>
         <quote>
           <label>A SON A. ROYALE<lb/>MONSIEUR LE DUC<lb/>DE CHARTRES,<lb/>Sur son Mariage.</label>
           <lg>
@@ -122,20 +125,14 @@
             <l rend="i">Accablé que je suis &amp; d’ans &amp; de malheurs ;</l>
             <l rend="i">Et c’est le souvenir &amp; la reconnoissance</l>
             <l rend="i"> Qui me font dans mon impuissance</l>
-            <l>
-              <hi rend="i">Pousser ces derniers chants en domptant des douleurs</hi>
-            </l>
-            <l>
-              <hi rend="i">Qui pourroient des plus forts abatre la constance.</hi>
-            </l>
+            <l><hi rend="i">Pousser ces derniers chants en domptant des douleurs</hi></l>
+            <l><hi rend="i">Qui pourroient des plus forts abatre la constance.</hi></l>
           </lg>
           <ab type="ornament">***</ab>
           <lg>
             <l rend="i"> Mon desordre paroist assez</l>
             <l rend="i"> Dans le desordre de mes Rimes.</l>
-            <l>
-              <hi rend="i">Ces Vers irreguliers par tout embarassez,</hi>
-            </l>
+            <l><hi rend="i">Ces Vers irreguliers par tout embarassez,</hi></l>
             <l rend="i"> En sont des témoins legitimes.</l>
           </lg>
           <ab type="ornament">***</ab>
@@ -149,6 +146,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

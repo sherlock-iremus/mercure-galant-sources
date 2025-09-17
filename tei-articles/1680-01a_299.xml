@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div><head>[Mort du Sieur Guichard à Madrid]</head><bibl><title>Mercure galant</title>, janvier 1680 [tome 1], p. 299.<note resp="editor"><ref target="MG-1680-02_261">Cet article</ref> dément ce décès.</note></bibl>1688-03 <p>Le Sieur Guichard, dont la passion dominante estoit de mettre tout en usage pour faire des Opéra, &amp; en établir en quelque lieu du monde que ce fust, est mort à Madrid, apres avoir crû estre venu a bout de son dessein. </p></div>
-    </body>
+    <body><div>
+        <head>[Mort du Sieur Guichard à Madrid]</head>
+        <bibl><title>Mercure galant</title>, janvier 1680 [tome 1], p. 299.<note resp="editor"><ref target="MG-1680-02_261">Cet article</ref> dément ce décès.</note></bibl>1688-03
+        <p>Le Sieur Guichard, dont la passion dominante estoit de mettre tout en usage pour faire des Opéra, &amp; en établir en quelque lieu du monde que ce fust, est mort à Madrid, apres avoir crû estre venu a bout de son dessein. </p>
+      </div>
+      </body>
   </text>
 </TEI>

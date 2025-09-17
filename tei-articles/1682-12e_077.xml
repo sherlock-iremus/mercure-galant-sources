@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>De la Conversation</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier d’octobre 1682 [tome XX], p. 77-166.</bibl>
         <quote>
@@ -92,6 +91,6 @@
           <p><hi rend="sc">De la Fevrerie</hi>.</p>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

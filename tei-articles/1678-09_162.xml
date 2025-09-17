@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Sonnets, et autres Pieces sur la Paix]</head>
         <bibl><title>Mercure galant</title>, septembre 1678 [tome 9], p. 162-167.</bibl>
-        <p>L’impatience qu’on a de loüer le Roy sur la Paix, est si grande, qu’on n’attend point qu’on l’ait publiée, pour donner à sa modération les justes éloges qu’elle mérite. Je reserve beaucoup de Pieces sur cette matiere pour ma Lettre Extraordinaire que je vous promets le 15. d’Octobre. Je vous en envoye cependent quelques-unes. Le premier des deux Sonnets que vous allez voir, est de M<hi rend="sup">r</hi> le Coin de S. Charmond en Lyonnois.</p>
+        <p>L’impatience qu’on a de loüer le Roy sur la Paix, est si grande, qu’on n’attend point
+          qu’on l’ait publiée, pour donner à sa modération les justes éloges qu’elle mérite. Je
+          reserve beaucoup de Pieces sur cette matiere pour ma Lettre Extraordinaire que je vous
+          promets le 15. d’Octobre. Je vous en envoye cependent quelques-unes. Le premier des deux
+          Sonnets que vous allez voir, est de M<hi rend="sup">r</hi> le Coin de S. Charmond en
+          Lyonnois.</p>
         <quote>
           <label rend="center">SONNET <lb/>SUR LA PAIX.</label>
           <lg>
@@ -85,6 +89,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

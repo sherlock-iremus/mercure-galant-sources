@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,17 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, mars 1679 [tome 3], p. 42-43.</bibl>
-        <p>Il faut vous faire part des souhaits qui ont esté faits pour le retour du Printemps où nous commençons d’entrer. Les Paroles sont de M<hi rend="sup">r</hi> Noël, Homme d’un fort grand merite, &amp; que je vous ay déjà dit que la Ville de Chartres avoit choisy pour son Avocat. Elles ont esté mises en Air par M<hi rend="sup">r</hi> le Redde.</p>
+        <p>Il faut vous faire part des souhaits qui ont esté faits pour le retour du Printemps où
+          nous commençons d’entrer. Les Paroles sont de M<hi rend="sup">r</hi> Noël, Homme d’un fort
+          grand merite, &amp; que je vous ay déjà dit que la Ville de Chartres avoit choisy pour son
+          Avocat. Elles ont esté mises en Air par M<hi rend="sup">r</hi> le Redde.</p>
         <quote>
-          <label>AIR NOUVEAU.</label>
-          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Ah, que l’Hyver est ennuyeux</hi>, doit regarder la page 42.</note>
+          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour
+              placer les Figures</hi> : l’Air qui commence par <hi rend="i">Ah, que l’Hyver est
+              ennuyeux</hi>, doit regarder la page 42.</note>
           <lg>
             <l rend="i"><seg type="tab">    </seg>Ah, que l’Hyver est ennuyeux !</l>
             <l rend="i"><seg type="tab">    </seg>Durera-t-il longtemps encore ?</l>
@@ -40,6 +43,6 @@
           </figure>
         </ref>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

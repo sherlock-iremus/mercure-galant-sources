@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Le Vin de Brie</head>
         <bibl><title>Mercure galant</title>, avril 1694 [tome 4], p. 37-48.</bibl>
-        <p>Voicy un Ouvrage nouveau de M<hi rend="sup">r</hi> de Vin. Vous connoissez son heureux talent pour la Poësie, &amp; je croirois luy faire tort, ainsi qu’à vostre discernement, si je vous disois rien de plus pour vous préparer à faire une agreable lecture.</p>
+        <p>Voicy un Ouvrage nouveau de M<hi rend="sup">r</hi> de Vin. Vous connoissez son heureux
+          talent pour la Poësie, &amp; je croirois luy faire tort, ainsi qu’à vostre discernement,
+          si je vous disois rien de plus pour vous préparer à faire une agreable lecture.</p>
         <quote>
           <label>LE VIN DE BRIE.</label>
           <lg>
@@ -155,6 +156,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

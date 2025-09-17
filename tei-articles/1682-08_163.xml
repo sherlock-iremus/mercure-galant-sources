@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head resp="editor">Vers de Mlle de Scudéry.</head>
         <bibl><title>Mercure galant</title>, août 1682 [tome 8], p. 163-165.</bibl>
-        <p>[...] Cette Naissance a fait faire quantité de Vers. Je vous en envoye quelques-uns. En voicy de l’illustre Mademoiselle de Scudéry.</p>
+        <p>[...] Cette Naissance a fait faire quantité de Vers. Je vous en envoye quelques-uns. En
+          voicy de l’illustre Mademoiselle de Scudéry.</p>
         <quote>
           <label><hi rend="sc">A Monseigneur</hi><lb/>LE DUC DE BOURGOGNE.</label>
           <lg>
@@ -45,6 +45,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

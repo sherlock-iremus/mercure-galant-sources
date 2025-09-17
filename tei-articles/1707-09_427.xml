@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,25 +14,20 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>Avis très important</head>
-        <bibl><title>Mercure galant</title>, septembre 1707 [tome 9], p. 427-428.</bibl>
-        <quote>
-          <label>AVIS TRES-IMPORTANT</label>
-          <p>On debitera le Mercure d’Octobre le 4. de Novembre, &amp; le lendemain de la Saint Martin, sans aucune remise, on vendra la Relation intitulée :</p>
-          <quote>
-            <label>
-              <hi rend="sc">histoire du siege de toulon.</hi>
-            </label>
-            <p>
-              <hi rend="i">Où l’on voit les raisons politiques qui ont fait agir ceux qui l’ont entrepris, &amp; tout ce qui s’est passé depuis le jour que Monsieur de Savoye est entré en Provence jusqu’au jour que ce Prince en est sorty.</hi>
-            </p>
-            <p>Avec un Plan qui n’a point encore esté vû.</p>
-          </quote>
-          <p>Ceux qui voudront envoyer des Memoires touchant ce Siege doivent les envoyer incessamment.</p>
-        </quote>
-      </div>
-    </body>
+    <body><div>
+<head>Avis très important</head>
+<bibl><title>Mercure galant</title>, septembre 1707 [tome 9], p. 427-428.</bibl>
+<quote>
+<label>AVIS TRES-IMPORTANT</label>
+<p>On debitera le Mercure d’Octobre le 4. de Novembre, &amp; le lendemain de la Saint Martin, sans aucune remise, on vendra la Relation intitulée :</p>
+<quote>
+<label><hi rend="sc">histoire du siege de toulon.</hi></label>
+<p><hi rend="i">Où l’on voit les raisons politiques qui ont fait agir ceux qui l’ont entrepris, &amp; tout ce qui s’est passé depuis le jour que Monsieur de Savoye est entré en Provence jusqu’au jour que ce Prince en est sorty.</hi></p>
+<p>Avec un Plan qui n’a point encore esté vû.</p>
+</quote>
+<p>Ceux qui voudront envoyer des Memoires touchant ce Siege doivent les envoyer incessamment.</p>
+</quote>
+</div>
+</body>
   </text>
 </TEI>

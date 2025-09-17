@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,24 +14,22 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, septembre 1698 [tome 9], p. 150-151.</bibl>
-        <p>Les Vers que vous allez lire meritent un aussi bel air que celuy que vous trouverez dans les paroles que j'ay fait graver <note resp="editor">Ces vers ont été publiés une première fois en juillet précédent (cf. <ref target="MG-1698-07_268a">cet article</ref>), mais l’air noté, qui figure dans certains exemplaires (<ref target="https://gallica.bnf.fr/ark:/12148/bpt6k62663022/f271.image">F-Pn/ NUMP-1361</ref> et <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k62669395/f150.image">F-Pn/ 8-LC2-33</ref> ainsi que dans le recueil des airs du <hi rend="italic">Mercure galant</hi> conservé à Grenoble (F-Gm/ C 1551), a été remplacé par erreur, dans d’autres exemplaires (F-Pn/ 8-LC2-38 et F-LYm/ 807156 (ce dernier en ligne sur Google Books) par un autre air gravé, « Quand l’Amour veut toucher nostre âme » (cf. MG-1698-07_268b), sans lien avec l’article adjacent. Il s’agit probablement d’une erreur du relieur chargé d’insérer les planches dans les <hi rend="italic">Mercure galant</hi> vendus reliés. La réédition des vers « Quand je vous vois belle Philis » en septembre visait manifestement à corriger l’erreur et à publier la planche gravée que certains lecteurs n’avaient pas reçue en juillet. Elle figure dans le <hi rend="italic">Mercure</hi> au mois de septembre dans l'exemplaire F-Pn/ 8-LC2-38 (et manque dans F-LYm/ 807156).</note>.</p>
-        <quote>
-          <label>AIR NOUVEAU.</label>
-          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par <hi rend="i">Quand je vous vois, belle Philis</hi>, doit regarder la page 151.</note>
-          <lg>
-            <l rend="i">Quand je vous vois, belle Philis,</l>
-            <l rend="i">Je suis tout interdit, je tremble, je paslis,</l>
-            <l rend="i">Je ne me connois plus moy-mesme.</l>
-            <l rend="i">Bien souvent loin de ce Hameau,</l>
-            <l rend="i">Je laisse égarer mon Troupeau.</l>
-            <l rend="i">Jugez de mon amour par ce desordre extréme.</l>
-          </lg>
-        </quote>
+        <p>Les Vers que vous allez lire meritent un aussi bel air que celuy que vous trouverez dans les paroles que j'ay fait graver <note resp="editor">Ces vers ont été publiés une première fois en juillet précédent (cf. <ref target="MG-1698-07_268a">cet article</ref>), mais l’air noté, qui figure dans certains exemplaires (<ref target="https://gallica.bnf.fr/ark:/12148/bpt6k62663022/f271.image">F-Pn/ NUMP-1361</ref> et <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k62669395/f150.image">F-Pn/ 8-LC2-33</ref> ainsi que dans le recueil des airs du <hi rend="italic">Mercure galant</hi> conservé à Grenoble (F-Gm/ C 1551), a été remplacé par erreur, dans d’autres exemplaires (F-Pn/ 8-LC2-38 et F-LYm/ 807156 (ce dernier en ligne sur Google Books) par un autre air gravé, « Quand l’Amour veut toucher nostre âme » (cf.  MG-1698-07_268b), sans lien avec l’article adjacent. Il s’agit probablement d’une erreur du relieur chargé d’insérer les planches dans les <hi rend="italic">Mercure galant</hi> vendus reliés. La réédition des vers « Quand je vous vois belle Philis » en septembre visait manifestement  à corriger l’erreur et à publier la planche gravée que certains lecteurs n’avaient pas reçue en juillet. Elle figure dans le <hi rend="italic">Mercure</hi> au mois de septembre dans l'exemplaire F-Pn/ 8-LC2-38 (et manque dans F-LYm/ 807156).</note>.</p>
+          <quote>
+            <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par <hi rend="i">Quand je vous vois, belle Philis</hi>, doit regarder la page 151.</note>
+            <lg>
+              <l rend="i">Quand je vous vois, belle Philis,</l>
+              <l rend="i">Je suis tout interdit, je tremble, je paslis,</l>
+              <l rend="i">Je ne me connois plus moy-mesme.</l>
+              <l rend="i">Bien souvent loin de ce Hameau,</l>
+              <l rend="i">Je laisse égarer mon Troupeau.</l>
+              <l rend="i">Jugez de mon amour par ce desordre extréme.</l>
+            </lg>
+          </quote>
       </div>
-    </body>
+        </body>
   </text>
 </TEI>

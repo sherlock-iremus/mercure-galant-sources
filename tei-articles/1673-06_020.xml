@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>[Impromptu de M. le Duc de R…. sur lequel Mes. Lambert &amp; le Camus ont fait chacun un Air]</head>
+    <body><div>
+        <head>[Impromptu de M. le Duc de R…. sur lequel Mes. Lambert &amp; le Camus ont fait chacun
+          un Air]</head>
         <bibl><title>Le Mercure galant</title>,1673, tome VI, p. 20.</bibl>
-        <p>Monsieur Lambert a fait un air sur ces paroles. Je ne vous dit point qu’il est beau, Monsieur Lambert n’en sçauroit faire d’autres. Voicy un autre Couplet fait impromptu par Monsieur le Duc de *** sur une belle Personne qui venoit de chanter devant luy. Monsieur Lambert a fait un Air dessus, &amp; Monsieur le Camus en a fait un aussi.</p>
+        <p>Monsieur Lambert a fait un air sur ces paroles. Je ne vous dit point qu’il est beau,
+          Monsieur Lambert n’en sçauroit faire d’autres. Voicy un autre Couplet fait impromptu par
+          Monsieur le Duc de *** sur une belle Personne qui venoit de chanter devant luy. Monsieur
+          Lambert a fait un Air dessus, &amp; Monsieur le Camus en a fait un aussi.</p>
         <quote rend="border">
           <label rend="center b">Chanson.</label>
           <l>QUe ta Voix divine me touche,</l>
@@ -27,6 +30,6 @@
           <l>La plaisir qu’elle m’a donné.</l>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

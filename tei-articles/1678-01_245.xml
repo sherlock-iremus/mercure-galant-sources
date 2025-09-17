@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Autre Enigme]</head>
         <bibl><title>Mercure galant</title>, janvier 1678 [tome 1], p. 245-246.</bibl>
-        <p>Si cette Enigme embarasse vos Amies par sa longueur, elles auront à choisir de cette autre qui n’est que de quatre Vers, &amp; qui a esté faite par une belle Personne de Vernon.</p>
+        <p>Si cette Enigme embarasse vos Amies par sa longueur, elles auront à choisir de cette
+          autre qui n’est que de quatre Vers, &amp; qui a esté faite par une belle Personne de
+          Vernon.</p>
         <quote rend="border">
           <label rend="center">Enigme.</label>
           <l>JAmais par moy lieux bas ne furent habitez,</l>
@@ -27,6 +28,6 @@
           <l>Quoy que de regarder je n’aye aucune envie.</l>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

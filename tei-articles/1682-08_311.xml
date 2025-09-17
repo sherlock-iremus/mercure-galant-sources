@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head resp="editor">Devises au Collège de Clermont.</head>
         <bibl><title>Mercure galant</title>, août 1682 [tome 8], p. 311-312.</bibl>
-        <p>[...] Les plus celébres Historiens du Royaume représentez aussi en Termes, portoient la grande Corniche, où l’on voyoit les Médailles de nos Roys. Vingt-deux Devises, &amp; autant d’Inscriptions tirées des anciens Poëtes, estoient dans des Bordures dorées. Toutes ces diversitez occuperent agreablement les Curieux, pendant deux jours qu’elles furent exposées.</p>
+        <p>[...] Les plus celébres Historiens du Royaume représentez aussi en Termes, portoient la
+          grande Corniche, où l’on voyoit les Médailles de nos Roys. Vingt-deux Devises, &amp;
+          autant d’Inscriptions tirées des anciens Poëtes, estoient dans des Bordures dorées. Toutes
+          ces diversitez occuperent agreablement les Curieux, pendant deux jours qu’elles furent
+          exposées.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

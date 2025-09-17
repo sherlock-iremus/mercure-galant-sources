@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Chanson pour Madame la Mareschale de Lorge, dont l’Air est de M. d’Ambroüys]</head>
         <bibl><title>Le Nouveau Mercure galant</title>, août 1677 [tome VI], p. 15-16.</bibl>
         <p>Les deux Couplets qui suivent sont pour Madame la Mareschale de Lorge. L’Air en a esté fait par M<hi rend="sup">r</hi> Dambroüys.</p>
@@ -36,6 +35,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

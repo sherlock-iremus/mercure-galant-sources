@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>L’Horloge des Amans</head>
         <bibl><title>Le Nouveau Mercure galant</title>, septembre 1677 [tome VII], p. 58-64.</bibl>
         <p>Apparemment c’estoit quelque larcin fait à l’honneur qu’on avoit voulu cacher en l’exposant dans les Bois. Il s’en fait beaucoup d’autres dans le monde dont on ne dit mot, &amp; il n’est point de Belle qui n’ait son heure dangereuse quand les Amans s’attachent à l’observer. Les Prudes mesmes ne s’en sauvent pas. Voyez ce qu’un Expert sur cette matiere en a ingénieusement écrit depuis peu.</p>
@@ -100,6 +99,6 @@
         </quote>
         <p>Je ne sçay si l’Autheur de ces Vers est aussi bien fondé en raison qu’il le croit estre, mais je sçay que vous en avez beaucoup, d’estimer autant que vous faites le Compliment que je vous ay envoyé de M<hi rend="sup">r</hi> de Roubin.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

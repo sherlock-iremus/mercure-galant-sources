@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,26 +14,25 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>Priere pour le Roy</head>
-        <bibl><title>Mercure galant</title>, septembre 1687 (première partie) [tome 13], p. 8-9</bibl>
-        <p/>
-        <quote>
-          <label>PRIERE<lb/>POUR LE ROY.</label>
-          <lg>
-            <l rend="i">En chantant de LOVIS les vertus heroïques,</l>
-            <l rend="i">Seigneur, nous vous prions de nous le conserver,</l>
-            <l rend="i">Par tout on vous en fait des prieres publiques,</l>
-            <l rend="i">Icy c’est une Loy que l’on doit observer.</l>
-            <l rend="i">De ce juste devoir chacun de nous s’acquite,</l>
-            <l rend="i">Il est l’unique espoir de nos felicitez,</l>
-            <l rend="i">Le moyen que nos vœux ne soient pas écoutez ?</l>
-            <l rend="i">Si nos Chants ne sçauroient épuiser son merite,</l>
-            <l rend="i">Croirons-nous de pouvoir épuiser vos bontez ?</l>
-          </lg>
-        </quote>
-      </div>
-    </body>
+    <body><div>
+          <head>Priere pour le Roy</head>
+          <bibl><title>Mercure galant</title>, septembre 1687 (première partie) [tome 13], p. 8-9</bibl>
+          <p/>
+          <quote>
+            <label>PRIERE<lb/>POUR LE ROY.</label>
+            <lg>
+              <l rend="i">En chantant de LOVIS les vertus heroïques,</l>
+              <l rend="i">Seigneur, nous vous prions de nous le conserver,</l>
+              <l rend="i">Par tout on vous en fait des prieres publiques,</l>
+              <l rend="i">Icy c’est une Loy que l’on doit observer.</l>
+              <l rend="i">De ce juste devoir chacun de nous s’acquite,</l>
+              <l rend="i">Il est l’unique espoir de nos felicitez,</l>
+              <l rend="i">Le moyen que nos vœux ne soient pas écoutez ?</l>
+              <l rend="i">Si nos Chants ne sçauroient épuiser son merite,</l>
+              <l rend="i">Croirons-nous de pouvoir épuiser vos bontez ?</l>
+            </lg>
+          </quote>
+        </div>
+        </body>
   </text>
 </TEI>

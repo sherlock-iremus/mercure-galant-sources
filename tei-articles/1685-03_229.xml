@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,16 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, mars 1685 [tome 3], p. 229-230.</bibl>
-        <p>Quoy que le Printemps ait commencé, la Saison est encore si rude, que rien n'y sçauroit mieux convenir que les paroles suivantes. C'est un fort habile Maistre qui les a mises en Air.</p>
+        <p>Quoy que le Printemps ait commencé, la Saison est encore si rude, que rien n'y sçauroit
+          mieux convenir que les paroles suivantes. C'est un fort habile Maistre qui les a mises en
+          Air.</p>
         <quote>
-          <label>AIR NOUVEAU.</label>
-          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Vents qui portez par tout vostre funeste rage</hi>, doit regarder la page 229.</note>
+          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour
+              placer les Figures</hi> : l’Air qui commence par <hi rend="i">Vents qui portez par
+              tout vostre funeste rage</hi>, doit regarder la page 229.</note>
           <lg>
             <l rend="i">Vents qui portez par tout vostre funeste rage,</l>
             <l rend="i">Redoublez, redoublez vos bruits impétueux,</l>
@@ -39,6 +41,6 @@
           </figure>
         </ref>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

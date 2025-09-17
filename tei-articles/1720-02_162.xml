@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,68 +14,35 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Chanson.</head>
         <bibl><title>Nouveau Mercure </title>, février 1720 [tome 2], p.162-163.</bibl>
         <quote>
           <label>CHANSON <note resp="editor">Au départ de la musique : « Chanson par M. D. L. B. pour Mr...... ».</note>.</label>
           <lg>
-            <l>
-              <hi rend="i">Loin de vos yeux je soupire,</hi>
-            </l>
-            <l>
-              <hi rend="i">Et mon cœur est aux abois ;</hi>
-            </l>
-            <l>
-              <hi rend="i">Mais j'ai ce que je desire</hi>
-            </l>
-            <l>
-              <hi rend="i">À l'instant que je vous vois.</hi>
-            </l>
-          </lg>
+            <l><hi rend="i">Loin de vos yeux je soupire,</hi></l>
+            <l><hi rend="i">Et mon cœur est aux abois ;</hi></l> 
+            <l><hi rend="i">Mais j'ai ce que je desire</hi></l>
+            <l><hi rend="i">À l'instant que je vous vois.</hi></l> 
+            </lg>
           <lg>
-            <l>
-              <hi rend="i">Si la fortune inhumaine</hi>
-            </l>
-            <l>
-              <hi rend="i">Vient traverser mes desirs :</hi>
-            </l>
-            <l>
-              <hi rend="i">Amour, adoucis ma peine,</hi>
-            </l>
-            <l>
-              <hi rend="i">Par l'attente des plaisirs.</hi>
-            </l>
-          </lg>
+            <l><hi rend="i">Si la fortune inhumaine</hi></l>
+            <l><hi rend="i">Vient traverser mes desirs :</hi></l> 
+            <l><hi rend="i">Amour, adoucis ma peine,</hi></l>
+            <l><hi rend="i">Par l'attente des plaisirs.</hi></l> 
+          </lg> 
           <lg>
-            <l>
-              <hi rend="i">C'est toi, flateuse esperance,</hi>
-            </l>
-            <l>
-              <hi rend="i">Qui fais vivre un tendre Amant :</hi>
-            </l>
-            <l>
-              <hi rend="i">Tu calmes la violence</hi>
-            </l>
-            <l>
-              <hi rend="i">Que lui cause son tourment.</hi>
-            </l>
-            <l>
-              <hi rend="i">Si la fortune inhumaine,</hi>
-            </l>
-            <l>
-              <hi rend="i">Vient traverser ses désirs ;</hi>
-            </l>
-            <l>
-              <hi rend="i">Tu fais adoucir sa peine</hi>
-            </l>
-            <l>
-              <hi rend="i">Par l'attente des plaisirs.</hi>
-            </l>
-          </lg>
+            <l><hi rend="i">C'est toi, flateuse esperance,</hi></l>
+            <l><hi rend="i">Qui fais vivre un tendre Amant :</hi></l> 
+            <l><hi rend="i">Tu calmes la violence</hi></l>
+            <l><hi rend="i">Que lui cause son tourment.</hi></l> 
+            <l><hi rend="i">Si la fortune inhumaine,</hi></l>
+            <l><hi rend="i">Vient traverser ses désirs ;</hi></l> 
+            <l><hi rend="i">Tu fais adoucir sa peine</hi></l>
+            <l><hi rend="i">Par l'attente des plaisirs.</hi></l>
+          </lg> 
         </quote>
-      </div>
-    </body>
+      </div>      
+            </body>
   </text>
 </TEI>

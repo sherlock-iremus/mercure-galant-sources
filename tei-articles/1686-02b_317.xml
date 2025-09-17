@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>[Devise pour Sa Majesté, sur le sujet des Conversions, par le Pere Mourgues, Jesuite]</head>
+    <body><div>
+        <head>[Devise pour Sa Majesté, sur le sujet des Conversions, par le Pere Mourgues,
+          Jesuite]</head>
         <bibl><title>Mercure galant</title>, février 1686 (deuxième partie) [tome 3], p. 317</bibl>
         <quote>
-          <label>DEVISE<lb/><hi rend="sc">Pour sa Majesté</hi>,<lb/>sur le sujet des Conversions<lb/>presentes.</label>
+          <label>DEVISE<lb/><hi rend="sc">Pour sa Majesté</hi>,<lb/>sur le sujet des
+            Conversions<lb/>presentes.</label>
           <label>Le corps est un Champ semé d’Heliotropes tournez vers le Soleil. Et l’ame est, <hi rend="i">Ex te conversio nostra.</hi></label>
           <lg>
             <l rend="i"> Du Ciel descend l’attrait qui vers vous nous entraine,</l>
@@ -30,6 +31,6 @@
           <p>Le Pere Mourgues, Jesuite.</p>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

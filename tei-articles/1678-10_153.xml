@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,92 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Lettre touchant l’origine des Cadrans]</head>
         <bibl><title>Mercure galant</title>, octobre 1678 [tome 10], p. 153-166.</bibl>
-        <p>Je m’imaginois bien, Madame, que sur la lecture de la Lettre qui finit celle que je vous ay envoyée extraordinairement depuis quinze jours, vous me presseriez de vous tenir parole touchant les deux autres que je vous promettois. Il est juste de vous satisfaire. Vous vous souviendrez qu’elles me sont venuës de Lyon. Je ne puis vous dire à qui elles sont adressées ; mais je ne hazarde rien en vous assurant que l’explication de l’Enigme du Cadran qu’elles contiennent, est accompagnée de quantité de Remarques fort curieuses dont vous me sçaurez bon gré de vous avoir fait part.</p>
+        <p>Je m’imaginois bien, Madame, que sur la lecture de la Lettre qui finit celle que je vous
+          ay envoyée extraordinairement depuis quinze jours, vous me presseriez de vous tenir parole
+          touchant les deux autres que je vous promettois. Il est juste de vous satisfaire. Vous
+          vous souviendrez qu’elles me sont venuës de Lyon. Je ne puis vous dire à qui elles sont
+          adressées ; mais je ne hazarde rien en vous assurant que l’explication de l’Enigme du
+          Cadran qu’elles contiennent, est accompagnée de quantité de Remarques fort curieuses dont
+          vous me sçaurez bon gré de vous avoir fait part.</p>
         <quote>
           <label rend="center">Lettre I.</label>
           <label rend="center">A. M. D. R</label>
-          <p>VOUS estes un étrange Homme. Vous demandez les choses d’une maniere si absoluë, qu’on ne vous peut refuser. Sçavez-vous que pour trop demander, il en couste souvent, &amp; que si je me mets une fois en train de parler, vous n’en serez pas quitte à si bon marché que vous pensez ? Mais baste, si je vous dérobe quelques momens, c’est vostre faute. Il y a deux jours que revenant de chez Madame de T. nous parlâmes vous &amp; moy du Mercure. Je vous dis ma pensée sur l’Enigme de la Statuë de Memnon. Nous eusmes mesme une assez longue conversation, &amp; je croyois en estre quitte pour cela. Vous voulez, cependant, que je vous marque ma pensée dans les formes, &amp; que j’y ajoûte, dites-vous, quelques traits pour l’embellir. On diroit à vous entendre parler, qu’il seroit aussi aisé de trouver de jolies choses, qu’il me l’a esté de deviner que l’Enigme est le Cadran. Pour le premier, il faut de cet Espit que Mademoiselle B. apelloit l’autre jour assez plaisamment <hi rend="i">de l’Esprit Mercurialisé</hi>, &amp; ce n’est pas chez moy qu’on en trouve. Pour l’autre, il ne faut souvent qu’un peu de hazard ; mais soit hazard ou non, je croy avoir rencontré juste. Memnon estoit né dans ces Païs où le Soleil semble se lever. Il estoit de l’extrémité de l’Orient ; c’estoit assez aux Poëtes qui aimoient à couvrir l’Histoire mesme de voiles ingénieux pour dire qu’il estoit Fils de l’Aurore. Il estoit Prince des Ethiopiens &amp; des Egyptiens. Ces deux Peuples estoient joints. Ils avoient les mesmes Dieux, &amp; presque les mesmes Coûtumes. Les Ethiopiens s’estoient rendus maistres de l’Egypte. Ainsi ceux qui le font Ethiopien n’ont pas tort ; mais à parler juste, il estoit Egyptien, &amp; né dans cette fameuses Thebes d’Egypte à cent Portes, qu’on pouvoit apeller une Ville de Miracles. Elle estoit presque toute bastie en l’air. Je vous en pourrois mander cent jolies choses, mais elles ne sont pas de mon sujet. Il me semble que c’est avec assez de raison qu’on a cherché l’Emblême du Cadran chez les Autheurs de l’Astrologie &amp; des Mathematiques, &amp; dans le Parentage de l’Aurore &amp; du Soleil. On voit cette Statuë de Memnon à Thebes dans le fameux Temple de Serapis. Elle estoit de Marbre noir, tournée du costé du Soleil levant, &amp; representoit un jeune Homme qui sembloit vouloir se lever. L’Autheur de l’Enigme en Figure ne nous l’a pas representée dans un Temple, mais dans une espece de Jardin, aparemment pour garder davantage la justesse de l’Enigme. J’avoüe que cette situation n’a pas peu contribué à me la faire deviner. Ce lieu champestre, ces Arbres, &amp; ces fleurs, ne marquent pas mal que c’est d’ordinaire à la Campagne &amp; dans les Jardins qu’on éleve &amp; qu’on trouve les Cadrans. Vous sçavez qu’elle est leur utilité dans ces lieux aimables, où l’on vit d’une maniere si douce, &amp; si innocente ; où l’on respire l’air tout pur ; où le soleil luy-mesme dispense tous les biens ; &amp; où l’on ne connoist d’heures &amp; de saisons que celles que marque ou sa lumiere, ou son ombre. Là ces Cadrans rendent des réponses plus seûres que celles des anciens Oracles. On les va consulter en foule. C’est ce que representent ces Gens qui sont autour de la Statuë. Tous les Oracles anciens avoient leur nuit. Je veux dire qu’ils ne parloient pas toûjours. Les Dieux se plaisoient souvent à se taire. Nul Oracle n’eut pourtant jamais une destinée si changeante que la Statuë de Memnon. Le Soleil sembloit luy donner la vie. La Nuit la condamnoit au silence ; les Cadrans ne parlent plus dés que le Soleil cesse de les éclairer. Autrefois ils estoient aussi fréquens dans les Villes qu’ils le sont presentement dans nos Jardins. C’estoit l’ornement des grandes Places. Le premier que l’on ait fait, au moins en Europe, fut dressé dans la Place publique de Lacedémone. Athenes &amp; Rome n’en manquoient pas. On doit le premier qui fut dressé dans cette derniere Ville, au Consul Messala, ou à Papirius Cursor. On l’éleva en public proche de la Tribune aux Harangues. C’estoit où s’alloient promener les Gens de loisir. La Colomne où il estoit dressé me fait songer au Piedestal sur lequel est posée la Statuë de Memnon. Ne trouvez-vous pas que cela s’accorde extrémement bien ? Vous savez qu’on a encor cette coûtume de les élever sur quelque Base. Avant que les Romains eussent ce Cadran qui fut construit environ le temps de la premiere Guerre de Carthage, ils estoient furieusement ignorans dans la division du jour. Ils en sçavoient moins que nos plus grossiers Païsans. Ils ne connoissoient que le soir &amp; le matin ; &amp; ils crûrent leur science fort augmentée quand on y joignit le midy. Un Crieur public se tenoit au guet dans le lieu où l’on assembloit le Senat, &amp; dés qu’il apercevoit le Soleil entre la Tribune aux Harangues, &amp; le lieu qu’ils apelloient Station des Grecs, où s’arrestoient les Ambassadeurs qu’on envoyait au senat ; lors, dis-je, que le Soleil estoit là, il s’écrioit à haute voix qu’il estoit midy. Revenons à nostre Enigme. Prenez garde à toute la posture du corps de la Statuë, &amp; vous verrez qu’elle ne vient pas mal à un Cadran au Soleil. Cette main avancée semble dépeindre assez naturellement l’Ombre. Cette teste a assez de l’air de l’aiguille, ou du style de Cadran que les Anciens appelloient <hi rend="i">Gnomon</hi>. Au reste leurs Cadrans n’estoient pas tout à fait comme les nostres. C’estoient des especes de Coquilles ou des Plats-creux faits en façon de demy cercles, marquez de lignes également distantes, avec une espece de baston au milieu. Vous pouvez en avoir veu de cette façon. Ce Globe qu’on a mis sous le pied de la Statuë n’est pas sans dessein. Vous avez pû remarquer qu’on en grave quelquefois la figure proche de ces Cadrans, &amp; on a coûtume de les joindre, aparemment parce que qui que ce soit qui les ait inventez, on donne presque toûjours le mesme Autheur au Globe &amp; à l’Horloge Solaire. Il me vient quelque chose en pensée sur la Statuë de Memnon que je pourray vous mander une autre fois. En voila plus qu’il n’en faut pour aujourd’huy.</p>
-        </quote>
-      </div>
-    </body>
+          <p>VOUS estes un étrange Homme. Vous demandez les choses d’une maniere si absoluë, qu’on
+            ne vous peut refuser. Sçavez-vous que pour trop demander, il en couste souvent, &amp;
+            que si je me mets une fois en train de parler, vous n’en serez pas quitte à si bon
+            marché que vous pensez ? Mais baste, si je vous dérobe quelques momens, c’est vostre
+            faute. Il y a deux jours que revenant de chez Madame de T. nous parlâmes vous &amp; moy
+            du Mercure. Je vous dis ma pensée sur l’Enigme de la Statuë de Memnon. Nous eusmes mesme
+            une assez longue conversation, &amp; je croyois en estre quitte pour cela. Vous voulez,
+            cependant, que je vous marque ma pensée dans les formes, &amp; que j’y ajoûte,
+            dites-vous, quelques traits pour l’embellir. On diroit à vous entendre parler, qu’il
+            seroit aussi aisé de trouver de jolies choses, qu’il me l’a esté de deviner que l’Enigme
+            est le Cadran. Pour le premier, il faut de cet Espit que Mademoiselle B. apelloit
+            l’autre jour assez plaisamment <hi rend="i">de l’Esprit Mercurialisé</hi>, &amp; ce
+            n’est pas chez moy qu’on en trouve. Pour l’autre, il ne faut souvent qu’un peu de
+            hazard ; mais soit hazard ou non, je croy avoir rencontré juste. Memnon estoit né dans
+            ces Païs où le Soleil semble se lever. Il estoit de l’extrémité de l’Orient ; c’estoit
+            assez aux Poëtes qui aimoient à couvrir l’Histoire mesme de voiles ingénieux pour dire
+            qu’il estoit Fils de l’Aurore. Il estoit Prince des Ethiopiens &amp; des Egyptiens. Ces
+            deux Peuples estoient joints. Ils avoient les mesmes Dieux, &amp; presque les mesmes
+            Coûtumes. Les Ethiopiens s’estoient rendus maistres de l’Egypte. Ainsi ceux qui le font
+            Ethiopien n’ont pas tort ; mais à parler juste, il estoit Egyptien, &amp; né dans cette
+            fameuses Thebes d’Egypte à cent Portes, qu’on pouvoit apeller une Ville de Miracles.
+            Elle estoit presque toute bastie en l’air. Je vous en pourrois mander cent jolies
+            choses, mais elles ne sont pas de mon sujet. Il me semble que c’est avec assez de raison
+            qu’on a cherché l’Emblême du Cadran chez les Autheurs de l’Astrologie &amp; des
+            Mathematiques, &amp; dans le Parentage de l’Aurore &amp; du Soleil. On voit cette Statuë
+            de Memnon à Thebes dans le fameux Temple de Serapis. Elle estoit de Marbre noir, tournée
+            du costé du Soleil levant, &amp; representoit un jeune Homme qui sembloit vouloir se
+            lever. L’Autheur de l’Enigme en Figure ne nous l’a pas representée dans un Temple, mais
+            dans une espece de Jardin, aparemment pour garder davantage la justesse de l’Enigme.
+            J’avoüe que cette situation n’a pas peu contribué à me la faire deviner. Ce lieu
+            champestre, ces Arbres, &amp; ces fleurs, ne marquent pas mal que c’est d’ordinaire à la
+            Campagne &amp; dans les Jardins qu’on éleve &amp; qu’on trouve les Cadrans. Vous sçavez
+            qu’elle est leur utilité dans ces lieux aimables, où l’on vit d’une maniere si douce,
+            &amp; si innocente ; où l’on respire l’air tout pur ; où le soleil luy-mesme dispense
+            tous les biens ; &amp; où l’on ne connoist d’heures &amp; de saisons que celles que
+            marque ou sa lumiere, ou son ombre. Là ces Cadrans rendent des réponses plus seûres que
+            celles des anciens Oracles. On les va consulter en foule. C’est ce que representent ces
+            Gens qui sont autour de la Statuë. Tous les Oracles anciens avoient leur nuit. Je veux
+            dire qu’ils ne parloient pas toûjours. Les Dieux se plaisoient souvent à se taire. Nul
+            Oracle n’eut pourtant jamais une destinée si changeante que la Statuë de Memnon. Le
+            Soleil sembloit luy donner la vie. La Nuit la condamnoit au silence ; les Cadrans ne
+            parlent plus dés que le Soleil cesse de les éclairer. Autrefois ils estoient aussi
+            fréquens dans les Villes qu’ils le sont presentement dans nos Jardins. C’estoit
+            l’ornement des grandes Places. Le premier que l’on ait fait, au moins en Europe, fut
+            dressé dans la Place publique de Lacedémone. Athenes &amp; Rome n’en manquoient pas. On
+            doit le premier qui fut dressé dans cette derniere Ville, au Consul Messala, ou à
+            Papirius Cursor. On l’éleva en public proche de la Tribune aux Harangues. C’estoit où
+            s’alloient promener les Gens de loisir. La Colomne où il estoit dressé me fait songer au
+            Piedestal sur lequel est posée la Statuë de Memnon. Ne trouvez-vous pas que cela
+            s’accorde extrémement bien ? Vous savez qu’on a encor cette coûtume de les élever sur
+            quelque Base. Avant que les Romains eussent ce Cadran qui fut construit environ le temps
+            de la premiere Guerre de Carthage, ils estoient furieusement ignorans dans la division
+            du jour. Ils en sçavoient moins que nos plus grossiers Païsans. Ils ne connoissoient que
+            le soir &amp; le matin ; &amp; ils crûrent leur science fort augmentée quand on y
+            joignit le midy. Un Crieur public se tenoit au guet dans le lieu où l’on assembloit le
+            Senat, &amp; dés qu’il apercevoit le Soleil entre la Tribune aux Harangues, &amp; le
+            lieu qu’ils apelloient Station des Grecs, où s’arrestoient les Ambassadeurs qu’on
+            envoyait au senat ; lors, dis-je, que le Soleil estoit là, il s’écrioit à haute voix
+            qu’il estoit midy. Revenons à nostre Enigme. Prenez garde à toute la posture du corps de
+            la Statuë, &amp; vous verrez qu’elle ne vient pas mal à un Cadran au Soleil. Cette main
+            avancée semble dépeindre assez naturellement l’Ombre. Cette teste a assez de l’air de
+            l’aiguille, ou du style de Cadran que les Anciens appelloient <hi rend="i">Gnomon</hi>.
+            Au reste leurs Cadrans n’estoient pas tout à fait comme les nostres. C’estoient des
+            especes de Coquilles ou des Plats-creux faits en façon de demy cercles, marquez de
+            lignes également distantes, avec une espece de baston au milieu. Vous pouvez en avoir
+            veu de cette façon. Ce Globe qu’on a mis sous le pied de la Statuë n’est pas sans
+            dessein. Vous avez pû remarquer qu’on en grave quelquefois la figure proche de ces
+            Cadrans, &amp; on a coûtume de les joindre, aparemment parce que qui que ce soit qui les
+            ait inventez, on donne presque toûjours le mesme Autheur au Globe &amp; à l’Horloge
+            Solaire. Il me vient quelque chose en pensée sur la Statuë de Memnon que je pourray vous
+            mander une autre fois. En voila plus qu’il n’en faut pour aujourd’huy.</p>
+          </quote>
+     </div>
+      </body>
   </text>
 </TEI>

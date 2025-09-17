@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Le Rossignol. Fable</head>
         <bibl><title>Mercure galant</title>, mai 1682 [tome 5], p. 53-60.</bibl>
         <p/>
-        <p>La Fable que vous allez voir pourra estre utile à bien des Amans. Elle m’a esté envoyée sous le nom de la Muse naissante de Poitiers.</p>
+        <p>La Fable que vous allez voir pourra estre utile à bien des Amans. Elle m’a esté envoyée
+          sous le nom de la Muse naissante de Poitiers.</p>
         <quote>
           <label>LE ROSSIGNOL.<lb/>FABLE.</label>
           <lg>
@@ -130,6 +130,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

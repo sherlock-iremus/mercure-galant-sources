@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,16 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>[Tout ce qui s’est passé touchant le jugement donné sur les Bouts-rimez de Jupiter &amp; de Pharmacopole]</head>
+    <body><div>
+        <head>[Tout ce qui s’est passé touchant le jugement donné sur les Bouts-rimez de Jupiter
+          &amp; de Pharmacopole]</head>
         <bibl><title>Mercure galant</title>, juin 1682 [tome 6], p. 274-286.</bibl>
         <p/>
-        <p>Comme je vous ay déja. parlé dans deux de mes Lettres, du Prix que M<hi rend="sup">r</hi> le Duc de S. Aignan a proposé pour récompense du meilleur Sonnet qui seroit fait sur les Bouts-rimez de Jupiter &amp; de Pharmacopole, il ne me reste plus qu’à vous dire que cinq des Académiciens de l’Académie Royale d’Arles en ont décidé. Le bruit courut il y a huit jours, qu’ils l’avoient donné à ce Sonnet.</p>
+        <p>Comme je vous ay déja. parlé dans deux de mes Lettres, du Prix que M<hi rend="sup">r</hi>
+          le Duc de S. Aignan a proposé pour récompense du meilleur Sonnet qui seroit fait sur les
+          Bouts-rimez de Jupiter &amp; de Pharmacopole, il ne me reste plus qu’à vous dire que cinq
+          des Académiciens de l’Académie Royale d’Arles en ont décidé. Le bruit courut il y a huit
+          jours, qu’ils l’avoient donné à ce Sonnet.</p>
         <quote>
           <lg>
             <l><hi rend="i">Avoir pour ascendant, ou Mars, ou</hi> Jupiter,</l>
@@ -48,7 +52,11 @@
           </lg>
         </quote>
         <p/>
-        <p>Sur ce qui fut dit de ce Sonnet, on apprit bientost que M<hi rend="sup">r</hi> l’Abbé Plomet en estoit l’Autheur ; &amp; comme beaucoup de Gens demandoient à le connoistre autrement que par son nom, il fit cet autre Sonnet qu’il envoya à M<hi rend="sup">r</hi> le Duc de Saint Aignan. La peinture qu’il contient est celle d’un Homme qui mene une vie veritablement heureuse.</p>
+        <p>Sur ce qui fut dit de ce Sonnet, on apprit bientost que M<hi rend="sup">r</hi> l’Abbé
+          Plomet en estoit l’Autheur ; &amp; comme beaucoup de Gens demandoient à le connoistre
+          autrement que par son nom, il fit cet autre Sonnet qu’il envoya à M<hi rend="sup">r</hi>
+          le Duc de Saint Aignan. La peinture qu’il contient est celle d’un Homme qui mene une vie
+          veritablement heureuse.</p>
         <quote>
           <lg>
             <l rend="i">Vouloir tranquillement achever sa carriere</l>
@@ -77,7 +85,8 @@
           </lg>
         </quote>
         <p/>
-        <p>Quoy que le Sonnet de cet Abbé eust paru fort beau aux Juges, ils preférerent celuy que vous allez voir.</p>
+        <p>Quoy que le Sonnet de cet Abbé eust paru fort beau aux Juges, ils preférerent celuy que
+          vous allez voir.</p>
         <quote>
           <lg>
             <l><hi rend="i">Dieu qui lance la Foudre, &amp; non pas</hi> Jupiter,</l>
@@ -106,7 +115,9 @@
           </lg>
         </quote>
         <p/>
-        <p>Ce Sonnet, qui est de M<hi rend="sup">r</hi> Boursault, disputa longtemps le Prix, &amp; les Juges ne luy donnerent l’exclusion qu’apres qu’ils eurent leû celuy-cy, qui leur parut le meilleur de tous.</p>
+        <p>Ce Sonnet, qui est de M<hi rend="sup">r</hi> Boursault, disputa longtemps le Prix, &amp;
+          les Juges ne luy donnerent l’exclusion qu’apres qu’ils eurent leû celuy-cy, qui leur parut
+          le meilleur de tous.</p>
         <quote>
           <lg>
             <l><hi rend="i">Tout agit par les Loix du puissant</hi> Jupiter ;</l>
@@ -135,7 +146,15 @@
           </lg>
         </quote>
         <p/>
-        <p>Il avoit pour marques <hi rend="i">Anacreon</hi>, &amp; ces mots Latins <hi rend="i">Prostrasse sat est</hi>. On examina tous ceux qui restoient à lire, &amp; aucun n’ayant paru de la mesme force, toutes les voix luy furent données. M<hi rend="sup">r</hi> le Duc de S. Aignan, qui estoit présent, dit aussitost qu’il estoit de luy. Ce Sonnet avoit esté mis parmy les autres du temps que M<hi rend="sup">rs</hi> de l’Académie Françoise devoient juger ; &amp; comme ce Duc en avoit fait deux, lors qu’en renonçant au Prix, il donna ordre qu’on les retirast, on ne reprit que celuy dont je vous fis part le dernier mois. Ainsi les Juges furent obligez de rappeller les meilleurs Sonnets. Ils en firent un fort severe examen, &amp; voicy celuy qui fut enfin declaré victorieux. Il a au bas une M &amp; un B, pour marques.</p>
+        <p>Il avoit pour marques <hi rend="i">Anacreon</hi>, &amp; ces mots Latins <hi rend="i">Prostrasse sat est</hi>. On examina tous ceux qui restoient à lire, &amp; aucun n’ayant
+          paru de la mesme force, toutes les voix luy furent données. M<hi rend="sup">r</hi> le Duc
+          de S. Aignan, qui estoit présent, dit aussitost qu’il estoit de luy. Ce Sonnet avoit esté
+          mis parmy les autres du temps que M<hi rend="sup">rs</hi> de l’Académie Françoise devoient
+          juger ; &amp; comme ce Duc en avoit fait deux, lors qu’en renonçant au Prix, il donna
+          ordre qu’on les retirast, on ne reprit que celuy dont je vous fis part le dernier mois.
+          Ainsi les Juges furent obligez de rappeller les meilleurs Sonnets. Ils en firent un fort
+          severe examen, &amp; voicy celuy qui fut enfin declaré victorieux. Il a au bas une M &amp;
+          un B, pour marques.</p>
         <quote>
           <lg>
             <l><hi rend="i">Admirons icy-bas l’ordre de</hi> Jupiter,</l>
@@ -164,8 +183,10 @@
           </lg>
         </quote>
         <p/>
-        <p>Il y a quinze jours que ce jugement est donné, sans que celuy qui a remporté le Prix se soit présenté ny fait connoistre. On luy conserve la Médaille d’or du Roy, qui luy sera délivrée à l’Hôtel de S. Aignan, dés qu’il y viendra pour la recevoir.</p>
+        <p>Il y a quinze jours que ce jugement est donné, sans que celuy qui a remporté le Prix se
+          soit présenté ny fait connoistre. On luy conserve la Médaille d’or du Roy, qui luy sera
+          délivrée à l’Hôtel de S. Aignan, dés qu’il y viendra pour la recevoir.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

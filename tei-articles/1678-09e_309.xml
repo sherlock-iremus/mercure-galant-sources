@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Réponses aux énigmes]*</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III], p. 309-317.</bibl>
-        <p>Voicy comme les Enigmes du <hi rend="i">Clavessin</hi> &amp; du <hi rend="i">Tournebroche</hi> ont esté expliquées par diférentes Personnes <note resp="editor">Voir <ref target="MG-1678-08_346">cet article</ref> pour l'énigme et <ref target="MG-1678-09_342">celui-ci</ref> pour la solution</note>.</p>
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
+          p. 309-317.</bibl>
+        <p>Voicy comme les Enigmes du <hi rend="i">Clavessin</hi> &amp; du <hi rend="i">Tournebroche</hi> ont esté expliquées par diférentes Personnes <note resp="editor">Voir <ref target="MG-1678-08_346">cet article</ref> pour
+            l'énigme et <ref target="MG-1678-09_342">celui-ci</ref> pour la solution</note>.</p>
         <quote>
           <label rend="center">Explication des Deux.</label>
           <l>Je ne sçay si je me méprens</l>
@@ -41,8 +42,7 @@
           <l>D'éviter ce juste reproche,</l>
           <l>Fermons viste le <hi rend="i">Clavessin</hi>,</l>
           <l>Et faisons en soupant, taire le <hi rend="i">Tournebroche</hi>.</l>
-          <p>GARDIEN.</p>
-        </quote>
+          <p>GARDIEN.</p></quote>
         <quote>
           <label rend="center">Explication</label>
           <label rend="center">du Clavessin.</label>
@@ -54,8 +54,7 @@
           <l>Que je suis un grand sot de me tant gesner l’ame,</l>
           <l>Pour un instrument si commun !</l>
           <l>C'est le <hi rend="i">Clavessin</hi> de ma Femme.</l>
-          <p>BARBETTE, Echevin de Troyes.</p>
-        </quote>
+          <p>BARBETTE, Echevin de Troyes.</p></quote>
         <quote>
           <label rend="center">Autre. </label>
           <lg>
@@ -63,8 +62,7 @@
             <l>Ses accords &amp; son harmonie</l>
             <l>Exercent sur mon cœur inquiet &amp; jaloux,</l>
             <l>Une agreable tyrannie.</l>
-          </lg>
-          <lg>
+          </lg><lg>
             <l>Iris sçait toucher avec tant d’agrément,</l>
             <l>Que des cœurs les plus durs elle change l’usage,</l>
             <l>Et cette Belle a l’avantage</l>
@@ -76,14 +74,12 @@
             <l>Cet ornement doit arrester les yeux;</l>
             <l>Mais ces accords touchent les Curieux</l>
             <l>Tout autrement que sa belle parure.</l>
-          </lg>
-          <lg>
+          </lg><lg>
             <l>Quand Chamboniere avec sa Tablature</l>
             <l>Vouloit charmer les Roys nos Demy-Dieux,</l>
             <l>Autre que luy ne faisoit parler mieux</l>
             <l><hi rend="i">Le Clavessin</hi>.</l>
-          </lg>
-        </quote>
+          </lg></quote>
         <quote>
           <label rend="center">Autre.</label>
           <l>Chaque chose en ce temps, ainsi qu’au Carnaval,</l>
@@ -101,34 +97,30 @@
           <l>Et sur tout l’entendant si juste résonner,</l>
           <l>C'est luy mesme, ay-je-dit, il en a l’encolure.</l>
           <l>Hé bien sçais-je pas deviner ?</l>
-          <p>La Belle du Mont Parnasse.</p>
-        </quote>
+          <p>La Belle du Mont Parnasse.</p></quote>
         <quote>
           <label rend="center">Explication de l’Enigme </label>
           <label rend="center">de la Statue de Memmon.</label>
-          <l>[…]</l>
-        </quote>
+          <l>[…]</l></quote>
         <quote>
           <label rend="center">Autre de la mesme,</label>
           <label rend="center">Sur le Coq.</label>
-          <l>[…]</l>
-        </quote>
-        <p>Ceux qui ont donné les cinq Explications suivantes, prennent tous le titre d’Académiciens de Boüilly lez-Troyes.</p>
+          <l>[…]</l></quote>
+        <p>Ceux qui ont donné les cinq Explications suivantes, prennent tous le titre d’Académiciens
+          de Boüilly lez-Troyes.</p>
         <quote>
           <l>Vous demandez quelles merveilles</l>
           <l>Font retentir ces lieux d’un accord tout divin ;</l>
           <l>Apollons de Boüilly, n’avez-vous plus d’oreilles ?</l>
           <l>Quoy, n’attendez-vous [sic] pas que c’est un <hi rend="i">Clavessin</hi> ?</l>
-          <p>C. BUGLET, Prevost de Boüilly.</p>
-        </quote>
+          <p>C. BUGLET, Prevost de Boüilly.</p></quote>
         <quote>
           <l>J'entens bien, c’est un <hi rend="i">Clavessin</hi>,</l>
           <l>Dont Mercure aujourd’huy vient m’étourdir l’oreille.</l>
           <l>Ah, pour le chatoüiller; l’impertinent engin !</l>
           <l>Passe encor; si c’estoit le son d’un pot de Vin,</l>
           <l>Ou les glou-gloux d’une Bouteille.</l>
-          <p>MALHERBE, Medecin.</p>
-        </quote>
+          <p>MALHERBE, Medecin.</p></quote>
         <quote>
           <l>Amis, ce <hi rend="i">Clavessin</hi> dont vous goustez l’appas,</l>
           <l>N'a rien pour moy d’assez solide.</l>
@@ -136,8 +128,7 @@
           <l>Ie ne veux point mâcher à vuide.</l>
           <l>Ma foy, ce Tournebroche utile à nos Repas,</l>
           <l>M'est plus doux dans son bruit, qu’un accord insipide.</l>
-          <p>MORNAC le jeune, Avocat.</p>
-        </quote>
+          <p>MORNAC le jeune, Avocat.</p></quote>
         <quote>
           <l>Si plus souvent qu’au Cabinet</l>
           <l>Ie ne rodois dans la Cuisine,</l>
@@ -145,8 +136,7 @@
           <l>De venir justement au fait.</l>
           <l>Mais, grace à mon humeur qui souvent m’en approche,</l>
           <l>Je reconnois ce <hi rend="i">Tournebroche</hi>.</l>
-          <p>L'ABBÉ SONNEAU.</p>
-        </quote>
+          <p>L'ABBÉ SONNEAU.</p></quote>
         <quote>
           <l>À Moy qui supute &amp; mesure</l>
           <l>Les heures &amp; les jours de l’An,</l>
@@ -156,6 +146,6 @@
           <p>CHEVALIER, Trésorier de S. Urbain.</p>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

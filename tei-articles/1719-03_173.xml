@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,24 +14,23 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Chanson.</head>
         <bibl><title>Nouveau Mercure </title>, mars 1719 [tome 3], p.173.</bibl>
         <quote>
           <label>CHANSON.</label>
           <lg>
             <l>Goûtons la charmante douceur</l>
-            <l>De nous engager l'un à l'autre.</l>
+            <l>De nous engager l'un à l'autre.</l> 
             <l>Iris, je vous donne mon cœur, </l>
-            <l>Daignez me faire un don du vôtre.</l>
-            <l>Je sçai qu'il faudroit du retour,</l>
+            <l>Daignez me faire un don du vôtre.</l> 
+            <l>Je sçai qu'il faudroit du retour,</l> 
             <l>Si l'on jugeoit par le merite :</l>
             <l>Mais envers vous je serai quitte,</l>
             <l>Si l'on en juge par l'Amour.</l>
-          </lg>
+            </lg> 
         </quote>
-      </div>
-    </body>
+      </div>      
+            </body>
   </text>
 </TEI>

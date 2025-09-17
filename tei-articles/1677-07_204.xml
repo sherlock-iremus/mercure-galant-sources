@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Impromptu pour M. le Duc, fait par Madame le Camus en presence de ce Prince]</head>
         <bibl><title>Le Nouveau Mercure galant</title>, juillet 1677 ([tome V]), p. 204-206.</bibl>
         <p>La matiere est un peu triste ; &amp; comme je sçay que vous aimez tout ce qui vient de Madame le Camus, je croy que ce sera vous en tirer agreablement, que de vous faire voir deux petites Pieces de sa façon, qui me sont tombées depuis peu entre les mains ; l’une est un Inpromptu pour Monsieur le Duc, qu’elle fit il y a quelque temps en présence de ce Prince ; &amp; l’autre, un Compliment à Madame la Mareschale de Clerembaut qui luy avoit rendu office.</p>
@@ -28,6 +27,6 @@
           <l rend="i">Mais par bonheur pour nous il a fait son semblable.</l>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

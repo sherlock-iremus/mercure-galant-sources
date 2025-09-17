@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,21 +14,31 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Lettre de Mr de Fontenelle]</head>
-        <bibl><title>Mercure galant</title>, octobre 1688 (première partie) [tome 14], p. 90-100</bibl>
+        <bibl><title>Mercure galant</title>, octobre 1688 (première partie) [tome 14],
+          p. 90-100</bibl>
         <p/>
-        <p>Je vous envoye une Lettre qui ne sçauroit manquer de vous plaire, puis qu’elle est de M<hi rend="sup">r</hi> de Fontenelle dont vous estimez tant tous les Ouvrages. En rendant visite à M<hi rend="sup">r</hi> l’Envoyé de Suede, il fut surpris de la beauté d’un Portrait qu’il vit chez luy. C’estoit celuy d’une fort jeune personne. Il croyoit qu’en le faisant, le Peintre n’avoit suivy que sa seule idée, quand M<hi rend="sup">r</hi> l’Envoyé l’asseura que la personne dont il voyoit le Portrait, loin d’avoir esté flatée, estoit encore plus belle qu’on ne la representoit ; que c’estoit une Demoiselle Suedoise, aussi estimable par son esprit que par sa naissance, que toutes les Langues luy estoient connuës, &amp; qu’elle avoit leu avec grand plaisir les Dialogues des Morts, &amp; les Entretiens sur la pluralité des Mondes. Ce fut sur cette nouvelle peinture, que M<hi rend="sup">r</hi> de Fontenelle forma le dessein de luy écrire. M<hi rend="sup">r</hi> l’Envoyé de Suede voulut bien se charger du soin de luy faire tenir sa Lettre. En voicy la copie.</p>
+        <p>Je vous envoye une Lettre qui ne sçauroit manquer de vous plaire, puis qu’elle est de
+            M<hi rend="sup">r</hi> de Fontenelle dont vous estimez tant tous les Ouvrages. En
+          rendant visite à M<hi rend="sup">r</hi> l’Envoyé de Suede, il fut surpris de la beauté
+          d’un Portrait qu’il vit chez luy. C’estoit celuy d’une fort jeune personne. Il croyoit
+          qu’en le faisant, le Peintre n’avoit suivy que sa seule idée, quand M<hi rend="sup">r</hi>
+          l’Envoyé l’asseura que la personne dont il voyoit le Portrait, loin d’avoir esté flatée,
+          estoit encore plus belle qu’on ne la representoit ; que c’estoit une Demoiselle Suedoise,
+          aussi estimable par son esprit que par sa naissance, que toutes les Langues luy estoient
+          connuës, &amp; qu’elle avoit leu avec grand plaisir les Dialogues des Morts, &amp; les
+          Entretiens sur la pluralité des Mondes. Ce fut sur cette nouvelle peinture, que M<hi rend="sup">r</hi> de Fontenelle forma le dessein de luy écrire. M<hi rend="sup">r</hi>
+          l’Envoyé de Suede voulut bien se charger du soin de luy faire tenir sa Lettre. En voicy la
+          copie.</p>
         <quote>
-          <p>
-            <hi rend="sc">
-              <hi rend="i">Mademoiselle,</hi>
-            </hi>
-          </p>
-          <p>
-            <hi rend="i">Je ne sçay si en me donnant l’honneur de vous écrire j’écris à quelqu’un. Sur vostre nom qui est fort illustre, il faut que je vous croye Suedoise. Sur les grands yeux noirs que j’ay veus dans vostre Portrait, &amp; qui doivent estre pleins de feu dans l’original, je vous croy Espagnole Sur de fort jolis. Vers François que l’on m’a montrez de vous, je vous croy Françoise. Sur d’autres Vers qui sont Italiens, je vous croy Italienne. Sur tout cela ensemble vous n’estes d’aucun Pays.</hi>
-          </p>
+          <p><hi rend="sc"><hi rend="i">Mademoiselle,</hi></hi></p>
+          <p><hi rend="i">Je ne sçay si en me donnant l’honneur de vous écrire j’écris à quelqu’un.
+              Sur vostre nom qui est fort illustre, il faut que je vous croye Suedoise. Sur les
+              grands yeux noirs que j’ay veus dans vostre Portrait, &amp; qui doivent estre pleins
+              de feu dans l’original, je vous croy Espagnole Sur de fort jolis. Vers François que
+              l’on m’a montrez de vous, je vous croy Françoise. Sur d’autres Vers qui sont Italiens,
+              je vous croy Italienne. Sur tout cela ensemble vous n’estes d’aucun Pays.</hi></p>
           <quote>
             <lg>
               <l> Pour rendre le miracle encor plus achevé,</l>
@@ -40,9 +50,16 @@
               <l>Que quelque objet en l’air qu’un Poëte a resvé.</l>
             </lg>
           </quote>
-          <p>
-            <hi rend="i">Cependant il est certain que M<hi rend="sup">r</hi> l’Envoyé de Suede prend l’affaire serieusement, &amp; si l’on a à croire des prodiges, ce doit estre plûtost sur son autorité que sur celle d’aucun autre. Il soûtient que vous estes à Stokolm que mille gens vous y ont veuë &amp; vous y ont parlé. Il dit mesme que vostre Portrait qui represente le plus charmant visage du monde, ne represente pas le vostre dans toute sa beauté, &amp; que les Peintres de Suede ne flatent jamais. Mais pourquoy, nous qui sommes dans le Pays de la beauté, de l’esprit, &amp; des agrémens, n’aurions-nous jamais rien veu de pareil à une Personne si accomplie ? Voilà ce que la vanité Françoise nous fait dire aussi-tost. A cela je ne sçay qu’une seule réponse qui puisse nous aider à croire tout ce qui se dit de vous.</hi>
-          </p>
+          <p><hi rend="i">Cependant il est certain que M<hi rend="sup">r</hi> l’Envoyé de Suede
+              prend l’affaire serieusement, &amp; si l’on a à croire des prodiges, ce doit estre
+              plûtost sur son autorité que sur celle d’aucun autre. Il soûtient que vous estes à
+              Stokolm que mille gens vous y ont veuë &amp; vous y ont parlé. Il dit mesme que vostre
+              Portrait qui represente le plus charmant visage du monde, ne represente pas le vostre
+              dans toute sa beauté, &amp; que les Peintres de Suede ne flatent jamais. Mais
+              pourquoy, nous qui sommes dans le Pays de la beauté, de l’esprit, &amp; des agrémens,
+              n’aurions-nous jamais rien veu de pareil à une Personne si accomplie ? Voilà ce que la
+              vanité Françoise nous fait dire aussi-tost. A cela je ne sçay qu’une seule réponse qui
+              puisse nous aider à croire tout ce qui se dit de vous.</hi></p>
           <quote>
             <lg>
               <l> L’Amour, ailleurs si redoutable,</l>
@@ -57,9 +74,16 @@
               <l> Qu’il ne pourroit faire en Suede.</l>
             </lg>
           </quote>
-          <p>
-            <hi rend="i">Voilà, Mademoiselle, tout ce que j’ay pû imaginer pour me persuader que vous soyez une chose vray-semblable. Tirez-moy d’embarras, je vous en conjure, &amp; ayez la bonté de me faire sçavoir si vous estes. Que vostre modestie ne vous empesche point de me l’avoüer naturellement, je vous promets de n’en parler à personne, car je n’aimerois pas qu’on me traitast de Visionnaire, &amp; de plus, moy qui me pique d’estre bon François, je ne voudrois pas qu’on sceust que j’eusse intelligence avec une Etrangere qui triompheroit de toutes les Françoises, &amp; qui effaceroit l’honneur de la Nation. Ce seroit là un assez grand crime contre ma Patrie. Cependant je m’accoûtume peu à peu à en faire encore un plus grand. Tous mes soûpirs à l’heure qu’il est sortent de France, &amp; vont du costé du Nort.</hi>
-          </p>
+          <p><hi rend="i">Voilà, Mademoiselle, tout ce que j’ay pû imaginer pour me persuader que
+              vous soyez une chose vray-semblable. Tirez-moy d’embarras, je vous en conjure, &amp;
+              ayez la bonté de me faire sçavoir si vous estes. Que vostre modestie ne vous empesche
+              point de me l’avoüer naturellement, je vous promets de n’en parler à personne, car je
+              n’aimerois pas qu’on me traitast de Visionnaire, &amp; de plus, moy qui me pique
+              d’estre bon François, je ne voudrois pas qu’on sceust que j’eusse intelligence avec
+              une Etrangere qui triompheroit de toutes les Françoises, &amp; qui effaceroit
+              l’honneur de la Nation. Ce seroit là un assez grand crime contre ma Patrie. Cependant
+              je m’accoûtume peu à peu à en faire encore un plus grand. Tous mes soûpirs à l’heure
+              qu’il est sortent de France, &amp; vont du costé du Nort.</hi></p>
           <quote>
             <lg>
               <l>Lieux desolez, où l’Hyver tient son siege</l>
@@ -73,9 +97,8 @@
               <l>Le séjour de Venus, Cypre ne vous vaut pas.</l>
             </lg>
           </quote>
-          <p>
-            <hi rend="i">Vous voyez, Mademoiselle, que mon cœur a déja bien fait du chemin, quoy que je doute encore que vous soyez au monde.</hi>
-          </p>
+          <p><hi rend="i">Vous voyez, Mademoiselle, que mon cœur a déja bien fait du chemin, quoy
+              que je doute encore que vous soyez au monde.</hi></p>
           <quote>
             <lg>
               <l> Mais c’est des tendres cœurs l’ordinaire defaut,</l>
@@ -86,9 +109,15 @@
               <l> De s’assurer qu’elle soit bien fondée.</l>
             </lg>
           </quote>
-          <p>
-            <hi rend="i">Cette idée seule que j’ay de vous a fait sur moy l’effet que pourroient faire les Belles mesmes de ce Pays-cy. Vous pouvez conquerir la Suede par vous-mesme, &amp; le reste du monde par les deux Portraits que nous avons veus ; car je compte pour un Portrait vos Vers où vostre esprit s’est si bien peint. Je me flate que mes hommages qui ne seroient pas asseurement dignes de vous à Stokolm, deviendront de quelque prix en traversant quatre cens lieuës de Pays pour aller jusques à vous, &amp; que s’il est triste de vous adorer de si loin, ce me sera du moins auprés de vous une espece de merite. Je n’en ay point d’autre à vous faire valoir, &amp; je ne croy seulement pas que vous puissiez jamais sçavoir qui je suis,</hi>
-          </p>
+          <p><hi rend="i">Cette idée seule que j’ay de vous a fait sur moy l’effet que pourroient
+              faire les Belles mesmes de ce Pays-cy. Vous pouvez conquerir la Suede par vous-mesme,
+              &amp; le reste du monde par les deux Portraits que nous avons veus ; car je compte
+              pour un Portrait vos Vers où vostre esprit s’est si bien peint. Je me flate que mes
+              hommages qui ne seroient pas asseurement dignes de vous à Stokolm, deviendront de
+              quelque prix en traversant quatre cens lieuës de Pays pour aller jusques à vous, &amp;
+              que s’il est triste de vous adorer de si loin, ce me sera du moins auprés de vous une
+              espece de merite. Je n’en ay point d’autre à vous faire valoir, &amp; je ne croy
+              seulement pas que vous puissiez jamais sçavoir qui je suis,</hi></p>
           <quote>
             <lg>
               <l> Si ce n’est que peut-estre un coup de la fortune</l>
@@ -99,6 +128,6 @@
           </quote>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

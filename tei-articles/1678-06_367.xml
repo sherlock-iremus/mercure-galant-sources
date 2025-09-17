@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Opéra de Jean-Baptiste Boësset]</head>
         <bibl><title>Mercure galant</title>, juin 1678 [tome 6], p. 367-368.</bibl>
-        <p>Il me reste encor à vous entretenir de l’Opéra de M<hi rend="sup">r</hi> Boisset, qui fut represente Lundy dernier à S. Germain devant Leurs Majestez, &amp; de la mort de Messieurs d’Apremont, Roujault, &amp; Marin, mais je suis oblige de remettre ces Articles, ainsi que plusieurs autres.</p>
+        <p>Il me reste encor à vous entretenir de l’Opéra de M<hi rend="sup">r</hi> Boisset, qui fut
+          represente Lundy dernier à S. Germain devant Leurs Majestez, &amp; de la mort de Messieurs
+          d’Apremont, Roujault, &amp; Marin, mais je suis oblige de remettre ces Articles, ainsi que
+          plusieurs autres.</p>
       </div>
     </body>
   </text>

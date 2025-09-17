@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Plan de Castelfollit</head>
         <bibl><title>Mercure galant</title>, mars 1705 [tome 11], p. 250-252.</bibl>
         <p>Je vous promis le plan de Castelfollit lors que je vous envoyay le détail de la prise de cette importante Forteresse ; mais comme il m’a fallu plus de temps que je n’avois cru pour en recouvrer un bon, j’ay differé jusqu’icy à vous l’envoyer. Il sera toujours nouveau, puis qu’il n’en a point paru de gravé. Vous le pouvez joindre à tous ceux des conquestes de Mr le maréchal de Noailles en Catalogne, que je vous ay déjà envoyez. Voicy l’explication des chifres que vous trouverez dans la planche.</p>
@@ -26,6 +25,6 @@
         <l>G. Costé du Camp &amp; du Quartier general, qui estoit à Bagoudat.</l>
         <l>H. La Fluvia, Riviere.</l>
       </div>
-    </body>
+        </body>
   </text>
 </TEI>

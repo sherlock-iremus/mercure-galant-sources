@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Sur l’Arc en Ciel</head>
         <bibl><title>Mercure galant</title>, décembre 1683 [tome 14], p. 35-37.</bibl>
-        <p>Il m’estoit resté quelques Sonnets, sur les Mots qui ont esté proposez dans quelques-unes de mes Lettres. Je vous les envoye. Les deux premiers sont de M<hi rend="sup">r</hi> Magnin, Conseiller au Présidial de Mâcon. Apres les pensées que tous ces Mots ont fait naistre, on voudroit sçavoir ce qu’on pourroit dire sur la Nuit.</p>
+        <p>Il m’estoit resté quelques Sonnets, sur les Mots qui ont esté proposez dans quelques-unes
+          de mes Lettres. Je vous les envoye. Les deux premiers sont de M<hi rend="sup">r</hi> Magnin, Conseiller au Présidial de Mâcon. Apres les pensées que tous ces Mots ont
+          fait naistre, on voudroit sçavoir ce qu’on pourroit dire sur la Nuit.</p>
         <quote>
           <label>SUR L’ARC EN CIEL.</label>
           <lg>
@@ -48,6 +49,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

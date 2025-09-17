@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head resp="editor">Conversion d'un Turc</head>
-        <bibl><title>Mercure galant</title>, juillet 1699 [tome 7], p. 60-61.</bibl>
-        <p>Le 22. May se fit la conversion d'un Turc, qui ayant résisté plus de vingt ans à la voix de Dieu qui l'appelloit, se sentit enfin touché des exemples de vertu que M<hi rend="sup">r</hi> Bouchu, premier President du Parlement de Dijon, &amp; Madame la premiere Presidente, sa Femme, donnent à toute la Province, &amp; les supplia de vouloir bien luy servir de Parrain &amp; de Marraine, pour la ceremonie du Baptême qu'il estoit disposé de recevoir. Ils y consentirent avec plaisir. Elle se fit par M<hi rend="sup">r</hi> le Doyen de Saint Jean, dans cette Eglise, en presence de toutes les personnes de qualité de Dijon. On luy donna le nom de Pierre &amp; Paul, &amp; <hi rend="i">le Te Deum</hi> fut chanté solemnellement en action de graces.</p>
-      </div>
-    </body>
+    <body><div>
+          <head resp="editor">Conversion d'un Turc</head>
+          <bibl><title>Mercure galant</title>, juillet 1699 [tome 7], p. 60-61.</bibl>
+          <p>Le 22. May se fit la conversion d'un Turc, qui ayant résisté plus de vingt ans à la voix de Dieu qui l'appelloit, se sentit enfin touché des exemples de vertu que M<hi rend="sup">r</hi> Bouchu, premier President du Parlement de Dijon, &amp; Madame la premiere Presidente, sa Femme, donnent à toute la Province, &amp; les supplia de vouloir bien luy servir de Parrain &amp; de Marraine, pour la ceremonie du Baptême qu'il estoit disposé de recevoir. Ils y consentirent avec plaisir. Elle se fit par M<hi rend="sup">r</hi> le Doyen de Saint Jean, dans cette Eglise, en presence de toutes les personnes de qualité de Dijon. On luy donna le nom de Pierre &amp; Paul, &amp; <hi rend="i">le Te Deum</hi> fut chanté solemnellement en action de graces.</p>
+        </div>
+        </body>
   </text>
 </TEI>

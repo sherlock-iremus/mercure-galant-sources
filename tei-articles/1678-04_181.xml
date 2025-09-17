@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Vers de M. Robbe à Monseigneur le Dauphin]</head>
         <bibl><title>Mercure galant</title>, avril 1678 [tome 4], p. 181-182.</bibl>
-        <p>Dans le temps du Départ, M<hi rend="sup">r</hi> Robbe fit ce Madrigal pour Monseigneur le Dauphin.</p>
+        <p>Dans le temps du Départ, M<hi rend="sup">r</hi> Robbe fit ce Madrigal pour Monseigneur le
+          Dauphin.</p>
         <quote>
           <l>Le Printemps vient à peine de renaistre,</l>
           <l><space/>Et mille desseins glorieux</l>
@@ -42,8 +42,7 @@
             <l>Tiendra contre vos attraits ?</l>
             <l>Non, la plus fiere Bergere</l>
             <l>Ne s’en défendra jamais.</l>
-          </lg>
-          <lg>
+          </lg><lg>
             <l>Vos vœux seront fortunez,</l>
             <l>Soyez seur de la Victoire ;</l>
             <l>Mais craignez pour vostre gloire</l>
@@ -55,6 +54,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

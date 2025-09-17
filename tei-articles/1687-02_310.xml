@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,16 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head resp="editor">Actions de grâces à Romans</head>
         <bibl><title>Mercure galant</title>, février 1687 [tome 3], p. 310-311.</bibl>
-        <p>Les Consuls &amp; les Habitans de Romans ont pareillement fait chanter un <hi rend="i">Te Deum</hi> avec beaucoup de solemnité, par les ordres de M<hi rend="sup">r</hi> le Marquis de Lionne, Maistre la Garderobe leur Gouverneur, &amp; par les soins de M<hi rend="sup">r</hi> l’Abbé de Leisseins. Il y eut ensuite un grand Feu de joye dans la principale Place de la Ville, &amp; de grandes Illuminations à toutes les fenestres. Toutes ces marques de l’Allegresse publique font voir combien le Roy est aimé de tous ses Sujets. C’est cet amour tendre &amp; respectueux qui a fait dire à une Dame d’un fort grand merite, &amp; dont l’esprit n’est pas moins solide qu’il est fin &amp; delicat.</p>
+        <p>Les Consuls &amp; les Habitans de Romans ont pareillement fait chanter un <hi rend="i">Te
+            Deum</hi> avec beaucoup de solemnité, par les ordres de M<hi rend="sup">r</hi> le
+          Marquis de Lionne, Maistre la Garderobe leur Gouverneur, &amp; par les soins de M<hi rend="sup">r</hi> l’Abbé de Leisseins. Il y eut ensuite un grand Feu de joye dans la
+          principale Place de la Ville, &amp; de grandes Illuminations à toutes les fenestres.
+          Toutes ces marques de l’Allegresse publique font voir combien le Roy est aimé de tous ses
+          Sujets. C’est cet amour tendre &amp; respectueux qui a fait dire à une Dame d’un fort
+          grand merite, &amp; dont l’esprit n’est pas moins solide qu’il est fin &amp; delicat.</p>
         <quote>
           <lg>
             <l rend="i">Avec fort peu de bien, moins encor de jeunesse,</l>
@@ -28,6 +33,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

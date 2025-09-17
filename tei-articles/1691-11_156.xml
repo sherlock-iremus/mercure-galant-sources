@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,22 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head resp="editor">Nouvelle médaille</head>
         <bibl><title>Mercure galant</title>, novembre 1691 [tome 11], p. 156-157.</bibl>
-        <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : La Medaille doit regarder la page 156.</note>
+        <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : La
+          Medaille doit regarder la page 156.</note>
         <p/>
-        <p>La Médaille que vous trouverez gravée icy, a esté frappée à l’occasion du mariage du Prince de Neubourg avec la Princesse de Toscane. D’un costé sont les Armes de Florence entre celles de Baviere &amp; de Neubourg, avec des cornes d’abondance, &amp; ces paroles, <hi rend="i">Sic undique floret</hi>. On voit de l’autre le Grand Duc assis, tenant en main le baston de commandement, &amp; faisant la reveuë de ses Troupes au bord de la mer, où paroissent les Vaisseaux &amp; les Galeres qu’il envoyoit au secours des Venitiens contre les Turcs. On y lit ces mots, <hi rend="i">Fidei triumphus</hi> ; &amp; il y a dans le rond de la Medaille. <hi rend="i">Magno Etruriæ Principi, Italicæ ac Germanicæ felicitatis Fautori.</hi></p>
+        <p>La Médaille que vous trouverez gravée icy, a esté frappée à l’occasion du mariage du
+          Prince de Neubourg avec la Princesse de Toscane. D’un costé sont les Armes de Florence
+          entre celles de Baviere &amp; de Neubourg, avec des cornes d’abondance, &amp; ces paroles,
+            <hi rend="i">Sic undique floret</hi>. On voit de l’autre le Grand Duc assis, tenant en
+          main le baston de commandement, &amp; faisant la reveuë de ses Troupes au bord de la mer,
+          où paroissent les Vaisseaux &amp; les Galeres qu’il envoyoit au secours des Venitiens
+          contre les Turcs. On y lit ces mots, <hi rend="i">Fidei triumphus</hi> ; &amp; il y a dans
+          le rond de la Medaille. <hi rend="i">Magno Etruriæ Principi, Italicæ ac Germanicæ
+            felicitatis Fautori.</hi></p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

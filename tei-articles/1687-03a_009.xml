@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Madrigal]</head>
         <bibl><title>Mercure galant</title>, mars 1687 (première partie) [tome 4], p. 9-11</bibl>
-        <p>Le jour que le Roy honora Paris de sa presence, le Pont Nostre-Dame, par lequel passa Sa Majesté, se trouva orné de Lustres &amp; de Miroirs. Ce fut là-dessus que M<hi rend="sup">r</hi> Vignier fit ce Madrigal.</p>
+        <p>Le jour que le Roy honora Paris de sa presence, le Pont Nostre-Dame, par lequel passa Sa
+          Majesté, se trouva orné de Lustres &amp; de Miroirs. Ce fut là-dessus que M<hi rend="sup">r</hi> Vignier fit ce Madrigal.</p>
         <quote>
           <label>AU ROY.</label>
           <lg>
@@ -39,6 +39,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

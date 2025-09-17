@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Jonction des deux Troupes de Comédiens François]</head>
         <bibl><title>Mercure galant</title>, août 1680 [tome 10], p. 332-333.</bibl>
-        <p>Vous serez surprise quand je vous diray que les deux Troupes de Comédiens François ayant eu ordre du Roy de se joindre ensemble, ceux de l’Hotel ont cedé leur Lieu aux Italiens, &amp; joüent présentement tous les jours sur le Théatre du Fauxbourg S. Germain avec ceux de Guenegaud. Cette union ne peut qu’augmenter les nombreuses Assemblées qu’on y a veües depuis fort longtemps.</p>
+        <p>Vous serez surprise quand je vous diray que les deux Troupes de Comédiens François ayant
+          eu ordre du Roy de se joindre ensemble, ceux de l’Hotel ont cedé leur Lieu aux Italiens,
+          &amp; joüent présentement tous les jours sur le Théatre du Fauxbourg S. Germain avec ceux
+          de Guenegaud. Cette union ne peut qu’augmenter les nombreuses Assemblées qu’on y a veües
+          depuis fort longtemps.</p>
       </div>
     </body>
   </text>

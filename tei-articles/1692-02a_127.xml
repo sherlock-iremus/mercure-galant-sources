@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Lettre en Vers de Madame des Houlieres]</head>
         <bibl><title>Mercure galant</title>, février 1692 [tome 2], p. 127-134.</bibl>
-        <p>La Lettre en Vers que vous allez lire, est de l’illustre Madame des Houlieres. Que pourrois-je vous dire de plus pour vous préparer à une lecture tres-agreable ?</p>
+        <p>La Lettre en Vers que vous allez lire, est de l’illustre Madame des Houlieres. Que
+          pourrois-je vous dire de plus pour vous préparer à une lecture tres-agreable ?</p>
         <quote>
           <label>A MADAME D’USSÉ,<lb/>Fille de M<hi rend="sup">r</hi> de Vauban.</label>
           <lg>
@@ -96,9 +96,7 @@
             <l rend="i"> Qui parcouroient toute la terre,</l>
             <l rend="i">Enleve à des Geans envieux &amp; mutins,</l>
             <l rend="i"> Non de libertines Infantes,</l>
-            <l>
-              <hi rend="i">Mais en chemin faisant des Places importantes,</hi>
-            </l>
+            <l><hi rend="i">Mais en chemin faisant des Places importantes,</hi></l>
             <l rend="i">Qui de l’heureuse France assurent les destins.</l>
             <l rend="i">Que sur ses procedez, Iris, il reflechisse,</l>
             <l rend="i">Et qu’il nous dise un peu, s’il croit qu’il soit permis</l>
@@ -128,6 +126,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

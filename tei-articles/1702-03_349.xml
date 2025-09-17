@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>[Charge de Garde du Cabinet des Livres donnée à Mr Dacier]</head>
-        <bibl><title>Mercure galant</title>, mars 1702 [tome 4], p. 349-351.</bibl>
-        <p>La Charge de Garde du Cabinet des Livres de Sa Majesté, qui est dans le Louvre, estant demeurée vacante depuis le decés de M<hi rend="sup">r</hi> l’Abbé de Lavau qui mourut il y a sept ou huit ans, le Roy a depuis quelques jours jugé à propos de la remplir. Sa Majesté se fit apporter la liste de tous ceux qui la luy avoient demandée, &amp; y ayant trouvé le nom de M<hi rend="sup">r</hi> Dacier, elle ne balança pas à le choisir. Ainsi son merite seul luy tint lieu de recommandation. Il est de l’Academie Françoise, &amp; de celle des Inscriptions, &amp; comme on ne peut avoir plus d’érudition qu’il en a, le Charge dont le Roy vient de le gratifier luy convient parfaitement. Je vous ay marqué autrefois la difference qu’il y a entre cette Charge &amp; celle de Bibliothecaire du Roy. La Bibliotheque de Sa Majesté est à la ruë Vivienne.</p>
-      </div>
-    </body>
+    <body><div>
+          <head>[Charge de Garde du Cabinet des Livres donnée à Mr Dacier]</head>
+          <bibl><title>Mercure galant</title>, mars 1702 [tome 4], p. 349-351.</bibl>
+          <p>La Charge de Garde du Cabinet des Livres de Sa Majesté, qui est dans le Louvre, estant demeurée vacante depuis le decés de M<hi rend="sup">r</hi> l’Abbé de Lavau qui mourut il y a sept ou huit ans, le Roy a depuis quelques jours jugé à propos de la remplir. Sa Majesté se fit apporter la liste de tous ceux qui la luy avoient demandée, &amp; y ayant trouvé le nom de M<hi rend="sup">r</hi> Dacier, elle ne balança pas à le choisir. Ainsi son merite seul luy tint lieu de recommandation. Il est de l’Academie Françoise, &amp; de celle des Inscriptions, &amp; comme on ne peut avoir plus d’érudition qu’il en a, le Charge dont le Roy vient de le gratifier luy convient parfaitement. Je vous ay marqué autrefois la difference qu’il y a entre cette Charge &amp; celle de Bibliothecaire du Roy. La Bibliotheque de Sa Majesté est à la ruë Vivienne.</p>
+        </div>
+        </body>
   </text>
 </TEI>

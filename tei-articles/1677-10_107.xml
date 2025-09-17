@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Lettre à l’Autheur du Mercure Galant touchant l’Explication de l’Enigme du VII. Volume]</head>
         <bibl><title>Le Nouveau Mercure galant</title>, octobre 1677 [tome VIII], p. 107-113.</bibl>
         <p>Mais à propos d’Enigmes, vous ne sçauriez croire combien j’ay reçeu de Billets sur celle du <hi rend="i">Trictrac</hi>, depuis que j’ay commencé à vous écrire. Les uns y ont fait venir un sens forcé je ne sçay comment ; les autres m’ont demandé si ce n’estoit point un plaisir que je me donnois sans avoir dessein de rien éclaircir, &amp; voicy ce que m’écrivent presentement des Dames qui me feront l’honneur de se nommer quand il leur plaira. La Suscription est obligeante, ne l’attribuez pas à ma vanité</p>
@@ -25,6 +24,6 @@
         </quote>
         <p>On me fait bien de l’honneur, Madame, comme vous le voyez par le commencement de ce Billet, &amp; cela, grace à un Inconnu qui ne s’est point encor voulu declarer Autheur de l’Enigme, car je me sens obligé de vous dire qu’elle n’est pas de moy, &amp; de refuser une gloire qui ne m’est point deuë.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

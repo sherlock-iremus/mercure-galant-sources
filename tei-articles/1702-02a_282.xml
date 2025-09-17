@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>[Messe Solemnelle]</head>
-        <bibl><title>Mercure galant</title>, février 1702 [première partie] [tome 2], p. 282-283.</bibl>
-        <p>Le Chapitre de S. André de Bordeaux, pour reconnoître les nouvelles graces qu’il a plû à S.M. de luy faire, a ordonné qu’on celebreroit tous les ans à perpetuité une Messe solemnelle pour demander à Dieu une longue continuation de santé &amp; de prosperité pour ce Monarque.</p>
-        <p>Cette Messe qui sera du Saint Esprit pendant sa vie, &amp; ensuite pour le repos de son ame fut celebrée pour la premiere fois par Mr l’Abbé de Cantenac qui avoit esté choisi &amp; deputé du Chapitre pour la dire. Il se trouva à cette ceremonie un grand nombre de personnes de distinction.</p>
-      </div>
-    </body>
+    <body><div>
+          <head>[Messe Solemnelle]</head>
+          <bibl><title>Mercure galant</title>, février 1702 [première partie] [tome 2], p. 282-283.</bibl>
+          <p>Le Chapitre de S. André de Bordeaux, pour reconnoître les nouvelles graces qu’il a plû à S.M. de luy faire, a ordonné qu’on celebreroit tous les ans à perpetuité une Messe solemnelle pour demander à Dieu une longue continuation de santé &amp; de prosperité pour ce Monarque.</p>
+          <p>Cette Messe qui sera du Saint Esprit pendant sa vie, &amp; ensuite pour le repos de son ame fut celebrée pour la premiere fois par Mr l’Abbé de Cantenac qui avoit esté choisi &amp; deputé du Chapitre pour la dire. Il se trouva à cette ceremonie un grand nombre de personnes de distinction.</p>
+        </div>
+        </body>
   </text>
 </TEI>

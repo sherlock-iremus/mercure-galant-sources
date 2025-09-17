@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Sonnet</head>
         <bibl><title>Mercure galant</title>, mai 1697 [tome 5], p. 7-10.</bibl>
-        <p>Vous avez vû differens Portraits du Roy. On en fait tous les jours de nouveaux sans que la matiere se trouve épuisée. Ainsi je croy vous faire plaisir de vous en envoyer un que vous n’avez point encore vû, &amp; qui le represente au naturel en quatorze Vers.</p>
+        <p>Vous avez vû differens Portraits du Roy. On en fait tous les jours de nouveaux sans que
+          la matiere se trouve épuisée. Ainsi je croy vous faire plaisir de vous en envoyer un que
+          vous n’avez point encore vû, &amp; qui le represente au naturel en quatorze Vers.</p>
         <quote>
-          <label>
-            <hi rend="i">SONNET.</hi>
-          </label>
+          <label><hi rend="i">SONNET.</hi></label>
           <lg>
             <l rend="i">Par ses rares Vertus répondre à sa naissance ;</l>
             <l rend="i">Faire observer les Loix, &amp; fleurir les beaux Arts ;</l>
@@ -50,6 +49,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

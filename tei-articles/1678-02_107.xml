@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Sonnet à Monsieur le Duc de Bourbon]</head>
         <bibl><title>Mercure galant</title>, février 1678 [tome 2], p. 108-110.</bibl>
-        <p>Le titre d’Empereur y est donné à ceux qui surpassent tous les autres ; &amp; c’est sur ce Titre que personne ne luy a pû disputer, qu’on a fait le Sonnet que je vous envoye. M<hi rend="sup">r</hi> l’Abbé de la Chapelle en est l’Autheur. Il est Fils de M<hi rend="sup">r</hi> de la Chapelle qui a l’Intendance des Affaires de Monsieur le Prince en Berry.</p>
+        <p>Le titre d’Empereur y est donné à ceux qui surpassent tous les autres ; &amp; c’est sur
+          ce Titre que personne ne luy a pû disputer, qu’on a fait le Sonnet que je vous envoye.
+            M<hi rend="sup">r</hi> l’Abbé de la Chapelle en est l’Autheur. Il est Fils de M<hi rend="sup">r</hi> de la Chapelle qui a l’Intendance des Affaires de Monsieur le Prince
+          en Berry.</p>
         <quote rend="border">
           <label rend="center">À Monsieur</label>
           <label rend="center">le Duc</label>
@@ -51,6 +53,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Caprice</head>
-        <bibl><title>Mercure galant</title>, novembre 1688 (première partie) [tome 15], p. 187-194</bibl>
+        <bibl><title>Mercure galant</title>, novembre 1688 (première partie) [tome 15],
+          p. 187-194</bibl>
         <p/>
-        <p>Les Vers que vous allez lire sont fort estimez. Il ne faut pas s’étonner s’ils plaisent, puis qu’ils sont de Mademoiselle des Houlieres.</p>
+        <p>Les Vers que vous allez lire sont fort estimez. Il ne faut pas s’étonner s’ils plaisent,
+          puis qu’ils sont de Mademoiselle des Houlieres.</p>
         <quote>
           <label>CAPRICE.</label>
           <lg>
@@ -128,6 +129,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

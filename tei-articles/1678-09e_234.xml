@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,21 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>Lettres sur les Enigmes en Peinture, A. M. L. D. D. S. A. à l’Autheur du Mercure Galant</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III], p. 234-273.</bibl>
-        <p>J'interromps ces Lettres, pour vous en faire voir d’une autre nature. Vous m’avez témoigné estre si satisfaite de celles qui ont esté écrites sur les Enigmes en Paroles, qu’ayant découvert que M. l’Abbé de la Valt en estoit l’Autheur, je l’ay prié de nous dire ses Sentimens sur les Enigmes qui sont en Figures. Il a eu l’honnesteté de le faire, &amp; je luy suis d’autant plus obligé de la complaisance qu’il a euë, qu’en me donnant par là une marque de son estime, il me donne en mesme temps le moyen de satisfaire vostre curiosité. Vous l’aurez peut-estre crû Provençal, parce que je vous ay écrit que c’estoit d’Aix que j’avois reçeu ses premieres Lettres. Il est vray que quelques affaires l’y arrestent depuis quelque temps ; mais il est de Verneüil au Perche, &amp; fait trop d’honneur à son Païs, pour ne prendre pas soin de vous le marquer.</p>
+    <body><div>
+        <head>Lettres sur les Enigmes en Peinture, A. M. L. D. D. S. A. à l’Autheur du Mercure
+          Galant</head>
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
+          p. 234-273.</bibl>
+        <p>J'interromps ces Lettres, pour vous en faire voir d’une autre nature. Vous m’avez
+          témoigné estre si satisfaite de celles qui ont esté écrites sur les Enigmes en Paroles,
+          qu’ayant découvert que M. l’Abbé de la Valt en estoit l’Autheur, je l’ay prié de nous dire
+          ses Sentimens sur les Enigmes qui sont en Figures. Il a eu l’honnesteté de le faire, &amp;
+          je luy suis d’autant plus obligé de la complaisance qu’il a euë, qu’en me donnant par là
+          une marque de son estime, il me donne en mesme temps le moyen de satisfaire vostre
+          curiosité. Vous l’aurez peut-estre crû Provençal, parce que je vous ay écrit que c’estoit
+          d’Aix que j’avois reçeu ses premieres Lettres. Il est vray que quelques affaires l’y
+          arrestent depuis quelque temps ; mais il est de Verneüil au Perche, &amp; fait trop
+          d’honneur à son Païs, pour ne prendre pas soin de vous le marquer.</p>
         <quote>
           <label rend="center">LETTREs</label>
           <label rend="center"> sur les Enigmes</label>
@@ -44,8 +54,15 @@
           <label rend="center">LETTRE VIII.</label>
           <p>[…]</p>
         </quote>
-        <p>On ne sçaurait raisonner plus juste qu’a fait M. l’Abbé de la Valt dans toutes ces Lettres, où si vous en exceptez ce qu’il dit de trop obligeant pour moy, vous ne trouvez rien qui ne contente l’esprit, &amp; qui ne l’éclaire sur ce qu’on doit penser des Enigmes. Je ne doute point que ceux qui se font un plaisir de les expliquer, n’y cherchent à l’avenir d’autres sens que ceux de l’Envie, de la Jalousie &amp; de la Chasteté, puis qu’il leur apprend que l’Enigme devant servir de voile aux Ouvrages seuls, de l’Art ou de la Nature, les noms d’une passion, d’une vertu, ou d’un vice, n’en peuvent jamais renfermer le sens.</p>
+        <p>On ne sçaurait raisonner plus juste qu’a fait M. l’Abbé de la Valt dans toutes ces
+          Lettres, où si vous en exceptez ce qu’il dit de trop obligeant pour moy, vous ne trouvez
+          rien qui ne contente l’esprit, &amp; qui ne l’éclaire sur ce qu’on doit penser des
+          Enigmes. Je ne doute point que ceux qui se font un plaisir de les expliquer, n’y cherchent
+          à l’avenir d’autres sens que ceux de l’Envie, de la Jalousie &amp; de la Chasteté, puis
+          qu’il leur apprend que l’Enigme devant servir de voile aux Ouvrages seuls, de l’Art ou de
+          la Nature, les noms d’une passion, d’une vertu, ou d’un vice, n’en peuvent jamais
+          renfermer le sens.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

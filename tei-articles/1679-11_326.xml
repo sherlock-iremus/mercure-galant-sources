@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>A Monsieur le Duc de la Rocheguyon, sur son Mariage. Madrigal</head>
         <bibl><title>Mercure galant</title>, novembre 1679 [tome 12], p. 326-328.</bibl>
         <quote>
@@ -34,8 +33,10 @@
           <l><space rend="tab"> </space>Cette aimable Alliance</l>
           <l>Est l’Hymen glorieux de toutes les Vertus.</l>
         </quote>
-        <p>M<hi rend="sup">r</hi> le Prince de Marsillac traita il y a deux jours dans l’Hôtel de Liancourt, tous ceux qui avoient esté de la Nôce, &amp; plusieurs autres. Ce Repas estoit d’une magnificence achevée.</p>
+        <p>M<hi rend="sup">r</hi> le Prince de Marsillac traita il y a deux jours dans l’Hôtel de
+          Liancourt, tous ceux qui avoient esté de la Nôce, &amp; plusieurs autres. Ce Repas estoit
+          d’une magnificence achevée.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

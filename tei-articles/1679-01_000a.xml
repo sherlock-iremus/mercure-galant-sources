@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>A Monseigneur le Dauphin</head>
         <bibl><title>Mercure galant</title>, janvier 1679 [tome 1], non paginé.</bibl>
         <label type="head">A Monseigneur le Dauphin</label>
@@ -31,10 +30,21 @@
         <l><hi rend="sc">Prince</hi>, combien est grand un Fils digne de luy !</l>
         <p rend="right sc">De Hauteville </p>
         <label type="head">Epistre</label>
-        <p>Ce Madrigal, MONSEIGNEUR, renferme un Eloge qui répond parfaitement à ce qu’on voit tous les jours éclater de grand, &amp; d’extraordinaire dans Vostre Auguste Personne, &amp; j’ay peine à croire que le Panégyrique le plus étendu pust faire concevoir davantage. Aussi n’ajoûteray-je rien à cette pensée. Je vous diray seulement, MONSEIGNEUR, que comme le Mercure ne cherche à se conserver l’accés favorable qu’il trouve, &amp; dans toute la France, &amp; dans les Cours Etrangeres, que pour avoir l’avantage de continuer à y publier les merveilles de vostre Vie, il va redoubler ses soins dans cette nouvelle Année, pour n’estre pas tout à fait indigne de la protection dont vous l’honorez. Sa fortune ne peut qu’estre fort glorieuse , si vous avez la bonté de le regarder toûjours du mesme œil que vous avez fait, &amp; je n’auray rien à souhaiter tant que vous agréerez la respectueuse protestation que je fais d’estre toute ma vie avec une entière soûmission.</p>
+        <p>Ce Madrigal, MONSEIGNEUR, renferme un Eloge qui répond parfaitement à ce qu’on voit tous
+          les jours éclater de grand, &amp; d’extraordinaire dans Vostre Auguste Personne, &amp;
+          j’ay peine à croire que le Panégyrique le plus étendu pust faire concevoir davantage.
+          Aussi n’ajoûteray-je rien à cette pensée. Je vous diray seulement, MONSEIGNEUR, que comme
+          le Mercure ne cherche à se conserver l’accés favorable qu’il trouve, &amp; dans toute la
+          France, &amp; dans les Cours Etrangeres, que pour avoir l’avantage de continuer à y
+          publier les merveilles de vostre Vie, il va redoubler ses soins dans cette nouvelle Année,
+          pour n’estre pas tout à fait indigne de la protection dont vous l’honorez. Sa fortune ne
+          peut qu’estre fort glorieuse , si vous avez la bonté de le regarder toûjours du mesme œil
+          que vous avez fait, &amp; je n’auray rien à souhaiter tant que vous agréerez la
+          respectueuse protestation que je fais d’estre toute ma vie avec une entière
+          soûmission.</p>
         <p rend="center">MONSEIGNEUR,</p>
         <p rend="right">Vostre tres-humble &amp; tres obeissant Serviteur, D.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,17 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Epithalame</head>
-        <bibl><title>Mercure galant</title>, septembre 1688 (première partie) [tome 12], p. 67-78</bibl>
+        <bibl><title>Mercure galant</title>, septembre 1688 (première partie) [tome 12],
+          p. 67-78</bibl>
         <p/>
-        <p>Je vous envoye un Epithalame dont vous aimerez le stile. Il a tout ce qu’on peut souhaiter dans un ouvrage de cette nature. Je ne puis vous dire pour qui il a esté fait. Tout ce que marque le Memoire qu’on m’en donne, c’est que l’Auteur a tres-bien rencontré dans les Portraits des Interessez ; que l’Astre qui paroist à la fin est un des premiers &amp; des plus celebres Conseillers d’Etat, &amp; que Licidas &amp; Amarante en relevent, l’un en qualité de Juge, &amp; l’autre en qualité de Vassale.</p>
+        <p>Je vous envoye un Epithalame dont vous aimerez le stile. Il a tout ce qu’on peut
+          souhaiter dans un ouvrage de cette nature. Je ne puis vous dire pour qui il a esté fait.
+          Tout ce que marque le Memoire qu’on m’en donne, c’est que l’Auteur a tres-bien rencontré
+          dans les Portraits des Interessez ; que l’Astre qui paroist à la fin est un des premiers
+          &amp; des plus celebres Conseillers d’Etat, &amp; que Licidas &amp; Amarante en relevent,
+          l’un en qualité de Juge, &amp; l’autre en qualité de Vassale.</p>
         <quote>
           <label>EPITHALAME.</label>
           <lg>
@@ -79,7 +84,8 @@
             <l rend="i"> Il sçait trop ce qu’il a promis</l>
             <l rend="i">  A Themis.</l>
             <l rend="i"> Cependant malgré sa promesse,</l>
-            <l><hi rend="i">L’Amour</hi> (<hi rend="i">sauf tous les droits de la juste Déesse</hi>)</l>
+            <l><hi rend="i">L’Amour</hi> (<hi rend="i">sauf tous les droits de la juste
+              Déesse</hi>)</l>
             <l rend="i"> Pretend au cœur de Licidas.</l>
             <l rend="i"> Il y fait quelque tentative ;</l>
             <l rend="i"> Mais le timide cœur s’esquive</l>
@@ -169,6 +175,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

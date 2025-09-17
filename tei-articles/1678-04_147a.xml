@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Réponse]</head>
         <bibl><title>Mercure galant</title>, avril 1678 [tome 4], p. 147.</bibl>
         <p>La belle Personne qui a donné occasion à ces Vers, y a répondu de cette sorte.</p>
@@ -26,6 +25,6 @@
           <l>Est-ce assez pour vous secourir ?</l>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

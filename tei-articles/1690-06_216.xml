@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,23 +14,22 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>Epitaphe</head>
-        <bibl><title>Mercure galant</title>, juin 1690 [tome 6], p. 216-217.</bibl>
-        <p>Je vous envoye la traduction d’une Epitaphe de Madame la Dauphine qui a esté faite en Latin par M<hi rend="sup">r</hi> de Vertron. Elle est de M<hi rend="sup">r</hi> Normant Avocat au Parlement.</p>
-        <quote>
-          <label>EPITAPHE.</label>
-          <lg>
-            <l rend="i">La mort a triomphé de l’illustre Victoire.</l>
-            <l rend="i">Que de tristes Cyprés dans un champ plein de gloire !</l>
-            <l rend="i">Pleurez, François, pleurez, elle est dans le tombeau.</l>
-            <l rend="i">Je me trompe, elle vit, &amp; la Parque cruelle</l>
-            <l rend="i">Ne pouvoit remporter un triomphe si beau.</l>
-            <l rend="i">Trois Augustes Enfans la rendent immortelle.</l>
-          </lg>
-        </quote>
-      </div>
-    </body>
+    <body><div>
+          <head>Epitaphe</head>
+          <bibl><title>Mercure galant</title>, juin 1690 [tome 6], p. 216-217.</bibl>
+          <p>Je vous envoye la traduction d’une Epitaphe de Madame la Dauphine qui a esté faite en Latin par M<hi rend="sup">r</hi> de Vertron. Elle est de M<hi rend="sup">r</hi> Normant Avocat au Parlement.</p>
+          <quote>
+            <label>EPITAPHE.</label>
+            <lg>
+              <l rend="i">La mort a triomphé de l’illustre Victoire.</l>
+              <l rend="i">Que de tristes Cyprés dans un champ plein de gloire !</l>
+              <l rend="i">Pleurez, François, pleurez, elle est dans le tombeau.</l>
+              <l rend="i">Je me trompe, elle vit, &amp; la Parque cruelle</l>
+              <l rend="i">Ne pouvoit remporter un triomphe si beau.</l>
+              <l rend="i">Trois Augustes Enfans la rendent immortelle.</l>
+            </lg>
+          </quote>
+        </div>
+        </body>
   </text>
 </TEI>

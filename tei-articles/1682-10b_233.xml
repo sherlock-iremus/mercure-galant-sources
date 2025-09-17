@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,42 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Nogent le Roy]</head>
-        <bibl><title>Mercure galant</title>, octobre 1682 (deuxième partie) [tome 12], p. 233-238.</bibl>
+        <bibl><title>Mercure galant</title>, octobre 1682 (deuxième partie) [tome 12],
+          p. 233-238.</bibl>
         <p>La Lettre qui suit vous instruira des Réjoüissances de Nogent le Roy. Elle est de M<hi rend="sup">r</hi> Bouchet, qui en est l’ancien Curé.</p>
         <quote>
           <label>A MONSIEUR DE C.…<lb/>A Nogent le Roy ce 24. Aoust.</label>
-          <p><hi rend="i">Je vous rends compte, Monsieur, comme vous le souhaitez, de ce qui s’est fait icy pour la Naissance de Monseigneur le Duc de Bourgogne. M<hi rend="sup">r</hi> le Marquis de Cœuvres, Gouverneur de l’Isle de France, nous ayant informé des intentions de Sa Majesté, nous chantâmes solemnellement le</hi> Te Deum <hi rend="i">dans nostre Eglise le Samedy 15. de ce mois avec les plus belles &amp; plus délicates Voix de Paris. Pendant ce temps, on tira du Chasteau vingt-deux coups de Canon ; &amp; toute nostre Jeunesse sous les armes, qui composoit un gros Bataillon d’Infanterie, sit sa décharge à diférentes reprises dans le Carfour de la Ville. En suite, Tambour batant, Enseignes déployées, Méches allumées, au son des Fifres &amp; des Flûtes-douces, qui joüoient de cadence avec les Tambours, on alla en bel ordre dans l’Hipodrome du Chasteau, qui est un lieu fort spatieux &amp; fort régulier, élevé en Terrasse propre à courir la Bague, &amp; à faire le Manége. Là, proche d’un superbe Perron à double rampant, qui fait la face &amp; l’entrée du Chasteau, le petit M<hi rend="sup">r</hi> le Marquis de Belsuns, Neveu de Madame la Comtesse de Nogent, accompagné de M<hi rend="sup">r</hi> Graffart, Bailly de ce Comté, alluma le Feu que l’on avoit préparé. On se servit de ce temps pour faire l’Exercice du Drapeau, de la Pique, &amp; du Mousquet, dont nos Bourgeois s’acquiterent avec beaucoup de grace &amp; d’adresse. Apres cela, du haut d’une seconde Terrasse, qui domine toutes les Vallées, &amp; dont la veuë est tres-agreable, on tira plusieurs coups de Canon, dont les embrazures estoient pratiquées dans des toufes de Buis, de Rosiers, &amp; de Cyprés, qui comme de petits Murs d’appuy, servent à border un magnifique Parterre, qui aboutit à une belle Galerie toute peinte ; &amp; comme en ce beau jour la joye estoit universelle, elle se répandit aussi sur le Clergé. Le jeune Curé de la Ville, &amp; moy, nous mîmes des premiers le feu aux Canons. Ce sont de grosses Pieces de Baterie qui ont esté prises autrefois sur l’Empereur Charles-Quint, &amp; qui sont marquées à ses Armes. Les principaux Officiers du Chasteau, &amp; quelques considérables Bourgeois, firent la mesme chose apres nous, &amp; mirent le feu aux autres Pieces d’Artillerie. Cela fait, toute nostre brave Infanterie fit paroistre encor sa joye par de nouvelles décharges. Le soir on fit des Feux par toute la Ville. Ce ne furent que Festins ; &amp; comme on y bût à rouge bord, on fit force Chansons inpromptu, dont le refrain estoit,</hi></p>
+          <p><hi rend="i">Je vous rends compte, Monsieur, comme vous le souhaitez, de ce qui s’est
+              fait icy pour la Naissance de Monseigneur le Duc de Bourgogne. M<hi rend="sup">r</hi>
+              le Marquis de Cœuvres, Gouverneur de l’Isle de France, nous ayant informé des
+              intentions de Sa Majesté, nous chantâmes solemnellement le</hi> Te Deum <hi rend="i">dans nostre Eglise le Samedy 15. de ce mois avec les plus belles &amp; plus délicates
+              Voix de Paris. Pendant ce temps, on tira du Chasteau vingt-deux coups de Canon ; &amp;
+              toute nostre Jeunesse sous les armes, qui composoit un gros Bataillon d’Infanterie,
+              sit sa décharge à diférentes reprises dans le Carfour de la Ville. En suite, Tambour
+              batant, Enseignes déployées, Méches allumées, au son des Fifres &amp; des
+              Flûtes-douces, qui joüoient de cadence avec les Tambours, on alla en bel ordre dans
+              l’Hipodrome du Chasteau, qui est un lieu fort spatieux &amp; fort régulier, élevé en
+              Terrasse propre à courir la Bague, &amp; à faire le Manége. Là, proche d’un superbe
+              Perron à double rampant, qui fait la face &amp; l’entrée du Chasteau, le petit M<hi rend="sup">r</hi> le Marquis de Belsuns, Neveu de Madame la Comtesse de Nogent,
+              accompagné de M<hi rend="sup">r</hi> Graffart, Bailly de ce Comté, alluma le Feu que
+              l’on avoit préparé. On se servit de ce temps pour faire l’Exercice du Drapeau, de la
+              Pique, &amp; du Mousquet, dont nos Bourgeois s’acquiterent avec beaucoup de grace
+              &amp; d’adresse. Apres cela, du haut d’une seconde Terrasse, qui domine toutes les
+              Vallées, &amp; dont la veuë est tres-agreable, on tira plusieurs coups de Canon, dont
+              les embrazures estoient pratiquées dans des toufes de Buis, de Rosiers, &amp; de
+              Cyprés, qui comme de petits Murs d’appuy, servent à border un magnifique Parterre, qui
+              aboutit à une belle Galerie toute peinte ; &amp; comme en ce beau jour la joye estoit
+              universelle, elle se répandit aussi sur le Clergé. Le jeune Curé de la Ville, &amp;
+              moy, nous mîmes des premiers le feu aux Canons. Ce sont de grosses Pieces de Baterie
+              qui ont esté prises autrefois sur l’Empereur Charles-Quint, &amp; qui sont marquées à
+              ses Armes. Les principaux Officiers du Chasteau, &amp; quelques considérables
+              Bourgeois, firent la mesme chose apres nous, &amp; mirent le feu aux autres Pieces
+              d’Artillerie. Cela fait, toute nostre brave Infanterie fit paroistre encor sa joye par
+              de nouvelles décharges. Le soir on fit des Feux par toute la Ville. Ce ne furent que
+              Festins ; &amp; comme on y bût à rouge bord, on fit force Chansons inpromptu, dont le
+              refrain estoit,</hi></p>
           <quote>
             <lg>
               <l>Tirons, chantons, rions, bûvons à toute outrance,</l>
@@ -73,10 +101,13 @@
             </lg>
           </quote>
           <p>
-            <hi rend="i">Vous voulez bien, Monsieur, que je fasse icy parler les Bourgeois de nostre Ville dans l’épanchement de joye où ils sont, &amp; que le langage du Parnasse, qui est succint &amp; sententieux, soit l’Interprete de leurs sentimens. Ie suis vostre, &amp;c.</hi>
+            <hi rend="i">Vous voulez bien, Monsieur, que je fasse icy parler les Bourgeois de nostre
+              Ville dans l’épanchement de joye où ils sont, &amp; que le langage du Parnasse, qui
+              est succint &amp; sententieux, soit l’Interprete de leurs sentimens. Ie suis vostre,
+              &amp;c.</hi>
           </p>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,17 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head resp="editor">Mort de Mr Berault, Professeur du Roy en Langue Hébraïque</head>
-        <bibl><title>Mercure galant</title>, avril 1705 [tome 4], p. 182-183.</bibl>
-        <p>M<hi rend="sup">r</hi> Berault Professeur du Roy en Langue Hebraïque au College Royal, mourut dans le mois de Mars. C’estoit un des plus sçavans hommes de France pour l’intelligence des Langues. Il s’y estoit appliqué avec succés dés sa plus tendre jeunesse. Il a laissé d’excellens manuscrits remplis de sçavantes remarques sur les meilleurs Interpretes de l’Ecriture. Il avoit fait des Notes critiques sur Aben-Ezra &amp; sur Maimonides deux fameux Rabins. Il avoit de grandes relations avec le Docteur Hydes, mort en Angleterre depuis deux ans.</p>
-      </div>
-    </body>
+    <body><div>
+          <head resp="editor">Mort de Mr Berault, Professeur du Roy en Langue Hébraïque</head>
+          <bibl><title>Mercure galant</title>, avril 1705 [tome 4], p. 182-183.</bibl>
+          <p>M<hi rend="sup">r</hi> Berault Professeur du Roy en Langue Hebraïque au College Royal,
+            mourut dans le mois de Mars. C’estoit un des plus sçavans hommes de France pour
+            l’intelligence des Langues. Il s’y estoit appliqué avec succés dés sa plus tendre
+            jeunesse. Il a laissé d’excellens manuscrits remplis de sçavantes remarques sur les
+            meilleurs Interpretes de l’Ecriture. Il avoit fait des Notes critiques sur Aben-Ezra
+            &amp; sur Maimonides deux fameux Rabins. Il avoit de grandes relations avec le Docteur
+            Hydes, mort en Angleterre depuis deux ans.</p>
+        </div>
+        </body>
   </text>
 </TEI>

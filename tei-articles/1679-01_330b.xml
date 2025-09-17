@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,16 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>[L'Inconnu, de M. de Corneille le jeune, représenté par la Troupe du Roy au Fauxbourg Saint Germain]</head>
+    <body><div>
+        <head>[L'Inconnu, de M. de Corneille le jeune, représenté par la Troupe du Roy au Fauxbourg
+          Saint Germain]</head>
         <bibl><title>Mercure galant</title>, janvier 1679 [tome 1], p. 330-331.</bibl>
-        <p>La Troupe du Roy qui joüe au Fauxbourg S. Germain, a reuni pour nouveauté <hi rend="i">l’Inconnu</hi>, de M<hi rend="sup">r</hi> de Corneille le jeune. Cette galante Piece a des agrémens si particuliers, qu’on commence d’y courir en foule, comme on faisoit il y a trois ans. Le cinquième Acte en est changé, &amp; a esté pris d’une autre Piece du mesme Autheur, qui n’ayant aucune part à ce changement, ne doit pas répondre du manque de justesse qui s’y peut trouver.</p>
+        <p>La Troupe du Roy qui joüe au Fauxbourg S. Germain, a reuni pour nouveauté <hi rend="i">l’Inconnu</hi>, de M<hi rend="sup">r</hi> de Corneille le jeune. Cette galante Piece a
+          des agrémens si particuliers, qu’on commence d’y courir en foule, comme on faisoit il y a
+          trois ans. Le cinquième Acte en est changé, &amp; a esté pris d’une autre Piece du mesme
+          Autheur, qui n’ayant aucune part à ce changement, ne doit pas répondre du manque de
+          justesse qui s’y peut trouver.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

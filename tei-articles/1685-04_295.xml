@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>[Nouveaux Acteurs dans la Troupe des Comédiens Italiens]</head>
-        <bibl><title>Mercure galant</title>, avril 1685 [tome 4], p. 295</bibl>
-        <p>Les Italiens qui ont déja paru ce Caresme avec un Acteur nouveau, vont encore fortifier leur Troupe de deux autres qui leur viennent d’Italie. C’est un Amant, &amp; un Polichinelle. S’ils plaisent autant que Pasquarel, leur Sale se trouvera trop petite pour les Assemblées qu’ils attireront. J’ay cru pouvoir m’étendre autant que j’ay fait sur ce qui regarde des Troupes dont les premieres Personnes de la Terre veulent bien prendre la peine de se mêler.</p>
-      </div>
-    </body>
+    <body><div>
+          <head>[Nouveaux Acteurs dans la Troupe des Comédiens Italiens]</head>
+          <bibl><title>Mercure galant</title>, avril 1685 [tome 4], p. 295</bibl>
+          <p>Les Italiens qui ont déja paru ce Caresme avec un Acteur nouveau, vont encore fortifier leur Troupe de deux autres qui leur viennent d’Italie. C’est un Amant, &amp; un Polichinelle. S’ils plaisent autant que Pasquarel, leur Sale se trouvera trop petite pour les Assemblées qu’ils attireront. J’ay cru pouvoir m’étendre autant que j’ay fait sur ce qui regarde des Troupes dont les premieres Personnes de la Terre veulent bien prendre la peine de se mêler.</p>
+        </div>
+      </body>
   </text>
 </TEI>

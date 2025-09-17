@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,20 +14,16 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, octobre 1698 [tome 10], p. 247-248.</bibl>
         <p>Voicy une seconde Chanson, notée par un homme qui entend parfaitement la Musique.</p>
         <quote>
-          <label>AIR NOUVEAU.</label>
-          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">Dans le bel âge il est doux de se rendre</hi>, doit regarder la page 247.</note>
-          <lg>
-            <l rend="i">Dans le bel âge il est doux de se rendre.</l>
+          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">Dans le bel âge il est doux de se rendre</hi>, doit regarder la page 247.</note>
+          <lg><l rend="i">Dans le bel âge il est doux de se rendre.</l>
             <l rend="i">Tranquilles cœurs, laissez vous enflammer.</l>
             <l rend="i">Il faut aimer, on ne s'en peut défendre.</l>
-            <l rend="i">Il faut aimer, l'amour doit tout charmer.</l>
-          </lg>
+            <l rend="i">Il faut aimer, l'amour doit tout charmer.</l></lg>
         </quote>
         <ref target="images/1698-10_247.JPG">
           <figure>
@@ -35,6 +31,6 @@
           </figure>
         </ref>
       </div>
-    </body>
+        </body>
   </text>
 </TEI>

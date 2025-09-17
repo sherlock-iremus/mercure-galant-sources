@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Pour Monsieur le Comte de Louvigny</head>
         <bibl><title>Mercure galant</title>, juillet 1679 [tome 7], p. 115-116.</bibl>
         <quote>
-          <label type="head">Pour Monsieur <lb/>le <lb/>Comte de Louvigny, <lb/>Genéral des Armées d’Espagne, <lb/>&amp; des Troupes d’Osnabruck.</label>
+          <label type="head">Pour Monsieur <lb/>le <lb/>Comte de Louvigny, <lb/>Genéral des Armées
+            d’Espagne, <lb/>&amp; des Troupes d’Osnabruck.</label>
           <label type="head">Sonnet.</label>
           <l>QUe n’es-tu, <hi rend="i">Louvigny</hi>, le Grand-Mogol des Indes !</l>
           <l>Que ne possedes-tu les Biens du Grand-Seigneur ;</l>
@@ -43,6 +43,6 @@
           <l>Tu fais plus que César, de l’avoir disputé.</l>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

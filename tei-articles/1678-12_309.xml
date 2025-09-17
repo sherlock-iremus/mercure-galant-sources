@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, décembre 1678 [tome 12], p. 309-310.</bibl>
-        <p>On m’a envoyé un Air nouveau de M<hi rend="sup">r</hi> des Fontaines. Je vous en fais part. En voicy les Paroles.</p>
+        <p>On m’a envoyé un Air nouveau de M<hi rend="sup">r</hi> des Fontaines. Je vous en fais
+          part. En voicy les Paroles.</p>
         <quote>
-          <label>AIR NOUVEAU.</label>
-          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Ce n’est qu’au retour des beaux jours</hi>, doit regarder la page 309.</note>
+          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour
+              placer les Figures</hi> : l’Air qui commence par <hi rend="i">Ce n’est qu’au retour
+              des beaux jours</hi>, doit regarder la page 309.</note>
           <lg>
             <l rend="i"><space/>Ce n’est qu’au retour des beaux jours</l>
             <l rend="i">Qu’on doit suivre l’ardeur que l’Amour nous inspire.</l>

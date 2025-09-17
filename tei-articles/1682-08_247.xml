@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head resp="editor">Madrigal.</head>
         <bibl><title>Mercure galant</title>, août 1682 [tome 8], p. 247-248.</bibl>
         <p/>
-        <p>Je réserve pour une autre fois un fort grand nombre de Vers qui m’ont esté envoyez sur le mesme sujet, &amp; vous n’aurez plus que ce Madrigal dans cette Relation.</p>
+        <p>Je réserve pour une autre fois un fort grand nombre de Vers qui m’ont esté envoyez sur le
+          mesme sujet, &amp; vous n’aurez plus que ce Madrigal dans cette Relation.</p>
         <quote>
-          <label>SUR L’HEUREUX<lb/><hi rend="sc">accouchement de Madame</hi><lb/>LA DAUPHINE.</label>
+          <label>SUR L’HEUREUX<lb/><hi rend="sc">accouchement de Madame</hi><lb/>LA
+            DAUPHINE.</label>
           <lg>
             <l rend="i">Ce Prince plus beau que le jour,</l>
             <l rend="i">Qui selon nos vœux vient de naître,</l>
@@ -32,6 +33,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

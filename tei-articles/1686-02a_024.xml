@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Le Poëte rebuté. Caprice</head>
-        <bibl><title>Mercure galant</title>, février 1686 (première partie) [tome 2], p. 24-31</bibl>
+        <bibl><title>Mercure galant</title>, février 1686 (première partie) [tome 2],
+          p. 24-31</bibl>
         <p/>
-        <p>Le talent de sçavoir faire des Vers, est un talent qui a son merite, mais il est infructueux, &amp; la pluspart de ceux qui s’en mêlent, ne sont pas trop bien avec la fortune. C’est ce qui a fait faire l’Ouvrage qui suit à un galant homme, qui n’a trouvé que de vains amusemens dans le commerce des Muses.</p>
+        <p>Le talent de sçavoir faire des Vers, est un talent qui a son merite, mais il est
+          infructueux, &amp; la pluspart de ceux qui s’en mêlent, ne sont pas trop bien avec la
+          fortune. C’est ce qui a fait faire l’Ouvrage qui suit à un galant homme, qui n’a trouvé
+          que de vains amusemens dans le commerce des Muses.</p>
         <quote>
           <label>LE POËTE REBUTÉ.<lb/><hi rend="i">CAPRICE.</hi></label>
           <lg>
@@ -177,6 +180,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

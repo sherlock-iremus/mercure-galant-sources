@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Sur le Siege de Vienne</head>
-        <bibl><title>Mercure galant</title>, octobre 1683 (deuxième partie) [tome 12], p. 292-295.</bibl>
-        <p>Comme les grands évenemens font presque toûjours faire des Vers à ceux qui aiment assez la Poësie, pour se donner le plaisir d’y travailler ; si-tost que le Siege de Vienne fut formé, M<hi rend="sup">r</hi> le Chevalier d’Apremont fit le Sonnet que vous allez voir, sur la honte que les Turcs devoient attendre de cette Entreprise. C’est un Gentilhomme du Bourbonnois, dont les belles qualitez égalent l’esprit.</p>
+        <bibl><title>Mercure galant</title>, octobre 1683 (deuxième partie) [tome 12],
+          p. 292-295.</bibl>
+        <p>Comme les grands évenemens font presque toûjours faire des Vers à ceux qui aiment assez
+          la Poësie, pour se donner le plaisir d’y travailler ; si-tost que le Siege de Vienne fut
+          formé, M<hi rend="sup">r</hi> le Chevalier d’Apremont fit le Sonnet que vous allez voir,
+          sur la honte que les Turcs devoient attendre de cette Entreprise. C’est un Gentilhomme du
+          Bourbonnois, dont les belles qualitez égalent l’esprit.</p>
         <quote>
           <label>SUR LE SIEGE<lb/>DE VIENNE.</label>
           <lg>
@@ -48,6 +52,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

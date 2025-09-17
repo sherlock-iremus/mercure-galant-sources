@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Dialogue de Pallas &amp; des Muses sur le Voyage du Roy.]</head>
         <bibl><title>Mercure galant</title>, mars 1692 [tome 3], p. 283-285.</bibl>
-        <p>Voicy des Vers qui ont esté faits par M<hi rend="sup">r</hi> de Boismenil, d'Abbeville, sur le départ du Roy pour Compiegne. Ces vers sont faits pour chanter, &amp; je ne doute point qu'il ne se trouve beaucoup de Musiciens qui ne cherchant qu'à faire retentir la gloire de ce Monarque, s'appliqueront à les mettre en Air.</p>
+        <p>Voicy des Vers qui ont esté faits par M<hi rend="sup">r</hi> de Boismenil, d'Abbeville,
+          sur le départ du Roy pour Compiegne. Ces vers sont faits pour chanter, &amp; je ne doute
+          point qu'il ne se trouve beaucoup de Musiciens qui ne cherchant qu'à faire retentir la
+          gloire de ce Monarque, s'appliqueront à les mettre en Air.</p>
         <quote>
           <lg>
             <label>SUR LE DEPART<lb/>DU ROY,<lb/>RECIT DE PALLAS.</label>
@@ -47,6 +49,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

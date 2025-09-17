@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>L’Empire de Mars</head>
-        <bibl><title>Mercure galant</title>, février 1679 [tome 2], p. 219-252.</bibl>
-        <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : L’Empire de Mars doit regarder la page 224.</note>
+        <bibl><title>Mercure galant</title>, février 1679 [tome 2], p. 219-252.</bibl><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : L’Empire de Mars doit regarder la page 224.</note>
         <p>La plûpart des Actions des Hommes estant examinées par des Gens sans occupation, il ne faut pas s’étonner si on leur donne quelquefois des motifs tout autres que ceux qui les ont produites. Ces honnestes Faineans qui n’ont que les affaires d’autruy dans la teste, faute d’en avoir pour eux-mesmes, ont leurs lieux d’assemblée où ils raisonnent à fond de toutes choses. Il n’arrive rien qui ne soit la matiere de leurs réflexions, &amp; ils vont souvent jusqu’à vouloir deviner les plus secretes pensées de ceux qu’ils s’attachent à connoistre. Un peu apres qu’on eut publié la Paix d’Espagne, ils se trouverent assemblez en assez grand nombre. Ils parlerent d’abord de l’interest qu’avoient tous les princes de l’Empire à la faire genérale ; &amp; s’estant entretenus en suite de la gloire que beaucoup de Braves s’estoient acquise pendant la derniere Guerre, ils tomberent sur certaines Gens qui avoient fait plusieurs Campagnes, quoy que par bien des raisons ils ne dûssent pas aller à l’Armée, les uns estant trop avares pour soûtenir la dépense qu’il y faut faire, &amp; les autres ayant fait voir en plusieurs occasions qu’ils manquoient de cœur. Un de ces Piliers de conversation dont je viens de vous parler, &amp; qui sçavent assez ce qui se passe à force de lire tous les jours dans le grand Livre du monde, dit que ce qui venoit de causer tant de surprise, ne devoit pas estre un sujet d’étonnement, &amp; qu’il prétendoit le prouver, en faisant connoistre ce que c’estoit que l’Empire de Mars ; que bien que la Paix commençast à régner en France, la Guerre ne laisseroit pas d’estre toûjours dans quelque Partie du Monde ; que ce qu’il prétendoit établir devoit estre bon en tout temps, &amp; qu’il osoit mesme soûtenir qu’il seroit plus de saison que jamais, puis qu’en parlant genéralement des choses qui regardent la Guerre, &amp; des motifs qui y font aller, ce qu’il diroit pourroit donner lieu à des refléxions, qui par l’aplication qui les suivroit, feroient estimer davantage une partie de ceux qui s’estoient trouvez dans les dernieres Campagnes. Chacun se montra disposé à l’écouter. Il demanda du temps, &amp; dit que son dessein estoit de donner par écrit une Description de l’Empire de Mars, &amp; d’en faire mesme une Carte. Son dessein fut approuvé. On parla d’autre chose. Dix ou douze jours se passerent, &amp; enfin il tint parole. Il fit voir d’abord la Carte que je vous envoye, &amp; pria la Compagnie de l’examiner. Vous ferez, s’il vous plaist, la mesme chose, afin que par le raport du Chifre que vous y trouverez marqué, &amp; de celuy qui est dans l’ouvrage qu’il leur apporta, vous puissiez plus aisément distinguer les divers Articles qui le composent. Le plus empressé prit cet ouvrage, &amp; le lût tout haut. Voicy ce qu’il contenoit.</p>
         <quote rend="border">
           <label>L’Empire</label>
@@ -53,6 +51,6 @@
         </quote>
         <p>Toute l’Assemblée fut assez contente de cette Piece. L’invention en parut fort agreable. On dit qu’à la bien examiner, on y trouveroit tout ce qui se passe dans la Guerre, qu’elle estoit morale &amp; utile, &amp; qu’on ne s’étonnoit plus si certaines Gens s’estoient fait un point-d’honneur d’aller à l’Armée.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

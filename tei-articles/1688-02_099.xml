@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,17 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Vers en maniere de petit Opera, propres à mettre en chant]</head>
         <bibl><title>Mercure galant</title>, février 1688 [tome 2], p. 99-110</bibl>
         <p/>
-        <p>Voicy d'autres Vers fort agreables &amp; fort propres à estre mis en Musique ; aussi celuy qui les a faits n'a travaillé que dans la pensée qu'il se trouveroit quelque habile homme qui voudroit bien les mettre en estat d'estre chantez. Il y a plusieurs endroits où l'on peut faire des Choeurs. C'est une maniere de prologue d'<hi rend="i">Opera</hi>, &amp; comme il est à la loüange du Roy, la matiere invite à luy donner l'agrément du chant. On suppose que la Scene est dans une solitude agreable. L'ouverture est d'un Berger &amp; d'une Bergere.</p>
+        <p>Voicy d'autres Vers fort agreables &amp; fort propres à estre mis en Musique ; aussi
+          celuy qui les a faits n'a travaillé que dans la pensée qu'il se trouveroit quelque habile
+          homme qui voudroit bien les mettre en estat d'estre chantez. Il y a plusieurs endroits où
+          l'on peut faire des Choeurs. C'est une maniere de prologue d'<hi rend="i">Opera</hi>,
+          &amp; comme il est à la loüange du Roy, la matiere invite à luy donner l'agrément du
+          chant. On suppose que la Scene est dans une solitude agreable. L'ouverture est d'un Berger
+          &amp; d'une Bergere.</p>
         <quote>
           <label>LE BERGER.</label>
           <lg>
@@ -97,7 +102,8 @@
             <l rend="i">Aux Echos d'alentour faisons toûjours redire</l>
             <l rend="i">Qu'il n'est point de Bergers dont le sort soit si doux.</l>
           </lg>
-          <label>Mercure vient, precedé d'une Toupe [sic] de Divinitez, &amp; avant qu'il paroisse on entend une agreable Musique.</label>
+          <label>Mercure vient, precedé d'une Toupe [sic] de Divinitez, &amp; avant qu'il paroisse
+            on entend une agreable Musique.</label>
           <label>LE BERGER.</label>
           <lg>
             <l rend="i"> D'où peut venir cette harmonie ?</l>
@@ -233,6 +239,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

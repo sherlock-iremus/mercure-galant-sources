@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>A Iris. Sonnet</head>
         <bibl><title>Mercure galant</title>, novembre 1679 [tome 12], p. 160-162.</bibl>
-        <p>J'ajoûte un Sonnet sur la Maladie du temps. Il a esté envoyé à une Belle enrhumée, qui fait gloire de ne rien aimer.</p>
+        <p>J'ajoûte un Sonnet sur la Maladie du temps. Il a esté envoyé à une Belle enrhumée, qui
+          fait gloire de ne rien aimer.</p>
         <quote>
           <label type="head">A Iris.<lb/>Sonnet.</label>
           <l>J'eus un ennuy si fort à la triste nouvelle</l>
@@ -43,6 +43,6 @@
           <l>Quand je vous voy d’humeur à n’en point aimer d’autre.</l>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Madrigal à Iris]</head>
         <bibl><title>Mercure galant</title>, avril 1678 [tome 4], p. 3-5.</bibl>
-        <p>Voyez, Madame, par ce Madrigal si je présume trop du cours que vous m’avez fait avoir dans le monde.</p>
+        <p>Voyez, Madame, par ce Madrigal si je présume trop du cours que vous m’avez fait avoir
+          dans le monde.</p>
         <quote>
           <label>MADRIGAL.</label>
           <lg>
@@ -38,8 +38,11 @@
             <l><space/><space/>Il faut tout au moins estre deux.</l>
           </lg>
         </quote>
-        <p>Quoy qu’en dise ce Madrigal, il n’est point besoin d’estre de concert pour se donner le plaisir de produire une Avanture. Il l’en naist que trop tous les jours que les Interessez ne peuvent prévoir, &amp; qui ont quelquefois de fâcheuses apparences, quoy que dans le fond il n’y ait rien de plus innocent.</p>
+        <p>Quoy qu’en dise ce Madrigal, il n’est point besoin d’estre de concert pour se donner le
+          plaisir de produire une Avanture. Il l’en naist que trop tous les jours que les Interessez
+          ne peuvent prévoir, &amp; qui ont quelquefois de fâcheuses apparences, quoy que dans le
+          fond il n’y ait rien de plus innocent.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

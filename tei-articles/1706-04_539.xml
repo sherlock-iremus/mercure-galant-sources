@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,19 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>Avis important</head>
-        <bibl><title>Mercure galant</title>, avril 1706 [tome 4], p. 539-540.</bibl>
-        <quote>
-          <label>AVIS IMPORTANT.</label>
-          <p>Les heureuses Nouvelles que huit ou neuf Courriers ont apportées, coup sur coup, sont cause, que pour se rembourser des frais que l’on a esté obligé de faire, en grossissant le Mercure, on vendra 50. sols ce Volume, seulement. On distribuëra celuy de May le 4. de Juin. La longueur du temps qu’il a fallu employer pour imprimer celuy d’Avril, est cause qu’on n’a pû le donner au jour marqué.</p>
-        </quote>
-      </div>
-    </body>
+    <body><div>
+                    <head>Avis important</head>
+                    <bibl><title>Mercure galant</title>, avril 1706 [tome 4], p. 539-540.</bibl>
+                    <quote>
+                        <label>AVIS IMPORTANT.</label>
+                        <p>Les heureuses Nouvelles que huit ou neuf Courriers ont apportées, coup
+                            sur coup, sont cause, que pour se rembourser des frais que l’on a esté
+                            obligé de faire, en grossissant le Mercure, on vendra 50. sols ce
+                            Volume, seulement. On distribuëra celuy de May le 4. de Juin. La
+                            longueur du temps qu’il a fallu employer pour imprimer celuy d’Avril,
+                            est cause qu’on n’a pû le donner au jour marqué.</p>
+                    </quote>
+                </div>
+            </body>
   </text>
 </TEI>

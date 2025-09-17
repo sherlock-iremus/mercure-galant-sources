@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Madrigal</head>
         <bibl><title>Mercure galant</title>, février 1679 [tome 2], p. 128-129.</bibl>
         <p>Un galant Homme qu’un compliment semblable à celuy que reçeut la Dame, obligea aussi un jour de rendre la Bource, s’en consola par ces Vers envoyez à une Belle.</p>
@@ -29,6 +28,6 @@
           <l>Je ne puis rien de plus en l’état où je suis.</l>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

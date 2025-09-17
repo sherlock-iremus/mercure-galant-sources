@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,16 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Sur l’almanach de Milan] *</head>
         <bibl><title>Mercure galant</title>, janvier 1678 [tome 1], p. 282-283.</bibl>
-        <p>J’en croirois plutost cet Anagramme, qui promet une Couronne à une Princesse qui est née pour la porter, que toutes les Prédictions de l’Almanach de Milan, quoy qu’il semble que tout ce qu’il a prédit depuis trois ans soit arrivé, &amp; qu’il ait acquis tant de crédit, qu’il est devenu à la mode pour les plus belle Ruelles où tout le monde le lit comme un Livre de galanterie. Celuy de cette Année fait voir qu’entre plusieurs grands évenemens, le dernier avoit marqué le Mariage du Prince d’Orange.</p>
+        <p>J’en croirois plutost cet Anagramme, qui promet une Couronne à une Princesse qui est née
+          pour la porter, que toutes les Prédictions de l’Almanach de Milan, quoy qu’il semble que
+          tout ce qu’il a prédit depuis trois ans soit arrivé, &amp; qu’il ait acquis tant de
+          crédit, qu’il est devenu à la mode pour les plus belle Ruelles où tout le monde le lit
+          comme un Livre de galanterie. Celuy de cette Année fait voir qu’entre plusieurs grands
+          évenemens, le dernier avoit marqué le Mariage du Prince d’Orange.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

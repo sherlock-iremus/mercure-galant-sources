@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Epitre</head>
         <bibl><title>Mercure galant</title>, octobre 1684 [tome 12], p. 195-202.</bibl>
-        <p>Avoüez, Madame, que quand je ne vous aurois pas nommé M<hi rend="sup">r</hi> Magnin, le génie aisé qui brille en ses Vers vous l’auroit fait reconnoître. Voicy l’Ouvrage de M<hi rend="sup">r</hi> de Sabbatier, adressé au mesme Duc.</p>
+        <p>Avoüez, Madame, que quand je ne vous aurois pas nommé M<hi rend="sup">r</hi> Magnin, le
+          génie aisé qui brille en ses Vers vous l’auroit fait reconnoître. Voicy l’Ouvrage de M<hi rend="sup">r</hi> de Sabbatier, adressé au mesme Duc.</p>
         <quote>
           <label>EPÎTRE.</label>
           <lg>
@@ -75,7 +75,8 @@
             <l rend="i">De tant de Légions l’Univers outragé,</l>
             <l rend="i">Par leurs propres malheurs se vit enfin vangé.</l>
             <l rend="i">Leüant les vieux Romains que nous vante l’Histoire,</l>
-            <l><hi rend="i">Je pense en mesme temps,</hi> Saint Aignan, <hi rend="i">à ta gloire ;</hi></l>
+            <l><hi rend="i">Je pense en mesme temps,</hi> Saint Aignan, <hi rend="i">à ta
+                gloire ;</hi></l>
             <l rend="i">Par tes rares vertus, par tes exploits fameux,</l>
             <l rend="i">Je reconnois en toy, ce qu’on voyoit en eux.</l>
             <l rend="i">Certes, c’est à présent que ma Muse doit craindre.</l>
@@ -91,6 +92,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Chanson nouvelle</head>
         <bibl><title>Mercure galant </title>, mars 1699 [tome 3], p. 105-107.</bibl>
         <p>Je vous envoye un Air nouveau de M. Vaudry. Les paroles sont de M. Dader.</p>
         <quote>
-          <label>
-            <hi rend="sc">Chanson Nouvelle.</hi>
-          </label>
-          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">Le fier Tirsis</hi>, doit regarder la page 105.</note>
+          <label><hi rend="sc">Chanson Nouvelle.</hi></label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">Le fier Tirsis</hi>, doit regarder la page 105.</note>
           <lg>
             <l rend="i">Le fier Tircis armé de sa houlete</l>
             <l rend="i">Brave l'Amour comme il brave les loups ;</l>
@@ -58,6 +54,6 @@
           </figure>
         </ref>
       </div>
-    </body>
+        </body>
   </text>
 </TEI>

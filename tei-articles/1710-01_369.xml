@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head resp="editor">Ajout à l’éloge de M<hi rend="sup">r</hi> Corneille</head>
-        <bibl><title>Mercure galant</title>, janvier 1710 [tome 1], p. 369-370.</bibl>
-        <p>Je dois ajoûter icy ce que j’ay oublié de vous dire dans l’Eloge que j’ay fait de Mr de Corneille ; sçavoir, que son grand travail, &amp; sur tout le grand nombre de Livres &amp; de Memoires qu’il a esté obligé de lire pour composer les cinq Volumes <hi rend="i">in folio</hi> qu’il a donnez au Public, luy avoient fait perdre la vûë quelques années avant sa mort ; que son Eloge a esté fait par un Aveugle, &amp; que sa place a esté remplie par un autre Aveugle qui doit faire aussi son Eloge le jour de sa reception.</p>
-      </div>
-    </body>
+    <body><div>
+                    <head resp="editor">Ajout à l’éloge de M<hi rend="sup">r</hi> Corneille</head>
+                    <bibl><title>Mercure galant</title>, janvier 1710 [tome 1], p. 369-370.</bibl>
+                    <p>Je dois ajoûter icy ce que j’ay oublié de vous dire dans l’Eloge que j’ay fait de Mr de Corneille ; sçavoir, que son grand travail, &amp; sur tout le grand nombre de Livres &amp; de Memoires qu’il a esté obligé de lire pour composer les cinq Volumes <hi rend="i">in folio</hi> qu’il a donnez au Public, luy avoient fait perdre la vûë quelques années avant sa mort ; que son Eloge a esté fait par un Aveugle, &amp; que sa place a esté remplie par un autre Aveugle qui doit faire aussi son Eloge le jour de sa reception.</p>
+                </div>
+            </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,17 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Prélude]</head>
         <bibl><title>Mercure galant</title>, mai 1683 [tome 5], p. 1-2.</bibl>
-        <p>J’ay bien crû, Madame, que je vous faisois plaisir, en vous envoyant les Vers qui ont esté faits sur la Pension dont le Roy a gratifié l’illustre Sapho de nostre Siecle. L’estime que vous avez toûjours euë pour elle, me répondoit de la part que vous prendriez à ses avantages ; &amp; comme ils augmentent par l’empressement que tout le monde témoigne à se réjoüir, de voir récompenser un mérite aussi genéralement connu que le sien, je vous donnerois sujet de vous plaindre, si je négligeois de vous envoyer, ce que M<hi rend="sup">r</hi> Bétoulaud adresse aux Muses sur cette matiere. Elle ne sçauroit estre plus noble, puis qu’elle regarde le plus grand de tous les Roys.</p>
+        <p>J’ay bien crû, Madame, que je vous faisois plaisir, en vous envoyant les Vers qui ont
+          esté faits sur la Pension dont le Roy a gratifié l’illustre Sapho de nostre Siecle.
+          L’estime que vous avez toûjours euë pour elle, me répondoit de la part que vous prendriez
+          à ses avantages ; &amp; comme ils augmentent par l’empressement que tout le monde témoigne
+          à se réjoüir, de voir récompenser un mérite aussi genéralement connu que le sien, je vous
+          donnerois sujet de vous plaindre, si je négligeois de vous envoyer, ce que M<hi rend="sup">r</hi> Bétoulaud adresse aux Muses sur cette matiere. Elle ne sçauroit estre plus
+          noble, puis qu’elle regarde le plus grand de tous les Roys.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

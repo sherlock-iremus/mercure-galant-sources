@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Devise sur le Soleil, par Madame de Saliez, Viguiere d’Alby</head>
         <bibl><title>Mercure galant</title>, février 1686 (deuxième partie) [tome 3], p. 318</bibl>
         <quote>
-          <label>DEVISE.<lb/>Elle a le Soleil pour corps.<lb/>Et pour ame, <hi rend="i">Più Grande là sù</hi>.<lb/>MADRIGAL.</label>
+          <label>DEVISE.<lb/>Elle a le Soleil pour corps.<lb/>Et pour ame, <hi rend="i">Più Grande
+              là sù</hi>.<lb/>MADRIGAL.</label>
           <lg>
             <l rend="i">Mortels qui m’admirez, vous ne sçauriez connoistre</l>
             <l rend="i">Par mes soins sans relâche &amp; ma brillante ardeur,</l>
@@ -30,6 +30,6 @@
           <p>Madame de Saliez.</p>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

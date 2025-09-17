@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, mai 1690 [tome 5], p. 32-33.</bibl>
         <p>Jamais Chanson ne fut plus du temps que celle que je vous envoye, puis qu'elle regarde, non seulement la belle Saison, mais encore le commencement de la Campagne. L'Air &amp; les paroles sont de M<hi rend="sup">r</hi> de Bacilly, dont le merite vous est si connu.</p>
         <quote>
-          <label>AIR NOUVEAU.</label>
-          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">Dans ce charmant sejour que de fleurs vont renaistre</hi>, doit regarder la page 32.</note>
+          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">Dans ce charmant sejour que de fleurs vont renaistre</hi>, doit regarder la page 32.</note>
           <lg>
             <l rend="i">Dans ce charmant sejour que de fleurs vont renaistre !</l>
             <l rend="i">Mais las ! en mesme temps</l>
@@ -46,6 +44,6 @@
           </figure>
         </ref>
       </div>
-    </body>
+        </body>
   </text>
 </TEI>

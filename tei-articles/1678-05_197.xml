@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Galanterie envoyée à M. le Président Charton]</head>
         <bibl><title>Mercure galant</title>, mai 1678 [tome 5], p. 197-204.</bibl>
-        <p>J'adjoûteray seulement icy une tres-agreable Galanterie qui a esté envoyée pour Bouquet à M<hi rend="sup">r</hi> le Président Charton par une Demoiselle toute belle &amp; toute aimable, &amp; qui est de ses particulieres Amies.</p>
+        <p>J'adjoûteray seulement icy une tres-agreable Galanterie qui a esté envoyée pour Bouquet à
+            M<hi rend="sup">r</hi> le Président Charton par une Demoiselle toute belle &amp; toute
+          aimable, &amp; qui est de ses particulieres Amies.</p>
         <quote rend="border">
           <label rend="center">BOUQUET<lb/>POUR MONSIEUR<lb/>LE<lb/>PRESIDENT CHARTON.</label>
           <lg>
@@ -105,8 +106,14 @@
             <l rend="i">Pensez à l’ordre qu’il impose.</l>
           </lg>
         </quote>
-        <p>M<hi rend="sup">r</hi> le Président Charton choisit le Jacinte, &amp; apprit en suite que Madame la D. D. B. estoit la Rose ; Madame de M. le Muguet ; Mademoiselle C. la Tubéreuse ; &amp; Mademoiselle B. le Jacinte qu’il avoit choisy. Il donna une magnifique Collation à ces Dames. Il y eut cinq Services, entre lesquels des Hautbois, des Violons, des Théorbes, des Violes, &amp; des Voix, firent cinq Chœurs de Musique. Cette Feste fut terminée par le Bal, où ce Président se montra aussi galant parmy les Dames, qu’il est habile Homme dans le Palais.</p>
+        <p>M<hi rend="sup">r</hi> le Président Charton choisit le Jacinte, &amp; apprit en suite que
+          Madame la D. D. B. estoit la Rose ; Madame de M. le Muguet ; Mademoiselle C. la Tubéreuse
+          ; &amp; Mademoiselle B. le Jacinte qu’il avoit choisy. Il donna une magnifique Collation à
+          ces Dames. Il y eut cinq Services, entre lesquels des Hautbois, des Violons, des Théorbes,
+          des Violes, &amp; des Voix, firent cinq Chœurs de Musique. Cette Feste fut terminée par le
+          Bal, où ce Président se montra aussi galant parmy les Dames, qu’il est habile Homme dans
+          le Palais.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

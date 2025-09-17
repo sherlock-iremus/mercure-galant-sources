@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,16 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>[Madame la Marquise de Livry accouche d’un Garçon]</head>
-        <bibl><title>Mercure galant</title>, octobre 1681 [tome 11], p. 70-71.</bibl>
-        <p>Madame la Marquise de Livry est accouchée presque en mesme temps que Madame la Duchesse de Mortemar. Dieu répand sur elle une ample benédiction, puis qu’elle a donné un quatriéme Petit-Fils à Monsieur le Duc de S. Aignan son Pere. Ce doit estre un sujet de joye sensible à ce Duc, de se voir renaître dans un si grand nombre de Descendans, qui en suivant son exemple, ne sçauroient manquer d’estre aussi galans que braves, &amp; de servir un jour l’ornement à la plus belle &amp; la plus polie de toutes les Cours.</p>
-      </div>
+    <body><div>
+     <head>[Madame la Marquise de Livry accouche d’un Garçon]</head>
+     <bibl><title>Mercure galant</title>, octobre 1681 [tome 11], p. 70-71.</bibl>
+     <p>Madame la Marquise de Livry est accouchée presque en mesme temps que Madame la Duchesse de
+      Mortemar. Dieu répand sur elle une ample benédiction, puis qu’elle a donné un quatriéme
+      Petit-Fils à Monsieur le Duc de S. Aignan son Pere. Ce doit estre un sujet de joye sensible à
+      ce Duc, de se voir renaître dans un si grand nombre de Descendans, qui en suivant son exemple,
+      ne sçauroient manquer d’estre aussi galans que braves, &amp; de servir un jour l’ornement à la
+      plus belle &amp; la plus polie de toutes les Cours.</p>
+    </div>
     </body>
   </text>
 </TEI>

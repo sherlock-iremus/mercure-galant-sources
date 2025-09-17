@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>L’Amour aux Dames de Dijon</head>
         <bibl><title>Le Mercure galant</title>, 1673 tome V, p. 82-89.</bibl>
-        <p>Cette avanture, poursuivit le mesme, a donné lieu à des Vers tres-galants que l’on a fait sous le nom de l’Amour. En achevant ces paroles, il les tira de sa poche ; &amp; la Compagnie l’ayant prié de les lire, il commença de la sorte.</p>
+        <p>Cette avanture, poursuivit le mesme, a donné lieu à des Vers tres-galants que l’on a fait
+          sous le nom de l’Amour. En achevant ces paroles, il les tira de sa poche ; &amp; la
+          Compagnie l’ayant prié de les lire, il commença de la sorte.</p>
         <quote rend="border">
           <label rend="center b">L’Amour</label>
           <label rend="center b">aux Dames</label>
@@ -97,8 +98,10 @@
           <l>Jeunes Beautez, avant qu’on vous le vole,</l>
           <l><space/>Dépeschez-vous de le donner.</l>
         </quote>
-        <p>Ces Vers furent trouvez tout-à-fait galants ; &amp; ceux qui aimoient le moins les nouvelles de guerre, furent ravis qu’on en avoit parlé, parce qu’elles avoient donné lieu à la lecture de cette Piece.</p>
+        <p>Ces Vers furent trouvez tout-à-fait galants ; &amp; ceux qui aimoient le moins les
+          nouvelles de guerre, furent ravis qu’on en avoit parlé, parce qu’elles avoient donné lieu
+          à la lecture de cette Piece.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Melpomene presentée à Mr le Duc de Bourgogne</head>
         <bibl><title>Mercure galant</title>, décembre [tome 14], 1682, p. 342-348</bibl>
-        <p>J’ajoûte l’Ouvrage que M<hi rend="sup">r</hi> le Marquis de Robias leut dans l’Assemblée.</p>
+        <p>J’ajoûte l’Ouvrage que M<hi rend="sup">r</hi> le Marquis de Robias leut dans
+          l’Assemblée.</p>
         <quote>
           <label>MELPOMENE,<lb/>PRESENTÉE A M<hi rend="sup">r</hi><lb/>LE DUC DE BOURGOGNE</label>
           <lg>
@@ -86,6 +86,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,22 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Dialogue de la Nymphe de Versailles &amp; de la Nymphe de S. Cloud]</head>
-        <bibl><title>Mercure galant</title>, septembre 1682 (première partie) [tome 9], p. 57-67.</bibl>
+        <bibl><title>Mercure galant</title>, septembre 1682 (première partie) [tome 9],
+          p. 57-67.</bibl>
         <p/>
-        <p>Les Festes galantes n’ont pas esté oubliées parmy ces Réjoüissances. Des Demoiselles bien faites &amp; spirituelles, ont représenté à S. Cloud une Comédie en Musique, composée sur des Avantures qui s’y sont passées. Elle avoit pour titre, <hi rend="i">l’Automne de Saint Cloud</hi>, &amp; estoit ornée de Balets, de Machines, &amp; de changemens de Theatre. Le Prologue estoit sur la Naissance de Monseigneur le Duc de Bourgogne. Je vous l’envoye. On dit que M<hi rend="sup">r</hi> Compoint le jeune en a fait les Vers. Leur lecture vous fera juger de leur bonté. Il doit donner dans peu un Livre au Public sous le nom de <hi rend="i">la Philosophie des Dames</hi>. La Décoration de ce Prologue représentoit dans les costez du Theatre, des Bois &amp; des Plaines, &amp; dans l’enfoncement, un magnifique Palais plein de Feux &amp; d’artifice, &amp; environné de Fontaines de Vin jalissantes. La Nymphe de Versailles, &amp; la Nymphe de S. Cloud, parurent sur ce Theatre, &amp; chanterent le Dialogue qui suit.</p>
+        <p>Les Festes galantes n’ont pas esté oubliées parmy ces Réjoüissances. Des Demoiselles bien
+          faites &amp; spirituelles, ont représenté à S. Cloud une Comédie en Musique, composée sur
+          des Avantures qui s’y sont passées. Elle avoit pour titre, <hi rend="i">l’Automne de Saint
+            Cloud</hi>, &amp; estoit ornée de Balets, de Machines, &amp; de changemens de Theatre.
+          Le Prologue estoit sur la Naissance de Monseigneur le Duc de Bourgogne. Je vous l’envoye.
+          On dit que M<hi rend="sup">r</hi> Compoint le jeune en a fait les Vers. Leur lecture vous
+          fera juger de leur bonté. Il doit donner dans peu un Livre au Public sous le nom de <hi rend="i">la Philosophie des Dames</hi>. La Décoration de ce Prologue représentoit dans
+          les costez du Theatre, des Bois &amp; des Plaines, &amp; dans l’enfoncement, un magnifique
+          Palais plein de Feux &amp; d’artifice, &amp; environné de Fontaines de Vin jalissantes. La
+          Nymphe de Versailles, &amp; la Nymphe de S. Cloud, parurent sur ce Theatre, &amp;
+          chanterent le Dialogue qui suit.</p>
         <quote>
           <label>LA NYMPHE<lb/>de Versailles.</label>
           <lg>
@@ -139,7 +149,9 @@
           </lg>
         </quote>
         <p/>
-        <p>Cette Nymphe s’estant retirée, l’on vit paroître un grand nombre d’Habitans de Versailles &amp; de S. Cloud, suivis des Peuples de diverses Nations, accourus pour voir le Prince.</p>
+        <p>Cette Nymphe s’estant retirée, l’on vit paroître un grand nombre d’Habitans de Versailles
+          &amp; de S. Cloud, suivis des Peuples de diverses Nations, accourus pour voir le
+          Prince.</p>
         <quote>
           <label>La Nymphe de Versailles.</label>
           <lg>
@@ -152,7 +164,9 @@
           </lg>
         </quote>
         <p/>
-        <p>Plusieurs Etrangers &amp; Etrangeres, avec diférens Habits, témoignerent à l’envy par leurs dances, la joye que leur inspiroit la Naissance de ce Prince ; apres quoy deux Habitans de Versailles chanterent ces Vers.</p>
+        <p>Plusieurs Etrangers &amp; Etrangeres, avec diférens Habits, témoignerent à l’envy par
+          leurs dances, la joye que leur inspiroit la Naissance de ce Prince ; apres quoy deux
+          Habitans de Versailles chanterent ces Vers.</p>
         <quote>
           <lg>
             <l rend="i">Terminons, chers Amis, nos amoureux tourmens.</l>
@@ -166,7 +180,9 @@
           </lg>
         </quote>
         <p/>
-        <p>Le Chœur des Habitans de Versailles ayant répeté ces deux derniers Vers, quatre Bergeres dancerent avec quatre Yvrognes. Ces autres Vers, chantez par deux Habitans de S. Cloud, suivirent leur dance.</p>
+        <p>Le Chœur des Habitans de Versailles ayant répeté ces deux derniers Vers, quatre Bergeres
+          dancerent avec quatre Yvrognes. Ces autres Vers, chantez par deux Habitans de S. Cloud,
+          suivirent leur dance.</p>
         <quote>
           <lg>
             <l rend="i">Servons-nous de ce jour heureux</l>
@@ -179,8 +195,9 @@
           </lg>
         </quote>
         <p/>
-        <p>Une Dance genérale des diférens Peuples qui estoient sur le Theatre, finit ce Prologue.</p>
+        <p>Une Dance genérale des diférens Peuples qui estoient sur le Theatre, finit ce
+          Prologue.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

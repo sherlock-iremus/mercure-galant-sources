@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,25 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Lettre XXVIII [relative aux Énigmes]*</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III], p. 326-327.</bibl>
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
+          p. 326-327.</bibl>
         <quote>
           <label rend="center">LETTRE XXVIII.</label>
           <p rend="i">À Angers. </p>
-          <p>J'Ay leu plusieurs de vos Mercures Galans avec tant de satisfaction, que je puis vous protester que la lecture de ces Ouvrages est une des plus agreables occupations que j’aye en France. Elle me fait apprendre la Langue en mesme temps qu’elle me divertit l’esprit. Je ne les ay leus que quelque temps apres qu’ils ont esté faits, à l’exeption de celuy du Mois d’Aoust. J'ay un peu resvé sur les Enigmes que j’y ay trouvées. La premier m’a paru estre <hi rend="i">le Clavessin</hi> ; &amp; la seconde, <hi rend="i">une Horloge à pendule.</hi> Si je n’ay pas deviné juste, cela doit estre pardonné à un Estranger, qui a de la peine à entendre le langage. Au moins cecy me fera une occasion de vous dire que je suis vostre, &amp;c.</p>
-          <p><hi rend="sc">François-Loüis Vander Weillen</hi>, <hi rend="i">Gentilhomme Allemand.</hi></p>
+          <p>J'Ay leu plusieurs de vos Mercures Galans avec tant de satisfaction, que je puis vous
+            protester que la lecture de ces Ouvrages est une des plus agreables occupations que
+            j’aye en France. Elle me fait apprendre la Langue en mesme temps qu’elle me divertit
+            l’esprit. Je ne les ay leus que quelque temps apres qu’ils ont esté faits, à l’exeption
+            de celuy du Mois d’Aoust. J'ay un peu resvé sur les Enigmes que j’y ay trouvées. La
+            premier m’a paru estre <hi rend="i">le Clavessin</hi> ; &amp; la seconde, <hi rend="i">une Horloge à pendule.</hi> Si je n’ay pas deviné juste, cela doit estre pardonné à
+            un Estranger, qui a de la peine à entendre le langage. Au moins cecy me fera une
+            occasion de vous dire que je suis vostre, &amp;c.</p>
+          <p><hi rend="sc">François-Loüis Vander Weillen</hi>, <hi rend="i">Gentilhomme
+              Allemand.</hi></p>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

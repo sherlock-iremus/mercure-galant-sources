@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, février 1697 [tome 2], p. 281-282.</bibl>
         <p>Je vous envoye un Air nouveau, estimé des Connoisseurs.</p>
         <quote>
-          <label>AIR NOUVEAU.</label>
-          <note resp="author" place="margin">L’Air doit regarder la page 282.</note>
-          <lg>
-            <l rend="i">Que nous aurons une fàcheuse année,</l>
+          <label>AIR NOUVEAU.</label><note resp="author" place="margin">L’Air doit regarder la page 282.</note>
+          <lg><l rend="i">Que nous aurons une fàcheuse année,</l>
             <l rend="i">Disoit Gregoire à son Voisin !</l>
             <l rend="i">On ne boira point de bon vîn,</l>
             <l rend="i">Sans voir sa bourse ruinée ;</l>
@@ -36,7 +33,7 @@
             <graphic url="images/1697-02_281.JPG"/>
           </figure>
         </ref>
-      </div>
-    </body>
+        </div>
+      </body>
   </text>
 </TEI>

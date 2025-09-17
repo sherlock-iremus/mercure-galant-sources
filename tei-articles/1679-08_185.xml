@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Divers Couplets sur la Chanson de Lysete]</head>
         <bibl><title>Mercure galant</title>, août 1679 [tome 8], p. 185-187.</bibl>
-        <p>Il court icy deux Couplets d’une Chanson de Lysete, que vous devez avoir entendus, parce qu’ils sont dans la bouche de tout le monde. En voicy les Paroles.</p>
+        <p>Il court icy deux Couplets d’une Chanson de Lysete, que vous devez avoir entendus, parce
+          qu’ils sont dans la bouche de tout le monde. En voicy les Paroles.</p>
         <quote>
           <l rend="i"><seg type="tab">    </seg>Si tu veux, ma Lysete,</l>
           <l rend="i"><seg type="tab">    </seg>Entrer dans nos Forests,</l>
@@ -31,7 +31,8 @@
           <l rend="i">Nous pourrions là ne nous rien taire,</l>
           <l rend="i">N’ayant pour témoins que l’Amour.</l>
         </quote>
-        <p>Un Homme aussi galant que spirituel, a donné de la suite à ces Paroles, par quatre autres Couplets inpromptu. Je vous les envoye afin que vous ayez la Chanson entiere.</p>
+        <p>Un Homme aussi galant que spirituel, a donné de la suite à ces Paroles, par quatre autres
+          Couplets inpromptu. Je vous les envoye afin que vous ayez la Chanson entiere.</p>
         <quote>
           <lg>
             <l rend="i"><seg type="tab">    </seg>La charmante Lysete</l>
@@ -62,6 +63,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

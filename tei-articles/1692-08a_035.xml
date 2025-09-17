@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Au Prince d’Orange</head>
         <bibl><title>Mercure galant</title>, août 1692 [tome 10], p. 35-36.</bibl>
-        <p>Le Madrigal que j’ajoûte icy est de Mademoiselle Bernard. Plusieurs Ouvrages en Vers &amp; en Prose ont fait connoistre il y a longtemps combien elle a l’esprit delicat.</p>
+        <p>Le Madrigal que j’ajoûte icy est de Mademoiselle Bernard. Plusieurs Ouvrages en Vers
+          &amp; en Prose ont fait connoistre il y a longtemps combien elle a l’esprit delicat.</p>
         <quote>
           <label>AU PRINCE D’ORANGE.</label>
           <lg>
@@ -36,6 +36,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Plusieurs ouvrages sur la Nuit]</head>
         <bibl><title>Mercure galant</title>, mars 1684 [tome 3], p. 135-150.</bibl>
-        <p>Il y a trois mois qu’on proposa au Public de faire des Sonnets sur <hi rend="i">la Nuit</hi>. Je vous envoye ce qu’on m’en a fait tenir. Les deux premiers sont de M<hi rend="sup">r</hi> Vignier de Richelieu. Le nom des Autheurs est au bas de tous, les autres.</p>
+        <p>Il y a trois mois qu’on proposa au Public de faire des Sonnets sur <hi rend="i">la
+            Nuit</hi>. Je vous envoye ce qu’on m’en a fait tenir. Les deux premiers sont de M<hi rend="sup">r</hi> Vignier de Richelieu. Le nom des Autheurs est au bas de tous, les
+          autres.</p>
         <quote>
           <lg>
             <label>I.</label>
@@ -98,9 +99,7 @@
             <l rend="i">Mais si vous le vouliez, vous verriez, belle Aminte,</l>
             <l rend="i">Qu’aussi-bien que le jour la Nuit a ses plaisirs.</l>
           </lg>
-          <p>
-            <hi rend="sc">Grammont.</hi>
-          </p>
+          <p><hi rend="sc">Grammont.</hi></p>
         </quote>
         <quote>
           <lg>
@@ -161,7 +160,8 @@
           </lg>
           <p>I. D. G. D. N.</p>
         </quote>
-        <p>M<hi rend="sup">r</hi> Rault a fait des Stances au lieu d’un Sonnet sur cette mesme matiere.</p>
+        <p>M<hi rend="sup">r</hi> Rault a fait des Stances au lieu d’un Sonnet sur cette mesme
+          matiere.</p>
         <quote>
           <label>STANCES<lb/>Sur une Nuit affreuse.</label>
           <lg>
@@ -256,6 +256,6 @@
         </quote>
         <p>La Glace pourroit servir de de sujet pour des Ouvrages de cette nature.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Vers sur la mort du celebre Arlequin]</head>
         <bibl><title>Mercure galant</title>, août 1688 [tome 11], p. 309-310</bibl>
         <p/>
-        <p>Je vous envoye des Vers qui ont esté faits sur la mort de l’inimitable Arlequin, arrivée ce mois-cy dans sa 48. année. L’heureux talent qu’il avoit de dire les choses d’une maniere agreable, l’a fait regreter de tout le monde.</p>
+        <p>Je vous envoye des Vers qui ont esté faits sur la mort de l’inimitable Arlequin, arrivée
+          ce mois-cy dans sa 48. année. L’heureux talent qu’il avoit de dire les choses d’une
+          maniere agreable, l’a fait regreter de tout le monde.</p>
         <quote>
           <label>SUR LA MORT<lb/>du celebre Arlequin.</label>
           <lg>
@@ -35,6 +36,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

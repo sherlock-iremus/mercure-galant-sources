@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Sur le retablissement de la Santé du Roy</head>
         <bibl><title>Mercure galant</title>, mars 1687 (première partie) [tome 4], p. 117-128</bibl>
-        <p>Je ne sçaurois mieux finir ce grand Article, que par des Vers libres de M<hi rend="sup">r</hi> de Fontenelle. Les Ouvrages qu’il a donnez au Public sont si estimez, que son nom vous doit répondre des beautez de celuy-cy. Il faut pourtant vous dire que toute la gloire ne luy en est pas deuë, puis que c’est une Traduction d’une Ode Latine du Pere Comire Jesuite, dont tout le monde connoist le rare talent. Ainsi les pensées ne sont point de luy, &amp; il n’a fait en la traduisant, que leur donner un tour agreable en nostre Langue.</p>
+        <p>Je ne sçaurois mieux finir ce grand Article, que par des Vers libres de M<hi rend="sup">r</hi> de Fontenelle. Les Ouvrages qu’il a donnez au Public sont si estimez, que son
+          nom vous doit répondre des beautez de celuy-cy. Il faut pourtant vous dire que toute la
+          gloire ne luy en est pas deuë, puis que c’est une Traduction d’une Ode Latine du Pere
+          Comire Jesuite, dont tout le monde connoist le rare talent. Ainsi les pensées ne sont
+          point de luy, &amp; il n’a fait en la traduisant, que leur donner un tour agreable en
+          nostre Langue.</p>
         <quote>
           <label>SUR LE RETABLISSEMENT<lb/>de la Santé du Roy.</label>
           <lg>
@@ -85,9 +89,8 @@
             <l rend="i">Que LOVIS vive, il n’est aucune grace</l>
             <l rend="i">Dont nous devions importuner les Cieux.</l>
             <l rend="i"> Quand le plus grand des Heros de sa race,</l>
-            <l>
-              <hi rend="i">Charles<note resp="author">Charlemagne</note> abandonnant le sejour glorieux,</hi>
-            </l>
+            <l><hi rend="i">Charles<note resp="author">Charlemagne</note> abandonnant le sejour
+                glorieux,</hi></l>
             <l rend="i">Où prés du Trosne Saint il occupe une place,</l>
             <l rend="i"> Reviendroit regner en ces lieux ;</l>
             <l rend="i">Quand recommençant mesme une course nouvelle,</l>
@@ -160,6 +163,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

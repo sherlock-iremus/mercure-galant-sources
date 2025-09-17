@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>[Les Elus de Chasteaudun]</head>
-        <bibl><title>Mercure galant</title>, mars 1687 (deuxième partie) [tome 5], p. 352-354</bibl>
-        <p/>
-        <p>Peu de temps après les Elus de Chasteaudun firent celebrer une Messe solemnelle, après laquelle le Predicateur du Caresme monta en chaire. [Sur la guérison de la Belle-mère de Saint-Pierre]. Après le <hi rend="i">Te Deum</hi> chanté en musique, on alla dans la grand'Place où le feu de joye fut allumé. La Mousqueterie se fit entendre ainsi que les Violons, &amp; cette Réjoüissance finit par un grand Repas, &amp; par une aumône à tous les Pauvres. [Liste de personnes se distinguant lors de cette cérémonie].</p>
-      </div>
-    </body>
+    <body><div>
+          <head>[Les Elus de Chasteaudun]</head>
+          <bibl><title>Mercure galant</title>, mars 1687 (deuxième partie) [tome 5], p. 352-354</bibl>
+          <p/>
+          <p>Peu de temps après les Elus de Chasteaudun firent celebrer une Messe solemnelle, après laquelle le Predicateur du Caresme monta en chaire. [Sur la guérison de la Belle-mère de Saint-Pierre]. Après le <hi rend="i">Te Deum</hi> chanté en musique, on alla dans la grand'Place où le feu de joye fut allumé. La Mousqueterie se fit entendre ainsi que les Violons, &amp; cette Réjoüissance finit par un grand Repas, &amp; par une aumône à tous les Pauvres. [Liste de personnes se distinguant lors de cette cérémonie].</p>
+        </div>
+        </body>
   </text>
 </TEI>

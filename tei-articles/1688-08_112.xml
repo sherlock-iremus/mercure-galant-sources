@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>La blessure imaginaire</head>
         <bibl><title>Mercure galant</title>, août 1688 [tome 11], p. 112-120</bibl>
         <p/>
-        <p>Il y a des gens sur qui l’imagination est puissante, &amp; l’histoire que M<hi rend="sup">r</hi> De Vin a mise en Vers en est une preuve. Les noms en sont faux, mais la chose est veritable ; vous la trouverez agreablement contée, &amp; vous n’aurez pas de peine à y reconnoistre ce tour aisé qui vous a tant plu dans tous les autres Ouvrages de ce mesme Auteur.</p>
+        <p>Il y a des gens sur qui l’imagination est puissante, &amp; l’histoire que M<hi rend="sup">r</hi> De Vin a mise en Vers en est une preuve. Les noms en sont faux, mais la chose
+          est veritable ; vous la trouverez agreablement contée, &amp; vous n’aurez pas de peine à y
+          reconnoistre ce tour aisé qui vous a tant plu dans tous les autres Ouvrages de ce mesme
+          Auteur.</p>
         <quote>
           <label>LA BLESSURE<lb/>IMAGINAIRE.</label>
           <lg>
@@ -127,6 +129,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

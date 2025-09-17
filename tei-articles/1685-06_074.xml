@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Ode de Madame des Houlières, au Roy</head>
         <bibl><title>Mercure galant</title>, juin 1685 [tome 6], p. 74-85</bibl>
-        <p>Madame des Houlieres ne s’est pas teuë sur cette Arrivée du Doge en France. Un Evenement si peu ordinaire luy a donné lieu d’adresser une Ode au Roy. Elle a eu le mesme succez que tous ses autres Ouvrages, ce qui fait connoistre que son talent est également heureux en toute sorte de genres d’écrire.</p>
+        <p>Madame des Houlieres ne s’est pas teuë sur cette Arrivée du Doge en France. Un Evenement
+          si peu ordinaire luy a donné lieu d’adresser une Ode au Roy. Elle a eu le mesme succez que
+          tous ses autres Ouvrages, ce qui fait connoistre que son talent est également heureux en
+          toute sorte de genres d’écrire.</p>
         <quote>
           <label>ODE<lb/>DE MADAME<lb/>DES HOULIERES.<lb/>AU ROY.</label>
           <lg>
@@ -165,6 +167,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

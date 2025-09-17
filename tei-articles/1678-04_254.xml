@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,24 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Plusieurs Pieces de Vers sur la prise d’Ypres.]</head>
         <bibl><title>Mercure galant</title>, avril 1678 [tome 4], p. 254-256.</bibl>
-        <p> Les prises des plus importantes Places de la Flandre que ce Grand Prince soûmet en cinq ou six jours, ne sont point des fictions. Ce sont des réalitez qui ne donnent pas moins d’admiration que d’étonnement à toute l’Europe ; &amp; les <hi rend="i">Te Deum</hi> solemnels qu’on fait chanter si souvent pour rendre graces à Dieu de tant de Victoires, font connoistre avec quelle rapidité ce glorieux Conquérant vient à bout de toutes ses entreprises. Je ne vous parle jamais de ces sortes de Cerémonies, parce que je ne vous en puis rien dire que vous ne sçachiez. Il y a eu cependant une circonstance particuliere dans le <hi rend="i">Te Deum</hi> qu’on a chanté pour Ypres, que je ne vous sçaurois laisser ignorer. Apres que le Parlement fut placé dans le Chœur de l’Eglise de Nostre-Dame, le Grand Maistre des Cerémonies, qui en avoit reçeu l’ordre exprés du Roy, alla prendre Monsieur le Chancelier dans le petit Archevesché, &amp; l’amena en sa place. C’est ce qui ne s’estoit point encor pratiqué en pareille occasion ; mais il ne faut pas s’étonner qu’on fasse des choses extraordinaires pour des Hommes d’un mérite si peu commun.</p>
+        <p> Les prises des plus importantes Places de la Flandre que ce Grand Prince soûmet en cinq
+          ou six jours, ne sont point des fictions. Ce sont des réalitez qui ne donnent pas moins
+          d’admiration que d’étonnement à toute l’Europe ; &amp; les <hi rend="i">Te Deum</hi>
+          solemnels qu’on fait chanter si souvent pour rendre graces à Dieu de tant de Victoires,
+          font connoistre avec quelle rapidité ce glorieux Conquérant vient à bout de toutes ses
+          entreprises. Je ne vous parle jamais de ces sortes de Cerémonies, parce que je ne vous en
+          puis rien dire que vous ne sçachiez. Il y a eu cependant une circonstance particuliere
+          dans le <hi rend="i">Te Deum</hi> qu’on a chanté pour Ypres, que je ne vous sçaurois
+          laisser ignorer. Apres que le Parlement fut placé dans le Chœur de l’Eglise de
+          Nostre-Dame, le Grand Maistre des Cerémonies, qui en avoit reçeu l’ordre exprés du Roy,
+          alla prendre Monsieur le Chancelier dans le petit Archevesché, &amp; l’amena en sa place.
+          C’est ce qui ne s’estoit point encor pratiqué en pareille occasion ; mais il ne faut pas
+          s’étonner qu’on fasse des choses extraordinaires pour des Hommes d’un mérite si peu
+          commun.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[L’Amant commode]</head>
         <bibl><title>Mercure galant</title>, juin 1678 [tome 6], p. 228-230.</bibl>
-        <p>On a voulu faire un engagement d’une autre nature. Il n’estoit que de cœur à cœur, &amp; l’Amour y devoit estre seul appellé. Comme il est bon de connoistre avant que d’aimer, il fut question de sçavoir ce qu’on pouvoit attendre de l’Amour qui ofroit ses vœux, &amp; voicy de quelle maniere il s’expliqua.</p>
+        <p>On a voulu faire un engagement d’une autre nature. Il n’estoit que de cœur à cœur, &amp;
+          l’Amour y devoit estre seul appellé. Comme il est bon de connoistre avant que d’aimer, il
+          fut question de sçavoir ce qu’on pouvoit attendre de l’Amour qui ofroit ses vœux, &amp;
+          voicy de quelle maniere il s’expliqua.</p>
         <quote>
           <l><space/>Voulez-vous sçavoir ma méthode,</l>
           <l><space/>Avant que de vous engager ?</l>
@@ -42,6 +44,6 @@
           <l><space/>Quand j’ay rompu, c’est pour jamais.</l>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

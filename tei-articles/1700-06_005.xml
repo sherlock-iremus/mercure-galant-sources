@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,21 +14,20 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head resp="editor">Au Roy</head>
-        <bibl><title>Mercure galant</title>, juin 1700 [tome 6], p. 5-7.</bibl>
-        <p>Je ne doute point, Madame, que vous ne voyiez avec plaisir la Devise qui a esté faite pour le Roy par M<hi rend="sup">r</hi> Magnin, Conseiller au Presidial de Mascon, de l’Academie Royale d’Arles. Elle a pour corps le Soleil, &amp; ces paroles pour ame, <hi rend="i">Orbis fata librat</hi>. On les a renduës en nostre Langue par ces quatre Vers.</p>
-        <quote>
-          <lg>
-            <l rend="i">Il mesure les années,</l>
-            <l rend="i">Et par mille tours divers</l>
-            <l rend="i">Sa course, de l’Univers</l>
-            <l rend="i">Balance les destinées.</l>
-          </lg>
-        </quote>
-        <p>Rien ne peut estre plus juste, puis que le Roy a toujours esté le maistre de continuer la guerre, ou d’accorder la Paix qu’il a donnée quatre fois, lors qu’il pouvoit augmenter sa gloire en augmentant ses conquestes, si toutefois il estoit possible que la gloire de cet Auguste Monarque receust encore quelque éclat nouveau.</p>
-      </div>
-    </body>
+    <body><div>
+          <head resp="editor">Au Roy</head>
+          <bibl><title>Mercure galant</title>, juin 1700 [tome 6], p. 5-7.</bibl>
+          <p>Je ne doute point, Madame, que vous ne voyiez avec plaisir la Devise qui a esté faite pour le Roy par M<hi rend="sup">r</hi> Magnin, Conseiller au Presidial de Mascon, de l’Academie Royale d’Arles. Elle a pour corps le Soleil, &amp; ces paroles pour ame, <hi rend="i">Orbis fata librat</hi>. On les a renduës en nostre Langue par ces quatre Vers.</p>
+          <quote>
+            <lg>
+              <l rend="i">Il mesure les années,</l>
+              <l rend="i">Et par mille tours divers</l>
+              <l rend="i">Sa course, de l’Univers</l>
+              <l rend="i">Balance les destinées.</l>
+            </lg>
+          </quote>
+          <p>Rien ne peut estre plus juste, puis que le Roy a toujours esté le maistre de continuer la guerre, ou d’accorder la Paix qu’il a donnée quatre fois, lors qu’il pouvoit augmenter sa gloire en augmentant ses conquestes, si toutefois il estoit possible que la gloire de cet Auguste Monarque receust encore quelque éclat nouveau.</p>
+        </div>
+        </body>
   </text>
 </TEI>

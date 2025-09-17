@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>[Repas donné à Messeigneurs les Princes par Mr le Marquis de Torcy]</head>
-        <bibl><title>Mercure galant</title>, juillet 1704 (première partie) [tome 7], p. 317-318.</bibl>
-        <p>Mr le Marquis de Torcy a donné un soupé magnifique à Monseigneur le Duc de Bourgogne, &amp; à Monseigneur le Duc de Berry ; Ceux qui eurent l’honneur de souper avec ces Princes, sont Madame la Maréchale de Cœuvres Me de Mailly, Me de Torcy, Me de la Vrilliere, Me d’O, Me de Villacerf, &amp; Mrs les Marquis de Razilly &amp; de Torcy. La Compagnie se divertit tres-agréablement pendant le soupé, qui dura deux heures, pendant lesquelles la Musique se fit entendre à diverses reprises.</p>
-      </div>
-    </body>
+    <body><div>
+          <head>[Repas donné à Messeigneurs les Princes par Mr le Marquis de Torcy]</head>
+          <bibl><title>Mercure galant</title>, juillet 1704 (première partie) [tome 7], p. 317-318.</bibl>
+          <p>Mr le Marquis de Torcy a donné un soupé magnifique à Monseigneur le Duc de Bourgogne, &amp; à Monseigneur le Duc de Berry ; Ceux qui eurent l’honneur de souper avec ces Princes, sont Madame la Maréchale de Cœuvres Me de Mailly, Me de Torcy, Me de la Vrilliere, Me d’O, Me de Villacerf, &amp; Mrs les Marquis de Razilly &amp; de Torcy. La Compagnie se divertit tres-agréablement pendant le soupé, qui dura deux heures, pendant lesquelles la Musique se fit entendre à diverses reprises.</p>
+        </div>
+        </body>
   </text>
 </TEI>

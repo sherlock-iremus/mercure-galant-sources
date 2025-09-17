@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head resp="editor">Sur l’opéra Roland</head>
-        <bibl><title>Mercure galant</title>, janvier 1686 [tome 1], p. 284.</bibl>
-        <p/>
-        <p>M<hi rend="sup">r</hi> du Meny, dont je vous ay parlé au commencement de cette Lettre, est rentré à l’Academie de Musique, &amp; a joüé dans l’Opera de <hi rend="i">Roland</hi>. Celuy d’Armide s’avance fort, &amp; l’on travaille avec grand empressement à tout ce qui en regarde le Spectacle. Ainsi l’on espere qu’on en donnera quelques Representations à Paris sur la fin du Carnaval.</p>
-      </div>
-    </body>
+    <body><div>
+          <head resp="editor">Sur l’opéra Roland</head>
+          <bibl><title>Mercure galant</title>, janvier 1686 [tome 1], p. 284.</bibl>
+          <p/>
+          <p>M<hi rend="sup">r</hi> du Meny, dont je vous ay parlé au commencement de cette Lettre, est rentré à l’Academie de Musique, &amp; a joüé dans l’Opera de <hi rend="i">Roland</hi>. Celuy d’Armide s’avance fort, &amp; l’on travaille avec grand empressement à tout ce qui en regarde le Spectacle. Ainsi l’on espere qu’on en donnera quelques Representations à Paris sur la fin du Carnaval.</p>
+        </div>
+        </body>
   </text>
 </TEI>

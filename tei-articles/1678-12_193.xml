@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Madrigal sur le langage des Yeux]</head>
         <bibl><title>Mercure galant</title>, décembre 1678 [tome 12], p. 193-195.</bibl>
-        <p>Je vous envoye un Madrigal sur un langage qui n’est pas inconnu à beaucoup d’aimables Personnes de vostre Sexe. Il est de M<hi rend="sup">r</hi>  Valette d’Usés. Une Belle luy avoit demandé des Leçons sur ce langage. Voyez s il peut estre mis au nombre des habiles Maistres.</p>
+        <p>Je vous envoye un Madrigal sur un langage qui n’est pas inconnu à beaucoup d’aimables
+          Personnes de vostre Sexe. Il est de M<hi rend="sup">r</hi>  Valette d’Usés. Une Belle luy
+          avoit demandé des Leçons sur ce langage. Voyez s il peut estre mis au nombre des habiles
+          Maistres.</p>
         <quote rend="border">
           <label rend="center">Madrigal</label>
           <l>Vous le sçaurez, Philis, oüy, je veux vous apprendre</l>
@@ -40,6 +42,6 @@
         </quote>
         <p>Ces Vers ont assurément de la Rime et de la Raison.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

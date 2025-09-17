@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,23 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Madrigal inpromtu par Madame le Camus]</head>
         <bibl><title>Mercure galant</title>, septembre 1679 [tome 9], p. 243-247.</bibl>
-        <p>Pour continuer à vous entretenir agréablement, je vous fais part de deux Madrigaux inpromptu qui ont esté veus de toute la Cour. Je ne doute point que vous ne leur donniez la mesme approbation qu’ils y ont reçeuë. L'un est de la spirituelle Madame le Camus à M<hi rend="sup">r</hi> de S. Aignan, qui luy en avoit déja envoyé plusieurs. Cet illustre Duc que la force &amp; la délicatesse de son Esprit ne distinguent pas moins que les avantages de sa Naissance, y a fait réponse sur le champ par les mesmes rimes, à l’exception de la seconde qu’il a changée.</p>
+        <p>Pour continuer à vous entretenir agréablement, je vous fais part de deux Madrigaux
+          inpromptu qui ont esté veus de toute la Cour. Je ne doute point que vous ne leur donniez
+          la mesme approbation qu’ils y ont reçeuë. L'un est de la spirituelle Madame le Camus à
+            M<hi rend="sup">r</hi> de S. Aignan, qui luy en avoit déja envoyé plusieurs. Cet
+          illustre Duc que la force &amp; la délicatesse de son Esprit ne distinguent pas moins que
+          les avantages de sa Naissance, y a fait réponse sur le champ par les mesmes rimes, à
+          l’exception de la seconde qu’il a changée.</p>
         <quote>
           <label type="head">A Monsieur <lb/>Le Duc de S. Aignan.</label>
           <l>Mon cœur depuis longtemps s’estoit accoûtumé</l>
           <l>À soufrir qu’on m’aimast sans en estre alarmé ;</l>
           <l>Mais je sens depuis peu que sa peine est extréme,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Je croy qu’il craint que l’on ne m’aime.</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Je croy qu’il craint que l’on ne
+            m’aime.</l>
           <l>Je le surpris hyer avant la fin du jour</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>S'entretenant avec l’Amour,</l>
           <l>Ils paroissoient tous deux en grande intelligence ;</l>
@@ -33,7 +39,8 @@
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Je vous en feray confidence.</l>
         </quote>
         <quote>
-          <label type="head">Réponse de Monsieur <lb/>Le Duc de S. Aignan <lb/>A Madame le Camus.</label>
+          <label type="head">Réponse de Monsieur <lb/>Le Duc de S. Aignan <lb/>A Madame le
+            Camus.</label>
           <l>MOn cœur depuis longtemps n’est plus accoûtumé</l>
           <l>A ces marques d’amour dont j’estois si charmé,</l>
           <l>On ne m’en donne plus sans une peine extréme ;</l>
@@ -46,6 +53,6 @@
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Je suis propre à la confidence.</l>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

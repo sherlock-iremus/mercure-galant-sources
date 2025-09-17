@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,24 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>[S’il est plus glorieux de fixer une Coquette ou de toucher une indifferente. Galanterie]</head>
+    <body><div>
+        <head>[S’il est plus glorieux de fixer une Coquette ou de toucher une indifferente.
+          Galanterie]</head>
         <bibl><title>Mercure galant</title>, juin 1688 (première partie) [tome 8], p. 189-199</bibl>
-        <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : La Medaille doit regarder la page 189.</note>
+         <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : La
+          Medaille doit regarder la page 189.</note>
         <p/>
-        <p>Je vous envoye une Médaille qui a esté gravée à l’occasion des dix Villes d’Alsace, soumises au Roy. Les Curieux les pourront connoistre par ce qui est marqué autour du revers. Ces dix Villes sont, Haguenau, Colmar, Schlestat. Weissemburg, Landau, Oberenheim, Russham ; Munster en la Vallée de Saint Gregoire, Kaiserberg ; &amp; Turinchen. Elles furent cedées à Sa Majesté par la Paix de Munster en 1648. &amp; cette cession fut confirmée par le Traité des Pyrenées en 1659. Il y a quelque temps que l’or demanda lequel estoit le plus glorieux à un galant homme de fixer une Coquette, ou de toucher une Indifferente. Quelques Dames fort spirituelles qui se trouverent presentes quand la question fut agitée, ayant décidé pour l’Insensible, l’une d’entre elles voulut obliger un Cavalier qui survint, à dire son sentiment. Il s’expliqua par ces Vers qu’il luy envoya le lendemain.</p>
+        <p>Je vous envoye une Médaille qui a esté gravée à l’occasion des dix Villes d’Alsace,
+          soumises au Roy. Les Curieux les pourront connoistre par ce qui est marqué autour du
+          revers. Ces dix Villes sont, Haguenau, Colmar, Schlestat. Weissemburg, Landau, Oberenheim,
+          Russham ; Munster en la Vallée de Saint Gregoire, Kaiserberg ; &amp; Turinchen. Elles
+          furent cedées à Sa Majesté par la Paix de Munster en 1648. &amp; cette cession fut
+          confirmée par le Traité des Pyrenées en 1659. Il y a quelque temps que l’or demanda lequel
+          estoit le plus glorieux à un galant homme de fixer une Coquette, ou de toucher une
+          Indifferente. Quelques Dames fort spirituelles qui se trouverent presentes quand la
+          question fut agitée, ayant décidé pour l’Insensible, l’une d’entre elles voulut obliger un
+          Cavalier qui survint, à dire son sentiment. Il s’expliqua par ces Vers qu’il luy envoya le
+          lendemain.</p>
         <quote>
           <label>A MADAME DE LA M.</label>
           <lg>
@@ -84,7 +95,14 @@
             <l rend="i">Si vous me permettiez de me donner à vous.</l>
           </lg>
         </quote>
-        <p>Ce sentiment estoit le plus raisonnable, mais que ne peut point une aimable &amp; jolie personne ! Le Cavalier qui avoit tenu pour le bon party, s’estant rencontré chez une autre Dame, on loüa ses Vers ; mais en mesme temps on le pria d’en faire en faveur de la Coquette, pour faire connoistre qu’il avoit esté surpris lors qu’il avoit prononcé contre elle. Une jeune Demoiselle pleine d’agrément dans sa personne, &amp; aussi estimable par son esprit, que par beaucoup d’autres belles qualitez, se mit de la partie, &amp; elle n’eut pas de peine à obtenir de luy ce qu’elle voulut. Voicy ce qu’il fit pour luy obeïr.</p>
+        <p>Ce sentiment estoit le plus raisonnable, mais que ne peut point une aimable &amp; jolie
+          personne ! Le Cavalier qui avoit tenu pour le bon party, s’estant rencontré chez une autre
+          Dame, on loüa ses Vers ; mais en mesme temps on le pria d’en faire en faveur de la
+          Coquette, pour faire connoistre qu’il avoit esté surpris lors qu’il avoit prononcé contre
+          elle. Une jeune Demoiselle pleine d’agrément dans sa personne, &amp; aussi estimable par
+          son esprit, que par beaucoup d’autres belles qualitez, se mit de la partie, &amp; elle
+          n’eut pas de peine à obtenir de luy ce qu’elle voulut. Voicy ce qu’il fit pour luy
+          obeïr.</p>
         <quote>
           <label>A MADEMOISELLE DE V.</label>
           <lg>
@@ -154,6 +172,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

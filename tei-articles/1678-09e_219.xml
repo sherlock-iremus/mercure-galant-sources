@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,22 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Lettre XXIII [relative aux Énigmes]*</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III], p. 219-222.</bibl>
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
+          p. 219-222.</bibl>
         <quote>
           <label rend="center">LETTRE XXIII.</label>
           <p rend="i">La presente set donnée à stila qu’en appel Loteur du Marcure. </p>
-          <p>HOneu, Monseu, Je some deu sabitan de... . Attandé je ne savon si je vou le devon diren car j’en voion tan dan voute Marcure qui ne voulon pas dire com i sapelon, que palsangué je nan diron rian nan pu qu’eu. Es qui simaginon qua caure qui son des Monsieux &amp; quil avon du bian pu que nou, que je ne sron pas com i selon ; e si l’on tan de bian, qui fasle bone chere, qui mangien des Padri, &amp; qui desne deu fouas, Je somme assé contan can je manjon des poüas o lar ; ma tou sa ne sar de rian à lafere, &amp; snest pas acaure de sa que je prenon la pene &amp; la arguesse que de von recrire ; ces margué que javon deviné vos Animes, &amp; si je voulon vou baillé des Vars de noute façon, car jan savon fare da. Tné, luisé.</p>
+          <p>HOneu, Monseu, Je some deu sabitan de... . Attandé je ne savon si je vou le devon diren
+            car j’en voion tan dan voute Marcure qui ne voulon pas dire com i sapelon, que palsangué
+            je nan diron rian nan pu qu’eu. Es qui simaginon qua caure qui son des Monsieux &amp;
+            quil avon du bian pu que nou, que je ne sron pas com i selon ; e si l’on tan de bian,
+            qui fasle bone chere, qui mangien des Padri, &amp; qui desne deu fouas, Je somme assé
+            contan can je manjon des poüas o lar ; ma tou sa ne sar de rian à lafere, &amp; snest
+            pas acaure de sa que je prenon la pene &amp; la arguesse que de von recrire ; ces margué
+            que javon deviné vos Animes, &amp; si je voulon vou baillé des Vars de noute façon, car
+            jan savon fare da. Tné, luisé.</p>
           <lg>
             <l>Palsangué com dit lotre, en vidan noute pot,</l>
             <l>Cousin Basquian charchon le mot</l>
@@ -54,6 +62,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

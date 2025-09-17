@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>[Procession de la Sainte Larme]</head>
-        <bibl><title>Mercure galant</title>, juillet 1684 [tome 9], p. 133-134, 136-137.</bibl>
-        <p/>
-        <p>La sécheresse a esté si grande depuis fort long-temps, qu’elle a obligé Mr le Bailly &amp; Maire de Vendosme, de prier les Peres Benédictins, de porter la Sainte Larme dans une Procession genérale qui se fit sur la fin du dernier mois. [...]</p>
-        <p/>
-        <p>La Procession commença à neuf heures du matin, &amp; ne finit qu’à une heure apres midy. Il y avoit quantité d’Instrumens de Musique ; &amp; tout y fut tres-bien ordonné. La Cerémonie étant achevée, les Gens d’armes avec Mr le Bailly &amp; les autres Officiers, montérent au Château, devant lequel un Feu avoit esté préparé. On l’alluma apres que l’on eut chanté le Te Deum pour la Prise de Luxembourg, &amp; il s’y fit encore plusieurs Décharges.</p>
-      </div>
-    </body>
+    <body><div>
+          <head>[Procession de la Sainte Larme]</head>
+          <bibl><title>Mercure galant</title>, juillet 1684 [tome 9], p. 133-134, 136-137.</bibl>
+          <p/>
+          <p>La sécheresse a esté si grande depuis fort long-temps, qu’elle a obligé Mr le Bailly &amp; Maire de Vendosme, de prier les Peres Benédictins, de porter la Sainte Larme dans une Procession genérale qui se fit sur la fin du dernier mois. [...]</p>
+          <p/>
+          <p>La Procession commença à neuf heures du matin, &amp; ne finit qu’à une heure apres midy. Il y avoit quantité d’Instrumens de Musique ; &amp; tout y fut tres-bien ordonné. La Cerémonie étant achevée, les Gens d’armes avec Mr le Bailly &amp; les autres Officiers, montérent au Château, devant lequel un Feu avoit esté préparé. On l’alluma apres que l’on eut chanté le Te Deum pour la Prise de Luxembourg, &amp; il s’y fit encore plusieurs Décharges.</p>
+        </div>
+        </body>
   </text>
 </TEI>

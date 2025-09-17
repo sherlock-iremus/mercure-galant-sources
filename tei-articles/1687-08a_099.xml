@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Epitaphe de Monsieur le Duc de Saint Aignan</head>
         <bibl><title>Mercure galant</title>, août 1687 (première partie) [tome 11], p. 99-101</bibl>
         <p/>
-        <p>Tout le monde a esté touché de la perte que nous avons faite de M<hi rend="sup">r</hi> le Duc de S. Aignan. Je vous l’ay déja fait voir par les Vers que je vous ay envoyez sur cette mort. J’y joins aujourd’huy une Epitaphe, faite par Mademoiselle de Razilly.</p>
+        <p>Tout le monde a esté touché de la perte que nous avons faite de M<hi rend="sup">r</hi> le
+          Duc de S. Aignan. Je vous l’ay déja fait voir par les Vers que je vous ay envoyez sur
+          cette mort. J’y joins aujourd’huy une Epitaphe, faite par Mademoiselle de Razilly.</p>
         <quote>
           <label>EPITAPHE<lb/>DE MONSIEUR LE DUC<lb/>DE<lb/>SAINT AIGNAN.</label>
           <lg>
@@ -36,6 +37,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

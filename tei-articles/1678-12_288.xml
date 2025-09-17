@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Enigme]</head>
         <bibl><title>Mercure galant</title>, décembre 1678 [tome 12], p. 288-290.</bibl>
-        <p>Les deux nouvelles Enigmes que je vous envoye, sont ; la premiere, de M<hi rend="sup">r</hi>  le P. la Tournelle ; &amp; l’autre, de M <hi rend="sup">r</hi>  Taveault, de Nuis en Bourgogne.</p>
+        <p>Les deux nouvelles Enigmes que je vous envoye, sont ; la premiere, de M<hi rend="sup">r</hi>  le P. la Tournelle ; &amp; l’autre, de M <hi rend="sup">r</hi>  Taveault, de
+          Nuis en Bourgogne.</p>
         <quote rend="border">
           <label rend="center">ENIGME.</label>
           <lg>
@@ -30,8 +30,7 @@
             <l><space/>Qu'on craint autant que les Duels.</l>
             <l>Les traits que nous lançons, s’ils ne sont pas mortels,</l>
             <l><space/>Engendrent des haines mortelles.</l>
-          </lg>
-          <lg>
+          </lg><lg>
             <l><space/>Fieres comme des Amazonnes,</l>
             <l><space/>Nous nous attaquons aux Etats,</l>
             <l>Et sans nous ménager avec les Couronnes,</l>
@@ -43,6 +42,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

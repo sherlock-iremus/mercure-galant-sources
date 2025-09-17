@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,23 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Paraphrase allegorique du Paseaume XCIII</head>
         <bibl><title>Mercure galant</title>, mars 1691 [tome 3], p. 7-21.</bibl>
         <p/>
-        <p>Vous ne devez point vous étonner, Madame, si je commence toutes mes Lettres, ou par des actions du Roy qui loüent Sa Majesté, sans qu’il soit besoin de faire autre chose que les citer, ou par des Ouvrages faits à sa gloire par ses Sujets, ou par d’Illustres Etrangers. Peut-on refuser à cet Auguste Monarque les loüanges qu’il merite, puis qu’on voit que ses plus grands Ennemis se trouvent contraints de luy en donner publiquement ? Vous en allez lire de veritables &amp; d’ingenieuses dans la Paraphrase allegorique que je vous envoye du Pseaume qui commence par, <hi rend="i">Deus ultionum Dominus</hi>. Les Interpretes en le prenant à la lettre, l’expliquent de David persecuté par Saül. Cet Ouvrage est adressé à M<hi rend="sup">r</hi> de Vignacourt, Grand Maistre de Malthe.</p>
+        <p>Vous ne devez point vous étonner, Madame, si je commence toutes mes Lettres, ou par des
+          actions du Roy qui loüent Sa Majesté, sans qu’il soit besoin de faire autre chose que les
+          citer, ou par des Ouvrages faits à sa gloire par ses Sujets, ou par d’Illustres Etrangers.
+          Peut-on refuser à cet Auguste Monarque les loüanges qu’il merite, puis qu’on voit que ses
+          plus grands Ennemis se trouvent contraints de luy en donner publiquement ? Vous en allez
+          lire de veritables &amp; d’ingenieuses dans la Paraphrase allegorique que je vous envoye
+          du Pseaume qui commence par, <hi rend="i">Deus ultionum Dominus</hi>. Les Interpretes en
+          le prenant à la lettre, l’expliquent de David persecuté par Saül. Cet Ouvrage est adressé
+          à M<hi rend="sup">r</hi> de Vignacourt, Grand Maistre de Malthe.</p>
         <quote>
-          <label>PARAPHRASE<lb/>ALLEGORIQUE<lb/><hi rend="sc">Du Pseaume</hi> XCIII.<lb/>Sur les Victoires que le Roy a<lb/>remportées contre la Ligue de<lb/>presque toute l’Europe.</label>
+          <label>PARAPHRASE<lb/>ALLEGORIQUE<lb/><hi rend="sc">Du Pseaume</hi> XCIII.<lb/>Sur les
+            Victoires que le Roy a<lb/>remportées contre la Ligue de<lb/>presque toute
+            l’Europe.</label>
           <lg>
             <l rend="i">Grand Dieu, qui sur l’Impie as seul droit de vangeance,</l>
             <l rend="i">Qui peux quand il te plaist punir son insolence,</l>
@@ -151,13 +160,13 @@
             <l rend="i">Daigne entendre les sons de mes sacrez Cantiques,</l>
             <l rend="i">Où je peins de LOUIS les succés heroïques ;</l>
             <l rend="i">Bien-tost ton heureux regne il me faudra chanter,</l>
-            <l>
-              <hi rend="i">Et le plus grand des Rois voudra bien m’écouter.</hi>
-            </l>
+            <l><hi rend="i">Et le plus grand des Rois voudra bien m’écouter.</hi></l>
           </lg>
         </quote>
-        <p>Cette Paraphrase qu’il ne faut que lire pour en connoistre les beautez, est de M<hi rend="sup">r</hi> l’Abbé de Viani, Commandeur &amp; Prieur de Saint Jean d’Aix, Frere du Prieur de Saint Jean de Malthe, Prelature si considerable dans l’Ordre de ce mesme nom.</p>
+        <p>Cette Paraphrase qu’il ne faut que lire pour en connoistre les beautez, est de M<hi rend="sup">r</hi> l’Abbé de Viani, Commandeur &amp; Prieur de Saint Jean d’Aix, Frere du
+          Prieur de Saint Jean de Malthe, Prelature si considerable dans l’Ordre de ce mesme
+          nom.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

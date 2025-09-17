@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,20 +14,17 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>[Histoire abregée des Comtes de Neufchastel]</head>
-        <bibl><title>Mercure galant</title>, août 1707 [tome 8], p. 248-249.</bibl>
-        <p>Il paroist depuis peu un Livre de la composition de Mr des Molins, Avocat, qui a pour titre, <hi rend="i">Histoire abregée des Comtes Souverains de Neuf-Chastel, à l’occasion de la mort de S.A.S. Madame la Duchesse de Nemours</hi>. Si comme Mr de Corneille l’aîné a fort bien dit dans une de ses Tragedies</p>
-        <quote>
-          <lg>
-            <l>
-              <hi rend="i">Le temps de chaque chose ordonne &amp; fait le prix.</hi>
-            </l>
-          </lg>
-        </quote>
-        <p>Il n’y a pas lieu de douter que le Livre dont vous venez de lire le titre, n’ait un fort grand succés. Ce n’est pas que je sois persuadé qu’il en merite aussi par luy mesme, ce que ceux qui se donneront le plaisir de le lire, connoistront facilement. Je dois les avertir de la part de l’Auteur, qu’à la page 28. ligne 17. de ce Livre, on a mis <hi rend="i">Rodolphe</hi> au lieu de <hi rend="i">Guillaume</hi>.</p>
-      </div>
-    </body>
+    <body><div>
+<head>[Histoire abregée des Comtes de Neufchastel]</head>
+<bibl><title>Mercure galant</title>, août 1707 [tome 8], p. 248-249.</bibl>
+<p>Il paroist depuis peu un Livre de la composition de Mr des Molins, Avocat, qui a pour titre, <hi rend="i">Histoire abregée des Comtes Souverains de Neuf-Chastel, à l’occasion de la mort de S.A.S. Madame la Duchesse de Nemours</hi>. Si comme Mr de Corneille l’aîné a fort bien dit dans une de ses Tragedies</p>
+<quote>
+<lg>
+<l><hi rend="i">Le temps de chaque chose ordonne &amp; fait le prix.</hi></l>
+</lg>
+</quote>
+<p>Il n’y a pas lieu de douter que le Livre dont vous venez de lire le titre, n’ait un fort grand succés. Ce n’est pas que je sois persuadé qu’il en merite aussi par luy mesme, ce que ceux qui se donneront le plaisir de le lire, connoistront facilement. Je dois les avertir de la part de l’Auteur, qu’à la page 28. ligne 17. de ce Livre, on a mis <hi rend="i">Rodolphe</hi> au lieu de <hi rend="i">Guillaume</hi>.</p>
+</div>
+</body>
   </text>
 </TEI>

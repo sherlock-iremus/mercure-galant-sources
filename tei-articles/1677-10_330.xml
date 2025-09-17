@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Enigme</head>
         <bibl><title>Le Nouveau Mercure galant</title>, octobre 1677 [tome VIII], p. 330-332.</bibl>
         <p>Mais quelque pressé que je sois de fermer ma Lettre, vous ne me pardonneriez pas si je ne vous envoyois une Enigme pour vos spirituelles Amies. Celle que vous allez lire a esté faite exprés pour elles, &amp; doit les embarrasser, par une raison que je vous diray quand nous parlerons du Mot. Elle est d’une Personne du premier Rang.</p>
@@ -34,6 +33,6 @@
         </quote>
         <p>Si les Belles de vos Quartiers tombent dans l’embarras que je prévoy, elles n’auront qu’à consulter Apollon. Parmy ses qualitez qui sont en grand nombre, il a celle de Devin.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

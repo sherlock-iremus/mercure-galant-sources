@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head resp="editor">Sonnets de M<hi rend="sup">r</hi> l’Abbé de la Volpiliere.</head>
-        <bibl><title>Mercure galant</title>, septembre 1682 (deuxième partie) [tome 10], p. 175-178.</bibl>
+        <bibl><title>Mercure galant</title>, septembre 1682 (deuxième partie) [tome 10],
+          p. 175-178.</bibl>
         <p/>
-        <p>Des trois Sonnets que j’ajoûte a cet Ouvrage, les deux premiers sont de M<hi rend="sup">r</hi> l’Abbé de la Volpiliere, &amp; le troisiéme de M<hi rend="sup">r</hi> du Mas de Joigny.</p>
+        <p>Des trois Sonnets que j’ajoûte a cet Ouvrage, les deux premiers sont de M<hi rend="sup">r</hi> l’Abbé de la Volpiliere, &amp; le troisiéme de M<hi rend="sup">r</hi> du Mas de
+          Joigny.</p>
         <quote>
           <label>AU ROY.</label>
           <lg>
@@ -50,7 +51,8 @@
           </lg>
         </quote>
         <quote>
-          <label>SUR UNE LUMIERE extraordinaire qui parut à la Naissance de Monseigneur le Duc de Bourgogne.<lb/><hi rend="sc">Sonnet.</hi></label>
+          <label>SUR UNE LUMIERE extraordinaire qui parut à la Naissance de Monseigneur le Duc de
+              Bourgogne.<lb/><hi rend="sc">Sonnet.</hi></label>
           <lg>
             <l rend="i">Prince, dés que tes yeux ouvrirent la paupiere,</l>
             <l rend="i">Dans l’ombre de la nuit, le jour parut si beau,</l>
@@ -78,6 +80,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

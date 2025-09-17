@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Maniere de petit Opera]</head>
         <bibl><title>Mercure galant</title>, décembre 1696 [tome 12], p. 132-145.</bibl>
         <p/>
@@ -35,13 +34,12 @@
           <l rend="i">Nos coups sont inévitables,</l>
           <l rend="i"> Vous allez périr tous.</l>
         </lg>
-        <label type="speaker">Mercure</label>
-        <stage>paroissant sur un nuage.</stage>
+        <label type="speaker">Mercure</label> <stage>paroissant sur un nuage.</stage>
         <lg>
           <l rend="i">Fiers Peuples que séduit la discorde insensée,</l>
           <l rend="i">Qui remplissez ces lieux de carnage &amp; d'horreur,</l>
-          <l rend="i"> Eprouvez de mon Caducée,</l>
-          <l rend="i"> Les appas &amp; la douceur.</l>
+          <l rend="i">  Eprouvez de mon Caducée,</l>
+          <l rend="i">  Les appas &amp; la douceur.</l>
         </lg>
         <label type="speaker">Deux François.</label>
         <lg>
@@ -60,13 +58,14 @@
           <l rend="i">Succomber sous le poids de mille maux divers,</l>
           <l rend="i"> A touché le coeur de vos Princes.</l>
         </lg>
+
         <lg>
           <l rend="i">La France &amp; le Piémont par un voeu solemnel</l>
           <l rend="i">Vont resserrer les noeuds de l'ancienne alliance ;</l>
-          <l rend="i"> Un couple chéri du ciel</l>
+          <l rend="i">  Un couple chéri du ciel</l>
           <l rend="i">Est le gage sacré de leur intelligence.</l>
         </lg>
-        <ab type="ornament">***</ab>
+        <ab type="ornament">***</ab>        
         <stage>En même temps les Piémontois se détachent du reste des Alliez, &amp; disent avec les François :</stage>
         <p/>
         <label type="speaker">CHOEUR de François &amp; de Piémontois.</label>
@@ -83,8 +82,7 @@
         </lg>
         <label type="speaker">Le François.</label>
         <lg>
-          <l rend="i">Dans leurs traits, dans leurs airs ; il n'est rien qui n'enchante.</l>
-        </lg>
+          <l rend="i">Dans leurs traits, dans leurs airs ; il n'est rien qui n'enchante.</l></lg>
         <label type="speaker">Choeur de de François &amp; de Piémontois.</label>
         <lg>
           <l rend="i">Qu'ils sont dignes tous deux de l'Empire François !</l>
@@ -94,8 +92,8 @@
         <lg>
           <l rend="i">Vous qui n'approuvez point ce retour de tendresse,</l>
           <l rend="i">Partez, ne troublez pas la commune allegresse.</l>
-          <l rend="i"> Allez exercer vos fureurs</l>
-          <l rend="i"> Dans quelque climat barbare,</l>
+          <l rend="i">  Allez exercer vos fureurs</l>
+          <l rend="i">  Dans quelque climat barbare,</l>
           <l rend="i">Et si vous aspirez au titre de Vainqueurs,</l>
           <l rend="i">Deffendez vos pays du Scythe &amp; du Tartare.</l>
         </lg>
@@ -104,21 +102,21 @@
           <l rend="i"> Quel arrest !quel ordre cruel !</l>
           <l rend="i">Que plutost Jupiter lance sur nous sa foudre,</l>
           <l rend="i"> Que plutost son bras immortel</l>
-          <l rend="i"> Nous réduise en poudre.</l>
+          <l rend="i">  Nous réduise en poudre.</l>
         </lg>
         <label type="speaker">Mercure.</label>
         <lg>
           <l rend="i"> Connoissez mieux vos interests</l>
           <l><hi rend="i">Ecoutez de</hi> Loüis <hi rend="i">les offres obligeantes,</hi></l>
           <l rend="i">Vous pourrez voir la Paix &amp; ses graces brillantes</l>
-          <l rend="i"> Me suivre de près.</l>
+          <l rend="i">  Me suivre de près.</l>
         </lg>
         <p/>
         <stage>Les Alliez sortent &amp; Mercure continuë.</stage>
         <p/>
         <lg>
           <l rend="i">Et vous, braves Guerriers, de qui l'obeïssance</l>
-          <l rend="i"> Egale l'extrême valeur,</l>
+          <l rend="i">  Egale l'extrême valeur,</l>
           <l rend="i">Marquez par mille jeux vostre réjoüissance,</l>
           <l rend="i"> Et bénissez à jamais le bonheur</l>
           <l rend="i"> De la Savoye &amp; de la France.</l>
@@ -141,7 +139,7 @@
           <l rend="i">Des plus profondes retraites</l>
           <l rend="i"> Nous accourons à vos voix,</l>
           <l rend="i">Pour joindre nos tendres Musettes</l>
-          <l rend="i"> À vos Trompettes,</l>
+          <l rend="i">  À vos Trompettes,</l>
           <l rend="i">À vos Timbales, à vos Hautsbois.</l>
         </lg>
         <label type="speaker">Choeur des Guerriers &amp; des Bergers .</label>
@@ -149,7 +147,7 @@
           <l rend="i">Ce beau jour, malgré l'envie,</l>
           <l rend="i">Est fait pour de doux concerts.</l>
           <l rend="i">D'une agreable harmonie</l>
-          <l rend="i"> Faisons retentir les airs.</l>
+          <l rend="i">  Faisons retentir les airs.</l>
         </lg>
         <label type="speaker">Une Bergere.</label>
         <lg>
@@ -183,23 +181,21 @@
           <l rend="i">Nous n'avons plus rien à craindre,</l>
           <l rend="i">Si ce n'est pour nostre coeur.</l>
         </lg>
-        <label type="speaker">Un Berger</label>
-        <stage>à l'une des Bergeres.</stage>
+        <label type="speaker">Un Berger</label> <stage>à l'une des Bergeres.</stage>
         <lg>
           <l rend="i">Bergere, lors que Mars fait place</l>
           <l rend="i">À l'Amour qui regne aujourd'huy,</l>
           <l rend="i"> Peut-estre ton coeur de glace</l>
-          <l rend="i"> Pourra-t-il estre attendry.</l>
+          <l rend="i">  Pourra-t-il estre attendry.</l>
         </lg>
         <label type="speaker">La Bergere.</label>
         <lg>
           <l rend="i">J'aime ma liberté, mon coeur est inflexible,</l>
-          <l rend="i"> Il ne met son souverain bien</l>
-          <l rend="i"> Qu'au plaisir de rendre sensible,</l>
-          <l rend="i"> Et de ne sentir jamais rien.</l>
+          <l rend="i">  Il ne met son souverain bien</l>
+          <l rend="i">  Qu'au plaisir de rendre sensible,</l>
+          <l rend="i">  Et de ne sentir jamais rien.</l>
         </lg>
-        <label type="speaker">Le Berger</label>
-        <stage>à l'autre Bergere.</stage>
+        <label type="speaker">Le Berger</label> <stage>à l'autre Bergere.</stage>
         <lg>
           <l rend="i">Cette Bergere inexorable</l>
           <l rend="i">Méprise l'ardeur de mes feux,</l>
@@ -241,16 +237,16 @@
         </lg>
         <ab type="ornament">***</ab>
         <lg>
-          <l rend="i"> Voulez-vous passer la vie</l>
-          <l rend="i"> Sans chagrin &amp; sans bruit ?</l>
-          <l rend="i"> Guerissez vostre esprit</l>
-          <l rend="i"> De l'amoureuse fantaisie.</l>
-          <l rend="i"> Un faux appas vous seduit,</l>
-          <l rend="i"> Amans, &amp; vous reduit</l>
-          <l rend="i">À languir nuit &amp; jour dans la melancolie.</l>
-          <l rend="i"> À rire, à trinquer, point de jalouise,</l>
-          <l rend="i"> Ny ce qui la suit.</l>
-          <l rend="i">Quand on boit bien le jour, on en dort mieux la nuit.</l>
+        <l rend="i"> Voulez-vous passer la vie</l>
+        <l rend="i"> Sans chagrin &amp; sans bruit ?</l>
+        <l rend="i"> Guerissez vostre esprit</l>
+        <l rend="i"> De l'amoureuse fantaisie.</l>
+        <l rend="i"> Un faux appas vous seduit,</l>
+        <l rend="i"> Amans, &amp; vous reduit</l>
+        <l rend="i">À languir nuit &amp; jour dans la melancolie.</l>
+        <l rend="i"> À rire, à trinquer, point de jalouise,</l>
+        <l rend="i">  Ny ce qui la suit.</l>
+        <l rend="i">Quand on boit bien le jour, on en dort mieux la nuit.</l>
         </lg>
         <label type="speaker">Le Berger.</label>
         <lg>
@@ -303,6 +299,6 @@
           <l>Accordons-nous pour celebrer ensemble, &amp;c.</l>
         </lg>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

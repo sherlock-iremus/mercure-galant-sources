@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Lettre en Vers des Dames de Westphalie]</head>
         <bibl><title>Mercure galant</title>, juin 1682 [tome 6], p. 196-202.</bibl>
         <p/>
-        <p>Voicy des Vers sur une galanterie qui s’est faite en Allemagne. Ils m’ont esté envoyez de ce Païs-là, où vous verrez que les Muses ne parlent pas mal François.</p>
+        <p>Voicy des Vers sur une galanterie qui s’est faite en Allemagne. Ils m’ont esté envoyez de
+          ce Païs-là, où vous verrez que les Muses ne parlent pas mal François.</p>
         <quote>
-          <label>LES DAMES<lb/>DE WESTPHALIE,<lb/>Aux Cavaliers du Régiment<lb/>de la Franchise.</label>
+          <label>LES DAMES<lb/>DE WESTPHALIE,<lb/>Aux Cavaliers du Régiment<lb/>de la
+            Franchise.</label>
           <lg>
             <l rend="i">Tout beau, jeunes Guerriers, d’où viennent ces allarmes ?</l>
             <l rend="i"> Convoque-t-on l’Arriereban ?</l>
@@ -100,8 +101,11 @@
           </lg>
         </quote>
         <p/>
-        <p>Ces Vers estoient accompagnez de ce Madrigal à M<hi rend="sup">r</hi> le Baron de Furstemberg, à qui l’on avoit prescrit le mois de May pour prendre sa résolution sur le Mariage. L’allusion est prise du Nid d’un Chardonneret, que l’on a trouvé dans un Laurier du Jardin de M<hi rend="sup">r</hi> l’Evesque de Munster.</p>
+        <p>Ces Vers estoient accompagnez de ce Madrigal à M<hi rend="sup">r</hi> le Baron de
+          Furstemberg, à qui l’on avoit prescrit le mois de May pour prendre sa résolution sur le
+          Mariage. L’allusion est prise du Nid d’un Chardonneret, que l’on a trouvé dans un Laurier
+          du Jardin de M<hi rend="sup">r</hi> l’Evesque de Munster.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

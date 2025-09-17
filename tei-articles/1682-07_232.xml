@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Paroles à mettre en Air]</head>
         <bibl><title>Mercure galant</title>, juillet 1682 [tome 7], p. 232-236.</bibl>
         <p>Les Vers qui suivent, semblent avoir esté faits pour estre notez. Ils sont de Mademoiselle de Castille, dont l’heureux génie vous est connu. Cette spirituelle Personne mérite bien qu’on travaille sur ce qu’elle fait.</p>
@@ -75,7 +74,7 @@
             <l rend="i">O Que dans les Champs d’Harnouville</l>
             <l rend="i">La vie est charmante &amp; tranquille !</l>
             <l rend="i"> Souvent le Seigneur du Chasteau</l>
-            <l rend="i">Y donne le Cadeau.</l>
+              <l rend="i">Y donne le Cadeau.</l>
             <l rend="i"> Heureux l’Amy qu’il y régale !</l>
             <l rend="i">Le Lait, l’Oeuf frais, le Pain &amp; l’Eau,</l>
             <l rend="i">Sont d’un goust qu’ailleurs rien n’égale.</l>
@@ -91,6 +90,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

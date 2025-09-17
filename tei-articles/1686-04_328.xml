@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,19 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>La Dame inconnue, aux Illustres Dames du Carousel. Madrigal</head>
         <bibl><title>Mercure galant</title>, avril 1686 [tome 5], p. 328-333</bibl>
         <p/>
-        <p>Je ne puis vous dire en quel jour du mois prochain se fera la magnifique &amp; galante Feste, où les trente Dames, dont je vous envoyay les noms la derniere fois, doivent paroistre à cheval. On prépare toutes choses pour cela. Comme il n’y a rien de plus agreable, ny qui fournisse plus de galanteries, que les divertissemens où les Dames sont mêlées, vous ne devez point douter que celuy-cy ne donne lieu à beaucoup de Gens d’écrire de jolies choses. Les deux Madrigaux que vous allez lire en sont déja un commencement. Ils ont esté envoyez à M<hi rend="sup">r</hi> le Duc de S. Aignan, Mareschal de Camp General dans ce nouveau Carrousel, &amp; donnez au Concierge de son Hostel par deux inconnus, qui n’ont point voulu dire de quelle part ils les apportoient. Ils avoient pour Titre.</p>
+        <p>Je ne puis vous dire en quel jour du mois prochain se fera la magnifique &amp; galante
+          Feste, où les trente Dames, dont je vous envoyay les noms la derniere fois, doivent
+          paroistre à cheval. On prépare toutes choses pour cela. Comme il n’y a rien de plus
+          agreable, ny qui fournisse plus de galanteries, que les divertissemens où les Dames sont
+          mêlées, vous ne devez point douter que celuy-cy ne donne lieu à beaucoup de Gens d’écrire
+          de jolies choses. Les deux Madrigaux que vous allez lire en sont déja un commencement. Ils
+          ont esté envoyez à M<hi rend="sup">r</hi> le Duc de S. Aignan, Mareschal de Camp General
+          dans ce nouveau Carrousel, &amp; donnez au Concierge de son Hostel par deux inconnus, qui
+          n’ont point voulu dire de quelle part ils les apportoient. Ils avoient pour Titre.</p>
         <quote>
           <label>LA DAME INCONNUE,<lb/>Aux Illustres Dames<lb/>du Carrousel.<lb/><hi rend="i">MADRIGAL.</hi></label>
           <lg>
@@ -63,8 +70,10 @@
           </lg>
           <p>ARTABAN.</p>
         </quote>
-        <p>Je vous envoyeray la Relation de cette Feste, à laquelle je travaille, ainsi que j’ay fait aux deux que vous avez veuës du dernier Carrousel. J’espere en parler d’une maniere qui divertira ceux qui la liront.</p>
+        <p>Je vous envoyeray la Relation de cette Feste, à laquelle je travaille, ainsi que j’ay
+          fait aux deux que vous avez veuës du dernier Carrousel. J’espere en parler d’une maniere
+          qui divertira ceux qui la liront.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

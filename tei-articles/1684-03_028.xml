@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head resp="editor">Sonnet pour Mr le Pelletier</head>
         <bibl><title>Mercure galant</title>, mars 1684 [tome 3], p. 28-30.</bibl>
-        <p>Voicy un Sonnet qui fut fait pour M<hi rend="sup">r</hi> le Pelletier, lors qu’il plut au Roy de le choisir pour remplir la Charge de Controlleur General des Finances. Il m’a esté envoyé sous le nom de la Muse de l’Hôtel S. Faron.</p>
+        <p>Voicy un Sonnet qui fut fait pour M<hi rend="sup">r</hi> le Pelletier, lors qu’il plut au
+          Roy de le choisir pour remplir la Charge de Controlleur General des Finances. Il m’a esté
+          envoyé sous le nom de la Muse de l’Hôtel S. Faron.</p>
         <quote>
           <lg>
             <l rend="i">Lors que du Tout-Puissant la sage Providence,</l>
@@ -29,7 +30,8 @@
           <ab type="ornament">***</ab>
           <lg>
             <l rend="i">Et lors que ce grand Roy par sa haute prudence</l>
-            <l><hi rend="i">Place</hi> le Pelletier <hi rend="i">dans les plus grands Emplois,</hi></l>
+            <l><hi rend="i">Place</hi> le Pelletier <hi rend="i">dans les plus grands
+              Emplois,</hi></l>
             <l rend="i">Il nous montre en faisant ce favorable choix,</l>
             <l rend="i">Qu’il sçait à la Vertu donner sa récompense.</l>
           </lg>
@@ -47,6 +49,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

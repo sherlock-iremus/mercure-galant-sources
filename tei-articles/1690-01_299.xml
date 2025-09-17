@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head resp="editor">Mort du frère de Saint-Simon</head>
-        <bibl><title>Mercure galant</title>, janvier 1690 [tome 1], p. 299-301.</bibl>
-        <p/>
-        <p>M<hi rend="sup">r</hi> le Marquis de S. Simon mourut le 25. de ce mois, en son Chasteau du Plessis, dans sa quatre-vingt-dixiéme année. Il estoit Chevalier des Ordres du Roy, Gouverneur &amp; Bailly de Senlis, Maréchal des Champs &amp; Armées de Sa Majesté, &amp; avoit esté Colonel du Regiment de Navarre. C’estoit le Frere aisné de M<hi rend="sup">r</hi> le Duc de S. Sîmon, &amp; il avoit épousé le 14. Septembre 1634. Dame Loüise de Crussol, Veuve d’Antoine-Hercules de Bados, Marquis de Portes, &amp; Mere de Diane-Henriette de Bados, Marquise de Portes, premiere Femme de M<hi rend="sup">r</hi> le Duc de S. Simon son Frere. Ce Marquis n’a point eu d’enfans de sa Femme, qui est encore vivante, &amp; qui doit estre fort âgée, puis que sa Fille, premiere Femme de M<hi rend="sup">r</hi> le Duc de Saint Simon, est morte en 1670. âgée de quarante ans. Je suis, Madame, Vostre, &amp;c.</p>
-        <p>
-          <hi rend="i">A Paris ce 31. Janvier 1690.</hi>
-        </p>
-      </div>
-    </body>
+    <body><div>
+          <head resp="editor">Mort du frère de Saint-Simon</head>
+          <bibl><title>Mercure galant</title>, janvier 1690 [tome 1], p. 299-301.</bibl>
+          <p/>
+          <p>M<hi rend="sup">r</hi> le Marquis de S. Simon mourut le 25. de ce mois, en son Chasteau du Plessis, dans sa quatre-vingt-dixiéme année. Il estoit Chevalier des Ordres du Roy, Gouverneur &amp; Bailly de Senlis, Maréchal des Champs &amp; Armées de Sa Majesté, &amp; avoit esté Colonel du Regiment de Navarre. C’estoit le Frere aisné de M<hi rend="sup">r</hi> le Duc de S. Sîmon, &amp; il avoit épousé le 14. Septembre 1634. Dame Loüise de Crussol, Veuve d’Antoine-Hercules de Bados, Marquis de Portes, &amp; Mere de Diane-Henriette de Bados, Marquise de Portes, premiere Femme de M<hi rend="sup">r</hi> le Duc de S. Simon son Frere. Ce Marquis n’a point eu d’enfans de sa Femme, qui est encore vivante, &amp; qui doit estre fort âgée, puis que sa Fille, premiere Femme de M<hi rend="sup">r</hi> le Duc de Saint Simon, est morte en 1670. âgée de quarante ans. Je suis, Madame, Vostre, &amp;c.</p>
+          <p><hi rend="i">A Paris ce 31. Janvier 1690.</hi></p>
+        </div>
+      </body>
   </text>
 </TEI>

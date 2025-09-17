@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Explication de la première Enigme du Mois passé]</head>
         <bibl><title>Mercure galant</title>, avril 1678 [tome 4], p. 390-392.</bibl>
-        <p>Pour les deux Enigmes en Vers, voicy l’Explication de la premiere sur les mesmes Rimes. Elle est de M<hi rend="sup">r</hi> Gauthier.</p>
+        <p>Pour les deux Enigmes en Vers, voicy l’Explication de la premiere sur les mesmes Rimes.
+          Elle est de M<hi rend="sup">r</hi> Gauthier.</p>
         <quote>
           <l>La Mode est inconstante aussi bien que <hi rend="i">legere.</hi></l>
           <l>Cependant on la suit par tout fort <hi rend="i">constamment</hi>,</l>
@@ -38,6 +38,6 @@
           <l>Reprendre pour nous plaire une entiere <hi rend="i">jeunesse</hi>.</l>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

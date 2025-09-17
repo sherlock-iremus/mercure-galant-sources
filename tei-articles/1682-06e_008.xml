@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Traité de la Pourpre, par M. Germain de Caën]</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1682 [tome XVII], p. 8-148.</bibl>
-        <p>
-          <hi rend="i">En vous envoyant dans le dernier Extraordinaire le Discours que vous y avez veu touchant l’origine de la Pourpre, j’oubliay de vous dire que M<hi rend="sup">r</hi> Rault de Roüen en estoit l’Autheur. Celuy que vous allez voir sur cette mesme matiere, est de M<hi rend="sup">r</hi> Germain de Caën.</hi>
-        </p>
+        <p><hi rend="i">En vous envoyant dans le dernier Extraordinaire le Discours que vous y avez veu touchant l’origine de la Pourpre, j’oubliay de vous dire que M<hi rend="sup">r</hi> Rault de Roüen en estoit l’Autheur. Celuy que vous allez voir sur cette mesme matiere, est de M<hi rend="sup">r</hi> Germain de Caën.</hi></p>
         <quote>
           <label>TRAITÉ DE<lb/>LA POURPRE.</label>
           <p>Pour rapporter avec quelque sorte de méthode ce que j’ay leu de la Pourpre dans divers Autheurs, je m’arresteray à considerer son origine, sa composition, sa diversité, son excellence, &amp; son usage. Son origine fera voir par qui, &amp; à quelle occasion elle a esté inventée. Sa composition montrera dequoy, &amp; en quelle maniere on en faisoit la confection. Sa diversité décrira ses diférentes especes. Son excellence apprendra quel estoit son prix &amp; sa valeur ; Et enfin son usage déclarera quelles personnes avoient le privilege de la porter.</p>
@@ -280,11 +277,9 @@
             </lg>
           </quote>
           <p>Au reste, cette Royale Banniere estoit curieusement gardée dans l’Abbaye de S. Denys, &amp; c’estoit là que nos Roys l’alloient prendre eux mesmes lors qu’ils vouloient s’en servir en guerre. Ils la recevoient en grande cerémonie, &amp; apres avoir fait leurs devotions des mains de l’Abbé, la remettant en suite en celles du Comte du Véxin, auquel comme premier Vassal &amp; Feudataire de S. Denys, privativement à tout autre, appartenoit le droit de la porter ; mais cette Comte estant réünie à la Couronne, il estoit au choix du Roy de la confier au premier Chevalier que Sa Majesté trouvoit digne de cet honneur, qui estoit d’une telle considération parmy les plus qualifiez de la Cour, qu’il y avoit grand empressement à le briguer. L’Histoire remarque que sous Charles V, le Sire d’Eudemehan, ou d’Andrehan, quitta la fonction de Maréchal de France, quoy que ce fust une des plus belles Charges de l’Armée, pour avoir la gloire de porter cet Etendart à la fameuse Journée de Rosebeque.</p>
-          <p>
-            <hi rend="i">Vous vous souvenez, Madame, qu’au commencement de ce Traité, il est parlé de trois especes de Pourpre. Je vous en envoye les diférentes Figures que j’ay fait graver pour satisfaire entierement vostre curiosité sur cette matiere. Elles sont tirées de Gesner en son Histoire des Poissons.</hi>
-          </p>
+          <p><hi rend="i">Vous vous souvenez, Madame, qu’au commencement de ce Traité, il est parlé de trois especes de Pourpre. Je vous en envoye les diférentes Figures que j’ay fait graver pour satisfaire entierement vostre curiosité sur cette matiere. Elles sont tirées de Gesner en son Histoire des Poissons.</hi></p>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

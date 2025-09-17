@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,10 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Second Air noté]</head>
-        <bibl><title>Mercure galant</title>, janvier 1678 [tome 1], p. 229-230. </bibl>
+        <bibl><title>Mercure galant</title>, janvier 1678 [tome 1], p. 229-230.
+        </bibl>
         <p>En voicy d’autres dont vous allez trouver l’Air noté.</p>
         <quote>
           <label>AIR NOUVEAU.</label>
@@ -32,8 +32,18 @@
             <l rend="i"><space/><space/>Qui partage ses feux ?</l>
           </lg>
         </quote>
-        <p>Je prétens que vous me ferez un fort grand remerciëment de cet Air, puis qu’il est de M<hi rend="sup">r</hi> Charpentier, fameux par mille Ouvrages qui ont esté le charme de toute la France, &amp; entr’autres, par l’Air des Maures du Malade Imaginaire, &amp; par tous ceux de Circé &amp; de l’Inconnu. Il a demeuré longtemps en Italie, où il voyoit souvent le Charissimi, qui estoit le plus grand Maistre de Musique que nous ayons eu depuis longtemps. Vous avez lû les Paroles de l’Air de M<hi rend="sup">r</hi> Charpentier, voyez les notées <note resp="editor">Catherine Cessac (<hi rend="italic">Bulletin de la Société Marc-Antoine Charpentier</hi> n° 20 (2003), p. 3, note 10) attribue le texte de cet air à Mme Deshoulières, en raison de la mention d'un autre texte de cette autrice mis en musique par M. de La Tour (<ref target="MG-1678-01_226"><hi rend="i">Iris sur la fougère</hi></ref>) introduit par le commentaire : « En voicy d'autres [paroles] dont vous allez trouver l'air noté ». Mais l'adjectif indéfini ne suffit pas à attribuer l'air « Quoi rien ne peut vous arrêter » à la même autrice. </note>. <ref target="images/1678-01_229.JPG"><figure><graphic url="images/1678-01_229.JPG"/></figure></ref></p>
+        <p>Je prétens que vous me ferez un fort grand remerciëment de cet Air, puis qu’il est de
+            M<hi rend="sup">r</hi> Charpentier, fameux par mille Ouvrages qui ont esté le charme de
+          toute la France, &amp; entr’autres, par l’Air des Maures du Malade Imaginaire, &amp; par
+          tous ceux de Circé &amp; de l’Inconnu. Il a demeuré longtemps en Italie, où il voyoit
+          souvent le Charissimi, qui estoit le plus grand Maistre de Musique que nous ayons eu
+          depuis longtemps. Vous avez lû les Paroles de l’Air de M<hi rend="sup">r</hi> Charpentier,
+          voyez les notées <note resp="editor">Catherine Cessac (<hi rend="italic">Bulletin de la Société Marc-Antoine Charpentier</hi> n° 20 (2003), p. 3, note 10) attribue le texte de cet air à Mme Deshoulières, en raison de la mention d'un autre texte de cette autrice mis en musique par M. de La Tour (<ref target="MG-1678-01_226"><hi rend="i">Iris sur la fougère</hi></ref>) introduit par le commentaire : « En voicy d'autres [paroles] dont vous allez trouver l'air noté ». Mais l'adjectif indéfini ne suffit pas à attribuer l'air « Quoi rien ne peut vous arrêter » à la même autrice. </note>. <ref target="images/1678-01_229.JPG">
+            <figure>
+              <graphic url="images/1678-01_229.JPG"/>
+            </figure>
+          </ref></p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

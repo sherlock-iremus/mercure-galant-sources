@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>A S.A. Royale Mademoiselle</head>
         <bibl><title>Mercure galant</title>, mars 1684 [tome 3], p. 50-55.</bibl>
-        <p>Voicy une nouvelle Balade, à laquelle je suis seûr que vous ne pourrez refuser l’approbation qu’elle a reçeuë icy de tous ceux qui rendent justice aux belles choses. Elle est sur le Mariage de Mademoiselle avec Monsieur le Duc de Savoye, &amp; faite par Mademoiselle de la Force. Son esprit est connu de tout le monde, &amp; on convient qu’il est digne de son cœur, &amp; que son cœur est encore plus grand que sa naissance, quoy qu’elle soit des plus illustres du Royaume.</p>
+        <p>Voicy une nouvelle Balade, à laquelle je suis seûr que vous ne pourrez refuser
+          l’approbation qu’elle a reçeuë icy de tous ceux qui rendent justice aux belles choses.
+          Elle est sur le Mariage de Mademoiselle avec Monsieur le Duc de Savoye, &amp; faite par
+          Mademoiselle de la Force. Son esprit est connu de tout le monde, &amp; on convient qu’il
+          est digne de son cœur, &amp; que son cœur est encore plus grand que sa naissance, quoy
+          qu’elle soit des plus illustres du Royaume.</p>
         <quote>
           <label>A.S.A. ROYALE,<lb/>MADEMOISELLE.</label>
           <lg>
@@ -84,6 +88,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

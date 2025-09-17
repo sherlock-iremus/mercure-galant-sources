@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,17 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Pour Mademoiselle de Vauvineuf, Madrigal.</head>
         <bibl><title>Mercure galant</title>, janvier 1678 [tome 1], p. 97-99.</bibl>
-        <p>Si toutes les Prairies parloient de la sorte, il y auroit grand plaisir à les écouter. Vous en trouverez sans doute à lire deux Madrigaux que je vous envoye. L’un est pour Mademoiselle de Vauvineuf, sur un Peigne d’Ecaille de Tortuë qu’on luy a donné ; &amp; l’autre pour Mademoiselle de Villegery, qui est presque toûjours malade. Ils dont tous deux de M<hi rend="sup">r</hi> de Vaumoriere, fameux par un grand nombre de belles Productions d’Esprit, entre lesquelles on peut compter les cinq derniers Volumes de Faramond, &amp; beaucoup d’autres Ouvrages de Galanterie. Il n’excelle pas moins dans les Sujets sérieux d’Histoire ou de Politique.</p>
+        <p>Si toutes les Prairies parloient de la sorte, il y auroit grand plaisir à les écouter.
+          Vous en trouverez sans doute à lire deux Madrigaux que je vous envoye. L’un est pour
+          Mademoiselle de Vauvineuf, sur un Peigne d’Ecaille de Tortuë qu’on luy a donné ; &amp;
+          l’autre pour Mademoiselle de Villegery, qui est presque toûjours malade. Ils dont tous
+          deux de M<hi rend="sup">r</hi> de Vaumoriere, fameux par un grand nombre de belles
+          Productions d’Esprit, entre lesquelles on peut compter les cinq derniers Volumes de
+          Faramond, &amp; beaucoup d’autres Ouvrages de Galanterie. Il n’excelle pas moins dans les
+          Sujets sérieux d’Histoire ou de Politique.</p>
         <quote rend="border">
           <label rend="center">Pour Mademoiselle</label>
           <label rend="center">de Vauvineuf.</label>
@@ -35,6 +41,6 @@
           <l>Mais vous aurez souvent mon Present à la teste.</l>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head resp="editor">Explications des énigmes précédentes</head>
-        <bibl><title>Mercure galant</title>, janvier 1686 [tome 1], p. 277.</bibl>
-        <p/>
-        <p>Le vray mot de la premiere Enigme du dernier mois, estoit <hi rend="i">le Four</hi>, &amp; il a esté trouvé par M<hi rend="sup">r</hi> Fournier, Prestre &amp; Promoteur du Chapitre d’Amiens, &amp; par Mesdemoiselles Marion Bariban, &amp; Catho du Boquet de Chartres.</p>
-        <p>Ceux qui ont expliqué la seconde Enigme sur <hi rend="i">les Manchetes</hi> qui en estoit le vray sens.</p>
-      </div>
-    </body>
+    <body><div>
+          <head resp="editor">Explications des énigmes précédentes</head>
+          <bibl><title>Mercure galant</title>, janvier 1686 [tome 1], p. 277.</bibl>
+          <p/>
+          <p>Le vray mot de la premiere Enigme du dernier mois, estoit <hi rend="i">le Four</hi>, &amp; il a esté trouvé par M<hi rend="sup">r</hi> Fournier, Prestre &amp; Promoteur du Chapitre d’Amiens, &amp; par Mesdemoiselles Marion Bariban, &amp; Catho du Boquet de Chartres.</p>
+          <p>Ceux qui ont expliqué la seconde Enigme sur <hi rend="i">les Manchetes</hi> qui en estoit le vray sens.</p>
+        </div>
+        </body>
   </text>
 </TEI>

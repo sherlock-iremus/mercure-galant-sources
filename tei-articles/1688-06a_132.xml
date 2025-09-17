@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,16 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Traduction]</head>
         <bibl><title>Mercure galant</title>, juin 1688 (première partie) [tome 8], p. 132-135</bibl>
         <p/>
-        <p>Il vous est déja connu par d’autres ouvrages, mais vous ignorez peut-estre que l’heureux talent de faire des Vers s’est communiqué à sa Famille, &amp; qu’il a un Fils fort amy des Muses. Vous le connoistrez par la galante traduction qu’il a faite des beaux Vers Italiens de M<hi rend="sup">r</hi> le Duc de Nevers, qui commencent par ces mots, <hi rend="i">A pena da l’Oriente esce l’Aurora</hi>. Voicy de quelle maniere il les a rendus en nostre Langue.</p>
+        <p>Il vous est déja connu par d’autres ouvrages, mais vous ignorez peut-estre que l’heureux
+          talent de faire des Vers s’est communiqué à sa Famille, &amp; qu’il a un Fils fort amy des
+          Muses. Vous le connoistrez par la galante traduction qu’il a faite des beaux Vers Italiens
+          de M<hi rend="sup">r</hi> le Duc de Nevers, qui commencent par ces mots, <hi rend="i">A
+            pena da l’Oriente esce l’Aurora</hi>. Voicy de quelle maniere il les a rendus en nostre
+          Langue.</p>
         <quote>
           <lg>
             <l rend="i">A peine voyoit-on naistre la belle Aurore,</l>
@@ -51,6 +55,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

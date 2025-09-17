@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>[Fragmens de Pétrone recouvrez par Mr Baudot]</head>
-        <bibl><title>Mercure galant</title>, octobre 1693 [tome 12], p. 24-25.</bibl>
-        <p/>
-        <p>Les Sçavans de vostre Province auront sans doute appris avec joye, que ce qui manquoit au fameux Petrone, a esté enfin recouvré pendant ces dernieres Guerres de Hongrie par les soins de M<hi rend="sup">r</hi> Naudot, &amp; qu’il a esté imprimé entier depuis quelques mois. Ceux qui iront au Palais acheter ce Livre, apprendront par une Lettre à M<hi rend="sup">r</hi> Charpentier, Doyen de l’Academie Françoise, qu’ils y liront au commencement, de quelle maniere on a trouvé les fragments qui remplissent les endroits qui estoient defectueux dans cet ouvrage. On peut dire que c’est un Tresor qui vient d’enrichir les belles Lettres, &amp; qu’il n’y a point de Curieux, qui ne doive y prendre part.</p>
-      </div>
-    </body>
+    <body><div>
+          <head>[Fragmens de Pétrone recouvrez par Mr Baudot]</head>
+          <bibl><title>Mercure galant</title>, octobre 1693 [tome 12], p. 24-25.</bibl>
+          <p/>
+          <p>Les Sçavans de vostre Province auront sans doute appris avec joye, que ce qui manquoit au fameux Petrone, a esté enfin recouvré pendant ces dernieres Guerres de Hongrie par les soins de M<hi rend="sup">r</hi> Naudot, &amp; qu’il a esté imprimé entier depuis quelques mois. Ceux qui iront au Palais acheter ce Livre, apprendront par une Lettre à M<hi rend="sup">r</hi> Charpentier, Doyen de l’Academie Françoise, qu’ils y liront au commencement, de quelle maniere on a trouvé les fragments qui remplissent les endroits qui estoient defectueux dans cet ouvrage. On peut dire que c’est un Tresor qui vient d’enrichir les belles Lettres, &amp; qu’il n’y a point de Curieux, qui ne doive y prendre part.</p>
+        </div>
+        </body>
   </text>
 </TEI>

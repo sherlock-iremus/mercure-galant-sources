@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Proposition de Mariage entre un Linot et une Linote. À Madame R.</head>
         <bibl><title>Mercure galant</title>, novembre 1678 [tome 11], p. 187-193.</bibl>
         <p>J'adjoûte à cette Chanson une ingénieuse Galanterie qui ne sçauroit manquer de vous plaire. Vous avez le goust trop bon, pour n’estre pas satisfaite &amp; de l’enjoüement des pensées, &amp; de la facilité du stile.</p>
@@ -100,6 +99,6 @@
         </quote>
         <p>Cette Piece est de M<hi rend="sup">r</hi> Corps de Troyes en Champagne, qu’une disgrace impréveuë tient presentement arresté dans la Conciergerie. Il est aisé de voir à la liberté d’esprit que luy laisse sa prison, qu’il ne sçauroit estre que malheureux. Ceux qui ont quelque chose à craindre dans un lieu, ou il ne peuvent éviter un Jugement Souverain, n’ont jamais la tranquillité qui est necessaire pour imaginer un Ouvrage aussi galant que celuy de ce spirituel Prisonnier.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

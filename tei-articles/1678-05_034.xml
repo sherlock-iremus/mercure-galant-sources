@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Elegie sur le Langage des Yeux]</head>
         <bibl><title>Mercure galant</title>, mai 1678 [tome 5], p. 34-39.</bibl>
-        <p>L'Amour qui a fait faire ces deux Mariages<note resp="editor">Le mariage, d'une part, de M. Lanta de Grammont et de Mademoiselle de Riquet de S. Felix et, d'autre part, celui de M. de Preval de la Matrossiere et de Mademoiselle de la Selle.</note>, a donné lieu aux Vers qui suivent. L'Autheur m’en est inconnu. Je ne doute point qu’apres les avoir leûs, vous ne condamniez la modestie qui l’a obligé à se cacher.</p>
+        <p>L'Amour qui a fait faire ces deux Mariages<note resp="editor">Le mariage, d'une part, de M. Lanta de Grammont et de Mademoiselle de Riquet de S. Felix et, d'autre part, celui de M. de Preval de la Matrossiere et de Mademoiselle de la Selle.</note>, a donné lieu aux Vers qui suivent.
+          L'Autheur m’en est inconnu. Je ne doute point qu’apres les avoir leûs, vous ne condamniez
+          la modestie qui l’a obligé à se cacher.</p>
         <quote rend="border">
           <label rend="center">SUR LE LANGAGE<lb/>DES YEUX.<lb/><hi rend="sc">Elegie.</hi></label>
           <lg>
@@ -65,6 +66,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

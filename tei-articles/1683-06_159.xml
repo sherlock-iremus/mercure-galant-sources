@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Le Pan, l’Aigle, et le Rossignol. Fable</head>
         <bibl><title>Mercure galant</title>, juin 1683 [tome 6], p. 159-175.</bibl>
-        <p>Je vous ay parlé dans quelqu’une de mes Lettres du mérite de M<hi rend="sup">r</hi> l’Abbé de Saint Andiol, Archidiacre de l’Eglise Métropolitaine d’Arles, si renommé par ses Vers Latins. Voicy une de ses Fables, renduë en nostre Langue par un Anonime de la mesme Ville, qui n’a voulu se faire connoistre que par ces deux lettres L. I. &amp; par le titre de l’agreable Enjoüé.</p>
+        <p>Je vous ay parlé dans quelqu’une de mes Lettres du mérite de M<hi rend="sup">r</hi>
+          l’Abbé de Saint Andiol, Archidiacre de l’Eglise Métropolitaine d’Arles, si renommé par ses
+          Vers Latins. Voicy une de ses Fables, renduë en nostre Langue par un Anonime de la mesme
+          Ville, qui n’a voulu se faire connoistre que par ces deux lettres L. I. &amp; par le titre
+          de l’agreable Enjoüé.</p>
         <quote>
           <label>LE PAN,<lb/>L’AIGLE,<lb/>ET LE ROSSIGNOL.<lb/>FABLE.</label>
           <lg>
@@ -218,6 +221,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

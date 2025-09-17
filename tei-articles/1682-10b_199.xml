@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Arion, Fable</head>
-        <bibl><title>Mercure galant</title>, octobre 1682 (deuxième partie) [tome 12], p. 199-209.</bibl>
-        <p>Tout le monde sçait qu’Arion fut sauvé par un Dauphin, qui le porta sur son dos jusques au Rivage ; mais on ne sçait par que ce Dauphin estoit une Nymphe métamorphosée. Vous l’apprendrez en lisant la Fable que je vous envoye.</p>
+        <bibl><title>Mercure galant</title>, octobre 1682 (deuxième partie) [tome 12],
+          p. 199-209.</bibl>
+        <p>Tout le monde sçait qu’Arion fut sauvé par un Dauphin, qui le porta sur son dos jusques
+          au Rivage ; mais on ne sçait par que ce Dauphin estoit une Nymphe métamorphosée. Vous
+          l’apprendrez en lisant la Fable que je vous envoye.</p>
         <quote>
           <label>ARION,<lb/>FABLE.</label>
           <lg>
@@ -193,8 +195,10 @@
             <l rend="i">Que lors qu’elle ne peut recevoir guérison.</l>
           </lg>
         </quote>
-        <p>Cette Fable est de M<hi rend="sup">r</hi> Bardou de Poitiers. Il est d’une Ville où l’on a fait beaucoup de Réjoüissances.<note resp="editor">La suite se trouve dans <ref target="MG-1682-10b_208">l'article suivant</ref></note></p>
+        <p>Cette Fable est de M<hi rend="sup">r</hi> Bardou de Poitiers. Il est d’une Ville où l’on
+          a fait beaucoup de Réjoüissances.<note resp="editor">La suite se trouve
+            dans <ref target="MG-1682-10b_208">l'article suivant</ref></note></p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>[Mr Courten dans les Cevennes]</head>
-        <bibl><title>Mercure galant</title>, août 1704 [tome 9], p. 281.</bibl>
-        <p>Ces réjoüissances ont éclaté jusques dans les Cevennes, où Mr Courten Brigadier des Armées du Roy, Lieutenant Colonel du Regiment Suisse du même nom, &amp; qui se trouve dans l’Armée de Monsieur le Maréchal de Villars, fit tirer le 17. Juillet un Feu d’artifice des plus magnifiques ; les Fontaines de vin n’y furent pas épargnées, il y eût un bal qui dura jusqu’au lendemain quatre heures du matin ; cette feste reçut de grands applaudissemens.</p>
-      </div>
-    </body>
+    <body><div>
+          <head>[Mr Courten dans les Cevennes]</head>
+          <bibl><title>Mercure galant</title>, août 1704 [tome 9], p. 281.</bibl>
+          <p>Ces réjoüissances ont éclaté jusques dans les Cevennes, où Mr Courten Brigadier des Armées du Roy, Lieutenant Colonel du Regiment Suisse du même nom, &amp; qui se trouve dans l’Armée de Monsieur le Maréchal de Villars, fit tirer le 17. Juillet un Feu d’artifice des plus magnifiques ; les Fontaines de vin n’y furent pas épargnées, il y eût un bal qui dura jusqu’au lendemain quatre heures du matin ; cette feste reçut de grands applaudissemens.</p>
+        </div>
+        </body>
   </text>
 </TEI>

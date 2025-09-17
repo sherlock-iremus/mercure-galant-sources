@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>[M<hi rend="sup">r</hi> de Laurensani Maistre de Musique de la feuë Reine, nommé Maistre de Musique de S. Pierre de Rome]</head>
-        <bibl><title>Mercure galant</title>, septembre 1694 [tome 9], p. 127-128.</bibl>
-        <p>Enfin nous allons perdre M<hi rend="sup">r</hi> de Laurensani, Maistre de la Musique de la feuë Reine, &amp; qui l’avoit esté auparavant de la Cathedrale de Messine, l’une des meilleures Maitrises d’Italie. Le Maistre de Musique de Saint Pierre de Rome estant mort, il a esté élû pour remplir cette place, sans l’avoir briguée. Rien ne marque mieux un vray merite que quand il est reconnu de si loin. Il doit partir dans fort peu de jours avec la permission du Roy.</p>
-      </div>
-    </body>
+    <body><div>
+          <head>[M<hi rend="sup">r</hi> de Laurensani Maistre de Musique de la feuë Reine, nommé Maistre de Musique de S. Pierre de Rome]</head>
+          <bibl><title>Mercure galant</title>, septembre 1694 [tome 9], p. 127-128.</bibl>
+          <p>Enfin nous allons perdre M<hi rend="sup">r</hi> de Laurensani, Maistre de la Musique de la feuë Reine, &amp; qui l’avoit esté auparavant de la Cathedrale de Messine, l’une des meilleures Maitrises d’Italie. Le Maistre de Musique de Saint Pierre de Rome estant mort, il a esté élû pour remplir cette place, sans l’avoir briguée. Rien ne marque mieux un vray merite que quand il est reconnu de si loin. Il doit partir dans fort peu de jours avec la permission du Roy.</p>
+        </div>
+        </body>
   </text>
 </TEI>

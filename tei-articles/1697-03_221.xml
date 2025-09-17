@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,19 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head resp="editor">Arrivée de M<hi rend="sup">r</hi> Morant à Toulouse</head>
         <bibl><title>Mercure galant</title>, mars 1697 [tome 3], p. 221-223.</bibl>
-        <p>M<hi rend="sup">r</hi> Morant, premier President du Parlement de Toulouse, y arriva vers les derniers jours de Janvier. Quoy qu’on ne fasse à ces premiers Magistrats qu’une entrée de devoir la premiere fois qu’ils viennent prendre possession de leurs Charges, on luy en fit une d’inclination à ce dernier retour de Paris. Toutes les personnes de distinction allérent au-devant de luy avec leurs carrosses ou à cheval. Le Peuple y accourut en foule. Des Compagnies Bourgeoises se mirent sous les armes, avec des tambours, fiffres, &amp; haut-bois, &amp; lors qu’il entra ce furent des cris de joye de tout le Peuple. Comme il estoit tard, on mit des flambeaux aux fenestres, pour mieux marquer le plaisir que l’on se faisoit de son retour dans toute la Ville.</p>
+        <p>M<hi rend="sup">r</hi> Morant, premier President du Parlement de Toulouse, y arriva vers
+          les derniers jours de Janvier. Quoy qu’on ne fasse à ces premiers Magistrats qu’une entrée
+          de devoir la premiere fois qu’ils viennent prendre possession de leurs Charges, on luy en
+          fit une d’inclination à ce dernier retour de Paris. Toutes les personnes de distinction
+          allérent au-devant de luy avec leurs carrosses ou à cheval. Le Peuple y accourut en foule.
+          Des Compagnies Bourgeoises se mirent sous les armes, avec des tambours, fiffres, &amp;
+          haut-bois, &amp; lors qu’il entra ce furent des cris de joye de tout le Peuple. Comme il
+          estoit tard, on mit des flambeaux aux fenestres, pour mieux marquer le plaisir que l’on se
+          faisoit de son retour dans toute la Ville.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Sonnet sur Alger]</head>
-        <bibl><title>Mercure galant</title>, octobre 1682 (deuxième partie) [tome 12], p. 313-314.</bibl>
-        <p>Voicy un Sonnet qu’on fit sur les Bouts-rimez de Pan, dans le temps que les Vaisseaux partoient pour Alger. Il est de M<hi rend="sup">r</hi> Gasquer, Vignier de Lorgues en Provence.</p>
+        <bibl><title>Mercure galant</title>, octobre 1682 (deuxième partie) [tome 12],
+          p. 313-314.</bibl>
+        <p>Voicy un Sonnet qu’on fit sur les Bouts-rimez de Pan, dans le temps que les Vaisseaux
+          partoient pour Alger. Il est de M<hi rend="sup">r</hi> Gasquer, Vignier de Lorgues en
+          Provence.</p>
         <quote>
           <label>SUR LA GUERRE<lb/><hi rend="sc">d’Alger</hi>.</label>
           <lg>
@@ -48,6 +50,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

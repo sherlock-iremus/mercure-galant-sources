@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,17 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Idille de Mr de Senecé] Idylle. A Monsieur Coypel le Fils. Jacob et Laban</head>
         <bibl><title>Mercure galant</title>, novembre 1691 [tome 11], p. 24-39.</bibl>
         <p/>
-        <p>M<hi rend="sup">r</hi> Coypel le jeune, en qui le mérite dans sa Profession est hereditaire, a donné l’idée des Vers suivans par un excellent Tableau, dans lequel il represente la colere de Jacob trompé par Laban, lors qu’il luy supposa Lia dans son lit à la Place de Rachel. Ces Vers sont de M<hi rend="sup">r</hi> de Senecé, Premier Valet de Chambre de la feuë Reine. Tous ses Ouvrages ont tant de justesse &amp; de bon goust, &amp; sont si generalement approuvez, qu’estant au dessus des loüanges que je leur pourrois donner, je me contente de vous dire que vous les lirez avec plaisir.</p>
+        <p>M<hi rend="sup">r</hi> Coypel le jeune, en qui le mérite dans sa Profession est
+          hereditaire, a donné l’idée des Vers suivans par un excellent Tableau, dans lequel il
+          represente la colere de Jacob trompé par Laban, lors qu’il luy supposa Lia dans son lit à
+          la Place de Rachel. Ces Vers sont de M<hi rend="sup">r</hi> de Senecé, Premier Valet de
+          Chambre de la feuë Reine. Tous ses Ouvrages ont tant de justesse &amp; de bon goust, &amp;
+          sont si generalement approuvez, qu’estant au dessus des loüanges que je leur pourrois
+          donner, je me contente de vous dire que vous les lirez avec plaisir.</p>
         <quote>
           <label>IDYLLE.<lb/>A Monsieur Coypel le Fils.<lb/>JACOB ET LABAN.</label>
           <lg>
@@ -45,7 +50,8 @@
             <l rend="i"> O Ciel ! soûtenez ma raison.</l>
             <l rend="i">Par choix, ou par surprise, elle est enfin ma Femme,</l>
             <l rend="i"> Il faut l’aimer. Et le pourray-je, helas !</l>
-            <l><hi rend="i">Pourray-je</hi> (<hi rend="i">Malheureux !</hi>) <hi rend="i">maistre de tant de flame,</hi></l>
+            <l><hi rend="i">Pourray-je</hi> (<hi rend="i">Malheureux !</hi>) <hi rend="i">maistre de
+                tant de flame,</hi></l>
             <l rend="i">De sa charmante Sœur oublier les appas ?</l>
             <l rend="i">Ah ! Laban ! ah ! perfide ! Auteur de mon trépas,</l>
             <l rend="i">Trop de douceur me livre aux maux que vous me faites.</l>
@@ -194,11 +200,12 @@
             <l rend="i">Des Curieux futurs faire un jour les delices.</l>
             <l rend="i">Mais ne te presse point d’arriver à ce bien,</l>
             <l rend="i">Et songe, que pour estre au dessus de l’envie,</l>
-            <l><hi rend="i">Dans tous les Arts</hi> (<hi rend="i">&amp; sur tout dans le tien</hi>)</l>
+            <l><hi rend="i">Dans tous les Arts</hi> (<hi rend="i">&amp; sur tout dans le
+              tien</hi>)</l>
             <l rend="i"> Il faut qu’il en coute la vie.</l>
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

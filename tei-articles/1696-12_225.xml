@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Discours prononcé à Agen]</head>
         <bibl><title>Mercure galant</title>, décembre 1696 [tome 12], p. 225-227.</bibl>
         <p>Je vous envoye un Discours qui a esté prononcé par M<hi rend="sup">r</hi> Labat, Avocat du Roy au Presidial d'Agen.</p>
@@ -24,6 +23,6 @@
         <p/>
         <p>Nous avons remply l'air de nos feux &amp; de nos cris d'allegresse, &amp; le ciel, de nos actions de graces ; &amp; l'écho de ce qui se dit par tout m'engage à l'ouverture de cette Seance, d'en entretenir la Cour que de l'heureux succés de la paix de Savoye. Mais quelle étenduë de connoisssance ne faudroit-il point pour débroüiller depuis ce dernier <hi rend="i">Te Deum</hi>, les interests de tant de Princes, ou plutost quelle solidité de jugement ne faudroit-il point avoir, pour composer une action digne de cette honorable Audience ? [...]</p>
       </div>
-    </body>
+        </body>
   </text>
 </TEI>

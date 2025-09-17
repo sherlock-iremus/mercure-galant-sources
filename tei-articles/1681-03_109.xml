@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,61 +14,42 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>L’Abeille et le Papillon. Fable</head>
         <bibl><title>Mercure galant</title>, mars 1681 [tome 3], p. 109-120.</bibl>
-        <p>Je vous envoye une Fable qui enferme une tres-utile moralité pour ces Amans du bel air, dont le mérite le plus éclatant, consiste dans la dépense qu’ils font pour leurs Belles. Elle est de M<hi rend="sup">r</hi> Philibert, d’Antibe en Provence.</p>
+        <p>Je vous envoye une Fable qui enferme une tres-utile moralité pour ces Amans du bel air,
+          dont le mérite le plus éclatant, consiste dans la dépense qu’ils font pour leurs Belles.
+          Elle est de M<hi rend="sup">r</hi> Philibert, d’Antibe en Provence.</p>
         <quote>
           <label>L’ABEILLE, ET LE PAPILLON.<lb/>FABLE.</label>
           <lg>
-            <l>
-              <hi rend="i">Des que l’Astre du Jour par ses clartez nouvelles</hi>
-            </l>
+            <l><hi rend="i">Des que l’Astre du Jour par ses clartez nouvelles</hi></l>
             <l> <hi rend="i">Venoit éclairer le matin,</hi></l>
             <l> <hi rend="i">Un Papillon dans un Jardin</hi></l>
             <l> <hi rend="i">Etaloit avec soin ses aîles</hi></l>
             <l> <hi rend="i">Sur la Rose &amp; sur le Jasmin.</hi></l>
-            <l>
-              <hi rend="i">Mais pourquoy, direz vous, prenoit-il tant de peine ?</hi>
-            </l>
+            <l><hi rend="i">Mais pourquoy, direz vous, prenoit-il tant de peine ?</hi></l>
             <l> <hi rend="i">L’Amour l’avoit sous son domaine,</hi></l>
             <l> <hi rend="i">Et de tout temps l’ajustement</hi></l>
             <l> <hi rend="i">Fut d’un grand secours à l’Amant ;</hi></l>
-            <l>
-              <hi rend="i">Il soûpiroit pour une Solitaire ;</hi>
-            </l>
+            <l><hi rend="i">Il soûpiroit pour une Solitaire ;</hi></l>
             <l>  <hi rend="i">Faire la déclaration</hi></l>
             <l> <hi rend="i">De sa naissante passion,</hi></l>
             <l> <hi rend="i">Estoit là sa plus grande affaire.</hi></l>
             <l> <hi rend="i">Un jour pourtant l’occasion s’offrit,</hi></l>
-            <l>
-              <hi rend="i">L’Abeille qu’il aimoit vint avec une Amie</hi>
-            </l>
+            <l><hi rend="i">L’Abeille qu’il aimoit vint avec une Amie</hi></l>
             <l> <hi rend="i">En cette Campagne fleurie,</hi></l>
-            <l>
-              <hi rend="i">Elle y trouvoit des Fleurs selon son appétit.</hi>
-            </l>
+            <l><hi rend="i">Elle y trouvoit des Fleurs selon son appétit.</hi></l>
             <l> <hi rend="i">Nostre Amoureux ravy de l’avanture,</hi></l>
-            <l>
-              <hi rend="i">Voltige sur les Fleurs, puis s’arreste un moment</hi>
-            </l>
+            <l><hi rend="i">Voltige sur les Fleurs, puis s’arreste un moment</hi></l>
             <l> <hi rend="i">Pour préparer un Compliment ;</hi></l>
             <l> <hi rend="i">En suite il se met en posture</hi></l>
-            <l>
-              <hi rend="i">D’aborder un Objet à ses yeux si charmant.</hi>
-            </l>
+            <l><hi rend="i">D’aborder un Objet à ses yeux si charmant.</hi></l>
             <l> <hi rend="i">En cet état jamais Amant</hi></l>
             <l> <hi rend="i">N’avoit fait si bonne figure,</hi></l>
-            <l>
-              <hi rend="i">Tout estoit magnifique en son ajustement.</hi>
-            </l>
-            <l>
-              <hi rend="i">Sur sa petite teste une Aigrete élevée</hi>
-            </l>
-            <l>
-              <hi rend="i">D’une parure en luy de tout point achevée,</hi>
-            </l>
+            <l><hi rend="i">Tout estoit magnifique en son ajustement.</hi></l>
+            <l><hi rend="i">Sur sa petite teste une Aigrete élevée</hi></l>
+            <l><hi rend="i">D’une parure en luy de tout point achevée,</hi></l>
             <l> <hi rend="i">Faisoit le plus bel ornement.</hi></l>
             <l> <hi rend="i">Son corps brilloit des couleurs les plus vives ;</hi></l>
             <l> <hi rend="i">Leur arrangement sans égal,</hi></l>
@@ -77,21 +58,13 @@
             <l> <hi rend="i">Ses aîles estoient d’écarlate,</hi></l>
             <l> <hi rend="i">Où la Nature avoit placé</hi></l>
             <l> <hi rend="i">D’une maniere délicate</hi></l>
-            <l>
-              <hi rend="i">Ce que la Broderie auroit de mieux tracé.</hi>
-            </l>
+            <l><hi rend="i">Ce que la Broderie auroit de mieux tracé.</hi></l>
             <l> <hi rend="i">En cet équipage il s’éleve,</hi></l>
-            <l>
-              <hi rend="i">Va vers les Fleurs où son Abeille enleve</hi>
-            </l>
+            <l><hi rend="i">Va vers les Fleurs où son Abeille enleve</hi></l>
             <l> <hi rend="i">Ce qui peut mériter son choix,</hi></l>
-            <l>
-              <hi rend="i">L’approche, &amp; pour salut, bat de l’aîle trois fois.</hi>
-            </l>
+            <l><hi rend="i">L’approche, &amp; pour salut, bat de l’aîle trois fois.</hi></l>
             <l>Faites justice à mon amour extréme,</l>
-            <l>
-              <hi rend="i">Luy dit-il de l’air le plus doux ;</hi>
-            </l>
+            <l><hi rend="i">Luy dit-il de l’air le plus doux ;</hi></l>
             <l>Vous sçaurez, Belle, que si j’aime,</l>
             <l>Je ne dois m’en prendre qu’à vous.</l>
             <l>Vos appas ont sçeu me surprendre,</l>
@@ -122,9 +95,7 @@
             <l> <hi rend="i">A vouloir convaincre l’Abeille</hi></l>
             <l> <hi rend="i">Qu’il ne mourroit que sous ses loix,</hi></l>
             <l> <hi rend="i">Elle faisoit la sourde oreille,</hi></l>
-            <l>
-              <hi rend="i">Et s’occupoit toûjours à choisir le meilleur</hi>
-            </l>
+            <l><hi rend="i">Et s’occupoit toûjours à choisir le meilleur</hi></l>
             <l> <hi rend="i">De ce que porte chaque Fleur.</hi></l>
             <l> <hi rend="i">L’Amant sans cesse ayant les yeux sur elle,</hi></l>
             <l> <hi rend="i">Admire tout ce qu’elle fait,</hi></l>
@@ -154,12 +125,8 @@
             <l>Dont je ne sois ravy de faire vostre bien.</l>
             <l> <hi rend="i">Si l’Abeille estoit scrupuleuse,</hi></l>
             <l> <hi rend="i">Sa Compagne, grande rieuse,</hi></l>
-            <l>
-              <hi rend="i">Du Compliment ne perdit pas un mot.</hi>
-            </l>
-            <l>
-              <hi rend="i">L’ofre du Papillon la rendant curieuse,</hi>
-            </l>
+            <l><hi rend="i">Du Compliment ne perdit pas un mot.</hi></l>
+            <l><hi rend="i">L’ofre du Papillon la rendant curieuse,</hi></l>
             <l>Ma Chere, <hi rend="i">luy dit-elle,</hi> il faut duper ce Sot,</l>
             <l> Faites tant-soit-peu l’amoureuse.</l>
             <l> Quand il aura les yeux sur vous,</l>
@@ -172,24 +139,14 @@
             <l>Ce n’est pas un defaut qu’estre dissimulée,</l>
             <l>Par là dans ce beau Lieu qu’il nous a tant vanté</l>
             <l>Nous aurons sur les Fleurs entiere autorité.</l>
-            <l>
-              <hi rend="i">Par ses conseils l’Abeille enfin plus complaisante,</hi>
-            </l>
-            <l>
-              <hi rend="i">Flatant du Papillon les amoureux desirs,</hi>
-            </l>
+            <l><hi rend="i">Par ses conseils l’Abeille enfin plus complaisante,</hi></l>
+            <l><hi rend="i">Flatant du Papillon les amoureux desirs,</hi></l>
             <l> <hi rend="i">Poussa quelques tendres soûpirs</hi></l>
             <l> <hi rend="i">Qui sembloient partir d’une Amante.</hi></l>
-            <l>
-              <hi rend="i">Le Jardin proposé n’estoit pas loin de là,</hi>
-            </l>
+            <l><hi rend="i">Le Jardin proposé n’estoit pas loin de là,</hi></l>
             <l> <hi rend="i">Cet illustre Trio promptement y vola.</hi></l>
-            <l>
-              <hi rend="i">Comme l’affaire est assez bien conduite,</hi>
-            </l>
-            <l>
-              <hi rend="i">Sans la Compagne on en craindroit la suite.</hi>
-            </l>
+            <l><hi rend="i">Comme l’affaire est assez bien conduite,</hi></l>
+            <l><hi rend="i">Sans la Compagne on en craindroit la suite.</hi></l>
             <l> <hi rend="i">Ajustement, Compliment, &amp; Régal,</hi></l>
             <l> <hi rend="i">Peuvent bien faire une conqueste.</hi></l>
             <l> <hi rend="i">Le Papillon ne s’y prenoit pas mal,</hi></l>
@@ -198,30 +155,22 @@
             <l> <hi rend="i">En cet agreable Parterre.</hi></l>
             <l> <hi rend="i">Dieu sçait quel ravage elles font !</hi></l>
             <l> <hi rend="i">Chaque Fleur sent leur rude guerre ;</hi></l>
-            <l>
-              <hi rend="i">Tout estant défloré, sans rien dire, à grande erre</hi>
-            </l>
+            <l><hi rend="i">Tout estant défloré, sans rien dire, à grande erre</hi></l>
             <l> <hi rend="i">Les deux fines Mouches s’en vont.</hi></l>
-            <l>
-              <hi rend="i">Papillon reste seul sans Fleurs &amp; sans Maîtresse.</hi>
-            </l>
+            <l><hi rend="i">Papillon reste seul sans Fleurs &amp; sans Maîtresse.</hi></l>
             <l>Ah, cruelle, <hi rend="i">dit-il</hi>, devois-tu m’abuser ?</l>
             <l>Je me consolerois de ma folle largesse,</l>
             <l>Si tu m’avois donné, tout-au-moins, un baiser.</l>
           </lg>
           <ab type="ornament">***</ab>
           <lg>
-            <l>
-              <hi rend="i">Expliquez, belle Iris, vous en estes capable,</hi>
-            </l>
-            <l>
-              <hi rend="i">Ce que le Papillon cache dans cette Fable.</hi>
-            </l>
+            <l><hi rend="i">Expliquez, belle Iris, vous en estes capable,</hi></l>
+            <l><hi rend="i">Ce que le Papillon cache dans cette Fable.</hi></l>
             <l> <hi rend="i">Vous le sçavez, mais entre nous,</hi></l>
             <l> <hi rend="i">Tyrcis le sçait bien mieux que vous.</hi></l>
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

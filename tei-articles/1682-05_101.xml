@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, mai 1682 [tome 5], p. 101.</bibl>
-        <p>L´Air nouveau qui suit est d´un des plus sçavans Hommes que nous ayons en Musique. Mr Daubaine a fait les Paroles.</p>
+        <p>L´Air nouveau qui suit est d´un des plus sçavans Hommes que nous ayons en Musique. Mr
+          Daubaine a fait les Paroles.</p>
         <quote>
-          <label>AIR NOUVEAU.</label>
-          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Nous nous estions promis une amour eternelle</hi>, doit regarder la page 101.</note>
+          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour
+              placer les Figures</hi> : l’Air qui commence par <hi rend="i">Nous nous estions promis
+              une amour eternelle</hi>, doit regarder la page 101.</note>
           <lg>
             <l rend="i">Nous nous estions promis une amour eternelle,</l>
             <l rend="i">Et nous avons tous deux cessé de nous aimer.</l>
@@ -38,6 +39,6 @@
           </figure>
         </ref>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

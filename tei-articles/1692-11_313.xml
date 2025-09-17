@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>[Comedie]</head>
-        <bibl><title>Mercure galant</title>, novembre 1692 [tome 14], p. 313.</bibl>
-        <p>Je ne puis m’empescher de vous dire, en vous parlant des plaisirs, que les Comediens François, joüent une Comedie nouvelle, intitulée, <hi rend="i">Les Femmes à la Mode</hi>, dont le succez est tres-grand, &amp; les assemblées nombreuses ; rien n’est plus vif, ne divertit davantage, &amp; n’entre mieux dans le goust du siecle.</p>
-      </div>
-    </body>
+    <body><div>
+          <head>[Comedie]</head>
+          <bibl><title>Mercure galant</title>, novembre 1692 [tome 14], p. 313.</bibl>
+          <p>Je ne puis m’empescher de vous dire, en vous parlant des plaisirs, que les Comediens François, joüent une Comedie nouvelle, intitulée, <hi rend="i">Les Femmes à la Mode</hi>, dont le succez est tres-grand, &amp; les assemblées nombreuses ; rien n’est plus vif, ne divertit davantage, &amp; n’entre mieux dans le goust du siecle.</p>
+        </div>
+      </body>
   </text>
 </TEI>

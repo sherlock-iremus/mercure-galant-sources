@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,17 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>[Nouveau livre de motets]</head>
-        <bibl><title>Mercure galant</title>, juillet 1703 [tome 7], p. 267-268.</bibl>
-        <p>On vient de donner au Public vingt six Motets nouveaux à une, deux, &amp; trois voix, avec Symphonie &amp; sans Symphonie, dediez à Monseigneur le Duc de Bourgogne, composez par Mr Bernier, Maistre de Musique de l’Eglise Royale &amp; Collegiale de Saint Germain l’Auxerois &amp; gravez par Mr Baussen, ils sont In folio, &amp; se vendent 12. livres reliez en veau &amp; 10 livres dix sols en blanc, ils se vendent chez l’Auteur, Cloistre Saint Germain l’Auxerois, &amp; chez Mr Foucault, Marchand ruë S. Honoré à la Regle d’or.</p>
-      </div>
-    </body>
+    <body><div>
+          <head>[Nouveau livre de motets]</head>
+          <bibl><title>Mercure galant</title>, juillet 1703 [tome 7], p. 267-268.</bibl>
+          <p>On vient de donner au Public vingt six Motets nouveaux à une, deux, &amp; trois voix,
+            avec Symphonie &amp; sans Symphonie, dediez à Monseigneur le Duc de Bourgogne, composez
+            par Mr Bernier, Maistre de Musique de l’Eglise Royale &amp; Collegiale de Saint Germain
+            l’Auxerois &amp; gravez par Mr Baussen, ils sont In folio, &amp; se vendent 12. livres
+            reliez en veau &amp; 10 livres dix sols en blanc, ils se vendent chez l’Auteur, Cloistre
+            Saint Germain l’Auxerois, &amp; chez Mr Foucault, Marchand ruë S. Honoré à la Regle
+            d’or.</p>
+        </div>
+        </body>
   </text>
 </TEI>

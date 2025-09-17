@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,26 +14,25 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>Au Roy</head>
-        <bibl><title>Mercure galant</title>, janvier 1697 [tome 1], p. 147-148.</bibl>
-        <p>J’ajoûte un Madrigal, fait sur la Paix de Savoye. Il est de M<hi rend="sup">r</hi> l’Abbé Jaquelot.</p>
-        <quote>
+    <body><div>
+          <head>Au Roy</head>
+          <bibl><title>Mercure galant</title>, janvier 1697 [tome 1], p. 147-148.</bibl>
+          <p>J’ajoûte un Madrigal, fait sur la Paix de Savoye. Il est de M<hi rend="sup">r</hi> l’Abbé Jaquelot.</p>
+          <quote>
           <label>AU ROY.</label>
-          <lg>
-            <l rend="i">Heros, qui ne vois rien d’illustre comme toy,</l>
-            <l rend="i">Qu’en la Paix que tu viens de faire</l>
-            <l rend="i">Brille un auguste caractere,</l>
-            <l rend="i">Et que j’y connois bien la grandeur de mon Roy !</l>
-            <l rend="i">De Dieu tu t’y fais voir le parfait exemplaire.</l>
-            <l rend="i">Souvent de la même maniere</l>
-            <l rend="i">Par les foibles Mortels quand il est irrité,</l>
-            <l rend="i">Sous les éclats de sa colere,</l>
-            <l rend="i">Sont les effets de sa bonté.</l>
-          </lg>
-        </quote>
-      </div>
-    </body>
+            <lg>
+          <l rend="i">Heros, qui ne vois rien d’illustre comme toy,</l>
+          <l rend="i">Qu’en la Paix que tu viens de faire</l>
+          <l rend="i">Brille un auguste caractere,</l>
+          <l rend="i">Et que j’y connois bien la grandeur de mon Roy !</l>
+          <l rend="i">De Dieu tu t’y fais voir le parfait exemplaire.</l>
+          <l rend="i">Souvent de la même maniere</l>
+          <l rend="i">Par les foibles Mortels quand il est irrité,</l>
+          <l rend="i">Sous les éclats de sa colere,</l>
+          <l rend="i">Sont les effets de sa bonté.</l>
+            </lg>
+          </quote>
+        </div>
+        </body>
   </text>
 </TEI>

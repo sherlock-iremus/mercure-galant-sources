@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, janvier 1684 [tome 1], p. 329-330.</bibl>
-        <p>Vous trouverez le vray Mot des deux Enigmes du dernier Mois, dans l´Air nouveau que je vous envoye <note resp="editor">Pour les deux énigmes parues dans le <hi rend="italic">Mercure galant</hi> de décembre 1683, voir <ref target="MG-1683-01_310">cet article</ref> et <ref target="MG-1683-01_312">celui-ci.</ref> Des explications en vers en ont également été publiées dans l'<ref target="MG-1684-03e_084">extraordinaire du quartier de janvier 1684</ref>.</note>. Les Paroles sont de Gygés du Havre.</p>
+        <p>Vous trouverez le vray Mot des deux Enigmes du dernier Mois, dans l´Air nouveau que je
+          vous envoye <note resp="editor">Pour les deux énigmes parues dans le <hi rend="italic">Mercure galant</hi> de décembre 1683, voir <ref target="MG-1683-01_310">cet article</ref> et <ref target="MG-1683-01_312">celui-ci.</ref> Des explications en vers en ont également été publiées dans l'<ref target="MG-1684-03e_084">extraordinaire du quartier de janvier 1684</ref>.</note>. Les Paroles sont de Gygés du Havre.</p>
         <quote>
           <label>AIR NOUVEAU.</label>
           <label>Servant d´Explication aux deux Enigmes du mois de Decembre 1683.</label>
@@ -33,13 +33,15 @@
             <l rend="i">Et le voila ce bon Amy.</l>
           </lg>
         </quote>
-        <p>La sillabe <hi rend="i">Mi</hi>, est le vray Mot de l´une &amp; de l´autre. Plusieurs ont expliqué la premiere sur la seule lettre <hi rend="i">I</hi>, &amp; d´autres ont expliqué la seconde sur la seule lettre <hi rend="i">M</hi>.</p>
+        <p>La sillabe <hi rend="i">Mi</hi>, est le vray Mot de l´une &amp; de l´autre. Plusieurs ont
+          expliqué la premiere sur la seule lettre <hi rend="i">I</hi>, &amp; d´autres ont expliqué
+          la seconde sur la seule lettre <hi rend="i">M</hi>.</p>
         <ref target="images/1684-01_329.JPG">
           <figure>
             <graphic url="images/1684-01_329.JPG"/>
           </figure>
         </ref>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

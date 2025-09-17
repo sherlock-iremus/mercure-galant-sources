@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head resp="editor">Sentiments de Mr du Rosier aux questions du XVe Extraordinaire</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1682 [tome XVII], p. 2-8.</bibl>
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1682 [tome XVII],
+          p. 2-8.</bibl>
         <p/>
-        <p>
-          <hi rend="i">M<hi rend="sup">r</hi> du Rosier s’est expliqué par les Vers qui suivent, sur toutes les Questions du XV. Extraordinaire.</hi>
-        </p>
+        <p><hi rend="i">M<hi rend="sup">r</hi> du Rosier s’est expliqué par les Vers qui suivent,
+            sur toutes les Questions du XV. Extraordinaire.</hi></p>
         <quote>
           <label>SI ON PEUT AIMER<lb/>sans le sçavoir.</label>
           <lg>
@@ -37,7 +36,9 @@
           </lg>
         </quote>
         <quote>
-          <label>Si une Belle, qui aime fortement, peut exécuter les desseins de vangeance qu’elle médite contre un Amant absent qui l’a oubliée, quand à son retour il apporte des raisons, quoy que méchantes, pour excuser sa conduite.</label>
+          <label>Si une Belle, qui aime fortement, peut exécuter les desseins de vangeance qu’elle
+            médite contre un Amant absent qui l’a oubliée, quand à son retour il apporte des
+            raisons, quoy que méchantes, pour excuser sa conduite.</label>
           <lg>
             <l rend="i">J’Approuve, belle Iris, vostre ressentiment,</l>
             <l rend="i"> Point de pardon, point de clémence.</l>
@@ -54,7 +55,8 @@
           </lg>
         </quote>
         <quote>
-          <label>Si sans marquer peu d’estime pour une Personne qui nous a fait un présent par amitié, on peut donner à une autre ce qu’elle nous a donné.</label>
+          <label>Si sans marquer peu d’estime pour une Personne qui nous a fait un présent par
+            amitié, on peut donner à une autre ce qu’elle nous a donné.</label>
           <lg>
             <l rend="i"> Ce que me donne mon Amy</l>
             <l rend="i">Est à moy tout entier, &amp; non pas à demy.</l>
@@ -70,7 +72,9 @@
           </lg>
         </quote>
         <quote>
-          <label>Si un Amant ayant reçeu d’une Belle les plus fortes marques d’estime &amp; d’amitié qu’elle pouvoit luy donner, peut sans attirer sa colere, luy témoigner qu’il doute de sa tendresse, pour en recevoir de nouvelles assurances.</label>
+          <label>Si un Amant ayant reçeu d’une Belle les plus fortes marques d’estime &amp; d’amitié
+            qu’elle pouvoit luy donner, peut sans attirer sa colere, luy témoigner qu’il doute de sa
+            tendresse, pour en recevoir de nouvelles assurances.</label>
           <lg>
             <l rend="i">Un Amant délicat est toûjours allarmé,</l>
             <l rend="i">Rien ne peut l’assurer du cœur de sa Maîtresse ;</l>
@@ -115,7 +119,8 @@
           </lg>
         </quote>
         <quote>
-          <label>Si deux Enfans qui naissent attachez l’un à l’autre, &amp; n’ayant qu’un cœur, quoy qu’avec deux corps, n’ont aussi qu’une seule ame.</label>
+          <label>Si deux Enfans qui naissent attachez l’un à l’autre, &amp; n’ayant qu’un cœur, quoy
+            qu’avec deux corps, n’ont aussi qu’une seule ame.</label>
           <lg>
             <l rend="i">Prodige surprenant, étrange effet de l’Art,</l>
             <l rend="i"> Merveille de la fantaisie !</l>
@@ -128,6 +133,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

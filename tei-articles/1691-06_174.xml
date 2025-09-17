@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Sur la prise de Mons. Idylle</head>
         <bibl><title>Mercure galant</title>, juin 1691 [tome 6], p. 174-182.</bibl>
         <p/>
-        <p>Vous vous plaindriez sans doute si je manquois à vous envoyer des Vers qui ont esté faits sur la conqueste de Mons, &amp; qui ont acquis icy une estime generale. Ils sont du fameux M<hi rend="sup">r</hi> de la Monnoye, dont la reputation vous est connuë.</p>
+        <p>Vous vous plaindriez sans doute si je manquois à vous envoyer des Vers qui ont esté faits
+          sur la conqueste de Mons, &amp; qui ont acquis icy une estime generale. Ils sont du fameux
+            M<hi rend="sup">r</hi> de la Monnoye, dont la reputation vous est connuë.</p>
         <quote>
           <label>SUR LA PRISE<lb/>DE MONS.<lb/>IDYLLE.</label>
           <lg>
@@ -144,6 +145,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

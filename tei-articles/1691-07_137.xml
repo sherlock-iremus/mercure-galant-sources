@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Devises]</head>
         <bibl><title>Mercure galant</title>, juillet 1691 [tome 7], p. 137-142.</bibl>
         <p/>
-        <p>Voicy des Devises qui ont esté faites sur les Princes de la Ligue, par M<hi rend="sup">r</hi> de Lorme. Avocat au Parlement de Grenoble. Les deux premieres regardent le Roy. L’une est un Soleil qui efface tous les autres Astres, avec ces mots Latins, <hi rend="i">Delet hic unicus omnes</hi>, ou ces mots Espagnols, <hi rend="i">Todos borra el solo.</hi></p>
+        <p>Voicy des Devises qui ont esté faites sur les Princes de la Ligue, par M<hi rend="sup">r</hi> de Lorme. Avocat au Parlement de Grenoble. Les deux premieres regardent le Roy.
+          L’une est un Soleil qui efface tous les autres Astres, avec ces mots Latins, <hi rend="i">Delet hic unicus omnes</hi>, ou ces mots Espagnols, <hi rend="i">Todos borra el
+            solo.</hi></p>
         <quote>
           <lg>
             <l rend="i"> Auprés de son éclat, le vostre n’est qu’une ombre.</l>
@@ -28,7 +29,9 @@
             <l rend="i"> Luy seul vous défait tous.</l>
           </lg>
         </quote>
-        <p>L’autre a aussi pour Corps le Soleil, dont la lumiere ébloüit des Oiseaux de nuit &amp; les met en desordre, avec cet Hemistiche pour ame, <hi rend="i">Non nocet, at lucet.</hi></p>
+        <p>L’autre a aussi pour Corps le Soleil, dont la lumiere ébloüit des Oiseaux de nuit &amp;
+          les met en desordre, avec cet Hemistiche pour ame, <hi rend="i">Non nocet, at
+          lucet.</hi></p>
         <quote>
           <lg>
             <l rend="i">N’imputez ce desordre extrême</l>
@@ -39,7 +42,8 @@
         </quote>
         <quote>
           <label>POUR L’EMPEREUR.</label>
-          <p>Un faux Aiglon qui tourne la teste, ses yeux ne pouvant souffrir l’éclat des rayons du Soleil, &amp; cet autre Hemistiche, <hi rend="i">Se probat indignum.</hi></p>
+          <p>Un faux Aiglon qui tourne la teste, ses yeux ne pouvant souffrir l’éclat des rayons du
+            Soleil, &amp; cet autre Hemistiche, <hi rend="i">Se probat indignum.</hi></p>
           <quote>
             <lg>
               <l rend="i">  L’éclat dont vous estes choqué,</l>
@@ -63,13 +67,13 @@
         </quote>
         <quote>
           <label>Pour LES HOLLANDOIS.</label>
-          <p>Des nuages devant le Soleil qui les perce de ses rayons, &amp; les fait tomber en pluye dans un Marais, &amp; ces paroles pour ame, <hi rend="i">S’ho vi elevati, abbassaro.</hi></p>
+          <p>Des nuages devant le Soleil qui les perce de ses rayons, &amp; les fait tomber en pluye
+            dans un Marais, &amp; ces paroles pour ame, <hi rend="i">S’ho vi elevati,
+              abbassaro.</hi></p>
           <quote>
             <lg>
               <l rend="i"> Vous que j’ay tirez de la fange,</l>
-              <l>
-                <hi rend="i">Tenebreux avortons de ma vive clarté,</hi>
-              </l>
+              <l><hi rend="i">Tenebreux avortons de ma vive clarté,</hi></l>
               <l rend="i">Vous venez à present par un indigne échange,</l>
               <l rend="i">  M’opposer vostre obscurité ;</l>
               <l rend="i">Mais ne pouvant souffrir aucun impur mélange,</l>
@@ -79,7 +83,8 @@
         </quote>
         <quote>
           <label>POUR LE PRINCE<lb/><hi rend="sc">d’Orange.</hi></label>
-          <p>Un Oranger, avec ces mots aussi Italiens, <hi rend="i">Grato di fuori, dentro amaro.</hi></p>
+          <p>Un Oranger, avec ces mots aussi Italiens, <hi rend="i">Grato di fuori, dentro
+              amaro.</hi></p>
           <quote>
             <lg>
               <l rend="i">Son apparence est decevable,</l>
@@ -103,7 +108,8 @@
         </quote>
         <quote>
           <label>POUR LE DUC<lb/><hi rend="sc">de Savoye.</hi></label>
-          <p>Phaëton qui tombe dans le Pô, avec ces mots d’Ovide, <hi rend="i">Magnis excidit ausis.</hi></p>
+          <p>Phaëton qui tombe dans le Pô, avec ces mots d’Ovide, <hi rend="i">Magnis excidit
+              ausis.</hi></p>
           <quote>
             <lg>
               <l rend="i"> Pour avoir rejetté le sage avis d’un Pere,</l>
@@ -114,6 +120,7 @@
           </quote>
         </quote>
       </div>
-    </body>
+
+      </body>
   </text>
 </TEI>

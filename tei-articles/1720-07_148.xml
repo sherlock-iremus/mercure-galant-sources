@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,40 +14,23 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Chanson.</head>
         <bibl><title>Nouveau Mercure </title>, juillet 1720 [tome 7], p.148.</bibl>
         <quote>
           <label>CHANSON <note resp="editor">Au départ de la musique : « Par M. Nielle ».</note>.</label>
           <lg>
-            <l>
-              <hi rend="i">Quand je plaisois à tes yeux,</hi>
-            </l>
-            <l>
-              <hi rend="i">J'étois content de ma vie,</hi>
-            </l>
-            <l>
-              <hi rend="i">Et ne voyois ni Rois, ni Dieux</hi>
-            </l>
-            <l>
-              <hi rend="i">Dont le sort me fit envie :</hi>
-            </l>
-            <l>
-              <hi rend="i">Lorsqu'à toute autre personne</hi>
-            </l>
-            <l>
-              <hi rend="i">Me preferoit ton ardeur,</hi>
-            </l>
-            <l>
-              <hi rend="i">J'aurois quitté la Couronne</hi>
-            </l>
-            <l>
-              <hi rend="i">Pour regner sur ton cœur.</hi>
-            </l>
-          </lg>
+            <l><hi rend="i">Quand je plaisois à tes yeux,</hi></l>
+            <l><hi rend="i">J'étois content de ma vie,</hi></l>
+            <l><hi rend="i">Et ne voyois ni Rois, ni Dieux</hi></l>
+            <l><hi rend="i">Dont le sort me fit envie :</hi></l>
+            <l><hi rend="i">Lorsqu'à toute autre personne</hi></l>
+            <l><hi rend="i">Me preferoit ton ardeur,</hi></l>
+            <l><hi rend="i">J'aurois quitté la Couronne</hi></l>
+            <l><hi rend="i">Pour regner sur ton cœur.</hi></l>
+          </lg> 
         </quote>
       </div>
-    </body>
+            </body>
   </text>
 </TEI>

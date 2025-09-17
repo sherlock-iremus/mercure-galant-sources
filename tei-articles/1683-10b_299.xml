@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Sonnet</head>
-        <bibl><title>Mercure galant</title>, octobre 1683 (deuxième partie) [tome 12], p. 299-301.</bibl>
-        <p>Voicy encore un autre Sonnet à la gloire du Pape, &amp; du Roy de Pologne, sur le Secours de Vienne. Il est de M<hi rend="sup">r</hi> le Chevalier Descouture.</p>
+        <bibl><title>Mercure galant</title>, octobre 1683 (deuxième partie) [tome 12],
+          p. 299-301.</bibl>
+        <p>Voicy encore un autre Sonnet à la gloire du Pape, &amp; du Roy de Pologne, sur le Secours
+          de Vienne. Il est de M<hi rend="sup">r</hi> le Chevalier Descouture.</p>
         <quote>
           <label>SONNET.</label>
           <lg>
@@ -48,6 +49,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

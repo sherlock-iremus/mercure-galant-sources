@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Aubade donnée à la Ville de Namur] Sur la Prise de Namur. Au Roy</head>
         <bibl><title>Mercure galant</title>, août 1692 [tome 10], p. 10-23.</bibl>
-        <p>Je vous ay déja fait part de quelques Ouvrages qui ont esté faits sur ce sujet. En voicy d’autres, que vous trouverez tres-dignes de l’applaudissement qu’ils ont receu des Connoisseurs les plus éclairez. M<hi rend="sup">r</hi> Boyer, de l’Academie Françoise, a parlé ainsi de cette nouvelle Conqueste.</p>
+        <p>Je vous ay déja fait part de quelques Ouvrages qui ont esté faits sur ce sujet. En voicy
+          d’autres, que vous trouverez tres-dignes de l’applaudissement qu’ils ont receu des
+          Connoisseurs les plus éclairez. M<hi rend="sup">r</hi> Boyer, de l’Academie Françoise, a
+          parlé ainsi de cette nouvelle Conqueste.</p>
         <quote>
           <label><hi rend="i">SUR LA PRISE</hi><lb/><hi rend="i">DE NAMUR.</hi><lb/>AU ROY.</label>
           <lg>
@@ -219,6 +221,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

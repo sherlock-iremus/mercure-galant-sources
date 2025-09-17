@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Stances] [et] [Madrigal]</head>
-        <bibl><title>Mercure galant</title>, octobre 1682 (première partie) [tome 11], p. 153-156.</bibl>
-        <p>M<hi rend="sup">r</hi> Amoreux de Digne, Avocat au Parlement d’Aix, a fait les Stances que j’ajoûte à ce Sonnet.</p>
+        <bibl><title>Mercure galant</title>, octobre 1682 (première partie) [tome 11],
+          p. 153-156.</bibl>
+        <p>M<hi rend="sup">r</hi> Amoreux de Digne, Avocat au Parlement d’Aix, a fait les Stances
+          que j’ajoûte à ce Sonnet.</p>
         <quote>
           <label>A MONSEIGNEUR<lb/>LE DUC<lb/>DE BOURGOGNE.<lb/><hi rend="sc">Stances</hi>.</label>
           <lg>
@@ -57,7 +58,8 @@
             <l rend="i"> L’on te verra par tes travaux</l>
             <l rend="i"> Monter aussi haut que ta source.</l>
             <l rend="i"> Lors que ta valeur agira,</l>
-            <l> <hi rend="sc">Loüis le Grand</hi> <hi rend="i">t’animera,</hi></l>
+            <l> <hi rend="sc">Loüis le Grand</hi>
+              <hi rend="i">t’animera,</hi></l>
             <l rend="i">Luy seul par ses conseils reglera ta conduite,</l>
             <l rend="i">Et marchant comme Luy sur l’orgueil abbatu,</l>
             <l rend="i"> Toûjours la Fortune à ta suite,</l>
@@ -77,7 +79,8 @@
             <l rend="i">Sont les dignes Lauriers que le Ciel t’a promis.</l>
           </lg>
         </quote>
-        <p>Le mesme Autheur fit cette Epigramme pour Madame la Dauphine, lors que l’Histoire de Baviere luy fut présentée.</p>
+        <p>Le mesme Autheur fit cette Epigramme pour Madame la Dauphine, lors que l’Histoire de
+          Baviere luy fut présentée.</p>
         <quote>
           <lg>
             <l rend="i">Princesse, les Héros que j’expose à vos yeux,</l>
@@ -87,10 +90,11 @@
             <l rend="i">Tout ce qu’on voit de beau, de rare en cette Histoire,</l>
             <l rend="i"> Vostre mérite le comprend ;</l>
             <l rend="i"> Mais le comble de vostre gloire,</l>
-            <l><hi rend="i">C’est le choix que de vous a fait</hi><hi rend="sc">Loüis le Grand</hi>.</l>
+            <l><hi rend="i">C’est le choix que de vous a fait</hi>
+              <hi rend="sc">Loüis le Grand</hi>.</l>
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

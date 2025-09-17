@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,17 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>À la belle Diseuse de bonne Avanture. Stances</head>
         <bibl><title>Mercure galant</title>, septembre 1678 [tome 9], p. 127-132.</bibl>
-        <p>Ceux qui cherchent les plaisirs sans peines, feroient bien de ne s’embarquer jamais avec l’Amour, car c’est une Mer sujete à de grands orages. Les périls en sont agreablement representez dans ces Stances que je vous envoye. Je n’en connois l’Autheur que sous le nom d’Alcidon. Je ne sçay si elles ont déja couru, mais je sçay qu’elles méritent fort d’estre veuës.</p>
+        <p>Ceux qui cherchent les plaisirs sans peines, feroient bien de ne s’embarquer jamais avec
+          l’Amour, car c’est une Mer sujete à de grands orages. Les périls en sont agreablement
+          representez dans ces Stances que je vous envoye. Je n’en connois l’Autheur que sous le nom
+          d’Alcidon. Je ne sçay si elles ont déja couru, mais je sçay qu’elles méritent fort d’estre
+          veuës.</p>
         <quote>
           <label rend="center">À LA BELLE DISEUSE <lb/>de bonne Avanture.</label>
-          <label rend="center">
-            <hi rend="sc">Stances.</hi>
-          </label>
+          <label rend="center"><hi rend="sc">Stances.</hi></label>
           <label rend="center">Pour Monsieur M. à Mademoiselle B.</label>
           <lg>
             <l rend="i">Belle &amp; sçavante Iris, dont l’esprit admirable</l>
@@ -110,6 +111,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

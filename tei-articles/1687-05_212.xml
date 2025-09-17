@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,16 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Divers Ouvrages faits à la gloire de Monsieur le Prince]</head>
         <bibl><title>Mercure galant</title>, mai 1687 [tome 7], p. 212-253</bibl>
         <p/>
-        <p>Je vous ay desja fait part de quelques ouvrages sur la mort de ce Grand Prince. En voicy d’autres qui me sont tombez entre les mains. Vous serez bien aise sur tout de voir avec quelle fermeté il a regardé ce moment terrible qui a toûjours fait fremir les plus grands courages. Le Chrestien &amp; le Heros ont paru en luy dans le mesme temps, &amp; c’est ce que vous allez connoistre dans la traduction que je vous envoye des vers Latins du Pere Jouvency Jesuite.</p>
+        <p>Je vous ay desja fait part de quelques ouvrages sur la mort de ce Grand Prince. En voicy
+          d’autres qui me sont tombez entre les mains. Vous serez bien aise sur tout de voir avec
+          quelle fermeté il a regardé ce moment terrible qui a toûjours fait fremir les plus grands
+          courages. Le Chrestien &amp; le Heros ont paru en luy dans le mesme temps, &amp; c’est ce
+          que vous allez connoistre dans la traduction que je vous envoye des vers Latins du Pere
+          Jouvency Jesuite.</p>
         <quote>
           <lg>
             <l rend="i">Quoy qu’aux Siecles futurs de superbes Ouvrages</l>
@@ -190,7 +194,13 @@
             <l rend="i">Je ne vante à present que ta mort dans ta vie,</l>
           </lg>
         </quote>
-        <p>Cette Traduction est du Pere Germain, Professeur de Rhetorique à Moulins. Le nom de cette Ville me fait souvenir que j’ay oublié à vous parler d’un Service, que M<hi rend="sup">rs</hi> de l’Eglise Collegiale y ont fait pour le repos de l’Ame de Monsieur le Prince, qui en qualité de Duc de Bourbon, estoit le Collateur des Chanoinies de cette Eglise, à la reserve d’une seule, qui est de la collation de M<hi rend="sup">r</hi> le Prieur de Souvigny. Le Presidial, à la teste duquel estoit M<hi rend="sup">r</hi> l’Intendant, assista à cette Ceremonie, ainsi que le Corps de Ville, &amp; un tres-grand nombre de personnes considerables.</p>
+        <p>Cette Traduction est du Pere Germain, Professeur de Rhetorique à Moulins. Le nom de cette
+          Ville me fait souvenir que j’ay oublié à vous parler d’un Service, que M<hi rend="sup">rs</hi> de l’Eglise Collegiale y ont fait pour le repos de l’Ame de Monsieur le Prince,
+          qui en qualité de Duc de Bourbon, estoit le Collateur des Chanoinies de cette Eglise, à la
+          reserve d’une seule, qui est de la collation de M<hi rend="sup">r</hi> le Prieur de
+          Souvigny. Le Presidial, à la teste duquel estoit M<hi rend="sup">r</hi> l’Intendant,
+          assista à cette Ceremonie, ainsi que le Corps de Ville, &amp; un tres-grand nombre de
+          personnes considerables.</p>
         <p>Vous trouverez un Portrait de Monsieur le Prince dans ces autres Vers. Ils sont de M<hi rend="sup">r</hi> Blanchard, Guré de Finey, prés Dijon.</p>
         <quote>
           <lg>
@@ -252,7 +262,12 @@
             <l rend="i">En eut-il plus de terre &amp; d’éclat pour sa cendre ?</l>
           </lg>
         </quote>
-        <p>Le Sonnet qui suit est de M<hi rend="sup">r</hi> de Corbet, Gentilhomme qui s’est rendu recommandable par l’honneur qu’il a receu d’estre chargé des ordres du Roy, pour assister aux Synodes des Provinces de Berry &amp; d’Orleannois ; par un tres-grand nombre de Conversions ausquelles il a beaucoup contribué, &amp; par de sçavans écrits contre le Ministre Claude, &amp; d’autres Ministres, qui luy ont attiré l’approbation des plus illustres Prelats du Royaume.</p>
+        <p>Le Sonnet qui suit est de M<hi rend="sup">r</hi> de Corbet, Gentilhomme qui s’est rendu
+          recommandable par l’honneur qu’il a receu d’estre chargé des ordres du Roy, pour assister
+          aux Synodes des Provinces de Berry &amp; d’Orleannois ; par un tres-grand nombre de
+          Conversions ausquelles il a beaucoup contribué, &amp; par de sçavans écrits contre le
+          Ministre Claude, &amp; d’autres Ministres, qui luy ont attiré l’approbation des plus
+          illustres Prelats du Royaume.</p>
         <quote>
           <label>SONNET<lb/>À la gloire de Monsieur le Prince, par des Rimes prescrites.</label>
           <lg>
@@ -281,7 +296,8 @@
             <l><hi rend="i">Et seule triompher du cœur du Grand</hi> Condé.</l>
           </lg>
         </quote>
-        <p>On parle des grands Hommes en toutes sortes de Langues. C’est ce qui a fait faire cette maniere d’Epitaphe en Vers Italiens.</p>
+        <p>On parle des grands Hommes en toutes sortes de Langues. C’est ce qui a fait faire cette
+          maniere d’Epitaphe en Vers Italiens.</p>
         <quote>
           <lg>
             <l rend="i">Sotto questo marmo il gran Condé giace,</l>
@@ -290,7 +306,8 @@
             <l rend="i">Quel magnanimo Heroë, horamai sta in pace.</l>
           </lg>
         </quote>
-        <p>Je vous envoye deux Vers Latins sur le mesme sujet, avec la Traduction qui en a esté faite,</p>
+        <p>Je vous envoye deux Vers Latins sur le mesme sujet, avec la Traduction qui en a esté
+          faite,</p>
         <quote>
           <lg>
             <l>Cesar, Alexander, Pelides, fulmina belli,</l>
@@ -305,8 +322,36 @@
             <l rend="i">Est mis dans le tombeau de ces Heros de Mars.</l>
           </lg>
         </quote>
-        <p>Voicy l’Extrait d’une Lettre de l’Autheur de ces Vers, qu’on peut regarder comme un éloge de Monsieur le Prince. <hi rend="i">J’ay cru</hi>, dit-il, <hi rend="i">devoir assembler des Heros de divers Siecles, &amp; les plus grands Capitaines de l’Antiquité, comme sont Achille, Alexandre &amp; Cesar, pour exprimer tout le grand merite de feu Monsieur le Prince. Ils ont eu toutes les parties d’un grand Capitaine, mais on peut dire neanmoins que chacun d’eux a eu sa partie dominante. Celle d’Achille estoit la noble ferocité d’un Guerrier. Celle d’Alexandre estoit une valeur impetueuse, une rapidité de conquestes. Il ne se contentoit pas de gagner des Provinces &amp; des Royaumes, il eust voulu qu’il y eust eu plusieurs mondes à conquerir. Celle de Cesar estoit une grande conduite, une habileté dans l’Art militaire. C’est luy qui l’a, pour ainsi dire, reduite en Science, &amp; qui en a donné de grands principes &amp; des regles certaines. Toutes ces parties dominantes dans ces grands Capitaines se trouvent comme rassemblées dans Monsieur le Prince. Il avoit quelque air de ce qui est rapporté d’Achille pour la ferocité de Mars, sans en avoir la cruelle dureté. Il avoit aussi le caractere d’Alexandre ; il estoit d’une valeur étonnante, &amp; que l’on pouvoit nommer ambitieuse. Il eust voulu toûjours combattre ; il quittoit de fort bon cœur Chantilly pour aller au Champ de Bataille, &amp; il n’estoit pas content d’une Campagne, s’il n’avoit fait plusieurs expeditions d’éclat. Enfin, il ressembloit aussi à Cesar dans la capacité &amp; dans la science de la Guerre. Il sçavoit ranger admirablement une Armée en Bataille, &amp; lors qu’il luy a fallu faire des Sieges, il s’y prenoit en maistre. Il ne faut que lire la Relation du Siege de Dunquerque dans les œuvres de Sarrasin pour en demeurer d’accord ; &amp; cependant Monsieur le Prince estoit alors fort jeune. C’est cette conformité avec ces illustres Capitaines qui m’a porté à le leur associer, &amp; j’ay cru que comme il y a des Tombeaux destinez aux Familles illustres, on pouvoit aussi inhumer Monsieur le Prince avec ces trois Heros de la Famille de Mars, &amp; mettre les urnes de leurs cendres dans un mesme sepulchre.</hi></p>
-        <p>J’ajoûte une Epigramme de M. Lourdet, &amp; trois Sonnets ; le premier de M. Pechantré, Autheur de <hi rend="i">Geta</hi>, qui a paru cet hyver avec un si grand succés ; le second de M. l’Abbé Baraton, &amp; le troisiéme de M<hi rend="sup">r</hi> Amoreux de Digne, Avocat au Parlement d’Aix.</p>
+        <p>Voicy l’Extrait d’une Lettre de l’Autheur de ces Vers, qu’on peut regarder comme un éloge
+          de Monsieur le Prince. <hi rend="i">J’ay cru</hi>, dit-il, <hi rend="i">devoir assembler
+            des Heros de divers Siecles, &amp; les plus grands Capitaines de l’Antiquité, comme sont
+            Achille, Alexandre &amp; Cesar, pour exprimer tout le grand merite de feu Monsieur le
+            Prince. Ils ont eu toutes les parties d’un grand Capitaine, mais on peut dire neanmoins
+            que chacun d’eux a eu sa partie dominante. Celle d’Achille estoit la noble ferocité d’un
+            Guerrier. Celle d’Alexandre estoit une valeur impetueuse, une rapidité de conquestes. Il
+            ne se contentoit pas de gagner des Provinces &amp; des Royaumes, il eust voulu qu’il y
+            eust eu plusieurs mondes à conquerir. Celle de Cesar estoit une grande conduite, une
+            habileté dans l’Art militaire. C’est luy qui l’a, pour ainsi dire, reduite en Science,
+            &amp; qui en a donné de grands principes &amp; des regles certaines. Toutes ces parties
+            dominantes dans ces grands Capitaines se trouvent comme rassemblées dans Monsieur le
+            Prince. Il avoit quelque air de ce qui est rapporté d’Achille pour la ferocité de Mars,
+            sans en avoir la cruelle dureté. Il avoit aussi le caractere d’Alexandre ; il estoit
+            d’une valeur étonnante, &amp; que l’on pouvoit nommer ambitieuse. Il eust voulu toûjours
+            combattre ; il quittoit de fort bon cœur Chantilly pour aller au Champ de Bataille,
+            &amp; il n’estoit pas content d’une Campagne, s’il n’avoit fait plusieurs expeditions
+            d’éclat. Enfin, il ressembloit aussi à Cesar dans la capacité &amp; dans la science de
+            la Guerre. Il sçavoit ranger admirablement une Armée en Bataille, &amp; lors qu’il luy a
+            fallu faire des Sieges, il s’y prenoit en maistre. Il ne faut que lire la Relation du
+            Siege de Dunquerque dans les œuvres de Sarrasin pour en demeurer d’accord ; &amp;
+            cependant Monsieur le Prince estoit alors fort jeune. C’est cette conformité avec ces
+            illustres Capitaines qui m’a porté à le leur associer, &amp; j’ay cru que comme il y a
+            des Tombeaux destinez aux Familles illustres, on pouvoit aussi inhumer Monsieur le
+            Prince avec ces trois Heros de la Famille de Mars, &amp; mettre les urnes de leurs
+            cendres dans un mesme sepulchre.</hi></p>
+        <p>J’ajoûte une Epigramme de M. Lourdet, &amp; trois Sonnets ; le premier de M. Pechantré,
+          Autheur de <hi rend="i">Geta</hi>, qui a paru cet hyver avec un si grand succés ; le
+          second de M. l’Abbé Baraton, &amp; le troisiéme de M<hi rend="sup">r</hi> Amoreux de
+          Digne, Avocat au Parlement d’Aix.</p>
         <quote>
           <label>SUR LA MORT<lb/>de Monsieur le Prince,</label>
           <lg>
@@ -401,7 +446,8 @@
             <l rend="i">Pour couronner ses jours a borné sa carriere.</l>
           </lg>
         </quote>
-        <p>Je finis par des Vers de M<hi rend="sup">r</hi> Moreau, Avocat General de la Chambre des Comptes de Dijon, adressez à Monsieur le Prince d’aujourd’huy.</p>
+        <p>Je finis par des Vers de M<hi rend="sup">r</hi> Moreau, Avocat General de la Chambre des
+          Comptes de Dijon, adressez à Monsieur le Prince d’aujourd’huy.</p>
         <quote>
           <lg>
             <l rend="i">La mort du grand Condé cause nostre douleur,</l>
@@ -415,6 +461,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

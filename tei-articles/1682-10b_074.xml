@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,21 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Charité sur Loire]</head>
-        <bibl><title>Mercure galant</title>, octobre 1682 (deuxième partie) [tome 12], p. 74-75.</bibl>
+        <bibl><title>Mercure galant</title>, octobre 1682 (deuxième partie) [tome 12], p.
+          74-75.</bibl>
         <p/>
-        <p>On s'est distingué à la Charité-sur-Loire, presque toutes les semaines, depuis la Naissance du jeune Prince, par des Illuminations &amp; par des Feux, tantost dans un Quartier, tantost dans un autre. Celuy qui est le plus voisin du Rivage, s'aquita de ce devoir le Dimanche 27. du dernier mois, d'une maniere qui surprit agreablement toute la Ville. Une grande Fille représentant la Victoire, parut l'apresdînée dans un Char tres-propre. Elle estoit vestuë magnifiquement, ainsi que quatre Figures qui représentoient les quatre Parties du Monde, &amp; suivoient le Char. Il estoit tiré par quatre Esclaves, &amp; rouloit au bruit de six Tambours &amp; de six Hautbois, dont l'habillement &amp; la coifure avoient quelque chose de fort singulier. [...]</p>
+        <p>On s'est distingué à la Charité-sur-Loire, presque toutes les semaines, depuis la
+          Naissance du jeune Prince, par des Illuminations &amp; par des Feux, tantost dans un
+          Quartier, tantost dans un autre. Celuy qui est le plus voisin du Rivage, s'aquita de ce
+          devoir le Dimanche 27. du dernier mois, d'une maniere qui surprit agreablement toute la
+          Ville. Une grande Fille représentant la Victoire, parut l'apresdînée dans un Char
+          tres-propre. Elle estoit vestuë magnifiquement, ainsi que quatre Figures qui
+          représentoient les quatre Parties du Monde, &amp; suivoient le Char. Il estoit tiré par
+          quatre Esclaves, &amp; rouloit au bruit de six Tambours &amp; de six Hautbois, dont
+          l'habillement &amp; la coifure avoient quelque chose de fort singulier. [...]</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

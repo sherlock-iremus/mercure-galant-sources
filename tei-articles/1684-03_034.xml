@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>Sur le Plaidoyer de Mr le Pelletier, prononcé dans la Grand’Chambre le 10. de Janvier dernier</head>
+    <body><div>
+        <head>Sur le Plaidoyer de Mr le Pelletier, prononcé dans la Grand’Chambre le 10. de Janvier
+          dernier</head>
         <bibl><title>Mercure galant</title>, mars 1684 [tome 3], p. 34-38.</bibl>
-        <p>Quantité d’autres Personnes d’une qualité distinguée, vinrent entendre ce Plaidoyé, sur lequel M<hi rend="sup">r</hi> l’Abbé Andry a fait les Vers que je vous envoye.</p>
+        <p>Quantité d’autres Personnes d’une qualité distinguée, vinrent entendre ce Plaidoyé, sur
+          lequel M<hi rend="sup">r</hi> l’Abbé Andry a fait les Vers que je vous envoye.</p>
         <quote>
-          <label>SUR LE PLAIDOYÉ<lb/>DE M<hi rend="sup">r</hi> LE PELLETIER,<lb/>Prononcé dans la Grand’ Chambre<lb/>le 10. de Janvier dernier.</label>
+          <label>SUR LE PLAIDOYÉ<lb/>DE M<hi rend="sup">r</hi> LE PELLETIER,<lb/>Prononcé dans la
+            Grand’ Chambre<lb/>le 10. de Janvier dernier.</label>
           <lg>
             <l rend="i">Dans ce Palais auguste, où sur les Fleurs-de-Lys,</l>
             <l rend="i">La Balance à la main, se repose Thémis,</l>
@@ -71,6 +73,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

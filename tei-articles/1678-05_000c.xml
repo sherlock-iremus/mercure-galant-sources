@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,17 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>[Recit du Dieu Pan, oublié lors de l’impression et à insérer p. 176 de ce <hi rend="i">Mercure</hi> au <hi rend="i">Ballet Impromptu</hi> de M. le Duc de S. Aignan, p. 174-182]*</head>
+    <body><div>
+        <head>[Recit du Dieu Pan, oublié lors de l’impression et à insérer p. 176 de ce <hi rend="i">Mercure</hi> au <hi rend="i">Ballet Impromptu</hi> de M. le Duc de S. Aignan, p.
+          174-182]*</head>
         <bibl><title>Mercure galant</title>, mai 1678 [tome 5], non paginé.</bibl>
-        <p>L'Impression de ce Volume estant achevée, on s’est apperçeu que dans le Ballet Impromptu de Monsieur le Duc de S. Aignan, on avoit oublié le Recit qui suit. Il doit estre mis entre le <ref target="MG-1678-05_170">Concert des Flustes</ref>, &amp; la sixiéme Entrée.</p>
+        <p>L'Impression de ce Volume estant achevée, on s’est apperçeu que dans le Ballet Impromptu
+          de Monsieur le Duc de S. Aignan, on avoit oublié le Recit qui suit. Il doit estre mis
+          entre le <ref target="MG-1678-05_170">Concert des Flustes</ref>, &amp; la sixiéme
+          Entrée.</p>
         <quote rend="border">
-          <label rend="center">RECIT DU DIEU PAN,<lb/>Au milieu des Bergers joüans &amp; dansans.</label>
+          <label rend="center">RECIT DU DIEU PAN,<lb/>Au milieu des Bergers joüans &amp;
+            dansans.</label>
           <lg>
             <l rend="i">Coulez, coulez charmans Ruisseaux,</l>
             <l rend="i">Que le bruit de vos claires Eaux</l>
@@ -37,6 +41,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

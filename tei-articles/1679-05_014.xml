@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Madrigal aux Plénipotentiaires, sur le sujet de la Paix.]</head>
         <bibl><title>Mercure galant</title>, mai 1679 [tome 5], p. 14-16.</bibl>
-        <p>C‘est au nom de ces Peuples, &amp; de ceux qui ne joüissent pas encor de la Paix, que M<hi rend="sup">r</hi> l’Abbé Mallement de Messange adresse la Plainte qui suit aux Plénipotentiaires de Nimegue.</p>
+        <p>C‘est au nom de ces Peuples, &amp; de ceux qui ne joüissent pas encor de la Paix, que
+            M<hi rend="sup">r</hi> l’Abbé Mallement de Messange adresse la Plainte qui suit aux
+          Plénipotentiaires de Nimegue.</p>
         <quote>
           <l>Cent Peuples comme nous ayant senty la haine</l>
           <l><seg type="tab">    </seg>Du plus grand de tous les Héros,</l>
@@ -35,6 +36,6 @@
           <l>Ceux qu’il a vaincus tous ensemble ?</l>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

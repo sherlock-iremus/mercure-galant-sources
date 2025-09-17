@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>A M. l’Evesque Duc de Langres</head>
         <bibl><title>Mercure galant</title>, mars 1697 [tome 3], p. 218-219.</bibl>
-        <p>En vous parlant du séjour que M. l’Evêque Duc de Langres a fait à Dijon, j’ai oublié de vous dire que M. Moreau Avocat General de la Chambre des Comptes, lui donna ce Madrigal qui fut trouvé tres-digne de son Auteur.</p>
+        <p>En vous parlant du séjour que M. l’Evêque Duc de Langres a fait à Dijon, j’ai oublié de
+          vous dire que M. Moreau Avocat General de la Chambre des Comptes, lui donna ce Madrigal
+          qui fut trouvé tres-digne de son Auteur.</p>
         <quote>
           <label>A M. L’EVESQUE<lb/>DUC DE LANGRES.</label>
           <lg>
@@ -35,6 +36,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

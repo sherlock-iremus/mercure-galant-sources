@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, juin 1689 (première partie) [tome 6], p. 114-116.</bibl>
         <p>Je vous envoye un Printemps plaintif. Il est assez ordinaire à ceux à qui l'amour n'est pas favorable, de voir à regret que les beaux jours renouvellent. Je ne sçay de qui sont les paroles, je sçay seulement que l'Air est de M<hi rend="sup">r</hi> Normandeau, Organiste du College de Navarre.</p>
         <quote>
-          <label>AIR NOUVEAU.</label>
-          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">Cessez, beaux jours</hi>, doit regarder la page 115.</note>
-          <lg>
-            <l rend="i">Cessez, beaux jours, cessez, Zephire,</l>
+          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">Cessez, beaux jours</hi>, doit regarder la page 115.</note>
+          <lg><l rend="i">Cessez, beaux jours, cessez, Zephire,</l>
             <l rend="i">Cessez de revenir desormais en ces lieux.</l>
             <l rend="i">L'Objet dont les aimables yeux</l>
             <l rend="i">Sont les Auteurs de mon cruel martire,</l>
@@ -38,8 +35,7 @@
             <l rend="i">Que la glace &amp; l'horreur d'un hiver rigoureux.</l>
             <l rend="i">Ah n'est ce pas assez vous dire ?</l>
             <l rend="i">Cessez beaux jours, cessez, Zephire,</l>
-            <l rend="i">Cessez de revenir desormais en ces lieux.</l>
-          </lg>
+            <l rend="i">Cessez de revenir desormais en ces lieux.</l></lg>
         </quote>
         <ref target="images/1689-06a_114.JPG">
           <figure>
@@ -47,6 +43,6 @@
           </figure>
         </ref>
       </div>
-    </body>
+        </body>
   </text>
 </TEI>

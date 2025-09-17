@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Quatrain]</head>
         <bibl><title>Mercure galant</title>, octobre 1682 (deuxième partie) [tome 12], p. 119.</bibl>
-        <p>M<hi rend="sup">r</hi> l’Archidiacre de Gémont, quoy qu’il ne soit pas François, estant né à Chambéry, a fait voir par ce Quatrain qu’il entroit dans les sentimens de toute la France.</p>
+        <p>M<hi rend="sup">r</hi> l’Archidiacre de Gémont, quoy qu’il ne soit pas François, estant
+          né à Chambéry, a fait voir par ce Quatrain qu’il entroit dans les sentimens de toute la
+          France.</p>
         <quote>
           <lg>
             <l rend="i"> Que LOUIS a grande raison,</l>
@@ -28,6 +29,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

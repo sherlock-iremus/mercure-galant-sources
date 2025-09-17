@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Madrigal]</head>
         <bibl><title>Mercure galant</title>, mai 1687 [tome 7], p. 43-45</bibl>
-        <p>Vous vous souvenez sans doute d’avoir veu dans l’une de mes dernieres Lettres, un Madrigal qui défend d’aimer a quarante ans. Vous avez veu aussi la spirituelle réponse que M. le Duc de Saint Aignan a faite à ce Madrigal. En voicy une autre de M. de Monchamps, Avocat au Grand Conseil, qui merite bien que je vous en fasse part.</p>
+        <p>Vous vous souvenez sans doute d’avoir veu dans l’une de mes dernieres Lettres, un
+          Madrigal qui défend d’aimer a quarante ans. Vous avez veu aussi la spirituelle réponse que
+          M. le Duc de Saint Aignan a faite à ce Madrigal. En voicy une autre de M. de Monchamps,
+          Avocat au Grand Conseil, qui merite bien que je vous en fasse part.</p>
         <quote>
           <lg>
             <l rend="i"> On peut aimer toute la vie.</l>
@@ -42,6 +44,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

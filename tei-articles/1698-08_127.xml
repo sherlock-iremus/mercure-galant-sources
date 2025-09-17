@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,17 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, août 1698 [tome 8], p. 127-128.</bibl>
-        <p>La Chanson que je vous envoye est fort approuvée des Connoisseurs. Les paroles sont de M<hi rend="sup">r</hi> le Comte, Conseiller au Parlement de Toulouse, &amp; l'Air est de M<hi rend="sup">r</hi> Aphrodise, Maistre de Musique du Chapitre de Saint Sernin, de la mesme Ville.</p>
+        <p>La Chanson que je vous envoye est fort approuvée des Connoisseurs. Les paroles sont de
+            M<hi rend="sup">r</hi> le Comte, Conseiller au Parlement de Toulouse, &amp; l'Air est de
+            M<hi rend="sup">r</hi> Aphrodise, Maistre de Musique du Chapitre de Saint Sernin, de la
+          mesme Ville.</p>
         <quote>
-          <label>AIR NOUVEAU.</label>
-          <note resp="author" place="margin">La Chanson qui commence par <hi rend="i">Un severe devoir a banni de ces lieux</hi>, doit regarder la page 127.</note>
+          <label>AIR NOUVEAU.</label><note resp="author" place="margin">La Chanson qui commence par
+              <hi rend="i">Un severe devoir a banni de ces lieux</hi>, doit regarder la page
+            127.</note>
           <lg>
             <l rend="i">Un severe devoir a banni de ces lieux</l>
             <l rend="i">Le beau Berger que j'aime.</l>
@@ -37,6 +40,6 @@
           </figure>
         </ref>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

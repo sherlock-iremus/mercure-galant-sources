@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>Traduction en Vers du Livre de la Sagesse</head>
-        <bibl><title>Mercure galant</title>, octobre 1696 [tome 10], p. 137-138.</bibl>
-        <p>Je vous envoye le Livre de la Sagesse, traduit en Vers François, avec une Epistre dedicatoire, contenant le parallele de la vie du Roy. Cet Ouvrage est de M<hi rend="sup">r</hi> du Vernay, Avocat au Parlement. On en voit peu qui doivent estre plus recherchez, tant par la beauté de la matiere, qui convient à toutes sortes de personnes, que par l’agrément que les Vers luy donnent.</p>
-      </div>
-    </body>
+    <body><div>
+          <head>Traduction en Vers du Livre de la Sagesse</head>
+          <bibl><title>Mercure galant</title>, octobre 1696 [tome 10], p. 137-138.</bibl>
+          <p>Je vous envoye le Livre de la Sagesse, traduit en Vers François, avec une Epistre dedicatoire, contenant le parallele de la vie du Roy. Cet Ouvrage est de M<hi rend="sup">r</hi> du Vernay, Avocat au Parlement. On en voit peu qui doivent estre plus recherchez, tant par la beauté de la matiere, qui convient à toutes sortes de personnes, que par l’agrément que les Vers luy donnent.</p>
+        </div>
+        </body>
   </text>
 </TEI>

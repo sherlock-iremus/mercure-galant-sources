@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,10 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head resp="editor">Sentiments sur les questions de précédents Extraordinaires</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1682 [tome XVII], p. 147-149.</bibl>
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1682 [tome XVII],
+          p. 147-149.</bibl>
         <quote>
           <label>En quoy consiste la veritable Amitié.</label>
           <lg>
@@ -70,6 +70,6 @@
           <p><hi rend="sc">L. Bouchet</hi>, ancien Curé de Nogent le Roy.</p>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

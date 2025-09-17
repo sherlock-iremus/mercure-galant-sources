@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,18 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Lettre du Berger Fleuriste, à la Nymphe des Bruyeres</head>
-        <bibl><title>Mercure galant</title>, octobre 1682 (deuxième partie) [tome 12], p. 86-92.</bibl>
-        <p>Je vous envoye une Lettre qui porte sa recommandation par les Noms sous lesquels elle est écrite. Ils vous sont connus, &amp; je n’ay rien plus à vous dire, pour vous préparer à une lecture agréable.</p>
+        <bibl><title>Mercure galant</title>, octobre 1682 (deuxième partie) [tome 12],
+          p. 86-92.</bibl>
+        <p>Je vous envoye une Lettre qui porte sa recommandation par les Noms sous lesquels elle est
+          écrite. Ils vous sont connus, &amp; je n’ay rien plus à vous dire, pour vous préparer à
+          une lecture agréable.</p>
         <quote>
-          <label>LETTRE<lb/>DU BERGER<lb/>FLEURISTE,<lb/><hi rend="sc">A la Nymphe des Bruyeres</hi>,<lb/>En luy envoyant une Discretion<lb/>qu’il luy devoit.</label>
-          <p><hi rend="i">Apres avoir bien pensé, belle Nymphe, à ce que je devois vous donner pour demeurer quitte de la discretion que vous m’avez gagnée</hi>,</p>
+          <label>LETTRE<lb/>DU BERGER<lb/>FLEURISTE,<lb/><hi rend="sc">A la Nymphe des
+            Bruyeres</hi>,<lb/>En luy envoyant une Discretion<lb/>qu’il luy devoit.</label>
+          <p><hi rend="i">Apres avoir bien pensé, belle Nymphe, à ce que je devois vous donner pour
+              demeurer quitte de la discretion que vous m’avez gagnée</hi>,</p>
           <quote>
             <lg>
               <l> J’ay rebuté tous les Rubans,</l>
@@ -41,7 +45,9 @@
               <l>J’ay conclu qu’il falloit vous donner de l’amour.</l>
             </lg>
           </quote>
-          <p><hi rend="i">Hé bien, Madame, ce Présent n’est-il pas honneste ? Ne le recevrez-vous pas avec joye, &amp; seriez-vous Personne à faire de la façon pour prendre ce qui vous est si bien deû</hi> ?</p>
+          <p><hi rend="i">Hé bien, Madame, ce Présent n’est-il pas honneste ? Ne le recevrez-vous
+              pas avec joye, &amp; seriez-vous Personne à faire de la façon pour prendre ce qui vous
+              est si bien deû</hi> ?</p>
           <quote>
             <lg>
               <l> L’amour que l’on donne est si doux,</l>
@@ -51,7 +57,11 @@
               <l>Qui faites ce Présent sans que l’on vous en prie.</l>
             </lg>
           </quote>
-          <p><hi rend="i">Vous répondrez peut-estre, qu’à la verité il y a bien de la douceur à donner de l’amour, mais qu’il n’y en a guére à en recevoir. Et pourquoy, belle Nymphe ? Un Présent change-t-il de nature en changeant de main ; &amp; s’il est Or pour celuy qui l’ofre, est-il feüille de Chesne pour celuy qui le prend ? Si cela estoit de la sorte</hi>,</p>
+          <p><hi rend="i">Vous répondrez peut-estre, qu’à la verité il y a bien de la douceur à
+              donner de l’amour, mais qu’il n’y en a guére à en recevoir. Et pourquoy, belle
+              Nymphe ? Un Présent change-t-il de nature en changeant de main ; &amp; s’il est Or
+              pour celuy qui l’ofre, est-il feüille de Chesne pour celuy qui le prend ? Si cela
+              estoit de la sorte</hi>,</p>
           <quote>
             <lg>
               <l> Il n’est point de cœur délicat</l>
@@ -69,7 +79,10 @@
             </lg>
           </quote>
           <p>
-            <hi rend="i">Celuy, Madame, que je veux vous donner, est de cette nature ; &amp; quand vous l’aurez pris, vous ne le garderez pas, si vous y trouvez de la diférence. Il me semble qu’on ne peut pas mieux dire, &amp; que vous seriez blâmable de refuser d’en faire l’épreuve.</hi>
+            <hi rend="i">Celuy, Madame, que je veux vous donner, est de cette nature ; &amp; quand
+              vous l’aurez pris, vous ne le garderez pas, si vous y trouvez de la diférence. Il me
+              semble qu’on ne peut pas mieux dire, &amp; que vous seriez blâmable de refuser d’en
+              faire l’épreuve.</hi>
           </p>
           <quote>
             <lg>
@@ -80,7 +93,11 @@
             </lg>
           </quote>
           <p>
-            <hi rend="i">En attendant que j’apprenne vos intentions là-dessus, ayez la bonté de recevoir les Pommes d’Appie que je vous envoye. Elles sont du fonds de Flore, &amp; presque aussi bonnes qu’elles sont belles. Mais, de grace, Madame, ne vous avisez pas d’accepter les Fruits pour la Discretion, &amp; de rejetter l’amour comme un don surabondant.</hi>
+            <hi rend="i">En attendant que j’apprenne vos intentions là-dessus, ayez la bonté de
+              recevoir les Pommes d’Appie que je vous envoye. Elles sont du fonds de Flore, &amp;
+              presque aussi bonnes qu’elles sont belles. Mais, de grace, Madame, ne vous avisez pas
+              d’accepter les Fruits pour la Discretion, &amp; de rejetter l’amour comme un don
+              surabondant.</hi>
           </p>
           <quote>
             <lg>
@@ -93,7 +110,10 @@
             </lg>
           </quote>
           <p>
-            <hi rend="i">Ce ne seroit pourtant pas une consolation pour moy, si vous me les renvoyiez. Un double refus me causeroit une double peine. J’aime mieux que ces heureux Fruits vous demeurent &amp; vous servent, parce qu’ils me serviront peut-estre aussy.</hi>
+            <hi rend="i">Ce ne seroit pourtant pas une consolation pour moy, si vous me les
+              renvoyiez. Un double refus me causeroit une double peine. J’aime mieux que ces heureux
+              Fruits vous demeurent &amp; vous servent, parce qu’ils me serviront peut-estre
+              aussy.</hi>
           </p>
           <quote>
             <lg>
@@ -113,6 +133,6 @@
           </quote>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

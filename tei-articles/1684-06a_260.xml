@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, juin 1684 (première partie) [tome 6], p. 260-261.</bibl>
         <p>Voicy un Air d´une nouveauté singuliere. Il est de l´illustre Mr de Bacilly, qui en a fait les Paroles, ainsi que de tous les autres Airs de sa composition <note resp="editor">L' air <ref target="MG-1686-08_209"><hi rend="italic">Café délicieux dont la douce amertume</hi></ref>, publié en août 1686, forme le pendant de celui-ci.</note>.</p>
         <quote>
-          <label>AIR NOUVEAU.</label>
-          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : la Chanson qui commence par <hi rend="i">Fut-il jamais Breuvage</hi>, doit regarder la page 261.</note>
+          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : la Chanson qui commence par <hi rend="i">Fut-il jamais Breuvage</hi>, doit regarder la page 261.</note>
           <lg>
             <l rend="i">Fut-il jamais Breuvage</l>
             <l rend="i">Plus savoureux, plus délicat,</l>
@@ -47,6 +45,6 @@
           </figure>
         </ref>
       </div>
-    </body>
+        </body>
   </text>
 </TEI>

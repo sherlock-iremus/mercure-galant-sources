@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head resp="editor">Réjouissances à Paris</head>
-        <bibl><title>Mercure galant, Réjouissances faites pour la naissance de Monseigneur le duc de Bretagne</title>, juillet 1704 (deuxième partie) [tome 8], p. 54-55.</bibl>
-        <p>Je ne finirois point si je voulois parler de ceux qui ont fait des illuminations, des feux &amp; des distributions de vin pendant les deux jours qui ont precedé le <hi rend="i">Te Deum</hi>, quoy qu’ordinairement ces sortes de réjoüissances ne commencent que le jour que l’on rend graces à Dieu pour quelque grand &amp; heureux évenement : on peut dire cependant, que personne n’a attendu à Paris les jours destinez pour marquer son zele, puisque les rejoüissances ont commencé dès le moment qu’on a crû avoir sujet d’en faire, &amp; que tout Paris a esté illuminé pendant prés de huit jours de suite. J’entends que la feste a esté generale pendant tout ce temps-là, &amp; je ne pretends pas parler des festes particulieres qu’ont faites pendant plus d’un mois les Corps de Metiers, les jours que leurs Communautez ont rendu graces à Dieu par les <hi rend="i">Te Deum</hi>, qu’elles ont fait chanter.</p>
-      </div>
-    </body>
+    <body><div>
+          <head resp="editor">Réjouissances à Paris</head>
+          <bibl><title>Mercure galant, Réjouissances faites pour la naissance de Monseigneur le duc de Bretagne</title>, juillet 1704 (deuxième partie) [tome 8], p. 54-55.</bibl>
+          <p>Je ne finirois point si je voulois parler de ceux qui ont fait des illuminations, des feux &amp; des distributions de vin pendant les deux jours qui ont precedé le <hi rend="i">Te Deum</hi>, quoy qu’ordinairement ces sortes de réjoüissances ne commencent que le jour que l’on rend graces à Dieu pour quelque grand &amp; heureux évenement : on peut dire cependant, que personne n’a attendu à Paris les jours destinez pour marquer son zele, puisque les rejoüissances ont commencé dès le moment qu’on a crû avoir sujet d’en faire, &amp; que tout Paris a esté illuminé pendant prés de huit jours de suite. J’entends que la feste a esté generale pendant tout ce temps-là, &amp; je ne pretends pas parler des festes particulieres qu’ont faites pendant plus d’un mois les Corps de Metiers, les jours que leurs Communautez ont rendu graces à Dieu par les <hi rend="i">Te Deum</hi>, qu’elles ont fait chanter.</p>
+        </div>
+        </body>
   </text>
 </TEI>

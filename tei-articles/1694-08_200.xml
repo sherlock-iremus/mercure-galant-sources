@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Rondeau</head>
         <bibl><title>Mercure galant</title>, août 1694 [tome 8], p. 200-202.</bibl>
-        <p>L’Illustre à qui nous devons la Lettre en Prose contre les Bouts-rimez que je vous envoyay le mois passé, en ayant receu d’assez difficiles à remplir, a répondu par le Rondeau que vous allez lire, à celuy qui les luy avoit envoyez.</p>
+        <p>L’Illustre à qui nous devons la Lettre en Prose contre les Bouts-rimez que je vous
+          envoyay le mois passé, en ayant receu d’assez difficiles à remplir, a répondu par le
+          Rondeau que vous allez lire, à celuy qui les luy avoit envoyez.</p>
         <quote>
           <label>RONDEAU.</label>
           <lg>
@@ -46,6 +47,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

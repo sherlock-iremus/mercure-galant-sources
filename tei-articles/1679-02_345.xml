@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Explication de la premiere Enigme en Vers]<note resp="editor">Pour l'énigme, cf. <ref target="MG-1679-01_325">cet article</ref>.</note></head>
         <bibl><title>Mercure galant</title>, février 1679 [tome 2], p. 345-346.</bibl>
         <p>La premiere expliquée sur l’<hi rend="i">Opéra</hi> par M<hi rend="sup">r</hi> Bachelon, l’a esté sur le vray sens. Ce Madrigal est de luy.</p>
@@ -29,16 +28,13 @@
           <l rend="i">Quand de nos cœurs l’union se feray</l>
           <l rend="i">Pour cet effet il faut un Opéra.</l>
         </quote>
-        <p>
-          <seg type="tab">    </seg>
-          <seg type="tab">    </seg>
-        </p>
+        <p><seg type="tab">    </seg><seg type="tab">    </seg> </p>
         <p>M<hi rend="sup">r</hi> de Montigny du Quay des Celestins, &amp; Polymene l’ont expliquée sur le mesme Mot. Plusieurs en ont fort approché, en l’expliquant sur la Comédie, mais ils n’ont pas songé à ce Vers qui en fait la diférence.</p>
         <quote rend="border">
           <l>Je ne rends visite à personne.</l>
         </quote>
         <p>On donne la Comédie en visite, &amp; on n’y sauroit donner l’Opera. Les autres Explications ont esté sur <hi rend="i">le Bal, le Jeu de Cartes, la Montre sonnante, un Temple, &amp; un Navire.</hi></p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,18 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Vers de Madame de Villedieu]</head>
         <bibl><title>Mercure galant</title>, janvier 1678 [tome 1], p. 276-280.</bibl>
-        <p>Vous ne serez point fâchée sans-doute d’entendre aujourd’huy parler de la Justice au lieu de luy [M<hi rend="sup">r</hi> Talon Premier Avocat General]. Oyez ce que Madame de Villedieu luy fait dire. Tant d’Ouvrages que nous avons d’elle, écrits avec autant de délicatesse que de netteté, vous donnent une assez forte assurance qu’il ne peut rien partir d’elle, qui ne soit fort digne d’estre écouté.</p>
+        <p>Vous ne serez point fâchée sans-doute d’entendre aujourd’huy parler de la Justice au lieu
+          de luy [M<hi rend="sup">r</hi> Talon Premier Avocat General]. Oyez ce que Madame de
+          Villedieu luy fait dire. Tant d’Ouvrages que nous avons d’elle, écrits avec autant de
+          délicatesse que de netteté, vous donnent une assez forte assurance qu’il ne peut rien
+          partir d’elle, qui ne soit fort digne d’estre écouté.</p>
         <quote rend="border">
           <label rend="center">Exclamation</label>
-          <label rend="center">de la Justice sur le choix que le Roy a fait de Mr Tellier pour estre Chancelier de France.</label>
+          <label rend="center">de la Justice sur le choix que le Roy a fait de Mr Tellier pour estre
+            Chancelier de France.</label>
           <l>ENfin, grand Jupiter, voicy le jour heureux,</l>
           <l>Où depuis si longtemps aspiroient tous mes vœux.</l>
           <l>Je voy l’ordre Eternel qui gouverne la France,</l>
@@ -58,6 +62,6 @@
           <l>Je suive de <hi rend="sc">Loüis</hi> tous les pas glorieux.</l>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

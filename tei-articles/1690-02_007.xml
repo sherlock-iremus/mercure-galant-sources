@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,24 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Le Luxe détruit</head>
         <bibl><title>Mercure galant</title>, février 1690 [tome 2], p. 7-29.</bibl>
-        <p>Toutes les actions du Roy ne sont pas seulement d’une nature à les faire regarder d’abord avec admiration, mais le temps fait remarquer qu’elles sont justes, necessaires &amp; prudentes. La quantité d’argenterie qu’on a portée aux Hostels des Monnoyes de France, a confirmé cette verité. On avoit bien cru qu’on y en envoyeroit pour des sommes considerables, mais on estoit bien éloigné de penser qu’elles deussent produire le double de tout ce qu’on s’en estoit pû imaginer. Cela est cause qu’il a falu prolonger de moitié le temps marqué pour la recevoir. On voit par là qu’il estoit temps de faire cette reforme. Elle ne peut qu’estre avantageuse à l’Etat, puis que cette prodigieuse quantité d’argenterie n’y estoit d’aucune utilité. Ce luxe ne regne point dans les Pays étrangers, &amp; ils ne s’en trouvent pas mal. Aussi n’est il pas necessaire que pour satisfaire une sotte vanité, des Bourgeois, comme on en a remarqué à Paris, ayent presque autant de Vaisselle, &amp; d’autres Ouvrages d’argent, qu’il s’en trouve chez de petits Souverains. M<hi rend="sup">r</hi> de Vin, dont vous connoissez l’heureux talent en Poësie, par plusieurs pieces que je vous ay envoyées de sa façon, &amp; que vous avez toutes fort estimées, a fait sur ce sujet les Vers que vous allez lire.</p>
+        <p>Toutes les actions du Roy ne sont pas seulement d’une nature à les faire regarder d’abord
+          avec admiration, mais le temps fait remarquer qu’elles sont justes, necessaires &amp;
+          prudentes. La quantité d’argenterie qu’on a portée aux Hostels des Monnoyes de France, a
+          confirmé cette verité. On avoit bien cru qu’on y en envoyeroit pour des sommes
+          considerables, mais on estoit bien éloigné de penser qu’elles deussent produire le double
+          de tout ce qu’on s’en estoit pû imaginer. Cela est cause qu’il a falu prolonger de moitié
+          le temps marqué pour la recevoir. On voit par là qu’il estoit temps de faire cette
+          reforme. Elle ne peut qu’estre avantageuse à l’Etat, puis que cette prodigieuse quantité
+          d’argenterie n’y estoit d’aucune utilité. Ce luxe ne regne point dans les Pays étrangers,
+          &amp; ils ne s’en trouvent pas mal. Aussi n’est il pas necessaire que pour satisfaire une
+          sotte vanité, des Bourgeois, comme on en a remarqué à Paris, ayent presque autant de
+          Vaisselle, &amp; d’autres Ouvrages d’argent, qu’il s’en trouve chez de petits Souverains.
+            M<hi rend="sup">r</hi> de Vin, dont vous connoissez l’heureux talent en Poësie, par
+          plusieurs pieces que je vous ay envoyées de sa façon, &amp; que vous avez toutes fort
+          estimées, a fait sur ce sujet les Vers que vous allez lire.</p>
         <quote>
           <label>LE LUXE DÉTRUIT.</label>
           <lg>
@@ -95,9 +108,7 @@
             <l rend="i"> Ce premier Monstre à bas luy fit naistre l’envie</l>
             <l rend="i">  De triompher de l’heresie.</l>
             <l rend="i">Ce second, fourbe, adroit, fier, &amp; seditieux,</l>
-            <l>
-              <hi rend="i">Par son air carressant, par sa voix de Syrene,</hi>
-            </l>
+            <l><hi rend="i">Par son air carressant, par sa voix de Syrene,</hi></l>
             <l rend="i">D’abord, quoy qu’en secret, introduit en tous lieux,</l>
             <l rend="i">Les avoit infectez de sa funeste haleine.</l>
             <l rend="i"> Les charmes de la nouveauté</l>
@@ -149,9 +160,7 @@
             <l rend="i">On pouvoit esperer de la rendre traitable.</l>
             <l rend="i">Le seul libertinage attachoit à l’erreur.</l>
             <l rend="i">De son peuple, on l’avouë, une grande partie</l>
-            <l>
-              <hi rend="i">L’avoit dés la mamelle &amp; sucée, &amp; suivie :</hi>
-            </l>
+            <l><hi rend="i">L’avoit dés la mamelle &amp; sucée, &amp; suivie :</hi></l>
             <l rend="i"> Mais quelque grand que fust ce mal,</l>
             <l rend="i"> Le Luxe, comme general,</l>
             <l rend="i">Estoit bien plus funeste, &amp; peut-estre invincible.</l>
@@ -161,9 +170,7 @@
             <l rend="i">Ny le bien, ny l’esprit, ny le sexe, ny l’âge,</l>
             <l rend="i">Il n’épargnoit personne ; on le voyoit des Grands</l>
             <l rend="i">Passer aux plus petits, &amp; les moins opulens</l>
-            <l>
-              <hi rend="i">Bruloient du feu secret de sa brillante rage.</hi>
-            </l>
+            <l><hi rend="i">Bruloient du feu secret de sa brillante rage.</hi></l>
             <l rend="i"> La sobre Table qui jadis</l>
             <l rend="i"> Aidoit à lier davantage</l>
             <l rend="i"> Et les parens &amp; les amis,</l>
@@ -181,9 +188,7 @@
             <l rend="i"> Dont on est encor plus avide</l>
             <l rend="i"> Que des perdrix &amp; des faysans</l>
             <l rend="i"> Que l’on y sert en pyramide ;</l>
-            <l>
-              <hi rend="i">Vaisselle qu’aux despens d’un pauvre Creancier.</hi>
-            </l>
+            <l><hi rend="i">Vaisselle qu’aux despens d’un pauvre Creancier.</hi></l>
             <l rend="i">On aimoit mieux enfin garder, sans en rien faire,</l>
             <l rend="i"> Que de la vendre &amp; le payer,</l>
             <l rend="i"> Et que, forcé de s’en deffaire,</l>
@@ -209,12 +214,8 @@
             <l rend="i">Devenoit, luy restant, sterile, car enfin</l>
             <l rend="i">Son poison enfloit trop, &amp; rendoit fier &amp; vain.</l>
             <l rend="i">Pour peu qu’on en eust pris, on avoit la folie</l>
-            <l>
-              <hi rend="i">De se croire au dessus de ce qu’on estoit né.</hi>
-            </l>
-            <l>
-              <hi rend="i">De sa prompte fortune oubliant l’infamie,</hi>
-            </l>
+            <l><hi rend="i">De se croire au dessus de ce qu’on estoit né.</hi></l>
+            <l><hi rend="i">De sa prompte fortune oubliant l’infamie,</hi></l>
             <l rend="i">Le faquin méprisoit l’homme de qualité ;</l>
             <l rend="i">Il osoit se flater que son argenterie</l>
             <l rend="i"> Feroit perdre le souvenir</l>
@@ -241,9 +242,7 @@
             <l rend="i"> Qu’on n’en avoit quand on le prit,</l>
             <l rend="i">Nous allions bien-tost voir renaistre la furie</l>
             <l rend="i"> Du Duel &amp; de l’Heresie.</l>
-            <l>
-              <hi rend="i">LOUIS pour ses Sujets qui veille nuit &amp; jour,</hi>
-            </l>
+            <l><hi rend="i">LOUIS pour ses Sujets qui veille nuit &amp; jour,</hi></l>
             <l rend="i">En vit d’un seul coup d’œil toute la consequence,</l>
             <l rend="i">Et d’abord, quoy qu’en vain, chercha dans sa prudence</l>
             <l rend="i">Le moyen d’empescher leur funeste retour.</l>
@@ -300,6 +299,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

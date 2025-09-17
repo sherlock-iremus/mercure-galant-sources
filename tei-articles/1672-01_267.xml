@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Lettre de Gas, Epagneul de Madame Des-houlieres</head>
         <bibl><title>Le Mercure galant</title>, [janvier-avril] 1672 [tome 1], p. 267-271.</bibl>
-        <p>Il court des Pieces galantes de son Chien, qu’on appelle <hi rend="i">Gas</hi> : Il s’est fait depuis un peu Poëte excellent, &amp; ses Ouvrages méritent bien d’estre imprimez. Cette Dame en a fait le Cerbere du Parnasse, pour en défendre l’entrée aux mauvais Poëtes. Voicy de ses Vers, &amp; vous pourez par là juger de son esprit.</p>
+        <p>Il court des Pieces galantes de son Chien, qu’on appelle <hi rend="i">Gas</hi> : Il s’est
+          fait depuis un peu Poëte excellent, &amp; ses Ouvrages méritent bien d’estre imprimez.
+          Cette Dame en a fait le Cerbere du Parnasse, pour en défendre l’entrée aux mauvais Poëtes.
+          Voicy de ses Vers, &amp; vous pourez par là juger de son esprit.</p>
         <quote rend="border">
           <label rend="center">Lettre de Gas,</label>
           <label rend="center">Epagneul de Madame</label>
@@ -68,8 +70,10 @@
             <l><space/>GAS.</l>
           </lg>
         </quote>
-        <p>Je crois, Madame, que vous n’avez guère veû de Vers plus naturels, ny de Chiens plus habiles. J’en sçay bien la raison ; c’est que tous les Epagneuls n’ont pas de Maistresses si spirituelles.</p>
+        <p>Je crois, Madame, que vous n’avez guère veû de Vers plus naturels, ny de Chiens plus
+          habiles. J’en sçay bien la raison ; c’est que tous les Epagneuls n’ont pas de Maistresses
+          si spirituelles.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

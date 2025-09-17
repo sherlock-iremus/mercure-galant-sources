@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Relation contenant toutes les particularités du Mariage de M. le D[uc] de Bourbon]</head>
         <bibl><title>Mercure galant</title>, août 1685 [tome 8], p. 206-209, 224-225, 227-235, 242-243, 247-252, 254-259</bibl>
         <p/>
@@ -35,6 +34,7 @@
         <p>Le Dimanche Monsieur donna une grande Feste à Saint Cloud. Il y eut Collation, Musique, Jeu, Promenade, bal, Souper, &amp; Comédie. Il s'est fait encore beaucoup d'autres Festes devant &amp; aprés ce Mariage, &amp; qui y ont toutes rapport par la joye que la Cour a fait paroistre, &amp; par les marques d'amitié que le Roy a données aux Mariez. [...]</p>
         <p/>
       </div>
-    </body>
+        
+      </body>
   </text>
 </TEI>

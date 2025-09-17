@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Vers sur le secret des affaires du Roy]</head>
         <bibl><title>Le Mercure galant</title>,1673, tome VI, p. 277-279.</bibl>
-        <p>En voicy d’autres qui n’ont pas déplû ; mais je croy que la matiere dont ils traitent en est cause, puisqu’ils parlent du Secret impénetrable qui est dans toutes les affaires du Roy. On s’adresse à tous les Princes qui veulent meriter quelque estime par eux-mesmes, autant que par leur rang.</p>
+        <p>En voicy d’autres qui
+          n’ont pas déplû ; mais je croy que la matiere dont ils traitent en est cause, puisqu’ils
+          parlent du Secret impénetrable qui est dans toutes les affaires du Roy. On s’adresse à
+          tous les Princes qui veulent meriter quelque estime par eux-mesmes, autant que par leur
+          rang.</p>
         <quote>
           <l><space/>Vous qui nez du sang des Heros,</l>
           <l><space/>Voulez en meriter la gloire,</l>
@@ -39,6 +42,6 @@
           <l><space/>On ne voit rien, &amp; tout se fait.</l>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

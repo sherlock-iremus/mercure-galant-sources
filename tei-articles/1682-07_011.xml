@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Lettre de la Lorraine Espagnolete</head>
         <bibl><title>Mercure galant</title>, juillet 1682 [tome 7], p. 11-17.</bibl>
         <p/>
@@ -24,11 +23,9 @@
           <label>LETTRE<lb/>DE LA LORRAINE<lb/>ESPAGNOLETE.</label>
           <p>A Besançon le 1682.</p>
           <p><hi rend="i">Un Abbé de mes Amis, me fit voir l’autre jour des mots assez bizarres, disposez en façon de Bouts-rimez de Sonnet, qu’il me dit qui luy avoient esté envoyez de Paris ; &amp; il me lût un Billet où l’on luy marquoit que l’Autheur s’estoit engagé à donner une Médaille d’or à celuy qui rempliroit le plus heureusement ces Rimes, sur le Jugement de Pâris. Le lendemain il m’apporta le Sonnet, que je vous envoye de sa façon sur ce sujet-là. Il me pria fort de ne le communiquer à personne ; mais j’ay crû que ce seroit aller contre les droits que vous vous estes acquis sur tous les Ouvrages du temps, si je vous dérobois la connoissance de celuy cy. Le premier des deux autres Sonnets qui l’accompagnent sur les mesmes Rimes, est à la gloire du Roy. Ce grand Prince mérite bien que son Eloge se rencontre dans toutes les Pieces d’esprit qui ont l’honneur de paroistre sous son Regne, L’on a tant de choses à dire à l’avantage du Roy, qu’il n’y a point de Rimes, pour extraordinaires qu’elles soient, ny de termes, pour éloignez qu’ils paroissent de pouvoir former aucun Discours, qui ne puissent concourir heureusement à faire l’Eloge du premier Monarque du monde. J’ay mieux aimé travailler sur ce grand Sujet, que de m’appliquer à celuy que l’on avoit proposé pour la Médaille. La satisfaction que l’on a de réüssir dans l’un, a je-ne-sçay-quoy qui flate beaucoup plus que la récompense que l’on promet pour l’autre. Une Fille doit ignorer la signification du mot de</hi> Paralaxe. <hi rend="i">Je me le suis fait expliquer. L’on m’a dit qu’il marquoit la diférence qu’il y a entre les Astres, pour leur élevation ; &amp; que celuy qui faisoit le moins de paralaxe, estoit le plus élevé. C’est ce qui m’a donné lieu d’appliquer ce mot au Soleil, qui fait le corps de la Devise du Roy. Pour ce qui est du Sonnet satirique qui accompagne les deux autres, quoy qu’il paroisse assez naturel à ceux qui en sçavent l’histoire, l’Autheur n’a point voulu se faire connoistre. Je ne sçay si apres le temps qui s’est passé depuis mon retour de Madrid, vous connoistrez encor le caractere de</hi></p>
-          <p>
-            <hi rend="sc">La Lorraine Espagnolete.</hi>
-          </p>
+          <p><hi rend="sc">La Lorraine Espagnolete.</hi></p>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

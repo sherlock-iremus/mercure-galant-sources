@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Tout ce qui s'est passé à l'Académie Françoise le jour de Saint Loüis]</head>
         <bibl><title>Mercure galant</title>, septembre 1687 (première partie) [tome 13], p. 270-303</bibl>
         <p/>
@@ -24,6 +23,7 @@
         <p>Cette réponse fut interrompuë beaucoup de fois par des applaudissemens qui firent connoistre combien l’Assemblée estoit satisfaite de l’Eloquence de M<hi rend="sup">r</hi> de Bergeret. Il parut par là tres-digne d’estre à la teste d’une si celebre Compagnie, &amp; tout le monde convint qu’il ne pouvoit mieux remplir la place qu’il occupoit. M<hi rend="sup">r</hi> l’Abbé de Choisy a fait connoistre par un fort bel Ouvrage qu’il a donné au Public depuis sa reception, avec combien de justice il remplit la place qu’on luy a fait occuper. Cet Ouvrage est <hi rend="i">la Vie de Salomon</hi>. Il y a quelque temps qu’il fit aussi imprimer celle de David avec une Paraphrase des Pseaumes. Je ne vous dis rien de la beauté de ses Livres. Vous pouvez juger de quoy il est capable par ce que vous venez de lire de son Remerciment à l’Academie.</p>
         <p>Ces deux Discours ayant esté prononcez, on distribua les Prix d’Eloquence &amp; de Poësie, &amp; l’on declara que le premier avoir esté remporté par M<hi rend="sup">r</hi> de Fontenelle, &amp; le second par Mademoiselle des Houlieres, Fille de l’illustre Madame des Houlieres, dont vous avez veu tant de beaux Ouvrages. M<hi rend="sup">r</hi> l’Abbé de la Vau, Secretaire de la Compagnie en l’absence de M<hi rend="sup">r</hi> l’Abbé Regnier des Marais, Secretaire perpetuel, leut ces deux Pieces, dont l’une estoit sur la Patience, &amp; l’autre sur l’Education de la jeune Noblesse dans les Compagnies des Gentilshommes, &amp; dans la Maison de S. Cir, &amp; toutes deux furent écoutées avec l’attention qu’elles meritoient. Je vous en diray davantage une autre fois. À cette lecture succeda celle d’un Discours qu’avoit apporté M<hi rend="sup">r</hi> Hebert, de l’Academie de Soissons, pour satisfaire à l’obligation où sont ceux de cette Compagnie, suivant les Lettres Patentes de leur établissement, d’en envoyer un tous les ans, en Prose ou en Vers, le jour de S. Loüis, à l’Academie Françoise. On y remarqua de grandes beautez, &amp; M. Hebert eut place parmy les Academiciens. Le sujet de ce Discours estoit, <hi rend="i">Que les Peuples sont toûjours heureux, lors qu’ils sont gouvernez par un Prince qui a de la pieté</hi>. Aprés cela on leut un Madrigal, à la gloire de Mademoiselle des Houlieres, sur ce qu’elle avoit remporté le Prix. M. le Clerc leut aussi quelques Ouvrages de Poësie sur divers sujets, &amp; la Seance finit par une Lettre en Vers de M. Perrault, dans laquelle le Siecle remercioit le Roy de l’avantage qu’il luy faisoit remporter sur les autres Siecles.</p>
       </div>
-    </body>
+        
+        </body>
   </text>
 </TEI>

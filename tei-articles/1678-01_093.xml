@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,16 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>La veritable Prairie, à la fausse Prairie sa Rivale</head>
         <bibl><title>Mercure galant</title>, janvier 1678 [tome 1], p. 93-97.</bibl>
-        <p>L’Amour est une passion violente qui ne se rend pas toûjours à la raison. Elle tyrannise jusqu’aux Prairies. Celle qui a répondu si favorablement au Ruisseau, vous l’a fait connoistre. Mais l’auriez-vous crû ? Cette Réponse a fait naistre un grand diférent. Il y a une jeune Prairie fort agreable, de dix sept ou dix-huit ans, à laquelle s’adressoit le Langage allégorique du Ruisseau. Elle est dans des lieux couverts où les Vers de sa Rivale ont fait bruit. Elle les a veus, &amp; se croyant engagée d’honneur à ne pas laisser usurper ses droits, voicy ce que sa colere luy a dicté.</p>
+        <p>L’Amour est une passion violente qui ne se rend pas toûjours à la raison. Elle tyrannise
+          jusqu’aux Prairies. Celle qui a répondu si favorablement au Ruisseau, vous l’a fait
+          connoistre. Mais l’auriez-vous crû ? Cette Réponse a fait naistre un grand diférent. Il y
+          a une jeune Prairie fort agreable, de dix sept ou dix-huit ans, à laquelle s’adressoit le
+          Langage allégorique du Ruisseau. Elle est dans des lieux couverts où les Vers de sa Rivale
+          ont fait bruit. Elle les a veus, &amp; se croyant engagée d’honneur à ne pas laisser
+          usurper ses droits, voicy ce que sa colere luy a dicté.</p>
         <quote rend="border">
           <label rend="center">La veritable</label>
           <label rend="center">Prairie,</label>
@@ -68,6 +73,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

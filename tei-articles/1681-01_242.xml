@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,24 +14,20 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head resp="editor">Madrigal</head>
-        <bibl><title>Mercure galant</title>, janvier 1681 [tome 1], p. 242.</bibl>
-        <p>M<hi rend="sup">r</hi> Guyonnet de Vertron, dont je vous ay déja parlé dans cette Lettre, a fait ces Vers pour l’Autheur de ce Madrigal.</p>
-        <quote>
-          <lg>
-            <l> <hi rend="i">Estre bien fait, sçavant, &amp; sage,</hi></l>
-            <l>
-              <hi rend="i">Et composer de jolis Madrigaux,</hi>
-            </l>
-            <l>
-              <hi rend="i">C’est n’avoir point à la Chambre d’égaux,</hi>
-            </l>
-            <l> <hi rend="i">C’est estre en un mot hors de Page.</hi></l>
-          </lg>
-        </quote>
-      </div>
-    </body>
+    <body><div>
+    <head resp="editor">Madrigal</head>
+    <bibl><title>Mercure galant</title>, janvier 1681 [tome 1], p. 242.</bibl>
+    <p>M<hi rend="sup">r</hi> Guyonnet de Vertron, dont je vous ay déja parlé dans cette Lettre, a
+     fait ces Vers pour l’Autheur de ce Madrigal.</p>
+    <quote>
+     <lg>
+      <l> <hi rend="i">Estre bien fait, sçavant, &amp; sage,</hi></l>
+      <l><hi rend="i">Et composer de jolis Madrigaux,</hi></l>
+      <l><hi rend="i">C’est n’avoir point à la Chambre d’égaux,</hi></l>
+      <l> <hi rend="i">C’est estre en un mot hors de Page.</hi></l>
+     </lg>
+    </quote>
+   </div>
+   </body>
   </text>
 </TEI>

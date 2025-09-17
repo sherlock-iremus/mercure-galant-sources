@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>L’Asne et l’Avare</head>
         <bibl><title>Mercure galant</title>, décembre 1687 [tome 17], p. 223-225</bibl>
         <p/>
-        <p>Voicy une Fable dont la moralité peut faire rentrer beaucoup de gens en eux-mesmes. Le dessein en est tiré des Emblêmes d’Alciat.</p>
+        <p>Voicy une Fable dont la moralité peut faire rentrer beaucoup de gens en eux-mesmes. Le
+          dessein en est tiré des Emblêmes d’Alciat.</p>
         <quote>
           <label>L’ASNE ET L’AVARE. [Fable]</label>
           <lg>
@@ -49,6 +49,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

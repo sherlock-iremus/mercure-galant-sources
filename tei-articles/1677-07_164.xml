@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Vers de M. de Corneille l’aisné sur les Conquestes du Roy]</head>
         <bibl><title>Le Nouveau Mercure galant</title>, juillet 1677 ([tome V]), p. 164-172.</bibl>
         <p>Venons aux Vers que M<hi rend="sup">r</hi> de Corneille l’aisné a presentez au Roy sur ses Conquestes. Je pourrois me dispenser de vous les envoyer, parce qu’ils sont imprimez ; mais comme ils ne le sont qu’en feüille volante, il est bon de vous donner lieu de les conserver ; &amp; d’ailleurs si le mot de <hi rend="i">Parélie</hi> a embarassé quelqu’une de vos Dames de Province, vous leur en ferez voir l’explication dans le changement des deux Vers où ce mot estoit employé.</p>
@@ -30,28 +29,17 @@
           <l rend="i">Trois Villes dont la moindre eust pû faire un Etat,</l>
           <l rend="i">Lors que chaque Province avoit son Potentat ;</l>
           <l rend="i">Trois Villes qui pouvoient tenir autant d’années,</l>
-          <l>
-            <hi rend="i">Si le Ciel à</hi>
-            <hi rend="sc">Loüis</hi>
-            <hi rend="i">ne les eust destinées,</hi>
-          </l>
+          <l><hi rend="i">Si le Ciel à</hi> <hi rend="sc">Loüis</hi> <hi rend="i">ne les eust destinées,</hi></l>
           <l rend="i">Et comme si leur prise étoit trop peu pour nous,</l>
           <l rend="i">Mont-Cassel vous apprend ce que pesent nos coups.</l>
-          <l>
-            <hi rend="sc">Loüis</hi>
-            <hi rend="i">n’a qu’à paroistre, &amp; vos Murailles tombent,</hi>
-          </l>
+          <l><hi rend="sc">Loüis</hi> <hi rend="i">n’a qu’à paroistre, &amp; vos Murailles tombent,</hi></l>
           <l rend="i">Il n’a qu’à donner l’ordre, &amp; vos Héros succombent ;</l>
           <l rend="i">Et tandis que sa gloire arreste en d’autres lieux</l>
           <l rend="i">L’honneur de sa presence, &amp; l’effort de ses yeux,</l>
           <l rend="i">L’Ange de qui le bras soûtient son Diadéme</l>
           <l rend="i">Vous terrasse pour luy par un autre luy-mesme,</l>
           <l rend="i">Et Dieu pour luy donner un ferme &amp; digne appuy,</l>
-          <l>
-            <hi rend="i">Ne fait qu’un Conquérant de </hi>
-            <hi rend="sc">Philippe</hi>
-            <hi rend="i">&amp; de luy.</hi>
-          </l>
+          <l><hi rend="i">Ne fait qu’un Conquérant de </hi><hi rend="sc">Philippe</hi> <hi rend="i">&amp; de luy.</hi></l>
           <l rend="i"><space/>Ainsi quand le Soleil sur un épais nüage,</l>
           <l rend="i">Pour se faire un second, imprime son image,</l>
           <l rend="i">Leur hauteur est égale, &amp; leur éclat pareil,</l>
@@ -106,6 +94,6 @@
           <l rend="i">Que le sort des Lions que tu viens de dompter.</l>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

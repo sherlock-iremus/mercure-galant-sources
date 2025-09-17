@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, juin 1697 [tome 6], p. 264.</bibl>
         <p>Les Vers qui suivent ont esté notez par un fort habile Maistre. <note resp="editor">Cet air figure dans le <hi rend="italic">Recueil d'airs sérieux et à boire</hi> (Ballard, 1697, p. 122), sous le titre de « Chansonnette de Monsieur Montailly ».</note></p>
         <quote>
-          <label>AIR NOUVEAU.</label>
-          <note resp="author" place="margin">L’Air doit regarder la page 264.</note>
-          <lg>
-            <l rend="i">Moutons cheris d'une fiere Bergere,</l>
+          <label>AIR NOUVEAU.</label><note resp="author" place="margin">L’Air doit regarder la page 264.</note>
+          <lg><l rend="i">Moutons cheris d'une fiere Bergere,</l>
             <l rend="i">Qui paissez sous ses yeux au pied de ce costeau :</l>
             <l rend="i">Puisque vous seuls sçavez luy plaire,</l>
             <l rend="i">Que ne suis je un Mouton de vostre heureux Troupeau !</l>
@@ -35,6 +32,6 @@
           </figure>
         </ref>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

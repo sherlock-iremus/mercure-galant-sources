@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Stances de Mme des Houlieres]</head>
         <bibl><title>Mercure galant</title>, septembre 1690 [tome 10], p. 7-13.</bibl>
-        <p>La conjoncture presente des affaires fait meriter tant de loüanges au Roy, &amp; ce Monarque en reçoit de tant d’éloquentes Plumes, que je croy devoir commencer ma Lettre en vous faisant part de leurs productions. L’illustre Madame des Houlieres ne s’est pas teuë sur ses dernieres Victoires. Je ne vous vanteray point les Vers que vous allez lire. On n’en voit point d’elle qui ne répondent à la réputation qu’elle s’est acquise.</p>
+        <p>La conjoncture presente des affaires fait meriter tant de loüanges au Roy, &amp; ce
+          Monarque en reçoit de tant d’éloquentes Plumes, que je croy devoir commencer ma Lettre en
+          vous faisant part de leurs productions. L’illustre Madame des Houlieres ne s’est pas teuë
+          sur ses dernieres Victoires. Je ne vous vanteray point les Vers que vous allez lire. On
+          n’en voit point d’elle qui ne répondent à la réputation qu’elle s’est acquise.</p>
         <quote>
           <label>STANCES IRREGULIERES<lb/>Sur les Victoires du Roy.</label>
           <lg>
@@ -93,6 +96,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

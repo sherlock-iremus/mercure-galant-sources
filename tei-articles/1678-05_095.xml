@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>L'Amant quité</head>
         <bibl><title>Mercure galant</title>, mai 1678 [tome 5], p. 95-97.</bibl>
-        <p>Avoüez, Madame, qu’il seroit à souhaiter qu’on en usast toûjours de la sorte, &amp; qu’on ne se fist jamais une affaire sérieuse des amusemens de l’Amour. On s’épargneroit beaucoup de sujet de plaintes. En voicy une d’un Amant disgracié, qui vous fera voir que ce ne sont pas toûjours les Hommes qui sont inconstans.</p>
+        <p>Avoüez, Madame, qu’il seroit à souhaiter qu’on en usast toûjours de la sorte, &amp; qu’on
+          ne se fist jamais une affaire sérieuse des amusemens de l’Amour. On s’épargneroit beaucoup
+          de sujet de plaintes. En voicy une d’un Amant disgracié, qui vous fera voir que ce ne sont
+          pas toûjours les Hommes qui sont inconstans.</p>
         <quote>
           <label rend="center">L'AMANT QUITÉ.</label>
           <lg>
@@ -50,8 +52,10 @@
             <l rend="i">Ont encor plus duré que ta flame legere.</l>
           </lg>
         </quote>
-        <p>Voilà ce que c’est que de vouloir aimer dans les formes. On est presque toûjours satisfait, quand on n’y apporte point tant de façon, &amp; les outrages mesmes sont incapables de chagriner.</p>
+        <p>Voilà ce que c’est que de vouloir aimer dans les formes. On est presque toûjours
+          satisfait, quand on n’y apporte point tant de façon, &amp; les outrages mesmes sont
+          incapables de chagriner.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

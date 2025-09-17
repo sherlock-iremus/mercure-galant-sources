@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Sur la Naissance de Monseigneur le Duc de Bourgogne. Ab Jove Principium</head>
         <bibl><title>Mercure galant</title>, novembre 1682 [tome 13], p. 95-98.</bibl>
         <p/>
-        <p>Rien ne peut mieux suivre ces Réjoüissances, que les Vers que vous allez lire. Ils ont esté faits par M<hi rend="sup">r</hi> Rault de Roüen, dont vous estimez les Ouvrages.</p>
+        <p>Rien ne peut mieux suivre ces Réjoüissances, que les Vers que vous allez lire. Ils ont
+          esté faits par M<hi rend="sup">r</hi> Rault de Roüen, dont vous estimez les Ouvrages.</p>
         <quote>
-          <label>SUR LA NAISSANCE<lb/><hi rend="sc">de Monseigneur</hi><lb/>LE DUC DE BOURGOGNE<lb/>Ab Jove Principium.</label>
+          <label>SUR LA NAISSANCE<lb/><hi rend="sc">de Monseigneur</hi><lb/>LE DUC DE
+            BOURGOGNE<lb/>Ab Jove Principium.</label>
           <lg>
             <l rend="i">France, cet heureux jour, qui doit marquer ta joye,</l>
             <l rend="i">Est celuy du bonheur qu’un Astre heureux i’envoye,</l>
@@ -50,6 +51,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

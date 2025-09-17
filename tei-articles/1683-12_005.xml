@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Sur la prise de Courtray, &amp; de Dixmude</head>
         <bibl><title>Mercure galant</title>, décembre 1683 [tome 14], p. 5-6.</bibl>
         <quote>
-          <label><hi rend="sc">Sur la prise</hi><lb/>DE COURTRAY,<lb/><hi rend="sc">et de Dixmude</hi>.</label>
+          <label><hi rend="sc">Sur la prise</hi><lb/>DE COURTRAY,<lb/><hi rend="sc">et de
+              Dixmude</hi>.</label>
           <lg>
             <l rend="i"> Vous gagnez bien, fiers Ennemis,</l>
             <l rend="i"> A résister au Grand LOUIS.</l>
@@ -38,6 +38,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

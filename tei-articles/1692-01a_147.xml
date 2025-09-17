@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Autre galanterie]</head>
         <bibl><title>Mercure galant</title>, janvier 1692 [tome 1], p. 147-149.</bibl>
-        <p>Voicy une autre galanterie, faite par un homme d’un merite distingué. Une aimable Demoiselle ayant distribué un Gasteau le jour des Rois, il trouva un cœur de sucre au lieu de féve dans la part qui luy écheut, &amp; luy renvoya ce cœur le lendemain, avec ces Vers.</p>
+        <p>Voicy une autre galanterie, faite par un homme d’un merite distingué. Une aimable
+          Demoiselle ayant distribué un Gasteau le jour des Rois, il trouva un cœur de sucre au lieu
+          de féve dans la part qui luy écheut, &amp; luy renvoya ce cœur le lendemain, avec ces
+          Vers.</p>
         <quote>
           <label>A MADEMOISELLE T.</label>
           <lg>
@@ -39,6 +41,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

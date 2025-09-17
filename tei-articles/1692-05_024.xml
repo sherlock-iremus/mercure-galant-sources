@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,24 +14,23 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[L’Hymen, l’Amour, &amp; la Raison, Dialogue]</head>
         <bibl><title>Mercure galant</title>, mai 1692 [tome 5], p. 24-40.</bibl>
-        <p>Tout ce que je vous ay fait voir de M<hi rend="sup">r</hi> de Senecé, a esté si bien receu dans vostre Province, qu’il suffit presentement de vous le nommer en vous envoyant de ses Ouvrages, pour vous préparer à lire quelque chose d’un bon goust, &amp; qui merite l’empressement que vous me marquez d’avoir tout ce qui part de sa plume. Le Dialogue qui suit est de sa façon.</p>
+        <p>Tout ce que je vous ay fait voir de M<hi rend="sup">r</hi> de Senecé, a esté si bien
+          receu dans vostre Province, qu’il suffit presentement de vous le nommer en vous envoyant
+          de ses Ouvrages, pour vous préparer à lire quelque chose d’un bon goust, &amp; qui merite
+          l’empressement que vous me marquez d’avoir tout ce qui part de sa plume. Le Dialogue qui
+          suit est de sa façon.</p>
         <quote>
           <label>L’HYMEN, L’AMOUR,<lb/>ET<lb/>LA RAISON.</label>
           <lg>
-            <label type="speaker">
-              <hi rend="i">L’HYMEN.</hi>
-            </label>
+            <label type="speaker"><hi rend="i">L’HYMEN.</hi></label>
             <l rend="i">Mon Frere, jusqu’icy j’ay gardé le silence.</l>
             <l rend="i"> Jusqu’icy poussé vivement,</l>
             <l rend="i"> Mon cœur de son ressentiment</l>
             <l rend="i"> A reprimé la violence ;</l>
-            <l>
-              <hi rend="i">Mais enfin il demande un éclaircissement,</hi>
-            </l>
+            <l><hi rend="i">Mais enfin il demande un éclaircissement,</hi></l>
             <l rend="i">Et je sens épuiser toute sa patience.</l>
             <l rend="i">Je sçay que l’Univers est soumis à vos loix,</l>
             <l rend="i"> Que la Nature suspenduë</l>
@@ -42,21 +41,18 @@
             <l rend="i">Que vous regnez par tout. De vos augustes droits</l>
             <l rend="i"> Je connois la vaste étenduë,</l>
             <l rend="i">Et je n’ignore point l’honneur que je vous dois.</l>
-            <l><hi rend="i">Pourtant</hi> (<hi rend="i">vous le sçavez</hi>) <hi rend="i">tout puissans que nous sommes,</hi></l>
+            <l><hi rend="i">Pourtant</hi> (<hi rend="i">vous le sçavez</hi>) <hi rend="i">tout
+                puissans que nous sommes,</hi></l>
             <l rend="i">Il est pardessus nous un pouvoir dans les Cieux ;</l>
             <l rend="i">Un Dieu commande aux Rois, un Roy commande aux hommes,</l>
             <l rend="i">Et la Raison gouverne &amp; les Rois, &amp; les Dieux.</l>
             <l rend="i">Oseriez-vous tout seul corrompre cet usage,</l>
             <l rend="i">Pour moy toujours injuste, &amp; toujours rigoureux ?</l>
-            <l>
-              <hi rend="i">Ne souffrirez-vous point qu’un Cadet malheureux</hi>
-            </l>
+            <l><hi rend="i">Ne souffrirez-vous point qu’un Cadet malheureux</hi></l>
             <l rend="i"> Joüisse de son apanage ?</l>
           </lg>
           <lg>
-            <label type="speaker">
-              <hi rend="i">L’AMOUR.</hi>
-            </label>
+            <label type="speaker"><hi rend="i">L’AMOUR.</hi></label>
             <l rend="i">L’éloquence pour vous, mon Frere, n’est qu’un jeu.</l>
             <l rend="i">De ces moralitez où tant de bon sens brille,</l>
             <l rend="i"> L’hiver au coin de vostre feu,</l>
@@ -73,15 +69,11 @@
             <l rend="i">Quand nous parlons ensemble au fond du mesme cœur.</l>
             <l rend="i">Je veux bien toutefois vous imposer silence.</l>
             <l rend="i">J’accepte la Raison pour discuter nos droits.</l>
-            <l>
-              <hi rend="i">De quoy vous plaignez-vous ? Parlez ; sans consequence</hi>
-            </l>
+            <l><hi rend="i">De quoy vous plaignez-vous ? Parlez ; sans consequence</hi></l>
             <l rend="i"> Je m’y soumets pour cette fois.</l>
           </lg>
           <lg>
-            <label type="speaker">
-              <hi rend="i">L’HYMEN.</hi>
-            </label>
+            <label type="speaker"><hi rend="i">L’HYMEN.</hi></label>
             <l rend="i">Vous m’avez outragé par plus d’une entreprise,</l>
             <l rend="i">Je n’en réveille point le souvenir cuisant ;</l>
             <l rend="i">Mais du moins rendez-moy Céphise,</l>
@@ -170,9 +162,7 @@
             <l rend="i">Amour, n’est-ce point vous qui me la ravissez ?</l>
           </lg>
           <lg>
-            <label type="speaker">
-              <hi rend="i">L’AMOUR.</hi>
-            </label>
+            <label type="speaker"><hi rend="i">L’AMOUR.</hi></label>
             <l rend="i"> O la surprenante avanture,</l>
             <l rend="i">Qu’en pleine joüissance on finisse d’aimer !</l>
             <l rend="i"> A vous entendre déclamer,</l>
@@ -194,75 +184,55 @@
             <l rend="i"> N’est-elle point un peu plus lente ?</l>
           </lg>
           <lg>
-            <label type="speaker">
-              <hi rend="i">L’HYMEN.</hi>
-            </label>
+            <label type="speaker"><hi rend="i">L’HYMEN.</hi></label>
             <l rend="i">Et le moyen, suis-je de fer ?</l>
           </lg>
           <lg>
-            <label type="speaker">
-              <hi rend="i">L’AMOUR.</hi>
-            </label>
+            <label type="speaker"><hi rend="i">L’AMOUR.</hi></label>
             <l rend="i">Dans la tranquillité de vostre joüissance,</l>
             <l rend="i"> Du desir de plaire occupé,</l>
             <l rend="i">En faites-vous toujours vostre soin d’importance ?</l>
           </lg>
           <lg>
-            <label type="speaker">
-              <hi rend="i">L’HYMEN.</hi>
-            </label>
+            <label type="speaker"><hi rend="i">L’HYMEN.</hi></label>
             <l rend="i">Les affaires m’ont dissipé.</l>
           </lg>
           <lg>
-            <label type="speaker">
-              <hi rend="i">L’AMOUR.</hi>
-            </label>
+            <label type="speaker"><hi rend="i">L’AMOUR.</hi></label>
             <l rend="i">Avez-vous bien eu l’industrie</l>
             <l rend="i">De vous montrer toujours par le plus beau costé</l>
             <l rend="i"> Dont on use en galanterie ?</l>
             <l rend="i">Quelques defauts choquans n’ont-ils point éclaté ?</l>
           </lg>
           <lg>
-            <label type="speaker">
-              <hi rend="i">L’HYMEN.</hi>
-            </label>
+            <label type="speaker"><hi rend="i">L’HYMEN.</hi></label>
             <l rend="i">Quelle contrainte severe</l>
             <l rend="i">Aux cœurs pour toujours unis !</l>
             <l rend="i">Je suis nud, je suis sincere.</l>
             <l rend="i">On me voit tel que je suis.</l>
           </lg>
           <lg>
-            <label type="speaker">
-              <hi rend="i">L’AMOUR.</hi>
-            </label>
+            <label type="speaker"><hi rend="i">L’AMOUR.</hi></label>
             <l rend="i">Fort bien. Qu’avez-vous fait de l’importune foule</l>
             <l rend="i">De langueurs, de dégoûts, de murmures, d’ennuis,</l>
             <l rend="i">Qui par tout aprés vous dans les maisons se coule ?</l>
           </lg>
           <lg>
-            <label type="speaker">
-              <hi rend="i">L’HYMEN.</hi>
-            </label>
+            <label type="speaker"><hi rend="i">L’HYMEN.</hi></label>
             <l rend="i">Ils m’obsedent les jours, ils m’occupent les nuits.</l>
           </lg>
           <lg>
-            <label type="speaker">
-              <hi rend="i">L’AMOUR.</hi>
-            </label>
+            <label type="speaker"><hi rend="i">L’AMOUR.</hi></label>
             <l rend="i">Et la cruelle jalousie</l>
             <l rend="i">A-t-elle encor suivi vos pas ?</l>
           </lg>
           <lg>
-            <label type="speaker">
-              <hi rend="i">L’HYMEN.</hi>
-            </label>
+            <label type="speaker"><hi rend="i">L’HYMEN.</hi></label>
             <l rend="i">J’en ay toujours l’ame saisie,</l>
             <l rend="i">Nous ne nous desunissons pas.</l>
           </lg>
           <lg>
-            <label type="speaker">
-              <hi rend="i">L’AMOUR.</hi>
-            </label>
+            <label type="speaker"><hi rend="i">L’AMOUR.</hi></label>
             <l rend="i"> Et vous voulez qu’on vous cherisse,</l>
             <l rend="i">Negligent, endormy, soupçonneux, dissipé,</l>
             <l rend="i"> Ralenty dans vostre exercice,</l>
@@ -273,9 +243,7 @@
             <l rend="i"> Reine, prononcez nostre Arrest.</l>
           </lg>
           <lg>
-            <label type="speaker">
-              <hi rend="i">LA RAISON.</hi>
-            </label>
+            <label type="speaker"><hi rend="i">LA RAISON.</hi></label>
             <l rend="i">De ses conclusions Hymen est debouté,</l>
             <l rend="i">Faute d’avoir produit ardeur &amp; nouveauté ;</l>
             <l rend="i">Nous avons, declarant l’instance criminelle,</l>
@@ -284,9 +252,7 @@
             <l rend="i">Et nous le condamnons aux dépens de l’Amour ?</l>
           </lg>
           <lg>
-            <label type="speaker">
-              <hi rend="i">L’HYMEN.</hi>
-            </label>
+            <label type="speaker"><hi rend="i">L’HYMEN.</hi></label>
             <l rend="i">Quoy, perfide Raison, quand je vous croyois preste</l>
             <l rend="i"> A soutenir la verité,</l>
             <l rend="i"> Les appas de la volupté</l>
@@ -295,14 +261,12 @@
             <l rend="i"> Vous me voyez chercher refuge…</l>
           </lg>
           <lg>
-            <label type="speaker">
-              <hi rend="i">L’AMOUR.</hi>
-            </label>
+            <label type="speaker"><hi rend="i">L’AMOUR.</hi></label>
             <l rend="i">Courage, Hymen, poussez. Les loix donnent un jour</l>
             <l rend="i"> Pour déclamer contre son Juge.</l>
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,17 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head resp="editor">Portraits de M. l’Archevêque de Paris, gravé par Mademoiselle Stella</head>
         <bibl><title>Mercure galant</title>, septembre 1678 [tome 9], p. 192-193.</bibl>
-        <p>Si le talent de graver donne de la réputation aux Hommes, il faut dire à l’avantage de celles de vostre Sexe, qu’il n’y a point d’Art où elles ne réüssissent admirablement. Le Livre de Pastorales, &amp; d’autres Ouvrages que nous avons de Mademoiselle Stella, luy avoient acquis déja beaucoup de gloire, mais elle a fort augmenté l’estime qu’on avoit pour elle, par le Portrait qu’elle a gravé depuis peu de monsieur l’Archevesque de Paris. Il est accopagné de Figures qui marquent les vertus de ce grand &amp; zelé Prélat. On ne peut rien voir de plus achevé.</p>
+        <p>Si le talent de graver donne de la réputation aux Hommes, il faut dire à l’avantage de
+          celles de vostre Sexe, qu’il n’y a point d’Art où elles ne réüssissent admirablement. Le
+          Livre de Pastorales, &amp; d’autres Ouvrages que nous avons de Mademoiselle Stella, luy
+          avoient acquis déja beaucoup de gloire, mais elle a fort augmenté l’estime qu’on avoit
+          pour elle, par le Portrait qu’elle a gravé depuis peu de monsieur l’Archevesque de Paris.
+          Il est accopagné de Figures qui marquent les vertus de ce grand &amp; zelé Prélat. On ne
+          peut rien voir de plus achevé.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

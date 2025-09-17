@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Opéra représenté à Gennes]</head>
         <bibl><title>Mercure galant</title>, avril 1683 [tome 4], p. 137-139</bibl>
-        <p>On a aussi représenté un Opéra à Gennes dans le Palais du Prince Doria, où la grande partie du Sénat s'est trouvée. On y voyoit Sainte Françoise Romaine, qui consentoit que le Roy de Naples fist son Fils prisonnier, &amp; ce mesme Fils délivré par miracle. Comme chaque Païs a ses manieres, un Pere Jesuite fit une éloquente Prédiction à ceux qui estoit assemblez, pour entendre cet Opéra.</p>
+        <p>On a aussi représenté un Opéra à Gennes dans le Palais du Prince Doria, où la grande
+          partie du Sénat s'est trouvée. On y voyoit Sainte Françoise Romaine, qui consentoit que le
+          Roy de Naples fist son Fils prisonnier, &amp; ce mesme Fils délivré par miracle. Comme
+          chaque Païs a ses manieres, un Pere Jesuite fit une éloquente Prédiction à ceux qui estoit
+          assemblez, pour entendre cet Opéra.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

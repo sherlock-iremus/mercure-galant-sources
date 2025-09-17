@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>La Poule, aux Œufs d’or. Fable</head>
         <bibl><title>Mercure galant</title>, décembre 1681 [tome 13], p. 43-51.</bibl>
-        <p>On ne peut donner de trop fréquentes leçons aux Avares. Ainsi, Madame, quoy que je vous aye déja envoyé dans quelqu’une de mes Lettres une Fable sur la Poule aux Oeufs d’or, vous en voudrez bien voir une seconde d’un autre Autheur sur cette mesme matiére. Elle est du Berger Fidelle des Accates. L’agréable tour qu’il donne aux Sujets qu’il traite, a un caractére particulier qui ne sçavroit manquer de vous plaire.</p>
+        <p>On ne peut donner de trop fréquentes leçons aux Avares. Ainsi, Madame, quoy que je vous
+          aye déja envoyé dans quelqu’une de mes Lettres une Fable sur la Poule aux Oeufs d’or, vous
+          en voudrez bien voir une seconde d’un autre Autheur sur cette mesme matiére. Elle est du
+          Berger Fidelle des Accates. L’agréable tour qu’il donne aux Sujets qu’il traite, a un
+          caractére particulier qui ne sçavroit manquer de vous plaire.</p>
         <quote>
           <label>LA POULE, AUX OEUFS D’OR.<lb/>FABLE.</label>
           <lg>
@@ -27,7 +30,8 @@
             <l rend="i"> Et dans ses Ecrits vit encor,</l>
             <l rend="i">Nous a laissé la merveilleuse Histoire</l>
             <l rend="i">D’une Poule qu’avoit un Païsan du Mogor.</l>
-            <l><hi rend="i">Elle pondoit</hi> (dit-il) <hi rend="i">tous les jours un Oeuf d’or.</hi></l>
+            <l><hi rend="i">Elle pondoit</hi> (dit-il) <hi rend="i">tous les jours un Oeuf
+                d’or.</hi></l>
             <l rend="i">Cet avare Manan fut assez fat pour croire</l>
             <l rend="i">Que dans le ventre elle avoit un trésor.</l>
             <l rend="i"> Il l’ouvrit dans cette croyance,</l>
@@ -67,6 +71,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

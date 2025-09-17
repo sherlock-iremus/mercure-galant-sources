@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,21 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Ouvrage intitulé, <hi rend="i">la Langue</hi>]</head>
         <bibl><title>Mercure galant</title>, janvier 1707 [tome 1], p. 78-85.</bibl>
-        <p>Je dois adjoûter icy en vous parlant des Maistres de la langue, que s’il suffisoit d’avoir de l’esprit, du merite, beaucoup d’érudition, &amp; d’avoir fait imprimer plusieurs ouvrages de differens caracteres, dont on a fait plusieurs éditions avec l’applaudissement du public, Mr l’Abbé Bordelon pourroit esperer d’avoir place un jour dans cette Compagnie. Son premier Volume de l’ouvrage intitulé <hi rend="i">la Langue</hi>, a esté si bien reçu, tant en France, que dans les pays étrangers, qu’il n’a pû refuser, pour satisfaire à l’empressement du public, d’en faire un second volume. Il vient d’estre mis au jour. Je vous parlay dans ma lettre du mois d’Avril 1705. du premier volume, &amp; je vous entretins des vingt-sept Traitez qu’il contient. Le second Volume, sous un seul Traité, c’est <hi rend="i">la Langue de celuy qui fait attention</hi>, comprend trente-neuf sujets beaucoup plus considerables que ceux qui sont compris dans le premier volume, les voicy.</p>
+        <p>Je dois adjoûter icy en vous parlant des Maistres de la langue, que s’il suffisoit
+          d’avoir de l’esprit, du merite, beaucoup d’érudition, &amp; d’avoir fait imprimer
+          plusieurs ouvrages de differens caracteres, dont on a fait plusieurs éditions avec
+          l’applaudissement du public, Mr l’Abbé Bordelon pourroit esperer d’avoir place un jour
+          dans cette Compagnie. Son premier Volume de l’ouvrage intitulé <hi rend="i">la
+          Langue</hi>, a esté si bien reçu, tant en France, que dans les pays étrangers, qu’il n’a
+          pû refuser, pour satisfaire à l’empressement du public, d’en faire un second volume. Il
+          vient d’estre mis au jour. Je vous parlay dans ma lettre du mois d’Avril 1705. du premier
+          volume, &amp; je vous entretins des vingt-sept Traitez qu’il contient. Le second Volume,
+          sous un seul Traité, c’est <hi rend="i">la Langue de celuy qui fait attention</hi>,
+          comprend trente-neuf sujets beaucoup plus considerables que ceux qui sont compris dans le
+          premier volume, les voicy.</p>
         <quote>
           <p>I. <hi rend="i">Attentions sur les Sciences &amp; les Sçavans.</hi></p>
           <p>II. <hi rend="i">Attentions sur les Auteurs &amp; les livres.</hi></p>
@@ -60,8 +70,14 @@
           <p>XXXVIII. <hi rend="i">Attentions sur le commerce de la vie civile.</hi></p>
           <p>XXXIX. <hi rend="i">Attentions sur differens sujets.</hi></p>
         </quote>
-        <p>Toutes ces attentions comprennent des sentimens, des maximes, des avis, des pratiques, &amp;c. traitez avec beaucoup de délicatesse &amp; de solidité, &amp; on peut dire que tout y est nouveau ; aussi n’y trouverez-vous aucune citation, de maniere que ce livre est veritablement utile &amp; agreable. Vous sçavez que le premier Volume est augmenté d’une estampe fort curieuse &amp; d’une lettre critique sur ce qui a esté dit pour &amp; contre cet ouvrage. Les deux Volumes se vendent chez Urbain Coustelier, ruë S. Jacques, &amp; chez Claude Prud’homme au Palais.</p>
+        <p>Toutes ces attentions comprennent des sentimens, des maximes, des avis, des pratiques,
+          &amp;c. traitez avec beaucoup de délicatesse &amp; de solidité, &amp; on peut dire que
+          tout y est nouveau ; aussi n’y trouverez-vous aucune citation, de maniere que ce livre est
+          veritablement utile &amp; agreable. Vous sçavez que le premier Volume est augmenté d’une
+          estampe fort curieuse &amp; d’une lettre critique sur ce qui a esté dit pour &amp; contre
+          cet ouvrage. Les deux Volumes se vendent chez Urbain Coustelier, ruë S. Jacques, &amp;
+          chez Claude Prud’homme au Palais.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>La Renommée à Monseigneur le Dauphin</head>
         <bibl><title>Mercure galant</title>, mai 1678 [tome 5], p. 245-252.</bibl>
-        <p>Monseigneur le Dauphin, dont les grandes qualitez se font tous les jour admirer de plus en plus, continuë ses Exercices avec des progrés incroyables. Cette matiere, si digne d’ocuper les meilleures Plumes, a fourny de nouvelles idées à M<hi rend="sup">r</hi> du Mata-d’Emery. Il a déja fait parler si agreablement les Chevaux de Manege dont ce jeune Prince se sert, que vous pouvez vous promettre beaucoup de plaisir de ce qu’il fait dire à la Renommée. Un peu d’audience. Vous ne serez pas fâchée de l’écouter.</p>
+        <p>Monseigneur le Dauphin, dont les grandes qualitez se font tous les jour admirer de plus
+          en plus, continuë ses Exercices avec des progrés incroyables. Cette matiere, si digne
+          d’ocuper les meilleures Plumes, a fourny de nouvelles idées à M<hi rend="sup">r</hi> du
+          Mata-d’Emery. Il a déja fait parler si agreablement les Chevaux de Manege dont ce jeune
+          Prince se sert, que vous pouvez vous promettre beaucoup de plaisir de ce qu’il fait dire à
+          la Renommée. Un peu d’audience. Vous ne serez pas fâchée de l’écouter.</p>
         <quote rend="border">
           <label rend="center">LA<lb/>RENOMMÉE<lb/>À MONSEIGNEUR<lb/>LE DAUPHIN.</label>
           <lg>
@@ -80,10 +84,8 @@
           <lg>
             <l rend="i">Que mille Peuples inouïs,</l>
             <l rend="i">Dont les mœurs sont les plus farouches</l>
-            <l>
-              <hi rend="i">Apprennent le Nom de</hi>
-              <hi rend="sc">Loüis,</hi>
-            </l>
+            <l><hi rend="i">Apprennent le Nom de</hi>
+              <hi rend="sc">Loüis,</hi></l>
             <l rend="i">Par ce qu’en diront tes cent bouches.</l>
           </lg>
           <ab type="ornament">***</ab>
@@ -172,6 +174,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

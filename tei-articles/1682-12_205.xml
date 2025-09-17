@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,20 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Devises à Chatillon sur Seine]</head>
         <bibl><title>Mercure galant</title>, décembre 1682 [tome 14], p. 205-210.</bibl>
-        <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : Le Feu doit regarder la page 210.</note>
-        <p>[...] Ces Tours exprimoient les Armes de Chastillon. Les quatre Amours que la Ville témoignoit luy consacrer, estoient l’Amour de la Fidelité, ayant aupres de luy un Chien pour simbole ; l’Amour de la Gloire, portant une Couronne de Laurier sur sa teste, avec une branche à la main ; l’Amour de la Religion, appuyé sur une Autel ; &amp; l’Amour de la Paix, tenant une branche d’Olivier, &amp; ayant à ses pieds des Armes brisées. On lisoit ces Vers aux quatre faces du Piédestal.</p>
+        <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : Le Feu
+          doit regarder la page 210.</note>
+        <p>[...] Ces Tours exprimoient les Armes de Chastillon. Les quatre Amours que la Ville
+          témoignoit luy consacrer, estoient l’Amour de la Fidelité, ayant aupres de luy un Chien
+          pour simbole ; l’Amour de la Gloire, portant une Couronne de Laurier sur sa teste, avec
+          une branche à la main ; l’Amour de la Religion, appuyé sur une Autel ; &amp; l’Amour de la
+          Paix, tenant une branche d’Olivier, &amp; ayant à ses pieds des Armes brisées. On lisoit
+          ces Vers aux quatre faces du Piédestal.</p>
         <quote>
-          <label>SUR LES CLEFS QUE<lb/>la Ville présentoit à Monseigneur le Duc de Bourgogne.</label>
+          <label>SUR LES CLEFS QUE<lb/>la Ville présentoit à Monseigneur le Duc de
+            Bourgogne.</label>
           <lg>
             <l rend="i">Prince, cette Ville fidelle</l>
             <l rend="i">Te consacre ces quatre Amours,</l>
@@ -42,7 +48,8 @@
             <l rend="i">Déja tremblant sous ta puissance,</l>
             <l rend="i">Il te connoist dés le Berceau.</l>
           </lg>
-          <label>SUR LE LYON QUI<lb/>estoit de l’autre costé, aux<lb/>pieds du mesme Berceau.</label>
+          <label>SUR LE LYON QUI<lb/>estoit de l’autre costé, aux<lb/>pieds du mesme
+            Berceau.</label>
           <lg>
             <l rend="i">Tes cris, &amp; le bruit de ton Nom,</l>
             <l rend="i">Eclatant par toute la Terre,</l>
@@ -51,7 +58,9 @@
           </lg>
         </quote>
         <p/>
-        <p>Les quatre faces du Théatre estoient ornées de Devises, avec quatre Vers au bas de chacune. Au milieu de la premiere, on avoit représenté un Soleil levant, éclipsant les autres Astres. Ces mots servoient d’ame à la Devise, <hi rend="sc">Unius ortu</hi>.</p>
+        <p>Les quatre faces du Théatre estoient ornées de Devises, avec quatre Vers au bas de
+          chacune. Au milieu de la premiere, on avoit représenté un Soleil levant, éclipsant les
+          autres Astres. Ces mots servoient d’ame à la Devise, <hi rend="sc">Unius ortu</hi>.</p>
         <quote>
           <lg>
             <l rend="i">Fuyez, Ennemis de la France,</l>
@@ -61,7 +70,8 @@
           </lg>
         </quote>
         <p/>
-        <p>Au milieu de l’autre face, estoit peint un Aigle présentant son Aiglon au Soleil, avec cette Inscription, <hi rend="sc">Probatque tuendo</hi>.</p>
+        <p>Au milieu de l’autre face, estoit peint un Aigle présentant son Aiglon au Soleil, avec
+          cette Inscription, <hi rend="sc">Probatque tuendo</hi>.</p>
         <quote>
           <lg>
             <l rend="i">Cet Enfant tout brillant d’appas,</l>
@@ -71,7 +81,8 @@
           </lg>
         </quote>
         <p/>
-        <p>Au milieu de la troisiéme, on avoit tracé un Soleil formant son Parélie, avec ces mots, <hi rend="sc">Par si durabit imago</hi>.</p>
+        <p>Au milieu de la troisiéme, on avoit tracé un Soleil formant son Parélie, avec ces mots,
+            <hi rend="sc">Par si durabit imago</hi>.</p>
         <quote>
           <lg>
             <l rend="i"> Les Héros seront effacez.</l>
@@ -91,6 +102,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

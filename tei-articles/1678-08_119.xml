@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Autres Vers sur des Fleurs]</head>
         <bibl><title>Mercure galant</title>, août 1678 [tome 8], p. 119.</bibl>
-        <p>Je ne dois pas oublier ces autres Vers qui ont esté faits à Rennes, sur ce qu’une aimable Personne avoit mis dans son sein des fleurs qu’elle venoit de cüeillir.</p>
+        <p>Je ne dois pas oublier ces autres Vers qui ont esté faits à Rennes, sur ce qu’une aimable
+          Personne avoit mis dans son sein des fleurs qu’elle venoit de cüeillir.</p>
         <quote>
           <lg>
             <l rend="i">Belles Fleurs qu’en mourant vous me donnez d’envie !</l>
@@ -31,6 +31,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

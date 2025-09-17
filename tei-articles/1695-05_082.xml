@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Imitation d’une Ode d’Horace]</head>
         <bibl><title>Mercure galant</title>, mai 1695 [tome 5], p. 82-85.</bibl>
-        <p>Voicy d’autres Vers, faits par un Abbé qui n’a pas moins de genie pour la Poësie Françoise que pour la Latine.</p>
+        <p>Voicy d’autres Vers, faits par un Abbé qui n’a pas moins de genie pour la Poësie
+          Françoise que pour la Latine.</p>
         <quote>
-          <label>IMITATION DE L’ODE<lb/>d’Horace qui commence par,<lb/><hi rend="i">Quem tu Melpomene semel.</hi></label>
+          <label>IMITATION DE L’ODE<lb/>d’Horace qui commence par,<lb/><hi rend="i">Quem tu
+              Melpomene semel.</hi></label>
           <lg>
             <l rend="i"> Scavante Muse de la Scene,</l>
             <l rend="i"> Sage &amp; divine Melpomene,</l>
@@ -53,6 +54,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

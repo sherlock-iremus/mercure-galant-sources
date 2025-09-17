@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Explication de la mesme Enigme]</head>
         <bibl><title>Mercure galant</title>, janvier 1678 [tome 1], p. 237-241.</bibl>
-        <p>Je ne vous parle point d’un Solitaire du Païs du Maine, d’un autre de Saint Giraud, d’une Demoiselle de Troyes, &amp; de quantité de Personnes de plusieurs Villes diférentes qui ont aussi connu que les Vers de cette Enigme ne signifioient rien autre chose que <hi rend="i">le premier Jour de l’Année</hi>. En voicy l’Explication par d’autres Vers dont vous trouverez le tour aussi aisé qu’agreable. Ils sont de M<hi rend="sup">r</hi> Couture de Caën.</p>
+        <p>Je ne vous parle point d’un Solitaire du Païs du Maine, d’un autre de Saint Giraud, d’une
+          Demoiselle de Troyes, &amp; de quantité de Personnes de plusieurs Villes diférentes qui
+          ont aussi connu que les Vers de cette Enigme ne signifioient rien autre chose que <hi rend="i">le premier Jour de l’Année</hi>. En voicy l’Explication par d’autres Vers dont
+          vous trouverez le tour aussi aisé qu’agreable. Ils sont de M<hi rend="sup">r</hi> Couture
+          de Caën.</p>
         <quote>
           <lg>
             <l><space/><space/>CEtte Enigme si bien tournée</l>
@@ -52,8 +55,9 @@
             <l><space/><space/>Ce sont tous les Siecles passez.</l>
           </lg>
         </quote>
-        <p>Ce n’est pas la seule Explication qu’on m’ait envoyée en Vers, mais c’est la premiere que j’ay reçeuë, &amp; j’ay crû luy devoir la préference par cette raison.</p>
+        <p>Ce n’est pas la seule Explication qu’on m’ait envoyée en Vers, mais c’est la premiere que
+          j’ay reçeuë, &amp; j’ay crû luy devoir la préference par cette raison.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

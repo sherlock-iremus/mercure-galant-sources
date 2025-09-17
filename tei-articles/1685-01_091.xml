@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, janvier 1685 [tome 1], p. 91-92.</bibl>
         <p>On fait des Hyvers comme des Printemps. En voicy un d'un habile Maistre. Les paroles sont de M<hi rend="sup">r</hi> Diéreville.</p>
         <quote>
-          <label>AIR NOUVEAU.</label>
-          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence <hi rend="i">Par vos cris, mes petits Moutons</hi>, doit regarder la page 91.</note>
-          <lg>
-            <l rend="i">Par vos cris, mes petits Moutons,</l>
+          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence <hi rend="i">Par vos cris, mes petits Moutons</hi>, doit regarder la page 91.</note>
+          <lg><l rend="i">Par vos cris, mes petits Moutons,</l>
             <l rend="i">Vous accusez l'Hyver d'une rigueur cruelle,</l>
             <l rend="i">Lors qu'il vient vous forcer de quiter ces Valons</l>
             <l rend="i">Jusqu'au retour de la Saison nouvelle.</l>
@@ -32,8 +29,7 @@
             <l rend="i">Vous reviendrez bien-tost paître dans cette Plaine,</l>
             <l rend="i">Sans y trouver de changement ;</l>
             <l rend="i">Et moy, je ne suis pas certaine</l>
-            <l rend="i">D'y trouver encor mon Amant.</l>
-          </lg>
+            <l rend="i">D'y trouver encor mon Amant.</l></lg>
         </quote>
         <ref target="images/1685-01_091.JPG">
           <figure>
@@ -41,6 +37,6 @@
           </figure>
         </ref>
       </div>
-    </body>
+        </body>
   </text>
 </TEI>

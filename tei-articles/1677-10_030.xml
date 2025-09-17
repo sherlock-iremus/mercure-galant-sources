@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Rupture</head>
         <bibl><title>Le Nouveau Mercure galant</title>, octobre 1677 [tome VIII], p. 30-38.</bibl>
         <p>Il faut se faire de grands efforts pour se soûmettre de bonne grace à sa tyrannie, &amp; c’est une violence dont je doute que celuy qui a fait les Vers que je vous envoye s’accommodât aisément. Vous le connoissez. Il a plus d’esprit qu’il ne veut laisser croire qu’il en a, &amp; ce que vous allez lire vous persuadera sans peine qu’il tourne les choses finement. C’est tout ce que vous sçaurez de luy. Il a tellement peur que cette petite Piece ne vous le fasse croire trop libertin en amour, qu’il ne me l’a donnée qu’en me faisant promettre que je vous cacherois son nom.</p>
@@ -136,6 +135,6 @@
         </quote>
         <p>Si nostre Amy dont vous me demandez des nouvelles ne s’estoit pas fait une vertu d’aimer constamment, il se seroit épargné bien des chagrins, dont enfin il a esté récompensé. C’est une nouvelle à vous apprendre. La Belle qui sembloit avoir pour luy les froideurs dont il se plaignoit, n’affectoit cette fausse insensibilité, que pour l’engager à plus d’amour.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

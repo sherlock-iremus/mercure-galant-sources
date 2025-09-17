@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>La Pie &amp; le Pinçon, Fable.</head>
         <bibl><title>Mercure galant</title>, janvier 1678 [tome 1], p. 300-304.</bibl>
-        <p>J’avois une Histoire fort agreable à vous conter. Des Bergers &amp; des Bergeres galantes y ont part ; mais ma Lettre est déja si longue, &amp; je suis tellement pressé du temps, que vous ne l’aurez que dans celle du Mois de Fevrier. J’ajoûteray seulement icy, afin que vous ne vous plaigniez pas de moy, une petite Fable dont vous aimerez la moralité. Elle est de celuy qui a fait le Conte de Demosthene.</p>
+        <p>J’avois une Histoire fort agreable à vous conter. Des Bergers &amp; des Bergeres galantes
+          y ont part ; mais ma Lettre est déja si longue, &amp; je suis tellement pressé du temps,
+          que vous ne l’aurez que dans celle du Mois de Fevrier. J’ajoûteray seulement icy, afin que
+          vous ne vous plaigniez pas de moy, une petite Fable dont vous aimerez la moralité. Elle
+          est de celuy qui a fait le Conte de Demosthene.</p>
         <quote rend="border">
           <label rend="center">La Pie &amp; le Pinçon.</label>
           <label rend="center">Fable.</label>
@@ -51,8 +54,7 @@
             <l><space/><space/>Fait qu’aucun n’attente sur vous,</l>
             <l><space/><space/>Quand nostre douce voix invite</l>
             <l><space/><space/>À tendre des rets contre nous.</l>
-          </lg>
-          <lg>
+          </lg><lg>
             <l>Belles, quand par chagrin une Prude sans charmes</l>
             <l>Viendra vous insulter, &amp; dire sans raison</l>
             <l>Qu’on la voit à couvert de ces tendres alarmes</l>

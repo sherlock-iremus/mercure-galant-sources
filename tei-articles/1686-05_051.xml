@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,17 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>[Dix Madrigaux &amp; Sonnets faits sur la Statuë que M. le Duc de la Feüillade a fait élever à la Gloire du Roy]</head>
+    <body><div>
+        <head>[Dix Madrigaux &amp; Sonnets faits sur la Statuë que M. le Duc de la Feüillade a fait
+          élever à la Gloire du Roy]</head>
         <bibl><title>Mercure galant</title>, mai 1686 [tome 6], p. 51-65</bibl>
         <p/>
-        <p>On admire icy de plus en plus la magnifique Statuë que M<hi rend="sup">r</hi> le Duc de la Feüillade a fait élever à la gloire du Roy. La Relation de la Feste qui fut faite le jour qu’on la découvrit, ayant occupé la plus grande partie de ma derniere Lettre, je ne pûs trouver de place pour mettre les Vers que l’on me donna sur ce sujet. M<hi rend="sup">r</hi> Doujat, Doyen de l’Academie Françoise, a fait les deux Madrigaux que vous allez lire ; &amp; le Sonnet qui les suit, est de M<hi rend="sup">r</hi> le Clerc, de la mesme Academie.</p>
+        <p>On admire icy de plus en plus la magnifique Statuë que M<hi rend="sup">r</hi> le Duc de
+          la Feüillade a fait élever à la gloire du Roy. La Relation de la Feste qui fut faite le
+          jour qu’on la découvrit, ayant occupé la plus grande partie de ma derniere Lettre, je ne
+          pûs trouver de place pour mettre les Vers que l’on me donna sur ce sujet. M<hi rend="sup">r</hi> Doujat, Doyen de l’Academie Françoise, a fait les deux Madrigaux que vous allez
+          lire ; &amp; le Sonnet qui les suit, est de M<hi rend="sup">r</hi> le Clerc, de la mesme
+          Academie.</p>
         <quote>
           <label>SUR LA STATUE<lb/>DU ROY.<lb/><hi rend="i">MADRIGAL.</hi></label>
           <lg>
@@ -74,7 +79,8 @@
             <l rend="i">Par crainte ou par amour la soûmet à ses Loix.</l>
           </lg>
         </quote>
-        <p>Cet autre Madrigal est de M<hi rend="sup">r</hi> de Vertron, de l’Academie Royale d’Arles.</p>
+        <p>Cet autre Madrigal est de M<hi rend="sup">r</hi> de Vertron, de l’Academie Royale
+          d’Arles.</p>
         <quote>
           <label>A M<hi rend="sup">r</hi> LE MARESCHAL<lb/>Duc de la Feüillade.</label>
           <quote>
@@ -104,21 +110,18 @@
               <l rend="i">Console-toy d’avoir un Chef-d’œuvre de l’Art.</l>
             </lg>
           </quote>
-          <p>Ces autres Vers font connoistre ce que M<hi rend="sup">r</hi> le Duc de la Feüllade doit esperer, pour avoir fait ériger la Statuë du Roy.</p>
+          <p>Ces autres Vers font connoistre ce que M<hi rend="sup">r</hi> le Duc de la Feüllade
+            doit esperer, pour avoir fait ériger la Statuë du Roy.</p>
           <quote>
             <lg>
-              <label>
-                <hi rend="sc">Demande.</hi>
-              </label>
+              <label><hi rend="sc">Demande.</hi></label>
               <l rend="i">Quelle place aura dans l’Histoire</l>
               <l rend="i">L’incomparable d’Aubusson,</l>
               <l rend="i">Qui pour faire place à la Gloire,</l>
               <l rend="i">Démolit sa propre maison ?</l>
             </lg>
             <lg>
-              <label>
-                <hi rend="sc">Reponse.</hi>
-              </label>
+              <label><hi rend="sc">Reponse.</hi></label>
               <l rend="i">L’incomparable d’Aubusson,</l>
               <l rend="i">Pour avoir fait place à la Gloire,</l>
               <l rend="i">Aura place avec sa maison</l>
@@ -126,7 +129,8 @@
             </lg>
             <p>L’Oracle de la Place consulté par I. Carage</p>
           </quote>
-          <p>J’ajoûte deux autres Madrigaux. Le premier est de M<hi rend="sup">r</hi> de Valnay, &amp; l’autre de M<hi rend="sup">r</hi> Marcel.</p>
+          <p>J’ajoûte deux autres Madrigaux. Le premier est de M<hi rend="sup">r</hi> de Valnay,
+            &amp; l’autre de M<hi rend="sup">r</hi> Marcel.</p>
         </quote>
         <quote>
           <label>MADRIGAL.</label>
@@ -171,7 +175,8 @@
             <l rend="i">De LOUIS tout entier ils ne verront que l’ombre.</l>
           </lg>
         </quote>
-        <p>Je finis cette matiere par deux Ouvrages de M<hi rend="sup">r</hi> Ramonnet, de Nogent sur Seine.</p>
+        <p>Je finis cette matiere par deux Ouvrages de M<hi rend="sup">r</hi> Ramonnet, de Nogent
+          sur Seine.</p>
         <quote>
           <label>SONNET.</label>
           <lg>
@@ -222,6 +227,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

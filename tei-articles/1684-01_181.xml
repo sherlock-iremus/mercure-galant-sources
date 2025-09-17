@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Réponse de Madame des Houlieres à Mr le Duc de S. Aignan</head>
         <bibl><title>Mercure galant</title>, janvier 1684 [tome 1], p. 181-184.</bibl>
-        <p>Cette Réponse en a attiré une autre que j’ajoûte icy. Elle est encore de Madame des Houlieres.</p>
+        <p>Cette Réponse en a attiré une autre que j’ajoûte icy. Elle est encore de Madame des
+          Houlieres.</p>
         <quote>
           <label><hi rend="sc">Reponse de M</hi><hi rend="sup">e</hi><lb/>DES HOULLIERES,<lb/>A M<hi rend="sup">r</hi> le Duc de S. Aignan.</label>
           <lg>
@@ -66,6 +66,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

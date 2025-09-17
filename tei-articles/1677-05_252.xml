@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head resp="editor">Mort de l'Evêque de Maupeou et Dispute autour d’un Bracelet entre une Dame et un Cavalier</head>
         <bibl><title>Le Nouveau Mercure galant</title>, mai 1677 [tome III], p. 252-255</bibl>
         <p>L’Evesché de Chaalons est vacant par la mort de Monsieur de Maupeou, qui avoit esté Aumônier du Roy. Ce Prélat estoit d’une probité &amp; d’une bonté extraordinaire, tres-fidelle &amp; tres-passionné pour ses Amis. Il avoit perdu plusieurs Freres au service de Sa Majesté dans le Regiment des Gardes, où ils s’estoient tous distinguez par des actions éclatantes de valeur, comme la plûpart de ceux qui portent ce Nom ont fait &amp; font encor tous les jours, dans les Tribunaux où ils président avec une integrité digne de servir d’exemple à tous ceux qui veulent entrer dans les Emplois de la Robe.</p>

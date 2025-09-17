@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Sonnet]</head>
         <bibl><title>Mercure galant</title>, mars 1687 (première partie) [tome 4], p. 7-9</bibl>
-        <p>Le Sonnet qui suit est de M<hi rend="sup">r</hi> le Clerc, de l’Academie Françoise. C’est la Ville de Paris qui parle au Roy.</p>
+        <p>Le Sonnet qui suit est de M<hi rend="sup">r</hi> le Clerc, de l’Academie Françoise. C’est
+          la Ville de Paris qui parle au Roy.</p>
         <quote>
           <lg>
             <l rend="i">Que ton éloignement fit souffrir mon amour,</l>
@@ -37,7 +37,8 @@
           <lg>
             <l rend="i">Aujourd’huy que je puis joüir de tes regards,</l>
             <l rend="i">Que je trouve en toy seul tout l’éclat des Cesars,</l>
-            <l><hi rend="i">Ta presence</hi>, <hi rend="sc">Grand Roy</hi>, <hi rend="i">fait ma plus belle Feste.</hi></l>
+            <l><hi rend="i">Ta presence</hi>, <hi rend="sc">Grand Roy</hi>, <hi rend="i">fait ma
+                plus belle Feste.</hi></l>
           </lg>
           <ab type="ornament">***</ab>
           <lg>
@@ -47,6 +48,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

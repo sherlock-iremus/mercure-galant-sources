@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,22 +14,20 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Daphnis. Eglogue [Eloge sur la mort de Mr de Louvois]</head>
         <bibl><title>Mercure galant</title>, novembre 1691 [tome 11], p. 75-84.</bibl>
         <p/>
-        <p>Voicy un Eloge d’une autre nature. Un Mort illustre en a fourny le sujet à M<hi rend="sup">r</hi> de Combes qui estant de l’Assemblée de quelques Personnes de Lettres &amp; distinguées de Toulouse, s’y est acquis une estime generale, &amp; la réputation de l’un des Favoris du Parnasse. M<hi rend="sup">r</hi> de Louvois est l’illustre Mort dont je vous parle.</p>
+        <p>Voicy un Eloge d’une autre nature. Un Mort illustre en a fourny le sujet à M<hi rend="sup">r</hi> de Combes qui estant de l’Assemblée de quelques Personnes de Lettres
+          &amp; distinguées de Toulouse, s’y est acquis une estime generale, &amp; la réputation de
+          l’un des Favoris du Parnasse. M<hi rend="sup">r</hi> de Louvois est l’illustre Mort dont
+          je vous parle.</p>
         <quote>
           <label>DAPHNIS.<lb/><hi rend="i">EGLOGVE.</hi><lb/>DAMON, ACANTE.</label>
           <lg>
-            <label type="speaker">
-              <hi rend="i">DAMON.</hi>
-            </label>
+            <label type="speaker"><hi rend="i">DAMON.</hi></label>
             <l rend="i">Acante, qui receus des Muses de Sicile</l>
-            <l>
-              <hi rend="i">Les tendres chalumeaux du celebre Virgile ;</hi>
-            </l>
+            <l><hi rend="i">Les tendres chalumeaux du celebre Virgile ;</hi></l>
             <l rend="i">Toy, que chacun admire en ce sombre vallon,</l>
             <l rend="i">Autant que sur le Pinde on admire Apollon,</l>
             <l rend="i">Et dont les airs divins cent fois dans nos boccages</l>
@@ -38,9 +36,7 @@
             <l rend="i">Ce Pasteur si fameux, &amp; si cher à LOUIS ?</l>
           </lg>
           <lg>
-            <label type="speaker">
-              <hi rend="i">ACANTE.</hi>
-            </label>
+            <label type="speaker"><hi rend="i">ACANTE.</hi></label>
             <l rend="i">Damon, ne m’enfle point par ces vaines loüanges.</l>
             <l rend="i">A de simples Bergers elles semblent étranges.</l>
             <l rend="i">Si j’avois par mes soins merité les faveurs,</l>
@@ -57,9 +53,7 @@
             <l rend="i">C’est icy qu’on entend sa douce melodie</l>
             <l rend="i">Et naguere qu’errant en ces lieux desolez,</l>
             <l rend="i">Où je frapois les airs de mes cris redoublez,</l>
-            <l>
-              <hi rend="i">Dans un antre ecarté je trouvay les Naiades,</hi>
-            </l>
+            <l><hi rend="i">Dans un antre ecarté je trouvay les Naiades,</hi></l>
             <l rend="i">Les Faunes, les Silvains, Pan, &amp; les Oréades,</l>
             <l rend="i">Qui pleuroient le trépas de ce fameux Pasteur,</l>
             <l rend="i">Cent bestes oubliant leur premiere fureur,</l>
@@ -67,18 +61,14 @@
             <l rend="i">Accouroient pour oüir ces Deitez champestres.</l>
           </lg>
           <lg>
-            <label type="speaker">
-              <hi rend="i">DAMON.</hi>
-            </label>
+            <label type="speaker"><hi rend="i">DAMON.</hi></label>
             <l rend="i">Si tu veux repeter de si belles chansons,</l>
             <l rend="i">Je te donne à choisir la fleur de mes moutons.</l>
             <l rend="i">Ces feüillages épais, qu’un doux Zephire agite,</l>
             <l rend="i">Et le bruit des ruisseaux, tout à chanter t’invite.</l>
           </lg>
           <lg>
-            <label type="speaker">
-              <hi rend="i">ACANTE.</hi>
-            </label>
+            <label type="speaker"><hi rend="i">ACANTE.</hi></label>
             <l rend="i">Damon, je chanteray ; non pour le prix offert ;</l>
             <l rend="i">Mon cœur à l’interest ne fut jamais ouvert,</l>
             <l rend="i">Et je n’ay d’autre espoir, en poussant cette plainte,</l>
@@ -121,9 +111,7 @@
             <l rend="i">Et Daphnis en ces lieux fait redescendre Astrée.</l>
           </lg>
           <lg>
-            <label type="speaker">
-              <hi rend="i">DAMON.</hi>
-            </label>
+            <label type="speaker"><hi rend="i">DAMON.</hi></label>
             <l rend="i">Acante, les Bergers qui frequentent ces bords</l>
             <l rend="i">N’ont point de quoy payer tes celestes accords,</l>
             <l rend="i">Et je n’aime point tant le doux bruit des Fontaines,</l>
@@ -137,6 +125,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

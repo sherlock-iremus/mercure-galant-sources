@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Le Lyon amoureux. Fable de Mr Daubaine]</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1682 [tome XVII], p. 216-223.</bibl>
-        <p>
-          <hi rend="i">M<hi rend="sup">r</hi> Daubaine, dont vous connoissez l’heureux talent à faire des Vers, nous a expliqué en quoy consiste la veritable Amitié, par une Fable employée dans le dernier Extraordinaire. En voicy une autre de sa façon, qui ne vous paroîtra pas moins ingénieuse, sur l’aveuglement que l’amour nous cause.</hi>
-        </p>
+        <p><hi rend="i">M<hi rend="sup">r</hi> Daubaine, dont vous connoissez l’heureux talent à faire des Vers, nous a expliqué en quoy consiste la veritable Amitié, par une Fable employée dans le dernier Extraordinaire. En voicy une autre de sa façon, qui ne vous paroîtra pas moins ingénieuse, sur l’aveuglement que l’amour nous cause.</hi></p>
         <quote>
           <label>SUR LA QUESTION,<lb/>A quelles marques un veritable<lb/>Amant peut estre connu.<lb/><hi rend="i">LE LYON AMOVREVX.</hi><lb/>FABLE.</label>
           <lg>
@@ -151,6 +148,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

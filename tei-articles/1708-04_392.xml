@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,16 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>Conclusion</head>
-        <bibl><title>Mercure galant</title>, avril 1708 [tome 4], p. 392.</bibl>
-        <p/>
-        <quote>
-          <label>CONCLUSION.</label>
-          <p>Je crois que vous devez estre satisfaite de ma Lettre ; le grand nombre de matieres differentes qu’elle contient, doit plaire, à ceux qui veulent de la varieté : &amp; ceux qui aiment les Pieces d’Eloquence, les Sciences, la Galanterie, &amp; les Nouvelles de Guerre, y doivent trouver dequoy se satisfaire. Je suis, &amp;c.</p>
-          <p><hi rend="i">À Paris ce</hi> 30. <hi rend="i">Avril</hi> 1708.</p>
-        </quote>
-      </div>
-    </body>
+    <body><div>
+          <head>Conclusion</head>
+          <bibl><title>Mercure galant</title>, avril 1708 [tome 4], p. 392.</bibl>
+          <p/>
+          <quote>
+            <label>CONCLUSION.</label>
+            <p>Je crois que vous devez estre satisfaite de ma Lettre ; le grand nombre de matieres differentes qu’elle contient, doit plaire, à ceux qui veulent de la varieté : &amp; ceux qui aiment les Pieces d’Eloquence, les Sciences, la Galanterie, &amp; les Nouvelles de Guerre, y doivent trouver dequoy se satisfaire. Je suis, &amp;c.</p>
+            <p><hi rend="i">À Paris ce</hi> 30. <hi rend="i">Avril</hi> 1708.</p>
+          </quote>
+        </div>
+      </body>
   </text>
 </TEI>

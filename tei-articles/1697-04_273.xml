@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, avril 1697 [tome 4], p. 273-274.</bibl>
         <p>L'Air nouveau dont vous allez lire les paroles, est d'un fort habile Musicien.</p>
         <quote>
-          <label>AIR NOUVEAU.</label>
-          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air doit regarder la page 274.</note>
-          <lg>
-            <l rend="i">Ce ne sont plus tes feux, Amour mondain,</l>
+          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air doit regarder la page 274.</note>
+          <lg><l rend="i">Ce ne sont plus tes feux, Amour mondain,</l>
             <l rend="i">Dont je ressens la vive flâme,</l>
             <l rend="i">Ce sont les traits d'un feu divin,</l>
             <l rend="i">A qui j'abandonne mon ame.</l>
@@ -37,6 +34,6 @@
           </figure>
         </ref>
       </div>
-    </body>
+        </body>
   </text>
 </TEI>

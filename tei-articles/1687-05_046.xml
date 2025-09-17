@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[La Suson de M. de Vin]</head>
         <bibl><title>Mercure galant</title>, mai 1687 [tome 7], p. 46-50</bibl>
-        <p>On a beau faire, on cede toûjours à son panchant, &amp; ceux qui se trouvent obligez de le forcer, ne réüssissent jamais dans ce qui luy est contraire. La Suzon de M<hi rend="sup">r</hi> de Vin en est une preuve. Vous sçavez, Madame, qu’il traite agreablement les matieres qu’il choisit, &amp; que son nom est un seur garand de la beauté de tous ses ouvrages.</p>
+        <p>On a beau faire, on cede toûjours à son panchant, &amp; ceux qui se trouvent obligez de
+          le forcer, ne réüssissent jamais dans ce qui luy est contraire. La Suzon de M<hi rend="sup">r</hi> de Vin en est une preuve. Vous sçavez, Madame, qu’il traite
+          agreablement les matieres qu’il choisit, &amp; que son nom est un seur garand de la beauté
+          de tous ses ouvrages.</p>
         <quote>
           <label>SUSON.</label>
           <lg>
@@ -84,6 +86,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

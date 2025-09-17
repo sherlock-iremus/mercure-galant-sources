@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Sonnet du mesme à M. le Chancelier]</head>
         <bibl><title>Mercure galant</title>, janvier 1678 [tome 1], p. 198-200.</bibl>
-        <p>Vous avoüeriez, Madame, que quoy qu’il ne soit pas avantageux d’estre le dernier à parler sur une matiere si rebatüe déja par les plus éloquentes bouches de France, tant de Complimens qui ont devancé celuy-cy, ne luy ont rien fait perdre de sa grace. Je me contenteray d’y adjoûter un Sonnet que cet Illustre Académicien presenta à Monsieur le Tellier pour remercîment des Lettres qu’il avoit scellées.</p>
+        <p>Vous avoüeriez, Madame, que quoy qu’il ne soit pas avantageux d’estre le dernier à parler
+          sur une matiere si rebatüe déja par les plus éloquentes bouches de France, tant de
+          Complimens qui ont devancé celuy-cy, ne luy ont rien fait perdre de sa grace. Je me
+          contenteray d’y adjoûter un Sonnet que cet Illustre Académicien presenta à Monsieur le
+          Tellier pour remercîment des Lettres qu’il avoit scellées.</p>
         <quote rend="border">
           <label rend="center">À Monsieur</label>
           <label rend="center">le</label>
@@ -50,6 +53,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

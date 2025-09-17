@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,17 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Mort de M. de Marolles, Abbé de Villeloin]</head>
         <bibl><title>Mercure galant</title>, mars 1681 [tome 3], p. 37-38.</bibl>
         <p/>
-        <p>M<hi rend="sup">r</hi> de Marolles, qui a tant écrit, &amp; qui estoit Abbé de Villeloin &amp; de Beaugerais, est mort aussi depuis trois semaines. Il nous a donné la Traduction de tous les Poëtes Latins, &amp; les Impressions reïterées qu’il a falu faire de la plûpart, font assez connoistre combien ce Travail s’est trouvé utile. Tous ses Ouvrages se vendent chez le S<hi rend="sup">r</hi> de Luynes au Palais. Il a vécu un tres-grand nombre d’années, &amp; la derniere est venuë enfin pour luy.</p>
+        <p>M<hi rend="sup">r</hi> de Marolles, qui a tant écrit, &amp; qui estoit Abbé de Villeloin
+          &amp; de Beaugerais, est mort aussi depuis trois semaines. Il nous a donné la Traduction
+          de tous les Poëtes Latins, &amp; les Impressions reïterées qu’il a falu faire de la
+          plûpart, font assez connoistre combien ce Travail s’est trouvé utile. Tous ses Ouvrages se
+          vendent chez le S<hi rend="sup">r</hi> de Luynes au Palais. Il a vécu un tres-grand nombre
+          d’années, &amp; la derniere est venuë enfin pour luy.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

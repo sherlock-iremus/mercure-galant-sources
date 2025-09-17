@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,21 +14,17 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, octobre 1707 [première partie] [tome 10], p. 419.</bibl>
         <quote>
-          <label>AIR NOUVEAU.</label>
-          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par <hi rend="i">Quant à l'amour</hi>, doit regarder la page 420.</note>
-          <lg>
-            <l rend="i">Quant à l'amour je vous convie,</l>
+          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par <hi rend="i">Quant à l'amour</hi>, doit regarder la page 420.</note>
+          <lg><l rend="i">Quant à l'amour je vous convie,</l>
             <l rend="i">Vous m'en demandez des leçons ;</l>
             <l rend="i">Il ne faut pas tant de façons,</l>
             <l rend="i">Ayez-en seulement envie ;</l>
             <l rend="i">Amour sçaura bien vous former,</l>
-            <l rend="i">Aimez, aimez, &amp; vous sçaurez aimer.</l>
-          </lg>
+            <l rend="i">Aimez, aimez, &amp; vous sçaurez aimer.</l></lg>
         </quote>
         <ref target="images/1707-10a_419a.JPG">
           <figure>
@@ -36,6 +32,6 @@
           </figure>
         </ref>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

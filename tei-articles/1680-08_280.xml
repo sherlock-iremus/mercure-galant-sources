@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,31 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Ce qui s’est passé à l’Académie Françoise le jour de S. Loüis]</head>
         <bibl><title>Mercure galant</title>, août 1680 [tome 10], p. 280-293.</bibl>
-        <p>J’ay à vous parler d’un autre Panégyrique qui fut prononcé Dimanche dernier, jour de la Feste de S. Loüis Roy de France, en présence de M<hi rend="sup">rs</hi> de l’Académie Françoise. Vous sçavez, Madame, qu’ils ont accoûtumé ce jour-là de faire celébrer une Messe solemnelle dans la Chapelle du Louvre. M<hi rend="sup">r</hi> l’Abbé de la Montagne, qu’ils avoient prié de faire l’Eloge de ce grand Saint, y joignit celuy du Roy, &amp; employa de si brillantes couleurs dans ses diverses Peintures, que les Illustres qui l’écoutoient, n’eurent pas moins sujet d’admirer le tour éloquent qu’il donna à ses pensées, que ses pensées mesmes. On chanta pendant la Messe un Motet en Musique qui fut extrémement estimé. Il estoit de la composition de M<hi rend="sup">r</hi> Oudot, qui d’une commune voix passe maintenant pour un de nos meilleurs Maistres. Les Paroles du Motet estoient tirées de divers Pseaumes, dont les Versets estant joints les uns aux autres, à la mode des Centons, composent une Priere pour le Roy, en forme d’un nouveau Pseaume, où les plus considérables évenemens de nostre temps sont marquez, comme le soûlevement des principales Puissances de l’Europe contre le Roy, la rapidité inconcevable de ses Victoires, la Paix si glorieusement conclüe, &amp; dont il a prescrit les conditions à ses Ennemis, le Mariage mesme de Monseigneur le Dauphin, &amp; enfin les vœux de tous les Peuples pour de ce grand Roy. Il n’y a rien de plus ingénieux que cet Ouvrage. Aussi est-il de M<hi rend="sup">r</hi> Charpentier, l’un des plus celebres Membres de l’Académie Françoise. Il ne s’est pas contenté du Latin, il l’a encor expliqué en Vers d’une maniere presque inimitable, tant elle est serrée, précise &amp; magnifique. Je ne doute point, Madame, que vous ne fassiez le même jugement de l’un &amp; de l’autre de ces Ouvrages que je vous envoye.</p>
+        <p>J’ay à vous parler d’un autre Panégyrique qui fut prononcé Dimanche dernier, jour de la
+          Feste de S. Loüis Roy de France, en présence de M<hi rend="sup">rs</hi> de l’Académie
+          Françoise. Vous sçavez, Madame, qu’ils ont accoûtumé ce jour-là de faire celébrer une
+          Messe solemnelle dans la Chapelle du Louvre. M<hi rend="sup">r</hi> l’Abbé de la Montagne,
+          qu’ils avoient prié de faire l’Eloge de ce grand Saint, y joignit celuy du Roy, &amp;
+          employa de si brillantes couleurs dans ses diverses Peintures, que les Illustres qui
+          l’écoutoient, n’eurent pas moins sujet d’admirer le tour éloquent qu’il donna à ses
+          pensées, que ses pensées mesmes. On chanta pendant la Messe un Motet en Musique qui fut
+          extrémement estimé. Il estoit de la composition de M<hi rend="sup">r</hi> Oudot, qui d’une
+          commune voix passe maintenant pour un de nos meilleurs Maistres. Les Paroles du Motet
+          estoient tirées de divers Pseaumes, dont les Versets estant joints les uns aux autres, à
+          la mode des Centons, composent une Priere pour le Roy, en forme d’un nouveau Pseaume, où
+          les plus considérables évenemens de nostre temps sont marquez, comme le soûlevement des
+          principales Puissances de l’Europe contre le Roy, la rapidité inconcevable de ses
+          Victoires, la Paix si glorieusement conclüe, &amp; dont il a prescrit les conditions à ses
+          Ennemis, le Mariage mesme de Monseigneur le Dauphin, &amp; enfin les vœux de tous les
+          Peuples pour de ce grand Roy. Il n’y a rien de plus ingénieux que cet Ouvrage. Aussi
+          est-il de M<hi rend="sup">r</hi> Charpentier, l’un des plus celebres Membres de l’Académie
+          Françoise. Il ne s’est pas contenté du Latin, il l’a encor expliqué en Vers d’une maniere
+          presque inimitable, tant elle est serrée, précise &amp; magnifique. Je ne doute point,
+          Madame, que vous ne fassiez le même jugement de l’un &amp; de l’autre de ces Ouvrages que
+          je vous envoye.</p>
         <table>
           <row>
             <cell>
@@ -44,7 +64,8 @@
               <ab type="ornament">***</ab>
               <lg>
                 <l>21. v.7. <hi rend="i">Facta est pax in virtute tua,</hi></l>
-                <l>75. v.9. <hi rend="i">Auditum fecisti judicium, Terrae tremuit, &amp; quievit.</hi></l>
+                <l>75. v.9. <hi rend="i">Auditum fecisti judicium, Terrae tremuit, &amp;
+                    quievit.</hi></l>
                 <l>66. v.5. <hi rend="i">Quoniam judicas populos in aquitate,</hi></l>
                 <l>2. v.15. <hi rend="i">Beati omnes qui confidunt in te.</hi></l>
               </lg>
@@ -147,6 +168,6 @@
           </row>
         </table>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

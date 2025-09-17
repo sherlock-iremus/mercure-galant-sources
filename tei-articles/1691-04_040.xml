@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Feste universelle à l'honneur de Louis le Grand en maniere de petit Opera]</head>
         <bibl><title>Mercure galant</title>, avril 1691 [tome 4], p. 40-57.</bibl>
         <p/>
-        <p>Voicy une maniere de petit Opera, que l'Auteur intitule <hi rend="i">La Feste universelle à l'honneur de LOUIS LE GRAND</hi>. Vous reconnoistrez en le lisant qu'il n'est pas indigne de vostre approbation.</p>
+        <p>Voicy une maniere de petit Opera, que l'Auteur intitule <hi rend="i">La Feste universelle
+            à l'honneur de LOUIS LE GRAND</hi>. Vous reconnoistrez en le lisant qu'il n'est pas
+          indigne de vostre approbation.</p>
         <quote>
           <label type="speaker">MOMUS.</label>
           <lg>
@@ -173,7 +174,8 @@
             <l rend="i">Et la Lire est bien plus puissante</l>
             <l rend="i">Que le Sceptre des plus grands Rois.</l>
           </lg>
-          <label type="speaker">LES MUSES s'adressant à la Renommée qui survient, précédée par des Trompettes &amp; des Hautbois.</label>
+          <label type="speaker">LES MUSES s'adressant à la Renommée qui survient, précédée par des
+            Trompettes &amp; des Hautbois.</label>
           <lg>
             <l rend="i">Vous venez à propos, joignons-nous,</l>
             <l rend="i">Le concert en sera plus doux.</l>
@@ -402,6 +404,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

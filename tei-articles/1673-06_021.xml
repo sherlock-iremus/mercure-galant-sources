@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Autres Paroles mises en chant par M. Lambert]</head>
         <bibl><title>Le Mercure galant</title>,1673, tome VI, p. 21.</bibl>
-        <p>Je croy que les paroles suivantes ne vous déplairont pas, du moins m’ont elles paru tres-agreables dans la bouche de Monsieur Lambert qui les a mises en chant.</p>
+        <p>Je croy que les paroles suivantes ne vous déplairont pas, du moins m’ont elles paru
+          tres-agreables dans la bouche de Monsieur Lambert qui les a mises en chant.</p>
         <quote rend="border">
           <label rend="center b">Chanson.</label>
           <l><space/>AU doux bruit des ruisseaux,</l>
@@ -29,6 +29,6 @@
           <l>Mais je les quitterois, Philis, pour un baiser.</l>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

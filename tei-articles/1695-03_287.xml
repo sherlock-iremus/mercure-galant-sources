@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>[Livre sans nom]</head>
-        <bibl><title>Mercure galant</title>, mars 1695 [tome 3], p. 287-288.</bibl>
-        <p>On debite presentement un nouveau tome intitulé, <hi rend="i">le Livre sans nom</hi>, à peu prés du mesme stile que <hi rend="i">Arliquiniana</hi>, &amp; il semble avoir encore un plus grand succez, non-seulement à cause de quelques petites histoires qu’il contient, mais aussi parce qu’il est remply d’un grand nombre de Vers, &amp; sur tout de quelques Odes traduites ou imitées d’Horace, qu’on y lit avec plaisir.</p>
-      </div>
-    </body>
+    <body><div>
+          <head>[Livre sans nom]</head>
+          <bibl><title>Mercure galant</title>, mars 1695 [tome 3], p. 287-288.</bibl>
+          <p>On debite presentement un nouveau tome intitulé, <hi rend="i">le Livre sans nom</hi>, à peu prés du mesme stile que <hi rend="i">Arliquiniana</hi>, &amp; il semble avoir encore un plus grand succez, non-seulement à cause de quelques petites histoires qu’il contient, mais aussi parce qu’il est remply d’un grand nombre de Vers, &amp; sur tout de quelques Odes traduites ou imitées d’Horace, qu’on y lit avec plaisir.</p>
+        </div>
+      </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Madrigal]</head>
         <bibl><title>Mercure galant</title>, mars 1687 (première partie) [tome 4], p. 107-108</bibl>
         <p>Vous en trouverez une tres-ardente, quoy qu’en peu de mots, dans ce Madrigal de M<hi rend="sup">r</hi> Doujat, Doyen de l’Academie Françoise.</p>
@@ -32,6 +31,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

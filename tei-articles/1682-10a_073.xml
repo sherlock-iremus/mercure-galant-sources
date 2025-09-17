@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head resp="editor">Devises faites à Bézier.</head>
-        <bibl><title>Mercure galant</title>, octobre 1682 (première partie) [tome 11], p. 73-78.</bibl>
-        <p>La Figure choisie pour le dessein de ce Feu, estoit de l’invention de M<hi rend="sup">r</hi> le Pul, aussi bien que huit Devises qui ornoient les Piédestaux des Pyramides. J’ajoûte icy ces Devises avec l’explication qu’il en a faite.</p>
+        <bibl><title>Mercure galant</title>, octobre 1682 (première partie) [tome 11],
+          p. 73-78.</bibl>
+        <p>La Figure choisie pour le dessein de ce Feu, estoit de l’invention de M<hi rend="sup">r</hi> le Pul, aussi bien que huit Devises qui ornoient les Piédestaux des Pyramides.
+          J’ajoûte icy ces Devises avec l’explication qu’il en a faite.</p>
         <p/>
-        <p>La premiere avoit pour corps trois Fleurs-de-Lys, qui représentoient le Roy, Monseigneur le Dauphin, &amp; le jeune Prince. Ces paroles luy servoient d’ame,</p>
+        <p>La premiere avoit pour corps trois Fleurs-de-Lys, qui représentoient le Roy, Monseigneur
+          le Dauphin, &amp; le jeune Prince. Ces paroles luy servoient d’ame,</p>
         <quote>
           <lg>
             <l>
@@ -73,7 +75,8 @@
           </lg>
         </quote>
         <p/>
-        <p>La cinquiéme, un Aigle en l’air, portant la Foudre en son bec, &amp; deux Aiglons à terre qui le regardent, &amp; semblent commencer à voler,</p>
+        <p>La cinquiéme, un Aigle en l’air, portant la Foudre en son bec, &amp; deux Aiglons à terre
+          qui le regardent, &amp; semblent commencer à voler,</p>
         <quote>
           <lg>
             <l>
@@ -104,7 +107,8 @@
           </lg>
         </quote>
         <p/>
-        <p>La septiéme, un Lys soûtenu de sa Tige, d’où sort un Lys à demy épanoüy, &amp; plus bas un Bouton,</p>
+        <p>La septiéme, un Lys soûtenu de sa Tige, d’où sort un Lys à demy épanoüy, &amp; plus bas
+          un Bouton,</p>
         <quote>
           <lg>
             <l>
@@ -121,7 +125,8 @@
           </lg>
         </quote>
         <p/>
-        <p>La huitiéme, un Soleil qui en forme deux autres dans les nuages ; &amp; au dessous, le Globe de la Terre,</p>
+        <p>La huitiéme, un Soleil qui en forme deux autres dans les nuages ; &amp; au dessous, le
+          Globe de la Terre,</p>
         <quote>
           <lg>
             <l>
@@ -136,6 +141,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

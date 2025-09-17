@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>Romance sur l'air <hi rend="i">L’autre jour m’en allant promener, Ah ! mon mal vient que d’aimer</hi></head>
-        <bibl><title>Mercure galant</title>, mai 1696 [tome 5], p. 77-86.</bibl>
-        <p/>
-        <p>[...] comme la charmante Duchesse chez qui nous étions, m'avoit priée de luy faire des couplets sur un certain Air qu'elle aimoit fort, je luy fis <hi rend="i">Impromptu</hi> une maniere de Romance que je vous envoye, qui rouloit sur le mesme sujet que la conversation que nous avions euë.</p>
-        <quote>
+    <body><div>
+          <head>Romance sur l'air <hi rend="i">L’autre jour m’en allant promener, Ah ! mon mal vient que d’aimer</hi></head>
+          <bibl><title>Mercure galant</title>, mai 1696 [tome 5], p. 77-86.</bibl>
+          <p/>
+          <p>[...] comme la charmante Duchesse chez qui nous étions, m'avoit priée de luy faire des couplets sur un certain Air qu'elle aimoit fort, je luy fis <hi rend="i">Impromptu</hi> une maniere de Romance que je vous envoye, qui rouloit sur le mesme sujet que la conversation que nous avions euë.</p>
+          <quote>
           <label>ROMANCE,<lb/>SUR L'AIR</label>
           <label>L'autre jour m'allant promener,<lb/>Ah ! mon mal vient que d'aimer.</label>
           <lg>
@@ -103,8 +102,8 @@
             <l rend="i">Je prétens combattre à mon tour,</l>
             <l rend="i">Mais ce n'est pas la Ligue.</l>
           </lg>
-        </quote>
-      </div>
-    </body>
+          </quote>
+        </div>
+        </body>
   </text>
 </TEI>

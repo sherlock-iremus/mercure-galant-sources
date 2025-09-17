@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Plaintes de l’Eglise contre ses Enfans Rebelles</head>
-        <bibl><title>Mercure galant</title>, février 1686 (deuxième partie) [tome 3], p. 100-127</bibl>
+        <bibl><title>Mercure galant</title>, février 1686 (deuxième partie) [tome 3],
+          p. 100-127</bibl>
         <quote>
-          <label>
-            <hi rend="i">PLAINTE DE L’EGLISE<lb/>Contre ses Enfans Rebelles.</hi>
-          </label>
+          <label><hi rend="i">PLAINTE DE L’EGLISE<lb/>Contre ses Enfans Rebelles.</hi></label>
           <lg>
             <l> Vous qui semblez cherir la paix</l>
             <l>Du moins faites mieux voir que la Paix vous est chere,</l>
@@ -400,6 +398,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,20 +14,19 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>[Quatrain pour mettre au bas d’un Portrait]</head>
-        <bibl><title>Mercure galant</title>, août 1701 [tome 10], p. 187-188.</bibl>
-        <p>Les Vers qui suivent sont de M<hi rend="sup">r</hi> Mallement de Messange. La modestie de celuy pour qui ils ont esté faits, empêche l’Auteur de le nommer. Il veut designer par le nom d’Apelle, un des plus fameux Peintres de nostre siecle.</p>
-        <quote>
-          <lg>
-            <l rend="i">À peindre les Heros la main d’Apelle instruite,</l>
-            <l rend="i">De Nicandre à vos yeux expose icy les traits.</l>
-            <l rend="i">Voulez vous voir son cœur, &amp; sa sage conduite ?</l>
-            <l rend="i">Dans l’Histoire son bras les peint par ses beaux faits.</l>
-          </lg>
-        </quote>
-      </div>
-    </body>
+    <body><div>
+          <head>[Quatrain pour mettre au bas d’un Portrait]</head>
+          <bibl><title>Mercure galant</title>, août 1701 [tome 10], p. 187-188.</bibl>
+          <p>Les Vers qui suivent sont de M<hi rend="sup">r</hi> Mallement de Messange. La modestie de celuy pour qui ils ont esté faits, empêche l’Auteur de le nommer. Il veut designer par le nom d’Apelle, un des plus fameux Peintres de nostre siecle.</p>
+          <quote>
+            <lg>
+              <l rend="i">À peindre les Heros la main d’Apelle instruite,</l>
+              <l rend="i">De Nicandre à vos yeux expose icy les traits.</l>
+              <l rend="i">Voulez vous voir son cœur, &amp; sa sage conduite ?</l>
+              <l rend="i">Dans l’Histoire son bras les peint par ses beaux faits.</l>
+            </lg>
+          </quote>
+        </div>
+        </body>
   </text>
 </TEI>

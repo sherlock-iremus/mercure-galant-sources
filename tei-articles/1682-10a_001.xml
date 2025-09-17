@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,19 +14,27 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Devises]</head>
-        <bibl><title>Mercure galant</title>, octobre 1682 (première partie) [tome 11], p. 1-3.</bibl>
+        <bibl><title>Mercure galant</title>, octobre 1682 (première partie) [tome 11],
+          p. 1-3.</bibl>
         <p/>
-        <p>La grandeur du Roy estant montée au point où elle est, je croy, Madame, que vous n’estes pas surprise de l’empressement que chacun témoigne à travailler pour sa gloire. La matiere est assez ample pour occuper tout le monde ; mais quoy qu’on la trouve inépuisable dans les Ouvrages les plus étendus, il en est d’autres qui en trois paroles ne laissent pas d’exprimer beaucoup. C’est un avantage particulier aux Devises. Elles disent tout quand elles sont justes. M<hi rend="sup">r</hi> Bompart, S<hi rend="sup">r</hi> de Saint Victor, Clermontois, en a fait une que l’on estime beaucoup. Le corps est une Médaille qui représente un Soleil, avec ces mots,</p>
+        <p>La grandeur du Roy estant montée au point où elle est, je croy, Madame, que vous n’estes
+          pas surprise de l’empressement que chacun témoigne à travailler pour sa gloire. La matiere
+          est assez ample pour occuper tout le monde ; mais quoy qu’on la trouve inépuisable dans
+          les Ouvrages les plus étendus, il en est d’autres qui en trois paroles ne laissent pas
+          d’exprimer beaucoup. C’est un avantage particulier aux Devises. Elles disent tout quand
+          elles sont justes. M<hi rend="sup">r</hi> Bompart, S<hi rend="sup">r</hi> de Saint Victor,
+          Clermontois, en a fait une que l’on estime beaucoup. Le corps est une Médaille qui
+          représente un Soleil, avec ces mots,</p>
         <quote>
           <lg>
             <l rend="i">Da lumina Cœlo.</l>
           </lg>
         </quote>
         <p/>
-        <p>Le Portrait du Roy est dans le Revers. Il a la teste environnée de rayons, &amp; au dessous se lisent ces Vers,</p>
+        <p>Le Portrait du Roy est dans le Revers. Il a la teste environnée de rayons, &amp; au
+          dessous se lisent ces Vers,</p>
         <quote>
           <lg>
             <l rend="i">Sufficit hic terris.</l>
@@ -56,6 +64,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

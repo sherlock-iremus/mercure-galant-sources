@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Sur la Tontine</head>
         <bibl><title>Mercure galant</title>, décembre 1689 [tome 12], p. 295-297.</bibl>
         <p/>
-        <p>Je ne sçaurois mieux finir ce que j’avois à vous dire de cet Edit du Roy, que par de tres-agreables Vers qui courent là-dessus, de M<hi rend="sup">r</hi> le Pays. Tout le monde en demande des copies, &amp; on n’en doit pas estre surpris, puis que tout ce que l’on voit de luy a ce caractere aisé que chacun cherche, &amp; que peu de gens viennent à bout d’attraper.</p>
+        <p>Je ne sçaurois mieux finir ce que j’avois à vous dire de cet Edit du Roy, que par de
+          tres-agreables Vers qui courent là-dessus, de M<hi rend="sup">r</hi> le Pays. Tout le
+          monde en demande des copies, &amp; on n’en doit pas estre surpris, puis que tout ce que
+          l’on voit de luy a ce caractere aisé que chacun cherche, &amp; que peu de gens viennent à
+          bout d’attraper.</p>
         <quote>
           <label>SUR LA TONTINE.</label>
           <lg>
@@ -58,6 +61,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, octobre 1693 [tome 12], p. 20-21.</bibl>
         <p>Ce n'est pas seulement aux Devises que la grandeur du Roy donne lieu, sa bonté fournit une ample matiere aux Muses, &amp; ces Vers de M<hi rend="sup">r</hi> Isambert, mis en Musique par M<hi rend="sup">r</hi> de Gilliers, en sont une preuve.</p>
         <quote>
           <label>AIR NOUVEAU.<note resp="author" place="margin"><hi rend="i">La Chanson doit regarder la page 21.</hi></note></label>
-          <lg>
-            <l rend="i">LOUIS, le plus grand Roy du monde,</l>
+          <lg><l rend="i">LOUIS, le plus grand Roy du monde,</l>
             <l rend="i">Tout triomphant qu'il est sur la terre &amp; sur l'onde,</l>
             <l rend="i">Aux Ennemis vaincus veut accorder la Paix.</l>
             <l rend="i">Alliez, vostre Ligue, Alliez, vos projets</l>
@@ -31,8 +29,7 @@
             <l rend="i">Gardez-vous contre luy de vous liguer jamais.</l>
             <l rend="i">Louis, le plus grand Roy du monde,</l>
             <l rend="i">Tout triomphant qu'il est sur la terre &amp; sur l'onde,</l>
-            <l rend="i">Aux Ennemis vaincus veut accorder la Paix.</l>
-          </lg>
+            <l rend="i">Aux Ennemis vaincus veut accorder la Paix.</l></lg>
         </quote>
         <ref target="images/1693-10a_020.JPG">
           <figure>
@@ -40,6 +37,6 @@
           </figure>
         </ref>
       </div>
-    </body>
+        </body>
   </text>
 </TEI>

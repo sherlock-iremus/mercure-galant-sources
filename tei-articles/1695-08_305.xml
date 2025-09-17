@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, août 1695 [tome 8], p. 305.</bibl>
         <p>Je croy que vous serez contente de l'Air que vous trouverez icy noté.</p>
         <quote>
-          <label>AIR NOUVEAU.</label>
-          <note resp="author" place="margin">L’Air doit regarder la page 305.</note>
-          <lg>
-            <l rend="i">Assez &amp; trop long-temps, une importune absence</l>
+          <label>AIR NOUVEAU.</label><note resp="author" place="margin">L’Air doit regarder la page 305.</note>
+          <lg><l rend="i">Assez &amp; trop long-temps, une importune absence</l>
             <l rend="i">A troublé nos plus doux plaisirs.</l>
             <l rend="i">Il est temps, belle Iris, qu'enfin vôtre presence,</l>
             <l rend="i">Remplisse nos plus chers desirs.</l>
@@ -35,6 +32,6 @@
           </figure>
         </ref>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

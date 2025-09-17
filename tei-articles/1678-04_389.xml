@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,17 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, avril 1678 [tome 4], p. 389-390.</bibl>
-        <p>Ne cherchez plus d’ordre dans ma Lettre. Elle est déja longue, &amp; le dernier jour du Mois m’oblige à finir. Je ne veux pourtant pas oublier à vous faire part d’un Air qui est fort approuvé des Connoisseurs. Il est de M<hi rend="sup">r</hi> Berthet. Je vous laisse juger des Paroles.</p>
+        <p>Ne cherchez plus d’ordre dans ma Lettre. Elle est déja longue, &amp; le dernier jour du
+          Mois m’oblige à finir. Je ne veux pourtant pas oublier à vous faire part d’un Air qui est
+          fort approuvé des Connoisseurs. Il est de M<hi rend="sup">r</hi> Berthet. Je vous laisse
+          juger des Paroles.</p>
         <quote>
-          <label>AIR NOUVEAU.</label>
-          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : la Chanson qui commence par, <hi rend="i">La Tendresse</hi>, doit regarder la Page 389.</note>
+          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour
+              placer les Figures</hi> : la Chanson qui commence par, <hi rend="i">La Tendresse</hi>,
+            doit regarder la Page 389.</note>
           <lg>
             <l rend="i"><space/>La tendresse</l>
             <l rend="i"><space/>D’une Maistresse,</l>
@@ -48,6 +51,6 @@
           </figure>
         </ref>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

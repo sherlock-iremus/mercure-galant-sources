@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>La Vérité. Fable</head>
         <bibl><title>Mercure galant</title>, avril 1686 [tome 5], p. 63-72</bibl>
         <p/>
-        <p>La Fable qui suit a esté trouvée fort ingenieuse. Elle est d’un Gentilhomme de Marseille, dont je vous ay déja envoyé plusieurs Ouvrages galans, que vous avez leus avec plaisir. La Morale renfermée dans celuy-cy pourra estre utile à ceux qui voudront bien ne se point flater.</p>
+        <p>La Fable qui suit a esté trouvée fort ingenieuse. Elle est d’un Gentilhomme de Marseille,
+          dont je vous ay déja envoyé plusieurs Ouvrages galans, que vous avez leus avec plaisir. La
+          Morale renfermée dans celuy-cy pourra estre utile à ceux qui voudront bien ne se point
+          flater.</p>
         <quote>
           <label>LA VERITÉ.<lb/><hi rend="i">FABLE.</hi></label>
           <lg>
@@ -151,6 +153,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

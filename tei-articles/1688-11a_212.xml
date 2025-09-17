@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,18 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Poëme]</head>
-        <bibl><title>Mercure galant</title>, novembre 1688 (première partie) [tome 15], p. 212-213</bibl>
+        <bibl><title>Mercure galant</title>, novembre 1688 (première partie) [tome 15],
+          p. 212-213</bibl>
         <p/>
-        <p>Le 17. de ce mois, le Pere Sonning, Jesuite, Regent de la Seconde dans le College de Loüis le Grand, y fit prononcer un Poëme Heroïque de sa composition sur la Prise de cette importante Place. Il fut écouté avec beaucoup de plaisir, &amp; receut d’une assemblée fort nombreuse tous les applaudissemens qu’il pouvoit attendre. Il s’y trouva plusieurs personnes de qualité &amp; d’érudition. La Salle estoit fort illuminée, &amp; l’on y voyoit quantité d’Inscriptions &amp; de Devises à la gloire de Monseigneur le Dauphin.</p>
+        <p>Le 17. de ce mois, le Pere Sonning, Jesuite, Regent de la Seconde dans le College de
+          Loüis le Grand, y fit prononcer un Poëme Heroïque de sa composition sur la Prise de cette
+          importante Place. Il fut écouté avec beaucoup de plaisir, &amp; receut d’une assemblée
+          fort nombreuse tous les applaudissemens qu’il pouvoit attendre. Il s’y trouva plusieurs
+          personnes de qualité &amp; d’érudition. La Salle estoit fort illuminée, &amp; l’on y
+          voyoit quantité d’Inscriptions &amp; de Devises à la gloire de Monseigneur le Dauphin.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

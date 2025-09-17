@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head resp="editor">Impromptu.</head>
-        <bibl><title>Mercure galant</title>, septembre 1682 (deuxième partie) [tome 10], p. 86-87.</bibl>
+        <bibl><title>Mercure galant</title>, septembre 1682 (deuxième partie) [tome 10],
+          p. 86-87.</bibl>
         <p/>
-        <p>L’Inpromptu qui suit a esté fait par M l’Abbé Testu dans un Repas que donna Madame la Duchesse de Richelieu.</p>
+        <p>L’Inpromptu qui suit a esté fait par M l’Abbé Testu dans un Repas que donna Madame la
+          Duchesse de Richelieu.</p>
         <quote>
           <lg>
             <l rend="i">Du Fils, du Pere, &amp; du Grand-Pere,</l>
@@ -32,8 +33,9 @@
           </lg>
         </quote>
         <p/>
-        <p>L’Autheur de la Réponse à cet Inpromptu, n’a voulu marquer son nom que par ces trois lettres, M.D.S.</p>
+        <p>L’Autheur de la Réponse à cet Inpromptu, n’a voulu marquer son nom que par ces trois
+          lettres, M.D.S.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

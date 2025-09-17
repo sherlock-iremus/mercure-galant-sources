@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>Homere à Mademoiselle de Scudery, en luy envoyant une Agathe où sa Figure est en relief</head>
+    <body><div>
+        <head>Homere à Mademoiselle de Scudery, en luy envoyant une Agathe où sa Figure est en
+          relief</head>
         <bibl><title>Mercure galant</title>, juin 1686 [tome 7], p. 35-39</bibl>
         <quote>
-          <label>HOMERE<lb/>A MADEMOISELLE<lb/>DE SCUDERY,<lb/>En luy envoyant une Agathe<lb/>où sa Figure est en relief.</label>
+          <label>HOMERE<lb/>A MADEMOISELLE<lb/>DE SCUDERY,<lb/>En luy envoyant une Agathe<lb/>où sa
+            Figure est en relief.</label>
           <lg>
             <l rend="i">Si je pouvois, Sapho, m’éloigner de ces champs</l>
             <l rend="i">Que la Parque a peuplez de nos Manes errans,</l>
@@ -63,6 +64,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

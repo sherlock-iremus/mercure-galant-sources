@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Theses galantes. Adamante à Pirope</head>
         <bibl><title>Mercure galant</title>, février 1679 [tome 2], p. 131-141.</bibl>
         <p>Personne n’ignore que l’Amour est un grand Maistre ; mais quoy qu’il ait eu de tout temps beaucoup de Disciples, les Theses galantes que je vous envoye sont les premieres qu’on ait entrepris de soûtenir par Acte public. Ceux qui les voudront attaquer, seront reçeus, pourveu qu’ils ne fassent pas de longs discours. Il suffiroit d’un Madrigal sur tel Article qu’on voudra choisir pour entrer dans la Dispute. Vous en avertirez vos Amis.</p>
@@ -63,6 +62,6 @@
           <p>Que les Amans se consolent des plus grands malheurs qui leur arrivent, quand ces malheurs leur fournissent quelque moyen de témoigner leur amour à la Personne qu’ils aiment.</p>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

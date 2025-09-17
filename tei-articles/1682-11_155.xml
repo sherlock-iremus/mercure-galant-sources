@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Les Arbres choisis par les Dieux. Fable</head>
         <bibl><title>Mercure galant</title>, novembre 1682 [tome 13], p. 155-162.</bibl>
         <p/>
-        <p>Voicy une Fable nouvelle. Elle est de M<hi rend="sup">r</hi> du Ruisseau. Vous n’avez point encore oüy parler de cet Autheur, mais son esprit vous le fera bientost connoistre.</p>
+        <p>Voicy une Fable nouvelle. Elle est de M<hi rend="sup">r</hi> du Ruisseau. Vous n’avez
+          point encore oüy parler de cet Autheur, mais son esprit vous le fera bientost
+          connoistre.</p>
         <quote>
           <label>LES ARBRES<lb/>CHOISIS<lb/>PAR LES DIEUX.<lb/>FABLE.</label>
           <lg>
@@ -91,7 +92,8 @@
           </lg>
           <ab type="ornament">***</ab>
           <lg>
-            <l><hi rend="i">Minerve en rang ;</hi> Pourquoy, <hi rend="i">dit-elle à Iupiter,</hi></l>
+            <l><hi rend="i">Minerve en rang ;</hi> Pourquoy, <hi rend="i">dit-elle à
+              Iupiter,</hi></l>
             <l>Ne veut-on protéger que des Arbres stérile ?</l>
             <l>Les Fruitiers, <hi rend="i">dit Iupin,</hi> sont beaucoup plus utiles ;</l>
             <l>Mais, ma Fille, est-ce-là ce qui doit nous tenter ?</l>
@@ -115,6 +117,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

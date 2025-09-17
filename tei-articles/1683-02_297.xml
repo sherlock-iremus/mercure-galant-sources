@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>L’Inconstance justifiée. Sonnet</head>
         <bibl><title>Mercure galant</title>, février 1683 [tome 2], p. 297-299</bibl>
-        <p>Un galant Homme accusé d’estre Inconstant, parce qu’il a conté des discours à un grand nombre de Belles, a rendu raison de sa conduite par le Sonnet que je vous envoye.</p>
+        <p>Un galant Homme accusé d’estre Inconstant, parce qu’il a conté des discours à un grand
+          nombre de Belles, a rendu raison de sa conduite par le Sonnet que je vous envoye.</p>
         <quote>
           <label>L’INCONSTANCE<lb/><hi rend="sc">Justifiée</hi>.<lb/><hi rend="sc">Sonnet</hi>.</label>
           <lg>
@@ -37,7 +37,8 @@
           <ab type="ornament">***</ab>
           <lg>
             <l rend="i">De tant d’engagemens, tout le monde est surpris,</l>
-            <l><hi rend="i">Et blâme</hi> (<hi rend="i">mais à tort</hi>) <hi rend="i">le malheureux Tircis ;</hi></l>
+            <l><hi rend="i">Et blâme</hi> (<hi rend="i">mais à tort</hi>) <hi rend="i">le malheureux
+                Tircis ;</hi></l>
             <l rend="i">Guerir de ses erreurs n’est pas une inconstance.</l>
           </lg>
           <ab type="ornament">***</ab>
@@ -48,6 +49,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

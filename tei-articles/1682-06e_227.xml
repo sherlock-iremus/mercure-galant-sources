@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Six autres Sonnets de Messieurs Soyros, Foucault de Montfort-l’Amaury, du Druyde Lyonnois. &amp;c]</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1682 [tome XVII], p. 227-234.</bibl>
         <quote>
@@ -189,10 +188,8 @@
             <l><hi rend="i">C’est là tout ce qu’on peut &amp; desirer &amp;</hi> faire.</l>
           </lg>
         </quote>
-        <p>
-          <hi rend="i">Le Traité qui suit est de M<hi rend="sup">r</hi> Rault. C’est luy qui estoit l’Autheur de celuy que je vous envoyay il y a trois mois sur l’Origine de la Pourpre &amp; de l’Ecarlate.</hi>
-        </p>
+        <p><hi rend="i">Le Traité qui suit est de M<hi rend="sup">r</hi> Rault. C’est luy qui estoit l’Autheur de celuy que je vous envoyay il y a trois mois sur l’Origine de la Pourpre &amp; de l’Ecarlate.</hi></p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

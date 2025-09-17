@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Elégie</head>
         <bibl><title>Le Nouveau Mercure galant</title>, juin 1677 [tome IV], p. 227-238.</bibl>
         <p>Les belles choses estant belles en tout temps, je ne veux pas differer à vous faire part d’une Elegie qui vient de m’estre remise entre les mains, quoy qu’il y ait déja trois ou quatre ans qu’elle soit faite. Je sçay que l’Academie l’a fort estimée. Elle est de Monsieur le Duc de S. Aignan, &amp; je ne doute pas que ses Vers ne vous plaisent autant qu’a fait sa Prose dans les Lettres qu’il a écrites au Roy sur ses Conquestes. Il fit ceux-cy dans une Maison de Campagne proche du Havre, sur une affaire particuliere qui luy arriva. On a eu peine à les recouvrer, parce qu’ayant brûlé presque tous ses Ouvrages, on n’a pû conserver que ceux qu’on a trouvé moyen de luy dérober en les copiant.</p>
@@ -116,10 +115,9 @@
           <l>Mais il faut bien penser à ce que nous ferons,</l>
           <l>Regler nos sentiments par ce que nous sçaurons,</l>
           <l>Et suivant les conseils que la raison inspire,</l>
-          <l>Voir, écouter beaucoup, agir &amp; ne rien dire.</l>
-        </lg>
+          <l>Voir, écouter beaucoup, agir &amp; ne rien dire.</l></lg>
         <p>L’Illustre Duc qui a fait ces Vers, est retourné depuis peu dans son Gouvernement, pour appliquer ses soins à ce qui regarde le service du Roy avec le mesme zele qu’il a fait les années dernieres.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

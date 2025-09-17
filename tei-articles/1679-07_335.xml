@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Air italien</head>
         <bibl><title>Mercure galant</title>, juillet 1679 [tome 7], p. 335.</bibl>
-        <p>Comme vous m’avez témoigné que les Airs Italiens vous plaisent, je vous en envoye un qui est fort au goust des Connoisseurs. Il est du dernier Opéra que la Reyne de Suede a fait représenter à Rome<note resp="editor">L'attribution usuelle, ici sous-entendue, à Luigi Rossi, est erronée. Une note de Christophe Ballard dans son <hi rend="italic">Recueil d'airs sérieux et à boire de différents auteurs pour l'année 1701</hi> (Paris, Christophe Ballard, 1701, août, p. [2]) attribue sans ambiguité cet air (qui figure à la p. 156) à La Barre.</note>.</p>
+        <p>Comme vous m’avez témoigné que les Airs Italiens vous plaisent, je vous en envoye un qui
+          est fort au goust des Connoisseurs. Il est du dernier Opéra que la Reyne de Suede a fait
+          représenter à Rome<note resp="editor">L'attribution usuelle, ici sous-entendue, à Luigi Rossi, est erronée. Une note de Christophe Ballard dans son <hi rend="italic">Recueil d'airs sérieux et à boire de différents auteurs pour l'année 1701</hi> (Paris, Christophe Ballard, 1701, août, p. [2]) attribue sans ambiguité cet air (qui figure à la p. 156) à La Barre.</note>.</p>
         <quote>
-          <label type="head">AIR ITALIEN.</label>
-          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air Italien doit regarder la page 335.</note>
+          <label type="head">AIR ITALIEN.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air Italien doit regarder la page 335.</note>
           <lg>
             <l rend="i">Due labra di rose</l>
             <l rend="i">Fan guerra al mio core,</l>
@@ -44,6 +44,6 @@
           </figure>
         </ref>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

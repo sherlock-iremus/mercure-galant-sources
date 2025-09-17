@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Response d’une Demoiselle à qui on conseille d’aimer</head>
         <bibl><title>Mercure galant</title>, novembre 1687 [tome 16], p. 44-48</bibl>
         <p/>
-        <p>Je vous envoye de tres-jolis Vers, dont l’Autheur ne m’est point connu. Je ne sçay pourquoy il cache son nom, puis qu’ils sont si bien tournez, qu’il n’y a personne qui ne deust faire gloire de les avoüer.</p>
+        <p>Je vous envoye de tres-jolis Vers, dont l’Autheur ne m’est point connu. Je ne sçay
+          pourquoy il cache son nom, puis qu’ils sont si bien tournez, qu’il n’y a personne qui ne
+          deust faire gloire de les avoüer.</p>
         <quote>
           <label>RESPONSE<lb/>d’une Demoiselle à qui on conseille d’aimer.<lb/><hi rend="i">STANCES.</hi></label>
           <lg>
@@ -86,6 +87,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

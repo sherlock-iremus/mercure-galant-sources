@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,19 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Chanson</head>
         <bibl><title>Mercure galant</title>, novembre 1682 [tome 13], p. 242-243.</bibl>
-        <p>Voicy une Chanson dont les paroles ne vous sont pas inconnuës <note resp="editor">L'attribution des vers à M. Daubaine est due à leur première publication dans <ref target="MG-1681-11_113">cet article</ref>.</note>. Je vous les envoyay au commencement de l’Hyver dernier, notées par un habile Maistre. Elles ont paru si belles au fameux M<hi rend="sup">r</hi> Dambrüis, qu’il les a mises aussi en Air depuis peu de jours. Comme il est difficile de mieux réüssir que luy pour les choses dont il se mesle, je croy que vous me serez obligée du soin que je prens de vous faire part de son Ouvrage.</p>
+        <p>Voicy une Chanson dont les paroles ne vous sont pas inconnuës <note resp="editor">L'attribution des vers à M. Daubaine est due à leur première publication dans <ref target="MG-1681-11_113">cet article</ref>.</note>. Je vous les envoyay au
+          commencement de l’Hyver dernier, notées par un habile Maistre. Elles ont paru si belles au
+          fameux M<hi rend="sup">r</hi> Dambrüis, qu’il les a mises aussi en Air depuis peu de
+          jours. Comme il est difficile de mieux réüssir que luy pour les choses dont il se mesle,
+          je croy que vous me serez obligée du soin que je prens de vous faire part de son
+          Ouvrage.</p>
         <quote>
-          <label>CHANSON.</label>
-          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : la Chanson qui commence par <hi rend="i">On peut encor dans la Prairie</hi>, doit regarder la page 243.</note>
+          <label>CHANSON.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer
+              les Figures</hi> : la Chanson qui commence par <hi rend="i">On peut encor dans la
+              Prairie</hi>, doit regarder la page 243.</note>
           <lg>
             <l rend="i">On peut encor dans la Prairie</l>
             <l rend="i">Mener quelquefois son Troupeau,</l>
@@ -39,6 +44,6 @@
           </figure>
         </ref>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

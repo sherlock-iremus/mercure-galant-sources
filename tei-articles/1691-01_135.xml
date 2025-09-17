@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,18 +14,20 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>A Messieurs de l’Academie Françoise</head>
         <bibl><title>Mercure galant</title>, janvier 1691 [tome 1], p. 135-145.</bibl>
         <p/>
-        <p>J’ay tort, Madame, &amp; vous avez raison de vous plaindre, de ce que sçachant combien vous estimez tout ce qui part de la Plume de M<hi rend="sup">r</hi> Perrault, je ne vous ay pas envoyé les Vers qu’il fit l’Automne dernier pendant qu’il estoit à Troyes, &amp; qu’il adressa à M<hi rend="sup">rs</hi> de l’Academie Françoise. Puis qu’ils sont encore nouveaux pour vous, je répare avec beaucoup de plaisir la negligence dont vous m’accusez.</p>
+        <p>J’ay tort, Madame, &amp; vous avez raison de vous plaindre, de ce que sçachant combien
+          vous estimez tout ce qui part de la Plume de M<hi rend="sup">r</hi> Perrault, je ne vous
+          ay pas envoyé les Vers qu’il fit l’Automne dernier pendant qu’il estoit à Troyes, &amp;
+          qu’il adressa à M<hi rend="sup">rs</hi> de l’Academie Françoise. Puis qu’ils sont encore
+          nouveaux pour vous, je répare avec beaucoup de plaisir la negligence dont vous
+          m’accusez.</p>
         <quote>
           <label>A MESSIEURS<lb/>DE L’ACADEMIE<lb/>FRANÇOISE<lb/><hi rend="i">ODE.</hi></label>
           <lg>
-            <l>
-              <hi rend="i">Illustre &amp; docte Compagnie,</hi>
-            </l>
+            <l><hi rend="i">Illustre &amp; docte Compagnie,</hi></l>
             <l rend="i">Où les richesses du sçavoir</l>
             <l rend="i">Et les dons sacrez du genie</l>
             <l rend="i">Au plus haut degré se font voir ;</l>
@@ -147,9 +149,7 @@
             <l rend="i">A qui dés sa plus tendre enfance</l>
             <l rend="i">Le soin du bonheur de la France</l>
             <l rend="i">A de ta part esté commis,</l>
-            <l>
-              <hi rend="i">Que seul tu charges de ta cause,</hi>
-            </l>
+            <l><hi rend="i">Que seul tu charges de ta cause,</hi></l>
             <l rend="i">Que seul ta providence oppose</l>
             <l rend="i">Aux efforts de tes Ennemis.</l>
             <l rend="i"> Pour montrer à toute la Terre</l>
@@ -234,6 +234,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

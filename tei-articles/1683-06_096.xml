@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Le Loup, et la Brebis. Fable</head>
         <bibl><title>Mercure galant</title>, juin 1683 [tome 6], p. 96-101.</bibl>
-        <p>Vous vous plaignez de n’avoir point veu de Fables dans mes Lettres depuis quelque temps. En voicy une dont la Morale pourra estre utile à quelques Belles que vous connoissez.</p>
+        <p>Vous vous plaignez de n’avoir point veu de Fables dans mes Lettres depuis quelque temps.
+          En voicy une dont la Morale pourra estre utile à quelques Belles que vous connoissez.</p>
         <quote>
           <label>LE LOUP,<lb/>ET LA BREBIS.<lb/>FABLE.</label>
           <lg>
@@ -94,6 +94,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head resp="editor">Sonnet de M. de la Porte</head>
         <bibl><title>Mercure galant</title>, février 1687 [tome 3], p. 187-189</bibl>
-        <p>Je finis par un Sonnet de M<hi rend="sup">r</hi> de la Porte, qui a esté presenté au Roy, &amp; qui a receu beaucoup d’applaudissemens. Il contient les principales actions de ce Monarque.</p>
+        <p>Je finis par un Sonnet de M<hi rend="sup">r</hi> de la Porte, qui a esté presenté au Roy,
+          &amp; qui a receu beaucoup d’applaudissemens. Il contient les principales actions de ce
+          Monarque.</p>
         <quote>
           <lg>
             <l rend="i">Foudroyer la Hollande, humilier l’Espagne,</l>
@@ -47,6 +48,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

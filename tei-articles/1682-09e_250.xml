@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Sentimens sur les Questions proposées dans le dernier Extraordinaire</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet <date>1682</date> (<biblScope unit="volume">[tome XIX]</biblScope>), <biblScope unit="page">p. 250-257</biblScope>.</bibl>
         <quote>
@@ -145,6 +144,6 @@
           <p><hi rend="sc">Daubaine</hi>.</p>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

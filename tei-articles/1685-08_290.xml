@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Relation contenant ce qui s'est passé pendant le sejour que Monseigneur le Dauphin a fait à Annet]</head>
         <bibl><title>Mercure galant</title>, août 1685 [tome 8], p. 290-296</bibl>
         <p/>
@@ -52,6 +51,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+        </body>
   </text>
 </TEI>

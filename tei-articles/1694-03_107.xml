@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,22 +14,21 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>[Madrigal sur le mesme sujet]</head>
-        <bibl><title>Mercure galant</title>, mars 1694 [tome 3], p. 107.</bibl>
-        <p>Cette réponse de Mademoiselle de Scudery, a donné lieu à M<hi rend="sup">r</hi> de Boisquillon, tres-digne Academicien de l’Academie de Soissons, de luy adresser ce Madrigal.</p>
-        <quote>
-          <lg>
-            <l rend="i"> De ces Eloges éclatans</l>
-            <l rend="i"> Vous avez beau combler le Temps ;</l>
-            <l rend="i"> Contre luy je suis en colere.</l>
-            <l rend="i">Sapho, loin de passer d’une aile si legere,</l>
-            <l rend="i">Il devroit s’arrester sur cent faits inouïs.</l>
-            <l rend="i">Peut-il mieux s’employer qu’à celebrer LOUIS ?</l>
-          </lg>
-        </quote>
-      </div>
-    </body>
+    <body><div>
+          <head>[Madrigal sur le mesme sujet]</head>
+          <bibl><title>Mercure galant</title>, mars 1694 [tome 3], p. 107.</bibl>
+          <p>Cette réponse de Mademoiselle de Scudery, a donné lieu à M<hi rend="sup">r</hi> de Boisquillon, tres-digne Academicien de l’Academie de Soissons, de luy adresser ce Madrigal.</p>
+          <quote>
+            <lg>
+              <l rend="i"> De ces Eloges éclatans</l>
+              <l rend="i"> Vous avez beau combler le Temps ;</l>
+              <l rend="i"> Contre luy je suis en colere.</l>
+              <l rend="i">Sapho, loin de passer d’une aile si legere,</l>
+              <l rend="i">Il devroit s’arrester sur cent faits inouïs.</l>
+              <l rend="i">Peut-il mieux s’employer qu’à celebrer LOUIS ?</l>
+            </lg>
+          </quote>
+        </div>
+        </body>
   </text>
 </TEI>

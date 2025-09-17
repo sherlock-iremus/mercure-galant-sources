@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>[Seconde partie des Lettres de M. le Chevalier d’Her…]</head>
-        <bibl><title>Mercure galant</title>, janvier 1687 (première partie) [tome 1], p. 301</bibl>
-        <p>[...] Cependant je vous envoye la <hi rend="i">seconde Partie des Lettres de M. le Chevalier d’Her.</hi>… que je vous fais esperer depuis deux mois, &amp; que l’on commence à debiter dans la Boutique de la Veuve Blageart. Les Sujets de chaque Lettre, qui sont expliquez en peu de mots au commencement du Livre, vous apprendront qu’elles ne peuvent estre que fort galantes.</p>
-      </div>
-    </body>
+    <body><div>
+          <head>[Seconde partie des Lettres de M. le Chevalier d’Her…]</head>
+          <bibl><title>Mercure galant</title>, janvier 1687 (première partie) [tome 1], p. 301</bibl>
+          <p>[...] Cependant je vous envoye la <hi rend="i">seconde Partie des Lettres de M. le Chevalier d’Her.</hi>… que je vous fais esperer depuis deux mois, &amp; que l’on commence à debiter dans la Boutique de la Veuve Blageart. Les Sujets de chaque Lettre, qui sont expliquez en peu de mots au commencement du Livre, vous apprendront qu’elles ne peuvent estre que fort galantes.</p>
+        </div>
+        </body>
   </text>
 </TEI>

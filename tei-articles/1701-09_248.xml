@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,25 +14,24 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>[Madrigal]</head>
-        <bibl><title>Mercure galant</title>, septembre 1701 [tomme 11], p. 248-249.</bibl>
-        <p>M<hi rend="sup">r</hi> l’Abbé Arnaud de Laborie, qui honoroit particuliérement Mademoiselle de Scuderi, a fait ce Madrigal sur sa mort.</p>
-        <quote>
-          <lg>
-            <l rend="i"> Aprés un grand nombre de lustres,</l>
-            <l rend="i">La docte Scuderi vient de finir ses jours ;</l>
-            <l rend="i">Ses vertus l’ont placée au rang des plus illustres.</l>
-            <l rend="i"> Les Graces avec les Amours</l>
-            <l rend="i"> Se mesloient dans tous ses discours :</l>
-            <l rend="i">Aux plus cuisans regrets le Parnasse se livre ;</l>
-            <l rend="i">Mais pourquoy murmurer contre le sort jaloux ?</l>
-            <l rend="i">Vous n’avez rien perdu, Muses, consolez-vous,</l>
-            <l rend="i"> Lheritier la fera revivre.</l>
-          </lg>
-        </quote>
-      </div>
-    </body>
+    <body><div>
+          <head>[Madrigal]</head>
+          <bibl><title>Mercure galant</title>, septembre 1701 [tomme 11], p. 248-249.</bibl>
+          <p>M<hi rend="sup">r</hi> l’Abbé Arnaud de Laborie, qui honoroit particuliérement Mademoiselle de Scuderi, a fait ce Madrigal sur sa mort.</p>
+          <quote>
+            <lg>
+              <l rend="i"> Aprés un grand nombre de lustres,</l>
+              <l rend="i">La docte Scuderi vient de finir ses jours ;</l>
+              <l rend="i">Ses vertus l’ont placée au rang des plus illustres.</l>
+              <l rend="i"> Les Graces avec les Amours</l>
+              <l rend="i"> Se mesloient dans tous ses discours :</l>
+              <l rend="i">Aux plus cuisans regrets le Parnasse se livre ;</l>
+              <l rend="i">Mais pourquoy murmurer contre le sort jaloux ?</l>
+              <l rend="i">Vous n’avez rien perdu, Muses, consolez-vous,</l>
+              <l rend="i"> Lheritier la fera revivre.</l>
+            </lg>
+          </quote>
+        </div>
+        </body>
   </text>
 </TEI>

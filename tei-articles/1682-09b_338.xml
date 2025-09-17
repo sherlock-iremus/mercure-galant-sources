@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,17 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head resp="editor">Réjouissances à l'abbaye de Fontevraud pour la naissance du duc de Bourgogne</head>
-        <bibl><title>Mercure galant</title>, septembre 1682 (deuxième partie) [tome 10], p. 338-339.</bibl>
+        <bibl><title>Mercure galant</title>, septembre 1682 (deuxième partie) [tome 10], p.
+          338-339.</bibl>
         <p/>
-        <p>Les Communautez qui composent l'Abbaye de Fontevraut, ont fait chanter un <hi rend="i">Te Deum</hi> à trois Choeurs de Musique. Quoy qu'il ne fut que quatre heures lors qu'il fut finy, Madame de Fontevraut ne laissa pas de faire allumer un Feu devant la grande Eglise. Tous les Habitans qui estoient en armes, firent un tres-grand nombre de décharges aux acclamations de Vive le Roy.</p>
+        <p>Les Communautez qui composent l'Abbaye de Fontevraut, ont fait chanter un <hi rend="i">Te
+            Deum</hi> à trois Choeurs de Musique. Quoy qu'il ne fut que quatre heures lors qu'il fut
+          finy, Madame de Fontevraut ne laissa pas de faire allumer un Feu devant la grande Eglise.
+          Tous les Habitans qui estoient en armes, firent un tres-grand nombre de décharges aux
+          acclamations de Vive le Roy.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

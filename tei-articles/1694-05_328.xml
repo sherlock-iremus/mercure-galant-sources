@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, mai 1694 [tome 5], p. 328.</bibl>
         <p>Vous serez sans doute contente de l'Air nouveau que je vous envoye.</p>
         <quote>
-          <label>AIR NOUVEAU.</label>
-          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air doit regarder la page 328.</note>
-          <lg>
-            <l rend="i">Cueillez, cueillez, jeunes Amans,</l>
+          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air doit regarder la page 328.</note>
+          <lg><l rend="i">Cueillez, cueillez, jeunes Amans,</l>
             <l rend="i">Les fleurs de l'aimable Printemps,</l>
             <l rend="i">Ne perdez pas une saison si belle ;</l>
             <l rend="i">Quand l'Amour vous appelle,</l>
@@ -32,8 +29,7 @@
             <l rend="i">Les beautez de Flore</l>
             <l rend="i">Commencent d'éclorre.</l>
             <l rend="i">Aimez ; la saison des Amours,</l>
-            <l rend="i">Ne dure pas toûjours.</l>
-          </lg>
+            <l rend="i">Ne dure pas toûjours.</l></lg>
         </quote>
         <ref target="images/1694-05_328.JPG">
           <figure>
@@ -41,6 +37,6 @@
           </figure>
         </ref>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

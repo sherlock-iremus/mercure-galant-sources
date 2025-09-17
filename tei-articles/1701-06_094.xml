@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,27 +14,26 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>[Distiques]</head>
-        <bibl><title>Mercure galant</title>, juin 1701 [tome 8], p. 94-95.</bibl>
-        <p>Je ne puis m’empêcher d’ajoûter icy un autre Distique en la même langue sur l’élevation de M<hi rend="sup">r</hi> l’Abbé Bignon à la dignité de Conseiller d’Etat. Quelques honneurs que le Roy puisse répandre sur luy, on l’en trouvera toûjours tres-digne.</p>
-        <quote>
-          <lg>
-            <l rend="i">Qui Musis socius, pandit secreta Minervæ,</l>
-            <l rend="i"> Dignus consiliis Solis adesse fuit.</l>
-          </lg>
-        </quote>
-        <p>Vous sçavez que M<hi rend="sup">r</hi> de Vauban a esté élu President de l’Academie des Sciences. Cette élection a donné lieu à ce Quatrain.</p>
-        <quote>
-          <lg>
-            <l rend="i">LOUIS, l’appuy des beaux Arts,</l>
-            <l rend="i">Montre assez qu’il les conserve,</l>
-            <l rend="i">Elevant un Fils de Mars</l>
-            <l rend="i">Sur le Trône de Minerve.</l>
-          </lg>
-        </quote>
-      </div>
-    </body>
+    <body><div>
+          <head>[Distiques]</head>
+          <bibl><title>Mercure galant</title>, juin 1701 [tome 8], p. 94-95.</bibl>
+          <p>Je ne puis m’empêcher d’ajoûter icy un autre Distique en la même langue sur l’élevation de M<hi rend="sup">r</hi> l’Abbé Bignon à la dignité de Conseiller d’Etat. Quelques honneurs que le Roy puisse répandre sur luy, on l’en trouvera toûjours tres-digne.</p>
+          <quote>
+            <lg>
+              <l rend="i">Qui Musis socius, pandit secreta Minervæ,</l>
+              <l rend="i"> Dignus consiliis Solis adesse fuit.</l>
+            </lg>
+          </quote>
+          <p>Vous sçavez que M<hi rend="sup">r</hi> de Vauban a esté élu President de l’Academie des Sciences. Cette élection a donné lieu à ce Quatrain.</p>
+          <quote>
+            <lg>
+              <l rend="i">LOUIS, l’appuy des beaux Arts,</l>
+              <l rend="i">Montre assez qu’il les conserve,</l>
+              <l rend="i">Elevant un Fils de Mars</l>
+              <l rend="i">Sur le Trône de Minerve.</l>
+            </lg>
+          </quote>
+        </div>
+        </body>
   </text>
 </TEI>

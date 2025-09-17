@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Autre Sonnet]</head>
         <bibl><title>Mercure galant</title>, juillet 1678 [tome 7], p. 32-33.</bibl>
-        <p>Voicy un Sonnet de M<hi rend="sup">r</hi> Perry de S. Quentin, sur la Remise que sa Majesté a faite à son Peuple sur les Tailles.</p>
+        <p>Voicy un Sonnet de M<hi rend="sup">r</hi> Perry de S. Quentin, sur la Remise que sa
+          Majesté a faite à son Peuple sur les Tailles.</p>
         <quote>
           <label>SONNET. <lb/>AU ROY.</label>
           <lg>
@@ -48,6 +48,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

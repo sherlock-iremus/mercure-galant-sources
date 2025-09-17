@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,16 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head resp="editor">Devises provenant de Dijon.</head>
-        <bibl><title>Mercure galant</title>, septembre 1682 (deuxième partie) [tome 10], p. 311-321.</bibl>
+        <bibl><title>Mercure galant</title>, septembre 1682 (deuxième partie) [tome 10],
+          p. 311-321.</bibl>
         <p/>
-        <p>Depuis que j’ay achevé la premiere Partie de cette Lettre, dans laquelle je vous parle du Char de Triomphe, où le jour de S. Loüis l’on vit paroistre à Dijon un jeune Enfant représentant Monseigneur le Duc de Bourgogne, au milieu des quatre derniers Ducs de ce nom, on m’a fait part des Devises qui ornoient ce Char. Je vous les envoye expliquées en Vers. On avoit mis ces paroles au dessous de l’Enfant, que la France couronnoit.</p>
+        <p>Depuis que j’ay achevé la premiere Partie de cette Lettre, dans laquelle je vous parle du
+          Char de Triomphe, où le jour de S. Loüis l’on vit paroistre à Dijon un jeune Enfant
+          représentant Monseigneur le Duc de Bourgogne, au milieu des quatre derniers Ducs de ce
+          nom, on m’a fait part des Devises qui ornoient ce Char. Je vous les envoye expliquées en
+          Vers. On avoit mis ces paroles au dessous de l’Enfant, que la France couronnoit.</p>
         <quote>
           <label><hi rend="sc">Nascente hoc cuncta</hi><lb/><hi rend="sc">moventur</hi>.</label>
           <lg>
@@ -36,34 +40,24 @@
           </lg>
         </quote>
         <p/>
-        <p>Au pied du Génie de la Bourgogne, qui conduisoit les Chevaux du Char, étoient ces autres paroles,</p>
+        <p>Au pied du Génie de la Bourgogne, qui conduisoit les Chevaux du Char, étoient ces autres
+          paroles,</p>
         <quote>
           <lg>
             <l>
-              <hi rend="sc">Hos quatuor unus</hi>
-            </l>
-            <l>
-              <hi rend="sc">Hic aliquando dabit.</hi>
-            </l>
-            <l>
-              <hi rend="i">De</hi>
+              <hi rend="sc">Hos quatuor unus</hi></l>
+            <l><hi rend="sc">Hic aliquando dabit.</hi></l>
+            <l><hi rend="i">De</hi>
               <hi rend="sc">Philippe</hi>
-              <hi rend="i">on vanta par tout la hardiesse ;</hi>
-            </l>
-            <l>
-              <hi rend="i">Le partage de</hi>
+              <hi rend="i">on vanta par tout la hardiesse ;</hi></l>
+            <l><hi rend="i">Le partage de</hi>
               <hi rend="sc">Jean</hi>
-              <hi rend="i">fut l’intrepidité,</hi>
-            </l>
-            <l>
-              <hi rend="i">Son</hi>
+              <hi rend="i">fut l’intrepidité,</hi></l>
+            <l><hi rend="i">Son</hi>
               <hi rend="sc">Fils</hi>
-              <hi rend="i">aima la Paix, on loüa sa bonté.</hi>
-            </l>
-            <l>
-              <hi rend="sc">Charles</hi>
-              <hi rend="i">ne demanda qu’à combatre sans cesse ;</hi>
-            </l>
+              <hi rend="i">aima la Paix, on loüa sa bonté.</hi></l>
+            <l><hi rend="sc">Charles</hi>
+              <hi rend="i">ne demanda qu’à combatre sans cesse ;</hi></l>
             <l rend="i">Et tout ce qu’en leur temps ces grands Héros ont eu</l>
             <l rend="i">De valeur, de bonté, de force, &amp; de vertu,</l>
             <l rend="i">Doit de ce Prince seul former le caractere.</l>
@@ -73,7 +67,8 @@
           </lg>
         </quote>
         <p/>
-        <p>Sur le Theatre où l’on dressa le Feu d’artifice, estoit la Félicité tenant un Enfant, que la France présentoit à la Bourgogne, en luy disant,</p>
+        <p>Sur le Theatre où l’on dressa le Feu d’artifice, estoit la Félicité tenant un Enfant, que
+          la France présentoit à la Bourgogne, en luy disant,</p>
         <quote>
           <label><hi rend="sc">Dum repetam</hi>.</label>
           <lg>
@@ -95,9 +90,11 @@
           </lg>
         </quote>
         <p/>
-        <p>Autour du Theatre il y auoit quatre Emblêmes. Le premier estoit un Dauphin sur la Mer, &amp; un dans le Ciel, avec ce Vers.</p>
+        <p>Autour du Theatre il y auoit quatre Emblêmes. Le premier estoit un Dauphin sur la Mer,
+          &amp; un dans le Ciel, avec ce Vers.</p>
         <quote>
-          <label><hi rend="sc">Imperium Oceano</hi><lb/><hi rend="sc">famam qui terminet</hi><lb/><hi rend="sc">astris</hi>.</label>
+          <label><hi rend="sc">Imperium Oceano</hi><lb/><hi rend="sc">famam qui
+              terminet</hi><lb/><hi rend="sc">astris</hi>.</label>
           <lg>
             <l rend="i">Ce Prince imitera l’invincible LOUIS ;</l>
             <l rend="i">Il fera comme luy des exploits inoüis,</l>
@@ -142,7 +139,8 @@
           </lg>
         </quote>
         <p/>
-        <p>La Machine de ce Feu avoit cinquante-trois pieds de hauteur. On y avoit écrit ce Sonnet, qui contient les Souhaits de la Bourgogne en faveur du jeune Prince.</p>
+        <p>La Machine de ce Feu avoit cinquante-trois pieds de hauteur. On y avoit écrit ce Sonnet,
+          qui contient les Souhaits de la Bourgogne en faveur du jeune Prince.</p>
         <quote>
           <lg>
             <l rend="i">Sur cet aimable Objet de ma tendresse extréme,</l>
@@ -171,8 +169,14 @@
           </lg>
         </quote>
         <p/>
-        <p>Ces Devises &amp; ces Vers sont de M<hi rend="sup">r</hi> Moreau, Avocat General en la Chambre des Comptes de Dijon. Il a beaucoup de mérite, &amp; s’est acquis grande réputation dans le Barreau par ses Plaidoyers, &amp; le Discours de la présentation de M<hi rend="sup">r</hi> le Marquis d’Uxelles, Lieutenant de Roy en Bourgogne, &amp; par ses Harangues à la Chambre des Comptes, qu’il fait tous les ans à la S. Martin. M<hi rend="sup">r</hi> Moreau, Auditeur des Comptes à Paris, est son Frere. C’est celuy dont je vous ay envoyé plusieurs Ouvrages galans, sous le nom du Fils d’un Auditeur des Comptes de Dijon.</p>
+        <p>Ces Devises &amp; ces Vers sont de M<hi rend="sup">r</hi> Moreau, Avocat General en la
+          Chambre des Comptes de Dijon. Il a beaucoup de mérite, &amp; s’est acquis grande
+          réputation dans le Barreau par ses Plaidoyers, &amp; le Discours de la présentation de
+            M<hi rend="sup">r</hi> le Marquis d’Uxelles, Lieutenant de Roy en Bourgogne, &amp; par
+          ses Harangues à la Chambre des Comptes, qu’il fait tous les ans à la S. Martin. M<hi rend="sup">r</hi> Moreau, Auditeur des Comptes à Paris, est son Frere. C’est celuy dont
+          je vous ay envoyé plusieurs Ouvrages galans, sous le nom du Fils d’un Auditeur des Comptes
+          de Dijon.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

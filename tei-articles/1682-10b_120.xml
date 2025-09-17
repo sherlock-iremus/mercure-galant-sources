@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Madrigal]</head>
         <bibl><title>Mercure galant</title>, octobre 1682 (deuxième partie) [tome 12], p. 120.</bibl>
-        <p>Vous trouverez dans le Madrigal qui suit, la mesme allusion du Nom de <hi rend="sc">Victoire</hi> que porte Madame la Dauphine. Il est de M<hi rend="sup">r</hi> de Plessac d’Evreux.</p>
+        <p>Vous trouverez dans le Madrigal qui suit, la mesme allusion du Nom de <hi rend="sc">Victoire</hi> que porte Madame la Dauphine. Il est de M<hi rend="sup">r</hi> de Plessac
+          d’Evreux.</p>
         <quote>
           <lg>
             <l>
@@ -38,6 +38,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

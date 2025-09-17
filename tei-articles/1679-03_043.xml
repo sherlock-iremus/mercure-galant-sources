@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Madrigal</head>
         <bibl><title>Mercure galant</title>, mars 1679 [tome 3], p. 43-45.</bibl>
-        <p>Si le plaisir de voir renaistre la belle Saison peut estre regardé comme un bien, jugez quels vœux on a esté capable de former pour obtenir la fin de la Guerre. Voicy ce que M<hi rend="sup">r</hi> Brossard de Montaney, Conseiller au Présidial de Bourg en Bresse, a adressé là-dessus au Roy.</p>
+        <p>Si le plaisir de voir renaistre la belle Saison peut estre regardé comme un bien, jugez
+          quels vœux on a esté capable de former pour obtenir la fin de la Guerre. Voicy ce que M<hi rend="sup">r</hi> Brossard de Montaney, Conseiller au Présidial de Bourg en Bresse, a
+          adressé là-dessus au Roy.</p>
         <quote>
           <label>Madrigal.</label>
           <l><seg type="tab">    </seg>Laissez prendre haleine à l’Histoire,</l>
@@ -35,6 +36,6 @@
           <l><seg type="tab">    </seg>A peine vous coûte huit jours.</l>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

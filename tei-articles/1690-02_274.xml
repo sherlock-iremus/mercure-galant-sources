@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>A la mémoire immortelle de l’Illustre Mr le Brun [...]. Epitaphe</head>
         <bibl><title>Mercure galant</title>, février 1690 [tome 2], p. 274-276.</bibl>
         <p>Je vous envoye des Vers qu’un de ses Amis a faits sur sa mort.</p>
         <quote>
-          <label>A LA MEMOIRE immortelle de l’Illustre M<hi rend="sup">r</hi> le Brun, ennobly par le Roy, &amp; inhumé dans l’admirable Chapelle qu’il s’est faite en l’Eglise de S. Nicolas du Chardonneret, sa Paroisse.<lb/><hi rend="i">EPITAPHE.</hi></label>
+          <label>A LA MEMOIRE immortelle de l’Illustre M<hi rend="sup">r</hi> le Brun, ennobly par
+            le Roy, &amp; inhumé dans l’admirable Chapelle qu’il s’est faite en l’Eglise de S.
+            Nicolas du Chardonneret, sa Paroisse.<lb/><hi rend="i">EPITAPHE.</hi></label>
           <quote>
             <lg>
               <l rend="i">Le Brun, qui par son Art illustra la Nature,</l>
@@ -36,7 +37,12 @@
               <l rend="i">Le glorieux éclat d’une plus noble vie.</l>
             </lg>
           </quote>
-          <p>Le Roy a nommé M<hi rend="sup">r</hi> Mignard pour remplir toutes les Charges &amp; dignitez qu’avoit feu M<hi rend="sup">r</hi> le Brun. Quand la quantité de beaux Ouvrages qu’il a faits, &amp; la delicatesse de son Pinceau ne parleroient pas pour luy, &amp; que son merite ne seroit pas generalement reconnu, le don que le Roy luy vient de faire suffiroit pour empescher d’en douter, puis que le discernement de ce Prince, égale la justice qu’il rend toujours au merite.</p>
+          <p>Le Roy a nommé M<hi rend="sup">r</hi> Mignard pour remplir toutes les Charges &amp;
+            dignitez qu’avoit feu M<hi rend="sup">r</hi> le Brun. Quand la quantité de beaux
+            Ouvrages qu’il a faits, &amp; la delicatesse de son Pinceau ne parleroient pas pour luy,
+            &amp; que son merite ne seroit pas generalement reconnu, le don que le Roy luy vient de
+            faire suffiroit pour empescher d’en douter, puis que le discernement de ce Prince, égale
+            la justice qu’il rend toujours au merite.</p>
         </quote>
       </div>
     </body>

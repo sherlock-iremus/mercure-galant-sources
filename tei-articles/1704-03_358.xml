@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,41 +14,29 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>Air nouveau</head>
-        <bibl><title>Mercure galant</title>, mars 1704 [tome 3], p. 358-359.</bibl>
-        <p>L’Air qui suit est de Mr Maiz, de la Fleche en Anjou. <note resp="editor">Selon le <hi rend="italic">Mercure galant</hi> de juillet 1705 (cf. <ref target="MG-1705-07_109">cet article</ref>), M. de Choisel serait l'auteur des paroles des airs de M. de Maiz. Tous deux sont de La Flèche, en Anjou.</note></p>
-        <quote>
-          <label>AIR NOUVEAU.</label>
-          <note resp="author" place="margin">L’Air, <hi rend="i">Seigneur</hi>, page 358.</note>
-          <lg>
-            <l>
-              <hi rend="i">Seigneur de qui la terre adore la puissance,</hi>
-            </l>
-            <l> <hi rend="i">Soûtiens nôtre grand Roy,</hi></l>
-            <l>
-              <hi rend="i">Lui qui toute sa vie a défendu ta Loi :</hi>
-            </l>
-            <l>
-              <hi rend="i">Que le Ciel en tous lieux, luy donne en abondance</hi>
-            </l>
-            <l> <hi rend="i">Ses plus rares faveurs,</hi></l>
-            <l>
-              <hi rend="i">Contre tes Ennemis, qu’il prenne ta défense,</hi>
-            </l>
-            <l>
-              <hi rend="i">Qu’il mette l’Univers sous son obéïssance,</hi>
-            </l>
-            <l> <hi rend="i">Qu’il soit maistre de tous les cœurs.</hi></l>
-          </lg>
-        </quote>
-        <ref target="images/1704-03_358.JPG">
-          <figure>
-            <graphic url="images/1704-03_358.JPG"/>
-          </figure>
-        </ref>
-      </div>
-    </body>
+    <body><div>
+          <head>Air nouveau</head>
+          <bibl><title>Mercure galant</title>, mars 1704 [tome 3], p. 358-359.</bibl>
+          <p>L’Air qui suit est de Mr Maiz, de la Fleche en Anjou. <note resp="editor">Selon le <hi rend="italic">Mercure galant</hi> de juillet 1705 (cf. <ref target="MG-1705-07_109">cet article</ref>), M. de Choisel serait l'auteur des paroles des airs de M. de Maiz. Tous deux sont de La Flèche, en Anjou.</note></p>
+          <quote>
+            <label>AIR NOUVEAU.</label><note resp="author" place="margin">L’Air, <hi rend="i">Seigneur</hi>, page 358.</note>
+            <lg>
+              <l><hi rend="i">Seigneur de qui la terre adore la puissance,</hi></l>
+              <l> <hi rend="i">Soûtiens nôtre grand Roy,</hi></l>
+              <l><hi rend="i">Lui qui toute sa vie a défendu ta Loi :</hi></l>
+              <l><hi rend="i">Que le Ciel en tous lieux, luy donne en abondance</hi></l>
+              <l> <hi rend="i">Ses plus rares faveurs,</hi></l>
+              <l><hi rend="i">Contre tes Ennemis, qu’il prenne ta défense,</hi></l>
+              <l><hi rend="i">Qu’il mette l’Univers sous son obéïssance,</hi></l>
+              <l> <hi rend="i">Qu’il soit maistre de tous les cœurs.</hi></l>
+            </lg>
+          </quote>
+          <ref target="images/1704-03_358.JPG">
+            <figure>
+              <graphic url="images/1704-03_358.JPG"/>
+            </figure>
+          </ref>
+        </div>
+      </body>
   </text>
 </TEI>

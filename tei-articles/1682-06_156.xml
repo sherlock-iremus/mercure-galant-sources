@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,19 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>[Huit Sonnets en bouts-rimez sur les loüanges du Roy, &amp; les diférentes occupations des Hommes]</head>
+    <body><div>
+        <head>[Huit Sonnets en bouts-rimez sur les loüanges du Roy, &amp; les diférentes occupations
+          des Hommes]</head>
         <bibl><title>Mercure galant</title>, juin 1682 [tome 6], p. 156-170.</bibl>
         <p/>
-        <p>On m’a dit que les nouveaux Juges choisis par M<hi rend="sup">r</hi> le Duc de S. Aignan, avoient enfin prononcé ; mais je n’ay point encor sçeu quel est le Sonnet victorieux. Je sçay seulement que M<hi rend="sup">r</hi> de Vertron a fait retirer le sien, n’ayant point voulu disputer le Prix, depuis que ce Duc l’a nommé pour un des Juges. Je vous l’envoye avec quelques autres. J’ay mis au bas le nom des Autheurs qui me sont connus.</p>
+        <p>On m’a dit que les nouveaux Juges choisis par M<hi rend="sup">r</hi> le Duc de S. Aignan,
+          avoient enfin prononcé ; mais je n’ay point encor sçeu quel est le Sonnet victorieux. Je
+          sçay seulement que M<hi rend="sup">r</hi> de Vertron a fait retirer le sien, n’ayant point
+          voulu disputer le Prix, depuis que ce Duc l’a nommé pour un des Juges. Je vous l’envoye
+          avec quelques autres. J’ay mis au bas le nom des Autheurs qui me sont connus.</p>
         <quote>
-          <label>SONNETS EN BOUTS<lb/>rimez, Sur les loüanges du<lb/>Roy, &amp; les diférentes occupations<lb/>des Hommes.</label>
+          <label>SONNETS EN BOUTS<lb/>rimez, Sur les loüanges du<lb/>Roy, &amp; les diférentes
+            occupations<lb/>des Hommes.</label>
           <label>I.</label>
           <lg>
             <l><hi rend="i">Mieux qu’au temps d’Archimede observer</hi> Jupiter,</l>
@@ -212,7 +217,8 @@
           <label>VIII.</label>
           <lg>
             <l><hi rend="i">Que le monde est plaisant ! Il semble, ô</hi> Jupiter,</l>
-            <l><hi rend="i">Que c’est le</hi> Quiproquo <hi rend="i">d’un grand</hi> Pharmacopole.</l>
+            <l><hi rend="i">Que c’est le</hi> Quiproquo <hi rend="i">d’un grand</hi>
+              Pharmacopole.</l>
             <l><hi rend="i">L’un caché dans un froc est un petit</hi> Frater,</l>
             <l><hi rend="i">L’autre en rit encor plus que ne faisoit</hi> Nicole.</l>
           </lg>
@@ -237,6 +243,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

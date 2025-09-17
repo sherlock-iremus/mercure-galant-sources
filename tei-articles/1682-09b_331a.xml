@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Air nouveau</head>
-        <bibl><title>Mercure galant</title>, septembre 1682 (deuxième partie) [tome 10], p. 331.</bibl>
+        <bibl><title>Mercure galant</title>, septembre 1682 (deuxième partie) [tome 10], p.
+          331.</bibl>
         <p>Voicy un Air nouveau d´un bon Maistre, &amp; dont les paroles sont fort estimées.</p>
         <quote>
-          <label>AIR NOUVEAU.</label>
-          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’air qui commence par <hi rend="i">Quand on soûpire</hi>, doit regarder la page 331.</note>
+          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour
+              placer les Figures</hi> : l’air qui commence par <hi rend="i">Quand on soûpire</hi>,
+            doit regarder la page 331.</note>
           <lg>
             <l rend="i">Quand on soûpire</l>
             <l rend="i">Sans oser dire</l>
@@ -39,6 +40,6 @@
           </ref>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

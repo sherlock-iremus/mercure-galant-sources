@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>De l’origine de la Danse, de ceux qui l’ont inventée, &amp; de ses diférentes especes.</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier d’avril 1680 [tome X], p. 274-309.</bibl>
         <label>De l’origine de la Danse, de ceux qui l’ont inventée, &amp; de ses diférentes especes.</label>
@@ -57,74 +56,74 @@
         <p>Pour couronner donc glorieusement la Danse, nous dirons qu’elle est si propre à dresser le Corps, à former la grace, &amp; à relever les actions des jeunes Seigneurs ou Princes, que l’on ne manque pas de les y faire instruire selon le merite de leur naissance &amp; la dignité de leurs Personnes, &amp; c’est ce qui se pratique dans toutes les Cours de l’Europe, tant pour l’utilité, que pour le divertissement des Testes couronnées. Nous ajoûtons icy l’union de tous les plaisirs, par le retour de la Paix &amp; du Siecle d’or.</p>
         <quote>
           <l>Mercure, l’on te doit, comme au plus grand des Dieux,</l>
-          <l><space rend="tab"> </space><space rend="tab"> </space>Les plaisirs qu’on trouve à la Danse ;</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space>Les plaisirs qu’on trouve à la Danse ;</l>
           <l>Puis que tu nous apprens que le Branle des Cieux</l>
           <l>En donne &amp; regle la cadence.</l>
           <l/>
           <l>Les Mortels curieux de cet Art tout divin,</l>
-          <l><space rend="tab"> </space><space rend="tab"> </space>De la nuit percerent les voiles,</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space>De la nuit percerent les voiles,</l>
           <l>Et contemplant le Ciel, en apprirent enfin</l>
-          <l><space rend="tab"> </space><space rend="tab"> </space>La Danse qu’y font les Etoiles.</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space>La Danse qu’y font les Etoiles.</l>
           <l/>
           <l>Ils y virent ton rang, tes mesures, tes pas.</l>
-          <l><space rend="tab"> </space><space rend="tab"> </space>Et dans ce noble Art tant de charmes,</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space>Et dans ce noble Art tant de charmes,</l>
           <l>Qu’ils l’observent depuis avec tous ses appas,</l>
-          <l><space rend="tab"> </space><space rend="tab"> </space>Quand la Paix fait quitter les armes.</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space>Quand la Paix fait quitter les armes.</l>
           <l/>
           <l>C’est alors que l’on voit jusqu’aux jeunes Bergers,</l>
-          <l><space rend="tab"> </space><space rend="tab"> </space>Charmez de leurs Nymphes superbes,</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space>Charmez de leurs Nymphes superbes,</l>
           <l>En suivre l’harmonie avec leurs pieds legers,</l>
-          <l><space rend="tab"> </space><space rend="tab"> </space>Dansant sur les fleurs &amp; les herbes.</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space>Dansant sur les fleurs &amp; les herbes.</l>
           <l/>
           <l>Pour des plaisirs si doux, il faut un doux repos ;</l>
-          <l><space rend="tab"> </space><space rend="tab"> </space>C’est ce que la Paix fait renaistre ;</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space>C’est ce que la Paix fait renaistre ;</l>
           <l>Si ce calme n’est dû qu’aux soins d’un grand Héros,</l>
-          <l><space rend="tab"> </space><space rend="tab"> </space>LOUIS peut s’en dire le Maistre.</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space>LOUIS peut s’en dire le Maistre.</l>
           <l/>
           <l>Toute l’Europe en voit les merveilleux effets,</l>
-          <l><space rend="tab"> </space><space rend="tab"> </space>Par l’union de tous ses Princes ;</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space>Par l’union de tous ses Princes ;</l>
           <l>Et ce charmant bonheur que goustent leurs Sujets,</l>
-          <l><space rend="tab"> </space><space rend="tab"> </space>S’étend dans toutes les Provinces.</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space>S’étend dans toutes les Provinces.</l>
           <l/>
           <l>C’est de là que les Ris, les Amours, &amp; les Jeux,</l>
-          <l><space rend="tab"> </space><space rend="tab"> </space>Précedent souvent l’Hymenée ;</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space>Précedent souvent l’Hymenée ;</l>
           <l>Et qu’en suite l’Hymen fait par ses sacrez nœuds</l>
-          <l><space rend="tab"> </space><space rend="tab"> </space>Plus d’une heureuse destinée.</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space>Plus d’une heureuse destinée.</l>
           <l/>
           <l>La France, la Baviere, &amp; l’Espagne à son tour,</l>
-          <l><space rend="tab"> </space><space rend="tab"> </space>Goustent ces douceurs mutuelles,</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space>Goustent ces douceurs mutuelles,</l>
           <l>Par la Paix, par les Ris, par l’Hymen, &amp; l’Amour,</l>
-          <l><space rend="tab"> </space><space rend="tab"> </space>Dans leurs unions eternelles,</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space>Dans leurs unions eternelles,</l>
           <l/>
           <l>Apres des jeux si doux &amp; d’aussi doux plaisirs,</l>
-          <l><space rend="tab"> </space><space rend="tab"> </space>Qui naissent d’une pure joye,</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space>Qui naissent d’une pure joye,</l>
           <l>Ne voit-on pas s’unir dans leurs ardens desirs</l>
-          <l><space rend="tab"> </space><space rend="tab"> </space>La Portugal &amp; la Savoye ?</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space>La Portugal &amp; la Savoye ?</l>
           <l/>
           <l>Quand le Nort a finy tant de Combats affreux,</l>
-          <l><space rend="tab"> </space><space rend="tab"> </space>Par le repos qui leur succede,</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space>Par le repos qui leur succede,</l>
           <l>Il travaille à l’Hymen, qui s’en va rendre heureux</l>
-          <l><space rend="tab"> </space><space rend="tab"> </space>Le Dannemarc &amp; la Suede.</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space>Le Dannemarc &amp; la Suede.</l>
           <l/>
           <l>Si donc tant de plaisirs, &amp; tant de jeux charmans,</l>
-          <l><space rend="tab"> </space><space rend="tab"> </space>Renaissent en chaque Contrée,</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space>Renaissent en chaque Contrée,</l>
           <l>Que d’acclamations &amp; d’aplaudissemens</l>
-          <l><space rend="tab"> </space><space rend="tab"> </space>Doit-on à la divine Astrée ?</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space>Doit-on à la divine Astrée ?</l>
           <l/>
           <l>Elle quitta la terre, apres le Siecle d’or,</l>
-          <l><space rend="tab"> </space><space rend="tab"> </space>Pour la Discorde &amp; pour la haine ;</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space>Pour la Discorde &amp; pour la haine ;</l>
           <l>Elle le fait renaistre, &amp; vient regner encor ;</l>
-          <l><space rend="tab"> </space><space rend="tab"> </space>Mais c’est mon Roy qui la ramene.</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space>Mais c’est mon Roy qui la ramene.</l>
           <l/>
           <l>Si nous devons aux Roys, ce que l’on doit au Dieux,</l>
-          <l><space rend="tab"> </space><space rend="tab"> </space>O Grand Roy, quelle est vostre gloire !</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space>O Grand Roy, quelle est vostre gloire !</l>
           <l>Vous ne sçauriez donner ce qu’on demande aux Cieux,</l>
-          <l><space rend="tab"> </space><space rend="tab"> </space>Qu’en vous retranchant la Victoire.</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space>Qu’en vous retranchant la Victoire.</l>
           <l/>
           <l>Oüy, la Posterité va parler à jamais</l>
-          <l><space rend="tab"> </space><space rend="tab"> </space>De vous autrement que d’Auguste,</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space>De vous autrement que d’Auguste,</l>
           <l>Quand vous vous faites voir, en redonnant la Paix,</l>
-          <l><space rend="tab"> </space><space rend="tab"> </space>Toûjour grand, genéreux &amp; juste.</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space>Toûjour grand, genéreux &amp; juste.</l>
           <l rend="right"><hi rend="sc">Rault</hi>, de Roüen.</l>
         </quote>
       </div>

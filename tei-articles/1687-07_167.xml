@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head resp="editor">Madrigal</head>
         <bibl><title>Mercure galant</title>, juillet 1687 [tome 10], p. 167-168</bibl>
         <p/>
-        <p>Tout le monde n’est pas du sentiment de l’Auteur de cette réponse ; vous le verrez par le Madrigal qui suit.</p>
+        <p>Tout le monde n’est pas du sentiment de l’Auteur de cette réponse ; vous le verrez par le
+          Madrigal qui suit.</p>
         <quote>
           <lg>
             <l rend="i"> La trop constante tendresse</l>
@@ -31,6 +31,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

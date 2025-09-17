@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[La Ligue des Rats, Fable]</head>
         <bibl><title>Mercure galant</title>, décembre 1692 [tome 15], p. 240-244.</bibl>
-        <p>Ce mot de Ligue me fait souvenir de vous faire part d’un Ouvrage assez plaisant, qui a pour titre,</p>
+        <p>Ce mot de Ligue me fait souvenir de vous faire part d’un Ouvrage assez plaisant, qui a
+          pour titre,</p>
         <quote>
           <label>LA LIGUE DES RATS.<lb/><hi rend="i">FABLE.</hi></label>
           <lg>
@@ -73,6 +73,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

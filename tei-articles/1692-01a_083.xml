@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Stances</head>
         <bibl><title>Mercure galant</title>, janvier 1692 [tome 1], p. 83-92.</bibl>
-        <p>Je ne vous préviendray point sur les Vers qui suivent. Vous verrez en les lisant s’ils ont le tour fin que vous souhaitez dans les Ouvrages de cette nature. L’Auteur y fait un agreable reproche à un Cavalier, qui ayant pris de l’amour pour une jolie Personne, s’estoit tellement abandonné à sa passion, qu’il avoit cessé de voir ses Amis.</p>
+        <p>Je ne vous préviendray point sur les Vers qui suivent. Vous verrez en les lisant s’ils
+          ont le tour fin que vous souhaitez dans les Ouvrages de cette nature. L’Auteur y fait un
+          agreable reproche à un Cavalier, qui ayant pris de l’amour pour une jolie Personne,
+          s’estoit tellement abandonné à sa passion, qu’il avoit cessé de voir ses Amis.</p>
         <quote>
-          <label>
-            <hi rend="i">STANCES.</hi>
-          </label>
+          <label><hi rend="i">STANCES.</hi></label>
           <lg>
             <l> <hi rend="i">Quoy, faut-il que pour estre Amant</hi></l>
             <l rend="i"> Vous n’ayez relâche ny tréve,</l>
@@ -167,6 +167,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head resp="editor">Avis</head>
-        <bibl><title>Mercure galant</title>, décembre 1697 [tome 12], p. 283.</bibl>
-        <p>Les Comediens du Roy representent depuis trois semaines une Piece nouvelle, intitulée <hi rend="i">Pilade &amp; Oreste</hi>, qui fait grand honneur à son Auteur. Les situations en sont tres-heureuses, &amp; excitent des sentimens de pitié qui rendent cette Piece tres-agreable. Je suis, Madame, vostre, &amp;c.</p>
-      </div>
-    </body>
+    <body><div>
+          <head resp="editor">Avis</head>
+          <bibl><title>Mercure galant</title>, décembre 1697 [tome 12], p. 283.</bibl>
+          <p>Les Comediens du Roy representent depuis trois semaines une Piece nouvelle, intitulée <hi rend="i">Pilade &amp; Oreste</hi>, qui fait grand honneur à son Auteur. Les situations en sont tres-heureuses, &amp; excitent des sentimens de pitié qui rendent cette Piece tres-agreable. Je suis, Madame, vostre, &amp;c.</p>
+        </div>
+      </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>[M<hi rend="sup">e</hi> l'Abbesse de Fontaine-Guerard]</head>
-        <bibl><title>Mercure galant</title>, mars 1687 (deuxième partie) [tome 5], p. 365-366</bibl>
-        <p/>
-        <p>Au commencement du mois passé, Madame l'Abbesse de Fontaine-Guerard, Diocese de Roüen, fit chanter une Messe solemnelle où cinquante Religieuse communierent. Cette Messe fut suivie d'un <hi rend="i">Te Deum</hi>, après lequel il y eut une Aumône generale. Au milieu de la Court du dehors, on avoit dressé un feu de joye qui fut allumé par Madame la Presidente du Tronc, au bruit de plusieurs Boëtes qui furent tirées.</p>
-      </div>
-    </body>
+    <body><div>
+          <head>[M<hi rend="sup">e</hi> l'Abbesse de Fontaine-Guerard]</head>
+          <bibl><title>Mercure galant</title>, mars 1687 (deuxième partie) [tome 5], p. 365-366</bibl>
+          <p/>
+          <p>Au commencement du mois passé, Madame l'Abbesse de Fontaine-Guerard, Diocese de Roüen, fit chanter une Messe solemnelle où cinquante Religieuse communierent. Cette Messe fut suivie d'un <hi rend="i">Te Deum</hi>, après lequel il y eut une Aumône generale. Au milieu de la Court du dehors, on avoit dressé un feu de joye qui fut allumé par Madame la Presidente du Tronc, au bruit de plusieurs Boëtes qui furent tirées.</p>
+        </div>
+        </body>
   </text>
 </TEI>

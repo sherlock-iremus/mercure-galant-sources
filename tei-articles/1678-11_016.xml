@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Demeslé de Bellonne, et de la Paix [vers de M<hi rend="sup">r</hi> Roux]</head>
         <bibl><title>Mercure galant</title>, novembre 1678 [tome 11], p. 16-23.</bibl>
         <p>Nous ne pouvons nous plaindre que la Guerre nous ait causé de grands maux, puis que nos Armées ont toûjours esté chez les Ennemis : mais si vous voulez voir la peinture des avantages qu’apporte la Paix dans les lieux où les Troupes avoient accoûtumé de camper, vous la trouverez dans les Vers que je vous envoye. Ils sont de M<hi rend="sup">r</hi> Roux, dont vous avez déja veu d’autres Ouvrages. Il sera difficile que celuy-cy ne vous plaise, ayant je ne sçay quoy de naturel &amp; de dégagé qui est particulier aux Cavaliers, &amp; qui ne se rencontre pas toûjours dans ce que font ceux dont la principale occupation est d’écrire.</p>
@@ -91,6 +90,6 @@
           <l><space/>Qui vaut mieux que tout l’Univers.</l>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

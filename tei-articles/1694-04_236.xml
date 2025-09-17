@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Entretien Satyrique et Moral</head>
         <bibl><title>Mercure galant</title>, avril 1694 [tome 4], p. 236-255.</bibl>
-        <p>Je vous envoye un Ouvrage qui fait grand bruit dans une de nos Provinces, où il a esté vû depuis six mois.</p>
+        <p>Je vous envoye un Ouvrage qui fait grand bruit dans une de nos Provinces, où il a esté vû
+          depuis six mois.</p>
         <quote>
           <label>ENTRETIEN<lb/><hi rend="sc">Satyrique et Moral.</hi></label>
           <lg>
@@ -30,9 +30,7 @@
             <l rend="i">On voit déja mêlez les parens de la fille,</l>
             <l rend="i">Avec tous tes amis &amp; toute ta famille,</l>
             <l rend="i">Et sans distinction de merite ou de rang,</l>
-            <l>
-              <hi rend="i">Chez toy sont confondus le Noble &amp; l’Artisan.</hi>
-            </l>
+            <l><hi rend="i">Chez toy sont confondus le Noble &amp; l’Artisan.</hi></l>
             <l rend="i">Mais d’où peut proceder ton aveugle manie,</l>
             <l rend="i">Et quel demon conspire au malheur de ta vie ?</l>
             <l rend="i">Vingt mille écus comptans auront-ils le pouvoir</l>
@@ -230,6 +228,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

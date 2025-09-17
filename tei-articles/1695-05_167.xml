@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,16 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>L’Amant heureux</head>
         <bibl><title>Mercure galant</title>, mai 1695 [tome 5], p. 167-176.</bibl>
-        <p>Vous demeurerez d’accord, Madame, quand vous aurez lû l’Ouvrage qui suit, que son Auteur a beaucoup de talent pour la Poësie. Je luy rendrois la justice qu’on luy doit, si son nom m’estoit connu.</p>
+        <p>Vous demeurerez d’accord, Madame, quand vous aurez lû l’Ouvrage qui suit, que son Auteur
+          a beaucoup de talent pour la Poësie. Je luy rendrois la justice qu’on luy doit, si son nom
+          m’estoit connu.</p>
         <quote>
           <label>L’AMANT HEUREUX.</label>
           <lg>
-            <l>
-              <hi rend="i">D’un peril évité l’image retracée</hi>
-            </l>
+            <l><hi rend="i">D’un peril évité l’image retracée</hi></l>
             <l rend="i">Ne porte pas toûjours l’effroy dans la pensée.</l>
             <l rend="i">Le trouble, les tourment, les chagrins surmontez</l>
             <l rend="i">Souvent avec plaisir nous sont representez.</l>
@@ -51,9 +50,7 @@
             <l rend="i">Iris, jusqu’à ce jour, douce, tendre, fidelle</l>
             <l rend="i">Ne luy parut enfin, qu’ingrate &amp; criminelle.</l>
             <l rend="i">Son silence, sa voix, tout mal interpreté,</l>
-            <l>
-              <hi rend="i">L’accusoit d’injustice &amp; de legereté.</hi>
-            </l>
+            <l><hi rend="i">L’accusoit d’injustice &amp; de legereté.</hi></l>
             <l rend="i"> Dans ce trouble secret Daphnis sombre &amp; farouche</l>
             <l rend="i">Cherche Iris en tous lieux le reproche à la bouche ;</l>
             <l rend="i">Il la suit, sur ses pas rien ne peut l’arrester,</l>
@@ -113,6 +110,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

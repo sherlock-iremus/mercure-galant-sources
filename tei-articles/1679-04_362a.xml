@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Histoire du Grand Theodose, par M. l’Abbé Fléchier]</head>
         <bibl><title>Mercure galant</title>, avril 1679 [tome 4], p. 362.</bibl>
-        <p>La celebre &amp; belle Histoire du <hi rend="i">Grand Theodose</hi>, par M<hi rend="sup">r</hi> l’Abbé Flechier, se vend depuis quelques jours chez le S<hi rend="sup">r</hi> Cramoisy. Tout le monde court l’acheter en foule. Il y a longtemps qu’il ne s’est rien fait de si beau.</p>
+        <p>La celebre &amp; belle Histoire du <hi rend="i">Grand Theodose</hi>, par M<hi rend="sup">r</hi> l’Abbé Flechier, se vend depuis quelques jours chez le S<hi rend="sup">r</hi>
+          Cramoisy. Tout le monde court l’acheter en foule. Il y a longtemps qu’il ne s’est rien
+          fait de si beau.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

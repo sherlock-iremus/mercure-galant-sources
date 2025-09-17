@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div copyOf="JLB_MG-1683-06_111">
+    <body><div copyOf="JLB_MG-1683-06_111">
         <head>Réponse à M<hi rend="sup">r</hi> Quinaut</head>
         <bibl><title>Mercure galant</title>, juin 1683 [tome 6], p. 111-114.</bibl>
-        <p>Je vous envoyay dans ma Lettre de Fevrier un Madrigal de M<hi rend="sup">r</hi> Quinaut, que tout le monde a trouvé fort agreable<note resp="editor">Voir <ref target="MG-1683-02_253">cet article</ref>.</note>. Voicy la Réponse que luy a fait le Berger de Flore.</p>
+        <p>Je vous envoyay dans ma Lettre de Fevrier un Madrigal de M<hi rend="sup">r</hi> Quinaut,
+          que tout le monde a trouvé fort agreable<note resp="editor">Voir <ref target="MG-1683-02_253">cet article</ref>.</note>. Voicy la Réponse que luy a fait le Berger de
+          Flore.</p>
         <quote>
           <label>REPONSE<lb/>A M<hi rend="sup">r</hi> QUINAUT.</label>
           <lg>
@@ -67,6 +68,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

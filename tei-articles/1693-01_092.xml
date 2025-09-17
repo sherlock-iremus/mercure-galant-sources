@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Les Plaisirs de la Vie Champestre</head>
         <bibl><title>Mercure galant</title>, janvier 1693 [tome 1], p. 92-105.</bibl>
         <p/>
-        <p>Il y a quelque-temps que je vous envoyay la Traduction de la seconde Epode d’Horace, qui commence par, <hi rend="i">Beatus ille qui procul negotiis</hi>. Je vous envoye aujourd’huy une Paraphrase de la mesme Epode, qui vous fera voir combien un heureux genie trouve de differentes pensées sur une mesme matiere. Cette Paraphrase est du Fils de M<hi rend="sup">r</hi> Mahudel, Avocat au Presidial de Langres.</p>
+        <p>Il y a quelque-temps que je vous envoyay la Traduction de la seconde Epode d’Horace, qui
+          commence par, <hi rend="i">Beatus ille qui procul negotiis</hi>. Je vous envoye
+          aujourd’huy une Paraphrase de la mesme Epode, qui vous fera voir combien un heureux genie
+          trouve de differentes pensées sur une mesme matiere. Cette Paraphrase est du Fils de M<hi rend="sup">r</hi> Mahudel, Avocat au Presidial de Langres.</p>
         <quote>
           <label>LES PLAISIRS<lb/>De la Vie Champestre.</label>
           <lg>
@@ -160,6 +162,7 @@
           </lg>
         </quote>
       </div>
-    </body>
+
+      </body>
   </text>
 </TEI>

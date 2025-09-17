@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Le Solitaire, Sonnet</head>
         <bibl><title>Le Nouveau Mercure galant</title>, août 1677 [tome VI], p. 31-34.</bibl>
         <p>Pendant que les beaux Esprits travaillent pour laisser apres eux dequoy la convaincre des étonnantes merveilles que nous voyons tous les jours, vous voulez bien que nous changions de matiere, &amp; que je vous envoye un Sonnet qui n’est ny sur la Galanterie, ny sur le bonheur de la France, &amp; auquel l’Amour n’a point de part.</p>
@@ -49,6 +48,6 @@
         </quote>
         <p>Ces choses sont belles à dire, mais l’execution en est difficile, &amp; la plûpart de ceux qui font ces sortes d’Ouvrages, songent bien moins à quiter le monde, qu’à faire paroistre leur esprit.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

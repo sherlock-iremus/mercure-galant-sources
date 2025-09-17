@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Nouvelle Devise pour le Roy]</head>
         <bibl><title>Mercure galant</title>, février 1679 [tome 2], p. 1-5.</bibl>
         <p rend="outdent">Il y a longtemps, Madame, que les premiers Articles de mes Lettres sont des Nouvelles de Paix concluës, ou de Ratifications. Si vous n’en trouvez point de cette nature dans le commencement de celle-cy, j’espere au moins que je ne la finiray pas sans avoir quelque chose d’assuré à vous dire sur ce qui regarde la Paix d’Allemagne. Tous les Souverains qui ont éprouvé la force des Armes de la France dans la Ligue qu’ils ont faite contre le Roy, n’ayant qu’un Traité à faire, n’ont à parler qu’une fois de Paix ; mais <hi rend="sc">Loüis le Grand</hi> qui a veu presque toute l’Europe unie contre luy, a tous les jours de nouveaux Traitez à conclure, &amp; cela fait voir qu’il n’y eut jamais une Devise plus juste que celle qu’on fit autrefois pour luy sur le Soleil, avec des Paroles qui marquoient qu’il suffisoit seul à tous, puis que cet Invincible Monarque s’est toûjours veu en état de soûtenir seul les efforts de tant d’Ennemis liguez, &amp; que rien n’eust esté capable d’arrester le cours rapide de ses Conquestes, s’il n’eust trouvé de la gloire à joindre le titre de Pacifique à celuy de Triomphant. Cette pensée a donné occasion à une nouvelle Devise dont le corps est un Soleil, qui change une nüée brillante d’éclairs, &amp; grosse de foudres, en une rosée qui ne peut que fortifier la terre. Elle a ces Paroles pour ame.</p>
@@ -33,6 +32,6 @@
           <l>Ce que l’un fait en l’air, l’autre le fait en terre.</l>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

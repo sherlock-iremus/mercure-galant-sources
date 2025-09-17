@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>[Perte faite par les Ennemis à l’attaque des retranchemens de Donawert]</head>
-        <bibl><title>Mercure galant</title>, août 1704 [tome 9], p. 425.</bibl>
-        <p>Il ne s’est point donné de bataille depuis plusieurs siécles où le party vaincu ait plus perdu de monde que le vainqueur a fait à l’attaque des retranchemens de Donawert. On vient d’apprendre qu’outre les Generaux d’armée &amp; les Officiers Generaux qui ont esté tuez ou blessez à mort dans cette attaque, &amp; dont je vous ay envoyé les noms, le General Major des Troupes de Franconie est mort des blessures qu’il y a reçûës ; &amp; par une Lettre interceptée on a appris que les Ennemis ont perdu dans la même action 20. Colonels, 31. Lieutenans Colonels, 17. Majors, 36. Capitaines, 196. Lieutenans, &amp; 102. Enseignes.</p>
-      </div>
-    </body>
+    <body><div>
+          <head>[Perte faite par les Ennemis à l’attaque des retranchemens de Donawert]</head>
+          <bibl><title>Mercure galant</title>, août 1704 [tome 9], p. 425.</bibl>
+          <p>Il ne s’est point donné de bataille depuis plusieurs siécles où le party vaincu ait plus perdu de monde que le vainqueur a fait à l’attaque des retranchemens de Donawert. On vient d’apprendre qu’outre les Generaux d’armée &amp; les Officiers Generaux qui ont esté tuez ou blessez à mort dans cette attaque, &amp; dont je vous ay envoyé les noms, le General Major des Troupes de Franconie est mort des blessures qu’il y a reçûës ; &amp; par une Lettre interceptée on a appris que les Ennemis ont perdu dans la même action 20. Colonels, 31. Lieutenans Colonels, 17. Majors, 36. Capitaines, 196. Lieutenans, &amp; 102. Enseignes.</p>
+        </div>
+        </body>
   </text>
 </TEI>

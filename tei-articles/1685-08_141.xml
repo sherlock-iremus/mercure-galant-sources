@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Suite des Conversions faites dans le Bearn, pendant le mois de Juin]</head>
         <bibl><title>Mercure galant</title>, août 1685 [tome 8], p. 141-150, 157-159</bibl>
         <p/>
@@ -23,6 +22,6 @@
         <p/>
         <p>Cet Acte de Déliberation si solemnel, fut suivy le Dimanche 15. Juillet, de leur Abjuration, auquel on fit une Procession, où le Parlement &amp; tous les Corps de la Ville assisterent. Le <hi rend="i">Te Deum</hi> y fut chanté, &amp; les acclamations de <hi rend="i">Vive le Roy</hi>, furent accompagnées du bruit du Canon du Château, &amp; suivies d'un Feu d'artifice, &amp; de la décharge de la Mousqueterie. On peut dire que la Conversion des Pretendus Reformez de la Ville de Pau a esté generale, puis qu'il n'y reste presentement que deux Familles de Gentilshommes, &amp; une d'un Marchand, qui témoignent vouloir perserverer dans la Religion Pretenduë Reformée, avec les Femmes de trois Officiers du Parlement, &amp; de quatre autres Bourgeois. [...]</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

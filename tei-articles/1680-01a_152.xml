@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Entrée de M. l’Evesque de Munster à Munster]</head>
         <bibl><title>Mercure galant</title>, janvier 1680 [tome 1], p. 152-165.</bibl>
         <p> Vous vous souvenez sans doute que le Prince Ferdinand de Furstemberg, Evesque de Paderborn, l’est devenu de Munster. Je vous ay parlé de ses grandes qualitez &amp; de sa Maison, en vous apprenant la mort du defunt Evesque. Il faut aujourd’huy vous apprendre les solemnitez de son Entrée dans la Ville de Munster. Elle a esté faite depuis deux mois avec tout l’éclat qui pouvoit rendre digne du Prince pour qui elle estoit ordonnée. En effet on ne se souvient point d’en avoir veu de pareilles. Ce qui en a augmenté le lustre, outre le nombre de Spéctateurs qui y sont accourus de tous costez, ç’a esté la veritable &amp; sincere joye, que non seulement les Habitans de la Ville, mais tous les Peuples voisins, ont fait paroistre dans cette rencontre. Le 13. de Novembre 1679. ce Prince partit de Wolbeck, suivy de sa Cour, &amp; de plusieurs Cavaliers du Païs de Paderborn. A une heure de Munster, il fut rencontré par la Noblesse de ce Païs-là, en suite par les Capitulaires, par les Prélats du Chapitre, &amp; par les Ambassadeurs des Princes Ecclesiastiques. Après les complimens faits de part &amp; d’autre, on prit le chemin vers la Porte Saint Leger ; par où l’on entra dans l’ordre suivant.</p>
@@ -47,6 +46,6 @@
         <p>Mr l’Evesque de Munster mit pied à terre dans la Court, &amp; s’estant retiré dans la Chapelle de S. Michel, il y prit l’Habit Episcopal, &amp; fut servy &amp; mené en Procession par les Religions, le Clergé, &amp; le Chapitre, à la Cathédrale, où apres qu’il eust fait les prieres &amp; cerémonies ordinaires, &amp; réçeu le serment &amp; l’hommage du Chapitre, on chanta le <hi rend="i">Te deum</hi> , avec double Chœur de Musique, &amp; les Trompetes, triple décharge du Canon de la Ville, &amp; trois salves de la Cavalerie &amp; de l’Infanterie. Cela estant fait, ce Prince s’en retourna à la Court en Procession, comme il en estoit party, &amp; l’on traita fort magnifiquement toute cette grande Assemblée, pendant trois jours que dura la Cerémonie. L’arrivée de trois Ambassadeurs de Hollande, de Brandebourg, &amp; d’Osnabruch, fut pour elle une augmentation d’éclat. Le second jour, la Noblesse du Païs de Munster presta serment de fidelité à S. A. laquelle assista en suite en Habit Pontifical à la Messe chantée par le Trésorier du Chapitre de Schmising. Apres la Messe, elle reçeut l’hommage des Magistrats, &amp; de la Ville de Munster, avec de grands applaudissemens du Peuple, &amp; s’en revint à la Court en Carrosse, précedée de plus de deux cens Gentilshommes qui marchoient à pied.</p>
         <p>Le troisiéme jour on monta à la Citadelle, pour voir le Feu d’artifice préparé sous la direction du Colonel de l’Artillerie Correy, avec plusieurs Machines &amp; Figures tres-bien disposées, sur la terre &amp; sur l’eau du Fossé. Ce Spéctacle eut tout le succés qu’on en pouvoit esperer. Les Collations servies sous des Tentes pour régaler les Dames qui s’y trouverent en fort grand nombre, acheverent les divertissemens de la Feste.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

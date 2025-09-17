@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head resp="editor">Galanterie à Iris</head>
         <bibl><title>Le Nouveau Mercure galant</title>, mai 1677 [tome III], p. 95-102</bibl>
         <p>Le Roy ne fut pas plutost maistre de Cambray, que le Prevost de la Cathedrale, qui est en réputation d’un Homme d’esprit, vint de la part de tout le Clergé, prier Sa Majesté d’entrer dans la Ville, ce qu’elle ne fit qu’apres la prise de la Citadelle. Quittons un moment cette matiere, &amp; pour vous délasser de la guerre, passons au chapitre de l’Amour. Voicy des Vers qu’il a fait faire : ils ont un tour noble qui marque les privileges de leur source, &amp; vous n’en avez jamais trouvé de bons, si vous n’estes contente de ceux-cy.</p>
@@ -63,6 +62,6 @@
         </quote>
         <p>Que pensez-vous, Madame, de cette galanterie ? L’Autheur qui prétend que ses vieilles années luy ont acquis l’avantage d’aimer si commodement, &amp; qui s’explique d’une maniere si agreable, ne merite-t-il pas d’estre particulierement consideré de la Dame ? Il est rare de pouvoir conserver dans un âge aussi avancé que celuy qu’il se donne, le feu d’esprit qu’il fait paroistre encor dans ces Vers ; &amp; le vieux Martian que vous avez tant admiré dans l’admirable Pulcherie du grand Corneille, n’auroit pas parlé plus galamment, s’il avoit voulu s’éloigner du sérieux.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

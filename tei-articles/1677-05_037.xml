@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head resp="editor">Vers de Madame le Camus à S.A.R.</head>
         <bibl><title>Le Nouveau Mercure galant</title>, mai 1677 [tome III], p. 37-40</bibl>
         <p>Tout le monde s’est interessé à la gloire de Son Altesse Royale, &amp; les Dames y ont aussi voulu prendre part. Voicy les Vers que Madame le Camus luy a presentez.</p>
@@ -46,6 +45,6 @@
         </quote>
         <p>Avoüez, Madame, que ces Vers ne sont pas indignes du Héros qui les a reçeus, qu’ils ont un tour facile, qu’il est rare de trouver dans ce qu’on travaille avec trop d’étude, &amp; que pour leur donner vostre approbation, vous n’avez pas besoin de consulter l’estime que vous avez pour Madame le Camus, qui soûtient si noblement les avantages de vostre beau Sexe.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

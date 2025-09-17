@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,18 +14,27 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Sonnet]</head>
         <bibl><title>Mercure galant</title>, septembre 1690 [tome 10], p. 187-190.</bibl>
-        <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : La Medaille doit regarder la page 184.</note>
-        <p>Je vous envoye le revers d’une Médaille de la vie du Roy, où vous trouverez la Prise de Bude. On voit au dessus un Soleil avec ces paroles, <hi rend="i">Me stante triumphant</hi>, c’est à dire, que lors que le Roy n’a point les armes à la main, les Allemans triomphent des Turcs. Rien n’est plus constant, &amp; le contraire se voit dans la perte qu’ils ont faite, le premier jour de cette année, &amp; dans celle qu’ils viennent de faire en Transilvanie. Cependant ils n’ont pù joüir de leur bonheur, &amp; ils ont mieux aimé se liguer contre la France, &amp; forcer Sa Majesté à reprendre les armes aprés les avoir quittées en faveur de la Chrestienté, que de voir augmenter les Conquestes qu’ils avoient commencé à faire sur les Ennemis de la Foy. Ils ont assuré par là de nouveaux triomphes à ce grand Monarque ; &amp; l’on peut dire avec beaucoup de raison à son avantage, ce que M<hi rend="sup">r</hi> de Condamine, Receveur des Finances à Nevers, a heureusement exprimé dans ce Sonnet.</p>
+        <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : La
+          Medaille doit regarder la page 184.</note>
+        <p>Je vous envoye le revers d’une Médaille de la vie du Roy, où vous trouverez la Prise de
+          Bude. On voit au dessus un Soleil avec ces paroles, <hi rend="i">Me stante
+          triumphant</hi>, c’est à dire, que lors que le Roy n’a point les armes à la main, les
+          Allemans triomphent des Turcs. Rien n’est plus constant, &amp; le contraire se voit dans
+          la perte qu’ils ont faite, le premier jour de cette année, &amp; dans celle qu’ils
+          viennent de faire en Transilvanie. Cependant ils n’ont pù joüir de leur bonheur, &amp; ils
+          ont mieux aimé se liguer contre la France, &amp; forcer Sa Majesté à reprendre les armes
+          aprés les avoir quittées en faveur de la Chrestienté, que de voir augmenter les Conquestes
+          qu’ils avoient commencé à faire sur les Ennemis de la Foy. Ils ont assuré par là de
+          nouveaux triomphes à ce grand Monarque ; &amp; l’on peut dire avec beaucoup de raison à
+          son avantage, ce que M<hi rend="sup">r</hi> de Condamine, Receveur des Finances à Nevers,
+          a heureusement exprimé dans ce Sonnet.</p>
         <quote>
           <label>AU ROY.</label>
           <lg>
-            <l>
-              <hi rend="i">Que de gloire à la fois éclate sur ta teste !</hi>
-            </l>
+            <l><hi rend="i">Que de gloire à la fois éclate sur ta teste !</hi></l>
             <l rend="i">Que d’Ennemis vaincus cedent à ton pouvoir !</l>
             <l rend="i">L’Allemagne à l’aspect de tes Drapeaux s’arreste,</l>
             <l rend="i">Et le Belge dompté n’ose se faire voir.</l>
@@ -51,6 +60,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

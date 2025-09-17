@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Demande à Iris</head>
         <bibl><title>Mercure galant</title>, avril 1678 [tome 4], p. 115-116.</bibl>
-        <p>Comme on n’aime que pour estre aimé, il ne faut pas s’étonner si on cherche quelquefois à faire ses conditions. Voyez par ces Vers que j’ay reçeus de Bordeaux, si un Amant qui craignoit de s’engager inutilement, a eu raison de faire expliquer sa Belle.</p>
+        <p>Comme on n’aime que pour estre aimé, il ne faut pas s’étonner si on cherche quelquefois à
+          faire ses conditions. Voyez par ces Vers que j’ay reçeus de Bordeaux, si un Amant qui
+          craignoit de s’engager inutilement, a eu raison de faire expliquer sa Belle.</p>
         <quote>
           <label rend="center">Demande à Iris.</label>
           <lg>
@@ -26,8 +27,7 @@
             <l>Quand je vous parleray de l’ardeur de mes feux ?</l>
             <l>Ce doute m’embarasse, en vous voyant si belle,</l>
             <l>Et me fait diférer de vous ofrir mes vœux.</l>
-          </lg>
-          <lg>
+          </lg><lg>
             <l>Si vous les refusez, ma fortune est à plaindre,</l>
             <l>Si vous les recevez, mon sort est glorieux ;</l>
             <l><space/>Mais je n’ay pas sujet de craindre,</l>
@@ -35,6 +35,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

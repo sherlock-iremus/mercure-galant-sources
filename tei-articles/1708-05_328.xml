@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,44 +14,28 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>Air nouveau</head>
-        <bibl><title>Mercure galant</title>, mai 1708 [tome 5], p. 328.</bibl>
-        <p>Je vous envoye une Chanson nouvelle.</p>
-        <quote>
-          <label>AIR NOUVEAU.</label>
-          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : [l’Air] qui commence par, <hi rend="i">Il n’est point de bonne chere</hi>, doit regarder la page 328.</note>
-          <lg>
-            <l>
-              <hi rend="i">Il n’est point de bonne chere</hi>
-            </l>
-            <l>
-              <hi rend="i">Sans le secours du bon vin ;</hi>
-            </l>
-            <l>
-              <hi rend="i">Sans luy je n’estime guere</hi>
-            </l>
-            <l>
-              <hi rend="i">Le plus excellent festin,</hi>
-            </l>
-            <l>
-              <hi rend="i">Et ce ragoust si divin</hi>
-            </l>
-            <l>
-              <hi rend="i">À seul dequoy satisfaire.</hi>
-            </l>
-            <l>
-              <hi rend="i">Il n’est point, &amp;c.</hi>
-            </l>
-          </lg>
-        </quote>
-        <ref target="images/1708-05_328.JPG">
-          <figure>
-            <graphic url="images/1708-05_328.JPG"/>
-          </figure>
-        </ref>
-      </div>
-    </body>
+    <body><div>
+          <head>Air nouveau</head>
+          <bibl><title>Mercure galant</title>, mai 1708 [tome 5], p. 328.</bibl>
+          <p>Je vous envoye une Chanson nouvelle.</p>
+          <quote>
+            <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : [l’Air] qui commence par, <hi rend="i">Il n’est point de bonne chere</hi>, doit regarder la page 328.</note>
+            <lg>
+              <l><hi rend="i">Il n’est point de bonne chere</hi></l>
+              <l><hi rend="i">Sans le secours du bon vin ;</hi></l>
+              <l><hi rend="i">Sans luy je n’estime guere</hi></l>
+              <l><hi rend="i">Le plus excellent festin,</hi></l>
+              <l><hi rend="i">Et ce ragoust si divin</hi></l>
+              <l><hi rend="i">À seul dequoy satisfaire.</hi></l>
+              <l><hi rend="i">Il n’est point, &amp;c.</hi></l>
+            </lg>
+          </quote>
+          <ref target="images/1708-05_328.JPG">
+            <figure>
+              <graphic url="images/1708-05_328.JPG"/>
+            </figure>
+          </ref>
+        </div>
+      </body>
   </text>
 </TEI>

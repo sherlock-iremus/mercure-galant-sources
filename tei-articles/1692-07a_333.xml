@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, juillet 1692 [tome 8], p. 333-334.</bibl>
         <p>L'estat d'une Amante, reduite à donner des pleurs à la mort de son Amant est un estat digne de pitié. Vous en trouverez la triste peinture dans les paroles que vous allez lire <note resp="editor">Le poème figure dans les <hi rend="italic">Oeuvres de Madame et Mademoiselle Deshoulières</hi> (t. 2, Paris, Prault fils, 1753, p. 251).</note>.</p>
         <quote>
-          <label>AIR NOUVEAU.</label>
-          <note resp="author" place="margin">L’Air doit regarder la page 333.</note>
-          <lg>
-            <l rend="i">Taisez-vous, Rossignols, vostre tendre ramage</l>
+          <label>AIR NOUVEAU.</label><note resp="author" place="margin">L’Air doit regarder la page 333.</note>
+          <lg><l rend="i">Taisez-vous, Rossignols, vostre tendre ramage</l>
             <l rend="i">Rappelle toutes mes douleurs.</l>
             <l rend="i">Tircis à son départ, sous ce mesme feüillage,</l>
             <l rend="i">Tandis que de l'Amour vous chantiez les douceurs,</l>
@@ -32,8 +29,7 @@
             <l rend="i">Je ne gousteray plus les plaisirs enchantez ;</l>
             <l rend="i">Tircis de l'Acheron a veu l'affreux rivage.</l>
             <l rend="i">Taisez-vous, Rossignols, vostre tendre ramage</l>
-            <l rend="i">Rappelle toutes mes douleurs.</l>
-          </lg>
+            <l rend="i">Rappelle toutes mes douleurs.</l></lg>
         </quote>
         <ref target="images/1692-07a_333.JPG">
           <figure>
@@ -41,6 +37,6 @@
           </figure>
         </ref>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

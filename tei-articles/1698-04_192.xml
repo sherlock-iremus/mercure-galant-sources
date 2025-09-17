@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, avril 1698 [tome 4], p. 192-193.</bibl>
         <p>Les vers de la Chanson que je vous envoye gravée, font connoître l'heureux état où le Roy a mis la France, en luy procurant la Paix. Ils seront sans doute chantez dans vôtre Province, avec autant de plaisir qu'ils le sont icy.</p>
         <quote>
-          <label>AIR NOUVEAU.</label>
-          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par <hi rend="i">Aprés un si cruel Orage</hi>, doit regarder la page 193.</note>
-          <lg>
-            <l rend="i">Aprés un si cruel Orage,</l>
+          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par <hi rend="i">Aprés un si cruel Orage</hi>, doit regarder la page 193.</note>
+          <lg><l rend="i">Aprés un si cruel Orage,</l>
             <l rend="i">Aprés tant d'horribles Combats,</l>
             <l rend="i">Goutons un repos plein d'apas,</l>
             <l rend="i">De la Paix c'est le digne Ouvrage.</l>
@@ -32,8 +29,7 @@
             <l rend="i">Chantons tour à tour à sa gloire,</l>
             <l rend="i">Loüis le plus grand des Guerriers,</l>
             <l rend="i">Pour éterniser sa memoire,</l>
-            <l rend="i">Prefere l'Olive aux Lauriers.</l>
-          </lg>
+            <l rend="i">Prefere l'Olive aux Lauriers.</l></lg>
         </quote>
         <ref target="images/1698-04_192.JPG">
           <figure>
@@ -41,6 +37,6 @@
           </figure>
         </ref>
       </div>
-    </body>
+        </body>
   </text>
 </TEI>

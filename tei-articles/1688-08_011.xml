@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,16 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>[Ouvrage lû à l’Academie Françoise le jour de la Reception de M. de la Chapelle]</head>
+    <body><div>
+        <head>[Ouvrage lû à l’Academie Françoise le jour de la Reception de M. de la
+          Chapelle]</head>
         <bibl><title>Mercure galant</title>, août 1688 [tome 11], p. 11-18</bibl>
         <p/>
-        <p>Aussi peut-on dire que tous les François touchez pour luy du plus tendre amour, font les mesmes vœux, que M<hi rend="sup">r</hi> Boyer a faits dans les Vers qui furent leus à l’Academie Françoise, le jour que M<hi rend="sup">r</hi> de la Chapelle y fut receu. Je vous les envoye, estant fort persuadé qu’ils vous paroistront tres-dignes de leur Auteur, &amp; des applaudissemens que leur donna une nombreuse Assemblée.</p>
+        <p>Aussi peut-on dire que tous les François touchez pour luy du plus tendre amour, font les
+          mesmes vœux, que M<hi rend="sup">r</hi> Boyer a faits dans les Vers qui furent leus à
+          l’Academie Françoise, le jour que M<hi rend="sup">r</hi> de la Chapelle y fut receu. Je
+          vous les envoye, estant fort persuadé qu’ils vous paroistront tres-dignes de leur Auteur,
+          &amp; des applaudissemens que leur donna une nombreuse Assemblée.</p>
         <quote>
           <label>PRIERE POUR LE ROY.</label>
           <lg>
@@ -104,6 +108,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

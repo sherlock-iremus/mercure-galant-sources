@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Vers sur les fêtes du château de la Galanderie]</head>
-        <bibl><title>Mercure galant</title>, septembre 1682 (deuxième partie) [tome 10], p. 202-204.</bibl>
-        <p>[...] Quantité de Personnes remarquables de l’un &amp; de l’autre Sexe se trouverent à la Feste, pendant laquelle il tint table ouverte, avec des Hautbois &amp; des Violons, dont l’harmonie ne contribuoit pas peu à la pompe des Repas. Ce qui s’est passé dans ce Chasteau, a donné lieu à un galant Homme de ce Païs-là, de faire ces Vers.</p>
+        <bibl><title>Mercure galant</title>, septembre 1682 (deuxième partie) [tome 10],
+          p. 202-204.</bibl>
+        <p>[...] Quantité de Personnes remarquables de l’un &amp; de l’autre Sexe se trouverent à la
+          Feste, pendant laquelle il tint table ouverte, avec des Hautbois &amp; des Violons, dont
+          l’harmonie ne contribuoit pas peu à la pompe des Repas. Ce qui s’est passé dans ce
+          Chasteau, a donné lieu à un galant Homme de ce Païs-là, de faire ces Vers.</p>
         <quote>
           <lg>
             <l rend="i">On vit le premier soir, à la clarté des Feux,</l>
@@ -38,8 +41,10 @@
           </lg>
         </quote>
         <p/>
-        <p>Le moyen, Madame, de sortir de la Touraine, sans passer par Candes ? Candes est un Lieu qui mérite bien que les beautez vous en soient connuës. Vous en tomberez d’accord, quand vous aurez lû la Lettre qui suit.</p>
+        <p>Le moyen, Madame, de sortir de la Touraine, sans passer par Candes ? Candes est un Lieu
+          qui mérite bien que les beautez vous en soient connuës. Vous en tomberez d’accord, quand
+          vous aurez lû la Lettre qui suit.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[M<hi rend="sup">r</hi> de Percy, Neveu de M<hi rend="sup">r</hi> Dupré Envoyé de Sa Majesté à Florence, est reçû Chevalier de S. Etienne]</head>
         <bibl><title>Mercure galant</title>, décembre 1696 [tome 12], p. 193-196.</bibl>
         <p/>
@@ -26,6 +25,6 @@
           <p>Cet Ordre fut estably par Cosme I. de Medicis, l'an 1560 en reconnoissance d'une fameuse Victoire qu'il emporta sur les Siennois le 2. Aoust, Feste de Saint Estienne Pape &amp; Martir, &amp; il fut approuvé le I. Février de l'année suivante par le Pape Pie V. On y observe la Regle de S. Benoist, chez les Religieux duquel tout Chevalier est obligé pendant six mois d'aller faire son Noviciat, qui consiste à entendre pendant ce temps la grande Messe &amp; les Vespres les Festes &amp; les Dimanches dans le Choeur de leur Eglise avec l'habit de Ceremonie. [...]</p>
         </quote>
       </div>
-    </body>
+        </body>
   </text>
 </TEI>

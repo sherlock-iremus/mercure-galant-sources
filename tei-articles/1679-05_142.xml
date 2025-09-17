@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Contre l’Amour. Sonnet</head>
         <bibl><title>Mercure galant</title>, mai 1679 [tome 5], p. 142-144.</bibl>
-        <p>L’indiférence de la Belle dont je vous parle, ne sera pas condamnée, si nous en voulons croire ce Sonnet de M<hi rend="sup">r</hi> l’Abbé de Rotrou.</p>
+        <p>L’indiférence de la Belle dont je vous parle, ne sera pas condamnée, si nous en voulons
+          croire ce Sonnet de M<hi rend="sup">r</hi> l’Abbé de Rotrou.</p>
         <quote>
           <label type="head">Contre l’Amour.</label>
           <label type="head">Sonnet.</label>
@@ -44,6 +44,6 @@
           <l>Ont un bien funeste retour.</l>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

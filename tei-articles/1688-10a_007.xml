@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,30 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Ode</head>
-        <bibl><title>Mercure galant</title>, octobre 1688 (première partie) [tome 14], p. 7-21</bibl>
+        <bibl><title>Mercure galant</title>, octobre 1688 (première partie) [tome 14],
+          p. 7-21</bibl>
         <p/>
-        <p>Je ne dis rien de nouveau, Madame, en vous disant que toute la Terre est remplie de la reputation du Roy. Mille actions qui ébloüissent jusques aux Jaloux de sa grandeur, leur arrachent les loüanges qu’il est impossible de refuser à la verité. Elles sont dans la bouche des Peuples les plus éloignez, dont les Souverains luy ont envoyé des Ambassadeurs pour estre témoins des merveilles de sa vie. Ses Sujets qui luy doivent plus que les Nations Etrangeres, parlent à toute heure avec admiration de ses grandes qualitez ; mais quelques justes que soient les divers Eloges qui luy sont donnez de toutes parts, il est certain que l’on n’en voit point de meilleur goust, que ceux qu’on trouve employez dans les Ouvrages qui remportent les Prix proposez par les Academies des Gens de Lettres. Il n’y en a aucune aujourd’huy, qui ne choisisse quelque action de ce grand Monarque pour le sujet de ces Prix, &amp; comme la matiere est toûjours belle, que l’émulation de ceux qui travaillent est grande, &amp; que les Juges sont fort éclairez, il ne faut pas s’étonner si les Ouvrages de cette nature sont plus reguliers &amp; plus achevez que beaucoup d’autres. Voicy celuy qui a remporté cette année le prix de Poësie, par le jugement de l’Academie Royale d’Angers. Elle avoit marqué pour sujet, les sentimens de respect &amp; d’admiration dont les Peuples les plus éloignez ont donné des témoignages au Roy par de celebres Ambassades. La Priere que vous trouverez à la fin de cette Piece, est d’une obligation indispensable, &amp; c’est par là que doivent finir tous ceux qui veulent entrer dans cette sorte de lice.</p>
+        <p>Je ne dis rien de nouveau, Madame, en vous disant que toute la Terre est remplie de la
+          reputation du Roy. Mille actions qui ébloüissent jusques aux Jaloux de sa grandeur, leur
+          arrachent les loüanges qu’il est impossible de refuser à la verité. Elles sont dans la
+          bouche des Peuples les plus éloignez, dont les Souverains luy ont envoyé des Ambassadeurs
+          pour estre témoins des merveilles de sa vie. Ses Sujets qui luy doivent plus que les
+          Nations Etrangeres, parlent à toute heure avec admiration de ses grandes qualitez ; mais
+          quelques justes que soient les divers Eloges qui luy sont donnez de toutes parts, il est
+          certain que l’on n’en voit point de meilleur goust, que ceux qu’on trouve employez dans
+          les Ouvrages qui remportent les Prix proposez par les Academies des Gens de Lettres. Il
+          n’y en a aucune aujourd’huy, qui ne choisisse quelque action de ce grand Monarque pour le
+          sujet de ces Prix, &amp; comme la matiere est toûjours belle, que l’émulation de ceux qui
+          travaillent est grande, &amp; que les Juges sont fort éclairez, il ne faut pas s’étonner
+          si les Ouvrages de cette nature sont plus reguliers &amp; plus achevez que beaucoup
+          d’autres. Voicy celuy qui a remporté cette année le prix de Poësie, par le jugement de
+          l’Academie Royale d’Angers. Elle avoit marqué pour sujet, les sentimens de respect &amp;
+          d’admiration dont les Peuples les plus éloignez ont donné des témoignages au Roy par de
+          celebres Ambassades. La Priere que vous trouverez à la fin de cette Piece, est d’une
+          obligation indispensable, &amp; c’est par là que doivent finir tous ceux qui veulent
+          entrer dans cette sorte de lice.</p>
         <quote>
           <label>ODE.</label>
           <lg>
@@ -76,23 +94,18 @@
           <ab type="ornament">***</ab>
           <lg>
             <l rend="i"> Quel spectacle déja sur le bord de la Seine !</l>
-            <l>
-              <hi rend="i">Je vous vois observer ces Palais <note resp="author">Le Louvre, le College des Quatre-Nations, &amp;c.</note> &gt;orgueilleux,</hi>
-            </l>
+            <l><hi rend="i">Je vous vois observer ces Palais <note resp="author">Le Louvre, le College des Quatre-Nations, &amp;c.</note>
+              &gt;orgueilleux,</hi></l>
             <l> <hi rend="i">Ces Rivages <note resp="author">La Seine au sortir de Paris est une des plus belles choses du monde.</note></hi> <hi rend="i">&amp; cette Plaine <note resp="author">La Plaine de Grenelle.</note></hi></l>
-            <l>
-              <hi rend="i">Où Mars <note resp="author">L’Hôtel des Invalides.</note> offre un azile au Soldat malheureux.</hi>
-            </l>
+            <l><hi rend="i">Où Mars <note resp="author">L’Hôtel des Invalides.</note> offre un azile au Soldat
+              malheureux.</hi></l>
             <l rend="i">Cette grande Cité si belle &amp; si feconde</l>
             <l rend="i">Paris, vous paroist moins une Ville qu’un Monde ;</l>
             <l rend="i">Cent miracles divers s’offrent de toutes parts,</l>
-            <l>
-              <hi rend="i">D’Archimedes <note resp="author">L’Observatoire.</note>nouveaux une Troupe éclairée,</hi>
-            </l>
+            <l><hi rend="i">D’Archimedes <note resp="author">L’Observatoire.</note>nouveaux une Troupe éclairée,</hi></l>
             <l rend="i">Vous fait porter les yeux dans la voûte azurée</l>
-            <l>
-              <hi rend="i">Où des feux <note resp="author"> On fit voir aux Ambassadeurs de Siam les deux Satellites qu’on a découverts depuis peu.</note>inconnus brillent à vos regards.</hi>
-            </l>
+            <l><hi rend="i">Où des feux <note resp="author"> On fit voir aux Ambassadeurs de Siam les deux Satellites qu’on a découverts depuis peu.</note>inconnus brillent à vos
+              regards.</hi></l>
           </lg>
           <ab type="ornament">***</ab>
           <lg>
@@ -161,6 +174,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

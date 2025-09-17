@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Madrigaux] [Rondeau] [Sonnet]</head>
-        <bibl><title>Mercure galant</title>, octobre 1682 (première partie) [tome 11], p. 167-172.</bibl>
-        <p>[...] Voicy ce qu’une Dame tres-distinguée par sa qualité, a dit en parlant de la Naissance de ce jeune Comte.</p>
+        <bibl><title>Mercure galant</title>, octobre 1682 (première partie) [tome 11],
+          p. 167-172.</bibl>
+        <p>[...] Voicy ce qu’une Dame tres-distinguée par sa qualité, a dit en parlant de la
+          Naissance de ce jeune Comte.</p>
         <quote>
           <lg>
             <l rend="i"> Espérons tout de sa Naissance ;</l>
@@ -30,7 +31,8 @@
           </lg>
         </quote>
         <p/>
-        <p>M<hi rend="sup">r</hi> l’Abbé Gaultier a fait aussi le Madrigal suivant sur le mesme sujet. Il est adressé à M<hi rend="sup">r</hi> le Duc de S. Aignan.</p>
+        <p>M<hi rend="sup">r</hi> l’Abbé Gaultier a fait aussi le Madrigal suivant sur le mesme
+          sujet. Il est adressé à M<hi rend="sup">r</hi> le Duc de S. Aignan.</p>
         <quote>
           <label>MADRIGAL.</label>
           <lg>
@@ -43,7 +45,10 @@
           </lg>
         </quote>
         <p/>
-        <p>M<hi rend="sup">r</hi> Petit de Roüen, dont je vous ay déja parlé du mérite &amp; de la naissance dans plusieurs de mes Lettres, en vous envoyant quelques-uns de ses Ouvrages, ayant sçeu que Madame la Duchesse de S. Aignan estoit accouchée, fit aussitost ce Rondeau, que vous trouverez en quelque façon du stile de Marot.</p>
+        <p>M<hi rend="sup">r</hi> Petit de Roüen, dont je vous ay déja parlé du mérite &amp; de la
+          naissance dans plusieurs de mes Lettres, en vous envoyant quelques-uns de ses Ouvrages,
+          ayant sçeu que Madame la Duchesse de S. Aignan estoit accouchée, fit aussitost ce Rondeau,
+          que vous trouverez en quelque façon du stile de Marot.</p>
         <quote>
           <label>RONDE AU.</label>
           <lg>
@@ -72,7 +77,8 @@
           </lg>
         </quote>
         <p/>
-        <p>La veine de M<hi rend="sup">r</hi> Boursault n’est pas demeurée inutile en cette occasion. Il a fait le Sonnet que vous allez lire.</p>
+        <p>La veine de M<hi rend="sup">r</hi> Boursault n’est pas demeurée inutile en cette
+          occasion. Il a fait le Sonnet que vous allez lire.</p>
         <quote>
           <label>SONNET.</label>
           <lg>
@@ -102,6 +108,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>La Jonquille</head>
         <bibl><title>Mercure galant</title>, juin 1678 [tome 6], p. 110-115.</bibl>
-        <p>Voicy d’autres Vers qui doivent avoir aussi leur mistere. Ils m’ont esté envoyez de Loudun sous le titre de la Jonquille de Madame *** L’Ouvrage me paroist allégorique, &amp; il y a grande aparence qu’on a ses veuës, quand on y parle de Zéphirs &amp; de Tubéreuses.</p>
-        <quote>
-          <label rend="center">La Jonquille.</label>
+        <p>Voicy d’autres Vers qui doivent avoir aussi leur mistere. Ils m’ont esté envoyez de
+          Loudun sous le titre de la Jonquille de Madame *** L’Ouvrage me paroist allégorique, &amp;
+          il y a grande aparence qu’on a ses veuës, quand on y parle de Zéphirs &amp; de
+          Tubéreuses.</p>
+        <quote><label rend="center">La Jonquille.</label>
           <lg>
             <l>J’eclatois autrefois dans un petit Parterre,</l>
             <l>On me reconnoissoit pour la Reyne des Fleurs ;</l>
@@ -97,9 +98,8 @@
             <l>Que le nombre pourra vous en estre importun ;</l>
             <l>J’estois accoustumée à leurs tendres haleines,</l>
             <l>Tubereuses, au moins daignez m’en laisser un.</l>
-          </lg>
-        </quote>
+          </lg></quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,16 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, avril 1686 [tome 5], p. 72-73.</bibl>
-        <p>Tous les Airs nouveaux que je vous envoye depuis quelque temps, sont choisis par un fort habile Maistre. Ainsi je ne doute point que vous ne soyez aussi satisfaite de celuy-cy, que vous l'avez esté de la plupart de ceux qui me sont venus par la mesme voye.</p>
+        <p>Tous les Airs nouveaux que je vous envoye depuis quelque temps, sont choisis par un fort
+          habile Maistre. Ainsi je ne doute point que vous ne soyez aussi satisfaite de celuy-cy,
+          que vous l'avez esté de la plupart de ceux qui me sont venus par la mesme voye.</p>
         <quote>
-          <label>AIR NOUVEAU.</label>
-          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">La Saison du Printemps est de celle de l'Amour</hi>, doit regarder la page 73.</note>
+          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour
+              placer les Figures</hi> : l’Air qui commence par <hi rend="i">La Saison du Printemps
+              est de celle de l'Amour</hi>, doit regarder la page 73.</note>
           <lg>
             <l rend="i">La Saison des Zephirs est de celle de l'Amour,</l>
             <l rend="i">Le Printemps de retour</l>
@@ -38,6 +40,6 @@
           </figure>
         </ref>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Le Singe &amp; le Miroir. Fable</head>
         <bibl><title>Mercure galant</title>, août 1679 [tome 8], p. 270-274.</bibl>
         <p>Avant que de passer à d’autres Articles, il faut vous faire voir une Fable de M<hi rend="sup">r</hi> Gardien, dont la Morale pourra estre utile à bien des Gens.</p>
@@ -37,25 +36,37 @@
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Il osa bien s’élever,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>A ce que l’on dit, le traistre,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Jusques-là que de braver</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>L'Homme, son Seigneur &amp; Maistre.</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>L'Homme, son Seigneur &amp;
+            Maistre.</l>
           <l/>
           <ab type="ornament">***</ab>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg><hi rend="i">Qu'a-t-il</hi>, disoit ce brutal</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg><hi rend="i">Qu'a-t-il</hi>, disoit
+            ce brutal</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>D'un stile blasphématoire,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg><hi rend="i">L'Homme, ce fier animal</hi>,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg><hi rend="i">Pour s’en faire tant à croire</hi> ?</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg><hi rend="i">L'Homme, ce fier
+              animal</hi>,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg><hi rend="i">Pour s’en faire tant à
+              croire</hi> ?</l>
           <l/>
           <ab type="ornament">***</ab>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg><hi rend="i">J'ay plus que luy de beauté</hi>,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg><hi rend="i">D'adresse &amp; de bonne grace</hi> ;</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg><hi rend="i">En ruse, en agilité</hi>,</l>
-          <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg>De beaucoup je le surpasse. </l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg><hi rend="i">J'ay plus que luy de
+              beauté</hi>,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg><hi rend="i">D'adresse &amp; de
+              bonne grace</hi> ;</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg><hi rend="i">En ruse, en
+              agilité</hi>,</l>
+          <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg>De beaucoup je le
+            surpasse. </l>
           <l/>
           <ab type="ornament">***</ab>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg><hi rend="i">S'il a des pieds &amp; des mains</hi>,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg><hi rend="i">C'est par là qu’il me ressemble</hi> ;</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg><hi rend="i">Et ses traits les plus humains</hi>,</l>
-          <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg>Ce sont les miens, ce me semble. </l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg><hi rend="i">S'il a des pieds &amp;
+              des mains</hi>,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg><hi rend="i">C'est par là qu’il me
+              ressemble</hi> ;</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg><hi rend="i">Et ses traits les plus
+              humains</hi>,</l>
+          <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg>Ce sont les miens, ce me
+            semble. </l>
           <l/>
           <ab type="ornament">***</ab>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>C'est ainsi que raisonnoit</l>
@@ -106,6 +117,6 @@
           <l><seg type="tab">    </seg><seg type="tab">    </seg>De la Critique cruelle.</l>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,20 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>[Portrait de Guillaume III d'Orange et de Maria-Béatrice d'Este, duchesse d'York]*</head>
+    <body><div>
+        <head>[Portrait de Guillaume III d'Orange et de Maria-Béatrice d'Este, duchesse
+          d'York]*</head>
         <bibl><title>Mercure galant</title>, juin 1679 [tome 6], p. 203-204.</bibl>
-        <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : La Médaille qui représente le Prince d’Orange, &amp; la Duchesse d’York au Revers, doit regarder la page 203.</note>
-        <p>Comme je connois que les Médailles vous plaisent, &amp; à tous ceux à qui vous montrez mes Lettres, je tâcheray de vous faire voir les véritables Portraits de tous les Princes du Monde, &amp; de tous les grands Hommes qui y font figure. Je continüe par le Portrait du Prince d’Orange que je vous envoye. Il est gravé d’apres la Médaille qui fut faite à Amsterdam dans le temps du Mariage de ce Prince. Le Revers represente la Princesse d’Orange sa Femme. Vous sçavez qu’elle est Fille du Duc d’York.</p>
+        <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : La
+          Médaille qui représente le Prince d’Orange, &amp; la Duchesse d’York au Revers, doit
+          regarder la page 203.</note>
+        <p>Comme je connois que les Médailles vous plaisent, &amp; à tous ceux à qui vous montrez
+          mes Lettres, je tâcheray de vous faire voir les véritables Portraits de tous les Princes
+          du Monde, &amp; de tous les grands Hommes qui y font figure. Je continüe par le Portrait
+          du Prince d’Orange que je vous envoye. Il est gravé d’apres la Médaille qui fut faite à
+          Amsterdam dans le temps du Mariage de ce Prince. Le Revers represente la Princesse
+          d’Orange sa Femme. Vous sçavez qu’elle est Fille du Duc d’York.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

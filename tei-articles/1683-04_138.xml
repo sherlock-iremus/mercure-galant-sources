@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,28 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Opéra représenté à Paris à l'Hostel de Duras]</head>
         <bibl><title>Mercure galant</title>, avril 1683 [tome 4], p. 138-155</bibl>
-        <p>Quoy que dans le Carnaval, on ne donne point extraordinairement des divertissemens publics à Paris, comme c'est l'usage en beaucoup d'autres Villes de l'Europe, on ne laisse pas d'y faire des Festes aussi galantes &amp; en aussi grand nombre chez les Personnes qualifiées, que l'on en fasse en aucun Lieu de la Terre. Les Spéctateurs s'y trouvent toûjours en confusion, sans qu'il soit besoin de les amasser, en publiant le Spéctacle longtemps avant qu'il se donne. Aussi peut-on dire que chaque Hostel de Paris passeroit dans les Païs Etrangers pour le Palais d'un Souverain, &amp; chaque Quartier pour une tres-grande Ville. Les nombreuses Assemblées qu'on a veuës ce Carnaval à l'Hostel de Duras, sont une preuve de ce que je dis. On y a donné plusieurs Représentations d'un Opéra nouveau, intitulé <hi rend="i">L'Amour Berger</hi>. C'estoit une Pastorale, qui a attiré une telle foule, que les Personnes du premier rang n'ont pû quelque-fois y trouver place. Voicy le Prologue de cet Opéra. Le mois prochain je vous parleray de la Piece, &amp; vous en envoyeray les plus beaux endroits ; avec quelques Airs notez<note resp="editor">Pour les airs notés, voir <ref target="MG-1683-05_175">cet article</ref></note>. Vous ne serez pas fâchée de les voir, puis qu'ils sont de M<hi rend="sup">r</hi> de la Lande, dont vous sçavez que le nom n'est pas inconnu à la Cour.</p>
-        <p>Aprés une ouverture où les Hautbois reprenoient sur les Violons, les Flustes douces sur les Hautbois, &amp; les Musetes sur les Flustes douces, l'Amour paroissoit en Habit de Berger sous le nom de Tircis, &amp; un des Petits Amours de sa suite commençoit le Prologue en chantant ces Vers.</p>
+        <p>Quoy que dans le Carnaval, on ne donne point extraordinairement des divertissemens
+          publics à Paris, comme c'est l'usage en beaucoup d'autres Villes de l'Europe, on ne laisse
+          pas d'y faire des Festes aussi galantes &amp; en aussi grand nombre chez les Personnes
+          qualifiées, que l'on en fasse en aucun Lieu de la Terre. Les Spéctateurs s'y trouvent
+          toûjours en confusion, sans qu'il soit besoin de les amasser, en publiant le Spéctacle
+          longtemps avant qu'il se donne. Aussi peut-on dire que chaque Hostel de Paris passeroit
+          dans les Païs Etrangers pour le Palais d'un Souverain, &amp; chaque Quartier pour une
+          tres-grande Ville. Les nombreuses Assemblées qu'on a veuës ce Carnaval à l'Hostel de
+          Duras, sont une preuve de ce que je dis. On y a donné plusieurs Représentations d'un Opéra
+          nouveau, intitulé <hi rend="i">L'Amour Berger</hi>. C'estoit une Pastorale, qui a attiré
+          une telle foule, que les Personnes du premier rang n'ont pû quelque-fois y trouver place.
+          Voicy le Prologue de cet Opéra. Le mois prochain je vous parleray de la Piece, &amp; vous
+          en envoyeray les plus beaux endroits ; avec quelques Airs notez<note resp="editor">Pour les airs notés, voir <ref target="MG-1683-05_175">cet article</ref></note>. Vous ne serez pas fâchée
+          de les voir, puis qu'ils sont de M<hi rend="sup">r</hi> de la Lande, dont vous sçavez que
+          le nom n'est pas inconnu à la Cour.</p>
+        <p>Aprés une ouverture où les Hautbois reprenoient sur les Violons, les Flustes douces sur
+          les Hautbois, &amp; les Musetes sur les Flustes douces, l'Amour paroissoit en Habit de
+          Berger sous le nom de Tircis, &amp; un des Petits Amours de sa suite commençoit le
+          Prologue en chantant ces Vers.</p>
         <quote>
           <lg>
             <l rend="i">Jeunes Beautez qui voulez plaire,</l>
@@ -244,7 +260,8 @@
           <l rend="i">S'il est aussi parfait, s'il est aussi puissant</l>
           <l rend="i"> Que je seray toújours fidelle !</l>
         </lg>
-        <p>L'Amour repétoit ces quatre derniers Vers ; &amp; un Chœur de Bergers paroissant ensuite, un Petit Amour chantoit ce Couplet.</p>
+        <p>L'Amour repétoit ces quatre derniers Vers ; &amp; un Chœur de Bergers paroissant ensuite,
+          un Petit Amour chantoit ce Couplet.</p>
         <lg>
           <l rend="i"> Rivaux tristes &amp; desolez,</l>
           <l rend="i">Apres les Biens que le Ciel vous envoye,</l>
@@ -258,7 +275,12 @@
           <l rend="i"> De petites Chansonnetes</l>
           <l rend="i"> Soulagent souvent de grands maux.</l>
         </lg>
-        <p>Apres que le Chœur avoit repété, l'Entrée des Bergers se faisoit. Les Bergers estoient, M<hi rend="sup">r</hi> le Comte de Duras, M<hi rend="sup">r</hi> le Marquis de Grignan, M<hi rend="sup">r</hi> le Comte de Téride, M<hi rend="sup">r</hi> de Martelliere, &amp; M<hi rend="sup">r</hi> Huet. Quatre Bergeres seules ouvroient l'Entrée, qui finissoit par un Passepied figuré ; apres quoy, deux Bergeres, &amp; un Berger, chantoient ces Vers sur l'Air de l'Entrée.</p>
+        <p>Apres que le Chœur avoit repété, l'Entrée des Bergers se faisoit. Les Bergers estoient,
+            M<hi rend="sup">r</hi> le Comte de Duras, M<hi rend="sup">r</hi> le Marquis de Grignan,
+            M<hi rend="sup">r</hi> le Comte de Téride, M<hi rend="sup">r</hi> de Martelliere, &amp;
+            M<hi rend="sup">r</hi> Huet. Quatre Bergeres seules ouvroient l'Entrée, qui finissoit
+          par un Passepied figuré ; apres quoy, deux Bergeres, &amp; un Berger, chantoient ces Vers
+          sur l'Air de l'Entrée.</p>
         <lg>
           <l rend="i">C'est icy qu'une belle flâme</l>
           <l rend="i">Rend bientost les desirs contens ;</l>
@@ -274,6 +296,6 @@
         </lg>
         <p> La Symphonie recommençoit l'ouverture.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

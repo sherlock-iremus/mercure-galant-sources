@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Autres Vers sur ses Conquestes]</head>
         <bibl><title>Le Nouveau Mercure galant</title>, juillet 1677 ([tome V]), p. 80-84.</bibl>
         <p>Puis que nous sommes revenus à la Bataille de Cassel, il faut que je vous fasse part de ces Vers qu’a faits M<hi rend="sup">r</hi> Martinet Ayde des Cerémonies, sur les Victoires de Son Altesse Royale.</p>
@@ -23,16 +22,9 @@
           <label>A MONSIEUR, <lb/>Sur ses Conquestes.</label>
         </quote>
         <lg>
-          <l>
-            <hi rend="sc">Cassel</hi>
-            <hi rend="i">estoit connu par ces grandes journées,</hi>
-          </l>
+          <l><hi rend="sc">Cassel</hi> <hi rend="i">estoit connu par ces grandes journées,</hi></l>
           <l rend="i">Qui couvrirent d’honneur deux Testes couronnees.</l>
-          <l>
-            <hi rend="i">Sous le Nom de </hi>
-            <hi rend="sc">Philippe</hi>
-            <hi rend="i"> également heureux</hi>
-          </l>
+          <l><hi rend="i">Sous le Nom de </hi><hi rend="sc">Philippe</hi><hi rend="i"> également heureux</hi></l>
           <l rend="i">Si l’on vit triompher ces Princes genereux,</l>
           <l rend="i">Superbe de leur Nom, &amp; jaloux de leur Gloire,</l>
           <l rend="i">Comme eux d’un pas hardy tu cours à la Victoire ;</l>
@@ -64,6 +56,6 @@
           <l rend="i">Viens respirer toy-mesme à l’ombre des Lauriers.</l>
         </lg>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

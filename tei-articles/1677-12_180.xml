@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div copyOf="MG-1677-12_181">
+    <body><div copyOf="MG-1677-12_181">
         <head>[Sonnets au Roy]</head>
         <bibl><title>Le Nouveau Mercure galant</title>, décembre 1677 [tome X], p. 181-185.</bibl>
         <p>Voyez, Madame, ce que fait le Nom du Roy. Il se declare, &amp; la Victoire devient infaillible ; mais si ses Armes se font redouter par tout, ses Triomphes sont en mesme temps l’inépuisable matiere des Eloges de tout le monde, &amp; ceux que l’embarras des Affaires du Public oblige à rompre commerce avec les Muses, cherchent à le renoüer pour ne demeurer pas muets quand il s’agit de la gloire de ce grand Monarque. Vous n’en douterez point quand vous aurez leu ce Sonnet de M<hi rend="sup">r</hi> de Brion Conseiller au Parlement.</p>
@@ -37,11 +36,7 @@
           <ab type="ornament">***</ab>
           <lg>
             <l rend="i">Vous avez employé plus de cinq mille années</l>
-            <l>
-              <hi rend="i">À former de</hi>
-              <hi rend="sc">Loüis</hi>
-              <hi rend="i">les nobles destinées ;</hi>
-            </l>
+            <l><hi rend="i">À former de</hi> <hi rend="sc">Loüis</hi> <hi rend="i">les nobles destinées ;</hi></l>
             <l rend="i">Vostre plus grand effort nous paroist aujourd’huy.</l>
           </lg>
           <ab type="ornament">***</ab>
@@ -81,6 +76,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

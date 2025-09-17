@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,17 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Inscriptions qui sont autour de cette Statuë]</head>
         <bibl><title>Mercure galant</title>, octobre 1685 [tome 10], p. 4-11</bibl>
-        <p>Le Roy est monté sur un Cheval, qui passe au jugement des plus sçavans dans toutes ses proportions &amp; dans son action, celuy du Pontneuf, &amp; celuy de la Place Royale. Quoy que ce ne soit qu’un Modelle, on connoît ce qu’il sera quand on l’aura mis en Bronze, comme M<hi rend="sup">r</hi> le Duc de Richelieu a dessein de l’y faire jetter ; mais ce qui ne s’est point encore vû qu’en cette Figure, c’est que de quelque costé qu’on la regarde, on reconnoist la grandeur &amp; la Majesté de celuy qu’elle represente. C’est ce qui est tres-bien exprimé dans ce Sonnet écrit en lettres d’or, dans un des costez du Pieddestail.</p>
+        <p>Le Roy est monté sur un Cheval, qui passe au jugement des plus sçavans dans toutes ses
+          proportions &amp; dans son action, celuy du Pontneuf, &amp; celuy de la Place Royale. Quoy
+          que ce ne soit qu’un Modelle, on connoît ce qu’il sera quand on l’aura mis en Bronze,
+          comme M<hi rend="sup">r</hi> le Duc de Richelieu a dessein de l’y faire jetter ; mais ce
+          qui ne s’est point encore vû qu’en cette Figure, c’est que de quelque costé qu’on la
+          regarde, on reconnoist la grandeur &amp; la Majesté de celuy qu’elle represente. C’est ce
+          qui est tres-bien exprimé dans ce Sonnet écrit en lettres d’or, dans un des costez du
+          Pieddestail.</p>
         <quote>
           <lg>
             <l rend="i">Tel, LOUIS triomphant de l’Ibere hautain,</l>
@@ -46,85 +52,48 @@
             <l rend="i">Et d’un plus beau Laurier son Front est couronné.</l>
           </lg>
         </quote>
-        <p>L’Inscription qui est dans le costé opposé, est conceuë en ces termes. Vos Amies me pardonneront, si en cette occasion j’employe une Langue qui ne leur est pas connuë. Ce qui regarde la gloire du Roy ne se doit point affoiblir, &amp; il n’y a guere d’Inscriptions qui eussent la force de l’Original, si elles estoient traduites.</p>
+        <p>L’Inscription qui est dans le costé opposé, est conceuë en ces termes. Vos Amies me
+          pardonneront, si en cette occasion j’employe une Langue qui ne leur est pas connuë. Ce qui
+          regarde la gloire du Roy ne se doit point affoiblir, &amp; il n’y a guere d’Inscriptions
+          qui eussent la force de l’Original, si elles estoient traduites.</p>
         <quote>
           <label>LUDOVICO MAGNO</label>
           <lg rend="center">
-            <l>
-              <hi rend="sc">Ludovici Justi Filio, Ludovici</hi>
-            </l>
-            <l>
-              <hi rend="sc">sancti abnepoti,</hi>
-            </l>
-            <l>
-              <hi rend="sc">Regum maximo,</hi>
-            </l>
-            <l>
-              <hi rend="sc">Quod</hi>
-            </l>
-            <l>
-              <hi rend="sc">Hostibus terra marique debellatis,</hi>
-            </l>
-            <l>
-              <hi rend="sc">Imperii fines longe-produxit :</hi>
-            </l>
-            <l>
-              <hi rend="sc">Profligata hæresi,</hi>
-            </l>
-            <l>
-              <hi rend="sc">Religionem ubique restituit :</hi>
-            </l>
-            <l>
-              <hi rend="sc">Reip. Genuensi leges ; Piratis</hi>
-            </l>
-            <l>
-              <hi rend="sc">Africæ pænas ;</hi>
-            </l>
-            <l>
-              <hi rend="sc">Pacem armatæ europæ ;</hi>
-            </l>
-            <l>
-              <hi rend="sc">Modum victoriæ suæ</hi>
-            </l>
-            <l>
-              <hi rend="sc">Imposuit.</hi>
-            </l>
-            <l>
-              <hi rend="sc">Filio, nuru, nepotibus ter felici.</hi>
-            </l>
-            <l>
-              <hi rend="sc">Semper augusto,</hi>
-            </l>
-            <l>
-              <hi rend="sc">Vere christianissimo.</hi>
-            </l>
-            <l>
-              <hi rend="sc">Armandus Richelii dux,</hi>
-            </l>
-            <l>
-              <hi rend="sc">Armandi Cardinalis heres,</hi>
-            </l>
-            <l>
-              <hi rend="sc">Et ejus pro gloria principis</hi>
-            </l>
-            <l>
-              <hi rend="sc">æmulator,</hi>
-            </l>
-            <l>
-              <hi rend="sc">Fidei, obsequii, amoris perenne</hi>
-            </l>
-            <l>
-              <hi rend="sc">monumentum</hi>
-            </l>
-            <l>
-              <hi rend="sc">Venerabundus posuit.</hi>
-            </l>
-            <l>
-              <hi rend="sc">Anno m. dc. lxxxv.</hi>
-            </l>
+            <l><hi rend="sc">Ludovici Justi Filio, Ludovici</hi></l>
+            <l><hi rend="sc">sancti abnepoti,</hi></l>
+            <l><hi rend="sc">Regum maximo,</hi></l>
+            <l><hi rend="sc">Quod</hi></l>
+            <l><hi rend="sc">Hostibus terra marique debellatis,</hi></l>
+            <l><hi rend="sc">Imperii fines longe-produxit :</hi></l>
+            <l><hi rend="sc">Profligata hæresi,</hi></l>
+            <l><hi rend="sc">Religionem ubique restituit :</hi></l>
+            <l><hi rend="sc">Reip. Genuensi leges ; Piratis</hi></l>
+            <l><hi rend="sc">Africæ pænas ;</hi></l>
+            <l><hi rend="sc">Pacem armatæ europæ ;</hi></l>
+            <l><hi rend="sc">Modum victoriæ suæ</hi></l>
+            <l><hi rend="sc">Imposuit.</hi></l>
+            <l><hi rend="sc">Filio, nuru, nepotibus ter felici.</hi></l>
+            <l><hi rend="sc">Semper augusto,</hi></l>
+            <l><hi rend="sc">Vere christianissimo.</hi></l>
+            <l><hi rend="sc">Armandus Richelii dux,</hi></l>
+            <l><hi rend="sc">Armandi Cardinalis heres,</hi></l>
+            <l><hi rend="sc">Et ejus pro gloria principis</hi></l>
+            <l><hi rend="sc">æmulator,</hi></l>
+            <l><hi rend="sc">Fidei, obsequii, amoris perenne</hi></l>
+            <l><hi rend="sc">monumentum</hi></l>
+            <l><hi rend="sc">Venerabundus posuit.</hi></l>
+            <l><hi rend="sc">Anno m. dc. lxxxv.</hi></l>
           </lg>
         </quote>
-        <p>Les deux autres costez sont comme des Tables d’attente ; aussi-bien l’on croit n’avoir encore vû que la moitié des merveilles que fait esperer cet Auguste Conquerant. Il y a de plus une chose à remarquer dans cette Figure Equestre, qui est d’un poids excessif ; c’est que le Cheval n’est appuyé que sur les deux pieds de derriere, que ceux de devant sont en l’air, &amp; que par une surprenante invention du Sculpteur, l’équilibre en est si juste, que d’un doigt seulement on le fait mouvoir. On ne peut voir ce bel Ouvrage, sans donner à M<hi rend="sup">r</hi> Gobert, qui en est l’Autheur, les Eloges qu’il merite. Aussi M<hi rend="sup">r</hi> le Duc de Richelieu ayant mené disner à Rüel quelques Personnes de qualité, on trouva ce Madrigal attaché à la Porte qui conduit à la Grotte, sur laquelle cette Figure est élevée.</p>
+        <p>Les deux autres costez sont comme des Tables d’attente ; aussi-bien l’on croit n’avoir
+          encore vû que la moitié des merveilles que fait esperer cet Auguste Conquerant. Il y a de
+          plus une chose à remarquer dans cette Figure Equestre, qui est d’un poids excessif ; c’est
+          que le Cheval n’est appuyé que sur les deux pieds de derriere, que ceux de devant sont en
+          l’air, &amp; que par une surprenante invention du Sculpteur, l’équilibre en est si juste,
+          que d’un doigt seulement on le fait mouvoir. On ne peut voir ce bel Ouvrage, sans donner à
+            M<hi rend="sup">r</hi> Gobert, qui en est l’Autheur, les Eloges qu’il merite. Aussi M<hi rend="sup">r</hi> le Duc de Richelieu ayant mené disner à Rüel quelques Personnes de
+          qualité, on trouva ce Madrigal attaché à la Porte qui conduit à la Grotte, sur laquelle
+          cette Figure est élevée.</p>
         <quote>
           <lg>
             <l rend="i"> O vous, qu’un desir curieux</l>
@@ -137,8 +106,10 @@
             <l rend="i">Ne demandoit pas moins qu’un Chef-d’œuvre de l’Art.</l>
           </lg>
         </quote>
-        <p>Le Sonnet que l’on a écrit en lettres d’or, sur l’un des costez du Pied-destal, est de M<hi rend="sup">r</hi> le Clerc de l’Academie Françoise ; l’Inscription, du Pere Comire Jesuite, dont les Ouvrages sont si estimez, &amp; ce Madrigal, de M. Vignier.</p>
+        <p>Le Sonnet que l’on a écrit en lettres d’or, sur l’un des costez du Pied-destal, est de
+            M<hi rend="sup">r</hi> le Clerc de l’Academie Françoise ; l’Inscription, du Pere Comire
+          Jesuite, dont les Ouvrages sont si estimez, &amp; ce Madrigal, de M. Vignier.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

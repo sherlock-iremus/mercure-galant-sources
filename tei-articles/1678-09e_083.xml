@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,10 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Sonnet</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III], p. 83-84.</bibl>
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
+          p. 83-84.</bibl>
         <quote>
           <label rend="center">Sonnet.</label>
           <lg>
@@ -25,19 +25,16 @@
             <l>Aux yeux brillans d’une Beauté,</l>
             <l>Dont la jeunesse &amp; la fierté</l>
             <l>Ne voulurent jamais l’entendre.</l>
-          </lg>
-          <lg>
+          </lg><lg>
             <l>Cet Amant malheureux &amp; tendre</l>
             <l>Se voyant toûjours mal-traité,</l>
             <l>Et sans espoir d’estre écouté,</l>
             <l>Fut assez fou pour s’aller pendre.</l>
-          </lg>
-          <lg>
+          </lg><lg>
             <l>La Belle qu’il ne pût toucher,</l>
             <l>Fut déslors changée en Rocher,</l>
             <l>Pour avoir esté trop sauvage.</l>
-          </lg>
-          <lg>
+          </lg><lg>
             <l>Le Ciel n’a pas moins d’équité,</l>
             <l>Et je ne suis en verité</l>
             <l>Ny moins amoureux, ny plus sage.</l>
@@ -45,6 +42,6 @@
           <p>L'<hi rend="sc">Inconnu</hi>, de Mesle en Poitou.</p>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

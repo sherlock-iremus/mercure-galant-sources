@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,19 +14,24 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>[Cantique pour le Roy, par M<hi rend="sup">r</hi> Magnin, de l’Académie Royale d’Arles]</head>
-        <bibl><title>Mercure galant</title>, février 1686 (deuxième partie) [tome 3], p. 159-172</bibl>
-        <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : La Figure du Temple de Charenton doit regarder la page 160.</note>
+    <body><div>
+        <head>[Cantique pour le Roy, par M<hi rend="sup">r</hi> Magnin, de l’Académie Royale
+          d’Arles]</head>
+        <bibl><title>Mercure galant</title>, février 1686 (deuxième partie) [tome 3],
+          p. 159-172</bibl>
+        <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : La
+          Figure du Temple de Charenton doit regarder la page 160.</note>
         <p/>
-        <p>
-          <hi rend="i">Aprés vous avoir donné une Description d’un des plus fameux Temple que l’Heresie ait jamais eu, &amp; vous avoir appris en même temps de quelle maniere il a esté abatu, il faut que le Burin vous en fasse voir la figure, afin qu’elle conserve à la posterité la gloire immortelle dont le Roy se vient de couronner en le détruisant. C’est pourquoy je vous en envoye le profil, que j’ay fait graver.</hi>
-        </p>
+        <p><hi rend="i">Aprés vous avoir donné une Description d’un des plus fameux Temple que
+            l’Heresie ait jamais eu, &amp; vous avoir appris en même temps de quelle maniere il a
+            esté abatu, il faut que le Burin vous en fasse voir la figure, afin qu’elle conserve à
+            la posterité la gloire immortelle dont le Roy se vient de couronner en le détruisant.
+            C’est pourquoy je vous en envoye le profil, que j’ay fait graver.</hi></p>
         <quote>
           <label>CANTIQUE<lb/><hi rend="sc">Pour le Roy.</hi></label>
           <lg>
-            <label><hi rend="i">Repleatur os meum laude, ut cantem gloriam tuam, tota die magnitudinem tuam</hi>. Psal.</label>
+            <label><hi rend="i">Repleatur os meum laude, ut cantem gloriam tuam, tota die
+                magnitudinem tuam</hi>. Psal.</label>
             <l>Pour chanter le plus Sage &amp; le plus grand des Roys,</l>
             <l>Pour celebrer sa gloire, &amp; ses justes loüanges,</l>
             <l> Que ne puis-je à ma foible voix</l>
@@ -53,7 +58,8 @@
             <l> Dans le sein de la Verité ?</l>
           </lg>
           <lg>
-            <label><hi rend="i">De Cœlo auditum fecisti Judicium ; Terra tremuit, &amp; quievit</hi>. Psal. 75.</label>
+            <label><hi rend="i">De Cœlo auditum fecisti Judicium ; Terra tremuit, &amp;
+              quievit</hi>. Psal. 75.</label>
             <l> Aprés t’estre élevé sur toutes les Puissances,</l>
             <l>Ne reconnoissant plus que le Maistre des Cieux,</l>
             <l>Ta voix a prononcé ce Decret glorieux,</l>
@@ -93,7 +99,8 @@
             <l> Mais je n’en dis qu’une partie.</l>
           </lg>
           <lg>
-            <label><hi rend="i">Notam fecisti in populis virtutem tuam, redemisti in brachio populum tuum</hi>. P. 76.</label>
+            <label><hi rend="i">Notam fecisti in populis virtutem tuam, redemisti in brachio populum
+                tuum</hi>. P. 76.</label>
             <l> La grandeur de tes actions</l>
             <l> Et de tes vertus triomphantes,</l>
             <l>N’a-t’elle pas ravy toutes les Nations ?</l>
@@ -126,7 +133,8 @@
             <l>Les hommes seuls n’ont pas une vertu pareille.</l>
           </lg>
           <lg>
-            <label><hi rend="i">Increpasti gentes, &amp; periit impius, nomen eorum delesti in æternum</hi>. Psal. 9.</label>
+            <label><hi rend="i">Increpasti gentes, &amp; periit impius, nomen eorum delesti in
+                æternum</hi>. Psal. 9.</label>
             <l> Ta Royale indignation</l>
             <l> Contre l’Erreur s’est soulevée,</l>
             <l> Par sa vaine obstination,</l>
@@ -142,7 +150,8 @@
             <l> L’aveuglement de vos Ayeux.</l>
           </lg>
           <lg>
-            <label><hi rend="i">Exaltare Domine in virtute tua, cantabimus, &amp; psallemus virtu-tes tuas</hi>. Psal. 20.</label>
+            <label><hi rend="i">Exaltare Domine in virtute tua, cantabimus, &amp; psallemus
+                virtu-tes tuas</hi>. Psal. 20.</label>
             <l>Mais, Grand Roy, si jamais le brillant de ta gloire</l>
             <l> Pouvoit te plaire &amp; te charmer,</l>
             <l> C’est ce beau trait de ton Histoire,</l>
@@ -164,14 +173,16 @@
             <l> A la chanter ainsi que nous.</l>
           </lg>
           <lg>
-            <label><hi rend="i">Non mortui laudabunt te Domine, neque omnes qui descendunt in infernum</hi>. Psal. 113.</label>
+            <label><hi rend="i">Non mortui laudabunt te Domine, neque omnes qui descendunt in
+                infernum</hi>. Psal. 113.</label>
             <l> Ceux qui sont obstinez à mourir dans l’Erreur,</l>
             <l>Au lieu de celebrer les grandeurs de ta vie,</l>
             <l>Verront dans les Enfers d’une éternelle horreur</l>
             <l> Leur obstination suivie.</l>
           </lg>
           <lg>
-            <label><hi rend="i">Sed nos qui vivimus, benedicimus Dominum, ex hoc nunc, &amp; usque in Sæculum</hi>. Psal. 113.</label>
+            <label><hi rend="i">Sed nos qui vivimus, benedicimus Dominum, ex hoc nunc, &amp; usque
+                in Sæculum</hi>. Psal. 113.</label>
             <l> Mais nous heureux cent &amp; cent fois</l>
             <l> De vivre sous les saintes loix</l>
             <l> Du plus Auguste des Monarques !</l>
@@ -182,6 +193,6 @@
           <p><hi rend="i">M<hi rend="sup">r</hi> Magnin de l’Academie Royale d’Arles</hi>.</p>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

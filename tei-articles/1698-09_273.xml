@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head resp="editor">Entretiens sur la pluralité des Mondes</head>
-        <bibl><title>Mercure galant</title>, septembre 1698 [tome 9], p. 273-274.</bibl>
-        <p>Le même Libraire a depuis peu mis au jour la quatriéme Edition des Entretiens sur la pluralité des Mondes. Vous sçavez que cet Ouvrage est de Monsieur de Fontenelle, de l’Academie Françoise. Les Poësies pastorales du même Auteur, que l’on r’imprime, doivent paroître dans quinze jours, augmentées de plus de deux tiers, on y trouvera un Recueil de Poësies diverses, &amp; galantes, &amp; un Opera intitulé, <hi rend="i">Endymion</hi>. Le Sieur Brunet fait aussi r’imprimer tous les autres Ouvrages du même Auteur. Vous sçavez que c’est au nombre des r’impressions, s’il m’est permis de parler ainsi, qu’on connoît les bons Livres.</p>
-      </div>
-    </body>
+    <body><div>
+          <head resp="editor">Entretiens sur la pluralité des Mondes</head>
+          <bibl><title>Mercure galant</title>, septembre 1698 [tome 9], p. 273-274.</bibl>
+          <p>Le même Libraire a depuis peu mis au jour la quatriéme Edition des Entretiens sur la pluralité des Mondes. Vous sçavez que cet Ouvrage est de Monsieur de Fontenelle, de l’Academie Françoise. Les Poësies pastorales du même Auteur, que l’on r’imprime, doivent paroître dans quinze jours, augmentées de plus de deux tiers, on y trouvera un Recueil de Poësies diverses, &amp; galantes, &amp; un Opera intitulé, <hi rend="i">Endymion</hi>. Le Sieur Brunet fait aussi r’imprimer tous les autres Ouvrages du même Auteur. Vous sçavez que c’est au nombre des r’impressions, s’il m’est permis de parler ainsi, qu’on connoît les bons Livres.</p>
+        </div>
+      </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,21 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Explication de la premiere Enigme en Vers du mois d’Avril]</head>
         <bibl><title>Mercure galant</title>, mai 1678 [tome 5], p. 337-342.</bibl>
-        <p>Je viens aux Enigmes du dernier Mois. Vous les aurez sans-doute examinées avec plus de soin, apres avoir leu à la teste de ma Lettre Extraordinaire, ce qui a esté écrit sur ce sujet par un bel Esprit d’Aix. Je ne suis point surpris que vous traitiez de Chef d’œuvre les dix ou douze Lettres qui en font une espece de Dissertation. Tout le monde les a admirées, &amp; on souhaiteroit fort que leur Autheur voulust embellir souvent celles que je vous adresse de quelque Traité de sa façon. Il écrit si finement, qu’il est assuré de réüssir dans tout ce qu’il voudra entreprendre, &amp; on ne peut avoir autant d’esprit qu’il en a, sans estre comptable au Public de la meilleure partie de ses heures. Vous n’avez pas perdu celles que vous avez données à chercher le sens des deux dernieres Enigmes, puis que vous les avez devinées. Le Fils d’un Auditeur de la Chambre des Comptes de Dijon, qui a trouvé comme vous le vray Mot de la premiere, s’en explique de cette sorte à une aimable Personne qui luy en avoit demandé le sens.</p>
+        <p>Je viens aux Enigmes du dernier Mois. Vous les aurez sans-doute examinées avec plus de
+          soin, apres avoir leu à la teste de ma Lettre Extraordinaire, ce qui a esté écrit sur ce
+          sujet par un bel Esprit d’Aix. Je ne suis point surpris que vous traitiez de Chef d’œuvre
+          les dix ou douze Lettres qui en font une espece de Dissertation. Tout le monde les a
+          admirées, &amp; on souhaiteroit fort que leur Autheur voulust embellir souvent celles que
+          je vous adresse de quelque Traité de sa façon. Il écrit si finement, qu’il est assuré de
+          réüssir dans tout ce qu’il voudra entreprendre, &amp; on ne peut avoir autant d’esprit
+          qu’il en a, sans estre comptable au Public de la meilleure partie de ses heures. Vous
+          n’avez pas perdu celles que vous avez données à chercher le sens des deux dernieres
+          Enigmes, puis que vous les avez devinées. Le Fils d’un Auditeur de la Chambre des Comptes
+          de Dijon, qui a trouvé comme vous le vray Mot de la premiere, s’en explique de cette sorte
+          à une aimable Personne qui luy en avoit demandé le sens.</p>
         <quote rend="border">
           <label rend="center">À IRIS.</label>
           <lg>
@@ -58,6 +68,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

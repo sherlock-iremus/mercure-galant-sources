@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,22 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head resp="editor">Devise du fils de M<hi rend="sup">r</hi> Mazuier</head>
         <bibl><title>Mercure galant</title>, octobre 1685 [tome 10], p. 342-344</bibl>
-        <p>Quelque difficile que soit la Conversion des Heretiques, nous en voyons aujourd’huy la France presque entierement purgée. Ce miracle est dû au zele, à la pieté, &amp; aux soins du Roy, &amp; il suffit que ce grand Monarque vive pour achever un si surprenant Ouvrage. C’est ce qui a esté parfaitement bien representé par une Devise, dont le Corps est un Soleil arresté par l’ordre de Josué, combattant contre les Amalecites, Ennemis du Peuple de Dieu, avec ces mots.</p>
+        <p>Quelque difficile que soit la Conversion des Heretiques, nous en voyons aujourd’huy la
+          France presque entierement purgée. Ce miracle est dû au zele, à la pieté, &amp; aux soins
+          du Roy, &amp; il suffit que ce grand Monarque vive pour achever un si surprenant Ouvrage.
+          C’est ce qui a esté parfaitement bien representé par une Devise, dont le Corps est un
+          Soleil arresté par l’ordre de Josué, combattant contre les Amalecites, Ennemis du Peuple
+          de Dieu, avec ces mots.</p>
         <quote>
           <lg>
             <l rend="i">Stantem victoria certa sequetur.</l>
           </lg>
         </quote>
-        <p>La pensée en est heureuse, &amp; les quatre Vers suivans l’expriment d’une maniere également noble &amp; naturelle.</p>
+        <p>La pensée en est heureuse, &amp; les quatre Vers suivans l’expriment d’une maniere
+          également noble &amp; naturelle.</p>
         <quote>
           <lg>
             <l rend="i">Contre les Ennemis envieux de sa gloire,</l>
@@ -33,8 +38,11 @@
             <l rend="i">Si d’un autre Soleil il prolonge les jours.</l>
           </lg>
         </quote>
-        <p>L’Autheur de cette Devise est un jeune Homme de qualité, de dix-sept ans, d’un esprit rare, &amp; d’une application extraordinaire ; c’est le Fils aisné de M<hi rend="sup">r</hi> le Mazuier, Procureur General au Parlement de Toulouse, dont le zele pour les interests du Roy &amp; de la Religion est assez connu. Il a soûtenu avec applaudissement une de ces Theses universelles, que si peu de personnes entreprennent de soûtenir.</p>
+        <p>L’Autheur de cette Devise est un jeune Homme de qualité, de dix-sept ans, d’un esprit
+          rare, &amp; d’une application extraordinaire ; c’est le Fils aisné de M<hi rend="sup">r</hi> le Mazuier, Procureur General au Parlement de Toulouse, dont le zele pour les
+          interests du Roy &amp; de la Religion est assez connu. Il a soûtenu avec applaudissement
+          une de ces Theses universelles, que si peu de personnes entreprennent de soûtenir.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

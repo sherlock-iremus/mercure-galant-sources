@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Autre Madrigal]</head>
         <bibl><title>Mercure galant</title>, octobre 1678 [tome 10], p. 151-152.</bibl>
-        <p>Ces autres Vers vous feront connoistre qu’on n’a jamais regardé la necessité de cesser d’aimer, que comme un fort grand suplice.</p>
+        <p>Ces autres Vers vous feront connoistre qu’on n’a jamais regardé la necessité de cesser
+          d’aimer, que comme un fort grand suplice.</p>
         <quote>
           <label rend="center">Autre Madrigal.</label>
           <l>AH, qu’on est malheureux d’avoir eu des desirs,</l>
@@ -29,6 +29,6 @@
           <l>Heureux qui peut haïr ce qu’il a bien aimé !</l>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

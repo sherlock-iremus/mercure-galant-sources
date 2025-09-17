@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,10 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Sur la difficulté proposée touchant la Musique</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1682 [tome XVII], p. 7-8.</bibl>
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1682 [tome XVII],
+          p. 7-8.</bibl>
         <p>Sur la difficulté proposée touchant la Musique.</p>
         <p/>
         <p>J'ay pour les belles Voix un grand entestement,</p>
@@ -29,6 +29,6 @@
         <p>Dont je doute fort du succés,</p>
         <p>Je remets l'affaire à Baptiste.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

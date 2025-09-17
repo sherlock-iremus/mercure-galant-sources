@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Lettre de la Bergere Caliste, au Berger Fleuriste du Païs des Ambarriens, sur son Enigme en Prose</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet <date>1682</date> (<biblScope unit="volume">[tome XIX]</biblScope>), <biblScope unit="page">p. 362-369</biblScope>.</bibl>
         <quote>
@@ -32,6 +31,6 @@
           <p><hi rend="sc">La Bergere Caliste</hi>.</p>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

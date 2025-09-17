@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,18 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, avril 1678 [tome 4], p. 183-184.</bibl>
-        <p>Je reçois un Aïr de M<hi rend="sup">r</hi> du Buisson, dont je croy que la reputation vous est connuë. Je vous l’envoye. Les Paroles sont d’une Personne de Qualité qui fit l’an passé, <hi rend="i">Non Printemps, &amp;c.</hi> &amp; <hi rend="i">Soit le Printemps, soit l’Hyver, soit l’Automne</hi>. C‘est luy qui a fait presque toutes les jolies Paroles qui se chantent à Paris. Lisez celles-cy avant que de jetter les yeux sur la Note.</p>
+        <p>Je reçois un Aïr de M<hi rend="sup">r</hi> du Buisson, dont je croy que la reputation
+          vous est connuë. Je vous l’envoye. Les Paroles sont d’une Personne de Qualité qui fit l’an
+          passé, <hi rend="i">Non Printemps, &amp;c.</hi> &amp; <hi rend="i">Soit le Printemps, soit
+            l’Hyver, soit l’Automne</hi>. C‘est luy qui a fait presque toutes les jolies Paroles qui
+          se chantent à Paris. Lisez celles-cy avant que de jetter les yeux sur la Note.</p>
         <quote>
-          <label>AIR NOUVEAU.</label>
-          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : la Chanson qui commence par, <hi rend="i">L’on vous dit tous les Ans</hi>, doit regarder la Page 184.</note>
+          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour
+              placer les Figures</hi> : la Chanson qui commence par, <hi rend="i">L’on vous dit tous
+              les Ans</hi>, doit regarder la Page 184.</note>
           <lg>
             <l rend="i"><space/>L’on vous dit tous les Ans</l>
             <l rend="i"><space/>Au retour du Printemps,</l>
@@ -40,6 +44,6 @@
           </figure>
         </ref>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

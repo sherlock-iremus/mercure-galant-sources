@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Portrait de Clarice</head>
-        <bibl><title>Mercure galant</title>, août (première partie) [tome 11], 1687, p. 102-106</bibl>
+        <bibl><title>Mercure galant</title>, août (première partie) [tome 11], 1687,
+          p. 102-106</bibl>
         <p/>
-        <p>Il s’est fait en peu de jours tant de copies du Portrait en Vers que je vous envoye, que j’apprehende qu’il n’ait pas pour vous la grace entiere de la nouveauté. Tous ceux qui l’ont veu en ont trouvé le tour singulier, &amp; peut-estre seroit-il bien difficile de rien faire de plus beau, pour un Ouvrage de cette nature.</p>
+        <p>Il s’est fait en peu de jours tant de copies du Portrait en Vers que je vous envoye, que
+          j’apprehende qu’il n’ait pas pour vous la grace entiere de la nouveauté. Tous ceux qui
+          l’ont veu en ont trouvé le tour singulier, &amp; peut-estre seroit-il bien difficile de
+          rien faire de plus beau, pour un Ouvrage de cette nature.</p>
         <quote>
           <label>PORTRAIT DE CLARICE.</label>
           <lg>
@@ -79,6 +82,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,20 +14,16 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, septembre 1685 [tome 9], p. 107.</bibl>
         <p>Je ne doute point que vous ne soyez contente de l'Air nouveau que je vous envoye. Il a esté estimé par des gens d'un fort bon goust.</p>
         <quote>
-          <label>AIR NOUVEAU.</label>
-          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par <hi rend="i">Vous aimez, jeune Iris, mes tendres Chansonnettes</hi>, doit regarder la page 107.</note>
-          <lg>
-            <l rend="i">Vous aimez, jeune Iris, mes tendres Chansonnettes,</l>
+          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par <hi rend="i">Vous aimez, jeune Iris, mes tendres Chansonnettes</hi>, doit regarder la page 107.</note>
+          <lg><l rend="i">Vous aimez, jeune Iris, mes tendres Chansonnettes,</l>
             <l rend="i">Vous les écoutez chaque jour.</l>
             <l rend="i">Que n'avez vous un peu d'amour</l>
-            <l rend="i">Pour le Berger qui les a faites ?</l>
-          </lg>
+            <l rend="i">Pour le Berger qui les a faites ?</l></lg>
         </quote>
         <ref target="images/1685-09_107.JPG">
           <figure>
@@ -35,6 +31,6 @@
           </figure>
         </ref>
       </div>
-    </body>
+        </body>
   </text>
 </TEI>

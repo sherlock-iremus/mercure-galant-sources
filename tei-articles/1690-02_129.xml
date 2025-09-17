@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,22 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>A Monsieur de la Quintinye, sur son livre de l’Instruction des Jardins Fruitiers &amp; Potagers [Idile]</head>
+    <body><div>
+        <head>A Monsieur de la Quintinye, sur son livre de l’Instruction des Jardins Fruitiers &amp;
+          Potagers [Idile]</head>
         <bibl><title>Mercure galant</title>, février 1690 [tome 2], p. 129-151.</bibl>
-        <p>On imprime un fort beau Livre touchant l’instruction des Jardins Fruitiers &amp; Potagers. Il est de M<hi rend="sup">r</hi> de la Quintinye, qui étoit préposé à la culture de tous les Jardins du Roy, tant Fruitiers que Potagers, sous les ordres de M<hi rend="sup">r</hi> le Sur-Intendant. Son habileté luy avoit donné une fort grande reputation, &amp; comme il est mort depuis un an, M<hi rend="sup">r</hi> de la Quintinye son Fils, prend soin de l’Impression de ce Livre. M<hi rend="sup">r</hi> Perrault de l’Academie Françoise, lié d’amitié avec toute cette Famille, a fait là-dessus un petit Poëme qui a receu une approbation generale. Les expressions en sont tres-vives, &amp; s’il a extremement bien reussi en divers autres Ouvrages, on peut dire qu’il s’est surpassé luy-mesme en celuy-cy. Vous en jugerez par la lecture.</p>
+        <p>On imprime un fort beau Livre touchant l’instruction des Jardins Fruitiers &amp;
+          Potagers. Il est de M<hi rend="sup">r</hi> de la Quintinye, qui étoit préposé à la culture
+          de tous les Jardins du Roy, tant Fruitiers que Potagers, sous les ordres de M<hi rend="sup">r</hi> le Sur-Intendant. Son habileté luy avoit donné une fort grande
+          reputation, &amp; comme il est mort depuis un an, M<hi rend="sup">r</hi> de la Quintinye
+          son Fils, prend soin de l’Impression de ce Livre. M<hi rend="sup">r</hi> Perrault de
+          l’Academie Françoise, lié d’amitié avec toute cette Famille, a fait là-dessus un petit
+          Poëme qui a receu une approbation generale. Les expressions en sont tres-vives, &amp; s’il
+          a extremement bien reussi en divers autres Ouvrages, on peut dire qu’il s’est surpassé
+          luy-mesme en celuy-cy. Vous en jugerez par la lecture.</p>
         <quote>
-          <label>A MONSIEUR<lb/>DE LA QUINTINYE,<lb/><hi rend="i">SUR SON LIVRE</hi><lb/><hi rend="i">De l’Instruction des Jardins</hi><lb/><hi rend="i">Fruitiers &amp; Potagers</hi>.<lb/>IDYLLE.</label>
+          <label>A MONSIEUR<lb/>DE LA QUINTINYE,<lb/><hi rend="i">SUR SON LIVRE</hi><lb/><hi rend="i">De l’Instruction des Jardins</hi><lb/><hi rend="i">Fruitiers &amp;
+              Potagers</hi>.<lb/>IDYLLE.</label>
           <lg>
             <l rend="i">Pendant que vous chantez les Heros de la Guerre,</l>
             <l rend="i">Qui font regner la mort, &amp; désolent la Terre,</l>
@@ -78,9 +87,7 @@
             <l rend="i">Dont nostre feu mortel fait un vase fragile,</l>
             <l rend="i">Le feu de la Nature, inimitable Agent,</l>
             <l rend="i">Forme comme il luy plaist, de l’or ou de l’argent.</l>
-            <l>
-              <hi rend="i">Dans un Antre voisin il contemple, il admire</hi>
-            </l>
+            <l><hi rend="i">Dans un Antre voisin il contemple, il admire</hi></l>
             <l rend="i">Les principes cachez de tout ce qui respire,</l>
             <l rend="i">Les atomes subtils, dont les corps sont formez,</l>
             <l rend="i">Et les Ressorts vivans, dont ils sont animez ;</l>
@@ -134,12 +141,8 @@
             <l rend="i">A tout, sans se peiner, donne le mouvement.</l>
             <l rend="i"> Dans l’endroit où le tronc se joint à la racine,</l>
             <l rend="i">L’ame fait sa demeure, &amp; prend son origine.</l>
-            <l>
-              <hi rend="i">Lorsque l’Hyver répand sa nége &amp; ses frimats,</hi>
-            </l>
-            <l>
-              <hi rend="i">Elle quite la tige, &amp; descend en embas,</hi>
-            </l>
+            <l><hi rend="i">Lorsque l’Hyver répand sa nége &amp; ses frimats,</hi></l>
+            <l><hi rend="i">Elle quite la tige, &amp; descend en embas,</hi></l>
             <l rend="i">Où sage elle travaille à pousser de ses souches,</l>
             <l rend="i">De nouveaux rejettons, qui comme autant de bouches</l>
             <l rend="i">Attirent l’aliment, &amp; forment la liqueur,</l>
@@ -156,26 +159,20 @@
             <l rend="i">Et ne prend d’aliment qu’aux racines naissantes.</l>
             <l rend="i"> Tes Peres peu sçavans se sont encor trompez</l>
             <l rend="i">Dans l’Art dont les rameaux veulent estre coupez.</l>
-            <l>
-              <hi rend="i">Quand du milieu de l’Arbre une branche nouvelle</hi>
-            </l>
+            <l><hi rend="i">Quand du milieu de l’Arbre une branche nouvelle</hi></l>
             <l rend="i">S’élevoit fierement, grosse, luisante &amp; belle,</l>
             <l rend="i">Elle estoit conservée, &amp; charmé de l’avoir</l>
             <l rend="i">L’ignorant Jardinier y mettoit son espoir.</l>
             <l rend="i">Il faut jetter à bas cette jeune insolente,</l>
             <l rend="i">Qui prend pour se nourrir tout le suc d’une plante.</l>
-            <l>
-              <hi rend="i">Ce suc, dés qu’on la coupe, aussi-tost rabatu</hi>
-            </l>
+            <l><hi rend="i">Ce suc, dés qu’on la coupe, aussi-tost rabatu</hi></l>
             <l rend="i">Aux branches d’alentour partage sa vertu,</l>
             <l rend="i">Repare abondamment leurs forces presque éteintes,</l>
             <l rend="i">Et grossit tous les fruits dont elles sont enceintes.</l>
             <l> <hi rend="i">Je ne pourrois nombrer les abus differens,</hi></l>
             <l rend="i">Où de mille façons tombent les ignorans.</l>
             <l rend="i">Le temps &amp; mes leçons te les feront paroistre ;</l>
-            <l>
-              <hi rend="i">Des Arbres cependant travaille à bien connoistre</hi>
-            </l>
+            <l><hi rend="i">Des Arbres cependant travaille à bien connoistre</hi></l>
             <l rend="i">Tous les temperamens, &amp; toutes les humeurs,</l>
             <l rend="i">Leurs chagrins, leurs desirs, leur langage, leurs mœurs.</l>
             <l rend="i">Il faut qu’à demy mot un Jardinier entende</l>
@@ -259,6 +256,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

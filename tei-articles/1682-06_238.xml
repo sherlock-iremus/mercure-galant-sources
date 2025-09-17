@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Placet au Roy</head>
         <bibl><title>Mercure galant</title>, juin 1682 [tome 6], p. 238-240.</bibl>
         <p/>
-        <p>Je vous envoye un Placet qu’on assure estre d’un Gentilhomme Gascon, qui a du service &amp; du mérite. Apres la mort de M<hi rend="sup">r</hi> Sorin, qui a esté Capitaine dans le Regiment de Baltazar, il a demandé la Pension dont Sa Majesté le gratifioit, &amp; on m’a dit qu’elle luy avoit esté accordée. Il est difficile de demander d’une maniere plus spirituelle &amp; plus galante.</p>
+        <p>Je vous envoye un Placet qu’on assure estre d’un Gentilhomme Gascon, qui a du service
+          &amp; du mérite. Apres la mort de M<hi rend="sup">r</hi> Sorin, qui a esté Capitaine dans
+          le Regiment de Baltazar, il a demandé la Pension dont Sa Majesté le gratifioit, &amp; on
+          m’a dit qu’elle luy avoit esté accordée. Il est difficile de demander d’une maniere plus
+          spirituelle &amp; plus galante.</p>
         <quote>
           <label>PLACET AU ROY.</label>
           <lg>
@@ -42,6 +45,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

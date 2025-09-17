@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Galenterie d’un Inconnu]</head>
         <bibl><title>Mercure galant</title>, mai 1679 [tome 5], p. 78-84.</bibl>
-        <p>J’adjoûte à ces Articles de Divertissemens &amp; de Festes, la galanterie d’un Particulier. Une belle Dame, des plus spirituelles du Royaume, &amp; qui a un talent admirable pour la Poësie, reçeut il y a quelques jours un Paquet, apporté par un Laquais sans livrée, qui feignant d’en attendre la réponse, s’échapa, apres l’avoir donné à un de ses Gens. La Dame l’ouvrit, &amp; y trouva un Eventail d’un prix fort considérable, representant le Triomphe de Bacchus en miniature, avec cette Lettre en Vers.</p>
+        <p>J’adjoûte à ces Articles de Divertissemens &amp; de Festes, la galanterie d’un
+          Particulier. Une belle Dame, des plus spirituelles du Royaume, &amp; qui a un talent
+          admirable pour la Poësie, reçeut il y a quelques jours un Paquet, apporté par un Laquais
+          sans livrée, qui feignant d’en attendre la réponse, s’échapa, apres l’avoir donné à un de
+          ses Gens. La Dame l’ouvrit, &amp; y trouva un Eventail d’un prix fort considérable,
+          representant le Triomphe de Bacchus en miniature, avec cette Lettre en Vers.</p>
         <quote>
           <label type="head">A l’aimable<lb/>Iris.</label>
           <l>QUand vous passez vos jours dans le sacré Vallon,</l>
@@ -90,6 +94,6 @@
           <l>Iris, avec bonté, daignez le recevoir.</l>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

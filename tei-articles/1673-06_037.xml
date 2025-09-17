@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Sonnet de M. de Corneille l’aisné, sur la prise de Mastric]</head>
         <bibl><title>Le Mercure galant</title>,1673, tome VI, p. 37-39.</bibl>
-        <p>On vient de m’apporter encor un Sonnet sur la prise de Mastric, que je croy, Madame, que vous serez bien aise d’avoir, puis qu’il est du grand Corneille : Il a plû &amp; à la Cour &amp; à la Ville, &amp; je ne doute point que votre Province ne soit du mesme sentiment.</p>
+        <p>On vient de m’apporter encor un Sonnet sur la prise de Mastric, que je croy, Madame, que
+          vous serez bien aise d’avoir, puis qu’il est du grand Corneille : Il a plû &amp; à la Cour
+          &amp; à la Ville, &amp; je ne doute point que votre Province ne soit du mesme
+          sentiment.</p>
         <quote rend="border">
           <label rend="center b">Sur la prise</label>
           <label rend="center b">De Mastric</label>
@@ -28,25 +30,21 @@
             <l>Ce miracle estoit seur à ta haute conduite,</l>
             <l>Et n’a rien d’étonnant que cette heureuse suite,</l>
             <l>Qui de tes grands destins enfle le juste cours.</l>
-          </lg>
-          <lg>
+          </lg><lg>
             <l><space/>La Holande qui voit du reste de ses Tours,</l>
             <l>Ses Amis consternez &amp; sa fortune en fuite,</l>
             <l>N’aspire qu’à baiser la main qui l’a détruite,</l>
             <l>Et fait de tes bontez son unique recours.</l>
-          </lg>
-          <lg>
+          </lg><lg>
             <l><space/>Une Clef qu’on te rend t’ouvre quatre Provinces ;</l>
             <l>Tu ne prens qu’une Place &amp; fais trembler cens Princes,</l>
             <l>De l’Escaut jusqu’à l’Ebre en rejaillit l’effroy.</l>
-          </lg>
-          <lg>
+          </lg><lg>
             <l><space/>Tout s’allarme, &amp; l’Empire à tel point se mènage,</l>
             <l>Qu’à son Aigle luy-mesme il ferme le passage,</l>
             <l>Dès que son vol jaloux ose tourner vers toy.</l>
-          </lg>
-        </quote>
+          </lg></quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

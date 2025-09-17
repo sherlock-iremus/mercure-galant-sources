@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head resp="editor">Quatrain sur le corps d’une momie d’Egypte</head>
         <bibl><title>Mercure galant</title>, janvier 1692 [tome 1], p. 94-95.</bibl>
-        <p>Le Voyageur qui le montre aux curieux, pretend que ce soit celuy d’une Princesse d’Egipte, descendue du sang des anciens Rois. C’est là-dessus que l’on a fait ce Quatrain.</p>
+        <p>Le Voyageur qui le montre aux curieux, pretend que ce soit celuy d’une Princesse
+          d’Egipte, descendue du sang des anciens Rois. C’est là-dessus que l’on a fait ce
+          Quatrain.</p>
         <quote>
           <lg>
             <l rend="i">L’objet des Curieux &amp; l’amour des Sçavans,</l>
@@ -28,6 +29,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

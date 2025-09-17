@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Avis à Timante</head>
         <bibl><title>Mercure galant</title>, février 1691 [tome 2], p. 166-176.</bibl>
         <p/>
-        <p>Aprés une lecture aussi serieuse que celle de cette Relation, vous voudrez bien donner un moment à une galanterie, où vous trouverez de la nouveauté. Je n’en connois point l’Auteur ; je sçay seulement qu’elle a rejoüy tous ceux qui l’ont leuë.</p>
+        <p>Aprés une lecture aussi serieuse que celle de cette Relation, vous voudrez bien donner un
+          moment à une galanterie, où vous trouverez de la nouveauté. Je n’en connois point
+          l’Auteur ; je sçay seulement qu’elle a rejoüy tous ceux qui l’ont leuë.</p>
         <quote>
           <label>AVIS A TIMANTE.</label>
           <quote>
@@ -34,7 +35,10 @@
               <l rend="i">Il en est fait un Edit.</l>
             </lg>
           </quote>
-          <p>Cela ne vous sera pas difficile dans la conjoncture presente, où nostre invincible Monarque, pour achever de vaincre ses Ennemis, cherche des moyens aisez de grossir ses Finances, &amp; il n’en peut trouver de meilleur qu’en demandant de l’argent à ceux qui le donnent facilement &amp; avec profusion.</p>
+          <p>Cela ne vous sera pas difficile dans la conjoncture presente, où nostre invincible
+            Monarque, pour achever de vaincre ses Ennemis, cherche des moyens aisez de grossir ses
+            Finances, &amp; il n’en peut trouver de meilleur qu’en demandant de l’argent à ceux qui
+            le donnent facilement &amp; avec profusion.</p>
           <quote>
             <lg>
               <l rend="i">On veut parler des Amans ;</l>
@@ -57,7 +61,12 @@
               <l rend="i">Et plus recens &amp; plus amples.</l>
             </lg>
           </quote>
-          <p>Or pour vous expliquer davantage l’avis dont je parle, il faudra proposer à nostre Victorieux Monarque d’interdire le commerce des amours dans son Royaume, pendant la guerre seulement, &amp; d’exiger de tous les Amans durant ce temps-là, les dépenses qu’ils font pour leurs Maistresses. Il en tirera des sommes immenses sans leur oster leurs besoins, puis que la pluspart ne mettent à cela que leur superflu, &amp; il ne sera question que de se priver pour un temps de leurs plaisirs.</p>
+          <p>Or pour vous expliquer davantage l’avis dont je parle, il faudra proposer à nostre
+            Victorieux Monarque d’interdire le commerce des amours dans son Royaume, pendant la
+            guerre seulement, &amp; d’exiger de tous les Amans durant ce temps-là, les dépenses
+            qu’ils font pour leurs Maistresses. Il en tirera des sommes immenses sans leur oster
+            leurs besoins, puis que la pluspart ne mettent à cela que leur superflu, &amp; il ne
+            sera question que de se priver pour un temps de leurs plaisirs.</p>
           <quote>
             <lg>
               <l rend="i"> Hé, dans quel temps pourroient-ils faire</l>
@@ -68,7 +77,11 @@
               <l rend="i">D’un zele sans mesure une sincere marque ?</l>
             </lg>
           </quote>
-          <p>Voilà donc un moyen certain de remplir plus d’un Tresor Royal, &amp; comme il est plusieurs Amans qui ne font point ou peu de dépense en amour, soit par impuissance ou par avarice, il faudra obliger tous ces gens-là de prendre party dans les Armées de Sa Majesté ; en sorte que ceux qui ne grossiront point ses Finances, grossissent du moins ses Troupes, ce qui sera un avantage égal à ce Prince.</p>
+          <p>Voilà donc un moyen certain de remplir plus d’un Tresor Royal, &amp; comme il est
+            plusieurs Amans qui ne font point ou peu de dépense en amour, soit par impuissance ou
+            par avarice, il faudra obliger tous ces gens-là de prendre party dans les Armées de Sa
+            Majesté ; en sorte que ceux qui ne grossiront point ses Finances, grossissent du moins
+            ses Troupes, ce qui sera un avantage égal à ce Prince.</p>
           <quote>
             <lg>
               <l rend="i">D’ailleurs n’est-on pas plus heureux</l>
@@ -77,7 +90,13 @@
               <l rend="i"> Que d’estre un avare amoureux ?</l>
             </lg>
           </quote>
-          <p>Mais comme il arrivera sans doute, que plusieurs grosses Villes &amp; Personnes considerables à nostre Monarque, ou mesme de sa Cour, luy presenteront des requestes en faveur des Amours, &amp; pour estre exceptées de l’Edit que l’on propose, en ce cas il faudra que Sa Majesté ne leur accorde cette exception, qu’à condition que tous les Amans, &amp; tous les Prevaricateurs des loix de l’Amour de l’un &amp; de l’autre Sexe, payeront des taxes selon la qualité du crime, &amp; suivant le tarif qui en sera reglé en son Conseil.</p>
+          <p>Mais comme il arrivera sans doute, que plusieurs grosses Villes &amp; Personnes
+            considerables à nostre Monarque, ou mesme de sa Cour, luy presenteront des requestes en
+            faveur des Amours, &amp; pour estre exceptées de l’Edit que l’on propose, en ce cas il
+            faudra que Sa Majesté ne leur accorde cette exception, qu’à condition que tous les
+            Amans, &amp; tous les Prevaricateurs des loix de l’Amour de l’un &amp; de l’autre Sexe,
+            payeront des taxes selon la qualité du crime, &amp; suivant le tarif qui en sera reglé
+            en son Conseil.</p>
           <quote>
             <lg>
               <l rend="i">On taxera premierement</l>
@@ -122,7 +141,9 @@
               <l rend="i">En son empire chaque jour.</l>
             </lg>
           </quote>
-          <p>Vous voyez presentement, genereux Timante, que cet Edit seroit admirable, &amp; que vous en devez attendre de l’Illustre Mecene une récompense tres considerable pour vôtre droit d’Avis.</p>
+          <p>Vous voyez presentement, genereux Timante, que cet Edit seroit admirable, &amp; que
+            vous en devez attendre de l’Illustre Mecene une récompense tres considerable pour vôtre
+            droit d’Avis.</p>
           <quote>
             <lg>
               <l rend="i">Et pour celles qui vous le donnent,</l>
@@ -139,6 +160,6 @@
           </quote>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

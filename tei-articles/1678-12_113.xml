@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,20 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Mort de M. de Nanteüil]</head>
         <bibl><title>Mercure galant</title>, décembre 1678 [tome 12], p. 113-118.</bibl>
-        <p>Nous avons perdu depuis peu de jours un des plus grands Hommes dans sa Profession que la France ait eu depuis fort longtemps. C'est le fameux M<hi rend="sup">r</hi>  de Nanteüil, aussi Illustre par son Burin &amp; par son Pastel, que les plus excellens Peintres de l’Antiquité l’ont esté par leur Pinceau, &amp; les plus renommez Statuaires par leur Ciseau. Il estoit de Rheims, &amp; est mort âgé de cinquante-cinq ans. La plûpart des Princes de l’Europe ont voulu avoir leur Portrait fait de sa main en Pastel. Ceux qu’il a faits au Burin estant publics, parlent assez à la gloire, sans que j’y doive rien ajoûter. Il a eu l’honneur de faire souvent celuy du Roy ; &amp; comme il avoit l’esprit fort agreable &amp; que Sa Majesté ne dédaignoit pas de l’écouter, il luy recita les Vers qui suivent, un peu avant sa mort, pour luy demander du temps sur un nouveau Portrait qu’il entreprenoit.</p>
+        <p>Nous avons perdu depuis peu de jours un des plus grands Hommes dans sa Profession que la
+          France ait eu depuis fort longtemps. C'est le fameux M<hi rend="sup">r</hi>  de Nanteüil,
+          aussi Illustre par son Burin &amp; par son Pastel, que les plus excellens Peintres de
+          l’Antiquité l’ont esté par leur Pinceau, &amp; les plus renommez Statuaires par leur
+          Ciseau. Il estoit de Rheims, &amp; est mort âgé de cinquante-cinq ans. La plûpart des
+          Princes de l’Europe ont voulu avoir leur Portrait fait de sa main en Pastel. Ceux qu’il a
+          faits au Burin estant publics, parlent assez à la gloire, sans que j’y doive rien ajoûter.
+          Il a eu l’honneur de faire souvent celuy du Roy ; &amp; comme il avoit l’esprit fort
+          agreable &amp; que Sa Majesté ne dédaignoit pas de l’écouter, il luy recita les Vers qui
+          suivent, un peu avant sa mort, pour luy demander du temps sur un nouveau Portrait qu’il
+          entreprenoit.</p>
         <quote rend="border">
           <label rend="center">Vers</label>
           <label rend="center">De M<hi rend="sup">r</hi> de Nanteuil,</label>
@@ -44,8 +53,12 @@
           <l>Excusez ce transport, &amp; pardonnez moy, Sire,</l>
           <l>Ce qu’un Sujet fidele a bien osé vous dire.</l>
         </quote>
-        <p>Tous les Princes qui connoissent les beaux Arts, &amp; qui les aiment, avoient beaucoup d’estime pour M<hi rend="sup">r</hi>  de Nanteüil ; &amp; Monsieur le Grand Duc entretenoit le S <hi rend="sup">t</hi>  Dominique aupres de luy, afin qu’il apprist quelques chose d’un si grand Homme, &amp; qu’il pust un jour faire honneur à la Toscane.</p>
+        <p>Tous les Princes qui connoissent les beaux Arts, &amp; qui les aiment, avoient beaucoup
+          d’estime pour M<hi rend="sup">r</hi>  de Nanteüil ; &amp; Monsieur le Grand Duc
+          entretenoit le S <hi rend="sup">t</hi>  Dominique aupres de luy, afin qu’il apprist
+          quelques chose d’un si grand Homme, &amp; qu’il pust un jour faire honneur à la
+          Toscane.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

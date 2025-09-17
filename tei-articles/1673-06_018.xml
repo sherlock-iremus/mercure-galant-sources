@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>[Chanson nouvelle de M. de la Cornuliere, dont l’Air a esté fait par M. Lambert]</head>
+    <body><div>
+        <head>[Chanson nouvelle de M. de la Cornuliere, dont l’Air a esté fait par M.
+          Lambert]</head>
         <bibl><title>Le Mercure galant</title>, 1673, tome VI, p. 18-19.</bibl>
-        <p>Pendant qu’ils se reposeront, parlons de Chansons nouvelles. Je suis seur que vos belles Provinciales seront ravies d’en avoir, puis qu’elles écrivent souvent à Paris pour ne demander. Voicy un Couplet de Monsieur la Corniliere qui reüssit tres-bien en ces sortes de choses.</p>
+        <p>Pendant qu’ils se reposeront, parlons de Chansons nouvelles. Je suis seur que vos belles
+          Provinciales seront ravies d’en avoir, puis qu’elles écrivent souvent à Paris pour ne
+          demander. Voicy un Couplet de Monsieur la Corniliere qui reüssit tres-bien en ces sortes
+          de choses.</p>
         <quote rend="border">
           <label rend="center b">Chanson.</label>
           <l>Il n’est point d’amour sans peine,</l>
@@ -29,6 +32,6 @@
           <l>Ny sans amour de plaisir.</l>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

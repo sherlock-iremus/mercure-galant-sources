@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Discours sur le Journal des Sçavans]</head>
         <bibl><title>Le Mercure galant</title>, [janvier-avril] 1672 [tome 1], p. 287.</bibl>
-        <p>On continuë depuis le mois de Janvier à donner au Public <hi rend="i">le Journal des Sçavans</hi>, que vous avez lû autrefois avec plaisir. C’est un Ouvrage tres-beau &amp; tres-utile ; l’Autheur en est fort estimé, &amp; il a l’honneur d’estre considéré d’un grand Ministre.</p>
+        <p>On continuë depuis le mois de Janvier à donner au Public <hi rend="i">le Journal des
+            Sçavans</hi>, que vous avez lû autrefois avec plaisir. C’est un Ouvrage tres-beau &amp;
+          tres-utile ; l’Autheur en est fort estimé, &amp; il a l’honneur d’estre considéré d’un
+          grand Ministre.</p>
         <p rend="right i">À Paris, le 23. Avril. </p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

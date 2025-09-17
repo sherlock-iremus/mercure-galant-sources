@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Elegie]</head>
         <bibl><title>Mercure galant</title>, juillet 1679 [tome 7], p. 66-72.</bibl>
-        <p>Cependant si vous voulez voir de quelle maniere en doivent user les aimables Fieres qui cherchent à se défendre d’aimer par raison, vous n’avez qu’à lire l’Elegie qui suit. Vous y trouverez une peinture aussi agréable que délicate, des sentimens d’une Belle dont le cœur pourroit devenir sensible, si elle l’abandonnoit à son panchant. Je ne vous puis dire qui la fait parler, mais je sçay bien que peu d’Ouvrages de cette nature ont d’aussi grandes beautez.</p>
+        <p>Cependant si vous voulez voir de quelle maniere en doivent user les aimables Fieres qui
+          cherchent à se défendre d’aimer par raison, vous n’avez qu’à lire l’Elegie qui suit. Vous
+          y trouverez une peinture aussi agréable que délicate, des sentimens d’une Belle dont le
+          cœur pourroit devenir sensible, si elle l’abandonnoit à son panchant. Je ne vous puis dire
+          qui la fait parler, mais je sçay bien que peu d’Ouvrages de cette nature ont d’aussi
+          grandes beautez.</p>
         <quote>
           <label type="head">Elegie.</label>
           <l>GEnéreux Licidas, Amy sage &amp; fidelle,</l>
@@ -77,6 +81,6 @@
           <l>Pour mon timide cœur sont toújours une feinte.</l>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

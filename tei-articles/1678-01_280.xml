@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Anagramme sur le Nom de S.A.R. Marie-Louyse d’Orleans, Lien de royales Amours</head>
         <bibl><title>Mercure galant</title>, janvier 1678 [tome 1], p. 280-282.</bibl>
-        <p>J’ajoûte à ces Vers un Anagramme qui a esté fait pour Mademoiselle. L’Anagramme, comme vous sçavez, est une Ville de l’Empire de la Poësie, &amp; la Carte que vous en avez veuë vous a fait connoistre dans quelle Province elle est située.</p>
+        <p>J’ajoûte à ces Vers un Anagramme qui a esté fait pour Mademoiselle. L’Anagramme, comme
+          vous sçavez, est une Ville de l’Empire de la Poësie, &amp; la Carte que vous en avez veuë
+          vous a fait connoistre dans quelle Province elle est située.</p>
         <quote rend="border">
           <label rend="center">Anagramme</label>
           <label rend="center">sur le Nom de S.A.R.</label>
@@ -35,6 +36,6 @@
           <l rend="sc">Lien de Royales Amours. </l>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

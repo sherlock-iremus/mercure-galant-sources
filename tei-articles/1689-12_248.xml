@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head resp="editor">Mort de Marthe de Neufbourg</head>
         <bibl><title>Mercure galant</title>, décembre 1689 [tome 12], p. 248.</bibl>
         <p/>
-        <p>Dame Marthe de Neuf-bourg. Elle estoit Femme de Messire Renouard de Villayer, Doyen du Conseil. Il est de l’Academie Françoise.</p>
+        <p>Dame Marthe de Neuf-bourg. Elle estoit Femme de Messire Renouard de Villayer, Doyen du
+          Conseil. Il est de l’Academie Françoise.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

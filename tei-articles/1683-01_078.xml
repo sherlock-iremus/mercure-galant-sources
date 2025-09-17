@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Beau dit d’une Servante d’Hôtellerie</head>
         <bibl><title>Mercure galant</title>, janvier 1683 [tome 1], p. 78-81</bibl>
-        <p>Les Vers qui suivent sur divers sujets, sont tous de M<hi rend="sup">r</hi> Daubaine. Vous sçavez, Madame, qu’il conte agreablement, &amp; que son nom est un éloge fort grand pour tous les Ouvrages qui le portent.</p>
+        <p>Les Vers qui suivent sur divers sujets, sont tous de M<hi rend="sup">r</hi> Daubaine.
+          Vous sçavez, Madame, qu’il conte agreablement, &amp; que son nom est un éloge fort grand
+          pour tous les Ouvrages qui le portent.</p>
         <quote>
           <label>BEAU DIT D’UNE<lb/>Servante d’Hôtellerie.</label>
           <lg>
@@ -27,7 +28,8 @@
             <l rend="i"> Le giste n’estoit pas mauvais.</l>
             <l rend="i">Attendant le Soupé, je gobe deux œufs frais,</l>
             <l rend="i">Et je bois quatre coups. Là-dessus Claudinete</l>
-            <l>(<hi rend="i">C’est la Servante</hi>) <hi rend="i">estant dans la Chambre où j’estois,</hi></l>
+            <l>(<hi rend="i">C’est la Servante</hi>) <hi rend="i">estant dans la Chambre où
+                j’estois,</hi></l>
             <l rend="i">J’entre en humeur, je pousse la fleurete.</l>
             <l rend="i"> De l’air dont je la debitois,</l>
             <l rend="i"> J’aurois fort avancé l’affaire ;</l>
@@ -48,6 +50,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

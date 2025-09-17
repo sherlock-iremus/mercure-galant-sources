@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,20 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Poëme sur la restitution des Saints Lieux]</head>
         <bibl><title>Mercure galant</title>, février 1692 [tome 2], p. 28-55.</bibl>
-        <p>Le Pere Louis de Verdun, Religieux de l’Observance de Saint François, &amp; Commissaire general de la Terre Sainte, presenta au Roy le 6. de ce mois, un Poëme Chrestien sur la restitution des Saints Lieux. Je vous parlay amplement il y a prés de deux ans, de cette restitution, &amp; de toutes les circonstances glorieuses pour Sa Majesté qui l’accompagnerent, ainsi que des réjoüissances qui furent faites en ce temps-là au grand Convent des Cordeliers de Paris, ces Peres ayant marqué tout le zele imaginable pour la gloire de nostre auguste Monarque, à qui ils sont si redevables, &amp; sur tout le Pere Verdun, Commissaire General de la Terre Sainte. Comme ce Poëme n’est pas fort long, &amp; qu’il roule sur des matieres qui ne peuvent que vous estre fort agreables, je ne doute point que vous ne le lisiez avec plaisir. Il est de M<hi rend="sup">r</hi> l’Abbé de Maumenet, qui a remporté le prix de Poësie dans la pluspart des Academies de France.</p>
+        <p>Le Pere Louis de Verdun, Religieux de l’Observance de Saint François, &amp; Commissaire
+          general de la Terre Sainte, presenta au Roy le 6. de ce mois, un Poëme Chrestien sur la
+          restitution des Saints Lieux. Je vous parlay amplement il y a prés de deux ans, de cette
+          restitution, &amp; de toutes les circonstances glorieuses pour Sa Majesté qui
+          l’accompagnerent, ainsi que des réjoüissances qui furent faites en ce temps-là au grand
+          Convent des Cordeliers de Paris, ces Peres ayant marqué tout le zele imaginable pour la
+          gloire de nostre auguste Monarque, à qui ils sont si redevables, &amp; sur tout le Pere
+          Verdun, Commissaire General de la Terre Sainte. Comme ce Poëme n’est pas fort long, &amp;
+          qu’il roule sur des matieres qui ne peuvent que vous estre fort agreables, je ne doute
+          point que vous ne le lisiez avec plaisir. Il est de M<hi rend="sup">r</hi> l’Abbé de
+          Maumenet, qui a remporté le prix de Poësie dans la pluspart des Academies de France.</p>
         <quote>
           <label>LA RESTITUTION<lb/>DES<lb/>SAINTS LIEUX.<lb/>Poëme heroïque.</label>
           <lg>
@@ -86,9 +95,7 @@
             <l rend="i">Quitte avec cent Heros le sein de nos Provinces,</l>
             <l rend="i">Et<note resp="author">L’Empereur Conrad.</note> Conrad imitant leur genereux dessein,</l>
             <l rend="i">Aux forces du François joint celles du Germain.</l>
-            <l>
-              <hi rend="i">La distance des lieux, le danger &amp; la peine</hi>
-            </l>
+            <l><hi rend="i">La distance des lieux, le danger &amp; la peine</hi></l>
             <l rend="i">Ne sçauroient arrester l’ardeur qui les entraine,</l>
             <l rend="i">Et bientost l’Orient alloit estre soumis,</l>
             <l rend="i">S’ils avoient sceu dompter de secrets Ennemis ;</l>
@@ -100,9 +107,7 @@
             <l rend="i">L’Infidelle a sans peine achevé la ruine.</l>
             <l rend="i">Cependant un succés si contraire à tes vœux,</l>
             <l rend="i">Sion, de tes Enfans n’éteignit pas les feux,</l>
-            <l>
-              <hi rend="i">Et <note resp="author">Philippe Auguste.</note>Philippe, &amp; <note resp="author">Richard Cœur de Lion.</note>Richard touchez de tes disgraces,</hi>
-            </l>
+            <l><hi rend="i">Et <note resp="author">Philippe Auguste.</note>Philippe, &amp; <note resp="author">Richard Cœur de Lion.</note>Richard touchez de tes disgraces,</hi></l>
             <l rend="i">A travers cent écueils ont marché sur leurs traces,</l>
             <l rend="i">Et ces deux vaillans Rois en la fleur de leurs ans,</l>
             <l rend="i">Consacrerent leurs noms par cent faits éclatans.</l>
@@ -112,21 +117,15 @@
             <l rend="i">Se montra tout ensemble &amp; l’azile, &amp; l’appuy.</l>
             <l rend="i">Mais quel demon, jaloux d’une si sainte guerre,</l>
             <l rend="i">En détourna soudain la France &amp; l’Angleterre,</l>
-            <l>
-              <hi rend="i">Tandis qu’un des <note resp="author">Frideric I.</note>Cesars devançant nos Guerriers,</hi>
-            </l>
+            <l><hi rend="i">Tandis qu’un des <note resp="author">Frideric I.</note>Cesars devançant nos Guerriers,</hi></l>
             <l rend="i">Accourut dans tes champs se couvrir de Lauriers ?</l>
             <l rend="i">Que ne soûmit-il point au gré de son courage !</l>
-            <l>
-              <hi rend="i">Le <note resp="author">L’Empereur Isaac l’Ange.</note>Grec voulut en vain disputer le passage,</hi>
-            </l>
+            <l><hi rend="i">Le <note resp="author">L’Empereur Isaac l’Ange.</note>Grec voulut en vain disputer le passage,</hi></l>
             <l rend="i">Frideric le força de ceder à ses loix,</l>
             <l rend="i">Et Saladin luy même enflé de ses exploits,</l>
             <l rend="i">N’auroit pû resister à l’effort de ses armes,</l>
             <l rend="i">Si sa mort, du Tyran n’eust calmé les alarmes,</l>
-            <l>
-              <hi rend="i">Et si, comme Alexandre <note resp="author">Alexandre le Grand courut risque de sa vie pour s’être baigné  dans ce fleuve.</note>en tous lieux redouté,</hi>
-            </l>
+            <l><hi rend="i">Et si, comme Alexandre <note resp="author">Alexandre le Grand courut risque de sa vie pour s’être baigné  dans ce fleuve.</note>en tous lieux redouté,</hi></l>
             <l rend="i">Le Cydnus en son sein ne l’avoit arresté.</l>
             <l rend="i">D’un Esté trop brûlant il crut par cette eau vive,</l>
             <l rend="i">En se baignant dompter la chaleur excessive ;</l>
@@ -160,9 +159,7 @@
             <l rend="i">Elle ne put jamais vaincre la tyrannie,</l>
             <l rend="i">Ny par le bras vangeur de ses Princes unis,</l>
             <l rend="i">Reparer en trente ans la perte que tu fis.</l>
-            <l>
-              <hi rend="i">Il est temps qu’un saint Roy, <note resp="author">Saint Loüis.</note>qu’a veu naître la France,</hi>
-            </l>
+            <l><hi rend="i">Il est temps qu’un saint Roy, <note resp="author">Saint Loüis.</note>qu’a veu naître la France,</hi></l>
             <l rend="i">Ainsi que ses Ayeux, s’arme pour ta défense.</l>
             <l rend="i">Ses forces, sa valeur, &amp; son Zele épuré,</l>
             <l rend="i">Promettent aux Chrétiens un triomphe assuré.</l>
@@ -170,29 +167,21 @@
             <l rend="i">Couronne ses projets de bonheur &amp; de gloire.</l>
             <l rend="i">Jusqu’au fond de ses eaux le Nil épouvanté,</l>
             <l rend="i">Voit au premier combat le Sarrazin dompté,</l>
-            <l>
-              <hi rend="i">Et de ses champs feconds la plus superbe <note resp="author">Damiette.</note>Ville,</hi>
-            </l>
+            <l><hi rend="i">Et de ses champs feconds la plus superbe <note resp="author">Damiette.</note>Ville,</hi></l>
             <l rend="i">N’oppose à sa valeur, qu’un obstacle inutile.</l>
             <l rend="i">Mais qu’apperçois-je ? ô Ciel ! quel étrange revers !</l>
             <l rend="i">Loüis aimé de Dieu, loin de briser tes fers,</l>
             <l rend="i">Malheureuse Sion, pour fruit de tant de peines,</l>
-            <l>
-              <hi rend="i">Est <note resp="author">Joinville.</note>luy même tombé dans de barbares chaînes,</hi>
-            </l>
+            <l><hi rend="i">Est <note resp="author">Joinville.</note>luy même tombé dans de barbares chaînes,</hi></l>
             <l rend="i">Où le Ciel éprouvant sa constance, &amp; sa foy,</l>
             <l rend="i">Fait par l’adversité, d’un grand Prince, un saint Roy.</l>
             <l rend="i">Juste dans ses desseins, dont l’humaine foiblesse</l>
             <l rend="i">Ne doit jamais blâmer l’ordre, ny la sagesse,</l>
             <l rend="i">Dieu, peut-estre, exerçant ce Roy plein de vertus,</l>
             <l rend="i">Punissoit les excés des Chrétiens corrompus,</l>
-            <l>
-              <hi rend="i">Dont <note resp="author">Saint Bernard. <hi rend="i">de Consid. liv. 2.  chap. 1.</hi></note>le zele apparent, la pieté fardée,</hi>
-            </l>
+            <l><hi rend="i">Dont <note resp="author">Saint Bernard. <hi rend="i">de Consid. liv. 2.               chap. 1.</hi></note>le zele apparent, la pieté fardée,</hi></l>
             <l rend="i">N’offroient aux yeux mortels qu’une trompeuse idée,</l>
-            <l>
-              <hi rend="i">Tandis qu’abandonnez à de sales ardeurs,</hi>
-            </l>
+            <l><hi rend="i">Tandis qu’abandonnez à de sales ardeurs,</hi></l>
             <l rend="i">Ils recouroient à Dieu, qu’ils chassoient de leurs cœurs.</l>
             <l rend="i">Loüis, dont la vertu magnanime &amp; solide</l>
             <l rend="i">Est de tous ses desseins l’objet, l’ame &amp; le guide,</l>
@@ -241,9 +230,7 @@
             <l rend="i">Préfere les Lauriers, que son Zele moissonne,</l>
             <l rend="i">A ceux, dont la valeur dans nos Champs la couronne.</l>
             <l rend="i">Certes, s’il faut vanter un triomphe éclatant,</l>
-            <l>
-              <hi rend="i">Qu’au prix du sang humain achete un Combatant,</hi>
-            </l>
+            <l><hi rend="i">Qu’au prix du sang humain achete un Combatant,</hi></l>
             <l rend="i">Confessons qu’à nos yeux ce qu’il offre de charmes,</l>
             <l rend="i">A mille infortunez fait répandre des larmes.</l>
             <l rend="i">Mais ce triomphe heureux, que l’estime &amp; l’amour</l>
@@ -255,11 +242,9 @@
             <l rend="i">Un Roy qui sur ses pas voit marcher la justice,</l>
             <l rend="i">N’aime que la vapeur d’un libre sacrifice,</l>
             <l rend="i">Et sans estre contraint n’arme point son couroux.</l>
-            <l>
-              <hi rend="i">Tel on verroit</hi>
+            <l><hi rend="i">Tel on verroit</hi>
               <hi rend="sc">Louis,</hi>
-              <hi rend="i">peuple ingrat &amp; jaloux,</hi>
-            </l>
+              <hi rend="i">peuple ingrat &amp; jaloux,</hi></l>
             <l rend="i">Germains, par ses bontez attirer vôtre hommage,</l>
             <l rend="i">Si par mille attentats éveillant son courage,</l>
             <l rend="i">Vous ne l’aviez forcé vous mêmes de s’armer,</l>
@@ -283,10 +268,8 @@
             <l rend="i">Et d’y servir un Dieu, dont la gloire suprême,</l>
             <l rend="i">Est plus chere à ses yeux, que n’est son Diadême,</l>
             <l rend="i">Mais si perdant un jour ces respects inoüis,</l>
-            <l>
-              <hi rend="i">Qu’ont fait naître en vos cœurs les Vertus de</hi>
-              <hi rend="sc">Louis,</hi>
-            </l>
+            <l><hi rend="i">Qu’ont fait naître en vos cœurs les Vertus de</hi>
+              <hi rend="sc">Louis,</hi></l>
             <l rend="i">De son zele Chrétien vous détruisez l’ouvrage,</l>
             <l rend="i">Fiers Ottomans, craignez l’effet de son courage.</l>
             <l rend="i">Ce Prince redoutable autant qu’il est aimé,</l>
@@ -295,9 +278,9 @@
             <l rend="i">Soutenant aprés luy les honneurs de nos Temples,</l>
             <l rend="i">Il ne verra jamais braver impunément</l>
             <l rend="i">La foy, que ses Neveux garderont constamment.</l>
-          </lg>
+          </lg>         
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

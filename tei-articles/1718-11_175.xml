@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,24 +14,23 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Chanson</head>
         <bibl><title>Nouveau Mercure </title>, novembre 1718 [tome 11], p.175.</bibl>
-        <quote>
-          <label>CHANSON.</label>
+       <quote>
+         <label>CHANSON.</label>
           <lg>
-            <l>Chansons, que la table a vû naître ;</l>
+            <l>Chansons, que la table a vû naître ;</l> 
             <l>Vous avez crû peut-être</l>
             <l>Que Bacchus vous donnoit le jour :</l>
-            <l>Bachus, sa suite a beau paroître ;</l>
-            <l>L'ingrate Iris n'est plus ce qu'elle devoit être.</l>
-            <l>Mon esprit ni ma voix n'ont plus le même tour.</l>
-            <l>Helas Chansons ! Je commence à connoître</l>
+            <l>Bachus, sa suite a beau paroître ;</l> 
+            <l>L'ingrate Iris n'est plus ce qu'elle devoit être.</l> 
+            <l>Mon esprit ni ma voix n'ont plus le même tour.</l> 
+            <l>Helas Chansons ! Je commence à connoître</l> 
             <l>Que vous étiez des enfans de l'Amour.</l>
-          </lg>
-        </quote>
+           </lg>
+       </quote>
       </div>
-    </body>
+            </body>
   </text>
 </TEI>

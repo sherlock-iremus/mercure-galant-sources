@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, janvier 1685 [tome 1], p. 212-213.</bibl>
         <p>Ce mot de Roys me fait souvenir d´un Air nouveau, qu´un habile Maistre a fait pour la Feste de Réjoüissance qu´on celébre le 6. de ce mois.</p>
         <quote>
-          <label>AIR NOUVEAU.<lb/>Pour crier le Roy boit.</label>
-          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par <hi rend="i">Si la Féve par un heureux destin</hi>, doit regarder la page 213.</note>
+          <label>AIR NOUVEAU.<lb/>Pour crier le Roy boit.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par <hi rend="i">Si la Féve par un heureux destin</hi>, doit regarder la page 213.</note>
           <lg>
             <l rend="i">Si la Féve par un heureux destin</l>
             <l rend="i">Maintenant nous ordonne</l>
@@ -37,6 +35,6 @@
           </figure>
         </ref>
       </div>
-    </body>
+        </body>
   </text>
 </TEI>

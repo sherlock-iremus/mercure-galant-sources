@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, novembre 1689 [tome 11], p. 353-354.</bibl>
         <p>Voicy une seconde Chanson, dont l'Air &amp; les paroles plaisent fort icy <note resp="editor">Le poème figure dans plusieurs sources sous le nom de Jean Regnault de Segrais (cf. LADDA 1690-09). L'air a également été publié, avec basse continue et avec quelques variantes rythmiques et mélodiques à la voix, dans le <hi rend="italic">XXXIII. livre d'airs de différents auteurs</hi> (Paris, Christophe Ballard, 1690, p. 19-20, cf. LADDA 1690-09).</note>.</p>
         <quote>
-          <label>AIR NOUVEAU.</label>
-          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">Que tes loix, Amour, sont cruelles</hi>, doit regarder la page 353.</note>
+          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">Que tes loix, Amour, sont cruelles</hi>, doit regarder la page 353.</note>
           <lg>
             <l rend="i">Que tes loix, Amour sont cruelles ?</l>
             <l rend="i">Malheureux sont les cœurs qui s'en laissent charmer,</l>
@@ -35,6 +33,6 @@
           </figure>
         </ref>
       </div>
-    </body>
+        </body>
   </text>
 </TEI>

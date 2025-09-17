@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>[Bons mots des Orientaux]</head>
-        <bibl><title>Mercure galant</title>, juin 1694 [tome 6], p. 218-219.</bibl>
-        <p>Je suis ravi que vos Amis soient aussi contens du Livre que vend le Sieur Brunet, contenant <hi rend="i">les paroles remarquables, les bons mots, &amp; les maximes des Orientaux</hi>, que je l’avois esperé. Comme c’est une Traduction des Ouvrages qu’ils ont faits en Arabe, en Persan, &amp; en Turc, accompagnée de Remarques, il est impossible de trouver dans un seul Livre plus d’érudition, &amp; plus de choses, dont toutes sortes de gens peuvent tire de l’utilité. Aussi tous ceux qui le lisent icy, demeurent d’accord qu’on n’en a point imprimé depuis longtemps qui ait une si grande varieté, &amp; qui divertisse davantage. Le mesme Libraire debite un Livre intitulé, <hi rend="i">l’Etat present de l’Armenie, tant pour le temporel que pour le spirituel, avec une description du Pays &amp; des mœurs de ceux qui l’habitent.</hi></p>
-      </div>
-    </body>
+    <body><div>
+          <head>[Bons mots des Orientaux]</head>
+          <bibl><title>Mercure galant</title>, juin 1694 [tome 6], p. 218-219.</bibl>
+          <p>Je suis ravi que vos Amis soient aussi contens du Livre que vend le Sieur Brunet, contenant <hi rend="i">les paroles remarquables, les bons mots, &amp; les maximes des Orientaux</hi>, que je l’avois esperé. Comme c’est une Traduction des Ouvrages qu’ils ont faits en Arabe, en Persan, &amp; en Turc, accompagnée de Remarques, il est impossible de trouver dans un seul Livre plus d’érudition, &amp; plus de choses, dont toutes sortes de gens peuvent tire de l’utilité. Aussi tous ceux qui le lisent icy, demeurent d’accord qu’on n’en a point imprimé depuis longtemps qui ait une si grande varieté, &amp; qui divertisse davantage. Le mesme Libraire debite un Livre intitulé, <hi rend="i">l’Etat present de l’Armenie, tant pour le temporel que pour le spirituel, avec une description du Pays &amp; des mœurs de ceux qui l’habitent.</hi></p>
+        </div>
+        </body>
   </text>
 </TEI>

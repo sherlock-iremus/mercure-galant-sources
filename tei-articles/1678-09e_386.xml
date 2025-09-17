@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>[Proposition pour construire des fictions sur l’origine de l’Horloge de Sable] *</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III], p. 386-387.</bibl>
-        <p>On a pris tant de plaisir à faire des Fictions sur cette origine des Mouches galantes, que je ne doute point qu’on ne se divertisse également à chercher celle de l’Horloge de Sable. La version que j’ay veu d’une Epigramme Latine, pourra servir d’idée à inventer quelque chose d’agreable sur ce sujet. La voicy.</p>
+    <body><div>
+        <head>[Proposition pour construire des fictions sur l’origine de l’Horloge de Sable]
+          *</head>
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
+          p. 386-387.</bibl>
+        <p>On a pris tant de plaisir à faire des Fictions sur cette origine des Mouches galantes,
+          que je ne doute point qu’on ne se divertisse également à chercher celle de l’Horloge de
+          Sable. La version que j’ay veu d’une Epigramme Latine, pourra servir d’idée à inventer
+          quelque chose d’agreable sur ce sujet. La voicy.</p>
         <quote>
           <l>ALcippe dont le cœur fut autrefois si tendre,</l>
           <l>Compte icy les Heures du Jour.</l>
@@ -28,6 +32,6 @@
           <l>Fait voir qu’on n’a jamais de repos en aimant.</l>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

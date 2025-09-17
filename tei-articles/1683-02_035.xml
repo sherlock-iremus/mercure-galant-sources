@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Entretien du Berger de Flore avec sa Raison</head>
         <bibl><title>Mercure galant</title>, février 1683 [tome 2], p. 35-42</bibl>
-        <p>Apres vous avoir fait part de cette galante Lettre du Berger Fleuriste, il faut vous faire entendre un autre Berger, que vous avez déja plusieurs fois écouté avec plaisir. Voyez avec combien d’agrément il se sert de la Langue du Parnasse, quand il se trouve engagé à parler de son amour.</p>
+        <p>Apres vous avoir fait part de cette galante Lettre du Berger Fleuriste, il faut vous
+          faire entendre un autre Berger, que vous avez déja plusieurs fois écouté avec plaisir.
+          Voyez avec combien d’agrément il se sert de la Langue du Parnasse, quand il se trouve
+          engagé à parler de son amour.</p>
         <quote>
           <label>ENTRETIEN<lb/>DU BERGER DE FLORE<lb/><hi rend="sc">avec sa Raison</hi>.</label>
           <lg>
@@ -127,6 +129,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

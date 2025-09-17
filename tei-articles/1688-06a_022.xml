@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[La presence d’esprit]</head>
         <bibl><title>Mercure galant</title>, juin 1688 (première partie) [tome 8], p. 22-26</bibl>
         <p/>
-        <p>Les Vers qui suivent sont de M<hi rend="sup">r</hi> de Vin, dont vous avez déja vû plusieurs Ouvrages galans. Il y parle de deux Freres, dont l’un estant prest de perdre une partie de Paume, sortit du Jeu sous quelque pretexte. L’autre qui eust pu luy donner trente, rentra en sa place, continua la partie, &amp; la gagna. Ils se ressembloient si fort, que personne ne s’apperceut de ce changement.</p>
+        <p>Les Vers qui suivent sont de M<hi rend="sup">r</hi> de Vin, dont vous avez déja vû
+          plusieurs Ouvrages galans. Il y parle de deux Freres, dont l’un estant prest de perdre une
+          partie de Paume, sortit du Jeu sous quelque pretexte. L’autre qui eust pu luy donner
+          trente, rentra en sa place, continua la partie, &amp; la gagna. Ils se ressembloient si
+          fort, que personne ne s’apperceut de ce changement.</p>
         <quote>
           <label>LA PRESENCE D’ESPRIT.</label>
           <lg>
@@ -76,6 +79,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

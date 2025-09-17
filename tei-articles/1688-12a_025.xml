@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,18 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>[Philisbourg pris par Monseigneur le Dauphin en 20. jours de tranchées ouvertes]</head>
-        <bibl><title>Mercure galant</title>, décembre 1688 (première partie) [tome 16], p. 25-36</bibl>
+    <body><div>
+        <head>[Philisbourg pris par Monseigneur le Dauphin en 20. jours de tranchées
+          ouvertes]</head>
+        <bibl><title>Mercure galant</title>, décembre 1688 (première partie) [tome 16],
+          p. 25-36</bibl>
         <p/>
-        <p>Aprés vous avoir fait part d’un éloge du Roy en Prose, je vous envoye un Ouvrage en Vers, où vous trouverez les loüanges de ce Prince ingenieusement meslées avec celles de Monseigneur le Dauphin.</p>
+        <p>Aprés vous avoir fait part d’un éloge du Roy en Prose, je vous envoye un Ouvrage en Vers,
+          où vous trouverez les loüanges de ce Prince ingenieusement meslées avec celles de
+          Monseigneur le Dauphin.</p>
         <quote>
-          <label>PHILISBOURG<lb/>Pris par Monseigneur le Dauphin, en vingt jours de Tranchées ouvertes, le premier Novembre 1688.</label>
+          <label>PHILISBOURG<lb/>Pris par Monseigneur le Dauphin, en vingt jours de Tranchées
+            ouvertes, le premier Novembre 1688.</label>
           <lg>
             <l rend="i">La Paix faisoit sentir ses douceurs &amp; ses charmes ;</l>
             <l rend="i"> Loin du tumulte &amp; des alarmes</l>
@@ -102,7 +106,8 @@
           <lg>
             <l rend="i"> Le soin qu’à le former LOUIS luy-mesme prit</l>
             <l rend="i"> Luy répondoit de ce présage,</l>
-            <l><hi rend="i">Et, quoy que</hi> Philisbourg <hi rend="i">fust son apprentissage,</hi></l>
+            <l><hi rend="i">Et, quoy que</hi> Philisbourg <hi rend="i">fust son
+              apprentissage,</hi></l>
             <l rend="i">Il ne s’est point trompé dans le choix qu’il en fit.</l>
             <l rend="i"> Quelque forte que fust la Place,</l>
             <l rend="i"> Ce digne Fils, qui dans la Chasse</l>
@@ -115,9 +120,11 @@
           <lg>
             <l rend="i"> La terreur qu’en tous lieux répand son jeune bras,</l>
             <l rend="i">Cause à nos Ennemis une telle surprise,</l>
-            <l><hi rend="i">Que tremblant par avance,</hi> Heidelberg <hi rend="i">ne veut pas</hi></l>
+            <l><hi rend="i">Que tremblant par avance,</hi> Heidelberg <hi rend="i">ne veut
+              pas</hi></l>
             <l rend="i">Voir, à sa propre gloire, ensanglanter sa prise ;</l>
-            <l><hi rend="i">Il se rend de luy-mesme, &amp;</hi> Manheim <hi rend="i">tient si peu,</hi></l>
+            <l><hi rend="i">Il se rend de luy-mesme, &amp;</hi> Manheim <hi rend="i">tient si
+                peu,</hi></l>
             <l rend="i"> Que par sa foible resistance,</l>
             <l rend="i">On diroit que pour luy la Guerre n’est qu’un jeu,</l>
             <l rend="i">Et qu’au bruit de son nom chacun soit sans deffense.</l>
@@ -175,6 +182,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

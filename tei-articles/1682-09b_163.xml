@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,18 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head resp="editor">Réjouissances à Vienne pour la naissance du duc de Bourgogne</head>
-        <bibl><title>Mercure galant</title>, septembre 1682 (deuxième partie) [tome 10], p. 163-164.</bibl>
+        <bibl><title>Mercure galant</title>, septembre 1682 (deuxième partie) [tome 10], p.
+          163-164.</bibl>
         <p/>
-        <p>Tandis que Grenoble faisoit retentir les cris de Vive le Roy, on se préparoit dans les autres Villes du Dauphiné, à faire paroistre la joye qu'on avoit de la Naissance du Prince. Le 25. Feste de Saint Loüis, on chanta le <hi rend="i">Te Deum</hi> à Vienne dans l'Eglise Cathédrale. M<hi rend="sup">r</hi> de S. André Gouverneur de la Ville, y assista, &amp; ensuite accompagné des Consuls &amp; de toute la Milice, il vint allumer un grand Feu de joye que l'on avoit dressé dans la Place. [...]</p>
+        <p>Tandis que Grenoble faisoit retentir les cris de Vive le Roy, on se préparoit dans les
+          autres Villes du Dauphiné, à faire paroistre la joye qu'on avoit de la Naissance du
+          Prince. Le 25. Feste de Saint Loüis, on chanta le <hi rend="i">Te Deum</hi> à Vienne dans
+          l'Eglise Cathédrale. M<hi rend="sup">r</hi> de S. André Gouverneur de la Ville, y assista,
+          &amp; ensuite accompagné des Consuls &amp; de toute la Milice, il vint allumer un grand
+          Feu de joye que l'on avoit dressé dans la Place. [...]</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

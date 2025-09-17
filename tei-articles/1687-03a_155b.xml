@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,19 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div copyOf="JLB-MG-1687-03a_155">
+    <body><div copyOf="JLB-MG-1687-03a_155">
         <head>[Prise de Possession de l'Abbaye de Vernon par Me de Berthemet]</head>
         <bibl><title>Mercure galant</title>, mars 1687 (première partie) [tome 4], p. 155-169</bibl>
         <p/>
-        <p>Je vous appris dans ma Lettre du mois d'Aoust la nomination de Madame de Berthemet, à l'Abbaye de Vernon, Ordre de S. Augustin, vacante par la mort de Madame Testu, Soeur de M<hi rend="sup">r</hi> l'Abbé Testu, de l'Academie Françoise, mais je ne vous parlay point alors du merite &amp; de la Famille de cette nouvelle Abbesse, m'estant reservé vous en instruire lors qu'elle prendroit possession. [...]</p>
-        <p>Le soir, les Pensionnaires se chargerent d'exprimer les sentimens de la Maison par des Vers, que trois d'entre elles reciterent à la loüange de cette nouvelle Abbesse. Je vous les envoye, ne doutant pas que vous ne les approuviez, puis qu'il vous sera aisé de connoistre qu'ils partent de source.</p>
+        <p>Je vous appris dans ma Lettre du mois d'Aoust la nomination de Madame de Berthemet, à
+          l'Abbaye de Vernon, Ordre de S. Augustin, vacante par la mort de Madame Testu, Soeur de
+            M<hi rend="sup">r</hi> l'Abbé Testu, de l'Academie Françoise, mais je ne vous parlay
+          point alors du merite &amp; de la Famille de cette nouvelle Abbesse, m'estant reservé vous
+          en instruire lors qu'elle prendroit possession. [...]</p>
+        <p>Le soir, les Pensionnaires se chargerent d'exprimer les sentimens de la Maison par des
+          Vers, que trois d'entre elles reciterent à la loüange de cette nouvelle Abbesse. Je vous
+          les envoye, ne doutant pas que vous ne les approuviez, puis qu'il vous sera aisé de
+          connoistre qu'ils partent de source.</p>
         <quote>
           <label>POUR MADAME <lb/>DE BERTHEMET</label>
           <label>Abbesse de Vernon, le jour <lb/>de la prise de Possession.</label>
@@ -89,7 +95,9 @@
             <l rend="i">Sur les routes du ciel que vous avez tracées !</l>
           </lg>
         </quote>
-        <p>Ces Vers estant recitez, deux fort belles Voix, dont une ne fait pas un des petits ornemens de cette Maison, ayant esté une des meilleures Ecolieres du fameux M<hi rend="sup">r</hi> Lambert, chanterent ces autres Vers, mis en Musique par un tres-bon Maistre.</p>
+        <p>Ces Vers estant recitez, deux fort belles Voix, dont une ne fait pas un des petits
+          ornemens de cette Maison, ayant esté une des meilleures Ecolieres du fameux M<hi rend="sup">r</hi> Lambert, chanterent ces autres Vers, mis en Musique par un tres-bon
+          Maistre.</p>
         <quote>
           <label>I. DESSUS.</label>
           <lg>
@@ -132,6 +140,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

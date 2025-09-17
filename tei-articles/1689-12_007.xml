@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Pour le Roy. Sonnet</head>
         <bibl><title>Mercure galant</title>, décembre 1689 [tome 12], p. 7-10.</bibl>
         <p/>
-        <p>On a fait beaucoup d’ouvrages qui regardent le Roy sur la situation où sont presentement les affaires, mais il n’en a point paru qui se soient attiré plus de loüanges que le Sonnet que vous allez lire. Elles n’ont pû pourtant obliger l’Auteur à consentir que je vous fisse connoistre son nom.</p>
+        <p>On a fait beaucoup d’ouvrages qui regardent le Roy sur la situation où sont presentement
+          les affaires, mais il n’en a point paru qui se soient attiré plus de loüanges que le
+          Sonnet que vous allez lire. Elles n’ont pû pourtant obliger l’Auteur à consentir que je
+          vous fisse connoistre son nom.</p>
         <quote>
           <label>POUR LE ROY.<lb/><hi rend="i">SONNET.</hi></label>
           <lg>
@@ -45,12 +47,10 @@
           <lg>
             <l rend="i"> Apprenez le secret du sort qui vous assemble ;</l>
             <l rend="i">Ce Roy pour couronner mille faits inoüis,</l>
-            <l>
-              <hi rend="i">Devoit domter luy seul toute l’Europe ensemble.</hi>
-            </l>
+            <l><hi rend="i">Devoit domter luy seul toute l’Europe ensemble.</hi></l>
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

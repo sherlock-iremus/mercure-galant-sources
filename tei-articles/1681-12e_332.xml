@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,34 +14,28 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>[[Réponse de la Belle Guillot du Quartier de S. Hilaire de Poitiers, à la Question, Si une belle qui aime fortement, peut exécuter les desseins de vangeance qu'elle médite contre un Amant absent qui l'a oubliée, quand à son retour, il apporte des raisons, quoy que méchantes, pour executer sa conduite]]</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier d'octobre 1681 [tome XVI], p. 332-333.</bibl>
-        <quote>
-          <label>Si une Belle qui aime fortement, peut exécuter les desseins de vangeance qu’elle médite contre un Amant absent qui l’a oubliée, quand à son retour il apporte des raisons, quoy que méchantes, pour exécuter sa conduite.</label>
-          <lg>
-            <l> <hi rend="i">Un cœur tendre n’est point capable</hi></l>
-            <l>
-              <hi rend="i">De se vanger d’une infidélité ;</hi>
-            </l>
-            <l>
-              <hi rend="i">C’est en vain qu’on voudroit paroistre redoutable,</hi>
-            </l>
-            <l>
-              <hi rend="i">Quand on a de l’amour, on n’a plus de fierté.</hi>
-            </l>
-            <l> <hi rend="i">Une funeste expérience</hi></l>
-            <l>
-              <hi rend="i">M’apprend qu’on ne sçauroit maltraiter un Berger,</hi>
-            </l>
-            <l> <hi rend="i">Quand une fois il peut nous engager ;</hi></l>
-            <l> <hi rend="i">J’aimois Tircis dans sa constance,</hi></l>
-            <l> <hi rend="i">Je l’aime encor, quoy que léger.</hi></l>
-          </lg>
-          <p><hi rend="sc">La Belle Guillot</hi>, du Quartier de S. Hilaire de Poitiers.</p>
-        </quote>
-      </div>
-    </body>
+    <body><div>
+    <head>[[Réponse de la Belle Guillot du Quartier de S. Hilaire de Poitiers, à la Question, Si une belle qui aime fortement, peut exécuter les desseins de vangeance qu'elle médite contre un Amant absent qui l'a oubliée, quand à son retour, il apporte des raisons, quoy que méchantes, pour executer sa conduite]]</head>
+    <bibl><title>Extraordinaire du Mercure galant</title>, quartier d'octobre 1681 [tome XVI],
+     p. 332-333.</bibl>
+    <quote>
+     <label>Si une Belle qui aime fortement, peut exécuter les desseins de vangeance qu’elle médite
+      contre un Amant absent qui l’a oubliée, quand à son retour il apporte des raisons, quoy que
+      méchantes, pour exécuter sa conduite.</label>
+     <lg>
+      <l> <hi rend="i">Un cœur tendre n’est point capable</hi></l>
+      <l><hi rend="i">De se vanger d’une infidélité ;</hi></l>
+      <l><hi rend="i">C’est en vain qu’on voudroit paroistre redoutable,</hi></l>
+      <l><hi rend="i">Quand on a de l’amour, on n’a plus de fierté.</hi></l>
+      <l> <hi rend="i">Une funeste expérience</hi></l>
+      <l><hi rend="i">M’apprend qu’on ne sçauroit maltraiter un Berger,</hi></l>
+      <l> <hi rend="i">Quand une fois il peut nous engager ;</hi></l>
+      <l> <hi rend="i">J’aimois Tircis dans sa constance,</hi></l>
+      <l> <hi rend="i">Je l’aime encor, quoy que léger.</hi></l>
+     </lg>
+     <p><hi rend="sc">La Belle Guillot</hi>, du Quartier de S. Hilaire de Poitiers.</p>
+    </quote>
+   </div>
+   </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Plusieurs Inpromptus]</head>
         <bibl><title>Mercure galant</title>, avril 1678 [tome 4], p. 147-150.</bibl>
         <p>J’adjoûte icy quelques Inpromptus que vous ne desaprouverez pas.</p>
@@ -51,6 +50,6 @@
           <l>Selon les Loix d’Amour on n’est point Heritique.</l>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

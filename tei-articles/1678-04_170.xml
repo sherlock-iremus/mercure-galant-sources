@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Plusieurs Pieces de Vers sur ce sujet]</head>
         <bibl><title>Mercure galant</title>, avril 1678 [tome 4], p. 170-181.</bibl>
-        <p>Quand Sa Majesté partit pour cette conqueste, on fit les Vers que vous allez voir. La crainte que vous y trouverez marquée, ne doit pas vous étonner. Le Roy est l’amour &amp; les delices de tous ses Peuples, &amp; dans de semblables occasions, il est naturel de craindre pour ce qu’on aime.</p>
+        <p>Quand Sa Majesté partit pour cette conqueste, on fit les Vers que vous allez voir. La
+          crainte que vous y trouverez marquée, ne doit pas vous étonner. Le Roy est l’amour &amp;
+          les delices de tous ses Peuples, &amp; dans de semblables occasions, il est naturel de
+          craindre pour ce qu’on aime.</p>
         <quote>
           <l><space/>Toute la Terre est en effroy</l>
           <l><space/>De la marche de ce Grand Roy,</l>
@@ -31,7 +33,8 @@
           <l><space/>Ce Prince toûjours invincible</l>
           <l><space/>Est le seul qui ne tremble pas.</l>
         </quote>
-        <p>Si ces Vers estoient de saison dans le temps du depart du Roy, ceux-cy sont fort justes apres la prise de Gand.</p>
+        <p>Si ces Vers estoient de saison dans le temps du depart du Roy, ceux-cy sont fort justes
+          apres la prise de Gand.</p>
         <quote>
           <l>En vain, fiers Ennemis du plus grand de nos Roys,</l>
           <l>Vous voulez arrester le Soleil des François,</l>
@@ -131,6 +134,6 @@
           <l><space/>N’a jamais valu Saint Germain.</l>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

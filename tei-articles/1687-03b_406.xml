@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>[Chasteau-Roux]</head>
-        <bibl><title>Mercure galant</title>, mars 1687 (deuxième partie) [tome 5], p. 406-407</bibl>
-        <p/>
-        <p>A Chasteau-Roux en Berry, les Abbé, Chanoine &amp; Chapitre de l'Eglise Collegiale firent une Procession Generale au tour de leur Eglise le 16. de ce mois avec tout le Clergé &amp; les Religieux de la Ville. On chanta le <hi rend="i">Te Deum</hi>, auquel assista le Corps de Justice ordinaire avec celuy de toute la Ville &amp; des Elûs. Le 21. les Cordeliers de l'Observance du mesme lieu, rendirent de pareilles actions de graces dans leur Eglise, ce qu'ont fait aussi toutes les Paroisses &amp; Communautez Regulieres &amp; Seculieres.</p>
-      </div>
-    </body>
+    <body><div>
+          <head>[Chasteau-Roux]</head>
+          <bibl><title>Mercure galant</title>, mars 1687 (deuxième partie) [tome 5], p. 406-407</bibl>
+          <p/>
+          <p>A Chasteau-Roux en Berry, les Abbé, Chanoine &amp; Chapitre de l'Eglise Collegiale firent une Procession Generale au tour de leur Eglise le 16. de ce mois avec tout le Clergé &amp; les Religieux de la Ville. On chanta le <hi rend="i">Te Deum</hi>, auquel assista le Corps de Justice ordinaire avec celuy de toute la Ville &amp; des Elûs. Le 21. les Cordeliers de l'Observance du mesme lieu, rendirent de pareilles actions de graces dans leur Eglise, ce qu'ont fait aussi toutes les Paroisses &amp; Communautez Regulieres &amp; Seculieres.</p>
+        </div>
+        </body>
   </text>
 </TEI>

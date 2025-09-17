@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Au Roy, Sonnet.</head>
         <bibl><title>Le Nouveau Mercure galant</title>, août 1677 [tome VI], p. 27-31.</bibl>
         <p>Je vous envoye encor un Sonnet sur les belles Actions de ce Prince.</p>
@@ -49,6 +48,6 @@
         </quote>
         <p>Les Poëtes qui ont de tout temps esté de grands menteurs, ne disent plus que des veritez, lors qu’ils parlent des surprenantes Conquestes du Roy ; mais comme ils ne pourroient rien inventer qui eut plus de ce merveilleux qui approche de la Fable, les Siecles à venir pourroient bien prendre pour des fictions tout ce qu’ils disent aujourd’huy de plus veritable. Ce n’est pas leur faute ; pourquoy le Roy fait-il de si grandes choses que la Posterité aura de la peine à les croire ?</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

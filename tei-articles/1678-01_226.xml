@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,21 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Air de M. de la Tour]</head>
         <bibl><title>Mercure galant</title>, janvier 1678 [tome 1], p. 226-229.</bibl>
-        <p>Je puis vous assurer, Madame, que tout est nouveau dans cet Air, &amp; que je ne vous envoyeray rien de cette nature qui ait esté veu dans le monde avant que vous le receviez. C’est ce qui m’a empesché de faire graver un fort bel Air de M<hi rend="sup">r</hi> de la Tour, qui comme vous sçavez tient rang parmy les premiers Maistres de Musique. J’ay déja entendu parler de cet Air en quelques endroits, &amp; je prétens que vous puissiez dire que vous aurez chanté la premiere tout ce que vous trouverez noté dans mes Lettres, si ceux qui me le donneront me tiennent parole. Je ne veux pas cependant vous priver des Paroles sur lesquelles M<hi rend="sup">r</hi> de la Tour a travaillé. Elles vous plairont baucoup, si elles vous plaisent autant qu’elles font icy ; mais comment ne vous plairoient-elles pas, puis qu’elles sont de l’illustre Personne qui ne nous donne jamais rien que d’achevé ? Elles ont un tour qui vous feront connoistre aisément le merveilleux génie de Madame des Houlieres.</p>
+        <p>Je puis vous assurer, Madame, que tout est nouveau dans cet Air, &amp; que je ne vous
+          envoyeray rien de cette nature qui ait esté veu dans le monde avant que vous le receviez.
+          C’est ce qui m’a empesché de faire graver un fort bel Air de M<hi rend="sup">r</hi> de la
+          Tour, qui comme vous sçavez tient rang parmy les premiers Maistres de Musique. J’ay déja
+          entendu parler de cet Air en quelques endroits, &amp; je prétens que vous puissiez dire
+          que vous aurez chanté la premiere tout ce que vous trouverez noté dans mes Lettres, si
+          ceux qui me le donneront me tiennent parole. Je ne veux pas cependant vous priver des
+          Paroles sur lesquelles M<hi rend="sup">r</hi> de la Tour a travaillé. Elles vous plairont
+          baucoup, si elles vous plaisent autant qu’elles font icy ; mais comment ne vous
+          plairoient-elles pas, puis qu’elles sont de l’illustre Personne qui ne nous donne jamais
+          rien que d’achevé ? Elles ont un tour qui vous feront connoistre aisément le merveilleux
+          génie de Madame des Houlieres.</p>
         <quote>
           <label>AIR.</label>
           <lg>
@@ -36,6 +46,6 @@
         </quote>
         <p>Voyez, Madame, si rien peut estre plus agreablement tourné que ces Paroles.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

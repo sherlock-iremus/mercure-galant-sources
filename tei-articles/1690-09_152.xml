@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,22 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Theses de mathematique soutenuës au College Mazarin]</head>
         <bibl><title>Mercure galant</title>, septembre 1690 [tome 10], p. 152-159.</bibl>
-        <p>M<hi rend="sup">r</hi> le Prevost a soûtenu depuis peu de temps au College Mazarin, des Theses de Mathematique sur l’Architecture Militaire. Comme elles estoient dédiées à M<hi rend="sup">rs</hi> les Prevost des Marchands &amp; Echevins de Paris, ils firent l’honneur au Soûtenant d’y vouloir bien assister en Corps. Ces Theses estoient imprimées en livre, &amp; dans ce livre on avoit representé l’Hostel de Ville, avec la marche de ses Officiers. Il contenoit plusieurs autres Tailles-douces, suivant les sujets qui devoient servir de matiere à la dispute. L’Assemblée fut illustre &amp; fort nombreuse, &amp; le Soutenant s’attira une approbation generale par ses réponses. On distribua dans l’Assemblée une Ode Latine, faite par M<hi rend="sup">r</hi> le Comte, à l’honeur de ceux à qui les Theses estoient dédiées. Je vous en envoye la traduction. Elle est d’un des plus heureux Genies de l’Academie Françoise.</p>
+        <p>M<hi rend="sup">r</hi> le Prevost a soûtenu depuis peu de temps au College Mazarin, des
+          Theses de Mathematique sur l’Architecture Militaire. Comme elles estoient dédiées à M<hi rend="sup">rs</hi> les Prevost des Marchands &amp; Echevins de Paris, ils firent
+          l’honneur au Soûtenant d’y vouloir bien assister en Corps. Ces Theses estoient imprimées
+          en livre, &amp; dans ce livre on avoit representé l’Hostel de Ville, avec la marche de ses
+          Officiers. Il contenoit plusieurs autres Tailles-douces, suivant les sujets qui devoient
+          servir de matiere à la dispute. L’Assemblée fut illustre &amp; fort nombreuse, &amp; le
+          Soutenant s’attira une approbation generale par ses réponses. On distribua dans
+          l’Assemblée une Ode Latine, faite par M<hi rend="sup">r</hi> le Comte, à l’honeur de ceux
+          à qui les Theses estoient dédiées. Je vous en envoye la traduction. Elle est d’un des plus
+          heureux Genies de l’Academie Françoise.</p>
         <quote>
-          <label>A MESSIEURS<lb/>Les Prevost des Marchands<lb/>&amp; Echevins de la Ville<lb/>de Paris.</label>
+          <label>A MESSIEURS<lb/>Les Prevost des Marchands<lb/>&amp; Echevins de la Ville<lb/>de
+            Paris.</label>
           <lg>
             <l rend="i">Fourcy, puis qu’en tous lieux par tes travaux utiles,</l>
             <l rend="i">De Paris chaque jour s’augmente la splendeur,</l>
@@ -32,9 +41,7 @@
             <l rend="i">Donne tréve à tes soins, suis la voix qui t’appelle</l>
             <l rend="i">Au plaisir innocent de nos doctes Combats ;</l>
             <l rend="i"> Et vous qu’anime un mesme zele,</l>
-            <l>
-              <hi rend="i">Son fidelle conseil, accompagnez ses pas.</hi>
-            </l>
+            <l><hi rend="i">Son fidelle conseil, accompagnez ses pas.</hi></l>
           </lg>
           <ab type="ornament">***</ab>
           <lg>
@@ -101,6 +108,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

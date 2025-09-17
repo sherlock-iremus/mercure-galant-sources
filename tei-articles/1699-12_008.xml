@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,32 +14,31 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>[Inscriptions]</head>
-        <bibl><title>Mercure galant</title>, décembre 1699 [tome 12], p. 8-9.</bibl>
-        <p>M<hi rend="sup">r</hi> Saro, de Bordeaux, a fait deux Inscriptions, chacune d’un seul Vers latin, pour mettre sous la Statuë Equestre du Roy. L’une est :</p>
-        <quote>
-          <lg>
-            <l rend="i">Bello &amp; pace potens Lodoix ostenditur orbi.</l>
-          </lg>
-        </quote>
-        <p>Et l’autre.</p>
-        <quote>
-          <lg>
-            <l rend="i">Martis equum frænans populis læta otia fecit.</l>
-          </lg>
-        </quote>
-        <p>En voicy la traduction faite par le même.</p>
-        <quote>
-          <lg>
-            <l rend="i"> Tel se fait voir à l’Univers</l>
-            <l rend="i">Ce grand Roy, le Heros de la Paix, de la Guerre.</l>
-            <l rend="i">Il vient d’arrester Mars qui désoloit la terre,</l>
-            <l rend="i">Et rendre un heureux calme à cent Peuples divers.</l>
-          </lg>
-        </quote>
-      </div>
-    </body>
+    <body><div>
+          <head>[Inscriptions]</head>
+          <bibl><title>Mercure galant</title>, décembre 1699 [tome 12], p. 8-9.</bibl>
+          <p>M<hi rend="sup">r</hi> Saro, de Bordeaux, a fait deux Inscriptions, chacune d’un seul Vers latin, pour mettre sous la Statuë Equestre du Roy. L’une est :</p>
+          <quote>
+            <lg>
+              <l rend="i">Bello &amp; pace potens Lodoix ostenditur orbi.</l>
+            </lg>
+          </quote>
+          <p>Et l’autre.</p>
+          <quote>
+            <lg>
+              <l rend="i">Martis equum frænans populis læta otia fecit.</l>
+            </lg>
+          </quote>
+          <p>En voicy la traduction faite par le même.</p>
+          <quote>
+            <lg>
+              <l rend="i"> Tel se fait voir à l’Univers</l>
+              <l rend="i">Ce grand Roy, le Heros de la Paix, de la Guerre.</l>
+              <l rend="i">Il vient d’arrester Mars qui désoloit la terre,</l>
+              <l rend="i">Et rendre un heureux calme à cent Peuples divers.</l>
+            </lg>
+          </quote>
+        </div>
+        </body>
   </text>
 </TEI>

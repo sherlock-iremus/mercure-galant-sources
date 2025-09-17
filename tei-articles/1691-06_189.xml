@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,16 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Ouvrages de M. Brossard de Montaney]</head>
         <bibl><title>Mercure galant</title>, juin 1691 [tome 6], p. 189-197.</bibl>
         <p/>
-        <p>Je finis cet article par trois pieces de M<hi rend="sup">r</hi> Brossard de Montaney. Toutes celles que vous avez veuës de luy vous ont fait connoistre combien il est distingué parmy ceux qui travaillent en Poësie. J’ay separé dans mes Lettres d’Avril &amp; de May les Ouvrages qui m’ont esté envoyez sur les dernieres Conquestes du Roy. Je suis fâché de ne pouvoir donner place à tous, mais il n’y a pas moyen de rappeller toûjours la mesme matiere.</p>
+        <p>Je finis cet article par trois pieces de M<hi rend="sup">r</hi> Brossard de Montaney.
+          Toutes celles que vous avez veuës de luy vous ont fait connoistre combien il est distingué
+          parmy ceux qui travaillent en Poësie. J’ay separé dans mes Lettres d’Avril &amp; de May
+          les Ouvrages qui m’ont esté envoyez sur les dernieres Conquestes du Roy. Je suis fâché de
+          ne pouvoir donner place à tous, mais il n’y a pas moyen de rappeller toûjours la mesme
+          matiere.</p>
         <quote>
           <label>SUR LA RETRAITE<lb/>du Prince d’Orange.</label>
           <lg>
@@ -46,7 +50,8 @@
           </lg>
         </quote>
         <quote>
-          <label>SUR LE RETOUR<lb/>du Prince d’Orange en Angleterre, &amp; la fin de l’Assemblée de la Haye.</label>
+          <label>SUR LE RETOUR<lb/>du Prince d’Orange en Angleterre, &amp; la fin de l’Assemblée de
+            la Haye.</label>
           <lg>
             <l rend="i">Un soin pressant occupe la Hollande,</l>
             <l rend="i">Le Roy Guillaume y vient tenir sa Cour.</l>
@@ -83,9 +88,7 @@
         <quote>
           <label>AU PRINCE D’ORANGE<lb/>Sur la prise de Mons.</label>
           <lg>
-            <l>
-              <hi rend="i">Fuis, Prince malheureux, retourne en Angleterre,</hi>
-            </l>
+            <l><hi rend="i">Fuis, Prince malheureux, retourne en Angleterre,</hi></l>
             <l rend="i">La Flandre à ton honneur est un Païs fatal.</l>
             <l rend="i">Quitte un illustre employ dont tu t’acquites mal,</l>
             <l rend="i">Trompe, opprime, trahis, &amp; ne fais point la guerre.</l>
@@ -111,6 +114,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

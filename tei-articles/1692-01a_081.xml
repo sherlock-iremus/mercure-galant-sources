@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head resp="editor">Sonnet pour une personne qui a renoncé au monde</head>
         <bibl><title>Mercure galant</title>, janvier 1692 [tome 1], p. 81-83.</bibl>
-        <p>Voicy un Sonnet qui a esté fait pour une autre personne qui a depuis peu renoncé au monde, &amp; pris l’Habit de Religieuse.</p>
+        <p>Voicy un Sonnet qui a esté fait pour une autre personne qui a depuis peu renoncé au
+          monde, &amp; pris l’Habit de Religieuse.</p>
         <quote>
           <label>A MADAME DU B.<lb/><hi rend="i">SONNET.</hi></label>
           <lg>
-            <l>
-              <hi rend="i">Peu sçavent comme vous quiter la Creature,</hi>
-            </l>
+            <l><hi rend="i">Peu sçavent comme vous quiter la Creature,</hi></l>
             <l rend="i">Ne trouver dans le monde aucun estat heureux,</l>
             <l rend="i">Renoncer au plaisir par de penibles Vœux,</l>
             <l rend="i">Et soûmettre à l’esprit la loy de la nature.</l>
@@ -46,12 +44,10 @@
           <lg>
             <l rend="i"> Cette austere Vertu me doit faire trembler,</l>
             <l rend="i">Et je sens qu’il faudroit pour en estre capable,</l>
-            <l>
-              <hi rend="i">Ou ne pas vous connoistre, ou bien vous ressembler.</hi>
-            </l>
+            <l><hi rend="i">Ou ne pas vous connoistre, ou bien vous ressembler.</hi></l>
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

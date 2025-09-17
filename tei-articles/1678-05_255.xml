@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,17 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, mai 1678 [tome 5], p. 255.</bibl>
-        <p>Si l’envie de chanter vous prend, vous pouvez la satisfaire. Voicy un Air tout nouveau, &amp; dont j’ay fait graver les Notes pour vous. Ainsi vous serez assurément la premiere qui l’aurez chanté. Il est de M<hi rend="sup">r</hi> Berthet qui l’a fait sur ces Paroles.</p>
+        <p>Si l’envie de chanter vous prend, vous pouvez la satisfaire. Voicy un Air tout nouveau,
+          &amp; dont j’ay fait graver les Notes pour vous. Ainsi vous serez assurément la premiere
+          qui l’aurez chanté. Il est de M<hi rend="sup">r</hi> Berthet qui l’a fait sur ces
+          Paroles.</p>
         <quote>
-          <label>AIR NOUVEAU</label>
-          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par, Que l’Amour flate doucement, doit regarder la Page 255.</note>
+          <label>AIR NOUVEAU</label><note resp="author" place="margin"><hi rend="i">Avis pour placer
+              les Figures</hi> : l’Air qui commence par, Que l’Amour flate doucement, doit regarder
+            la Page 255.</note>
           <lg>
             <l rend="i">Que l’Amour flate doucement !</l>
             <l rend="i">Qu’il est agreable &amp; charmant,</l>
@@ -37,6 +40,6 @@
           </figure>
         </ref>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,23 +14,20 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Vers sur une Medaille frappée pour le Prince d’Orange]</head>
         <bibl><title>Mercure galant</title>, août 1692 [tome 10], p. 169-171.</bibl>
-        <p>Le Prince d’Orange a fait battre depuis peu une Medaille, où est d’un costé le Portrait du Roy, avec ces mots,</p>
+        <p>Le Prince d’Orange a fait battre depuis peu une Medaille, où est d’un costé le Portrait
+          du Roy, avec ces mots,</p>
         <quote>
-          <p>
-            <hi rend="i">Ludovicus Magnus.</hi>
-          </p>
+          <p><hi rend="i">Ludovicus Magnus.</hi></p>
         </quote>
         <p>Et de l’autre costé, celuy de ce Prince, &amp; ces paroles,</p>
         <quote>
-          <p>
-            <hi rend="i">Guillelmus Maximus.</hi>
-          </p>
+          <p><hi rend="i">Guillelmus Maximus.</hi></p>
         </quote>
-        <p>M<hi rend="sup">r</hi> Boursaut, dont vous connoissez l’heureux talent, a fait là-dessus ce Madrigal.</p>
+        <p>M<hi rend="sup">r</hi> Boursaut, dont vous connoissez l’heureux talent, a fait là-dessus
+          ce Madrigal.</p>
         <quote>
           <lg>
             <l rend="i">LOUIS est Grand, c’est un fait positif,</l>
@@ -46,6 +43,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

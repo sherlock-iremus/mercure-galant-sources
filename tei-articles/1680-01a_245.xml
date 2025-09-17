@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Ce qui s’est passé à Turin le jour du Sapate]</head>
-        <bibl><title>Mercure galant</title>, janvier 1680 [tome 1], p. 245-266.</bibl>
-        <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : Les trois Piedestaux doivent regarder la page 246.</note>
+        <bibl><title>Mercure galant</title>, janvier 1680 [tome 1], p. 245-266.</bibl><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : Les trois Piedestaux doivent regarder la page 246.</note>
         <p>J’ay accoustumé de vous parler tous les ans de la galante Feste du <hi rend="i">Sapate</hi> établie à Turin le cinquiéme Decembre. Il faut vous rendre compte de ce qui s’y est passé la derniere fois. Ce jour-là il y eut Comédie Italienne le soir, &amp; pendant que Madame Royale y estoit avec toute la Cour, S. A. R. fit porter trois Piedestaux carrez feints en argent, sur lesquels estoient peints des Vases &amp; des Festons de fleurs, imitées au naturel. Les trois Piedestaux dont vous trouverez la Figure gravée dans cette Planche, s’ouvroient en maniere d’Armoire, &amp; renfermoient chacun deux Sieges-plians d’argent massif, cizelez, &amp; tres-délicatement travaillez. Le Siege en estoit couvert d’un velours violet, bordé d’une crespine d’or, le tout assortissant au Lit de Madame Royale. Au dessus il y avoit une espece de Marche-pied, qui diminuoit en largeur à mesure qu’il s’élevoit. Il estoit composé de trois Tiroirs sur chaque Piedestal, fort adroitement cachez, &amp; remplis d’une tres-grande quantité de Paquets de Gans, &amp; de Peaux d’Espagne &amp; de Rome, de Coussinets de senteur en broderie, de Pieces de Rubans, &amp; de riches Tissus, de Manchons de toutes façons, de Vazes &amp; de Fiolles d’Essence, &amp; de toutes sortes de galanteries les plus rares, qui peuvent estre à l’usage des Dames, à qui elles furent distribuées. Sur les trois Marchepieds, on voyoit trois Amours, tenant chacun une Corbeille d’argent, remplie de Bouquets de toutes les fleurs que le Printemps peut produire. C’estoit une assez grande nouveauté dans la saison du Sapate. Ces Bouquets liez avec de gros nœuds de riches Rubans de diverses couleurs, furent pareillement donnez aux Dames par Madame Royale, qui apres avoir bien cherché ce qui pouvoit estre pour elle, outre les six Plians, dont je vous viens de parler, trouva à la fin une Bague d’un Diamant taillé en cœur, d’une grosseur extraordinaire, &amp; dont le prix marquoit quelque chose de la magnificence du grand Prince qui la présentoit, &amp; de la grandeur de l’auguste Souveraine, à qui elle estoit presentée. Chacun de ces Amours avoit en sa main par écrit le Compliment qu’il ne pouvoit prononcer. La lecture en fut faite, &amp; Madame Royale l’écouta avec beaucoup de bonté. Voicy les Vers que le Papier de chaque Amour contenoit. Ils sont de M<hi rend="sup">r</hi> G… Conseiller &amp; Secretaire d’Etat de S. A. R. dont je vous ay envoyé une Epistre en Vers dans ma derniere Lettre. Je ne doute paoint, Madame, que vous ne soyez fort contente de ceux-cy, puis que toute la Cour de Savoye l’a esté.</p>
         <quote rend="border">
           <label>Pour l’amour</label>
@@ -194,7 +192,7 @@
             <l rend="i">D’une inviolable mémoire.</l>
           </lg>
           <ab type="ornament">***</ab>
-          <lg>
+          <lg>  
             <l rend="i">Ainsi tous vos soins importans</l>
             <l rend="i">Luy seront présens en tout temps,</l>
             <l rend="i">Et voyant vostre Regne &amp; si doux &amp; si juste,</l>
@@ -209,6 +207,6 @@
         </quote>
         <p>Le mesme soir, Madame Royale entrant dans sa Chambre, y trouva devant son feu un Ecran d’une beauté singuliere. Il faut vous en faire la description. Le pied est d’argent doré, travaillé admirablement ; &amp; dans le haut, il y a une Couronne de Savoye, couverte de fort beaux Diamans. Le corps de l’Ecran est une Miniature d’un excellent Maistre. Le dessein représente Son Altesse Royale Monsieur le Duc de Savoye sur le bord de la Mer, &amp; à pied. Il est revestu du Manteau Ducal. Vis-à-vis de luy, Madame Royale paroist sortir d’un Palais, suivie des Vertus. Elle montre à ce jeune Prince qu’i faut quiter les plaisirs enfantins, (on les voit représentez derriere luy par une Troupe d’Enfans qui joüent à toute sorte de petits jeux,) &amp; se préparer à passer à Lisbonne, qu’on découvre en perspéctive à l’orizon d’une grande Mer. Un petit Amour volant luy montre aussi avec le doigt, que c’est là qu’il doit aller chercher ses plaisirs. On voit un Port &amp; des Vaisseaux prests pour l’Embarquement. La Gloire descend, tenant une Couronne de Lauriers ; &amp; la Renommée fend les airs, pour publier à toute la Terre la glorieuse Alliance qui se fait entre la Savoye &amp; le Portugal. On lit ces mots écrits à un coin, <hi rend="i">Matre Dea monstrante viam</hi>. Dans l’autre costé de la Table de l’Ecran, il y a une Broderie d’or, d’argent, &amp; de soye couleur de feu, fort relevée, sur une peau de Frangipane, dont le dessein représente des flâmes de feu, sur lesquelles est une Couronne tres-riche. Les deux costez sont rejoints par un galon d’or, attaché avec un tres-grand nombre de clous à teste de Diamans. Madame Royale, &amp; toute la Cour, furent fort longtemps sans pouvoir s’imaginer d’où venoit ce galant &amp; magnifique Sapate ; mais enfin on découvrit que M<hi rend="sup">r</hi> le Cardinal d’Estrées, dont la vivacité du génie brille dans les petites choses, comme celle de son esprit se fait admirer dans les grandes, avoit envoyé ce Présent de Paris par un Courrier dépesché exprés.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,20 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Placet au Roy]</head>
         <bibl><title>Mercure galant</title>, mars 1687 (première partie) [tome 4], p. 176-182</bibl>
-        <p>Je vous ay parlé plusieurs fois de M<hi rend="sup">r</hi> Roubin, Academicien d’Arles. Ce fut luy que la Ville de ce nom députa il y a quelques années pour venir presenter au Roy un Tableau de l’Obelisque qui avoit esté trouvé sous quelques ruines, &amp; qu’elle avoit fait élever &amp; restaurer, &amp; ensuite consacré à ce Monarque, aprés y avoir fait placer un Soleil sur la pointe, &amp; fait faire un piedestal remply d’Inscriptions à la gloire de Sa Majesté. Le même M<hi rend="sup">r</hi> Roubin s’étant trouvé possesseur d’une Isle qui appartient au Roy, &amp; se voyant attaque par ceux que l’on a commis pour la recherche des biens de cette nature, a fait le Placet qui suit à l’occasion de cette recherche. Il faut vous dire pour l’intelligence de ce Placet que le Roy luy fit l’honneur de l’anoblir pendant le temps de sa Députation pour les affaires &amp; pour l’Obelisque de la Ville d’Arles.</p>
+        <p>Je vous ay parlé plusieurs fois de M<hi rend="sup">r</hi> Roubin, Academicien d’Arles. Ce
+          fut luy que la Ville de ce nom députa il y a quelques années pour venir presenter au Roy
+          un Tableau de l’Obelisque qui avoit esté trouvé sous quelques ruines, &amp; qu’elle avoit
+          fait élever &amp; restaurer, &amp; ensuite consacré à ce Monarque, aprés y avoir fait
+          placer un Soleil sur la pointe, &amp; fait faire un piedestal remply d’Inscriptions à la
+          gloire de Sa Majesté. Le même M<hi rend="sup">r</hi> Roubin s’étant trouvé possesseur
+          d’une Isle qui appartient au Roy, &amp; se voyant attaque par ceux que l’on a commis pour
+          la recherche des biens de cette nature, a fait le Placet qui suit à l’occasion de cette
+          recherche. Il faut vous dire pour l’intelligence de ce Placet que le Roy luy fit l’honneur
+          de l’anoblir pendant le temps de sa Députation pour les affaires &amp; pour l’Obelisque de
+          la Ville d’Arles.</p>
         <quote>
           <label>AU ROY.</label>
           <lg>
@@ -92,6 +101,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

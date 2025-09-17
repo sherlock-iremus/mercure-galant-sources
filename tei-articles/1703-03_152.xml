@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,33 +14,26 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>Air spirituel</head>
-        <bibl><title>Mercure galant</title>, mars 1703 [tome 3], p. 152-153.</bibl>
-        <p>S’il est ainsi il n’y a point d’homme qui ne doive faire reflection aux paroles suivantes. <note resp="editor">Cet air est réédité dans une notation musicale expérimentale plus loin dans le même volume du <hi rend="italic">Mercure galant</hi> (voir <ref target="MG-1703-03_363">cet article</ref>).</note></p>
-        <quote>
-          <label>AIR SPIRITUEL.</label>
-          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par <hi rend="i">Seigneur, ta loy m’a sçu charmer</hi>, doit regarder la page 152.</note>
-          <lg>
-            <l>
-              <hi rend="i">Seigneur, ta loy m’a sçu charmer</hi>
-            </l>
-            <l>
-              <hi rend="i">Et ta grace puissante a mon ame asservie</hi>
-            </l>
-            <l> <hi rend="i">Puisque je commence à t’aimer</hi></l>
-            <l>
-              <hi rend="i">Je commence à goûter les plaisirs de la vie.</hi>
-            </l>
-          </lg>
-        </quote>
-        <ref target="images/1703-03_152.JPG">
-          <figure>
-            <graphic url="images/1703-03_152.JPG"/>
-          </figure>
-        </ref>
-      </div>
-    </body>
+    <body><div>
+          <head>Air spirituel</head>
+          <bibl><title>Mercure galant</title>, mars 1703 [tome 3], p. 152-153.</bibl>
+          <p>S’il est ainsi il n’y a point d’homme qui ne doive faire reflection aux paroles
+            suivantes. <note resp="editor">Cet air est réédité dans une notation musicale expérimentale plus loin dans le même volume du <hi rend="italic">Mercure galant</hi> (voir <ref target="MG-1703-03_363">cet article</ref>).</note></p>
+          <quote>
+            <label>AIR SPIRITUEL.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par <hi rend="i">Seigneur, ta loy m’a sçu charmer</hi>, doit regarder la page 152.</note>
+            <lg>
+              <l><hi rend="i">Seigneur, ta loy m’a sçu charmer</hi></l>
+              <l><hi rend="i">Et ta grace puissante a mon ame asservie</hi></l>
+              <l> <hi rend="i">Puisque je commence à t’aimer</hi></l>
+              <l><hi rend="i">Je commence à goûter les plaisirs de la vie.</hi></l>
+            </lg>
+          </quote>
+          <ref target="images/1703-03_152.JPG">
+            <figure>
+              <graphic url="images/1703-03_152.JPG"/>
+            </figure>
+          </ref>
+        </div>
+        </body>
   </text>
 </TEI>

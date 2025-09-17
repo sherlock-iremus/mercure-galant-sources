@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Mars &amp; les Muses en contestation pour Monseigneur le Dauphin]</head>
         <bibl><title>Mercure galant</title>, février 1678 [tome 2], p. 181-191.</bibl>
-        <p>Vous auriez peine à ne pas donner la vostre [l’approbation] à une Piece toute pleine d’esprit qui a esté faite pour Monseigneur le Dauphin par M<hi rend="sup">r</hi> l’Abbé de la Chaise, Doyen de Sillé. Elle a pour sujet un Diférend que ce jeune Prince a émeu entre les Muses &amp; Mars, &amp; qui n’a pû estre terminé que par un Arrest de Jupiter. Je croy vous faire un tres-grand présent de vous en envoyer une Copie.</p>
+        <p>Vous auriez peine à ne pas donner la vostre [l’approbation] à une Piece toute pleine
+          d’esprit qui a esté faite pour Monseigneur le Dauphin par M<hi rend="sup">r</hi> l’Abbé de
+          la Chaise, Doyen de Sillé. Elle a pour sujet un Diférend que ce jeune Prince a émeu entre
+          les Muses &amp; Mars, &amp; qui n’a pû estre terminé que par un Arrest de Jupiter. Je croy
+          vous faire un tres-grand présent de vous en envoyer une Copie.</p>
         <quote rend="border">
           <label rend="center">Mars</label>
           <label rend="center">Et</label>
@@ -125,8 +128,10 @@
           <l>Les Muses dont par tout il sera les délices,</l>
           <l><space/>Le suivront loin de l’empescher.</l>
         </quote>
-        <p>M<hi rend="sup">r</hi> l’Abbé de la Chaise doit attendre beaucoup de gloire de cet Ouvrage. La matiere est grande, &amp; Monseigneur le Dauphin ne sçauroit rien inspirer que d’élevé.</p>
+        <p>M<hi rend="sup">r</hi> l’Abbé de la Chaise doit attendre beaucoup de gloire de cet
+          Ouvrage. La matiere est grande, &amp; Monseigneur le Dauphin ne sçauroit rien inspirer que
+          d’élevé.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

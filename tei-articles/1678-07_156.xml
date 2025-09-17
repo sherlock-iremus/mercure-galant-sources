@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,17 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Stances à Sylvie, sur ses Vers à soye</head>
         <bibl><title>Mercure galant</title>, juillet 1678 [tome 7], p. 156-162.</bibl>
-        <p>Les divers changemens qui arrivent aux Vers à soye, ne seroient pas regardez avec moins d’étonnement, si la chose estoit plus rare pour nous. Ils ont fourny le sujet des Vers qui suivent, &amp; je ne doute point qu’ils ne soient de vostre goust, par le juste raport que vous y trouverez entre les peines que soufre un Amant, &amp; le travail de ces industrieux Insectes. Ce galant Ouvrage qui est tombé entre mes mains à l’insçeu de son Autheur est de M<hi rend="sup">r</hi> de Templery. C’est un Gentilhomme de la Ville d’Aix, qui passe pour un des plus honnestes Hommes de sa Province. Je ne vous dis rien de son Esprit, vous en pouvez juger par vous-mesme.</p>
+        <p>Les divers changemens qui arrivent aux Vers à soye, ne seroient pas regardez avec moins
+          d’étonnement, si la chose estoit plus rare pour nous. Ils ont fourny le sujet des Vers qui
+          suivent, &amp; je ne doute point qu’ils ne soient de vostre goust, par le juste raport que
+          vous y trouverez entre les peines que soufre un Amant, &amp; le travail de ces industrieux
+          Insectes. Ce galant Ouvrage qui est tombé entre mes mains à l’insçeu de son Autheur est de
+            M<hi rend="sup">r</hi> de Templery. C’est un Gentilhomme de la Ville d’Aix, qui passe
+          pour un des plus honnestes Hommes de sa Province. Je ne vous dis rien de son Esprit, vous
+          en pouvez juger par vous-mesme.</p>
         <quote>
           <label>STANCES <lb/>À SYLVIE, <lb/>SUR SES VERS À SOYE.</label>
           <lg>
@@ -93,6 +99,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

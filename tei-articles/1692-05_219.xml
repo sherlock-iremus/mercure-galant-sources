@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Galanterie]</head>
         <bibl><title>Mercure galant</title>, mai 1692 [tome 5], p. 219-222.</bibl>
-        <p>Les Vers qui suivent courent sous le nom du Cavalier d’Angers. On les a trouvez fort agreables ; vous m’en direz vostre sentiment.</p>
+        <p>Les Vers qui suivent courent sous le nom du Cavalier d’Angers. On les a trouvez fort
+          agreables ; vous m’en direz vostre sentiment.</p>
         <quote>
           <lg>
             <l rend="i"> L’autre jour sur l’herbe naissante,</l>
@@ -34,12 +34,11 @@
             <l rend="i">Ah, si j’avois touché le cœur de ma Sylvie,</l>
             <l rend="i"> Quand elle pourroit me changer,</l>
             <l rend="i">L’unique souvenir d’avoir sçû l’engager</l>
-            <l>
-              <hi rend="i">Me tiendroit sous ses Loix le reste de ma vie.</hi>
-            </l>
+            <l><hi rend="i">Me tiendroit sous ses Loix le reste de ma vie.</hi></l>
           </lg>
         </quote>
-        <p>Vous ne serez pas fâchée d’oüir parler du Printemps. Cette saison, souhaitée de tout le monde, semble ne venir jamais assez-tost.</p>
+        <p>Vous ne serez pas fâchée d’oüir parler du Printemps. Cette saison, souhaitée de tout le
+          monde, semble ne venir jamais assez-tost.</p>
         <quote>
           <label>SONNET.</label>
           <lg>
@@ -69,6 +68,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

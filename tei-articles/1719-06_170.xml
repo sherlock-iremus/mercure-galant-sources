@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,28 +14,19 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Chanson.</head>
-        <bibl><title>Nouveau Mercure </title>, juin 1719 [tome 6], p.170.</bibl>
+       <bibl><title>Nouveau Mercure </title>, juin 1719 [tome 6], p.170.</bibl>
         <quote>
           <label>CHANSON.</label>
           <lg>
-            <l>
-              <hi rend="i">Beaux yeux, par qui l'indifference expire,</hi>
-            </l>
-            <l>
-              <hi rend="i">Lorsqu'un jaloux sommeil captive vos appas :</hi>
-            </l>
-            <l>
-              <hi rend="i">Si vous avés sur nous un si puissant empire,</hi>
-            </l>
-            <l>
-              <hi rend="i">Quand vous serés ouverts, que ne pourés-vous pas ?</hi>
-            </l>
-          </lg>
+            <l><hi rend="i">Beaux yeux, par qui l'indifference expire,</hi></l>
+            <l><hi rend="i">Lorsqu'un jaloux sommeil captive vos appas :</hi></l> 
+            <l><hi rend="i">Si vous avés sur nous un si puissant empire,</hi></l>
+            <l><hi rend="i">Quand vous serés ouverts, que ne pourés-vous pas ?</hi></l> 
+            </lg> 
         </quote>
-      </div>
-    </body>
+      </div>      
+            </body>
   </text>
 </TEI>

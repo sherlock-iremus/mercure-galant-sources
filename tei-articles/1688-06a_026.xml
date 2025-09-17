@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,24 +14,24 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, juin 1688 (première partie) [tome 8], p. 26-27.</bibl>
-        <p>Voicy un Printemps qu'on a fait si peu courir, qu'on peut asseurer qu'il est tout nouveau. Il est d'un homme qui sçait parfaitement la Musique, &amp; qui se fait estimer des plus sçavans Maistres.</p>
+        <p>Voicy un Printemps qu'on a fait si peu courir, qu'on peut asseurer qu'il est tout
+          nouveau. Il est d'un homme qui sçait parfaitement la Musique, &amp; qui se fait estimer
+          des plus sçavans Maistres.</p>
         <quote>
-          <label>AIR NOUVEAU.</label>
-          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par, <hi rend="i">Le Printemps commence à paroistre</hi>, doit regarder la page 27.</note>
-          <lg>
-            <l rend="i">Le Printemps commence à paroistre,</l>
+          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour
+              placer les Figures</hi> : l’Air qui commence par, <hi rend="i">Le Printemps commence à
+              paroistre</hi>, doit regarder la page 27.</note>
+          <lg><l rend="i">Le Printemps commence à paroistre,</l>
             <l rend="i">Vous estes belle comme luy,</l>
             <l rend="i">Les fleurs qui brillent aujourd'huy</l>
             <l rend="i">Ne perissent que pour renaistre.</l>
             <l rend="i">Mais si vous passez vos beaux jours</l>
             <l rend="i">Insensible aux douceurs qui suivent la tendresse,</l>
             <l rend="i">Iris, avec le temps d'une aimable jeunesse,</l>
-            <l rend="i">Vous perdrez sans retour la saison des Amours.</l>
-          </lg>
+            <l rend="i">Vous perdrez sans retour la saison des Amours.</l></lg>
         </quote>
         <ref target="images/1688-06a_026.JPG">
           <figure>
@@ -39,6 +39,6 @@
           </figure>
         </ref>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

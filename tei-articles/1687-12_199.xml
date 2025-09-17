@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Eglogue</head>
         <bibl><title>Mercure galant</title>, décembre 1687 [tome 17], p. 199-205</bibl>
         <p/>
-        <p>On est bien malheureux en aimant quand on ne sçauroit se dégager, &amp; qu’on n’a que des rigueurs à attendre. Ce triste estat est fort naturellement dépeint dans les Vers qui suivent, &amp; vous plaindrez sans doute le trop amoureux Tircis que de longs mépris ne rebutent point.</p>
+        <p>On est bien malheureux en aimant quand on ne sçauroit se dégager, &amp; qu’on n’a que des
+          rigueurs à attendre. Ce triste estat est fort naturellement dépeint dans les Vers qui
+          suivent, &amp; vous plaindrez sans doute le trop amoureux Tircis que de longs mépris ne
+          rebutent point.</p>
         <quote>
           <label>EGLOGUE.</label>
           <lg>
@@ -125,8 +127,10 @@
             <l rend="i">Sa tendresse &amp; son Amour.</l>
           </lg>
         </quote>
-        <p>Cette Eglogue est de M<hi rend="sup">r</hi> Magnin, &amp; je vous l’envoye, non seulement parce que c’est un ouvrage tres-digne de son Autheur, mais parce que vous aimez tout ce qui est pastoral.</p>
+        <p>Cette Eglogue est de M<hi rend="sup">r</hi> Magnin, &amp; je vous l’envoye, non seulement
+          parce que c’est un ouvrage tres-digne de son Autheur, mais parce que vous aimez tout ce
+          qui est pastoral.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

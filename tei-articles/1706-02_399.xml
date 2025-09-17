@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,20 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>[Article tiré du Journal de Soleure]</head>
-        <bibl><title>Mercure galant</title>, février 1706 [tome 2], p. 399-400.</bibl>
-        <p>Le Pere Hugo a pris congé du Public dans le Journal de Soleure du mois de Decembre dernier. <hi rend="i">Il lit, que n’ayant entrepris son Journal que pour irriter l’amour des belles Lettres, il l’abandonne pour calmer la colere des Ecrivains,</hi> <hi rend="sc">genus irritabile vatum</hi>, <hi rend="i">&amp; que puisqu’il n’a pas encore appris à dissimuler ; il va se condamner à se taire : &amp; il dit que son silence le rendra tout entier à des occupations plus serieuses &amp; qu’il rendra peut-estre le calme à sa retraite</hi>. Je suis, Madame, vostre, &amp;c.</p>
-        <p><hi rend="i">À Paris ce</hi> 2. <hi rend="i">Mars</hi> 1706.</p>
-      </div>
-    </body>
+    <body><div>
+                    <head>[Article tiré du Journal de Soleure]</head>
+                    <bibl><title>Mercure galant</title>, février 1706 [tome 2], p. 399-400.</bibl>
+                    <p>Le Pere Hugo a pris congé du Public dans le Journal de Soleure du mois de
+                        Decembre dernier. <hi rend="i">Il lit, que n’ayant entrepris son Journal que
+                            pour irriter l’amour des belles Lettres, il l’abandonne pour calmer la
+                            colere des Ecrivains,</hi>
+                        <hi rend="sc">genus irritabile vatum</hi>, <hi rend="i">&amp; que puisqu’il
+                            n’a pas encore appris à dissimuler ; il va se condamner à se taire :
+                            &amp; il dit que son silence le rendra tout entier à des occupations
+                            plus serieuses &amp; qu’il rendra peut-estre le calme à sa
+                        retraite</hi>. Je suis, Madame, vostre, &amp;c.</p>
+                    <p><hi rend="i">À Paris ce</hi> 2. <hi rend="i">Mars</hi> 1706.</p>
+                </div>
+            </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Le Ruisseau. Idyle de Madame des Houlières</head>
         <bibl><title>Mercure galant</title>, mars 1685 [tome 3], p. 177-186</bibl>
-        <p>Préparez-vous, Madame, à battre des mains. Je vous envoye un Ouvrage de l’Illustre Madame des Houlieres. Ce Nom vous promet quelque chose d’achevé ; vous le trouverez asseurément, &amp; si cette expression peut rien souffrir qui aille au delà, vous pouvez attendre plus, sans crainte d’estre trompée. Tout est pensé delicatement, tout est exprimé de mesme, &amp; il y a par tout sujet d’admirer.</p>
+        <p>Préparez-vous, Madame, à battre des mains. Je vous envoye un Ouvrage de l’Illustre Madame
+          des Houlieres. Ce Nom vous promet quelque chose d’achevé ; vous le trouverez asseurément,
+          &amp; si cette expression peut rien souffrir qui aille au delà, vous pouvez attendre plus,
+          sans crainte d’estre trompée. Tout est pensé delicatement, tout est exprimé de mesme,
+          &amp; il y a par tout sujet d’admirer.</p>
         <quote>
           <label>LE RUISSEAU.<lb/>IDYLE.<lb/>De Madame des Houlieres.</label>
           <lg>
@@ -140,6 +143,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

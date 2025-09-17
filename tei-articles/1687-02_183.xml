@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Au Roy sur sa Maladie</head>
         <bibl><title>Mercure galant</title>, février 1687 [tome 3], p. 183-185</bibl>
-        <p>Entre quantité d’Ouvrages qui ont esté faits sur la maladie de Sa Majesté, je ne vous envoyeray aujourd’huy que deux Sonnets, dont le premier est de M<hi rend="sup">r</hi> Boyer de l’Academie Françoise, &amp; l’autre de M<hi rend="sup">r</hi> Mallement de Méssange. Ils sont des premiers qui ayent esté faits.</p>
+        <p>Entre quantité d’Ouvrages qui ont esté faits sur la maladie de Sa Majesté, je ne vous
+          envoyeray aujourd’huy que deux Sonnets, dont le premier est de M<hi rend="sup">r</hi> Boyer de l’Academie Françoise, &amp; l’autre de M<hi rend="sup">r</hi> Mallement
+          de Méssange. Ils sont des premiers qui ayent esté faits.</p>
         <quote>
           <label>AU ROY<lb/>SUR SA MALADIE.</label>
           <lg>
@@ -48,6 +49,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, août 1679 [tome 8], p. 184-185.</bibl>
-        <p>Vous avez trop estimé la maniere naturelle dont M<hi rend="sup">r</hi> Labbé, Maistre de Musique de Caën, compose, pour ne vous pas faire part d’une Chanson nouvelle de sa façon qu’on m’a envoyée.</p>
+        <p>Vous avez trop estimé la maniere naturelle dont M<hi rend="sup">r</hi> Labbé, Maistre de
+          Musique de Caën, compose, pour ne vous pas faire part d’une Chanson nouvelle de sa façon
+          qu’on m’a envoyée.</p>
         <quote>
-          <label type="head">AIR NOUVEAU.</label>
-          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Si Tirsis est un inconstant</hi>, doit regarder la page 184.</note>
+          <label type="head">AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Si Tirsis est
+              un inconstant</hi>, doit regarder la page 184.</note>
           <lg>
             <l rend="i"><seg type="tab">    </seg>Si Tirsis est un inconstant,</l>
             <l rend="i">Iris, pourquoy l’avoir rendu content ?</l>
@@ -37,6 +38,6 @@
           </figure>
         </ref>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

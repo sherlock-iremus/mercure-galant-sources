@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head resp="editor">Madrigal de M. Magnin sur Louvois</head>
         <bibl><title>Mercure galant</title>, septembre 1683 [tome 10], p. 377-378</bibl>
-        <p>M<hi rend="sup">r</hi> Magnin, Conseiller au Présidial de Mâcon, a fait une Devise sur la promptitude de ce vigilant Ministre à exécuter les desseins du Roy. Un Eclair qui sort de la Nuë en fait le corps, &amp; elle a ces mots pour ame,</p>
+        <p>M<hi rend="sup">r</hi> Magnin, Conseiller au Présidial de Mâcon, a fait une Devise sur la
+          promptitude de ce vigilant Ministre à exécuter les desseins du Roy. Un Eclair qui sort de
+          la Nuë en fait le corps, &amp; elle a ces mots pour ame,</p>
         <quote>
           <lg>
             <l rend="i">Præcursor fulminis erit.</l>
@@ -39,6 +40,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,19 +14,17 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Quatrains]</head>
         <bibl><title>Mercure galant</title>, mars 1681 [tome 3], p. 54-56.</bibl>
-        <p>Le Quatrain qui suit mériteroit fort d’estre noté. La réponse qu’on y a faite sur les mesmes rimes, luy serviroit de second Couplet. Une jeune Demoiselle devant qui soûpiroit un Cavalier, exigea de luy une Chanson, qui luy fist connoistre ce qui l’obligeoit à soûpirer. Il satisfit à cet ordre par ces quatre Vers.</p>
+        <p>Le Quatrain qui suit mériteroit fort d’estre noté. La réponse qu’on y a faite sur les
+          mesmes rimes, luy serviroit de second Couplet. Une jeune Demoiselle devant qui soûpiroit
+          un Cavalier, exigea de luy une Chanson, qui luy fist connoistre ce qui l’obligeoit à
+          soûpirer. Il satisfit à cet ordre par ces quatre Vers.</p>
         <quote>
           <lg>
-            <l>
-              <hi rend="i">Si je soûpire, helas ! ce n’est pas sans sujet.</hi>
-            </l>
-            <l>
-              <hi rend="i">Quand on vous aime, Iris, &amp; qu’on n’ose le dire,</hi>
-            </l>
+            <l><hi rend="i">Si je soûpire, helas ! ce n’est pas sans sujet.</hi></l>
+            <l><hi rend="i">Quand on vous aime, Iris, &amp; qu’on n’ose le dire,</hi></l>
             <l> <hi rend="i">N’est-ce pas un cruel martyre</hi></l>
             <l> <hi rend="i">Que de soûpirer en secret ?</hi></l>
           </lg>
@@ -34,17 +32,13 @@
         <p>Voicy la Réponse de la Demoiselle.</p>
         <quote>
           <lg>
-            <l>
-              <hi rend="i">Croy-moy, mon cher Tyrcis, tu te plains sans sujet.</hi>
-            </l>
-            <l>
-              <hi rend="i">Si mes yeux t’ont charmé, ne peux-tu pas le dire ?</hi>
-            </l>
+            <l><hi rend="i">Croy-moy, mon cher Tyrcis, tu te plains sans sujet.</hi></l>
+            <l><hi rend="i">Si mes yeux t’ont charmé, ne peux-tu pas le dire ?</hi></l>
             <l> <hi rend="i">Comment sçaurois-je ton martyre,</hi></l>
             <l> <hi rend="i">Si tu ne me dis ton secret ?</hi></l>
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

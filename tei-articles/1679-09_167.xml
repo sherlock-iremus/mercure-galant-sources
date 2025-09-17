@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Le roi donne l’abbaye de S. Laon de Thouars à M. Desmarests] *</head>
         <bibl><title>Mercure galant</title>, septembre 1679 [tome 9], p. 167-168.</bibl>
-        <p>L'estime que vous avez pour M<hi rend="sup">r</hi> l’Abbé Regnier Desmarests, de l’Académie Françoise, vous fera apprendre avec plaisir que Sa Majesté luy donna il y a quelques jours l’Abbaye de S. Laon de Thoüars. Il y a beaucoup d’érudition. C'est de luy que sont les belles Traductions de Rodriguez.</p>
+        <p>L'estime que vous avez pour M<hi rend="sup">r</hi> l’Abbé Regnier Desmarests, de
+          l’Académie Françoise, vous fera apprendre avec plaisir que Sa Majesté luy donna il y a
+          quelques jours l’Abbaye de S. Laon de Thoüars. Il y a beaucoup d’érudition. C'est de luy
+          que sont les belles Traductions de Rodriguez.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

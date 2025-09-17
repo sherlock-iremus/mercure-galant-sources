@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, mai 1692 [tome 5], p. 318-319.</bibl>
-        <p> L'air nouveau qui suit, est d'un bon Auteur. Vous en jugerez aussi-bien que des paroles.</p>
+        <p> L'air nouveau qui suit, est d'un bon Auteur. Vous en jugerez aussi-bien que des
+          paroles.</p>
         <quote>
-          <label>AIR NOUVEAU.</label>
-          <note resp="author" place="margin">L’Air doit regarder la page 319.</note>
+          <label>AIR NOUVEAU.</label><note resp="author" place="margin">L’Air doit regarder la page
+            319.</note>
           <lg>
             <l rend="i">Mes soupirs, mes soins assidus</l>
             <l rend="i">Vous parlent tous les jours de mon cruel martyre.</l>

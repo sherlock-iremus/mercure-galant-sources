@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,18 +14,17 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>[Epistre de M<hi rend="sup">r</hi> de Senecé]</head>
-        <bibl><title>Mercure galant</title>, mars 1696 [tome 3], p. 322-323.</bibl>
-        <p>Je ne suis point surpris que vous m’ayez demandé de qui est l’Epistre en Vers que je vous envoyay le mois passé, &amp; qui commence par</p>
-        <quote>
-          <lg>
-            <l rend="i">Eh quoy, toujours fidelle à vostre solitude ?</l>
-          </lg>
-        </quote>
-        <p>Le tour en est si aisé, &amp; les pensées si naturelles, qu’il est difficile en la lisant, de n’avoir pas la même curiosité que vous m’avez fait paroître. Cette Epistre est de M<hi rend="sup">r</hi> de Senecé, dont le nom vous est connu par plusieurs Ouvrages d’un tres-bon goust que vous avez déja vûs de luy.</p>
-      </div>
-    </body>
+    <body><div>
+          <head>[Epistre de M<hi rend="sup">r</hi> de Senecé]</head>
+          <bibl><title>Mercure galant</title>, mars 1696 [tome 3], p. 322-323.</bibl>
+          <p>Je ne suis point surpris que vous m’ayez demandé de qui est l’Epistre en Vers que je vous envoyay le mois passé, &amp; qui commence par</p>
+          <quote>
+            <lg>
+              <l rend="i">Eh quoy, toujours fidelle à vostre solitude ?</l>
+            </lg>
+          </quote>
+          <p>Le tour en est si aisé, &amp; les pensées si naturelles, qu’il est difficile en la lisant, de n’avoir pas la même curiosité que vous m’avez fait paroître. Cette Epistre est de M<hi rend="sup">r</hi> de Senecé, dont le nom vous est connu par plusieurs Ouvrages d’un tres-bon goust que vous avez déja vûs de luy.</p>
+        </div>
+      </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>[Agrément du Gouvernement d’Ardres donné par le Roy]</head>
-        <bibl><title>Mercure galant</title>, août 1704 [tome 9], p. 416-417.</bibl>
-        <p>Le Roy a accordé à Mr le Tellier de Montmor, ci-devant Lieutenant au Regiment des Gardes Françoises, l’agrément du gouvernement d’Ardres &amp; Comté de Guisnes que possedoit auparavant Mr le Marquis de Bethune. Quand le Roy donne de pareils agrémens, &amp; sur tout lors que les Gouvernemens sont scituez dans des lieux où la guerre se fait sentir, il faut que S.M. soit persuadée de la valeur &amp; de la conduite de ceux à qui elle les donne.</p>
-      </div>
-    </body>
+    <body><div>
+          <head>[Agrément du Gouvernement d’Ardres donné par le Roy]</head>
+          <bibl><title>Mercure galant</title>, août 1704 [tome 9], p. 416-417.</bibl>
+          <p>Le Roy a accordé à Mr le Tellier de Montmor, ci-devant Lieutenant au Regiment des Gardes Françoises, l’agrément du gouvernement d’Ardres &amp; Comté de Guisnes que possedoit auparavant Mr le Marquis de Bethune. Quand le Roy donne de pareils agrémens, &amp; sur tout lors que les Gouvernemens sont scituez dans des lieux où la guerre se fait sentir, il faut que S.M. soit persuadée de la valeur &amp; de la conduite de ceux à qui elle les donne.</p>
+        </div>
+        </body>
   </text>
 </TEI>

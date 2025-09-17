@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Madrigal]</head>
-        <bibl><title>Mercure galant</title>, septembre 1682 (première partie) [tome 9], p. 12-13.</bibl>
+        <bibl><title>Mercure galant</title>, septembre 1682 (première partie) [tome 9],
+          p. 12-13.</bibl>
         <p/>
-        <p>Rien n’estant plus difficile que de bien faire le Portrait du Roy, voicy un avis que M<hi rend="sup">r</hi> Bonpart, S<hi rend="sup">r</hi> de S. Victor, de Clermont en Auvergne, donne aux Sculpteurs, &amp; aux Peintres.</p>
+        <p>Rien n’estant plus difficile que de bien faire le Portrait du Roy, voicy un avis que M<hi rend="sup">r</hi> Bonpart, S<hi rend="sup">r</hi> de S. Victor, de Clermont en Auvergne,
+          donne aux Sculpteurs, &amp; aux Peintres.</p>
         <quote>
           <lg>
             <l rend="i"> Peintres fameux, sçavans Sculpteurs,</l>
@@ -33,6 +34,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

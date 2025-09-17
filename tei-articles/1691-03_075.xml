@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,22 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Ode</head>
         <bibl><title>Mercure galant</title>, mars 1691 [tome 3], p. 75-85.</bibl>
         <p/>
-        <p>Il n’y a point d’Académie de belles Lettres en France, où il se fasse une distribution de Prix, qui n’ait rendu justice aux Ouvrages de M<hi rend="sup">r</hi> l’Abbé Maumenet. Il en a remporté dans toutes, &amp; il eut celuy de Poësie la derniere fois que l’Academie Françoise en donna. Je me souviens que je vous ay mandé dans quelqu’une de mes Lettres, que l’Academie Royale d’Arles en avoit proposé un pour celuy qui réussiroit le mieux <hi rend="i">sur la satisfaction que le Roy a d’avoir un Fils digne de luy, &amp; sur les premieres Conquestes de ce jeune Heros</hi>. M<hi rend="sup">r</hi> l’Abbé Maumenet a encore remporté ce Prix depuis peu de temps. C’est un Tableau representant Monseigneur, &amp; il a esté donné par M<hi rend="sup">r</hi> de Roubias d’Estoublon, si distingué dans l’Academie d’Arles. Comme cette Piece m’est tombée entre les mains, &amp; que la matiere n’en sçauroit estre plus relevée, vous ne serez pas fachée de la voir.</p>
+        <p>Il n’y a point d’Académie de belles Lettres en France, où il se fasse une distribution de
+          Prix, qui n’ait rendu justice aux Ouvrages de M<hi rend="sup">r</hi> l’Abbé Maumenet. Il
+          en a remporté dans toutes, &amp; il eut celuy de Poësie la derniere fois que l’Academie
+          Françoise en donna. Je me souviens que je vous ay mandé dans quelqu’une de mes Lettres,
+          que l’Academie Royale d’Arles en avoit proposé un pour celuy qui réussiroit le mieux <hi rend="i">sur la satisfaction que le Roy a d’avoir un Fils digne de luy, &amp; sur les
+            premieres Conquestes de ce jeune Heros</hi>. M<hi rend="sup">r</hi> l’Abbé Maumenet a
+          encore remporté ce Prix depuis peu de temps. C’est un Tableau representant Monseigneur,
+          &amp; il a esté donné par M<hi rend="sup">r</hi> de Roubias d’Estoublon, si distingué dans
+          l’Academie d’Arles. Comme cette Piece m’est tombée entre les mains, &amp; que la matiere
+          n’en sçauroit estre plus relevée, vous ne serez pas fachée de la voir.</p>
         <quote>
-          <label>
-            <hi rend="i">ODE.</hi>
-          </label>
+          <label><hi rend="i">ODE.</hi></label>
           <lg>
             <l rend="i">En vain cent Nations à ta perte animées</l>
             <l rend="i">S’efforcent de troubler la Paix dont tu joüis,</l>
@@ -155,6 +161,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,8 +14,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Réponse d’Iris</head>
         <bibl><title>Mercure galant</title>, avril 1678 [tome 4], p. 119.</bibl>
         <quote>
@@ -26,6 +25,6 @@
           <l>Il faut ceder tost ou tard à l’Amour.</l>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

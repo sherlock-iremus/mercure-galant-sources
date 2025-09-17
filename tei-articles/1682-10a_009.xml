@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,20 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head resp="editor">Réjouissances faites à Dole.</head>
-        <bibl><title>Mercure galant</title>, octobre 1682 (première partie) [tome 11], p. 9-33.</bibl>
-        <p>Le soir on fit joüer le Feu d’artifice. C’étoit une Pyramide quadrangulaire que les Magistrats avoient fait dresser, parce que selon l’usage des Anciens, cette sorte de monument estant consacré au Soleil, ils avoient occasion d’y faire éclater le Symbole du Roy. Cette Pyramide estoit élevée sur un Perron orné d’une Balustrade, &amp; soûtenuë sur une Base d’onze ou douze pieds de haut. Elle portoit sur quatre Dauphins, qui des quatre coins de la Pyramide devoient jetter une pluye d’or, &amp; elle estoit surmontée d’un Globe semé de Fleurs-de-Lys, sur lequel estoit posé un Soleil, représentant le Roy avec sa Devise. Sa hauteur depuis la Base, alloit à plus de soixante pieds. Cette Base estoit chargée de Devises, dont les mots Latins estoient expliquez par des Vers François. Le haut de la premiere Face avoit cette Inscription,</p>
+        <bibl><title>Mercure galant</title>, octobre 1682 (première partie) [tome 11],
+          p. 9-33.</bibl>
+        <p>Le soir on fit joüer le Feu d’artifice. C’étoit une Pyramide quadrangulaire que les
+          Magistrats avoient fait dresser, parce que selon l’usage des Anciens, cette sorte de
+          monument estant consacré au Soleil, ils avoient occasion d’y faire éclater le Symbole du
+          Roy. Cette Pyramide estoit élevée sur un Perron orné d’une Balustrade, &amp; soûtenuë sur
+          une Base d’onze ou douze pieds de haut. Elle portoit sur quatre Dauphins, qui des quatre
+          coins de la Pyramide devoient jetter une pluye d’or, &amp; elle estoit surmontée d’un
+          Globe semé de Fleurs-de-Lys, sur lequel estoit posé un Soleil, représentant le Roy avec sa
+          Devise. Sa hauteur depuis la Base, alloit à plus de soixante pieds. Cette Base estoit
+          chargée de Devises, dont les mots Latins estoient expliquez par des Vers François. Le haut
+          de la premiere Face avoit cette Inscription,</p>
         <quote>
           <lg>
             <l>
@@ -69,7 +78,9 @@
           </lg>
         </quote>
         <p/>
-        <p>Vous jugez bien que les lettres capitales qui sont dans ces quatre derniers mots marquent 1682. qui est l’année de la Naissance du Prince. Au milieu de la mesme Face brilloit un Soleil qui formoit deux Parélies,</p>
+        <p>Vous jugez bien que les lettres capitales qui sont dans ces quatre derniers mots marquent
+          1682. qui est l’année de la Naissance du Prince. Au milieu de la mesme Face brilloit un
+          Soleil qui formoit deux Parélies,</p>
         <quote>
           <lg>
             <l rend="i">Geminâ splendens in imagine gaudet.</l>
@@ -115,8 +126,11 @@
           </lg>
         </quote>
         <p/>
-        <p>On y avoit peint deux Emblêmes, ainsi que dans les deux autres Faces, &amp; chaque Emblême estoit accompagné de quatre Devises.</p>
-        <p>Le premier Emblême, qui représentoit l’ordre admirable du Gouvernement du Roy, estoit un Apollon sur son Char, traîné par quatre Chevaux, &amp; parcourant les Signes du Zodiaque,</p>
+        <p>On y avoit peint deux Emblêmes, ainsi que dans les deux autres Faces, &amp; chaque
+          Emblême estoit accompagné de quatre Devises.</p>
+        <p>Le premier Emblême, qui représentoit l’ordre admirable du Gouvernement du Roy, estoit un
+          Apollon sur son Char, traîné par quatre Chevaux, &amp; parcourant les Signes du
+          Zodiaque,</p>
         <quote>
           <lg>
             <l>
@@ -146,8 +160,10 @@
           </lg>
         </quote>
         <p/>
-        <p>On sçait que le Roy fait de grandes libéralitez, soit pour les Eglises, soit pour les Pauvres, soit pour la conversion des Héretiques.</p>
-        <p>La troisiéme, un grand Laurier, d’où sortent deux Rejetons, l’un plus grand que l’autre,</p>
+        <p>On sçait que le Roy fait de grandes libéralitez, soit pour les Eglises, soit pour les
+          Pauvres, soit pour la conversion des Héretiques.</p>
+        <p>La troisiéme, un grand Laurier, d’où sortent deux Rejetons, l’un plus grand que
+          l’autre,</p>
         <quote>
           <lg>
             <l>
@@ -157,7 +173,8 @@
           </lg>
         </quote>
         <p/>
-        <p>Il semble que le Ciel, pour récompenser le Roy du zele qu’il a pour ramener tant d’Enfans rebelles au sein de l’Eglise, luy veut faire voir plusieurs genérations.</p>
+        <p>Il semble que le Ciel, pour récompenser le Roy du zele qu’il a pour ramener tant d’Enfans
+          rebelles au sein de l’Eglise, luy veut faire voir plusieurs genérations.</p>
         <p>La quatriéme, une Main qui tient une Balance dans un juste équilibre,</p>
         <quote>
           <lg>
@@ -168,8 +185,11 @@
           </lg>
         </quote>
         <p/>
-        <p>Il n’est rien de plus équitable que le Roy. En matiere de distribution d’Emplois, &amp; de Charges, aucun Prince ne rendit jamais plus de justice au mérite.</p>
-        <p>Le second Emblême estoit encor Apollon, mais tirant des Fléches du haut du Ciel sur Marsias, qui avoit osé le défier. Ce Dieu irrité, le perça de mille traits, &amp; luy arracha la peau,</p>
+        <p>Il n’est rien de plus équitable que le Roy. En matiere de distribution d’Emplois, &amp;
+          de Charges, aucun Prince ne rendit jamais plus de justice au mérite.</p>
+        <p>Le second Emblême estoit encor Apollon, mais tirant des Fléches du haut du Ciel sur
+          Marsias, qui avoit osé le défier. Ce Dieu irrité, le perça de mille traits, &amp; luy
+          arracha la peau,</p>
         <quote>
           <lg>
             <l> <hi rend="sc">Sic hostes vincit,</hi></l>
@@ -182,7 +202,8 @@
           </lg>
         </quote>
         <p/>
-        <p>La premiere Devise, un Fleuve, dont les Eaux se sont grossies, &amp; qui estant devenu plus grand, plus on luy a opposé de Dignes, a eu ensuite un cours plus rapide,</p>
+        <p>La premiere Devise, un Fleuve, dont les Eaux se sont grossies, &amp; qui estant devenu
+          plus grand, plus on luy a opposé de Dignes, a eu ensuite un cours plus rapide,</p>
         <quote>
           <lg>
             <l>
@@ -192,7 +213,8 @@
           </lg>
         </quote>
         <p/>
-        <p>La seconde, une Lionne accompagnée de ses Petits, qu’elle regarde d’un œil doux, sans perdre sa fierté,</p>
+        <p>La seconde, une Lionne accompagnée de ses Petits, qu’elle regarde d’un œil doux, sans
+          perdre sa fierté,</p>
         <quote>
           <lg>
             <l>
@@ -222,7 +244,8 @@
           </lg>
         </quote>
         <p/>
-        <p>Tant de Puissances qui ont voulu s’élever contre le Roy, ont reconnu par leurs pertes, combien ses Armes doivent estre redoutées.</p>
+        <p>Tant de Puissances qui ont voulu s’élever contre le Roy, ont reconnu par leurs pertes,
+          combien ses Armes doivent estre redoutées.</p>
         <p>La troisiéme Face qui estoit pour Monseigneur le Dauphin, avoit ce titre,</p>
         <quote>
           <lg>
@@ -238,7 +261,8 @@
           </lg>
         </quote>
         <p/>
-        <p>Le premier Emblême estoit le Soleil instruisant son Fils Phaéton, de la maniere dont il faloit gouverner son Char.</p>
+        <p>Le premier Emblême estoit le Soleil instruisant son Fils Phaéton, de la maniere dont il
+          faloit gouverner son Char.</p>
         <quote>
           <lg>
             <l>
@@ -248,7 +272,8 @@
           </lg>
         </quote>
         <p/>
-        <p>La sagesse de Monseigneur le Dauphin, &amp; sa prudente conduite, font voir qu’il profitera des Instructions du Roy avec un entier succés.</p>
+        <p>La sagesse de Monseigneur le Dauphin, &amp; sa prudente conduite, font voir qu’il
+          profitera des Instructions du Roy avec un entier succés.</p>
         <p>La premiere Devise, une de ces Fleurs qui portent des lettres sur leurs feüilles,</p>
         <quote>
           <lg>
@@ -293,8 +318,10 @@
           </lg>
         </quote>
         <p/>
-        <p>Monseigneur animé par l’exemple de Sa Majesté, n’oubliera rien de ce qui peut le faire monter au plus haut point de la gloire.</p>
-        <p>Le second Emblême estoit un Aiglon, victorieux de quelques Dragons, &amp; regardant le Soleil fixement,</p>
+        <p>Monseigneur animé par l’exemple de Sa Majesté, n’oubliera rien de ce qui peut le faire
+          monter au plus haut point de la gloire.</p>
+        <p>Le second Emblême estoit un Aiglon, victorieux de quelques Dragons, &amp; regardant le
+          Soleil fixement,</p>
         <quote>
           <lg>
             <l>
@@ -307,7 +334,8 @@
           </lg>
         </quote>
         <p/>
-        <p>Monseigneur le Dauphin n’a de passion pour la Chasse, qu’afin de s’endurcir au travail, se montrant en cela semblable au Roy.</p>
+        <p>Monseigneur le Dauphin n’a de passion pour la Chasse, qu’afin de s’endurcir au travail,
+          se montrant en cela semblable au Roy.</p>
         <p>La premiere Devise est pour Madame la Dauphine. Un Arbre chargé de Fruits,</p>
         <quote>
           <lg>
@@ -327,7 +355,8 @@
           </lg>
         </quote>
         <p/>
-        <p>La troisiéme, un Miroir exposé au Soleil, qui recevant tous ses rayons, va former un autre Soleil dans un autre Miroir,</p>
+        <p>La troisiéme, un Miroir exposé au Soleil, qui recevant tous ses rayons, va former un
+          autre Soleil dans un autre Miroir,</p>
         <quote>
           <lg>
             <l>
@@ -337,7 +366,8 @@
           </lg>
         </quote>
         <p/>
-        <p>La quatrieme, un Dauphin qui s’élance dans les eaux, si-tost qu’il a entendu le son d’un Lut,</p>
+        <p>La quatrieme, un Dauphin qui s’élance dans les eaux, si-tost qu’il a entendu le son d’un
+          Lut,</p>
         <quote>
           <lg>
             <l>
@@ -347,7 +377,8 @@
           </lg>
         </quote>
         <p/>
-        <p>Monseigneur le Dauphin se plaist à entendre des Pieces d’esprit, &amp; chérit les Gens de Lettres.</p>
+        <p>Monseigneur le Dauphin se plaist à entendre des Pieces d’esprit, &amp; chérit les Gens de
+          Lettres.</p>
         <p>La quatriéme Face, pour Monseigneur le Duc de Bourgogne, avec ce titre,</p>
         <quote>
           <lg>
@@ -360,7 +391,9 @@
           </lg>
         </quote>
         <p/>
-        <p>Le premier Emblême. Les deux Bourgognes, figurées par leurs Blasons, &amp; se tenant par la main, portoient au Berceau du Prince les Lauriers des anciens Ducs de Bourgogne, &amp; se dévoüoient à son service,</p>
+        <p>Le premier Emblême. Les deux Bourgognes, figurées par leurs Blasons, &amp; se tenant par
+          la main, portoient au Berceau du Prince les Lauriers des anciens Ducs de Bourgogne, &amp;
+          se dévoüoient à son service,</p>
         <quote>
           <lg>
             <l>
@@ -381,8 +414,10 @@
           </lg>
         </quote>
         <p/>
-        <p>Les premiers Ducs &amp; Comtes de Bourgogne ont esté des Fils de France, &amp; un Fils de France porte de nouveau ce titre.</p>
-        <p>La seconde, un Miroir ardent, qui refléchit plus de lumieres qu’il ne paroist en avoir receu,</p>
+        <p>Les premiers Ducs &amp; Comtes de Bourgogne ont esté des Fils de France, &amp; un Fils de
+          France porte de nouveau ce titre.</p>
+        <p>La seconde, un Miroir ardent, qui refléchit plus de lumieres qu’il ne paroist en avoir
+          receu,</p>
         <quote>
           <lg>
             <l>
@@ -392,8 +427,11 @@
           </lg>
         </quote>
         <p/>
-        <p>Quelque glorieux que soit le titre de Duc de Bourgogne, que tant de grands Princes ont porté, Monseigneur le Duc de Bourgogne l’ayant receu de Sa Majesté, le va rendre encor plus illustre.</p>
-        <p>La troisiéme, deux Tulipes, qui ayant esté fermées pendant la nuit, se r’ouvrent au lever du Soleil,</p>
+        <p>Quelque glorieux que soit le titre de Duc de Bourgogne, que tant de grands Princes ont
+          porté, Monseigneur le Duc de Bourgogne l’ayant receu de Sa Majesté, le va rendre encor
+          plus illustre.</p>
+        <p>La troisiéme, deux Tulipes, qui ayant esté fermées pendant la nuit, se r’ouvrent au lever
+          du Soleil,</p>
         <quote>
           <lg>
             <l>
@@ -403,7 +441,8 @@
           </lg>
         </quote>
         <p/>
-        <p>Les deux Bourgognes, apres tant de révolutions, qui ont esté comme des temps tenébreux, reprennent leur ancienne beauté à la naissance de ce jeune Duc.</p>
+        <p>Les deux Bourgognes, apres tant de révolutions, qui ont esté comme des temps tenébreux,
+          reprennent leur ancienne beauté à la naissance de ce jeune Duc.</p>
         <p>La quatriéme la Toison d’or, suspenduë à un Arbre, &amp; brillant dans l’air,</p>
         <quote>
           <lg>
@@ -468,7 +507,11 @@
           </lg>
         </quote>
         <p/>
-        <p>Tous ces Emblêmes, &amp; toutes ces Inscriptions, de la façon des Peres Jesuites, se trouvoient pompeusement représentez sur les quatre Faces du Piedestal de la Pyramide, dont le corps estoit pareillement orné &amp; embelly de Peintures. Sur ces mesmes Faces on avoit mis diférentes Armes. Celles du Roy se voyoit sur la premiere, avec ce Sonnet de M<hi rend="sup">r</hi> Tixerand, Medecin de Dole.</p>
+        <p>Tous ces Emblêmes, &amp; toutes ces Inscriptions, de la façon des Peres Jesuites, se
+          trouvoient pompeusement représentez sur les quatre Faces du Piedestal de la Pyramide, dont
+          le corps estoit pareillement orné &amp; embelly de Peintures. Sur ces mesmes Faces on
+          avoit mis diférentes Armes. Celles du Roy se voyoit sur la premiere, avec ce Sonnet de
+            M<hi rend="sup">r</hi> Tixerand, Medecin de Dole.</p>
         <quote>
           <lg>
             <l rend="i">Grand Prince, suspendez vos soins victorieux,</l>
@@ -497,7 +540,8 @@
           </lg>
         </quote>
         <p/>
-        <p>Les Armes de Monseigneur le Dauphin ornoient la seconde Face, &amp; au dessous estoit ce Sonnet. M<hi rend="sup">r</hi> Patoüillet, Doyen de la Ville, en est l’Autheur.</p>
+        <p>Les Armes de Monseigneur le Dauphin ornoient la seconde Face, &amp; au dessous estoit ce
+          Sonnet. M<hi rend="sup">r</hi> Patoüillet, Doyen de la Ville, en est l’Autheur.</p>
         <quote>
           <lg>
             <l rend="i">Arbitre des Humains, LOUIS, Roy de la Terre,</l>
@@ -526,7 +570,8 @@
           </lg>
         </quote>
         <p/>
-        <p>La troisiéme Face faisoit voir l’ancien Ecu de Bourgogne. Il estoit accompagné de ce Sonnet.</p>
+        <p>La troisiéme Face faisoit voir l’ancien Ecu de Bourgogne. Il estoit accompagné de ce
+          Sonnet.</p>
         <quote>
           <lg>
             <l rend="i">LOUIS, dont le pouvoir est doux &amp; redoutable,</l>
@@ -555,7 +600,9 @@
           </lg>
         </quote>
         <p/>
-        <p>L’Ecu de la Ville de Dole estoit peint dans la quatriéme Face. On y lisoit aussi ce Sonnet. Ces deux derniers sont du mesme M<hi rend="sup">r</hi> Tixerand, dont j’ay déja employé le nom.</p>
+        <p>L’Ecu de la Ville de Dole estoit peint dans la quatriéme Face. On y lisoit aussi ce
+          Sonnet. Ces deux derniers sont du mesme M<hi rend="sup">r</hi> Tixerand, dont j’ay déja
+          employé le nom.</p>
         <quote>
           <lg>
             <l rend="i">LOUIS, ce grand Roy que je sers,</l>
@@ -584,7 +631,11 @@
           </lg>
         </quote>
         <p/>
-        <p>Le reste de la Pyramide, enrichy de divers agrémens de Peinture, se faisoit aussi admirer par quantité d’Inscriptions Chronographiques. En voicy une, qui aussi bien que les dernieres paroles de la grande Inscription que j’ay rapportée d’abord, signifioit en fort peu de mots l’année qui donne à la France un Prince qu’elle souhaitoit avec tant d’ardeur.</p>
+        <p>Le reste de la Pyramide, enrichy de divers agrémens de Peinture, se faisoit aussi admirer
+          par quantité d’Inscriptions Chronographiques. En voicy une, qui aussi bien que les
+          dernieres paroles de la grande Inscription que j’ay rapportée d’abord, signifioit en fort
+          peu de mots l’année qui donne à la France un Prince qu’elle souhaitoit avec tant
+          d’ardeur.</p>
         <quote>
           <lg>
             <l>
@@ -593,8 +644,16 @@
           </lg>
         </quote>
         <p/>
-        <p>Le feu fut mis à cette Machine, apres trois décharges de toute l’Artillerie de la Place, &amp; de la Mousqueterie de la Garnison. La Tour de l’Eglise fut illuminée, &amp; quantité de Trompes à feu &amp; de Serpenteaux en furent jettez sur la grande Place. Les Armes du Roy estoient mêlées aux lumieres qui éclairoient toutes les Fenestres des Maisons depuis le premier étage jusques au plus haut. Apres ce Spéctacle, M<hi rend="sup">r</hi> Phelipes traita magnifiquement quantité de Personnes considérables, tant des Officiers de la Garnison, que de tous les Corps de la Ville. Ensuite il donna le Bal &amp; la Comédie, &amp; fit couler plusieurs Fontaines de Vin, qui furent un régale pour le Peuple pendant une partie de la nuit.</p>
+        <p>Le feu fut mis à cette Machine, apres trois décharges de toute l’Artillerie de la Place,
+          &amp; de la Mousqueterie de la Garnison. La Tour de l’Eglise fut illuminée, &amp; quantité
+          de Trompes à feu &amp; de Serpenteaux en furent jettez sur la grande Place. Les Armes du
+          Roy estoient mêlées aux lumieres qui éclairoient toutes les Fenestres des Maisons depuis
+          le premier étage jusques au plus haut. Apres ce Spéctacle, M<hi rend="sup">r</hi> Phelipes
+          traita magnifiquement quantité de Personnes considérables, tant des Officiers de la
+          Garnison, que de tous les Corps de la Ville. Ensuite il donna le Bal &amp; la Comédie,
+          &amp; fit couler plusieurs Fontaines de Vin, qui furent un régale pour le Peuple pendant
+          une partie de la nuit.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

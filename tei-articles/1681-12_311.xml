@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Galanterie en Vers d’une Dame à un Cavalier, pour le détourner de la Chasse]</head>
         <bibl><title>Mercure galant</title>, décembre 1681 [tome 13], p. 311-313.</bibl>
-        <p>Les Vers qui suivent sont d’une Personne de vostre beau Sexe, à qui rien ne manque de tout ce qui rend une Fille aimable. Jugez si le Cavalier pour qui ils ont esté faits, pourra conserver la passion qu’il a toûjours montrée pour la Chasse, quand on l’invite d’une maniere si agreable à des occupations plus douces.</p>
+        <p>Les Vers qui suivent sont d’une Personne de vostre beau Sexe, à qui rien ne manque de
+          tout ce qui rend une Fille aimable. Jugez si le Cavalier pour qui ils ont esté faits,
+          pourra conserver la passion qu’il a toûjours montrée pour la Chasse, quand on l’invite
+          d’une maniere si agreable à des occupations plus douces.</p>
         <quote>
           <lg>
             <l rend="i">Cessez d’aimer la Chasse ; il est d’autres plaisirs</l>
@@ -40,6 +42,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

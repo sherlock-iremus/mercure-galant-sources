@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,34 +14,24 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>Air nouveau</head>
-        <bibl><title>Mercure galant</title>, septembre 1709 [tome 9], p. 400.</bibl>
-        <quote>
-          <label>AIR NOUVEAU.<note resp="editor">Une autre mise en musique du poème, anonyme, figure dans le <hi rend="italic">Recueil d'airs sérieux et à boire</hi> de janvier 1695 (Paris, Ballard, 1695, p. 20-21).</note></label>
-          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : [l’Air] qui commence par <hi rend="i">Tircis, je le connois</hi>, doit regarder la page 400.</note>
-          <lg>
-            <l>
-              <hi rend="i">Tircis, je le connois, vous n’êtes point sincere,</hi>
-            </l>
-            <l>
-              <hi rend="i">En vain vous m’assurez d’une fidelle ardeur :</hi>
-            </l>
-            <l>
-              <hi rend="i">Contentez-vous, helas ! d’avoir trop sçû me plaire</hi>
-            </l>
-            <l>
-              <hi rend="i">Ne venez plus troubler ma raison ny mon cœur.</hi>
-            </l>
-          </lg>
-        </quote>
-        <ref target="images/1709-09_400.JPG">
-          <figure>
-            <graphic url="images/1709-09_400.JPG"/>
-          </figure>
-        </ref>
-      </div>
-    </body>
+    <body><div>
+<head>Air nouveau</head>
+<bibl><title>Mercure galant</title>, septembre 1709 [tome 9], p. 400.</bibl>
+<quote>
+  <label>AIR NOUVEAU.<note resp="editor">Une autre mise en musique du poème, anonyme, figure dans le <hi rend="italic">Recueil d'airs sérieux et à boire</hi> de janvier 1695 (Paris, Ballard, 1695, p. 20-21).</note></label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : [l’Air] qui commence par <hi rend="i">Tircis, je le connois</hi>, doit regarder la page 400.</note>
+<lg>
+<l><hi rend="i">Tircis, je le connois, vous n’êtes point sincere,</hi></l>
+<l><hi rend="i">En vain vous m’assurez d’une fidelle ardeur :</hi></l>
+<l><hi rend="i">Contentez-vous, helas ! d’avoir trop sçû me plaire</hi></l>
+<l><hi rend="i">Ne venez plus troubler ma raison ny mon cœur.</hi></l>
+</lg>
+</quote>
+  <ref target="images/1709-09_400.JPG">
+    <figure>
+      <graphic url="images/1709-09_400.JPG"/>
+    </figure>
+  </ref>
+</div>
+</body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>[M. de Tourville, Major du Regiment de Villars]</head>
-        <bibl><title>Mercure galant</title>, mars 1687 (deuxième partie) [tome 5], p. 32-33</bibl>
-        <p/>
-        <p>Comme les Officiers des Troupes se sont distinguez en cette occasion par tout où ils se sont trouvez, M<hi rend="sup">r</hi> de Tourville, Major du Regiment de Villars, fit aussi chanter un <hi rend="i">Te Deum</hi> le 16. du même mois dans le Village de Thuy, voisin de la mesme Ville. Le Curé du lieu, âgé de 88 ans, officia, &amp; n'oublia rien pour marquer la joye.</p>
-      </div>
-    </body>
+    <body><div>
+          <head>[M. de Tourville, Major du Regiment de Villars]</head>
+          <bibl><title>Mercure galant</title>, mars 1687 (deuxième partie) [tome 5], p. 32-33</bibl>
+          <p/>
+          <p>Comme les Officiers des Troupes se sont distinguez en cette occasion par tout où ils se sont trouvez, M<hi rend="sup">r</hi> de Tourville, Major du Regiment de Villars, fit aussi chanter un <hi rend="i">Te Deum</hi> le 16. du même mois dans le Village de Thuy, voisin de la mesme Ville. Le Curé du lieu, âgé de 88 ans, officia, &amp; n'oublia rien pour marquer la joye.</p>
+        </div>
+        </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,17 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Montbazon]</head>
-        <bibl><title>Mercure galant</title>, octobre 1682 (deuxième partie) [tome 12], p. 294-295.</bibl>
+        <bibl><title>Mercure galant</title>, octobre 1682 (deuxième partie) [tome 12], p.
+          294-295.</bibl>
         <p/>
-        <p>Les Officiers du Duché de Montbazon en Touraine, appartenant à M<hi rend="sup">r</hi> le Prince de Guémené, firent assembler tous les Habitans de la Ville, &amp; de toutes les Paroisses qui en dépendent, pour le <hi rend="i">Te Deum</hi> qui fut chanté dans la Chapelle du Château. On fit diverses décharges, tant du Canon que de la Mousqueterie, tous les Habitans s'estant armez pour rendre plus éclatante la cerémonie du Feu.</p>
+        <p>Les Officiers du Duché de Montbazon en Touraine, appartenant à M<hi rend="sup">r</hi> le
+          Prince de Guémené, firent assembler tous les Habitans de la Ville, &amp; de toutes les
+          Paroisses qui en dépendent, pour le <hi rend="i">Te Deum</hi> qui fut chanté dans la
+          Chapelle du Château. On fit diverses décharges, tant du Canon que de la Mousqueterie, tous
+          les Habitans s'estant armez pour rendre plus éclatante la cerémonie du Feu.</p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

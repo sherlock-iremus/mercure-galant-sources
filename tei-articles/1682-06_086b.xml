@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,16 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Sonnet Gascon]</head>
         <bibl><title>Mercure galant</title>, juin 1682 [tome 6], p. 86-89.</bibl>
         <p/>
-        <p>On ne s’est pas seulement servy du Provençal pour publier les grandeurs du Roy ; on a fait aussi un Sonnet Gascon sur cette mesme matiere. Je vous l’envoye. Les rimes de <hi rend="i">Par</hi> &amp; <hi rend="i">Car</hi> y sont employées d’autant plus heureusement, que ces deux mots signifient <hi rend="i">Pair</hi> &amp; <hi rend="i">Cher</hi> en cette Langue.</p>
+        <p>On ne s’est pas seulement servy du Provençal pour publier les grandeurs du Roy ; on a
+          fait aussi un Sonnet Gascon sur cette mesme matiere. Je vous l’envoye. Les rimes de <hi rend="i">Par</hi> &amp; <hi rend="i">Car</hi> y sont employées d’autant plus
+          heureusement, que ces deux mots signifient <hi rend="i">Pair</hi> &amp; <hi rend="i">Cher</hi> en cette Langue.</p>
         <quote>
-          <label>SONNET BOUT-RIMAT,<lb/>en Linguo Moundino,<lb/><hi rend="sc">a la glorio del Rey.</hi></label>
+          <label>SONNET BOUT-RIMAT,<lb/>en Linguo Moundino,<lb/><hi rend="sc">a la glorio del
+              Rey.</hi></label>
           <lg>
             <l><hi rend="i">Lov Rey que ran la Pax as troupetets de</hi> Pan,</l>
             <l><hi rend="i">Fa bouqua l’Enemie millou qu’une</hi> Guenucho.</l>
@@ -49,6 +51,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

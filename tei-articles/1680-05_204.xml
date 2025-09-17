@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,22 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head>[Fille d’Honneur de Madame reçeuë pour occuper la premiere Place qui doit vaquer]</head>
+    <body><div>
+        <head>[Fille d’Honneur de Madame reçeuë pour occuper la premiere Place qui doit
+          vaquer]</head>
         <bibl><title>Mercure galant</title>, mai 1680 [tome 7], p. 204-206.</bibl>
-        <p>Mademoiselle Desco, Sœur du Marquis de ce nom, a esté reçeuë Fille d’Honneur de Madame, pour occuper la premiere place qui vaqueroit. Elle luy fut présentée au commencement de l’autre mois par Madame la Maréchale du Plessis sa Dame d’honneur. Elle a beaucoup de naissance, &amp; est d’une Maison alliée à celles de la Rochefoucaud, de Vitry, de Nangis, &amp; de plusieurs autres des plus illustres. M<hi rend="sup">r</hi> le Marquis Desco son Frere, commande le Regiment d’Artois. Madame sa Femme est Fille de Madame la Comtesse de Brégy, si estimée de toute la Cour pour son esprit &amp; par son mérite. Quant à Mademoiselle Desco, elle est de tres-belle taille, a le teint fort beau, &amp; tous les traits du visage doux &amp; agreables, sçait l’Italien, chante aisément, danse de bon air, &amp; aime la Symphonie avec une passion qui ne se peut concevoir. Elle jouë fort bien du Clavessin, du Theorbe, &amp; de la Guitarre. </p>
+        <p>Mademoiselle Desco, Sœur du Marquis de ce nom, a esté reçeuë Fille d’Honneur de Madame,
+          pour occuper la premiere place qui vaqueroit. Elle luy fut présentée au commencement de
+          l’autre mois par Madame la Maréchale du Plessis sa Dame d’honneur. Elle a beaucoup de
+          naissance, &amp; est d’une Maison alliée à celles de la Rochefoucaud, de Vitry, de Nangis,
+          &amp; de plusieurs autres des plus illustres. M<hi rend="sup">r</hi> le Marquis Desco son
+          Frere, commande le Regiment d’Artois. Madame sa Femme est Fille de Madame la Comtesse de
+          Brégy, si estimée de toute la Cour pour son esprit &amp; par son mérite. Quant à
+          Mademoiselle Desco, elle est de tres-belle taille, a le teint fort beau, &amp; tous les
+          traits du visage doux &amp; agreables, sçait l’Italien, chante aisément, danse de bon air,
+          &amp; aime la Symphonie avec une passion qui ne se peut concevoir. Elle jouë fort bien du
+          Clavessin, du Theorbe, &amp; de la Guitarre. </p>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

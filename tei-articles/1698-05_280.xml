@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, mai 1698 [tome 5], p. 280-282.</bibl>
         <p>Je vous envoye une seconde Chanson. L'Auteur des Vers prend le nom de l'Ombre des Tuileries, &amp; ils ont esté mis en Air par Mr l'Abbé de Poissi.</p>
         <quote>
-          <label>AIR NOUVEAU.</label>
-          <note resp="author" place="margin">L’Air qui commence par <hi rend="i">Rossignols amoureux</hi>, doit regarder la page 281.</note>
-          <lg>
-            <l rend="i">Rossignols amoureux, de quoy vous plaignez vous ?</l>
+          <label>AIR NOUVEAU.</label><note resp="author" place="margin">L’Air qui commence par <hi rend="i">Rossignols amoureux</hi>, doit regarder la page 281.</note>
+          <lg><l rend="i">Rossignols amoureux, de quoy vous plaignez vous ?</l>
             <l rend="i">Si vous aimez, vous aimez qui vous aime ;</l>
             <l rend="i">Vous ne soupirez point qu'on ne fasse de même,</l>
             <l rend="i">Les rigueurs ne sont que pour nous.</l>
@@ -32,8 +29,7 @@
             <l rend="i">Du sort de nos Bergers ne soyez point jaloux ;</l>
             <l rend="i">Sans qu'il en coute aucun trouble à vos ames,</l>
             <l rend="i">Vous goûtez de l'amour les plaisirs les plus doux.</l>
-            <l rend="i">Rossignols amoureux, de quoy vous plaignez-vous ?</l>
-          </lg>
+            <l rend="i">Rossignols amoureux, de quoy vous plaignez-vous ?</l></lg>
         </quote>
         <ref target="images/1698-05_280.JPG">
           <figure>
@@ -41,6 +37,6 @@
           </figure>
         </ref>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

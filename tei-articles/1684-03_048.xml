@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>A Madame des Houlières. Inpromptu</head>
         <bibl><title>Mercure galant</title>, mars 1684 [tome 3], p. 48-49.</bibl>
-        <p>Les Ballades que je vous ay envoyées dans mes deux dernieres Lettres, m’engagent à vous faire part de deux Madrigaux qu’on m’a donnez, &amp; qui en sont une suite. Le premier est de M<hi rend="sup">r</hi> le Duc de S. Aignan.</p>
+        <p>Les Ballades que je vous ay envoyées dans mes deux dernieres Lettres, m’engagent à vous
+          faire part de deux Madrigaux qu’on m’a donnez, &amp; qui en sont une suite. Le premier est
+          de M<hi rend="sup">r</hi> le Duc de S. Aignan.</p>
         <quote>
           <label>A MADAME<lb/>DES HOULIERES.<lb/>INPROMPTU.</label>
           <lg>
@@ -29,6 +30,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

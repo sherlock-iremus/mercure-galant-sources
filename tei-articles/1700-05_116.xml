@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,24 +14,20 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, mai 1700 [tome 5], p. 116-117.</bibl>
         <p>Les beaux jours sont revenus, &amp; l'Air nouveau que je vous envoye sera de saison. Ne soyez point surprise qu'il soit sur un ton de plainte, les Amans se plaignent presque toujours.</p>
         <quote>
-          <label>AIR NOUVEAU.</label>
-          <note resp="author" place="margin">L’Air qui commence par <hi rend="i">Printemps qui chassez</hi>, page 117.</note>
-          <lg>
-            <l rend="i">Printemps, qui chassez la froidure,</l>
+          <label>AIR NOUVEAU.</label><note resp="author" place="margin">L’Air qui commence par <hi rend="i">Printemps qui chassez</hi>, page 117.</note>
+          <lg><l rend="i">Printemps, qui chassez la froidure,</l>
             <l rend="i">N'échaufferez-vous point l'objet de mes desirs ?</l>
             <l rend="i">Et vous, petits Oiseaux, qui chantez vos plaisirs,</l>
             <l rend="i">Ne luy direz-vous point tous les maux que j'endure ?</l>
             <l rend="i">Que dis-je, helas ? Ce n'est point vous, Printemps,</l>
             <l rend="i">Qui finirez ma peine ;</l>
             <l rend="i">C'est le cruel Amour qui peut seul en tout temps</l>
-            <l rend="i">Fléchir mon inhumaine.</l>
-          </lg>
+            <l rend="i">Fléchir mon inhumaine.</l></lg>
         </quote>
         <ref target="images/1700-05_116.JPG">
           <figure>
@@ -39,6 +35,6 @@
           </figure>
         </ref>
       </div>
-    </body>
+        </body>
   </text>
 </TEI>

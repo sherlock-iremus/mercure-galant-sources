@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Le Lion, et le Rat. Fable</head>
-        <bibl><title>Mercure galant</title>, octobre 1682 (première partie) [tome 11], p. 191-196.</bibl>
+        <bibl><title>Mercure galant</title>, octobre 1682 (première partie) [tome 11],
+          p. 191-196.</bibl>
         <p/>
-        <p>Il est bon de se faire des Amis de toutes sortes. On tombe quelquefois dans des malheurs, où les moins considérables sont d’un utile secours. M<hi rend="sup">r</hi> Daubaine nous le fait connoistre agreablement par une Fable qu’il a faite depuis peu. Je vous en envoye une Copie.</p>
+        <p>Il est bon de se faire des Amis de toutes sortes. On tombe quelquefois dans des malheurs,
+          où les moins considérables sont d’un utile secours. M<hi rend="sup">r</hi> Daubaine nous
+          le fait connoistre agreablement par une Fable qu’il a faite depuis peu. Je vous en envoye
+          une Copie.</p>
         <quote>
           <label>LE LION,<lb/>ET LE RAT.<lb/>FABLE.</label>
           <lg>
@@ -100,6 +103,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

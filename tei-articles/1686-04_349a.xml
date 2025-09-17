@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div copyOf="JLB-MG-1686-04_349">
+    <body><div copyOf="JLB-MG-1686-04_349">
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, avril 1686 [tome 5], p. 349.</bibl>
         <p>Je vous envoye un second Printemps, qui a plû icy aux delicats en Musique.</p>
         <quote>
-          <label>AIR NOUVEAU.</label>
-          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par, <hi rend="i">Le Printemps se passe</hi>, doit regarder la page 349.</note>
+          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour
+              placer les Figures</hi> : l’Air qui commence par, <hi rend="i">Le Printemps se
+              passe</hi>, doit regarder la page 349.</note>
           <lg>
             <l rend="i">Le Printemps se passe, Silvie,</l>
             <l rend="i">Et nous ne parlons point d'amour.</l>
@@ -37,6 +37,6 @@
           </figure>
         </ref>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

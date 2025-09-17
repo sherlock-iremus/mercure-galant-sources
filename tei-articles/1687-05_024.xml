@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>[Sonnet] Au Roy. Sur ce qu’en le peignant on ne sçauroit peindre sa Grandeur</head>
         <bibl><title>Mercure galant</title>, mai 1687 [tome 7], p. 24-26</bibl>
-        <p>Le Sonnet qui suit consolera vos Amies du besoin qu’elles auront que vous leur donniez l’explication de ces deux Vers. Il est de M<hi rend="sup">r</hi> Robbe, connu par plusieurs Ouvrages qui ont esté favorablement receus du public.</p>
+        <p>Le Sonnet qui suit consolera vos Amies du besoin qu’elles auront que vous leur donniez
+          l’explication de ces deux Vers. Il est de M<hi rend="sup">r</hi> Robbe, connu par
+          plusieurs Ouvrages qui ont esté favorablement receus du public.</p>
         <quote>
           <label>AU ROY.</label>
           <p>Sur ce qu’en le peignant on ne sçauroit peindre sa Grandeur.</p>
@@ -51,6 +52,6 @@
           </quote>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

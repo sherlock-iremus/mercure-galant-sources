@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head resp="editor">Deux nouvelles énigmes</head>
         <bibl><title>Mercure galant</title>, mai 1678 [tome 5], p. 355-358.</bibl>
-        <p>Je vous envoye deux nouvelles Enigmes <note resp="editor">Pour l'explication de cette énigme, cf. <ref target="MG-1678-06_317">cet article, </ref> et pour une lettre à propos de l'énigme, cf. <ref target="MG-1678-06e_119">celui-ci</ref></note>. La premiere est de M<hi rend="sup">r</hi> l’Abbé d’Albert d’Aix.</p>
+        <p>Je vous envoye deux nouvelles Enigmes <note resp="editor">Pour l'explication de cette énigme, cf. <ref target="MG-1678-06_317">cet article, </ref> et pour une lettre à propos de l'énigme, cf. <ref target="MG-1678-06e_119">celui-ci</ref></note>. La premiere est de M<hi rend="sup">r</hi> l’Abbé
+          d’Albert d’Aix.</p>
         <quote rend="border">
           <label rend="center">ENIGME.</label>
           <lg>
@@ -38,8 +38,7 @@
             <l rend="i">À mille Gens qui par là sçavent plaire,</l>
             <l rend="i">Moy de qui la méthode à la leur est contraire,</l>
             <l rend="i">Je le fais en fermant la plûpart de mes yeux.</l>
-          </lg>
-        </quote>
+          </lg></quote>
         <quote>
           <label rend="center">AUTRE ENIGME.</label>
           <lg>
@@ -64,6 +63,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

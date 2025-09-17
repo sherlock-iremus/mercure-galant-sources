@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,16 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Stances</head>
         <bibl><title>Mercure galant</title>, décembre 1695 [tome 13], p. 164-171.</bibl>
-        <p>Vous ne serez pas fâchée de voir les Vers que je vous envoye. Ils sont de M<hi rend="sup">r</hi> Rault, de Roüen, &amp; faits sur ces paroles de Job, <hi rend="i">Qui est ce qui me fera la grace, que dans l’enfer mesme vous me protegiez, &amp; vous me cachiez jusqu’à ce que vostre fureur soit passée ?</hi></p>
+        <p>Vous ne serez pas fâchée de voir les Vers que je vous envoye. Ils sont de M<hi rend="sup">r</hi> Rault, de Roüen, &amp; faits sur ces paroles de Job, <hi rend="i">Qui est ce qui
+            me fera la grace, que dans l’enfer mesme vous me protegiez, &amp; vous me cachiez
+            jusqu’à ce que vostre fureur soit passée ?</hi></p>
         <quote>
           <label>STANCES.</label>
           <lg>
-            <l>
-              <hi rend="i">Quel lieu pourra, Seigneur, me mettre en seureté,</hi>
-            </l>
+            <l><hi rend="i">Quel lieu pourra, Seigneur, me mettre en seureté,</hi></l>
             <l rend="i"> Contre ce bras qui tient la foudre,</l>
             <l rend="i"> Et dont vous reduisez en poudre,</l>
             <l rend="i"> Ceux qui vous ont trop irrité ?</l>
@@ -131,9 +130,7 @@
           <lg>
             <l rend="i">Jonas, quoique plongé dans le centre des eaux,</l>
             <l rend="i"> Voit que ce centre est infidele,</l>
-            <l>
-              <hi rend="i">Et bien que le fond le recele,</hi>
-            </l>
+            <l><hi rend="i">Et bien que le fond le recele,</hi></l>
             <l rend="i"> Les ondes sont de clairs tombeaux.</l>
           </lg>
           <ab type="ornament">***</ab>
@@ -180,6 +177,6 @@
           </lg>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

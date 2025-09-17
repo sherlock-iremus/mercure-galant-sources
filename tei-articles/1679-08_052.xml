@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Le Temps Medecin. Fable, a Iris</head>
         <bibl><title>Mercure galant</title>, août 1679 [tome 8], p. 52-59.</bibl>
-        <p>Heureux qui se peut servir de son secours <note resp="editor">Du temps.</note>. Il guérit souvent les plus grands maux, &amp; la Fable que je vous envoye vous va l’apprendre. Elle est de M<hi rend="sup">r</hi> du Livety.</p>
+        <p>Heureux qui se peut servir de son secours <note resp="editor">Du temps.</note>. Il guérit souvent les plus grands maux, &amp; la
+          Fable que je vous envoye vous va l’apprendre. Elle est de M<hi rend="sup">r</hi> du
+          Livety.</p>
         <quote>
           <label type="head">Le Temps <lb/>Medecin.</label>
           <label type="head">Fable, a Iris.</label>
@@ -29,9 +30,11 @@
           <l>Sur les autres Oyseaux prit un si grand empire,</l>
           <l>Qu'à l’envy chacun d’eux pour elle soûpiroit.</l>
           <l>Chacun touché d’amour, à luy plaire aspiroit,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Sans qu’aucun osast en rien dire.</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Sans qu’aucun osast en rien
+            dire.</l>
           <l>Entr'autres un Serin, un gay Chardonneret,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Sentoient pour elle un feu secret,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Sentoient pour elle un feu
+            secret,</l>
           <l>Et bien qu’elle fust sourde à leur tendre ramage,</l>
           <l>Ces malheureux Captifs aimoient leur esclavage.</l>
           <l>Elle écoutoit assez leurs soûpirs amoureux,</l>
@@ -40,28 +43,38 @@
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Et plus elle estoit inhumaine.</l>
           <l/>
           <ab type="ornament">***</ab>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Mais enfin ces Oyseaux, un jour,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Mais enfin ces Oyseaux, un
+            jour,</l>
           <l>Ne voulant plus nourrir une espérance vaine,</l>
           <l>Las de tous ses mépris, furent prier l’Amour</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>D'adoucir le poids de leur chaîne.</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>D'adoucir le poids de leur
+            chaîne.</l>
           <l/>
           <ab type="ornament">***</ab>
           <l><seg type="tab">    </seg>Ils se plaignirent des froideurs</l>
           <l>Qu'avoit pour leur ardeur l’insensible Linote.</l>
-          <l><hi rend="i">Allez</hi>, leur dit l’Amour, <hi rend="i">pour punir ses rigueurs</hi>,</l>
+          <l><hi rend="i">Allez</hi>, leur dit l’Amour, <hi rend="i">pour punir ses
+            rigueurs</hi>,</l>
           <l rend="i"><seg type="tab">    </seg>Je luy feray bientost changer de note. </l>
-          <l><seg type="tab">    </seg><hi rend="i">De tous mes traits je prendray le plus doux</hi>,</l>
+          <l><seg type="tab">    </seg><hi rend="i">De tous mes traits je prendray le plus
+            doux</hi>,</l>
           <l rend="i"><seg type="tab">    </seg>Et la rendray plus sensible pour vous. </l>
-          <l><seg type="tab">    </seg><hi rend="i">N'est-il pas temps que mon pouvoir éclate</hi>,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg><hi rend="i">Et qu’elle vive sous mes loix</hi> ?</l>
+          <l><seg type="tab">    </seg><hi rend="i">N'est-il pas temps que mon pouvoir
+            éclate</hi>,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg><hi rend="i">Et qu’elle vive sous
+              mes loix</hi> ?</l>
           <l><hi rend="i">Oüy, je veux, chers Oyseaux, que cette Belle ingrate,</hi>,</l>
-          <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg>De l’un de vous deux fasse choix. </l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Alors tous deux dans leur ramage</l>
+          <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg>De l’un de vous deux fasse
+            choix. </l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Alors tous deux dans leur
+            ramage</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>En attendant cet heureux jour,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Chantent cent fois, <hi rend="i">Vive l’Amour</hi>,</l>
           <l><hi rend="i">Publions ses bontez, rendons-luy nostre hommage</hi>,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg><hi rend="i">Il va contenter nos desirs</hi>,</l>
-          <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg>Et pour celle qui nous engage </l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg><hi rend="i">Il va contenter nos
+              desirs</hi>,</l>
+          <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg>Et pour celle qui nous
+            engage </l>
           <l rend="i">Nous ne pousserons plus d’inutiles soûpirs. </l>
           <l/>
           <ab type="ornament">***</ab>
@@ -75,19 +88,25 @@
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Et tous les matins tour-à tour,</l>
           <l>Par de tendres Chansons, chacun de son amour</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Luy va marquer la violence.</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Mais quoy ? des momens les plus doux</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>L'Amour n’est pas toûjours le maistre,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Mais quoy ? des momens les plus
+            doux</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>L'Amour n’est pas toûjours le
+            maistre,</l>
           <l>Et quelquefois le Temps, de son pouvoir jaloux,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Ne nous le fait que trop connoistre ;</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Ne nous le fait que trop
+            connoistre ;</l>
           <l>Il le prive souvent des plus beaux de ses droits,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Et rend sa prévoyance vaine :</l>
           <l>Il en voulut donner une preuve certaine,</l>
           <l>Lors que sur ces Oyseaux il étendit ses Loix,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Pour leur faire briser leur chaîne.</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Pour leur faire briser leur
+            chaîne.</l>
           <l/>
           <ab type="ornament">***</ab>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg><hi rend="i">Hé quoy</hi> ? leur dit-il en couroux,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg><hi rend="i">La Linote se rit de vous</hi>,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg><hi rend="i">Hé quoy</hi> ? leur
+            dit-il en couroux,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg><hi rend="i">La Linote se rit de
+              vous</hi>,</l>
           <l><hi rend="i">Et ce qu’on doit nommer l’objet de vostre haine</hi>,</l>
           <l><hi rend="i">Doit-il estre l’objet de vos vœux les plus doux</hi> ?</l>
           <l><hi rend="i">Hé que vous a servy tant de perséverance</hi>,</l>
@@ -110,6 +129,6 @@
           <l>Et le Temps à la fin dessille ses paupieres.</l>
         </quote>
       </div>
-    </body>
+      </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <head resp="editor">Cadeaux reçus par l’abbé de Choisy</head>
-        <bibl><title>Mercure galant</title>, juillet 1686 (deuxième partie) [tome 9], p. 132-133</bibl>
-        <p>[...] M<hi rend="sup">r</hi> l’Abbé de Choisy eut aussi divers Presens fort considerables, qui luy furent envoyez de la part du Roy. Il en receut de particuliers de M<hi rend="sup">r</hi> Constance, auquel M<hi rend="sup">r</hi> l’Ambassadeur envoya un fort beau Meuble de Chambre, &amp; une Chaise à Porteurs. Il avoit porté ce Meuble croyant s’en servir, mais on luy donna par tout des Maisons toutes meublées.</p>
-      </div>
-    </body>
+    <body><div>
+          <head resp="editor">Cadeaux reçus par l’abbé de Choisy</head>
+          <bibl><title>Mercure galant</title>, juillet 1686 (deuxième partie) [tome 9], p. 132-133</bibl>
+          <p>[...] M<hi rend="sup">r</hi> l’Abbé de Choisy eut aussi divers Presens fort considerables, qui luy furent envoyez de la part du Roy. Il en receut de particuliers de M<hi rend="sup">r</hi> Constance, auquel M<hi rend="sup">r</hi> l’Ambassadeur envoya un fort beau Meuble de Chambre, &amp; une Chaise à Porteurs. Il avoit porté ce Meuble croyant s’en servir, mais on luy donna par tout des Maisons toutes meublées.</p>
+        </div>
+        </body>
   </text>
 </TEI>

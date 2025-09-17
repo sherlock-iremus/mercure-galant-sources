@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title></title>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,34 +14,21 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
+    <body><div>
         <head>Chanson.</head>
         <bibl><title>Nouveau Mercure </title>, janvier 1720 [tome 1], p.163.</bibl>
         <quote>
           <label>CHANSON.</label>
           <lg>
-            <l>
-              <hi rend="i">L'An nouveau douze mois ramene ;</hi>
-            </l>
-            <l>
-              <hi rend="i">Chaque mois a quatre semaine,</hi>
-            </l>
-            <l>
-              <hi rend="i">Et chaque semaine sept jours.</hi>
-            </l>
-            <l>
-              <hi rend="i">De tout ce tems, belle inhumaine,</hi>
-            </l>
-            <l>
-              <hi rend="i">Donnez un moment aux amours.</hi>
-            </l>
-            <l>
-              <hi rend="i">Est-ce trop pour payer leur peine ?</hi>
-            </l>
-          </lg>
+            <l><hi rend="i">L'An nouveau douze mois ramene ;</hi></l>
+            <l><hi rend="i">Chaque mois a quatre semaine,</hi></l>
+            <l><hi rend="i">Et chaque semaine sept jours.</hi></l>
+            <l><hi rend="i">De tout ce tems, belle inhumaine,</hi></l>
+            <l><hi rend="i">Donnez un moment aux amours.</hi></l>
+            <l><hi rend="i">Est-ce trop pour payer leur peine ?</hi></l>
+            </lg> 
         </quote>
-      </div>
-    </body>
+      </div> 
+      </body>
   </text>
 </TEI>
