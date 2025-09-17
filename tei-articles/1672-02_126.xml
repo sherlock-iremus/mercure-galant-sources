@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title></title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher></publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div>
+          <head>[Mort de Monsieur Godeau Evesque de Vence]</head>
+          <bibl><title>Le Mercure galant</title>, tome II [mai-juillet 1672], 1672 p. 126-127.</bibl>
+          <p>Les Nouvellistes qu’il sut joindre, s’entretenoient de la mort de Monsieur Godeau
+            Evesque de Vence, qui estoit de l’Academie Françoise : Ils loüerent fort ses Poësies,
+            &amp; sa Traduction des Pseaumes.</p>
+        </div>
+        </body>
+  </text>
+</TEI>
