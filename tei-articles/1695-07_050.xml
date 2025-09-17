@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title></title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher></publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p />
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div>
+
+        <head>[Lettre écrite sur le nom de la Ville de Bordeaux]</head>
+        <bibl>
+          <title>Mercure galant</title>, juillet 1695 [tome 7], p. 50-59. </bibl>
+        <p>Vous avez vû par quelques Lettres que je vous ay envoyées, que les opinions font
+          differentes sur le nom de la Ville de Bordeaux. Voicy ce qui en a esté écrit de nouveau
+          par M<hi rend="sup">r</hi> B.L.L-T.</p>
+        <quote>
+          <label rend="center">À M<hi rend="sup">r</hi> FERRACHAT, <lb />Avocat au Parlement. </label>
+          <p>
+            <hi rend="i">Puis que vous voulez, Monsieur, que je dise mon sentiment touchant les deux
+            differentes Lettres qui ont paru dans le Mercure Galant, sur la prononciation &amp;
+            l'Etymologie de Bordeaux, je croy que M<hi
+                rend="sup">r</hi> Sarrau a raison de vouloir qu'on prononce</hi> Bourdeaux<hi
+              rend="i">, à cause du genie &amp; de l'origine de nostre Langue, &amp; que M<hi
+                rend="sup">r</hi> Leidet, Conseiller au Presidial de cette Ville, a l'usage pour luy
+            ; car vous sçavez qu’aujourd’huy parmy les honnestes gens &amp; le beau Sexe on prononce</hi>
+            Bordos<hi rend="i">, &amp; on écrit</hi> Bordeaux<hi rend="i">. Les
+              Auteurs anciens &amp; modernes sont partagez sur l’orthographe de ce mot, &amp; ils ne
+            peuvent rien contre
+              l'usage ; ainsi je ne m’arresteray point à vous les citer.</hi>
+          </p>
+          <p>
+            <hi rend="i">Pour ce qui est de l'Etymologie, je ne suis pas de l'avis de M<hi
+                rend="sup">r</hi> Sarrau, qui a suivi le bon Duplex, ny de celuy de M<hi rend="sup">
+            r</hi> Leidet, qui sçait trop d’Espagnol, &amp; qui n'a voulu que faire honneur aux
+            Dames de son Pays. Je tiens qu'en matiere d’Etymologie, il la faut chercher dans la
+            Langue naturelle &amp; originale de chaque Pays, ou de celle des Colonies qui sont
+            venuës l'habiter ; mais dans l'ancienne Langue Celtique, qui estoit celle qu'on parloit
+            dans les Gaules, la Germanie, la grande Bretagne, &amp;c.</hi> Bourg<hi rend="i">, ou</hi>
+            Burggauts<hi rend="i">, signifie la
+              Ville des Gaulois, nom qu'on a donné à Bordeaux, parce que les Gaulois qui estoient
+            divisez des Aquitains
+              par la Garonne, passerent cette Riviere, &amp; s'établirent au deçà. Une semblable
+            raison a fait appeller
+            </hi>
+            Burgus Santonum<hi rend="i">, la Ville de Bourg, qui est une Colonie des Santones qui
+            s'établirent
+              plus bas sur cette Riviere. Le nom de</hi> Burg <hi rend="i">est fort usitè dans les
+            noms des Villes de
+              tout le pays du Nord, &amp; il signifie</hi> Castrum<hi rend="i">,</hi> Sedes<hi
+              rend="i">,</hi> urbs<hi
+              rend="i">,</hi> habitatio<hi rend="i">, &amp;c. Cesar a appellé</hi> Bituriges Vibises<hi
+              rend="i">, les
+              environs de Bordeaux, &amp; ce n'est que Strabon, &amp; Ausone aprés luy, qui ont
+            latinisé</hi> Burg gauls <hi rend="i">, &amp; en ont fait</hi> Burdigala<hi rend="i">.</hi>
+          </p>
+          <p>
+            <hi rend="i">Or ce mot s'est formé, ainsi que celuy de</hi> Linguadokum<hi rend="i">,
+            qui vient de</hi> Lingua Gottorum<hi rend="i">, nom qu'on donne à la Gaule Narbonnoise,
+            où les Gots s'établirent au quatriéme
+              siecle, sous l'Empereur Honorius. Les François appellerent ce Pays</hi> Langue des
+            Gots<hi rend="i">, ou
+            </hi> Langue des Kots<hi rend="i">, car le</hi> G <hi rend="i">&amp; le</hi>
+            K <hi rend="i">se changent
+              souvent l'un en l’autre, &amp; quand on a voulu latiniser ce nom, c’est à dire,
+            tourner le François en
+              Latin, on a dit</hi> Linguadokum<hi rend="i">, de sorte qu'il y a eu d’ajoûté
+            l'article du genitif, tout
+              ainsi qu'il s’est introduit dans l’Espagnol, l'Italien, &amp; l’Anglois. De</hi>
+            Burg-degauls <hi
+              rend="i">nous en avons ensuite formé nostre</hi> Bordeaux<hi rend="i">, comme de</hi>
+            Langue des Gots <hi
+              rend="i">s'est formé</hi> Languedok<hi rend="i">, où vous voyez qu’il y a une sillabe
+            retranchée.</hi>
+          </p>
+          <p>
+            <hi rend="i">Voicy une remarque que j’ay faite sur la formation des noms François qui se
+            font par
+              contraction des noms propres anciens. Les noms anciens latinisez, où il y a un</hi> D <hi
+              rend="i">au
+              milieu, qui n’est point article du génitif, ont laissé le</hi> D <hi rend="i">en
+            devenant François, comme
+            </hi> Andegavum<hi rend="i">, Anjou ;</hi>
+            Cadurcum<hi rend="i">, Cahors ;</hi> Clodoveus<hi rend="i">,
+              Clovis &amp; Louis ;</hi> Lugdunum<hi rend="i">, Lyon ;</hi> Rhodanus<hi rend="i">, le
+            Rhosne, &amp;c.
+              Mais lors que le</hi> D <hi rend="i">a esté</hi> præfixum <hi rend="i">du genitif, il
+            y est resté, comme
+              dans</hi> Linguadokum<hi rend="i">, Languedoc,</hi> Burdigala<hi rend="i">, Bordeaux,
+            &amp;c. Il est
+              facile de trouver de ces sortes de noms.</hi>
+          </p>
+          <p>
+            <hi rend="i">Voulez-vous, Monsieur, que je tire encore une autre Etymologie de Bordeaux,
+            en suivant la mesme
+              regle que j'ay établie, &amp; l'histioire ancienne ? Dans la langue Gauloise,
+            Celtique, Saxone &amp;.mesme
+              Tudesque, aujourd'huy,</hi> Bord,<hi rend="i"> signifie extrêmité &amp; rivage. Il se
+            peut qu'on a donné
+              le nom de</hi> Bordgauls <hi rend="i">à la ville des Gaulois établis sur les rives de
+            la Garomne du costé
+              des Aquitains ; &amp; que pour rendre Latin ce nom on a dit</hi> Burdegala<hi rend="i">.
+            Voilà qui est
+              fort naturel &amp; qui n’est pas trop tiré. Combien y a t il de pays qui ont pris leur
+            nom des rivages de
+              la mer, ou de quelque riviere ? On dit que</hi> Aquitania <hi rend="i">signifie</hi>
+            Aquarum regio<hi
+              rend="i">.</hi> Armorica <hi rend="i">en Anglois signifie</hi> regio Maritima<hi
+              rend="i">. L’Attique en
+              Grece,</hi> regio Littoralis<hi rend="i">, si je puis me servir de ce terme, parce
+            qu'elle est toute
+              environnée de mer. L'Ionie, le Pont, la Phrygie par la mesme raison. Le Portugal est
+            le Port des Gaulois.
+              On trouve encore aujourd’huy beaucoup de Villes maritimes ou sur les bords des
+            rivieres qui ont pris leur
+              nom de leur situation. En France comme le Havre-de Grace, Bayonne, &amp;c. &amp; les
+            Villes ou le mot de
+              Port se trouve joint. En Hollande, Vtrech &amp; Maftrecht ont pris leur nom de</hi>
+            Trajectus<hi rend="i">
+              , passage, ou Ville au delà. En Angleterre, quantité de Villes. En Italie,</hi> Ostie<hi
+              rend="i">,
+              &amp;c.</hi>
+          </p>
+          <p>
+            <hi rend="i">Vous jugerez, Monsieur, de ces deux Etymologies ; vous choisirez celle que
+              vous aimerez le
+              mieux, &amp; vous la ferez voir à ces Messieurs, afin qu'ils en jugent eux-mesmes.
+              Vous leur direz, s'il
+              vous plaist, que quoy que je les estime beaucoup tous deux, la liberté de la
+              Republique des Lettres me
+              permet de m’éloigner de leurs sentimens jusques à ce qu'ils m'ayent rapporté d'autres
+              raisons. Je suis,
+              &amp;c.</hi>
+          </p>
+        </quote>
+      </div>
+    </body>
+  </text>
+</TEI>

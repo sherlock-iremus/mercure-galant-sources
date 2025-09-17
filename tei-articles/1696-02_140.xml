@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title></title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher></publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p />
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div>
+
+        <head>[Lettre sur les Inscriptions Françoises]</head>
+        <bibl>
+          <title>Mercure galant</title>, février 1696 [tome 2], p. 140-152. </bibl>
+        <p>Vous ne serez pas fâchée de voir ce qui a esté écrit sur les Inscriptions en Vers, &amp;
+          sur une Phrase
+          Françoise. Ce petit Traité est d’un homme habile, dont les ouvrages ont souvent eu place
+          dans mes Lettres,
+          &amp; toûjours avec succés.</p>
+        <quote>
+          <label rend="center">À MONSIEUR C….</label>
+          <p>Je suis de vostre sentiment, Monsieur, il faut composer les Inscriptions en Vers,
+            autrement que celles qui se font en Prose. Il suffit pour celles-cy que le stile en soit
+            noble &amp; correct, n’estant, pour ainsi dire, que l’Histoire en petit abrégé. Mais les
+            autres dont les Muses se meslent, doivent avoir quelque trait ingenieux, quelque sel qui
+            pique les gens de bon goust, car elles tiennent de l’Epigramme, &amp; elles en tirent un
+            agrément. Aussi cet Ouvrage, qui pour estre bon, doit estre fin &amp; delicat, occupe
+            des personnes qui se font un honneur d’en avoir étudié le caractere, &amp; d’y avoir un
+            talent singulier. Pour moy, j’honore les gens de cette profession, sans estre de leur
+            ordre, mais comme membre de la Republique des Lettres, il m’est arrivé quelquefois
+            d’estre d’humeur à faire quelques unes de ces Inscriptions Poëtiques. Vous avez vû celle
+            que j’envoyay il y a quelque temps à Mr le Duc de Montausier. Elle étoit pour un Tableau
+            de Mignard, où les trois jeunes Princes estoient representez auprés de Madame la
+            Dauphine ; qui se nommoit <hi rend="i">Victoire</hi>.</p>
+          <quote>
+            <lg>
+              <l rend="i">
+                <space rend="tab"> </space>
+                <space rend="tab"> </space>Heroës fient quibus est
+                Victoria Mater. </l>
+              <l rend="i">Ces jeunes Princes seront un jour des Heros, avant pour Mere une Victoire.</l>
+            </lg>
+          </quote>
+          <p>Ce Vers unique eut un sort assez heureux à la Cour. Outre l’approbation que luy donna
+            l’illustre M<hi
+              rend="i">r</hi> de Montausier, je vis icy quelque temps aprés des gens qui revenoient
+            de Verlailles, &amp; qui me dirent que les Princes sçavoient ce Vers, &amp; qu’ils le
+            leur avoient oüy dire. Voicy une Inscription nouvelle pour une Horloge du Parlement.</p>
+          <quote>
+            <lg>
+              <l rend="i">
+                <space rend="tab"> </space>
+                <space rend="tab"> </space>Hîc obeunt lites sonitus du
+                parurit horas. </l>
+              <l rend="i">Les procés meurent icy tandis que les heures naissent du son de l’horloge.</l>
+            </lg>
+          </quote>
+          <p>Cette opposition de la mort &amp; de la naissance, qui donne un tour à l’expression du
+            sujet, est une
+            rencontre favorable.</p>
+          <p>Voicy une autre Inscription pour l’Horloge d’un Port de mer.</p>
+          <quote>
+            <lg>
+              <l rend="i">It mare, postque redit, nec</l>
+              <l rend="i">
+                <space rend="tab"> </space>
+                <space rend="tab"> </space>littore tempora signat, </l>
+              <l rend="i">Descensu, ascensuque omnes</l>
+              <l rend="i">
+                <space rend="tab"> </space>
+                <space rend="tab"> </space>Acus indicat horas. </l>
+              <l rend="i">La mer dans son flux &amp; son reflux ne marque point les parties du temps
+                sur son rivage.
+                Cette Aiguille qui a des mouvemens semblables en montant &amp; en descendant, fait
+                voir toutes les
+                heures.</l>
+            </lg>
+          </quote>
+          <p>On ne s’apperçoit pas naturellement que la Mer &amp; une Horloge ayent rien de commun.
+            Ainsi cette union qu’on en fait estant nouvelle, peut toucher en ce qu’elle surprend.
+            Remarquez que comme il y a un artifice singulier dans la structure d’une Horioge, on a
+            de même composé ces deux Vers avec un caractere qui leur convient. Le premier Vers, <hi
+              rend="i">It mare ; &amp;c.</hi> est leger, pour ainsi dire, y ayant quatre Dactyles
+            contre deux Spondées, pour mieux representer le flux &amp; le reflux de la mer, qui sont
+            des mouvemens rapides. Mais le second Vers, <hi rend="i">Descensu ascensuque, &amp;c.</hi>
+            est pesant, y ayant quatre Spondées contre deux Dactyles, pour désigner plus juste la
+            lenteur du mouvement de l’Aiguille, qui s’avance imperceptiblement. L’inscription
+            suivante est pour un Quadran au Soleil.</p>
+          <quote>
+            <lg>
+              <l rend="i">Sol notat umbrâ horas, sic vitam nubila signant.</l>
+            </lg>
+          </quote>
+          <p>
+            <hi rend="i">Le Soleil marque les heures avec l’ombre. Tel est le caractere de la vie de
+            l’homme, dont les
+              jours ne sont point sans nuages.</hi> Ce rayon qui devient sombre, pour ainsi dire,
+            afin de marquer les heures, plaist icy davange qu’un rayon brillant. Il contient une
+            moralité ingenieuse, &amp; dont on peut profiter. Cette autre Inscription est pour le
+            Quadran d’un jardin. </p>
+          <quote>
+            <lg>
+              <l rend="i">Flos cadit, umbra fugit ; sic</l>
+              <l rend="i">
+                <space rend="tab"> </space>
+                <space rend="tab"> </space>vita fugitque, caditque. </l>
+            </lg>
+          </quote>
+          <p>
+            <hi rend="i">L’heure passe &amp; les fleurs tombent. Image de la vie passagere &amp;
+            mortelle de l’homme.
+            </hi>
+            Les fleurs &amp; les heures n’ont pas une même nature, mais leurs traits estant joints
+            ensemble, sont assez propres pour peindre l’estat &amp; la condition de l’homme. Je
+            souhaite que ces Essais ne déplaisent pas aux Maistres &amp; aux Connoisseurs. </p>
+          <p>On m’a fait l’honneur de me demander ce que je pensois d’une expression d’une Ode, où
+            il est parlé du Roy, que ses glorieux Exploits ne seront point <hi rend="i">la proye de
+            l’oubly</hi>. Le doute s’est formé, dit-on, sur la jonction du mot de <hi rend="i">proye</hi>
+            avec celuy de <hi rend="i">l’oubly</hi>, ce qui semble incompatible, parce qu’il faut de
+            l’action pour la proye, &amp; qu’il n’y en a point dans l’oubly, qui est une image du
+            neant.</p>
+          <p>Il est vray qu’à parler en Philosophe, il n’y a point d’action dans l’oubly, mais le
+            langage des Muses est
+            different du stile philosophique. Les Poëtes donnent souvent de l’action à des sujets
+            qui n’en ont point de
+            leur nature, comme sont les Bois, les Rochers, les Fleuves, &amp;c. Or dans Virgile,
+            &amp; autre part,
+            Lethé, ce fleuve d’Afrique dans la Lybie, est employé pour figurer l’oubli. A suivre
+            l’idée du fleuve on
+            trouveroit de l’action dans l’oubli pour la proye ; car les fleuves ont des abismes,
+            &amp; ce que les
+            abismes engloutissent est regardé comme leur proye.</p>
+          <p>Ce qui doit faire de la peine, c’est que l’usage n’est point pour <hi rend="i">la proye
+            de l’oubli</hi> ; car on dit ordinairement, <hi rend="i">estre enseveli dans l’oubli</hi>.
+            Neanmoins voicy une raison qui pourroit obtenir un passe-port pour la proye de l’oubli,
+            c’est que l’expression est dans une Ode, pour ainsi dire, Pindarique, maniere de Poëme
+            où il y a beaucoup de feu, &amp; où par ce caractere les figures hardies &amp;
+            irregulieres sont souffertes, sur l’exemple de la flamme, dont la pointe en s’élevant,
+            n’est pas toujours droite.</p>
+          <p>De plus, ce qu’on a voulu dire pour Loüis le Grand, dans cette Ode, approche en quelque
+            façon d’une expression de Ciceron pour Cesar. C’est dans l’Oraison pour Marcellus. <hi
+              rend="i">Tuas laudes obscuratura
+              nulla unquam est oblivio</hi>. A suivre le Latin mot pour mot, <hi rend="i">Jamais
+            aucun oubly ne pourra
+              effacer vos loüanges</hi>. L’Orateur Romain donne icy un mouvement à l’oubli, en luy
+            donnant comme un pinceau, non pas pour peindre, mais pour effacer. Je ne sçay si la
+            cause que je défens est bonne ; je m’en rapporte aux Juges souverains de la Langue,
+            &amp; je suis toujours, &amp;c.</p>
+        </quote>
+      </div>
+    </body>
+  </text>
+</TEI>

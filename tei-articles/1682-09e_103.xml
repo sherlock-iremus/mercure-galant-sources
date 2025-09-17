@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title></title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher></publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p />
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div>
+
+        <head>[Explications des énigmes du mois de juin]*</head>
+        <bibl>
+          <title>Extraordinaire du Mercure galant</title>, quartier de juillet 1682, p. 103-105. </bibl>
+        <label rend="center">XIV.</label>
+        <lg>
+          <l rend="i">Fatigué des douçûrs que certeine Marquise,</l>
+          <l rend="i">Dont j’ay sans y penser catibé la franchise,</l>
+          <l rend="i">Me contet l’autre jour, je feinis d’estre mal,</l>
+          <l rend="i">
+            <space rend="tab"> </space>
+            <space rend="tab"> </space>Et la lessé sûlette à l’Arsenal. </l>
+          <l rend="i">
+            <space rend="tab"> </space>
+            <space rend="tab"> </space>De là je bins à la pointe de
+            l’Isle ; </l>
+          <l rend="i">
+            <space rend="tab"> </space>
+            <space rend="tab"> </space>Certain Norman, se piquant d’estre
+            havile, </l>
+          <l rend="i">
+            <space rend="tab"> </space>
+            <space rend="tab"> </space>A debiner les Enimes du Mois, </l>
+          <l rend="i">
+            <space rend="tab"> </space>
+            <space rend="tab"> </space>M’avorde, &amp; de sa niése boix </l>
+          <l rend="i">Lisez-bous, me dit-il, quelquefois le Mercure ?</l>
+          <l rend="i">
+            <space rend="tab"> </space>
+            <space rend="tab"> </space>(Le Fat me féset une injure.) </l>
+          <l rend="i">
+            <space rend="tab"> </space>
+            <space rend="tab"> </space>Velle demande ! Ouy, je le lis, </l>
+          <l rend="i">Et debine toûjours, luy dis-je, les Enimes.</l>
+          <l rend="i">Et moy, répondit-il, je les esplique en rimes.</l>
+          <l rend="i">
+            <space rend="tab"> </space>
+            <space rend="tab"> </space>Plût à Diû qu’on donna de Prix, </l>
+          <l rend="i">Je les gagnerez tous. Quelle rodomontade !</l>
+          <l rend="i">Sans-doute qu’au cerbâu cet Homme étet malade.</l>
+          <l rend="i">De Prix ? Ah cadedis ! que j’en aurez soubent !</l>
+          <l>
+            <hi rend="i">Je trouve tous les Mots plus bite que</hi> le Bent, </l>
+          <l rend="i">
+            <space rend="tab"> </space>
+            <space rend="tab"> </space>Et je créberois sur la place, </l>
+          <l>
+            <hi rend="i">Plutôt que n’aboir pas toûjours fendu</hi> la Glace. </l>
+        </lg>
+        <label rend="right sc">Le Varon D’Auvaine.</label>
+      </div>
+    </body>
+  </text>
+</TEI>
