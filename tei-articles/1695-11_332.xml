@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title></title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher></publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div>
+                <bibl><hi rend="italic">Mercure galant</hi>, novembre 1695, p. 332.</bibl>
+                <p>Je vous feray part le mois prochain, d’un voyage fait
+                        en Canada l’année derniere, et vous envoyeray le Plan d’un Fort dont les
+                        François se sont rendus maitres.</p>
+            </div>
+    </body>
+  </text>
+</TEI>

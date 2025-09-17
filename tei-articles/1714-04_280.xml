@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title></title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher></publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div>
+                <bibl><hi rend="italic">Nouveau Mercure galant</hi>, 
+                        avril 1714, p. 280-281.</bibl>
+                <p>Le 22 le Pere de Mornay Capucin, fut sacré Evesque d’Eumenie, et Coadjuteur 
+                    de Quebec, en l’Eglise des Capucins ruë S. Honoré, par le Cardinal de Rohan,
+                    Evesque de Strasbourg, Grand Aumosnier de France, assisté des Evesques de
+                    Viviers et de Lavaur.</p>
+            </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title></title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher></publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div>
+                <head>« Nouvelles d’Angleterre »</head>
+                <bibl><hi rend="italic">Mercure galant</hi>, février 1713, p.
+                        257-258.</bibl>
+                <p>Les Lettres de Baston dans la nouvelle Angleterre portent que le Capitaine
+                    Pidgeon et plusieurs autres Anglois, ayant été pris par les Indiens, avoient été
+                    retenus deux mois dans les Bois où ils avoient beaucoup souffert, mais
+                    qu’ayant esté conduits à Quebec ils y avoient esté bien traitez et renvoyez à
+                    Baston, où ils sont arrivez il y a quelques jours.</p>
+            </div>
+    </body>
+  </text>
+</TEI>

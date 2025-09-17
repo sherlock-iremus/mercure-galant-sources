@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title></title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher></publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div>
+                <head>« Nouvelles d’Espagne »</head>
+                <bibl><hi rend="italic">Mercure galant</hi>, avril 1712, p. 61-62.</bibl>
+                <p>Les Lettres du Gouverneur de la Havane dans l’Isle de
+                        Cuba, et celles des Magistrats de la mesme Ville, marquent que le Duc de
+                        Linarès Viceroy du Mexique a envoyé une somme considerable d’argent à sa
+                        Majesté, afin qu’elle pust s’en servir pour la campagne.</p>
+            </div>
+
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title></title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher></publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div>
+                <bibl><hi rend="italic">Mercure galant</hi>, mars 1712, p. 326.</bibl>
+                <p>On écrit de Galice que le sieur Ducasse est arrivé à la
+                        Corogne, après avoir échapé plusieurs perils, sur tout une furieuse tempeste
+                        depuis son départ de la Martinique. On dit que les Vaisseaux apportent la
+                        valeur de trente cinq à quarante millions de livres en or et en argent,
+                        outre les marchandises et autres effets.</p>
+            </div>
+    </body>
+  </text>
+</TEI>

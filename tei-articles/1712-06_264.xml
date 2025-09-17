@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title></title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher></publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div>
+                <head>« Nouvelles de Paris »</head>
+                <bibl><hi rend="italic">Mercure galant</hi>, juin 1712, p.
+                    264.</bibl>
+                <label><hi rend="italic">Nouvelles d’Angleterre</hi></label>
+                <p>[...]</p>
+                <p>Les Lettres de Lisbonne du 24 May portent qu’on y estoit en grande
+                    inquietude pour la Flotte du Bresil à cause de l’Escadre Françoise que commande
+                    le Capitaine Cassart.</p>
+
+            </div>
+
+    </body>
+  </text>
+</TEI>

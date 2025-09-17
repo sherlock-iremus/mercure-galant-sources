@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title></title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher></publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div>
+                <head>« Nouvelles curieuses de divers endroits »</head>
+                <bibl><hi rend="italic">Mercure galant</hi>, août 1693, p. 330.</bibl>
+                <p>M<hi rend="sup">r</hi> de Frontenac, Viceroy de Canada, a enlevé une des
+                        cinq Habitations des Iroquois, a fait plusieurs prisonniers, et les a forcez
+                        à luy demander la paix.</p>
+
+            </div>
+
+    </body>
+  </text>
+</TEI>

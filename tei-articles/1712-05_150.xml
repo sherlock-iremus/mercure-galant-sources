@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title></title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher></publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div>
+                <head>« Nouvelles »</head>
+                <bibl><hi rend="italic">Mercure galant</hi>, mai 1712, p.
+                        150-151.</bibl>
+                <p>On confirme que la Reine a envoyé ordre en Irlande de
+                        casser deux Regiments dont les Soldats seront incorporez en d’autres corps,
+                        que Sa Majesté a donné de pareils ordres pour reformer une partie des
+                        troupes qui sont en Angleterre et celles qui ont servi à l’expedition du
+                        Canada, afin de rendre complettes les Garnisons des places d’Ecosse au lieu
+                        de Regiments Ecossois qui y sont et qui doivent venir en
+                        Angleterre.</p>
+            </div>
+    </body>
+  </text>
+</TEI>

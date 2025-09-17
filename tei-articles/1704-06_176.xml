@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title></title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher></publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div>
+                <head>« Premieres Estampes de la Gallerie du Palais d’Orleans, dit
+                    Luxembourg »</head>
+                <bibl><hi rend="italic">Mercure galant</hi>, juin 1704, p. 176-177.</bibl>
+                <p>Je vous envoyai le mois passé la traduction d’une
+                        Lettre Espagnole de Dom Juan Baron<note
+                            xml:id="_ftn0" resp="editor" n="1"> « Varon » a été corrigé par
+                            « Baron ».</note> de Chavez, Gouverneur de
+                        l’Isle de Cuba, au Roy, touchant la prise des Isles de la Providence et de
+                        Siguatey dans le Canal de Bahama ; je vous promis en même temps de vous
+                        envoïer une Estampe de 1’Isle de la Providence, je m’acquite de ma parole,
+                        et vous l’envoye.</p>
+            </div>
+    </body>
+  </text>
+</TEI>

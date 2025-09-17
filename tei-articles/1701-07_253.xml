@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title></title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher></publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div>
+                <head>« M<hi rend="sup">r</hi> Ducasse est nommé Chef d’Escadre »</head>
+                <bibl><hi rend="italic">Mercure galant</hi>, juillet 1701,
+                    p. 253<hi rend="sup"><note xml:id="_ftn0" resp="editor" n="1"> Cet article est reproduit dans le cadre du
+                                projet « Mercure galant », sous le titre « Ce qui s’est passé
+                                pendant le sejour de Monseigneur, et de Monseigneur le Duc de
+                                Bourgogne à S. Maur », disponible en ligne sur <hi
+                                rend="italic">Obvil</hi>.</note></hi>.</bibl>
+                <p>Sa Majesté a nommé [...] M<hi rend="sup">r</hi> Ducasse, Gouverneur de
+                        l’Isle de Saint Domingue, pour estre Chef d’Escadre de ses Armées Navales et
+                        luy a donné ordre de se preparer pour retourner en Espagne, où Sa Majesté
+                        Catholique le souhaite. Il a de grandes lumieres, et est homme de bon
+                        conseil, et d’expedition et tres-capable de rendre des services
+                        importans.</p>
+            </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title></title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher></publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div>
+                <head>« Nouvelles de la Martinique »</head>
+                <bibl><hi rend="italic">Mercure galant</hi>, mars 1702,
+                    463-464.</bibl>
+                <p>On a des nouvelles de M<hi rend="sup">r</hi> de Chasteaurenaut par
+                        des lettres de la Martinique, datées du 12 de Février. Le Vaisseau le
+                        Mercure commandé par M<hi rend="sup">r</hi> le Chevalier de Rochefort, que l’on croyoit perdu,
+                        l’a joint, et est presentement en fort bon estat. M<hi rend="sup">r</hi> de Chasteaurenaut ayant
+                        sçu que M<hi rend="sup">r</hi> de Coëtlogon n’avoit pas amené la Flote de la Nouvelle Espagne, a
+                        resolu d’aller à la Havane avec vingt Vaisseaux seulement, et il en renvoye
+                        dix en France.</p>
+
+            </div>
+
+    </body>
+  </text>
+</TEI>

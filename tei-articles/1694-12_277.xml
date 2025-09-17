@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title></title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher></publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div>
+                <head>« Autre Article de Morts »</head>
+                <bibl><hi rend="italic">Mercure galant</hi>, décembre 1694, p. 277.</bibl>
+                <p>Messire Jean Talon, cy-devant Secretaire du Cabinet et
+                        Intendant en Canada, mourut sur la fin du mesme mois. Il étoit d’une probité
+                        reconnuë.</p>
+            </div>
+    </body>
+  </text>
+</TEI>

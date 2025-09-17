@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title></title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher></publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div>
+                <head>« Articles reservez »</head>
+                <bibl><hi rend="italic">Mercure galant</hi>, juin 1708,
+                    p. 433-434.</bibl>
+                <p>Il y a plus d’un mois qu’il arriva à la Rochelle
+                        une Flote de dix Vaisseaux François venant de la Martinique et de Saint
+                        Domingue. Ils sont remplis de plusieurs sortes de Marchandises, et l’on fait
+                        monter leur charge à près de trois millions. Cette Nouvelle est échapée à
+                        tous ceux qui travaillent aux Nouvelles publiques.</p>
+
+            </div>
+
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title></title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher></publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div>
+                <head>« Supplement »</head>
+                <bibl><hi rend="italic">Mercure galant</hi>, juin 1710, p. 263-264.</bibl>
+                <label>De Versailles le 20 Juin.</label>
+                <p>Le 20 Juin, on a reçu des Lettres de Bayone qui
+                        portoient qu’un Vaisseau venant de S. Jean de Luz y avoit amené une Fluste
+                        Hollandoise venant de Surinam, chargée de Sucre, d’Indigo, de Cacao,
+                        et d’autres Marchandises, estimées cent mille Ecus.</p>
+            </div>
+    </body>
+  </text>
+</TEI>

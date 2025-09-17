@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title></title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher></publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div>
+                <head>« Noms des Vaisseaux Anglois qui ont pery pendant la derniere
+                    tempeste »</head>
+                <bibl><hi rend="italic">Mercure galant</hi>, janvier 1690, p. 291-293.</bibl>
+                <p>Je vous envoye la Liste des Vaisseaux Ennemis qui ont peri pendant la derniere
+                    tempeste. Les chiffres marquent le nombre des Canons.</p>
+                <p>[...]</p>
+                <p>À Porsmouth [...] Une Caïque Angloise, de Virginie.</p>
+            </div>
+    </body>
+  </text>
+</TEI>

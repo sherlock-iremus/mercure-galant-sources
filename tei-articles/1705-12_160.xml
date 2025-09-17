@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title></title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher></publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div>
+                <head>« Second Article d’érudition »</head>
+                <bibl><hi rend="italic">Mercure galant</hi>, décembre 1705, p. 160-161.</bibl>
+                <p>On a donné cette année à Amsterdam une nouvelle
+                        édition de l’Histoire des Yncas Rois du Perou, contenant leur origine,
+                        depuis le premier <hi rend="italic">Ynca Manco
+                            Capac</hi><note xml:id="_ftn0" resp="editor" n="1">
+                            « Capoc » a été corrigé pour « Capac ».</note> ; leur établissement, leur idolatrie, leurs
+                        sacrifices, leurs conquêtes ; les merveilles du Temple du Soleil ; et tout
+                        l’état de ce grand Empire, avant que les Espagnols s’en rendissent maîtres :
+                        Avec une description des animaux, des fruits, des minéraux, des plantes,
+                        etc. Traduite de l’Espagnol de l’Ynca Garcillasso de la Vega, par
+                        J. Baudoüin.</p>
+            </div>
+    </body>
+  </text>
+</TEI>

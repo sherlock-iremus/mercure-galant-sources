@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title></title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher></publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div>
+                <head>« Trente-neuf Articles de ce qui s’est passé dans tous les endroits où nous
+                    avons la guerre, et même dans l’une et l’autre Mer »</head>
+                <bibl><hi rend="italic">Mercure galant</hi>, janvier 1709,
+                    p. 293.</bibl>
+                <p>Un Armateur de Biscaye a amené à Vigo un bâtiment Hollandois venant de la
+                    Jamaïque ; sa charge est estimée cent mille écus.</p>
+                <p>[...]</p>
+                <p>Les lettres de Londres du 22 Decembre portoient que les
+                        François avoient enlevé 12 bâtimens anglois sur la côte de Terre-Neuve,
+                        chargez de moruë ; et qu’ils avoient amené à S. Malo deux autres vaisseaux
+                        qui venoient de Guinée, et qui estoient richement chargez.</p>
+
+            </div>
+
+    </body>
+  </text>
+</TEI>

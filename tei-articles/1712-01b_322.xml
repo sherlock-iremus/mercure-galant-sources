@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title></title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher></publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div>
+                <head>« Dernieres nouvelles »</head>
+                <bibl><hi rend="italic">Mercure galant</hi>, janvier 1712, p. 322.</bibl>
+                <p>On a appris par un Vaisseau d’avis arrivé de la
+                        Martinique d’où il est parti le premier Decembre, que M<hi rend="sup">r</hi> Ducasse devoit en
+                        faire voile le 15 avec quattre Vaisseaux de guerre François qui l’y avoient
+                        joint.</p>
+            </div>
+    </body>
+  </text>
+</TEI>

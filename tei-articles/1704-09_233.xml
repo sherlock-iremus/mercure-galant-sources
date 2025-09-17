@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title></title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher></publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div>
+                <head>« Prises de deux Vaisseaux Anglois par M<hi rend="sup">r</hi> le Chevalier de S. Pol. »</head>
+                <bibl><hi rend="italic">Mercure galant</hi>, septembre 1704, p. 233-234.</bibl>
+                <p>M<hi rend="sup">r</hi> le Chevalier de saint Pol a répondu à l’attente que
+                        l’on avoit de sa conduite et de sa valeur, et après s’être mis en mer avec
+                        sa petite Escadre, qui estoit observée de tous costez, il n’a pas esté
+                        long-temps sans faire parler de luy. Il prit le 12 d’Aoust un Navire de
+                        guerre, Anglois de 32 Canons, nommé <hi
+                        rend="italic">Le Foye</hi> ; il
+                        avoit cent cinquante hommes, ou environ d’equipage ; c’étoit un des convois
+                        de la Flotte de Virginie, et il estoit commandé par le Capitaine Richard
+                        Browne.</p>
+            </div>
+    </body>
+  </text>
+</TEI>

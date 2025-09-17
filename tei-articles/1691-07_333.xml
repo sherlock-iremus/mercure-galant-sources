@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title></title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher></publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div>
+                <head>« Apostille concernant plusieurs nouvelles »</head>
+                <bibl><hi rend="italic">Mercure galant</hi>, juillet 1691, p. 333.</bibl>
+                <label>APOSTILLE<note xml:id="_ftn0"
+                    resp="editor" n="1"> « Apostile » a été corrigé par
+                        « Apostille ».</note>.</label>
+                <p>On vient d’apprendre que nostre Flote a pris onze
+                        Vaisseaux Marchands Anglois qui alloient à l’Amerique, escortez par trois
+                        Vaisseaux de guerre, l’un de quarante-huit Canons, un autre de trente-six,
+                        et le troisième de dix-huit, lesquels ont aussi esté pris.</p>
+            </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title></title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher></publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div>
+                <head>« Prise de cinq Vaisseaux Anglois »</head>
+                <bibl><hi rend="italic">Mercure galant</hi>, mai 1710,
+                    p. 291.</bibl>
+                <p>Nous apprenons, par les Anglois mesmes, puisque c’est par un Vaisseau arrivé en
+                    29 jours de la Jamaïque à Bristol, que quatre Vaisseaux de guerre François
+                    avoient pris <hi rend="italic">l’Heureux retour</hi>, Brigantin, et quatre
+                    autres Navires sur la Coste de Guinée, et que sur l’un de ces derniers il y
+                    avoit 500 Negres.</p>
+            </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title></title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher></publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div>
+                <head>« Nouvelles d’Espagne »</head>
+                <bibl><hi rend="italic">Mercure galant</hi>, avril 1713,
+                        p. 121-122.</bibl>
+                <p>Le Roy [d’Espagne] a fait envoyer cinquante mille écus en Biscaye, pour
+                    commencer à travailler à la construction de six Vaisseaux de guerre. Le Comte de
+                    Lexington a offert à Sa Majesté de la part de la Reine de la Grande Bretagne sa
+                    Maitresse, de lui fournir tous ceux dont il auroit besoin à son choix et à un
+                    prix très-modique qui seroit deduit sur ce que les Anglois lui doivent par le
+                    Traité fait avec eux, pour fournir des Negres à l’Amérique Espagnole.</p>
+            </div>
+    </body>
+  </text>
+</TEI>
