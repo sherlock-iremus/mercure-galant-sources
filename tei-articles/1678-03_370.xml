@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title></title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher></publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div>
+        <head>[Autre Enigme]</head>
+        <bibl><title>Mercure galant</title>, mars 1678 [tome 3], p. 370.</bibl>
+        <quote>
+          <label>AUTRE ENIGME.</label>
+          <lg>
+            <l rend="i">Mon Corps petit &amp; lourd n’aspire qu’à la terre.</l>
+            <l rend="i">Mon Chef grand &amp; leger s’éleve vers les Cieux.</l>
+            <l rend="i">Ceux qui m’aiment le plus, me font le plus de guerre ;</l>
+            <l rend="i">Et tant plus je leur plais, plus je m’éloigne d’eux.</l>
+          </lg>
+        </quote>
+      </div>
+      </body>
+  </text>
+</TEI>
