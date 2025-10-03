@@ -1,6 +1,24 @@
-<div type="article" xml:id="MG-1700-03_279">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title></title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher></publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div>
+      <div type="article" xml:id="MG-1700-03_279">
   <head>[Avis]</head>
   <bibl><title>Mercure galant</title>, mars 1700 [tome 3], p. 279-280.</bibl>
   <label rend="center">AVIS.</label>
   <p>Page 174 ligne 2 au lieu de <hi rend="i">surface</hi>, lisez <hi rend="i">face</hi>. L’espace d’un mois est si court pour l’impression d’un volume, qu’il ne faut pas s’étonner s’il s’y glisse quelquefois des fautes. On ne les marque pas, parce que l’on croit le Lecteur assez éclairé pour distinguer les fautes que l’Auteur pourroit avoir faites, d’avec celles de l’impression. Cependant on marque celle qui est à la teste cet Avis, parce que quelques uns pourroient croire qu’on a veritablement voulu mettre <hi rend="i">la surface d’une Medaille</hi>, ce qui ne se dit point.</p>
 </div>
+
