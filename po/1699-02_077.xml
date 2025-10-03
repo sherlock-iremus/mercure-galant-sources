@@ -1,4 +1,21 @@
-<div type="article" xml:id="MG-1699-02_077">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title></title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher></publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div>
+      <div type="article" xml:id="MG-1699-02_077">
   <head>[Recherche curieuse]</head>
   <bibl><title>Mercure galant</title>, février 1699 [tome 2], p. 77-102.</bibl>
   <p>Voicy une recherche curieuse sur l’origine du mot <hi rend="i">Redde</hi>, dont on se sert au Parlement de Bordeaux. Elle est d’un fort habile homme, dont je vous ay déja envoyé differens Traitez remplis d’érudition.</p>
@@ -31,3 +48,4 @@
     <p>On ne doit pas trouver étrange cette diversité de conjectures sur le mot de <hi rend="i">Redde</hi>, puis qu’il n’y en a guere moins entre les Saxons, sur l’Echiquier d’Angleterre, qui se nomme en Latin vulgaire <hi rend="i">Echicarium</hi>. Terrerius dit que cette Chambre Fiscale se nomme ainsi, parce que dans les procedures le Demandeur matte le Défendeur, ou le Défendeur matte le Demandeur, ce qu’il tire du mot des Echets, où tantost l’un, tantost l’autre est fait mat. Nicodius dit que l’<hi rend="i">Echiquier</hi> est ainsi nommé, parce qu’il y a diverses personnes dans cette chambre, comme il y a diverses pieces dans le jeu des Echets. Pithou & Chopin veulent que la Cour de l’Echiquier soit dénommée de la sorte d’un terme Allemand dont ils la dérivent, <hi rend="i">Schats</hi>, qui signifie <hi rend="i">tresor</hi> ; & d’autres veulent qu’elle ait eu le nom d’Echiquier à cause d’un Tapis que l’on met sur la Table, lequel estant marqué de plusieurs rayes tirées en longueur & en largeur, fait des quarrez qui ont la figure de ceux d’un Echiquier où l’on jouë, <hi rend="i">Quàm sunt incerti hominum animi</hi>, dit Ciceron. Je suis, &c.</p>
 </quote>
 </div>
+
