@@ -1,4 +1,21 @@
-<div type="article" xml:id="MG-1695-05_014">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title></title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher></publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div>
+      <div type="article" xml:id="MG-1695-05_014">
   <head>[Conversation Academique]</head>
   <bibl><title>Mercure galant</title>, mai 1695 [tome 5], p. 14-77.</bibl>
   <p>Voicy un nouvel Ouvrage de M<hi rend="sup">r</hi> de la Févrerie. Son nom seul en fait l’éloge, &amp; aprés avoir lû avec plaisir tous ceux qui ont paru dans mes Lettres sous son nom, comme vous me l’avez marqué plusieurs fois, vous ne pouvez estre que tres-favorablement prévenuë pour celuy-cy.</p>
@@ -23,3 +40,4 @@
     <p>Toute autre que vous, Madame, prendroit peu de plaisir à cette Relation ; mais comme je sçay que vous vous interessez dans tout ce qui regarde nostre illustre Abbé, vous serez peut-estre bien-aise d'apprendre de quelle maniere il passe icy le temps. Je voudrois qu'il se fust donné la peine de vous faire ce recit, il s'en seroit acquitté de meilleure grace, mais je puis vous assurer qu'il ne l'auroit pas fait avec plus de soin de vous plaire, puis qu'il n'y a personne qui soit avec plus de passion que moy, vostre tres, &amp;c.</p>
   </quote>
 </div>
+
