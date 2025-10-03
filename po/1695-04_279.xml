@@ -1,4 +1,21 @@
-<div type="article" xml:id="MG-1695-04_279">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title></title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher></publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div>
+      <div type="article" xml:id="MG-1695-04_279">
   <head>[Lettre qui fera raisonner le Lecteur]</head>
   <bibl><title>Mercure galant</title>, avril 1695 [tome 4], p. 279-284.</bibl>
   <p>Je vous envoye une Lettre qui a esté écrite sur la fin du mois passé, &amp; qui contient une chose aussi surprenante qu’extraordinaire. Je ne pretens point estre garant des circonstances qui y sont déduites. Le dernier fait est constant, &amp; chacun peut raisonner comme il luy plaira sur ce qui l’a précédé. On appelle communement <hi rend="i">Miliciens</hi> les Villageois que chaque Village fournit pour les Compagnies de Milice. Serry dont il est parlé dans cette Lettre est un Village à deux lieuës de Meaux.</p>
@@ -7,3 +24,4 @@
     <p rend="i">Vers le temps de la Pentecoste suivante, plusieurs Laboureurs labourant proche de cette Mare, entendirent en plein jour un homme se plaindre comme un mourant, sans rien voir. Une femme menant sa vache par la corde, estant allée la faire boire dans cette Mare, sentit une tres mauvaise odeur, sans rien voir non plus que les Laboureurs. Elle en fit son rapport dans le Village de Serry. On y alla, &amp; on trouva effectivernent le corps du Marchand dans la haye, la teste &amp; les bras au pied de ce Saule dont le Fantosme avoit parlé au Meunier. A cette nouvelle le Meunier a paru, &amp; a découvert la revelation du Fantosme. On luy a demandé pourquoy il n'en avoit rien dit dans le temps. Il a répondu qu’il avoit peur d’estre tué par les Miliciens, ce qu'ils auroient fait s’il eust declaré ce qu'il avoit appris du Fantosme. Le Milicien de Serry ayant entendu parler de cela, alla trouver le Garçon Meunier, &amp; luy fit quelques menaces de le tuer s'il ne gardoit le secret, luy disant que quand il auroit fait le coup, il n’y auroit pas un fort grand mal. Le Prevost des Maréchaux de Meaux ayant eu avis de cet homicide, a pris les Miliciens vers la fin du mois passé, &amp; après qu'ils ont esté mis dans les Prisons de Meaux, on a instruit le procés. Les Miliciens ont avoué qu’ils estoient les Auteurs du crime. On les condamna Jeudy passé à estre rompus, ce qui a esté executé.</p>
   </quote>
 </div>
+
