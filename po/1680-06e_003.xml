@@ -1,4 +1,21 @@
-<div type="article" xml:id="MG-1680-06e_003">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title></title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher></publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div>
+      <div type="article" xml:id="MG-1680-06e_003">
   <head>Conversation académique, À Madame la Comtesse de C.R.C.</head>
   <bibl><title>Extraordinaire du Mercure galant</title>, quartier d’avril 1680 (tome X), p. 3-31.</bibl>
   <label>CONVERSATION <lb/>ACADEMIQUE, <lb/>À MADAME LA COMTESSE <lb/>DE C. R. C.</label>
@@ -53,3 +70,4 @@
   <p>L’Abbé alloit continuer, &amp; l’on eust parlé des Talismans &amp; de la Poudre à Canon, &amp; terminé cette Conversation comme les grandes Festes, par un Feu d’artifice, lors qu’un Fâcheux arriva, qui ayant des affaires à communiquer à l’Abbé, obligea la Compagnie de se séparer. Je croy, Madame, que vous serez satisfaite de cette Conversation, &amp; que vous prendrez autant de plaisir à la lire, que j’en ay eu à l’entendre. Si cela est, je me sçauray gré de la fidelité de ma mémoire, qui m’a fourny l’occasion de vous divertir quelque temps, &amp; de vous marquer que je suis avec autant de passion que de respect, Vostre, &amp;c.</p>
   <label rend="right sc">De Marpalu.</label>
 </div>
+
