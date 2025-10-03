@@ -1,4 +1,21 @@
-<div type="article" xml:id="MG-1683-03e_259">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title></title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher></publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div>
+      <div type="article" xml:id="MG-1683-03e_259">
   <head>[Explication des Enigmes de l'Essieu et du Pot de Terre, XXIII]*</head>
   <bibl><title>Extraordinaire du Mercure Galant</title>, quartier de janvier [tome 21], 1683, p. 259.</bibl>
   <label rend="center">XXIII.</label>
@@ -13,3 +30,4 @@
     </lg>
   <label rend="right"><hi rend="sc">Sire Vindician</hi>, du <lb/>Mont S. Eloy.</label>
 </div>
+
