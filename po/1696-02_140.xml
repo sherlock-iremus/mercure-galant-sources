@@ -1,4 +1,21 @@
-<div type="article" xml:id="MG-1696-02_140">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title></title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher></publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div>
+      <div type="article" xml:id="MG-1696-02_140">
   <head>[Lettre sur les Inscriptions Françoises]</head>
   <bibl><title>Mercure galant</title>, février 1696 [tome 2], p. 140-152.</bibl>
   <p>Vous ne serez pas fâchée de voir ce qui a esté écrit sur les Inscriptions en Vers, &amp; sur une Phrase Françoise. Ce petit Traité est d’un homme habile, dont les ouvrages ont souvent eu place dans mes Lettres, &amp; toûjours avec succés.</p>
@@ -49,3 +66,4 @@
     <p>De plus, ce qu’on a voulu dire pour Loüis le Grand, dans cette Ode, approche en quelque façon d’une expression de Ciceron pour Cesar. C’est dans l’Oraison pour Marcellus. <hi rend="i">Tuas laudes obscuratura nulla unquam est oblivio</hi>. A suivre le Latin mot pour mot, <hi rend="i">Jamais aucun oubly ne pourra effacer vos loüanges</hi>. L’Orateur Romain donne icy un mouvement à l’oubli, en luy donnant comme un pinceau, non pas pour peindre, mais pour effacer. Je ne sçay si la cause que je défens est bonne ; je m’en rapporte aux Juges souverains de la Langue, &amp; je suis toujours, &amp;c.</p>
   </quote>
 </div>
+
