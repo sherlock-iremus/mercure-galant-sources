@@ -1,4 +1,21 @@
-<div type="article" xml:id="MG-1679-12e_032">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title></title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher></publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div>
+      <div type="article" xml:id="MG-1679-12e_032">
   <head>Quelle est l’origine des Langues, quelles sont le plus en usage, &amp; enfin quelle est la Langue matrice</head>
   <bibl><title>Extraordinaire du Mercure galant</title>, quartier d’octobre 1679 (tome VIII), p. 32-80.</bibl>
     <label rend="center i">Quelle est l’origine des Langues, quelles sont le plus en usage, &amp; enfin quelle est la Langue matrice.</label>
@@ -27,3 +44,4 @@
     <label rend="right">D.L.V.R.</label>
 
 </div>
+
