@@ -1,4 +1,21 @@
-<div type="article" xml:id="MG-1695-03_021">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title></title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher></publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div>
+      <div type="article" xml:id="MG-1695-03_021">
   <head>[Nouvelle Lettre sur le nom de Bordeaux]</head>
   <bibl><title>Mercure galant</title>, mars 1695 [tome 3], p. 21-48.</bibl>
   <p>Vous m’avez mandé que vous aviez peine à vous accommoder de la prononciation de <hi rend="i">Bourdeaux</hi>, par l’habitude que vous vous estiez faite de dire <hi rend="i">Bordeaux</hi>. Cela me fait croire que vous serez bien-aise de voir la réponse qui a esté faite à la Lettre dans laquelle on a tâché de prouver qu’il faut prononcer <hi rend="i">Bourdeaux</hi>.</p>
@@ -19,3 +36,4 @@
     <p>Mais enfin, Monsieur, pourquoy voulez-vous persuader que <hi rend="i">Bordeaux</hi> vienne de <hi rend="i">Burdigala</hi>, puis qu’il est plus naturel que <hi rend="i">Burdigala</hi>, ait esté formé de <hi rend="i">Bordeaux</hi>, cette Ville, comme je l’ay déja remarqué, ayant esté tres-considerable, suivant le témoignage de Strabon, dans le temps que les Romains y mirent le pied ? Ainsi le nom de <hi rend="i">Bordeaux</hi> imposé à la Ville par ceux qui la bastirent, estoit plus ancien que le Latin, <hi rend="i">Burdigala</hi>, auquel l’autre peut avoir donné la naissance, à moins de dire, Monsieur, s’il m’est permis de faire une étymologie à mon tour, pour favoriser vostre décision, que <hi rend="i">Burdigala</hi> est composé du mot Espagnol, <hi rend="i">Burgo</hi>, que vous employez dans vostre Lettre pour origine, &amp; qui signifie Bourg, &amp; de <hi rend="i">Gala</hi>, qui veut dire Propreté &amp; bonne grace ; de sorte que la Ville n’estant encore qu’une Bourgade dans son commencement, il se pourroit qu’elle fut appellée par ses Habitans, qui avoient eu sans doute commerce avec les Espagnols, &amp; qui parloient quelque peu leur langage, <hi rend="i">Burgo de Gala</hi>, c’est à dire, Bourg dont les Habitans estoient propres &amp; de bon air, &amp; par succession en retranchant <hi rend="i">go</hi>, on en fit <hi rend="i">Burdegala</hi>, qui est le mot Latin dont l’origine vous a assez occupé. Voilà, Monsieur, une étymologie heureuse, puis qu’elle a l’avantage de tomber dans vostre sens, &amp; elle ne convient pas mal aux Habitans de cette Ville, singulierement aux Femmes, n’y en ayant guere ailleurs qui se mettent plus proprement, ayant cette obligation au bon air quï luy est naturel, que dans des parures mediocres, elles paroissent plus que d’autres dans des habits magnifiques. Mais, Monsieur, puis que je vous donne une étymologie qui vous plaira sans doute, vous ferez bien cette justice au Public de luy passer celle de <hi rend="i">Bordeaux</hi>, &amp; de ne refuser pas à nos rivages, qui presentent à toutes les Nations un abord si agreable, l’honneur d’avoir donné le nom à nostre Ville. Si vous vous obstinez dans ce refus, craignez que les Nimphes de Garonne ne vous broüillent avec vostre Muse. Vous sçavez que les Nimphes sont favorites des Muses, &amp; que ces doctes Sœurs n’ont jamais plus de brillant &amp; plus de gayeté que sur le bord des eaux. Je suis, &amp;c.</p> 
   </quote>
 </div>
+
