@@ -1,6 +1,24 @@
-<div type="article" xml:id="MG-1695-01_341">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title></title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher></publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div>
+      <div type="article" xml:id="MG-1695-01_341">
   <head>[Enigmes]</head>
   <bibl><title>Mercure galant</title>, janvier 1695 [tome 1], p. 341-342.</bibl>
   <p>Le sens de l’Enigme du mois passé estoit l’<hi rend="i">Almanach</hi>, &amp; ceux qui ont trouvé ce mot, sont Mrs le Comte de Quermeno, l’Abbé ; la Tronche de Rouën ; Desalles, ancien Avocat au Presidial de Limoges ; le subtil Lourot ; l’Epictete François ; le Chevalier Pacifique ; le Solitaire de la ruë Vivien ; le beau Chirurgien de Blois ; le malheureux retenu chez luy ; le petit Cocq reveille-matin ; le Tabellion de Brie ; le gros Contrôleur ; l’Objet des trois Rivales. Mademoiselle Taillefort ; la belle Tontine &amp; sa charmante Sœur ; la Belle à l’Anagramme, Merite &amp; Loyauté ; la Nymphe Cornillau.</p>
   <p>On avertit qu’on a retranché quantité de noms, parce qu’il y en avoit de trop ridicules, &amp; d’autres qui semblent avoir esté faits exprés pour choquer les Particuliers qui les entendent. Il sera inutile à l’avenir d’en envoyer de cette nature.</p>
 </div>
+
