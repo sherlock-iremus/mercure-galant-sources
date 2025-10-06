@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+      <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -9,16 +9,13 @@
         <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
-        <p />
+        <p/>
       </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text>
-
-    <body>
-      <div>
-
-        <head>[Suite de la Relation des Revolutions arrivées à Siam]</head>
+    <body><div>
+      <head>[Suite de la Relation des Revolutions arrivées à Siam]</head>
         <bibl>
           <title>Mercure galant</title>, janvier 1695 [tome 1], p. 9-20. </bibl>
         <p>J’estois bien persuadé que ce que ma derniere Lettre contenoit des Revolutions de Siam,
