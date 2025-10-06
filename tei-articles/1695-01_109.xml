@@ -9,17 +9,12 @@
         <publisher></publisher>
       </publicationStmt>
       <sourceDesc>
-        <p />
+        <p/>
       </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text>
-
-    <body>
-      <div>
-
-        <head>[Question]</head>
-        <bibl>
+    <body><div>
           <title>Mercure galant</title>, janvier 1695 [tome 1], p. 109-122. </bibl>
         <p>Il me souvient, Madame, que je vous ay oüy demander autrefois, s’il faloit dire <hi
             rend="i">Bordeaux</hi> ou <hi rend="i">Bourdeaux</hi>, en parlant de la Ville Capitale,
