@@ -14,10 +14,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-
     <body>
       <div>
-
         <head>[Recherche curieuse]</head>
         <bibl>
           <title>Mercure galant</title>, février 1699 [tome 2], p. 77-102. </bibl>
@@ -215,7 +213,7 @@
             qu’elle ait eu le nom d’Echiquier à cause d’un Tapis que l’on met sur la Table, lequel
             estant marqué de plusieurs rayes tirées en longueur & en largeur, fait des quarrez qui
             ont la figure de ceux d’un Echiquier où l’on jouë, <hi rend="i">Quàm sunt incerti
-            hominum animi</hi>, dit Ciceron. Je suis, &c.</p>
+            hominum animi</hi>, dit Ciceron. Je suis, &amp;c.</p>
         </quote>
       </div>
     </body>
