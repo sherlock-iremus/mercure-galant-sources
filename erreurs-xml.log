@@ -1,174 +1,39 @@
+./tei-articles/1680-08_241.xml:239: parser error : Opening and ending tag mismatch: div line 18 and p
+</p>
+    ^
+./tei-articles/1680-08_241.xml:240: parser error : Opening and ending tag mismatch: body line 17 and div
+      </div>
+            ^
+./tei-articles/1680-08_241.xml:241: parser error : Opening and ending tag mismatch: text line 16 and body
+      </body>
+             ^
+./tei-articles/1680-08_241.xml:242: parser error : Opening and ending tag mismatch: TEI line 2 and text
+  </text>
+         ^
 ./tei-articles/1680-08_241.xml:243: parser error : Extra content at the end of the document
-</body>
-^
-./tei-articles/1686-02b_145.xml:21: parser error : error parsing attribute name
-                <p>Lorsque je vous manday il y a quelques mois, qu’on avoit d�
-                ^
-./tei-articles/1686-02b_145.xml:21: parser error : attributes construct error
-                <p>Lorsque je vous manday il y a quelques mois, qu’on avoit d�
-                ^
-./tei-articles/1686-02b_145.xml:21: parser error : Couldn't find end of Start Tag hi line 19
-                <p>Lorsque je vous manday il y a quelques mois, qu’on avoit d�
-                ^
-./tei-articles/1686-02b_145.xml:25: parser error : Opening and ending tag mismatch: bibl line 19 and div
-        </div>
-              ^
-./tei-articles/1686-02b_145.xml:26: parser error : Opening and ending tag mismatch: div line 17 and body
-        </body>
-               ^
-./tei-articles/1686-02b_145.xml:27: parser error : Opening and ending tag mismatch: body line 17 and text
-    </text>
-           ^
-./tei-articles/1686-02b_145.xml:28: parser error : Opening and ending tag mismatch: text line 16 and TEI
 </TEI>
-      ^
-./tei-articles/1686-02b_145.xml:32: parser error : Premature end of data in tag TEI line 2
-
 ^
-./tei-articles/1695-01_009.xml:1: parser error : XML declaration allowed only at the start of the document
-      <?xml version='1.0' encoding='UTF-8'?>
-           ^
 ./tei-articles/1695-01_009.xml:35: parser error : xmlParseEntityRef: no name
 ray aux portes de Louvo un Mandarin qui me vint complimenter de la part du Roy, 
                                                                                ^
-./tei-articles/1695-01_109.xml:80: parser error : EntityRef: expecting ';'
-   François, car on le trouve dans Ausone,</hi> Burdigala est natale solum, &c.
+./tei-articles/1695-01_109.xml:18: parser error : Opening and ending tag mismatch: div line 17 and bibl
+        <title>Mercure galant</title>, janvier 1695 [tome 1], p. 109-122. </bibl
                                                                                ^
-./tei-articles/1695-01_109.xml:120: parser error : EntityRef: expecting ';'
-            Bourges, &c. Le Palais du Roy,</hi> Lupara<hi
-                        ^
-./tei-articles/1695-01_109.xml:192: parser error : EntityRef: expecting ';'
-              Bouhours un Entretien. Je suis, &c.</hi>
-                                                 ^
-./tei-articles/1699-02_077.xml:33: parser error : xmlParseEntityRef: no name
-              rend="i">quibus & venisset ab oris</hi>, on ne se trouva point pre
-                               ^
-./tei-articles/1699-02_077.xml:33: parser error : xmlParseEntityRef: no name
-d="i">quibus & venisset ab oris</hi>, on ne se trouva point prest sur le sujet, 
+./tei-articles/1695-01_109.xml:189: parser error : Opening and ending tag mismatch: body line 17 and div
+      </div>
+            ^
+./tei-articles/1695-01_109.xml:190: parser error : Opening and ending tag mismatch: text line 16 and body
+    </body>
+           ^
+./tei-articles/1695-01_109.xml:191: parser error : Opening and ending tag mismatch: TEI line 2 and text
+  </text>
+         ^
+./tei-articles/1695-01_109.xml:192: parser error : Extra content at the end of the document
+</TEI>
+^
+./tei-articles/1699-02_077.xml:31: parser error : xmlParseEntityRef: no name
+">quibus &amp; venisset ab oris</hi>, on ne se trouva point prest sur le sujet, 
                                                                                ^
-./tei-articles/1699-02_077.xml:34: parser error : xmlParseEntityRef: no name
-      il fut dit qu’à l’exemple de Pasquier, qui avoit fait de sçavantes &
-                                                                               ^
-./tei-articles/1699-02_077.xml:44: parser error : xmlParseEntityRef: no name
-            eriperet, & animos
-                       ^
-./tei-articles/1699-02_077.xml:48: parser error : xmlParseEntityRef: no name
-              rend="i">Stile du Parlement de Bordeaux</hi>, & on nous a laissé 
-                                                             ^
-./tei-articles/1699-02_077.xml:49: parser error : xmlParseEntityRef: no name
-            ce nom, qu’on donne à la derniere Audience avant la Feste, & dans
-                                                                           ^
-./tei-articles/1699-02_077.xml:60: parser error : xmlParseEntityRef: no name
-            ainsi dire, de quelle race il descend, & pourquoy on a ainsi nommé 
-                                                    ^
-./tei-articles/1699-02_077.xml:67: parser error : xmlParseEntityRef: no name
- du Procureur General du Parlement de Guienne. De plus, c’est un mot public, &
-                                                                               ^
-./tei-articles/1699-02_077.xml:70: parser error : xmlParseEntityRef: no name
-            tomber des mains le glaive de la Justice, & ne s’occupe qu’à ch
-                                                       ^
-./tei-articles/1699-02_077.xml:75: parser error : xmlParseEntityRef: no name
-              rhede</hi>, & de la convenance qu’il peut avoir avec la delivran
-                           ^
-./tei-articles/1699-02_077.xml:82: parser error : xmlParseEntityRef: no name
-          <p>Jusques icy la découverte n’en a point esté faite, & quelque so
-                                                                     ^
-./tei-articles/1699-02_077.xml:87: parser error : xmlParseEntityRef: no name
-            s’attache à déchifrer ces Inscriptions antiques, & qu’on y fai
-                                                                  ^
-./tei-articles/1699-02_077.xml:88: parser error : xmlParseEntityRef: no name
-            essayer de même à penetrer le mot de <hi rend="i">Rhede</hi>, & pa
-                                                                             ^
-./tei-articles/1699-02_077.xml:90: parser error : xmlParseEntityRef: no name
-          <p>On demeure d’accord qu’autrefois on parloit Latin au Palais, & 
-                                                                               ^
-./tei-articles/1699-02_077.xml:94: parser error : xmlParseEntityRef: no name
-   depuis ce temps-là est délivrée d’une Langue moins Latine que Romaine, &
-                                                                               ^
-./tei-articles/1699-02_077.xml:101: parser error : xmlParseEntityRef: no name
-              valuerunt, ut rheda & petoridum quoque, quorum altero Cicero tamen
-                                   ^
-./tei-articles/1699-02_077.xml:104: parser error : xmlParseEntityRef: no name
-   alors élevez comme sur un char, ils descendent de leur Tribunal ordinaire, &
-                                                                               ^
-./tei-articles/1699-02_077.xml:106: parser error : xmlParseEntityRef: no name
-            triomphoient, entroient dans Rome, & que leur Char commençoit à to
-                                                ^
 ./tei-articles/1699-02_077.xml:107: parser error : xmlParseEntityRef: no name
-            Capitole, on envoyoit en prison les Captifs, & on les y faisoit mour
-                                                          ^
-./tei-articles/1699-02_077.xml:109: parser error : xmlParseEntityRef: no name
-              flectere incipiunt, illos duci in carcerem jubent, qui dies, & vic
-                                                                            ^
-./tei-articles/1699-02_077.xml:109: parser error : xmlParseEntityRef: no name
-ctere incipiunt, illos duci in carcerem jubent, qui dies, & victoribus Imperii, 
+e incipiunt, illos duci in carcerem jubent, qui dies, &amp; victoribus Imperii, 
                                                                                ^
-./tei-articles/1699-02_077.xml:123: parser error : xmlParseEntityRef: no name
-            & par la même contraction on a pû joignant le mot Latin avec <hi r
-             ^
-./tei-articles/1699-02_077.xml:128: parser error : xmlParseEntityRef: no name
-            jours de grace, qui secouroient ceux qui estoient dans les fers ; & 
-                                                                               ^
-./tei-articles/1699-02_077.xml:135: parser error : xmlParseEntityRef: no name
-       cas de remission, <hi rend="i">redeat</hi>, qu’il retourne chez luy ; &
-                                                                               ^
-./tei-articles/1699-02_077.xml:136: parser error : xmlParseEntityRef: no name
-            Systole, <hi rend="i">rede</hi> ; & quoy que la Tournelle prononce a
-                                               ^
-./tei-articles/1699-02_077.xml:144: parser error : xmlParseEntityRef: no name
-            </hi> au Palais ; mais on ne les interroge point, & on se contente d
-                                                               ^
-./tei-articles/1699-02_077.xml:148: parser error : xmlParseEntityRef: no name
-              rend="i">Redde</hi>, où l’on a intention de délivrer & d’ouv
-                                                                        ^
-./tei-articles/1699-02_077.xml:157: parser error : xmlParseEntityRef: no name
-            Alors la Justice fait un acte de Religion & de pieté en délivrant 
-                                                       ^
-./tei-articles/1699-02_077.xml:158: parser error : xmlParseEntityRef: no name
-            qu’elle ne feroit pas, si elle s’en tenoit aux Loix & aux Ordonn
-                                                                     ^
-./tei-articles/1699-02_077.xml:161: parser error : xmlParseEntityRef: no name
-              modicum beneficium existimaverunt antiqui, pietatis & religionis c
-                                                                   ^
-./tei-articles/1699-02_077.xml:162: parser error : xmlParseEntityRef: no name
-            à carcere, & veluti
-                         ^
-./tei-articles/1699-02_077.xml:163: parser error : xmlParseEntityRef: no name
-              poenam illis levare & remittere, si gravium criminum rei non sint,
-                                   ^
-./tei-articles/1699-02_077.xml:169: parser error : xmlParseEntityRef: no name
-            d’en ajoûter, d’en retrancher, & d’en faire une transposition
-                                                 ^
-./tei-articles/1699-02_077.xml:170: parser error : xmlParseEntityRef: no name
-            & sans aucun changement pour le mot de <hi rend="i">redde</hi>, & le
-             ^
-./tei-articles/1699-02_077.xml:170: parser error : xmlParseEntityRef: no name
-            & sans aucun changement pour le mot de <hi rend="i">redde</hi>, & le
-                                                                             ^
-./tei-articles/1699-02_077.xml:175: parser error : xmlParseEntityRef: no name
-      faisant oster les fers avec lesquels ils estoient venus à l’Audience, &
-                                                                               ^
-./tei-articles/1699-02_077.xml:177: parser error : xmlParseEntityRef: no name
-nt dehors quelques prisonniers qu’elle détenoit avec un droit d’autorité &
-                                                                               ^
-./tei-articles/1699-02_077.xml:178: parser error : xmlParseEntityRef: no name
-            procedure, & dont elle ne se relâche, que parce que la Feste exige 
-                        ^
-./tei-articles/1699-02_077.xml:184: parser error : xmlParseEntityRef: no name
-            formellement & à la lettre ce que 1’on cherche. J’ay lû Redden
-                          ^
-./tei-articles/1699-02_077.xml:197: parser error : xmlParseEntityRef: no name
-            au Pouchus Aquitanique, & qui y chargent grand nombre de vins de la 
-                                     ^
-./tei-articles/1699-02_077.xml:212: parser error : xmlParseEntityRef: no name
-            diverses pieces dans le jeu des Echets. Pithou & Chopin veulent que 
-                                                            ^
-./tei-articles/1699-02_077.xml:214: parser error : xmlParseEntityRef: no name
-              rend="i">Schats</hi>, qui signifie <hi rend="i">tresor</hi> ; & d�
-                                                                             ^
-./tei-articles/1699-02_077.xml:216: parser error : xmlParseEntityRef: no name
-            estant marqué de plusieurs rayes tirées en longueur & en largeur, 
-                                                                   ^
-./tei-articles/1699-02_077.xml:218: parser error : EntityRef: expecting ';'
-            hominum animi</hi>, dit Ciceron. Je suis, &c.</p>
-                                                         ^
