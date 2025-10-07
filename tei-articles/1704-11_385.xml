@@ -16,7 +16,7 @@
   <text>
     <body><div>
                 <head>« Article concernant des agréments de Regimens donnez par le Roy, ainsi que
-                    des Gouvernemens et des Pensions »</head>
+                    des Gouvernemens &amp; des Pensions »</head>
                 <bibl><hi rend="italic">Mercure galant</hi>, novembre 1704, p. 385-386.</bibl>
                 <p>M<hi rend="sup">r</hi> de Beauharnois, Intendant en Canada, a esté nommé
                         Intendant general de la Marine, à la place de feu M<hi rend="sup">r</hi> d’Herbaut. M<hi rend="sup">r</hi> de
@@ -27,6 +27,7 @@
                         rappelle pour remplir un employ plus considérable.</p>
 
             </div>
+
 
     </body>
   </text>
