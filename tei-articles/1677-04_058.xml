@@ -43,7 +43,7 @@
                     Combat.</p>
                 <label> <hi rend="smallcaps">Lieutenans.</hi></label>
                 <p>M. de Montmoron.</p>
-                <p>M. le Chevalier d’Arvaux : Il a commandé un Détachement de cinquante Hommes, et
+                <p>M. le Chevalier d’Arvaux : Il a commandé un Détachement de cinquante Hommes, &amp;
                     s’est acquis beaucoup de gloire.</p>
                 <p>M. de Monbant : Il a esté blessé d’un coup de Pique à la teste. </p>
                 <p>M. d’Haire.</p>
@@ -70,7 +70,7 @@
     <label><hi rend="smallcaps">Capitaines.</hi></label>
                 <p>M. Faucher.</p>
                 <p>M. de Grand-Fontaine : Il a fait des actions surprenantes ; &amp; quoy qu’il fust
-                    assez blessé pour se retirer du Combat, il a toûjours donné ses ordres, et
+                    assez blessé pour se retirer du Combat, il a toûjours donné ses ordres, &amp;
                     poussé son Attaque avec une vigueur extraordinaire. </p>
                 <label><hi rend="smallcaps">Lieutenans.</hi></label>
                 <p>M. de Champigny.</p>
@@ -111,7 +111,7 @@
                 <p>M. Lhonnoré. </p>
                 <p>M. de l’Isle.</p>
                 <p>M. de la Boissiere : Il commandoit une Barque longue qui devoit soûtenir les
-                    Chaloupes, &amp; retourner en suite en Garde à la teste des grands Vaisseaux, et
+                    Chaloupes, &amp; retourner en suite en Garde à la teste des grands Vaisseaux, &amp;
                     apres le Combat il est entré dans la Riviere d’Aproüague, avec M. Bourdet
                     commandant le Vaisseau nommé la Fée, pour y ruiner le commencement de la Colonie
                     que les Hollandois y ont établie.</p>
@@ -152,7 +152,7 @@
                     demeura prisonnier de guerre, avec toute la Garnison. On ne peut assez donner de
                     loüanges à M. le Comte d’Estrées ; il a fait voir non seulement beaucoup de
                     prudence &amp; de conduite dans les ordres qu’il a donnez, mais encor beaucoup de
-                    valeur dans l’execution d’une entreprise qu’il avoit si heureusement meditée, et
+                    valeur dans l’execution d’une entreprise qu’il avoit si heureusement meditée, &amp;
                     dont il est venu à bout en si peu de temps, avec une vigueur qui ne peut trouver
                     d’exemple que parmy les François.</p>
             </div>
@@ -161,3 +161,4 @@
     </body>
   </text>
 </TEI>
+
