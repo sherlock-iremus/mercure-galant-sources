@@ -15,8 +15,8 @@
   </teiHeader>
   <text>
     <body><div>
-                <head>Voyage &amp; retour de M. le Comte d’Estrées</head>
-                <bibl><hi rend="italic">Mercure galant</hi>, novembre 1679, p. 190-205. </bibl>
+                
+                
                 <p>Vous sçavez celuy [le retour] de M<hi rend="sup">r</hi> le Comte d’Estrées, Vice-Amiral de France. Je
                     vous en aurois déja parlé, si je n’eusse voulu en mesme temps vous entretenir de
                     son Voyage. C’est seulement depuis quelques jours que les particularitez m’en
@@ -113,4 +113,3 @@
     </body>
   </text>
 </TEI>
-

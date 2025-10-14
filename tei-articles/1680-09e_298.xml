@@ -15,9 +15,9 @@
   </teiHeader>
   <text>
     <body><div>
-        <head resp="editor">Vue de la Plaza de Santo Domingo, dite de la Cevada</head>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1680 [tome XI],
-          p. 298.</bibl>
+
+        
+
         <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : La
           Figure où est écrit, <hi rend="i">Vista de la Fuente y Plazuela de la Cavada de
             Madrid</hi>, doit regarder la page 298.</note>

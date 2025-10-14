@@ -15,8 +15,8 @@
   </teiHeader>
   <text>
     <body><div>
-                <head>« Eveschez donnez par le Roy »</head>
-                <bibl><hi rend="italic">Mercure galant</hi>, juin 1681, p. 247-254.</bibl>
+                
+                
                 <p>Il y a eu plusieurs Eveschez donnez. Le Pere Germain
                     Allart<hi rend="sup "><note xml:id="_ftn0" resp="editor"
                             n="1"> Se référer à la notice de G.-M. Dumas
@@ -72,4 +72,3 @@
     </body>
   </text>
 </TEI>
-

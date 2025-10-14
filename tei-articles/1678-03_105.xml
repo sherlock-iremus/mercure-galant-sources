@@ -15,10 +15,10 @@
   </teiHeader>
   <text>
     <body><div>
-                <head>Relation de la Cayenne, de la prise du Fort d’Orange, de l’Isle de Gorée, &amp;
+                
                     de ce qui s’est passé à Tabago, avec tous les Noms des Officiers des
-                    Vaisseaux</head>
-                <bibl><hi rend="italic">Mercure galant</hi>, mars 1678, p. 105-171.</bibl>
+
+                
                 <p>Comme les avantages de la France vous touchent en quelque lieu que nous les
                     remportions, vous voudrez bien me permettre de vous mener au dela des Mers. J’ay
                     à vous parler de la ruine des Habitations qui appartenoient aux Hollandois sur
@@ -434,4 +434,3 @@
     </body>
   </text>
 </TEI>
-

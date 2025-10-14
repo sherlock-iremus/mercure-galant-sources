@@ -15,9 +15,9 @@
   </teiHeader>
   <text>
     <body><div>
-                <head>« Nouvelles Expeditions de Mer »</head>
-                <bibl><hi rend="italic">Mercure galant</hi>, mai 1710,
-                    p. 257-263.</bibl>
+                
+                
+
                 <label>De S. Malo le 9 May 1710</label>
                 <p>[...]</p>
                 <p><hi rend="italic">La Couronne</hi> Corsaire de S. Malo y a amené un
@@ -51,4 +51,3 @@
     </body>
   </text>
 </TEI>
-

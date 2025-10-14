@@ -15,8 +15,8 @@
   </teiHeader>
   <text>
     <body><div>
-                <head>« Article des Morts »</head>
-                <bibl><hi rend="italic">Mercure galant</hi>, septembre 1682 (partie 2), p. 282-285.</bibl>
+                
+                
                 <p>M<hi rend="sup">r</hi> Poitevin, Curé de Saint Josse, est mort aussi dans
                         ce mois. Sa naissance estoit illustre. Feu M<hi rend="sup">r</hi> Poitevin son Pere, ayant esté
                         Premier président à la Cour des Monnoyes, a eu de tres-beaux Emplois dans
@@ -46,4 +46,3 @@
     </body>
   </text>
 </TEI>
-

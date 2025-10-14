@@ -15,10 +15,10 @@
   </teiHeader>
   <text>
     <body><div>
-                <head>« Article de Morts, parmi lesquelles il s’en trouve de
-                    tres-édifiantes »</head>
-                <bibl><hi rend="italic">Mercure galant</hi>, février 1710,
-                    p. 157-159.</bibl>
+                
+
+                
+
                 <p>M<hi rend="sup">r</hi> le Baron de Mean, grand Doyen du Chapitre de la
                         Cathedrale de Liege est mort dans une de ses Terres. [...] M<hi rend="sup">r</hi> le Baron
                         de Mean avoit esté échangé depuis peu avec M<hi rend="sup">r</hi> de Saint-Vallier Evêque de
@@ -32,4 +32,3 @@
     </body>
   </text>
 </TEI>
-

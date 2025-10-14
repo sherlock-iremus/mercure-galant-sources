@@ -15,9 +15,9 @@
   </teiHeader>
   <text>
     <body><div>
-    <head resp="editor">Publication d'une vue du palais du Prado</head>
-    <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1681 [tome XIII],
-     p. 296.</bibl><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : La Figure où
+
+    
+<note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : La Figure où
       est représentée la <hi rend="i">Casa Real del Pardo</hi>, doit regarder la page
       296.</note>
     <p><hi rend="i">La seconde Planche que je vous envoye, vous ofre la Veuë de l’autre Maison

@@ -15,8 +15,8 @@
   </teiHeader>
   <text>
     <body><div>
-        <head>Dialogue du Fleuret &amp; de l’Epée</head>
-        <bibl><title>Mercure galant</title>, juin 1678 [tome 6], non paginé.</bibl>
+        
+        
         <castList>
           <castItem xml:id="le-fleuret"/>
           <castItem xml:id="l-epee"/>

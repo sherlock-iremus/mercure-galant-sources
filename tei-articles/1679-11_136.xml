@@ -15,8 +15,8 @@
   </teiHeader>
   <text>
     <body><div>
-                <head>« Découverte des Mines de Puno dans le Pérou »</head>
-                <bibl><hi rend="italic">Mercure galant</hi>, novembre 1679, p. 136-159.</bibl>
+                
+                
                 <p>Je ne doute point que vous n’ayez entendu parler des fameuses Mines de Puno,
                     découvertes depuis quelque temps dans le Pérou, mais vous ne sçavez peut estre
                     pas de quelle maniere elles ont esté trouvées. Je vay vous l’apprendre en peu de
@@ -163,4 +163,3 @@
     </body>
   </text>
 </TEI>
-
