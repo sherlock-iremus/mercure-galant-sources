@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
+    <body>
+      <div>
         <quote>
-          <label>EPIGRAMME 35. du mesme<lb/>Autheur ; ou Hymne à l’honneur<lb/>de Diane, qui
-            commence<lb/>par <hi rend="i">Dianæ sumus in fide, &amp;c.</hi></label>
+          <label>EPIGRAMME 35. du mesme<lb/>Autheur ; ou Hymne à l’honneur<lb/>de Diane, qui commence<lb/>par <hi rend="i">Dianæ sumus in fide, &amp;c.</hi></label>
           <lg>
             <l rend="i"> Jeunes Filles, jeunes Garçons,</l>
             <l rend="i">Nous qui dans nos desirs n’avons rien de profane,</l>
@@ -63,17 +61,8 @@
           </lg>
         </quote>
         <p/>
-        <p>L’Autheur de ces agreables Traductions, est le mesme dont je vous ay envoyé plusieurs
-          Ouvrages, sous le nom du Fils d’un Auditeur des Comptes de Dijon. Il s’appelle M<hi rend="sup">r</hi> Moreau, &amp; fut reçeu il y a deux mois Conseiller-Auditeur en la
-          Chambre des Comptes de Paris. Feu M<hi rend="sup">r</hi> Moreau son Pere, d’un mérite
-          &amp; d’une probité connuë, avoit exercé la mesme Charge pendant beaucoup d’années en la
-          Chambre des Comptes de Bourgogne ; &amp; M<hi rend="sup">r</hi> Moreau son Frere y remplit
-          actuellement celle d’Avocat General avec beaucoup d’approbation &amp; de gloire. Les
-          galantes Pieces que vous avez veuës de luy, ont esté faites pour une jeune &amp; aimable
-          Veuve, qu’il a enfin épousée apres une constance de pres de trois ans. J’ay crû ne pouvoir
-          mieux satisfaire l’envie que vous m’avez souvent témoignée d’apprendre son nom, que par
-          l’éclaircissement que je vous donne.</p>
+        <p>L’Autheur de ces agreables Traductions, est le mesme dont je vous ay envoyé plusieurs Ouvrages, sous le nom du Fils d’un Auditeur des Comptes de Dijon. Il s’appelle M<hi rend="sup">r</hi> Moreau, &amp; fut reçeu il y a deux mois Conseiller-Auditeur en la Chambre des Comptes de Paris. Feu M<hi rend="sup">r</hi> Moreau son Pere, d’un mérite &amp; d’une probité connuë, avoit exercé la mesme Charge pendant beaucoup d’années en la Chambre des Comptes de Bourgogne ; &amp; M<hi rend="sup">r</hi> Moreau son Frere y remplit actuellement celle d’Avocat General avec beaucoup d’approbation &amp; de gloire. Les galantes Pieces que vous avez veuës de luy, ont esté faites pour une jeune &amp; aimable Veuve, qu’il a enfin épousée apres une constance de pres de trois ans. J’ay crû ne pouvoir mieux satisfaire l’envie que vous m’avez souvent témoignée d’apprendre son nom, que par l’éclaircissement que je vous donne.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

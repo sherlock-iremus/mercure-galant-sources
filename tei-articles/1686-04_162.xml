@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Je vous ay appris celle de M<hi rend="sup">r</hi> le Comte de Madaillan. Voicy des Vers
-          qu’il a presentez à Sa Majesté depuis ce temps-là. Ils en ont esté fort bien receus, &amp;
-          on les a lûs à la Cour avec applaudissement.</p>
+    <body>
+      <div>
+        <p>Je vous ay appris celle de M<hi rend="sup">r</hi> le Comte de Madaillan. Voicy des Vers qu’il a presentez à Sa Majesté depuis ce temps-là. Ils en ont esté fort bien receus, &amp; on les a lûs à la Cour avec applaudissement.</p>
         <quote>
           <label>AU ROY.</label>
           <lg>
@@ -75,6 +72,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

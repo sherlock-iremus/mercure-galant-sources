@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,9 +14,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Voicy des Vers qui ont esté faits sur la These qui a donné lieu à cet article.</p>
         <quote>
           <label>À M<hi rend="sup">r</hi> L’ABBÉ D’ESTAMPES.</label>
@@ -85,8 +84,7 @@
             <l>Vange au pied de Cassel l’équité de ses droits.</l>
             <l>Immortel monument où sa Victoire trace</l>
             <l>Un chemin aux Exploits d’un Heros qui l’efface,</l>
-            <l>Et dont sur <note resp="author"><hi rend="i">La Campagne de Monsieur,
-                  en Bretagne.</hi></note> l’Ennemy, le nom couvrant nos Ports,</l>
+            <l>Et dont sur <note resp="author"><hi rend="i">La Campagne de Monsieur, en Bretagne.</hi></note> l’Ennemy, le nom couvrant nos Ports,</l>
             <l>Rejetta la terreur qui menaçoit nos bords.</l>
             <l>Luy-même rappellant sa sanglante défaite</l>
             <l>Le Batave éperdu ménage sa retraite,</l>
@@ -111,6 +109,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Le Regne de <hi rend="sc">Loüis le Grand</hi> nous a tellement accoûtumez aux Prodiges,
-          que si nous ne cessons pas de les admirer, nous cessons du moins d’en estre surpris. Ces
-          miracles qui commencent à devenir si communs pour nous, ont fait faire le Sonnet qui suit.
-          Je ne vous l’envoye pas seulement pour la matiere, mais parce qu’il enferme un mistere de
-          galanterie qu’il ne m’est pas encor permis de vous éclaircir. Comme il doit avoir de la
-          suite, &amp; que je ne doute pas que l’Autheur ne m’en fasse part, je vous apprendray
-          l’Avanture entiere, &amp; vous connoistrez alors que mes Lettres produisent quelquefois
-          d’autres effets que celuy de vous divertir.</p>
+    <body>
+      <div>
+        <p>Le Regne de <hi rend="sc">Loüis le Grand</hi> nous a tellement accoûtumez aux Prodiges, que si nous ne cessons pas de les admirer, nous cessons du moins d’en estre surpris. Ces miracles qui commencent à devenir si communs pour nous, ont fait faire le Sonnet qui suit. Je ne vous l’envoye pas seulement pour la matiere, mais parce qu’il enferme un mistere de galanterie qu’il ne m’est pas encor permis de vous éclaircir. Comme il doit avoir de la suite, &amp; que je ne doute pas que l’Autheur ne m’en fasse part, je vous apprendray l’Avanture entiere, &amp; vous connoistrez alors que mes Lettres produisent quelquefois d’autres effets que celuy de vous divertir.</p>
         <quote>
           <label rend="center">Sur les</label>
           <label rend="center">Conquestes</label>
@@ -58,6 +50,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

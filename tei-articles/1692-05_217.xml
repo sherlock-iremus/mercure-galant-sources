@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,24 +14,16 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
-        <p><note resp="author">La Medaille doit regarder la page 218.</note>Comme je vous envoye tous les mois de differentes Medailles sur les actions du Roy sans
-          m’assujettir à garder l’ordre des temps qu’elles ont esté frapées, je croy vous en pouvoir
-          aujourd’huy envoyer une qui regarde l’Isle de Madagascar, aprés vous avoir fait part d’un
-          Combat donné vers les Isles. La face droite de cette Medaille represente le Roy comme font
-          toutes les autres &amp; dans le revers il y a un Bœuf du Pays auprés d’un Arbre, avec ces
-          mots.</p>
+    <body>
+      <div>
+        <p><note resp="author">La Medaille doit regarder la page 218.</note>Comme je vous envoye tous les mois de differentes Medailles sur les actions du Roy sans m’assujettir à garder l’ordre des temps qu’elles ont esté frapées, je croy vous en pouvoir aujourd’huy envoyer une qui regarde l’Isle de Madagascar, aprés vous avoir fait part d’un Combat donné vers les Isles. La face droite de cette Medaille represente le Roy comme font toutes les autres &amp; dans le revers il y a un Bœuf du Pays auprés d’un Arbre, avec ces mots.</p>
         <quote>
           <lg>
             <l rend="i">Colonia Madagasc.</l>
           </lg>
         </quote>
-        <p>Elle fut frapée en 1655. au sujet de l’établissement de la Compagnie des Indes, en
-          memoire de ce qu’on envoya nombre de François pour habiter &amp; cultiver l’Isle de
-          Madagascar.</p>
+        <p>Elle fut frapée en 1655. au sujet de l’établissement de la Compagnie des Indes, en memoire de ce qu’on envoya nombre de François pour habiter &amp; cultiver l’Isle de Madagascar.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

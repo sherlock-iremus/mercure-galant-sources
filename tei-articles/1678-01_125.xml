@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-
-        
-        <p>Cet Article de Musique me fait souvent souvenir qu’il court icy un Air de la composition
-          du fameux M<hi rend="sup">r</hi> le Peintre. Les Paroles ont esté faites pour Monseigneur
-          le Dauphin, &amp; sont de M<hi rend="sup">r</hi> de Valnay Conseiller du Roy, &amp;
-          Controlleur ordinaire de la Maison de sa Majesté. Elles sont tournées avec tant d’esprit,
-          que vous auriez sujet de vous plaindre, si un autre que moy vous en faisoit part.</p>
+    <body>
+      <div>
+        <p>Cet Article de Musique me fait souvent souvenir qu’il court icy un Air de la composition du fameux M<hi rend="sup">r</hi> le Peintre. Les Paroles ont esté faites pour Monseigneur le Dauphin, &amp; sont de M<hi rend="sup">r</hi> de Valnay Conseiller du Roy, &amp; Controlleur ordinaire de la Maison de sa Majesté. Elles sont tournées avec tant d’esprit, que vous auriez sujet de vous plaindre, si un autre que moy vous en faisoit part.</p>
         <quote rend="border">
           <label rend="center">À Monseigneur</label>
           <label rend="center">le Dauphin.</label>
@@ -35,12 +29,8 @@
           <l>Et qui veut apprendre à regner,</l>
           <l>Doit faire tout ce que vous faites.</l>
         </quote>
-        <p>C’est faire en peu de mots l’Eloge d’un Prince qui est l’amour de toute la France ; mais
-          comment seroit-il autre que tout admirable, estant Fils d’un Roy que ses merveilleuses
-          lumieres dans l’art de regner ne rendent pas seulement le plus grand des Roys, mais qui
-          possede éminemment toutes les qualitez qui dans celle d’honneste Homme le peuvent mettre
-          au dessus de tout ce que le Monde a fait de plus parfait ?</p>
+        <p>C’est faire en peu de mots l’Eloge d’un Prince qui est l’amour de toute la France ; mais comment seroit-il autre que tout admirable, estant Fils d’un Roy que ses merveilleuses lumieres dans l’art de regner ne rendent pas seulement le plus grand des Roys, mais qui possede éminemment toutes les qualitez qui dans celle d’honneste Homme le peuvent mettre au dessus de tout ce que le Monde a fait de plus parfait ?</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

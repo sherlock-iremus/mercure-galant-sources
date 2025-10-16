@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
-        <p>La derniere Comedie qu’ils ont veuë, a esté celle de l’Inconnu. Ils prirent beaucoup de
-          plaisir aux ornemens dont cette Piece est remplie, &amp; sceurent en démesler le sujet.
-            M<hi rend="sup">r</hi> de la Grange les remercia de ce que leur Troupe avoit esté la
-          premiere &amp; la derniere honorée de leur presence ; &amp; marqua la joye qu’ils devoient
-          avoir de remporter une reputation si universelle, &amp; d’avoir plû dans une Cour qui sert
-          de modele à toutes les autres, &amp; où l’on a bien-tost découvert le faux merite. Il dit
-          encore beaucoup d’autres choses qui seroient trop longues à rapporter.</p>
+    <body>
+      <div>
+        <p>La derniere Comedie qu’ils ont veuë, a esté celle de l’Inconnu. Ils prirent beaucoup de plaisir aux ornemens dont cette Piece est remplie, &amp; sceurent en démesler le sujet. M<hi rend="sup">r</hi> de la Grange les remercia de ce que leur Troupe avoit esté la premiere &amp; la derniere honorée de leur presence ; &amp; marqua la joye qu’ils devoient avoir de remporter une reputation si universelle, &amp; d’avoir plû dans une Cour qui sert de modele à toutes les autres, &amp; où l’on a bien-tost découvert le faux merite. Il dit encore beaucoup d’autres choses qui seroient trop longues à rapporter.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

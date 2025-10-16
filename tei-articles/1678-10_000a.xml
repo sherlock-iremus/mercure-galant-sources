@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,9 +14,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <quote>
           <lg>
             <l><space/>Puis que Loüis finit la Guerre,</l>
@@ -26,7 +25,8 @@
             <l><space/>Qui les sauve de son Tonnerre :</l>
             <l>Il est vray que pour eux c’est un present bien doux ;</l>
             <l><space/>Mais, <hi rend="sc">Prince</hi>, cette Paix semble faite pour vous.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l><space/>Loüis tient à soy la Victoire,</l>
             <l>Cette Divinité qui luy faisoit la cour,</l>
             <l><space/>Vouloit que seule il la pust croire ;</l>
@@ -34,7 +34,8 @@
             <l><space/>Retranchant sur sa propre gloire,</l>
             <l>Pouvant tout surmonter, il accorde la Paix,</l>
             <l>Et borne pour vous seul ses augustes projets.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l><space/>Si Philippes parut bon Pere,</l>
             <l>Si pour son Alexandre il se donna du soin,</l>
             <l><space/>Le mal est que voulant tout faire,</l>
@@ -42,7 +43,8 @@
             <l>De sa conduite militaire.</l>
             <l>Mais Loüis sçachant mieux vous montrer son amour,</l>
             <l>Laisse à vostre Valeur où s’exercer un jour.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l><space/>Par son grand cœur, par sa vaillance,</l>
             <l>Par les coups éclatans de tant d’exploits guerriers,</l>
             <l><space/>Il vous a montré la Science</l>
@@ -50,7 +52,8 @@
             <l><space/>Enfin pour vostre expérience.</l>
             <l>Que pouvoit-il rester à Loüis desormais,</l>
             <l>Qu’à vous enseigner l’art de bien faire la Paix ?</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l><space/>Ainsi c’est pour vostre avantage,</l>
             <l><hi rend="sc">Grand Prince</hi>, qu’à l’Europe il la donne aujourd’huy ;</l>
             <l>Et si nous luy devons hommage,</l>
@@ -61,21 +64,10 @@
           </lg>
           <p rend="sc">Le Blanc. </p>
         </quote>
-        <p>Les sentimens de toute la France, MONSEIGNEUR, vous sont marquez par ces Vers dont j’ay
-          crû pouvoir me servir en faisant connoistre par le nom de leur Autheur, que je n’y ay
-          aucune part que celle de vous les presenter. Il est certain que si les Peuples se
-          réjoüissent de la Paix, c’est moins pour les avantages qu’ils en retirent, que pour
-          l’interest qu’ils prennent à vostre gloire. Ils s’applaudissent déja par avance,
-          MONSEIGNEUR, des Triomphes que la modération du Roy vous reserve ; &amp; en mesme temps
-          qu’ils reconnoissent devoir leur repos à sa bonté, ils envisagent avec un plaisir extrême
-          les grandes Victoires qui vous doivent mettre au nombre des plus renommez Héros. Cet
-          incomparable Monarque en laisse une ample matiere à vostre Valeur par les bornes qu’il a
-          bien voulu donner à la sienne, &amp; vous ne pouvez estre que Grand &amp; Auguste, estant
-          Fils du plus Grand &amp; du plus Auguste de tous les Rois. Je suis avec un profond
-          respect,</p>
+        <p>Les sentimens de toute la France, MONSEIGNEUR, vous sont marquez par ces Vers dont j’ay crû pouvoir me servir en faisant connoistre par le nom de leur Autheur, que je n’y ay aucune part que celle de vous les presenter. Il est certain que si les Peuples se réjoüissent de la Paix, c’est moins pour les avantages qu’ils en retirent, que pour l’interest qu’ils prennent à vostre gloire. Ils s’applaudissent déja par avance, MONSEIGNEUR, des Triomphes que la modération du Roy vous reserve ; &amp; en mesme temps qu’ils reconnoissent devoir leur repos à sa bonté, ils envisagent avec un plaisir extrême les grandes Victoires qui vous doivent mettre au nombre des plus renommez Héros. Cet incomparable Monarque en laisse une ample matiere à vostre Valeur par les bornes qu’il a bien voulu donner à la sienne, &amp; vous ne pouvez estre que Grand &amp; Auguste, estant Fils du plus Grand &amp; du plus Auguste de tous les Rois. Je suis avec un profond respect,</p>
         <p>MONSEIGNEUR,</p>
         <p>Vostre tres-humble &amp; tres-obeïssant Serviteur, D.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

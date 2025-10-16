@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>On a souvent demandé pourquoy Mercure prenoit le nom de Galant, luy qui n’estoit en
-          réputation parmy les Dieux, que de sçavoir s’acquiter d’un message avec adresse. M<hi rend="sup">r</hi> Perry de Compiegne, qui est sans-doute Amy de ce Dieu, en a donné la
-          raison dans les Vers qui suivent.</p>
+    <body>
+      <div>
+        <p>On a souvent demandé pourquoy Mercure prenoit le nom de Galant, luy qui n’estoit en réputation parmy les Dieux, que de sçavoir s’acquiter d’un message avec adresse. M<hi rend="sup">r</hi> Perry de Compiegne, qui est sans-doute Amy de ce Dieu, en a donné la raison dans les Vers qui suivent.</p>
         <quote>
           <label>MERCURE<lb/>NOMMÉ GALANT<lb/>par les Dieux.</label>
           <lg>
@@ -42,6 +39,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

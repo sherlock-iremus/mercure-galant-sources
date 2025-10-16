@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>En voicy d’autres qui ont esté faits sur l’anvanture du Moineau dont je vous ay déja
-          parlé.</p>
+    <body>
+      <div>
+        <p>En voicy d’autres qui ont esté faits sur l’anvanture du Moineau dont je vous ay déja parlé.</p>
         <quote>
           <lg>
             <l>Le bruit coure qu’un petit Moineau,</l>
@@ -75,7 +73,8 @@
             <l>Tant qu’enfin la pauvre Femelle</l>
             <l>Perdit son sans &amp; ses esprits,</l>
             <l>Et par sa mort termina la querelle.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l><space/>O prodige rare &amp; nouveau !</l>
             <l><space/>O continence sans seconde !</l>
             <l><space/>Est-il quelque Femelle au monde,</l>
@@ -84,6 +83,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

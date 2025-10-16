@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,18 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
+    <body>
+      <div>
         <p/>
-        <p>On ne doit pas s’étonner si tous les Peuples s’intéressent à l’envy à celébrer la
-          Naissance de Monseigneur le Duc du Bourgogne. Le Ciel ne pouvoit faire un plus grand don à
-          la France sous le Regne d’un Monarque dont les glorieux exemples sont les plus nobles
-          leçons qui puissent estre données dans l’Art de régner, aux Princes qui naissent de son
-          Sang auguste. La Ballade que je vous envoye, vous marquera d’une maniere plus agreable que
-          je ne fais, combien ce don nous doit estre cher. L’Autheur m’en est inconnu. Quel qu’il
-          puisse estre, il mérite beaucoup de loüanges pour un si galant Ouvrage.</p>
+        <p>On ne doit pas s’étonner si tous les Peuples s’intéressent à l’envy à celébrer la Naissance de Monseigneur le Duc du Bourgogne. Le Ciel ne pouvoit faire un plus grand don à la France sous le Regne d’un Monarque dont les glorieux exemples sont les plus nobles leçons qui puissent estre données dans l’Art de régner, aux Princes qui naissent de son Sang auguste. La Ballade que je vous envoye, vous marquera d’une maniere plus agreable que je ne fais, combien ce don nous doit estre cher. L’Autheur m’en est inconnu. Quel qu’il puisse estre, il mérite beaucoup de loüanges pour un si galant Ouvrage.</p>
         <quote>
           <label>SUR LA NAISSANCE<lb/>de M<hi rend="sup">r</hi> le Duc de Bourgogne.<lb/><hi rend="sc">Ballade.</hi></label>
           <lg>
@@ -76,6 +68,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

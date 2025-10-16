@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Messieurs de Vendosme sont depuis peu de retour d’Italie, où ils se sont faits admirer
-          dans tous les Lieux où ils ont passé. La vivacité de leur esprit est une chose
-          incroyable ; &amp; ils font des Vers avec tant de justesse, qu’ils donneroient de la
-          jalousie aux plus grands Autheurs, s’ils estoient d’une qualité à en faire souvent.
-          Monsieur le Cardinal Patron fit avancer pour eux la representation d’un <hi rend="i">Opera</hi>, afin de leur en donner le divertissement. Jugez par là, Madame, combien les
-            <hi rend="i">Opera</hi> sont considérables, puis que de tels Gens s’en meslent, &amp;
-          les honorent de leur présence.</p>
+    <body>
+      <div>
+        <p>Messieurs de Vendosme sont depuis peu de retour d’Italie, où ils se sont faits admirer dans tous les Lieux où ils ont passé. La vivacité de leur esprit est une chose incroyable ; &amp; ils font des Vers avec tant de justesse, qu’ils donneroient de la jalousie aux plus grands Autheurs, s’ils estoient d’une qualité à en faire souvent. Monsieur le Cardinal Patron fit avancer pour eux la representation d’un <hi rend="i">Opera</hi>, afin de leur en donner le divertissement. Jugez par là, Madame, combien les <hi rend="i">Opera</hi> sont considérables, puis que de tels Gens s’en meslent, &amp; les honorent de leur présence.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

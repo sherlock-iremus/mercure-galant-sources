@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,28 +14,20 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Les deux nouvelles Enigmes que je vous envoye, pourront coûter quelque resverie à vos
-          Amis. La premiere est de M<hi rend="sup">r</hi> Gardien Secretaire du Roy ; &amp; l’autre
-          de Mr Castel-Colongtec.</p>
+    <body>
+      <div>
+        <p>Les deux nouvelles Enigmes que je vous envoye, pourront coûter quelque resverie à vos Amis. La premiere est de M<hi rend="sup">r</hi> Gardien Secretaire du Roy ; &amp; l’autre de Mr Castel-Colongtec.</p>
         <quote>
           <label type="head">Enigme.</label>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>L'On voit deux Sœurs toûjours
-            ensemble,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>L'On voit deux Sœurs toûjours ensemble,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Qui servent en mesme Maison ;</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Elles n’ont rien qui se
-            ressemble,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Si ce n’est la taille &amp; le
-            nom.</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Elles n’ont rien qui se ressemble,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Si ce n’est la taille &amp; le nom.</l>
           <l/>
           <ab type="ornament">***</ab>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Quoy qu’également nécessaires ;</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>L'une est toújours sans se
-            mouvoir,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Et l’autre n’a pas peu
-            d’affaires</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>L'une est toújours sans se mouvoir,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Et l’autre n’a pas peu d’affaires</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Depuis le matin jusqu’au soir.</l>
           <l/>
           <ab type="ornament">***</ab>
@@ -51,14 +43,12 @@
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Quoy qu’incivile quelquefois.</l>
           <l/>
           <ab type="ornament">***</ab>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Elle est fort sujete au
-            caprice,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Elle est fort sujete au caprice,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Souvent elle fait des jaloux,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Et ne rend presque point
-            justice,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Et ne rend presque point justice,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Si ce n’est à force de coups.</l>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

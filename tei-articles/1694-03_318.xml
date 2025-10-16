@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Rien ne sçauroit estre plus de saison que l'Air nouveau que je vous envoye.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis aux Relieurs pour placer les Figures</hi> : l’Air regarde la page 319.</note>
-          <lg><l rend="i">Chrestiens, aimez tous la souffrance,</l>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis aux Relieurs pour placer les Figures</hi> : l’Air regarde la page 319.</note>
+          <lg>
+            <l rend="i">Chrestiens, aimez tous la souffrance,</l>
             <l rend="i">Ou cessez de porter un nom si glorieux,</l>
             <l rend="i">Rien n'est plus assuré que le chemin des Cieux</l>
             <l rend="i">Est celuy de la patience.</l>
@@ -32,6 +33,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

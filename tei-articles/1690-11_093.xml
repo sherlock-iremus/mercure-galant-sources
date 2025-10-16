@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p>M<hi rend="sup">r</hi> le Commandeur de Barbantane, Vicaire General du Grand Prieuré de Toulouse, de l'Ordre de Saint Jean de Jerusalem, ayant appris que M<hi rend="sup">r</hi> le Commandeur de Vignacour avoir esté éleu Grand Maistre de Malthe, en fit paroistre sa joye par des illuminations qu'il fit faire devant sa Maison, &amp; par un grand Feu d'artifice qui fut tiré au bruit des Fifres, des tambours &amp; des hautbois.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>M<hi rend="sup">r</hi> le Commandeur de Barbantane, Vicaire General du Grand Prieuré de Toulouse, de l'Ordre de Saint Jean de Jerusalem, ayant appris que M<hi rend="sup">r</hi> le Commandeur de Vignacour avoir esté éleu Grand Maistre de Malthe, en fit paroistre sa joye par des illuminations qu'il fit faire devant sa Maison, &amp; par un grand Feu d'artifice qui fut tiré au bruit des Fifres, des tambours &amp; des hautbois.</p>
+      </div>
+    </body>
   </text>
 </TEI>

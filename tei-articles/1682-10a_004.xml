@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
+    <body>
+      <div>
         <p/>
-        <p>Jamais Monarque ne mérita mieux ce titre de Grand. Aussi le Ciel a-t-il comblé les Vœux
-          de tous ses Sujets, en faisant qu’il le possede aujourd’huy de toutes manieres. La joye
-          qu’ils en ont n’a point de bornes ; &amp; on peut dire qu’il n’y a point de François qui
-          ne parle par la bouche de l’Autheur de ce Sonnet. Voyez si ces lettres E.F. D.L.I. vous
-          pourront faire deviner son nom.</p>
+        <p>Jamais Monarque ne mérita mieux ce titre de Grand. Aussi le Ciel a-t-il comblé les Vœux de tous ses Sujets, en faisant qu’il le possede aujourd’huy de toutes manieres. La joye qu’ils en ont n’a point de bornes ; &amp; on peut dire qu’il n’y a point de François qui ne parle par la bouche de l’Autheur de ce Sonnet. Voyez si ces lettres E.F. D.L.I. vous pourront faire deviner son nom.</p>
         <quote>
           <label><hi rend="sc">Sur Loüis le Grand</hi>.</label>
           <lg>
@@ -53,6 +47,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

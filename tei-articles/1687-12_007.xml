@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,21 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
-        <p>Il est difficile que vous n’ayez entendu parler d’une Requeste des vieilles Fontaines de
-          Paris contre les nouvelles. C’est une Ode Latine de M<hi rend="sup">r</hi> de Santeüil,
-          Chanoine Regulier de Saint Victor. Tous ses Ouvrages sont si estimez qu’ils ne manquent
-          pas de trouver des Traducteurs, mais, Madame, ce ne sont jamais des Traducteurs inconnus.
-          Les plus grands Poëtes se font toûjours un plaisir de mettre ses Vers en nostre Langue,
-          &amp; vous n’en douterez pas quand vous sçaurez que M<hi rend="sup">r</hi> de la Monnoye,
-          fameux par divers prix remportez à l’Academie Françoise, a fait la Traduction que vous
-          allez lire.</p>
+        <p>Il est difficile que vous n’ayez entendu parler d’une Requeste des vieilles Fontaines de Paris contre les nouvelles. C’est une Ode Latine de M<hi rend="sup">r</hi> de Santeüil, Chanoine Regulier de Saint Victor. Tous ses Ouvrages sont si estimez qu’ils ne manquent pas de trouver des Traducteurs, mais, Madame, ce ne sont jamais des Traducteurs inconnus. Les plus grands Poëtes se font toûjours un plaisir de mettre ses Vers en nostre Langue, &amp; vous n’en douterez pas quand vous sçaurez que M<hi rend="sup">r</hi> de la Monnoye, fameux par divers prix remportez à l’Academie Françoise, a fait la Traduction que vous allez lire.</p>
         <quote>
-          <label>A MONSIEUR<lb/>DE FOURCY,<lb/>PREVOST DES MARCHANDS,<lb/>Requeste des vieilles
-            Fontaines de Paris contre les nouvelles.</label>
+          <label>A MONSIEUR<lb/>DE FOURCY,<lb/>PREVOST DES MARCHANDS,<lb/>Requeste des vieilles Fontaines de Paris contre les nouvelles.</label>
           <lg>
             <l rend="i">Les Nymphes des vieilles Fontaines</l>
             <l rend="i">Viennent, grand Magistrat, vous adresser leurs cris,</l>
@@ -107,6 +98,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

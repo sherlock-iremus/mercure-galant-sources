@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,25 +14,27 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p>La Musique tenant un rang considerable entre les Sciences &amp; les Arts, je crois devoir ajouter à ce que je vous en viens de dire, la Chanson suivante.</p>
-          <quote>
-            <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">L’Air,</hi> De ces Côteaux, <hi rend="i">page 281.</hi></note>
-            <lg>
-              <l><hi rend="i">De ces Costeaux fleuris, que l’aspect est charmant,</hi></l>
-              <l> <hi rend="i">Mais sur tout qu’ils ont dequoy plaire</hi></l>
-              <l> <hi rend="i">Pour un fidelle Amant</hi></l>
-              <l> <hi rend="i">Quand il y revoit sa Bergere.</hi></l>
-            </lg>
-          </quote>
-          <ref target="images/1708-04_280.JPG">
-            <figure>
-              <graphic url="images/1708-04_280.JPG"/>
-            </figure>
-          </ref>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>La Musique tenant un rang considerable entre les Sciences &amp; les Arts, je crois devoir ajouter à ce que je vous en viens de dire, la Chanson suivante.</p>
+        <quote>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">L’Air,</hi> De ces Côteaux, <hi rend="i">page 281.</hi></note>
+          <lg>
+            <l>
+              <hi rend="i">De ces Costeaux fleuris, que l’aspect est charmant,</hi>
+            </l>
+            <l> <hi rend="i">Mais sur tout qu’ils ont dequoy plaire</hi></l>
+            <l> <hi rend="i">Pour un fidelle Amant</hi></l>
+            <l> <hi rend="i">Quand il y revoit sa Bergere.</hi></l>
+          </lg>
+        </quote>
+        <ref target="images/1708-04_280.JPG">
+          <figure>
+            <graphic url="images/1708-04_280.JPG"/>
+          </figure>
+        </ref>
+      </div>
+    </body>
   </text>
 </TEI>

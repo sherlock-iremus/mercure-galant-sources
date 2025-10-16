@@ -1,125 +1,21 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
-        <p />
+        <p/>
       </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text>
-
     <body>
-      <div>
-
-        
-        
-          <title>Extraordinaire du Mercure galant</title>, quartier d’avril 1679 (tome VI), p.
-
-        <label rend="center">HISTOIRE <lb />ENIGMATIQUE. </label>
-        <p>
-          <hi rend="i">Sans compliman, Monsieu du Marcure, je vou zenvoyon notte penseye, à qui vou
-            donneré queu nom i
-            vou plara. Vou l’arrié zeuë putost, mas j’avon fait un viage en Biausse pour acheté dé
-            Mouton, &amp; j’en
-            éton revenu aveuc une fiavre tiarse qui nou za tou démonté le cerviau. Heureuseman avan
-            que de party,
-            j’avion par le Tabailion de Varsaille fait boutre sque vla en langage à la Courtisane.
-            Si vou ne le trouvé
-            pas bian, vou zen pouvé changé tou cen qui vou plara, sans que sla nous déplaze.</hi>
-        </p>
-        <p>Quoy que publient les Italiens &amp; les Espagnols, je soûtiens que la Nation Françoise
-          est celle de toute
-          l’Europe, &amp; par conséquent de tout le Monde, qui traite l’amour avec plus de
-          galanterie. Tous les Hommes
-          &amp; toutes les Femmes y semblent estre nez pour aimer ; &amp; si les exclamations, &amp;
-          les entousiasmes
-          n’y sont pas si grands, ny si fréquens que chez les Nations que j’ay nommées, l’air libre
-          &amp; dégagé, qui
-          paroist dans toutes les actions des François, &amp; principalement en amour, est à
-          preférer aux affectations
-          dont les autres Païs ont reçeu l’usage.</p>
-        <p>Comme les Anglois approchent de nous plus qu’aucune Nation de l’Europe, dans les galantes
-          manieres d’aimer,
-          le genre d’amour que je propose icy en Enigme, ne se pratique parfaitement que chez ces
-          deux Nations.</p>
-        <p>Les Amans dans cette sorte de passion, &amp; l’Objet qu’ils poursuivent, sont toûjours
-          quasi de mesme Sexe.
-          Les Roys, les Princes, &amp; les plus grands Seigneurs, sont souvent les plus empressez
-          dans cet amour, &amp;
-          quand les Particuliers en sont atteints, ce n’est que sous les auspices de ces Puissances,
-          qu’ils peuvent
-          trouver moyen de se satisfaire.</p>
-        <p>Personne, pourveu qu’il trouve quelque accés chez eux, n’est refusé pour Rival de leurs
-          poursuites.</p>
-        <p>Ils tiennent mesme des Gens à leurs gages, &amp; ne les entretenant que dans le seul
-          dessein de les avoir
-          pour Rivaux, ceux qui se montrent les plus opiniâtres, sont ceux qui en sont les plus
-          estimez.</p>
-        <p>Chaque Poursuivant fait de la dépense, &amp; se donne de la peine suivant ses forces pour
-          parvenir à son
-          point ; mais tous n’y arrivent pas en mesme temps. Il y en a pourtant peu qui se retirent
-          sans estre venus à
-          bout de leur dessein, quoy qu’il en arrive quantité apres que les autres se sont déjà
-          satisfaits.</p>
-        <p>Il se trouve dans le cours de cet Amour quantité de traverses, de tours, &amp; de détours
-          ; &amp; les choses
-          qui dans la suite d’une autre passion désesperent, &amp; fatiguent ordinairement les
-          Amans, servent dans
-          celle-cy à leur donner du plaisir &amp; de la joye.</p>
-        <p>Mais ce qu’il y a d’étonnant, c’est que ces Gens passionnez, comme je vous les dépeins,
-          n’ont ces emportemens
-          de passion que pendant cinq ou six heures au plus, &amp; cela va rarement à une journée
-          entiere. Cependant
-          l’on peut dire qu’ils conservent toûjours le levain de la mesme passion dans l’âme, car
-          ils n’ont pas le plus
-          souvent pris un jour de repos, qu’ils cherchent un Objet nouveau, s’y attachent comme au
-          premier, &amp;
-          faisant la mesme poursuite, s’engagent aux mesmes peines &amp; dépenses qu’ils ont déja
-          faites.</p>
-        <p>Ce qui doit augmenter vostre étonnement dans cette sorte de passion, c’est que l’Objet
-          qui leur donne tant de
-          peine, n’est pas plûtost rendu à leur poursuite que la plûpart le méprisent, &amp;
-          l’abandonnent aux plus
-          brutaux d’entr’eux, qui sans songer que ces premiers ont estimé sa conqueste digne de
-          leurs soins, le
-          dépoüillent cruellement, &amp; non contens d’un traitement si barbare, l’abandonnent de
-          nouveau à de plus
-          brutaux qu’eux, qui pour se vanger de la peine qu’ils ont euë à sa poursuite, le déchirent
-          par morceaux, &amp;
-          apres en avoir rassasié &amp; assouvy leur rage, en laissent errer les pitoyables restes
-          de tous costez, sans
-          aucun soucy de ce qu’ils deviendront.</p>
-        <p>Si quelquefois les plus raisonnables en prennent quelques reliques, ils ne les conservent
-          que pour en faire
-          des le mesme jour une Enseigne à leur vanité.</p>
-        <p>Quelque étrange que vous paroisse cette passion, elle est pourtant universellement
-          approuvée des honnestes
-          Gens, &amp; il s’en trouve qui en sont si possedez, qu’ils en parlent à tous propos.
-          Jusqu’icy aucun Casuite
-          ne l’a blâmée, &amp; je connois des Personnes d’une profession tres-réguliere qui en font
-          leurs principaux
-          amusemens.</p>
-        <p>
-          <hi rend="i">Je m’attan que vou zeste aussi ampasché qu’un outre à deviné ce que je voulon
-            dire par ste balle
-            Aligorie, car l’an m’a dit que sla s’apelet comme ça. Je vous laisserion bian deviné,
-            mas comme il faut que
-            vou jugié si l’an a bian rancontré ou non, je vous diron que c’est …. . Anfin, Monsieur
-            du Marcure, je vou
-            zenvoyon notte pensaye comme je vou l’avon dit au commanceman. Si alle est bonne tant
-            mieux, si mechante,
-            tan pis ; guesbe enporte qui s’en soucie. Je son pourtan à vandre &amp; dépandre, votre
-            ptit sarviteur.</hi>
-        </p>
-        <label rend="sc right">Le Bargé De Porche-Fontaine.</label>
-      </div>
+      <div><title>Extraordinaire du Mercure galant</title>, quartier d’avril 1679 (tome VI), p. <label rend="center">HISTOIRE <lb/>ENIGMATIQUE. </label> <p><hi rend="i">Sans compliman, Monsieu du Marcure, je vou zenvoyon notte penseye, à qui vou donneré queu nom i vou plara. Vou l’arrié zeuë putost, mas j’avon fait un viage en Biausse pour acheté dé Mouton, &amp; j’en éton revenu aveuc une fiavre tiarse qui nou za tou démonté le cerviau. Heureuseman avan que de party, j’avion par le Tabailion de Varsaille fait boutre sque vla en langage à la Courtisane. Si vou ne le trouvé pas bian, vou zen pouvé changé tou cen qui vou plara, sans que sla nous déplaze.</hi></p> <p>Quoy que publient les Italiens &amp; les Espagnols, je soûtiens que la Nation Françoise est celle de toute l’Europe, &amp; par conséquent de tout le Monde, qui traite l’amour avec plus de galanterie. Tous les Hommes &amp; toutes les Femmes y semblent estre nez pour aimer ; &amp; si les exclamations, &amp; les entousiasmes n’y sont pas si grands, ny si fréquens que chez les Nations que j’ay nommées, l’air libre &amp; dégagé, qui paroist dans toutes les actions des François, &amp; principalement en amour, est à preférer aux affectations dont les autres Païs ont reçeu l’usage.</p> <p>Comme les Anglois approchent de nous plus qu’aucune Nation de l’Europe, dans les galantes manieres d’aimer, le genre d’amour que je propose icy en Enigme, ne se pratique parfaitement que chez ces deux Nations.</p> <p>Les Amans dans cette sorte de passion, &amp; l’Objet qu’ils poursuivent, sont toûjours quasi de mesme Sexe. Les Roys, les Princes, &amp; les plus grands Seigneurs, sont souvent les plus empressez dans cet amour, &amp; quand les Particuliers en sont atteints, ce n’est que sous les auspices de ces Puissances, qu’ils peuvent trouver moyen de se satisfaire.</p> <p>Personne, pourveu qu’il trouve quelque accés chez eux, n’est refusé pour Rival de leurs poursuites.</p> <p>Ils tiennent mesme des Gens à leurs gages, &amp; ne les entretenant que dans le seul dessein de les avoir pour Rivaux, ceux qui se montrent les plus opiniâtres, sont ceux qui en sont les plus estimez.</p> <p>Chaque Poursuivant fait de la dépense, &amp; se donne de la peine suivant ses forces pour parvenir à son point ; mais tous n’y arrivent pas en mesme temps. Il y en a pourtant peu qui se retirent sans estre venus à bout de leur dessein, quoy qu’il en arrive quantité apres que les autres se sont déjà satisfaits.</p> <p>Il se trouve dans le cours de cet Amour quantité de traverses, de tours, &amp; de détours ; &amp; les choses qui dans la suite d’une autre passion désesperent, &amp; fatiguent ordinairement les Amans, servent dans celle-cy à leur donner du plaisir &amp; de la joye.</p> <p>Mais ce qu’il y a d’étonnant, c’est que ces Gens passionnez, comme je vous les dépeins, n’ont ces emportemens de passion que pendant cinq ou six heures au plus, &amp; cela va rarement à une journée entiere. Cependant l’on peut dire qu’ils conservent toûjours le levain de la mesme passion dans l’âme, car ils n’ont pas le plus souvent pris un jour de repos, qu’ils cherchent un Objet nouveau, s’y attachent comme au premier, &amp; faisant la mesme poursuite, s’engagent aux mesmes peines &amp; dépenses qu’ils ont déja faites.</p> <p>Ce qui doit augmenter vostre étonnement dans cette sorte de passion, c’est que l’Objet qui leur donne tant de peine, n’est pas plûtost rendu à leur poursuite que la plûpart le méprisent, &amp; l’abandonnent aux plus brutaux d’entr’eux, qui sans songer que ces premiers ont estimé sa conqueste digne de leurs soins, le dépoüillent cruellement, &amp; non contens d’un traitement si barbare, l’abandonnent de nouveau à de plus brutaux qu’eux, qui pour se vanger de la peine qu’ils ont euë à sa poursuite, le déchirent par morceaux, &amp; apres en avoir rassasié &amp; assouvy leur rage, en laissent errer les pitoyables restes de tous costez, sans aucun soucy de ce qu’ils deviendront.</p> <p>Si quelquefois les plus raisonnables en prennent quelques reliques, ils ne les conservent que pour en faire des le mesme jour une Enseigne à leur vanité.</p> <p>Quelque étrange que vous paroisse cette passion, elle est pourtant universellement approuvée des honnestes Gens, &amp; il s’en trouve qui en sont si possedez, qu’ils en parlent à tous propos. Jusqu’icy aucun Casuite ne l’a blâmée, &amp; je connois des Personnes d’une profession tres-réguliere qui en font leurs principaux amusemens.</p> <p><hi rend="i">Je m’attan que vou zeste aussi ampasché qu’un outre à deviné ce que je voulon dire par ste balle Aligorie, car l’an m’a dit que sla s’apelet comme ça. Je vous laisserion bian deviné, mas comme il faut que vou jugié si l’an a bian rancontré ou non, je vous diron que c’est …. . Anfin, Monsieur du Marcure, je vou zenvoyon notte pensaye comme je vou l’avon dit au commanceman. Si alle est bonne tant mieux, si mechante, tan pis ; guesbe enporte qui s’en soucie. Je son pourtan à vandre &amp; dépandre, votre ptit sarviteur.</hi></p> <label rend="sc right">Le Bargé De Porche-Fontaine.</label> </div>
     </body>
   </text>
 </TEI>

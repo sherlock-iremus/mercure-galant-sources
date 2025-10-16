@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Les Medecins n’ont jamais cessé d’estre à la mode. Il y en a cependant que quelques
-          Secrets particuliers font chercher préferablement à tous les autres. Celuy que les
-          Italiens ont fait paroître depuis quelques jours sur leur Théatre, &amp; qu’ils nomment
-            <hi rend="i">le Medecin du temps</hi>, est du nombre. Cette nouveauté leur attire tout
-          Paris. Arlequin y charme à son ordinaire. Rien n’est plus plaisant que de le voir Dogue
-          d’Angleterre. C'est un vray Protée. Il fait tout ce qu’il veut de son corps, &amp; quelque
-          figure qu’il prenne, il est toûjours également agreable.</p>
+    <body>
+      <div>
+        <p>Les Medecins n’ont jamais cessé d’estre à la mode. Il y en a cependant que quelques Secrets particuliers font chercher préferablement à tous les autres. Celuy que les Italiens ont fait paroître depuis quelques jours sur leur Théatre, &amp; qu’ils nomment <hi rend="i">le Medecin du temps</hi>, est du nombre. Cette nouveauté leur attire tout Paris. Arlequin y charme à son ordinaire. Rien n’est plus plaisant que de le voir Dogue d’Angleterre. C'est un vray Protée. Il fait tout ce qu’il veut de son corps, &amp; quelque figure qu’il prenne, il est toûjours également agreable.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

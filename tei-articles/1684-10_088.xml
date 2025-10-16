@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-
-        
+    <body>
+      <div>
         <p/>
-        <p>On a fait à l’Abbaye de Farmonstier la Cerémonie de la reception du Coeur de Madame la
-          Princesse Palatine. [...] Mr le Curé de Saint Sulpice, [...] fit un Discours sur les rares
-          qualitez de cette illustre Défunte ; &amp; Mr l’Evesque de Meaux luy répondit avec
-          beaucoup d’éloquence. En suite on porta le Coeur où chantent les Religieuses, &amp; elles
-          commencerent les Vigiles, qui ne finirent qu’à onze heures du soir. [...]</p>
+        <p>On a fait à l’Abbaye de Farmonstier la Cerémonie de la reception du Coeur de Madame la Princesse Palatine. [...] Mr le Curé de Saint Sulpice, [...] fit un Discours sur les rares qualitez de cette illustre Défunte ; &amp; Mr l’Evesque de Meaux luy répondit avec beaucoup d’éloquence. En suite on porta le Coeur où chantent les Religieuses, &amp; elles commencerent les Vigiles, qui ne finirent qu’à onze heures du soir. [...]</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

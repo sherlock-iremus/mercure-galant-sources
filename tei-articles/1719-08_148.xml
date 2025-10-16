@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,26 +14,45 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-       
+    <body>
+      <div>
         <quote>
           <label>CHANSON <note resp="editor">À la fin de la partition : « Gravé par Fr du Plessy a la montagne S.te Genevieve proche Navarre ».</note>.</label>
           <lg>
-            <l><hi rend="i">Tout Paris dans la Seine</hi></l>
-            <l><hi rend="i">Va se plonger tour à tour.</hi></l> 
-            <l><hi rend="i">Pour moi sans tant de peine,</hi></l>
-            <l><hi rend="i">Je me baigne chaque jour :</hi></l> 
-            <l><hi rend="i">Constament je garde la table,</hi></l>
-            <l><hi rend="i">Et je me ris de leur erreur :</hi></l> 
-            <l><hi rend="i">Charmant Bachus, dans ta liqueur,</hi></l>
-            <l><hi rend="i">Je trouve un bain plus agréable.</hi></l> 
-            <l><hi rend="i">Je bois si long tems &amp; si bien,</hi></l>
-            <l><hi rend="i">Que je nage au milieu du vin.</hi></l> 
-            </lg> 
+            <l>
+              <hi rend="i">Tout Paris dans la Seine</hi>
+            </l>
+            <l>
+              <hi rend="i">Va se plonger tour à tour.</hi>
+            </l>
+            <l>
+              <hi rend="i">Pour moi sans tant de peine,</hi>
+            </l>
+            <l>
+              <hi rend="i">Je me baigne chaque jour :</hi>
+            </l>
+            <l>
+              <hi rend="i">Constament je garde la table,</hi>
+            </l>
+            <l>
+              <hi rend="i">Et je me ris de leur erreur :</hi>
+            </l>
+            <l>
+              <hi rend="i">Charmant Bachus, dans ta liqueur,</hi>
+            </l>
+            <l>
+              <hi rend="i">Je trouve un bain plus agréable.</hi>
+            </l>
+            <l>
+              <hi rend="i">Je bois si long tems &amp; si bien,</hi>
+            </l>
+            <l>
+              <hi rend="i">Que je nage au milieu du vin.</hi>
+            </l>
+          </lg>
         </quote>
-       <p>Les paroles de cette Chanson sont de M. <hi rend="i">Ozon</hi> ; &amp; la musique de M. <hi rend="i">Buquet</hi> le fils.</p>
-      </div>      
-            </body>
+        <p>Les paroles de cette Chanson sont de M. <hi rend="i">Ozon</hi> ; &amp; la musique de M. <hi rend="i">Buquet</hi> le fils.</p>
+      </div>
+    </body>
   </text>
 </TEI>

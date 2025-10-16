@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p/>
-          <p>Le 2. de Février, M<hi rend="sup">rs</hi> de la Sainte Chapelle du Vivier en Brie, chanterent le <hi rend="i">Te Deum</hi>, aprés lequel M<hi rend="sup">r</hi> le Trésorier alluma un feu de joye au bruit de plusieurs pieces d'Artillerie, &amp; au son des Hautbois &amp; des Musetes. Cette joye fut continuée plusieurs jours &amp; plusieurs nuits au mesme lieu du Vivier, &amp; dans les Villes voisines.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p/>
+        <p>Le 2. de Février, M<hi rend="sup">rs</hi> de la Sainte Chapelle du Vivier en Brie, chanterent le <hi rend="i">Te Deum</hi>, aprés lequel M<hi rend="sup">r</hi> le Trésorier alluma un feu de joye au bruit de plusieurs pieces d'Artillerie, &amp; au son des Hautbois &amp; des Musetes. Cette joye fut continuée plusieurs jours &amp; plusieurs nuits au mesme lieu du Vivier, &amp; dans les Villes voisines.</p>
+      </div>
+    </body>
   </text>
 </TEI>

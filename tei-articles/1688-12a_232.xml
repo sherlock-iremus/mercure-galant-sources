@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,22 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
+    <body>
+      <div>
         <p/>
-        <p>Le 21. du mois passé le Chapitre &amp; la Communauté de Morlaix, firent chanter le <hi rend="i">Te Deum</hi> dans l'Eglise Collegiale de Nostre-Dame du Mur. M<hi rend="sup">r</hi> Dizeul, Doyen du Chapitre, fit paroistre son zele, comme il l'a déjà fait en
-          diverses occasions, par des desseins qui se rapportoient au temps, &amp; qui furent
-          representez dans de grands Cartouches environnez de Trophées. [...]</p>
+        <p>Le 21. du mois passé le Chapitre &amp; la Communauté de Morlaix, firent chanter le <hi rend="i">Te Deum</hi> dans l'Eglise Collegiale de Nostre-Dame du Mur. M<hi rend="sup">r</hi> Dizeul, Doyen du Chapitre, fit paroistre son zele, comme il l'a déjà fait en diverses occasions, par des desseins qui se rapportoient au temps, &amp; qui furent representez dans de grands Cartouches environnez de Trophées. [...]</p>
         <p/>
-        <p>Le 22. Madame de Berthemet, Sœur de Madame de Saint Poüange, &amp; Abbesse de Saint Loüis
-          de Vernon, fit rendre les mesmes actions de graces dans son Eglise, qui estoit extremement
-          parée &amp; illuminée. Le <hi rend="i">Te Deum</hi> qu'on y chanta avec grande Musique
-          &amp; Simphonie, fut suivy de Motets &amp; de Prieres pour la conservation de Sa Majesté.
-          Le Corps de Justice s'y trouva en Robes de ceremonie, &amp; toute la Ville s'y rendit en
-          foule. [...]</p>
+        <p>Le 22. Madame de Berthemet, Sœur de Madame de Saint Poüange, &amp; Abbesse de Saint Loüis de Vernon, fit rendre les mesmes actions de graces dans son Eglise, qui estoit extremement parée &amp; illuminée. Le <hi rend="i">Te Deum</hi> qu'on y chanta avec grande Musique &amp; Simphonie, fut suivy de Motets &amp; de Prieres pour la conservation de Sa Majesté. Le Corps de Justice s'y trouva en Robes de ceremonie, &amp; toute la Ville s'y rendit en foule. [...]</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

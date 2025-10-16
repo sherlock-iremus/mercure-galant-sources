@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
-        <p>Voicy des Vers d’une autre nature. C’est une Traduction de la troisiéme Epigramme du
-          premier Livre de Martial, qui commence par <hi rend="i">Nullus in urbe fuit,
-          &amp;c.</hi></p>
+        <p>Voicy des Vers d’une autre nature. C’est une Traduction de la troisiéme Epigramme du premier Livre de Martial, qui commence par <hi rend="i">Nullus in urbe fuit, &amp;c.</hi></p>
         <quote>
           <lg>
             <l rend="i"> Quand de concert avec ta Femme</l>
@@ -40,6 +37,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

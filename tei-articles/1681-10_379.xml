@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-     
-     <p>On avertit ceux qui se feront un plaisir de chercher le Sens du Billet Enigmatique employé
-      dans la Page 355. de l’Extraordinaire du 15. de ce mois, qu’au lieu de ces mots, <hi rend="i">Depuis fort longtemps on n’a point veu ce qu’on voit aujourd’huy</hi>, il faut lire, <hi rend="i">ce qu’on doit voir aujourd’huy.</hi></p>
-    </div>
-   </body>
+    <body>
+      <div>
+        <p>On avertit ceux qui se feront un plaisir de chercher le Sens du Billet Enigmatique employé dans la Page 355. de l’Extraordinaire du 15. de ce mois, qu’au lieu de ces mots, <hi rend="i">Depuis fort longtemps on n’a point veu ce qu’on voit aujourd’huy</hi>, il faut lire, <hi rend="i">ce qu’on doit voir aujourd’huy.</hi></p>
+      </div>
+    </body>
   </text>
 </TEI>

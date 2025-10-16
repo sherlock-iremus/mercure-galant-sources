@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Je vous envoye diverses Devises, que vous serez bien-aise de voir. La premiere a esté
-          faite, quand le Roy se portant mieux a commencé à quitter le lit. C’est un Soleil levant,
-          avec ces paroles Latines, <hi rend="i">Gallos excitat ortu.</hi></p>
+    <body>
+      <div>
+        <p>Je vous envoye diverses Devises, que vous serez bien-aise de voir. La premiere a esté faite, quand le Roy se portant mieux a commencé à quitter le lit. C’est un Soleil levant, avec ces paroles Latines, <hi rend="i">Gallos excitat ortu.</hi></p>
         <quote>
           <lg>
             <l rend="i">Quand cet Astre paroist sur son Char élevé,</l>
@@ -29,15 +26,8 @@
             <l rend="i">Mortels, ne craignez plus, le Soleil est levé.</l>
           </lg>
         </quote>
-        <p>Comme le mesme terme signifie un François &amp; un Coq, on fait allusion à la joye de
-          l’un quand le Soleil se leve, par la consolation que l’autre à euë quand il a veu son
-          Monarque relevé de maladie ; &amp; cette allusion paroist d’autant plus judicieuse, que
-          les Coqs sont appellez par les Poëtes les Gardes du Soleil, &amp; que les Troupes qui
-          gardent le Roy, forment des aisles quand elles sont en bataille.</p>
-        <p>Aprés que le Soleil est levé, il trouve quelquefois des nuages en son chemin qui ne
-          servent qu’à montrer sa force, c’est précisément le destin du Roy. Sa convalescence a esté
-          un peu traversée, &amp; tous les periodes en sont assez bien marquez par cette autre
-          Devise. Elle represente un Soleil qui perce des nuages, avec ces paroles Italiennes, <hi rend="i">Non Ingombrato da’ nubi.</hi></p>
+        <p>Comme le mesme terme signifie un François &amp; un Coq, on fait allusion à la joye de l’un quand le Soleil se leve, par la consolation que l’autre à euë quand il a veu son Monarque relevé de maladie ; &amp; cette allusion paroist d’autant plus judicieuse, que les Coqs sont appellez par les Poëtes les Gardes du Soleil, &amp; que les Troupes qui gardent le Roy, forment des aisles quand elles sont en bataille.</p>
+        <p>Aprés que le Soleil est levé, il trouve quelquefois des nuages en son chemin qui ne servent qu’à montrer sa force, c’est précisément le destin du Roy. Sa convalescence a esté un peu traversée, &amp; tous les periodes en sont assez bien marquez par cette autre Devise. Elle represente un Soleil qui perce des nuages, avec ces paroles Italiennes, <hi rend="i">Non Ingombrato da’ nubi.</hi></p>
         <quote>
           <lg>
             <l rend="i"> C’est sa vertu, c’est sa vigueur</l>
@@ -46,11 +36,7 @@
             <l rend="i">N’a paru que sur nos visages.</l>
           </lg>
         </quote>
-        <p>Les Astrologues donnent au Soleil les douze Signes du Zodiaque pour Maisons, &amp; lors
-          qu’il est au Signe de la Vierge, il forme des jours qui sont des plus chauds &amp; des
-          plus longs de l’année. A ce sujet on a fait une troisiéme Devise sur le Voyage du Roy à
-          Nostre-Dame de Paris, où Sa Majesté vint le 30. de Janvier rendre graces à Dieu de sa
-          guerison. Là-dessus on propose le Soleil au Signe de la Vierge, avec ces mots, <hi rend="i">Lucet &amp; ardet.</hi></p>
+        <p>Les Astrologues donnent au Soleil les douze Signes du Zodiaque pour Maisons, &amp; lors qu’il est au Signe de la Vierge, il forme des jours qui sont des plus chauds &amp; des plus longs de l’année. A ce sujet on a fait une troisiéme Devise sur le Voyage du Roy à Nostre-Dame de Paris, où Sa Majesté vint le 30. de Janvier rendre graces à Dieu de sa guerison. Là-dessus on propose le Soleil au Signe de la Vierge, avec ces mots, <hi rend="i">Lucet &amp; ardet.</hi></p>
         <quote>
           <lg>
             <l rend="i"> Ses lumieres &amp; son ardeur</l>
@@ -63,11 +49,7 @@
             <l rend="i">Pour adorer le Roy de la Terre &amp; des Cieux.</l>
           </lg>
         </quote>
-        <p>Au sortir de Nostre Dame le Roy entra dans l’Hostel de Ville, où Sa Majesté fut receuë
-          par M<hi rend="sup">r</hi> le President de Fourcy, avec toute la magnificence dont je vous
-          ay entretenuë. C’est le sujet d’une quatriéme Devise, qui peint le Soleil dans son Midy,
-          parce que vers cette heure-là le Roy parut dans l’Hostel de Ville. Ces paroles sont l’ame
-          de ce Corps brillant, <hi rend="i">Beat omnia vultu.</hi></p>
+        <p>Au sortir de Nostre Dame le Roy entra dans l’Hostel de Ville, où Sa Majesté fut receuë par M<hi rend="sup">r</hi> le President de Fourcy, avec toute la magnificence dont je vous ay entretenuë. C’est le sujet d’une quatriéme Devise, qui peint le Soleil dans son Midy, parce que vers cette heure-là le Roy parut dans l’Hostel de Ville. Ces paroles sont l’ame de ce Corps brillant, <hi rend="i">Beat omnia vultu.</hi></p>
         <quote>
           <lg>
             <l rend="i"> Quand on a sa douce presence,</l>
@@ -80,12 +62,7 @@
             <l rend="i"> Le Spectateur &amp; le Spectacle !</l>
           </lg>
         </quote>
-        <p>Voicy une autre Devise qui a esté faite sur ce que le Parlement s’estant assemblé au
-          Palais le 6. du mois passé, y fit rendre des actions de graces pour la guerison du Roy,
-          qui est la Loy vivante de toute l’Europe. Le Palais qui est le centre des Loix, estoit
-          autrefois le lieu que nos Monarques habitoient, &amp; ils y rendoient la justice
-          eux-mesmes. Cette Devise a pour corps le Soleil dans le Signe de la Balance, avec ce demy
-          Vers d’Ovide, <hi rend="i">Regia Solis erat.</hi></p>
+        <p>Voicy une autre Devise qui a esté faite sur ce que le Parlement s’estant assemblé au Palais le 6. du mois passé, y fit rendre des actions de graces pour la guerison du Roy, qui est la Loy vivante de toute l’Europe. Le Palais qui est le centre des Loix, estoit autrefois le lieu que nos Monarques habitoient, &amp; ils y rendoient la justice eux-mesmes. Cette Devise a pour corps le Soleil dans le Signe de la Balance, avec ce demy Vers d’Ovide, <hi rend="i">Regia Solis erat.</hi></p>
         <quote>
           <lg>
             <l rend="i">C’est icy le Palais du Soleil de Justice,</l>
@@ -99,12 +76,7 @@
             <l rend="i">Un Amy plein d’honneur &amp; de felicité.</l>
           </lg>
         </quote>
-        <p>Je puis ajoûter icy un Médaillon &amp; une Médaille. Le Medaillon est sur la guerison du
-          Roy. C’est la teste de Sa Majesté avec cette Inscription, <hi rend="i">Ludovicus Magnus,
-            Regno &amp; orbi servatus</hi>. La Devise du revers est un Soleil sortant d’un grand
-          nuage, &amp; ces mots pour ame. <hi rend="i">Nec deficit orbi nec sibi</hi>. Dans
-          l’Exerque, <hi rend="i">æquâ constantiâ, eâdem &amp; vigilantiâ, tam malâ quam bonâ
-            valetudine.</hi></p>
+        <p>Je puis ajoûter icy un Médaillon &amp; une Médaille. Le Medaillon est sur la guerison du Roy. C’est la teste de Sa Majesté avec cette Inscription, <hi rend="i">Ludovicus Magnus, Regno &amp; orbi servatus</hi>. La Devise du revers est un Soleil sortant d’un grand nuage, &amp; ces mots pour ame. <hi rend="i">Nec deficit orbi nec sibi</hi>. Dans l’Exerque, <hi rend="i">æquâ constantiâ, eâdem &amp; vigilantiâ, tam malâ quam bonâ valetudine.</hi></p>
         <quote>
           <lg>
             <l rend="i"> Peuples, quand cet épais nuage</l>
@@ -113,13 +85,7 @@
             <l rend="i">Je ne veillois pas moins aux soins de l’Univers.</l>
           </lg>
         </quote>
-        <p>La Médaille est sur l’honneur que Paris a receu par la presence de Sa Majesté, lors
-          qu’Elle disna à l’Hostel de Ville, &amp; se fit voir à tout son Peuple aprés le
-          recouvrement de sa Santé. C’est encore la teste du Roy, &amp; autour, <hi rend="i">Ludovicus Magnus, Pater Patriæ</hi>. Le Revers a pour Devise le Soleil dans le Zodiaque
-          à costé du Signe du Belier, mais plus bas, pour marquer qu’il s’en rapproche afin de
-          ramener le Printemps, avec ces mots autour de cet Astre, <hi rend="i">Quanta propioris
-            gratia vultus</hi> ! Dans l’Exerque, <hi rend="i">Regi optimo, ab Ædilib. Lutet. excipi
-            dignato.</hi></p>
+        <p>La Médaille est sur l’honneur que Paris a receu par la presence de Sa Majesté, lors qu’Elle disna à l’Hostel de Ville, &amp; se fit voir à tout son Peuple aprés le recouvrement de sa Santé. C’est encore la teste du Roy, &amp; autour, <hi rend="i">Ludovicus Magnus, Pater Patriæ</hi>. Le Revers a pour Devise le Soleil dans le Zodiaque à costé du Signe du Belier, mais plus bas, pour marquer qu’il s’en rapproche afin de ramener le Printemps, avec ces mots autour de cet Astre, <hi rend="i">Quanta propioris gratia vultus</hi> ! Dans l’Exerque, <hi rend="i">Regi optimo, ab Ædilib. Lutet. excipi dignato.</hi></p>
         <quote>
           <lg>
             <l rend="i">Plus cet Astre en est prés</l>
@@ -128,9 +94,7 @@
             <l rend="i"> A de puissans attraits.</l>
           </lg>
         </quote>
-        <p>Comme le jour que le Roy vint à Paris, le Soleil qui avoit paru le matin avant l’arrivée
-          de Sa Majesté, demeura caché le reste du jour sous d’épais nuages, on a pris de la
-          occasion de faire ce Madrigal.</p>
+        <p>Comme le jour que le Roy vint à Paris, le Soleil qui avoit paru le matin avant l’arrivée de Sa Majesté, demeura caché le reste du jour sous d’épais nuages, on a pris de la occasion de faire ce Madrigal.</p>
         <quote>
           <lg>
             <l rend="i"> D’où vient, Soleil, qu’aprés que ce matin</l>
@@ -141,18 +105,8 @@
             <l rend="i">Dans Paris aujourd’huy brille le grand LOVIS.</l>
           </lg>
         </quote>
-        <p>On a fait deux autres Médailles, l’une sur la Fondation de la Maison de S. Cir, &amp;
-          l’autre sur la destruction de l’Heresie. La teste du Roy fait le costé droit de l’une
-          &amp; de l’autre avec cette Inscription dans la premiere. <hi rend="i">Ludovicus XIV. Rex
-            pius &amp; magnificus</hi>. Au revers est le Soleil qui envoye ses rayons sur un
-          parterre remply de fleurs nouvellement écloses avec ces mots, <hi rend="i">Ne
-          pereant</hi> ; &amp; dans l’Exerque, <hi rend="i">Regio nobilium, sed pauperum puellarum
-            hospitio</hi>. Cette Inscription est dans la seconde, <hi rend="i">Ludovicus Magnus
-            vindex fidei</hi>. Le Soleil levant &amp; une nuit obscure qui fuit à l’Occident, sont
-          dans le revers avec ces mots autour de cet Astre. <hi rend="i">Veto pulsis errare
-            tenebris</hi> ; &amp; dans l’Exerque, <hi rend="i">Deletâ Calvinianâ hæresi</hi>. <hi rend="sc">m. dc. lxxxvi</hi>.</p>
-        <p>Voicy une seconde Devise sur l’Heresie abatuë. La baguete de Moyse frapant le Rocher en
-          fait le Corps, &amp; elle a pour ame, <hi rend="i">A Domino factum est istud.</hi></p>
+        <p>On a fait deux autres Médailles, l’une sur la Fondation de la Maison de S. Cir, &amp; l’autre sur la destruction de l’Heresie. La teste du Roy fait le costé droit de l’une &amp; de l’autre avec cette Inscription dans la premiere. <hi rend="i">Ludovicus XIV. Rex pius &amp; magnificus</hi>. Au revers est le Soleil qui envoye ses rayons sur un parterre remply de fleurs nouvellement écloses avec ces mots, <hi rend="i">Ne pereant</hi> ; &amp; dans l’Exerque, <hi rend="i">Regio nobilium, sed pauperum puellarum hospitio</hi>. Cette Inscription est dans la seconde, <hi rend="i">Ludovicus Magnus vindex fidei</hi>. Le Soleil levant &amp; une nuit obscure qui fuit à l’Occident, sont dans le revers avec ces mots autour de cet Astre. <hi rend="i">Veto pulsis errare tenebris</hi> ; &amp; dans l’Exerque, <hi rend="i">Deletâ Calvinianâ hæresi</hi>. <hi rend="sc">m. dc. lxxxvi</hi>.</p>
+        <p>Voicy une seconde Devise sur l’Heresie abatuë. La baguete de Moyse frapant le Rocher en fait le Corps, &amp; elle a pour ame, <hi rend="i">A Domino factum est istud.</hi></p>
         <quote>
           <lg>
             <l rend="i">Cette Conversion étonne, elle surprend.</l>
@@ -161,9 +115,7 @@
             <l rend="i">Ah, qu’elle est rare ! ah qu’il est grand !</l>
           </lg>
         </quote>
-        <p>M<hi rend="sup">r</hi> Gauthier qui a voulu exprimer par une Devise les soins que le Roy
-          a pris de l’Estat pendant tout le cours de sa maladie, a fait peindre un Soleil éclipsé
-          avec ces mots, <hi rend="i">Parte sui meliore viget.</hi></p>
+        <p>M<hi rend="sup">r</hi> Gauthier qui a voulu exprimer par une Devise les soins que le Roy a pris de l’Estat pendant tout le cours de sa maladie, a fait peindre un Soleil éclipsé avec ces mots, <hi rend="i">Parte sui meliore viget.</hi></p>
         <quote>
           <lg>
             <l rend="i"> Ce grand Astre qui nous éclaire,</l>
@@ -184,6 +136,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

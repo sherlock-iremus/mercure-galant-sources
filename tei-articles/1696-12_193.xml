@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,9 +14,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
         <p>M<hi rend="sup">r</hi> Percy a esté receu à Florence dans l'Ordre des Chevaliers de Saint Etienne. Vous apprendrez ce qui s'est passé à cette crémonie dans la Lettre que vous allez lire.</p>
         <quote>
@@ -25,6 +24,6 @@
           <p>Cet Ordre fut estably par Cosme I. de Medicis, l'an 1560 en reconnoissance d'une fameuse Victoire qu'il emporta sur les Siennois le 2. Aoust, Feste de Saint Estienne Pape &amp; Martir, &amp; il fut approuvé le I. Février de l'année suivante par le Pape Pie V. On y observe la Regle de S. Benoist, chez les Religieux duquel tout Chevalier est obligé pendant six mois d'aller faire son Noviciat, qui consiste à entendre pendant ce temps la grande Messe &amp; les Vespres les Festes &amp; les Dimanches dans le Choeur de leur Eglise avec l'habit de Ceremonie. [...]</p>
         </quote>
       </div>
-        </body>
+    </body>
   </text>
 </TEI>

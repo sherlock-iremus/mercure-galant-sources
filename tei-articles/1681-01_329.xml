@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,24 +14,33 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-    
-    
-    <p>Le Peuple a toûjours voulu que les Cometes fussent le présage de la mort des Grands. C’est là
-     dessus qu’un fort galant Homme ayant appris que l’Eléphant de Versailles estoit mort, a fait
-     l’Inpromptu qui suit.</p>
-    <quote>
-     <label>INPROMPTU.</label>
-     <lg>
-      <l><hi rend="i">Assurez-vous que la Comete,</hi></l>
-      <l><hi rend="i">Du Ciel la funeste Interprete,</hi></l>
-      <l><hi rend="i">Prédit toûjours la mort d’un Grand.</hi></l>
-      <l><hi rend="i">Ne voila-t-il pas qu’à Versaille,</hi></l>
-      <l><hi rend="i">Etendu, couché sur la paille,</hi></l>
-      <l><hi rend="i">Vient de mourir un Eléphant ?</hi></l>
-     </lg>
-    </quote>
-   </div>
-   </body>
+    <body>
+      <div>
+        <p>Le Peuple a toûjours voulu que les Cometes fussent le présage de la mort des Grands. C’est là dessus qu’un fort galant Homme ayant appris que l’Eléphant de Versailles estoit mort, a fait l’Inpromptu qui suit.</p>
+        <quote>
+          <label>INPROMPTU.</label>
+          <lg>
+            <l>
+              <hi rend="i">Assurez-vous que la Comete,</hi>
+            </l>
+            <l>
+              <hi rend="i">Du Ciel la funeste Interprete,</hi>
+            </l>
+            <l>
+              <hi rend="i">Prédit toûjours la mort d’un Grand.</hi>
+            </l>
+            <l>
+              <hi rend="i">Ne voila-t-il pas qu’à Versaille,</hi>
+            </l>
+            <l>
+              <hi rend="i">Etendu, couché sur la paille,</hi>
+            </l>
+            <l>
+              <hi rend="i">Vient de mourir un Eléphant ?</hi>
+            </l>
+          </lg>
+        </quote>
+      </div>
+    </body>
   </text>
 </TEI>

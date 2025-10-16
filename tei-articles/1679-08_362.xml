@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,18 +14,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Voicy un second Air que j’oubliois à vous envoyer. Les Paroles sont de M. Pageau Avocat
-          au Parlement, &amp; elles ont esté notées par M<hi rend="sup">r</hi> Labbé cy-devant
-          Maistre de Musique de S. Jacques de Dieppe.</p>
+    <body>
+      <div>
+        <p>Voicy un second Air que j’oubliois à vous envoyer. Les Paroles sont de M. Pageau Avocat au Parlement, &amp; elles ont esté notées par M<hi rend="sup">r</hi> Labbé cy-devant Maistre de Musique de S. Jacques de Dieppe.</p>
         <quote>
-          <label type="head">CHANSON A BOIRE.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : la Chanson qui commence par <hi rend="i">Décoiffe-moy cette Bouteille</hi>, doit regarder la page 364.</note>
+          <label type="head">CHANSON A BOIRE.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : la Chanson qui commence par <hi rend="i">Décoiffe-moy cette Bouteille</hi>, doit regarder la page 364.</note>
           <lg>
             <l rend="i"><seg type="tab">    </seg>Decoiffe-moy cette Bouteille,</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg>Je vais entamer ce
-              Jambon ;</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg>Je vais entamer ce Jambon ;</l>
             <l rend="i"><seg type="tab">    </seg>Ah que la chair en est vermeille !</l>
             <l rend="i"><seg type="tab">    </seg>Ah que ce Vin clairet est bon !</l>
             <l rend="i"><seg type="tab">    </seg>Amy, fermons sur nous la porte,</l>
@@ -40,6 +37,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

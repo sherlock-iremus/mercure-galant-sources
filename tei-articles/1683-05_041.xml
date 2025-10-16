@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>La belle &amp; agreable saison où nous sommes, m’engage à vous envoyer une Imitation de
-          la quatriéme Ode d’Horace, qui commence par <hi rend="i">Solvitur acris hiems.</hi> Elle
-          est du Solitaire de la Moulle-Ayglun.</p>
+    <body>
+      <div>
+        <p>La belle &amp; agreable saison où nous sommes, m’engage à vous envoyer une Imitation de la quatriéme Ode d’Horace, qui commence par <hi rend="i">Solvitur acris hiems.</hi> Elle est du Solitaire de la Moulle-Ayglun.</p>
         <quote>
           <lg>
             <l rend="i">Enfin l’Hyver cede au Printemps,</l>
@@ -51,6 +48,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

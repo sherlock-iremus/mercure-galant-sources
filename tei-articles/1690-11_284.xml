@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Les paroles que vous allez lire, &amp; que je vous envoye notées, ont esté mises en Air par M<hi rend="sup">r</hi> de Montailly, Eleve de feu M<hi rend="sup">r</hi> le Camus. M<hi rend="sup">r</hi> de Bacilly, qui connoissoit parfaitement son genie, estimoit fort ses Ouvrages <note resp="editor">L'air a également été publié dans le <hi rend="italic">XXXIV. livre d'airs de différents auteurs</hi> (Paris, Christophe Ballard, 1691, p. 23-25, cf. LADDA 1691-08).</note>.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">Echo, qui dans ces bois, &amp;c.</hi>, doit regarder la page 285.</note>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">Echo, qui dans ces bois, &amp;c.</hi>, doit regarder la page 285.</note>
           <lg>
             <l rend="i">Echo, qui dans ces lieux redis à tout moment</l>
             <l rend="i">Les sermens que me fait Climene,</l>
@@ -37,6 +37,6 @@
           </figure>
         </ref>
       </div>
-        </body>
+    </body>
   </text>
 </TEI>

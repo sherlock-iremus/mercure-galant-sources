@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-                
-                
-
-                <p>Les Lettres de Baston dans la nouvelle Angleterre portent que le Capitaine
-                    Pidgeon &amp; plusieurs autres Anglois, ayant été pris par les Indiens, avoient été
-                    retenus deux mois dans les Bois où ils avoient beaucoup souffert, mais
-                    qu’ayant esté conduits à Quebec ils y avoient esté bien traitez &amp; renvoyez à
-                    Baston, où ils sont arrivez il y a quelques jours.</p>
-
-            </div>
+    <body>
+      <div>
+        <p>Les Lettres de Baston dans la nouvelle Angleterre portent que le Capitaine Pidgeon &amp; plusieurs autres Anglois, ayant été pris par les Indiens, avoient été retenus deux mois dans les Bois où ils avoient beaucoup souffert, mais qu’ayant esté conduits à Quebec ils y avoient esté bien traitez &amp; renvoyez à Baston, où ils sont arrivez il y a quelques jours.</p>
+      </div>
     </body>
   </text>
 </TEI>

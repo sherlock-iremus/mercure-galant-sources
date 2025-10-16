@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,21 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
-
+    <body>
+      <div>
         <p/>
-        <p>Les Capucins de Melun, dont le Convent a esté basty des libéralitez du Roy Henry IV.
-          auquel il a mis luy-mesme la premiere pierre, ont marqué leur joye par un <hi rend="i">Te
-            Deum</hi> tres-solemnel qu'ils ont fait chanter dans leur Eglise. La Musique est fort
-          rare chez ces Peres, &amp; il faut que l'occasion soit bien pressante pour les obliger à
-          s'en servir. Il y eut le soir un tres-beau Feu d'artifice, qui fut allumé par le
-          Gouverneur. Il estoit accompagné du Maire de la Ville. Les Canons, les Trompetes, les
-          Tambours, &amp; les Cris de Vive le Roy, se firent entendre en mesme temps d'une
-          tres-nombreuse Assemblée, tous les Habitans des environs s'estant rendus dans la
-          Ville.</p>
+        <p>Les Capucins de Melun, dont le Convent a esté basty des libéralitez du Roy Henry IV. auquel il a mis luy-mesme la premiere pierre, ont marqué leur joye par un <hi rend="i">Te Deum</hi> tres-solemnel qu'ils ont fait chanter dans leur Eglise. La Musique est fort rare chez ces Peres, &amp; il faut que l'occasion soit bien pressante pour les obliger à s'en servir. Il y eut le soir un tres-beau Feu d'artifice, qui fut allumé par le Gouverneur. Il estoit accompagné du Maire de la Ville. Les Canons, les Trompetes, les Tambours, &amp; les Cris de Vive le Roy, se firent entendre en mesme temps d'une tres-nombreuse Assemblée, tous les Habitans des environs s'estant rendus dans la Ville.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

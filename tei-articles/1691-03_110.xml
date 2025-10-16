@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
-        <p>Je ne vous préviendray point sur la maniere agréable dont est tournée la Fable que je
-          vous envoye. Lisez, &amp; vous aurez lieu d’estre contente.</p>
+        <p>Je ne vous préviendray point sur la maniere agréable dont est tournée la Fable que je vous envoye. Lisez, &amp; vous aurez lieu d’estre contente.</p>
         <quote>
           <label>LE THESAURISEUR<lb/>ET<lb/>LE SINGE.</label>
           <lg>
@@ -60,6 +58,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

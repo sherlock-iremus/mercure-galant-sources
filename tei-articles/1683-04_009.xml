@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Toute l’Europe a les yeux ouverts sur les divers Camps que Sa Majesté doit établir. C’est
-          une matiere bien ample aux raisonnemens des Politiques ; mais que sert de raisonner ? Les
-          desseins du Roy ont toûjours esté impenétrables, &amp; c’est avec beaucoup de justesse
-          qu’on a fait cette Devise, le Soleil pour corps, &amp; ces mots pour ame, <hi rend="i">Proprio se lumine condit.</hi> Vos Amies en trouveront l’explication dans ce
-          Sonnet.</p>
+    <body>
+      <div>
+        <p>Toute l’Europe a les yeux ouverts sur les divers Camps que Sa Majesté doit établir. C’est une matiere bien ample aux raisonnemens des Politiques ; mais que sert de raisonner ? Les desseins du Roy ont toûjours esté impenétrables, &amp; c’est avec beaucoup de justesse qu’on a fait cette Devise, le Soleil pour corps, &amp; ces mots pour ame, <hi rend="i">Proprio se lumine condit.</hi> Vos Amies en trouveront l’explication dans ce Sonnet.</p>
         <quote>
           <label>SUR LE SECRET DU ROY.<lb/><hi rend="sc">Sonnet.</hi></label>
           <lg>
@@ -51,6 +46,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

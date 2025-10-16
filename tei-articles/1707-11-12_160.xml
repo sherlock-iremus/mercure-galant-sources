@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,9 +14,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Les Chansons convenant bien avec la joye, celle qui suit sera bien placée aprés les Réjoüissances que vous venez de lire. Elle est de la composition de Mr du Carreau.</p>
         <quote>
           <label>AIR NOUVEAU.</label>
@@ -42,6 +41,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

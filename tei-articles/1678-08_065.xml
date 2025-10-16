@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,22 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Je ne vous puis encor envoyer l’Elegie du jeune Marquis. Il me la refuse sur le prétexte
-          d’y vouloir mettre la derniere main. À vous dire ce que j’en croy, le nom d’Autheur
-          l’épouvante, &amp; il craint qu’on ne luy fasse un crime d’avoir fait des Vers. Il est
-          vray qu’il seroit à souhaiter que ceux qui n’en font que de méchans y renonçassent ; mais
-          il me semble que pour estre de qualité, il n’en doit pas estre plus honteux de faire
-          paroistre qu’on a de l’esprit. Je pourrois nommer quantité de Personnes considérables par
-          leurs Dignitez &amp; par leurs Emplois, sans en excepter mesme les Princes, qui se
-          connoissant du talent pour la Poësie, n’ont point dédaigné de l’exercer. Ils n’avoient pas
-          le scrupule qui arreste &amp; nostre jeune Marquis, &amp; un fort galant Homme que je
-          connois. Il aime les Vers, en fait de tres-beaux, &amp; voudroit s’abandonner à son génie,
-          mais il est d’une naissance qui luy fait appréhender qu’on ne regarde cet amusement comme
-          une occupation indigne de luy. C’est là-dessus qu’il a fait la Piece que vous allez
-          voir.</p>
+    <body>
+      <div>
+        <p>Je ne vous puis encor envoyer l’Elegie du jeune Marquis. Il me la refuse sur le prétexte d’y vouloir mettre la derniere main. À vous dire ce que j’en croy, le nom d’Autheur l’épouvante, &amp; il craint qu’on ne luy fasse un crime d’avoir fait des Vers. Il est vray qu’il seroit à souhaiter que ceux qui n’en font que de méchans y renonçassent ; mais il me semble que pour estre de qualité, il n’en doit pas estre plus honteux de faire paroistre qu’on a de l’esprit. Je pourrois nommer quantité de Personnes considérables par leurs Dignitez &amp; par leurs Emplois, sans en excepter mesme les Princes, qui se connoissant du talent pour la Poësie, n’ont point dédaigné de l’exercer. Ils n’avoient pas le scrupule qui arreste &amp; nostre jeune Marquis, &amp; un fort galant Homme que je connois. Il aime les Vers, en fait de tres-beaux, &amp; voudroit s’abandonner à son génie, mais il est d’une naissance qui luy fait appréhender qu’on ne regarde cet amusement comme une occupation indigne de luy. C’est là-dessus qu’il a fait la Piece que vous allez voir.</p>
         <quote>
           <label>À MONSIEUR** <lb/>EPISTRE.</label>
           <lg>
@@ -122,6 +109,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

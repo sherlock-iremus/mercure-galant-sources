@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,20 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>La Bassete qui a donné occasion de faire ces Vers, me fait souvenir de deux Comédies
-          nouvelles qui doivent paroistre bientost sous ce mesme titre, sur les deux Theatres
-          François qui sont à Paris. Plusieurs Personnes veulent se persuader que celle qui doit
-          estre représentée par la Troupe de Guenegaud, part du mesme endroit d’où nous est venuë
-            <hi rend="i">la Devineresse</hi>, &amp; ils le croyent par cette seule raison que la
-          Bassete est encor une matiere du temps. Ils font tort par là aux Autheurs de cette Piece,
-          à qui il n’est pas juste d’en oster la gloire. J’espere qu’il me sera permis de vous les
-          nommer, si-tost qu’elle aura paru. Tout ce que je vous en puis dire aujourd’huy, c’est
-          qu’un Gentilhomme de Bourges y a bonne part. Quant à la Bassete que nous promet l’Hostel
-          de Bourgogne, elle est de M<hi rend="sup">r</hi> de Hauteroche, Autheur du <hi rend="i">Crispin Musicien</hi>, qui vous a autrefois si bien divertie. </p>
+    <body>
+      <div>
+        <p>La Bassete qui a donné occasion de faire ces Vers, me fait souvenir de deux Comédies nouvelles qui doivent paroistre bientost sous ce mesme titre, sur les deux Theatres François qui sont à Paris. Plusieurs Personnes veulent se persuader que celle qui doit estre représentée par la Troupe de Guenegaud, part du mesme endroit d’où nous est venuë <hi rend="i">la Devineresse</hi>, &amp; ils le croyent par cette seule raison que la Bassete est encor une matiere du temps. Ils font tort par là aux Autheurs de cette Piece, à qui il n’est pas juste d’en oster la gloire. J’espere qu’il me sera permis de vous les nommer, si-tost qu’elle aura paru. Tout ce que je vous en puis dire aujourd’huy, c’est qu’un Gentilhomme de Bourges y a bonne part. Quant à la Bassete que nous promet l’Hostel de Bourgogne, elle est de M<hi rend="sup">r</hi> de Hauteroche, Autheur du <hi rend="i">Crispin Musicien</hi>, qui vous a autrefois si bien divertie. </p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

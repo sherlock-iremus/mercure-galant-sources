@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
-        <p>Ainsi il n’y a rien de plus juste que la Devise qui a esté faite sur sa mort, par M<hi rend="sup">r</hi> Rault de Roüen. Le Corps est une Aiguille de Boussole touchée de
-          l’Aymant. Tout le monde sçait que cette Aiguille, quand elle est ainsi touchée, est dans
-          une perpétuelle agitation, &amp; que cherchant incessamment son repos, elle ne peut le
-          trouver, qu’en s’arrestant sur le point qui luy marque le Pôle, où cette Pierre l’attire.
-          Ces mots, <hi rend="i">Nec cesso, nec erro</hi>, font l’ame de cette Devise. En voicy
-          l’explication par le mesme M<hi rend="sup">r</hi> Rault.</p>
+    <body>
+      <div>
+        <p>Ainsi il n’y a rien de plus juste que la Devise qui a esté faite sur sa mort, par M<hi rend="sup">r</hi> Rault de Roüen. Le Corps est une Aiguille de Boussole touchée de l’Aymant. Tout le monde sçait que cette Aiguille, quand elle est ainsi touchée, est dans une perpétuelle agitation, &amp; que cherchant incessamment son repos, elle ne peut le trouver, qu’en s’arrestant sur le point qui luy marque le Pôle, où cette Pierre l’attire. Ces mots, <hi rend="i">Nec cesso, nec erro</hi>, font l’ame de cette Devise. En voicy l’explication par le mesme M<hi rend="sup">r</hi> Rault.</p>
         <quote>
           <lg>
             <l rend="i">Quelle chaîne d’esprits à nos yeux invisible,</l>
@@ -62,6 +56,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

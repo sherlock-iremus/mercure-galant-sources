@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,19 +14,19 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Vous ne serez pas fâchée de voir pour la seconde fois un Madrigal que vous avez déja lû avec plaisir<note resp="editor">Le madrigal avait été publié en octobre 1678 (cf. <ref target="MG-1678-10_151b">cet article</ref>).</note>, puis que je vous le renvoye mis en Air par M<hi rend="sup">r</hi> Charpentier. Comme ces sortes d’Ouvrages parlent d’eux-mesmes, je vous laisseray juger à l’avenir de leur bonté, &amp; me contenteray de vous en nommer les Autheurs.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par <hi rend="i">Ah qu’on est malheureux d’avoir eu des desirs</hi>, doit regarder la page 347.</note>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par <hi rend="i">Ah qu’on est malheureux d’avoir eu des desirs</hi>, doit regarder la page 347.</note>
           <lg>
             <l rend="i">Ah, qu’on est malheureux d’avoir eu des desirs,</l>
-          <l rend="i">D’avoir fait de l’amour ses plus charmans plaisirs,</l>
-          <l rend="i">Quand il faut renoncer à l’ardeur qui nous presse !</l>
-          <l rend="i">On ne peut oublier ce qui nous a charmé,</l>
-          <l rend="i">On ne gouverne pas comme on veut la tendresse.</l>
-          <l rend="i">Heureux qui peut haïr ce qu’il a bien aimé.</l>
+            <l rend="i">D’avoir fait de l’amour ses plus charmans plaisirs,</l>
+            <l rend="i">Quand il faut renoncer à l’ardeur qui nous presse !</l>
+            <l rend="i">On ne peut oublier ce qui nous a charmé,</l>
+            <l rend="i">On ne gouverne pas comme on veut la tendresse.</l>
+            <l rend="i">Heureux qui peut haïr ce qu’il a bien aimé.</l>
           </lg>
         </quote>
         <ref target="images/1678-11_347.JPG">
@@ -35,6 +35,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

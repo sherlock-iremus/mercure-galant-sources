@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Je ne vous préviendray point sur l'Air nouveau que je vous envoye. Vous en jugerez, je vous le laisse chanter.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par <hi rend="i">L'Amour, le seul amour est cause</hi>, doit regarder la page 205.</note>
-          <lg><l rend="i">L'Amour, le seul amour est cause</l>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par <hi rend="i">L'Amour, le seul amour est cause</hi>, doit regarder la page 205.</note>
+          <lg>
+            <l rend="i">L'Amour, le seul amour est cause</l>
             <l rend="i">Que je neglige mon Troupeau ;</l>
             <l rend="i">Mais comme il est le moindre du Hameau,</l>
             <l rend="i">On dira que c'est peu de chose.</l>
@@ -36,6 +37,6 @@
           </figure>
         </ref>
       </div>
-        </body>
+    </body>
   </text>
 </TEI>

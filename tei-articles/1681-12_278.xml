@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Les vrais Mots des Enigmes du dernier Mois, &amp; les noms de ceux qui les ont trouvez,
-          seront dans ma seiziéme Lettre Extraordinaire, que vous aurez le 15. de Janvier. Cependant
-          en voicy deux autres que je vous envoye. La premiere a esté faite par le Devot Captif
-          d’Argenton-Château.</p>
+    <body>
+      <div>
+        <p>Les vrais Mots des Enigmes du dernier Mois, &amp; les noms de ceux qui les ont trouvez, seront dans ma seiziéme Lettre Extraordinaire, que vous aurez le 15. de Janvier. Cependant en voicy deux autres que je vous envoye. La premiere a esté faite par le Devot Captif d’Argenton-Château.</p>
         <quote>
           <label>ENIGME.</label>
           <lg>
@@ -46,6 +42,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

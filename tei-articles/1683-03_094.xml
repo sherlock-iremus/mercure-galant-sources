@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Les Vers que j'ajoûte à ceux de cette Chanson, doivent estre d'un grand poids pour ceux
-          qui voudront faire une sérieuse refléxion sur le peu de certitude des choses du monde. Ils
-          ont esté envoyez à une Dame, qui avoit fait une perte tres-considérable.</p>
+    <body>
+      <div>
+        <p>Les Vers que j'ajoûte à ceux de cette Chanson, doivent estre d'un grand poids pour ceux qui voudront faire une sérieuse refléxion sur le peu de certitude des choses du monde. Ils ont esté envoyez à une Dame, qui avoit fait une perte tres-considérable.</p>
         <quote>
           <label>CONSOLATION.</label>
           <lg>
@@ -100,6 +97,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

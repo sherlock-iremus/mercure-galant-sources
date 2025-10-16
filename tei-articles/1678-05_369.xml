@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,20 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-
-        
-        <p>En achevant cet Article, je reçois une Lettre de Monsieur le Duc de S. Aignan, qui me
-          fait l’honneur de m’envoyer des Explications en Vers sur les deux Enigmes. Je vous les
-          reserve pour une autre occasion. Dire qu’il a fait des Vers, c’est dire qu’il en a fait
-          d’agreables. Rien n’est ny plus spirituel, ny plus galant, que ce que cet Illustre Duc
-          adjoûte en prose aux Explications dont je vous parle. Il dit, <hi rend="i">qu’il ne se
-            peut qu’un Premier Gentilhomme de la Chambre du Roy méconnoisse une Chemise qui a
-            l’honneur d’approcher de si pres, comme dit l’Enigme, de la Personne de sa Majesté ; ny
-            qu’un Lieutenant General en ses Armées, se puisse tromper facilement à la description
-            d’une Canne.</hi></p>
+    <body>
+      <div>
+        <p>En achevant cet Article, je reçois une Lettre de Monsieur le Duc de S. Aignan, qui me fait l’honneur de m’envoyer des Explications en Vers sur les deux Enigmes. Je vous les reserve pour une autre occasion. Dire qu’il a fait des Vers, c’est dire qu’il en a fait d’agreables. Rien n’est ny plus spirituel, ny plus galant, que ce que cet Illustre Duc adjoûte en prose aux Explications dont je vous parle. Il dit, <hi rend="i">qu’il ne se peut qu’un Premier Gentilhomme de la Chambre du Roy méconnoisse une Chemise qui a l’honneur d’approcher de si pres, comme dit l’Enigme, de la Personne de sa Majesté ; ny qu’un Lieutenant General en ses Armées, se puisse tromper facilement à la description d’une Canne.</hi></p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

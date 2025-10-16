@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Vous me sçaurez gré sans doute du troisiéme Air nouveau que je vous envoye puis qu’il
-          vous donnera lieu de faire retentir la gloire du Roy dans vostre Province.</p>
+    <body>
+      <div>
+        <p>Vous me sçaurez gré sans doute du troisiéme Air nouveau que je vous envoye puis qu’il vous donnera lieu de faire retentir la gloire du Roy dans vostre Province.</p>
         <quote>
-          <label>AIR.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les
-              Figures</hi> : l’Air qui commence par <hi rend="i">Hollandois, le grand Roy qui vous
-              donne la Paix</hi>, doit regarder la page 242.</note>
+          <label>AIR.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Hollandois, le grand Roy qui vous donne la Paix</hi>, doit regarder la page 242.</note>
           <lg>
             <l rend="i">Hollandois, le grand Roy qui vous donne la Paix,</l>
             <l rend="i"><space/>Au temps qu’il se desarme</l>
@@ -39,6 +36,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

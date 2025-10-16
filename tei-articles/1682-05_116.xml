@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,26 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
-        <p>Il n’est pas facile également de donner des Regles pour la Poesie. La Nature est en cela
-          au dessus de l’Art. Cependant, quoy qu’on ne se croye aucun talent pour faire des Vers, il
-          est certain qu’il ne faut souvent qu’aimer pour devenir Poëte. Le Dialogue que vous allez
-          voir en est une preuve. Un Cavalier estant encor dans sa premiere jeunesse, eut accés chez
-          une Dame dont la beauté le toucha. Il luy conta des douceurs, luy écrivit de tendres
-          Billets, &amp; pour luy mieux peindre sa passion, il fit habitude avec les Muses. Elles
-          luy aiderent à exprimer une partie de ce qu’il sentoit. Insensiblement ses soins plûrent à
-          la Belle, qui paya ses complaisances par l’éloignement de quelques Gens éclairez qui
-          eussent pû condamner un attachement si peu attendu. Le jeune Amant, fier de son triomphe,
-          le voulut pousser plus loin. Soit que son tempérament fust d’estre jaloux, soit que le
-          sacrifice trop prompt que luy avoit fait la Dame luy fist craindre qu’elle ne le
-          sacrifiast à son tour, il la réduisit à ne voir personne, &amp; fut pour elle un Espion si
-          exact, que si un coup d’œil luy échapoit, il sçavoit incontinent qui estoit l’Heureux sur
-          qui ce coup d’œil estoit tombé. Il ne manquoit pas de faire ses plaintes. La Belle sçavoit
-          comment se justifier, &amp; le raccommodement suivoit toûjours le divorce. Vous le
-          connoistrez par les derniers Vers du Cavalier sur un diférent de cette nature.</p>
+        <p>Il n’est pas facile également de donner des Regles pour la Poesie. La Nature est en cela au dessus de l’Art. Cependant, quoy qu’on ne se croye aucun talent pour faire des Vers, il est certain qu’il ne faut souvent qu’aimer pour devenir Poëte. Le Dialogue que vous allez voir en est une preuve. Un Cavalier estant encor dans sa premiere jeunesse, eut accés chez une Dame dont la beauté le toucha. Il luy conta des douceurs, luy écrivit de tendres Billets, &amp; pour luy mieux peindre sa passion, il fit habitude avec les Muses. Elles luy aiderent à exprimer une partie de ce qu’il sentoit. Insensiblement ses soins plûrent à la Belle, qui paya ses complaisances par l’éloignement de quelques Gens éclairez qui eussent pû condamner un attachement si peu attendu. Le jeune Amant, fier de son triomphe, le voulut pousser plus loin. Soit que son tempérament fust d’estre jaloux, soit que le sacrifice trop prompt que luy avoit fait la Dame luy fist craindre qu’elle ne le sacrifiast à son tour, il la réduisit à ne voir personne, &amp; fut pour elle un Espion si exact, que si un coup d’œil luy échapoit, il sçavoit incontinent qui estoit l’Heureux sur qui ce coup d’œil estoit tombé. Il ne manquoit pas de faire ses plaintes. La Belle sçavoit comment se justifier, &amp; le raccommodement suivoit toûjours le divorce. Vous le connoistrez par les derniers Vers du Cavalier sur un diférent de cette nature.</p>
         <quote>
           <label>DIALOGUE<lb/>D’IRIS &amp; DE TIRCIS.</label>
           <label type="speaker">IRIS.</label>
@@ -117,6 +101,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

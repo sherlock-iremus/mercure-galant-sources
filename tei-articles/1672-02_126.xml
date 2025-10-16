@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p>Les Nouvellistes qu’il sut joindre, s’entretenoient de la mort de Monsieur Godeau
-            Evesque de Vence, qui estoit de l’Academie Françoise : Ils loüerent fort ses Poësies,
-            &amp; sa Traduction des Pseaumes.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>Les Nouvellistes qu’il sut joindre, s’entretenoient de la mort de Monsieur Godeau Evesque de Vence, qui estoit de l’Academie Françoise : Ils loüerent fort ses Poësies, &amp; sa Traduction des Pseaumes.</p>
+      </div>
+    </body>
   </text>
 </TEI>

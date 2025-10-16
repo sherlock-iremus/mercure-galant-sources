@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p/>
-          <p>Dés que les plaisirs innocens seront de retour, on verra paroistre sur la Scene deux Pieces nouvelles, dont l'une est serieuse, ayant pour titre, <hi rend="i">Agrippa, ou la mort d'Auguste</hi> ; L'autre est une Comedie intitulée, <hi rend="i">le Viellard couru, ou les differens Caracteres des Femmes</hi>, de l'Auteur des <hi rend="i">Dames vangées</hi>,  qui parurent l'année derniere, &amp; dont on n'a pû reprendre les representations, les principaux Acteurs de cette Piece ayant esté incommodez pendant une partie de l'hiver.</p>
-        </div>
-      </body>
+    <body>
+      <div>
+        <p/>
+        <p>Dés que les plaisirs innocens seront de retour, on verra paroistre sur la Scene deux Pieces nouvelles, dont l'une est serieuse, ayant pour titre, <hi rend="i">Agrippa, ou la mort d'Auguste</hi> ; L'autre est une Comedie intitulée, <hi rend="i">le Viellard couru, ou les differens Caracteres des Femmes</hi>, de l'Auteur des <hi rend="i">Dames vangées</hi>, qui parurent l'année derniere, &amp; dont on n'a pû reprendre les representations, les principaux Acteurs de cette Piece ayant esté incommodez pendant une partie de l'hiver.</p>
+      </div>
+    </body>
   </text>
 </TEI>

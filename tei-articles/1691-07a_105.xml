@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,16 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
-        <p>Voicy d’autres plaintes d’un Amant à une belle Inhumaine. C’est M<hi rend="sup">r</hi> de
-          Messange qui le fait parler.</p>
+        <p>Voicy d’autres plaintes d’un Amant à une belle Inhumaine. C’est M<hi rend="sup">r</hi> de Messange qui le fait parler.</p>
         <quote>
           <label>IDILLE.<lb/>Pour servir de Bouquet.</label>
           <lg>
-            <l><hi rend="i">Que me servent ces fleurs de toutes parts écloses ?</hi></l>
+            <l>
+              <hi rend="i">Que me servent ces fleurs de toutes parts écloses ?</hi>
+            </l>
             <l rend="i">Que me sert-il, Amour, que ton Myrthe &amp; tes Roses</l>
             <l rend="i">Forment le riche émail de ce brillant Jardin,</l>
             <l rend="i">Si l’ingrate Beauté qui cause mes alarmes,</l>
@@ -104,6 +104,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

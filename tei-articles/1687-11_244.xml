@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
-        <p>Je vous envoye le plan de Castelnovo, &amp; je n’y joins point encore la Relation de ce
-          Siege, qui devoit estre dans ma Lettre de ce mois. Je l’attens de Malthe, avec les noms de
-          tous les Chevaliers qui ont esté tuez ou blessez pendant cette Campagne, ainsi que de ceux
-          qui se sont signalez. .</p>
-      </div>  
-      </body>
+        <p>Je vous envoye le plan de Castelnovo, &amp; je n’y joins point encore la Relation de ce Siege, qui devoit estre dans ma Lettre de ce mois. Je l’attens de Malthe, avec les noms de tous les Chevaliers qui ont esté tuez ou blessez pendant cette Campagne, ainsi que de ceux qui se sont signalez. .</p>
+      </div>
+    </body>
   </text>
 </TEI>

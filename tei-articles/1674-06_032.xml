@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>On n’a pas seulement fait des Sonnets sur la Conqueste de Mastric ; &amp; d’autres en
-          voulant parler plus gayement, en ont veritablement chanté le Prise, puis qu’ils ont fait
-          des Chansons. En voicy une qui a fait du bruit, &amp; dont on a esté satisfait à la
-          Cour.</p>
+    <body>
+      <div>
+        <p>On n’a pas seulement fait des Sonnets sur la Conqueste de Mastric ; &amp; d’autres en voulant parler plus gayement, en ont veritablement chanté le Prise, puis qu’ils ont fait des Chansons. En voicy une qui a fait du bruit, &amp; dont on a esté satisfait à la Cour.</p>
         <quote rend="border">
           <label rend="center b">Sur la prise</label>
           <label rend="center b">De Mastric</label>
@@ -39,7 +35,8 @@
             <l><space/><space/>Et c’est pourquoy</l>
             <l>Moy, qui ne puis faire autre chose,</l>
             <l><space/><space/>Du moins je boy.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l>Si je ne suis pas assez brave</l>
             <l>Pour grimper sur un Bastion,</l>
             <l>Au moins en honneste Poltron,</l>
@@ -56,6 +53,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

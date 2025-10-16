@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Il se fait toûjours force Galanteries en matiere de Bouquets. Envoicy un envoyé à une
-          Belle par le Fils d’un Auditeur des Comptes de Dijon. Je vous ay déja fait voir de ses
-          Vers.</p>
+    <body>
+      <div>
+        <p>Il se fait toûjours force Galanteries en matiere de Bouquets. Envoicy un envoyé à une Belle par le Fils d’un Auditeur des Comptes de Dijon. Je vous ay déja fait voir de ses Vers.</p>
         <quote>
           <label>BOUQUET.</label>
           <lg>
@@ -42,6 +39,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

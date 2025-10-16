@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,21 +14,20 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div copyOf="JLB-MG-1686-11a_070">
-
-          
-          <p>On ne m’a point dit le nom de l’Auteur de cette Fable. Je sçay seulement qu’il est de Troyes, &amp; qu’en l’envoyant à Mademoiselle C… il l’accompagna de ce Madrigal.</p>
-          <quote>
-            <lg>
-              <l rend="i"> Si la Belle dont il s’agit</l>
-              <l rend="i"> Avoit eu vos yeux, vostre esprit,</l>
-              <l rend="i">Et mille qualitez qu’en vous chacun admire,</l>
-              <l rend="i"> Pinçon malgré son changement,</l>
-              <l rend="i"> Quelque chose qu’on eust pû dire,</l>
-              <l rend="i">N’auroit jamais cessé de l’aimer un moment.</l>
-            </lg>
-          </quote>
-        </div>
-      </body>
+    <body>
+      <div copyOf="JLB-MG-1686-11a_070">
+        <p>On ne m’a point dit le nom de l’Auteur de cette Fable. Je sçay seulement qu’il est de Troyes, &amp; qu’en l’envoyant à Mademoiselle C… il l’accompagna de ce Madrigal.</p>
+        <quote>
+          <lg>
+            <l rend="i"> Si la Belle dont il s’agit</l>
+            <l rend="i"> Avoit eu vos yeux, vostre esprit,</l>
+            <l rend="i">Et mille qualitez qu’en vous chacun admire,</l>
+            <l rend="i"> Pinçon malgré son changement,</l>
+            <l rend="i"> Quelque chose qu’on eust pû dire,</l>
+            <l rend="i">N’auroit jamais cessé de l’aimer un moment.</l>
+          </lg>
+        </quote>
+      </div>
+    </body>
   </text>
 </TEI>

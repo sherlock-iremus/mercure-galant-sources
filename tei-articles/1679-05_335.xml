@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p><seg type="tab">    </seg>Les Enigmes divertissent toûjours le Public à l’ordinaire. M<hi rend="sup">r</hi> de Grammarais, de Roüen, a expliqué ainsi la premiere du dernier Mois
-          dans son vray sens.</p>
+    <body>
+      <div>
+        <p><seg type="tab">    </seg>Les Enigmes divertissent toûjours le Public à l’ordinaire. M<hi rend="sup">r</hi> de Grammarais, de Roüen, a expliqué ainsi la premiere du dernier Mois dans son vray sens.</p>
         <quote>
           <l>Les plus grands, les plus fiers sont soûmis à vos loix,</l>
           <l>Et plusieurs, dites-vous, à vostre seule voix</l>
@@ -32,6 +30,6 @@
         </quote>
         <p>Ce mesme Mot de Tambour a esté trouvé par Messieurs [liste des noms].</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Je vous envoye une Chanson que j'entens chanter à tout le monde. C'est un témoignage
-          qu'elle plaist. Lors que vous aurez jetté les yeux dessus, vous en jugerez mieux que
-          personne <note resp="editor">L'air a également été publié dans le <hi rend="italic">XXXV. livre d'airs de différents auteurs</hi> (Paris, Christophe Ballard, 1692, p. 5-6, cf. LADDA 1692-02).</note>.</p>
+    <body>
+      <div>
+        <p>Je vous envoye une Chanson que j'entens chanter à tout le monde. C'est un témoignage qu'elle plaist. Lors que vous aurez jetté les yeux dessus, vous en jugerez mieux que personne <note resp="editor">L'air a également été publié dans le <hi rend="italic">XXXV. livre d'airs de différents auteurs</hi> (Paris, Christophe Ballard, 1692, p. 5-6, cf. LADDA 1692-02).</note>.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour
-              placer les Figures</hi> : l’Air doit regarder la page 293.</note>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air doit regarder la page 293.</note>
           <lg>
             <l rend="i">Dans l'état ou je suis que mon cœur est a plaindre !</l>
             <l rend="i">L'honneur &amp; le danger partagent mes soupirs ;</l>
@@ -36,6 +33,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

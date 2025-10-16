@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p>La course de Bague estant achevée, tous les Gentilshommes monterent à cheval, &amp; firent une marche autour du Manege découvert, qui est bordé de chaque costé de trois rang d'arbres. Un Timballier, quatre Trompettes &amp; quatre Hautbois la commencerent.</p>
-        </div>
-      </body>
+    <body>
+      <div>
+        <p>La course de Bague estant achevée, tous les Gentilshommes monterent à cheval, &amp; firent une marche autour du Manege découvert, qui est bordé de chaque costé de trois rang d'arbres. Un Timballier, quatre Trompettes &amp; quatre Hautbois la commencerent.</p>
+      </div>
+    </body>
   </text>
 </TEI>

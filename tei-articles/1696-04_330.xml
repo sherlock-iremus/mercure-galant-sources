@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>La pluspart des Officiers sont déja partis pour aller se mettre en estat de commencer la Campagne. C'est ce qui a donné lieu aux Vers que vous allez lire, &amp; qui ont esté mis en Air par un de nos plus habiles Musiciens.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin">L’Air doit regarder la page 330.</note>
-          <lg><l rend="i">Helas ! faut-il qu'un peu de gloire</l>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin">L’Air doit regarder la page 330.</note>
+          <lg>
+            <l rend="i">Helas ! faut-il qu'un peu de gloire</l>
             <l rend="i">Me couste tant,</l>
             <l rend="i">Et qu'une place dans l'Histoire</l>
             <l rend="i">Paroisse si charmante aux yeux de mon Amant ?</l>
@@ -40,6 +41,6 @@
           </figure>
         </ref>
       </div>
-        </body>
+    </body>
   </text>
 </TEI>

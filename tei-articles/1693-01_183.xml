@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
-        <p>Vous avez esté fort satisfaite des Eglogues où le nom de Cydippe est employé. Elles sont
-          de M<hi rend="sup">r</hi> Auboüin, dont j’ay recouvré ce nouvel Ouvrage.</p>
+        <p>Vous avez esté fort satisfaite des Eglogues où le nom de Cydippe est employé. Elles sont de M<hi rend="sup">r</hi> Auboüin, dont j’ay recouvré ce nouvel Ouvrage.</p>
         <quote>
           <label>PLACET A FLORE.</label>
           <lg>
@@ -86,6 +84,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Vous vous souviendrez sans doute de ce que je vous dis il y a quelque temps d’une Nourrice, qui ayant esté retenuë par Madame la Duchesse de Lesdiguieres, en mourut de joye. Si elle eust eu une seconde vie, elle l’auroit infailliblement perduë en la voyant depuis peu accouchée heureusement d’un Garçon. Cette agreable nouvelle ne fut pas plûtost répanduë dans l’Hostel de Lesdiguieres, que tous les Domestiques sortirent dans la Ruë en dansant, &amp; rendirent tout le Quartier témoin de leur joye en la faisant éclater au son de plusieurs Instrumens. Ces marques de réjoüissance durerent toute la nuit. Le lendemain il y eut un Feu d’artifice dans les formes avec des figures. Ces témoignages d’un zele affectionné dans des Domestiques, furent recompensez par une somme considérable que M<hi rend="sup">r</hi> le Duc de Lesdiguieres prit soin de leur faire distribuer.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

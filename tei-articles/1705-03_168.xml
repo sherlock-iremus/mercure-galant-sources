@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,23 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-                
-                
-                <p>Le Roy d’Espagne a nommé à l’Evêché de Portorico le Pere Domingo Perez Urbano, de
-                    l’Ordre des Trinitaires. </p>
-                <p>[…]</p>
-                <p>Portorico est une Isle située dans la Mer du
-                        Nord, vers l’Amerique, à l’entrée du Golfe de Mexique, &amp; à l’Orient de
-                        l’Isle de San Domingo ou <hi rend="italic"
-                        >d’Hispaniola</hi>. L’Isle de Portorico contient
-                        quinze cens hommes capables de porter les armes. Il faut voir de Laet dans
-                        son Histoire du nouveau Monde. Le Religieux qui vient d’estre pourvû de cet
-                        Evêché, est generalement estimé en Espagne.</p>
-
-            </div>
-
-
+    <body>
+      <div>
+        <p>Le Roy d’Espagne a nommé à l’Evêché de Portorico le Pere Domingo Perez Urbano, de l’Ordre des Trinitaires. </p>
+        <p>[…]</p>
+        <p>Portorico est une Isle située dans la Mer du Nord, vers l’Amerique, à l’entrée du Golfe de Mexique, &amp; à l’Orient de l’Isle de San Domingo ou <hi rend="italic">d’Hispaniola</hi>. L’Isle de Portorico contient quinze cens hommes capables de porter les armes. Il faut voir de Laet dans son Histoire du nouveau Monde. Le Religieux qui vient d’estre pourvû de cet Evêché, est generalement estimé en Espagne.</p>
+      </div>
     </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Les Vers qui suivent sont de Mademoiselle l'Heritier, &amp; ont esté mis en Air par un habile Musicien.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin">L’Air, <hi rend="i">On n'entend, &amp;c.</hi> page 285.</note>
-          <lg><l rend="i">On n'entend plus le bruit des armes,</l>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin">L’Air, <hi rend="i">On n'entend, &amp;c.</hi> page 285.</note>
+          <lg>
+            <l rend="i">On n'entend plus le bruit des armes,</l>
             <l rend="i">Un Roy le modele des Rois</l>
             <l rend="i">Arreste ses fameux Exploits,</l>
             <l rend="i">Et d'une heureuse Paix nous fait gouter les charmes,</l>
@@ -29,14 +30,15 @@
             <l rend="i">Preparent des douceurs ameres,</l>
             <l rend="i">Si rien ne s'oppose à leurs traits</l>
             <l rend="i">Ah que le calme de la Paix !</l>
-            <l rend="i">S'en va coûter de trouble aux cœurs de nos bergeres !</l></lg>
+            <l rend="i">S'en va coûter de trouble aux cœurs de nos bergeres !</l>
+          </lg>
         </quote>
         <ref target="images/1698-02_285.JPG">
           <figure>
             <graphic url="images/1698-02_285.JPG"/>
           </figure>
         </ref>
-        </div>
-      </body>
+      </div>
+    </body>
   </text>
 </TEI>

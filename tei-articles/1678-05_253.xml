@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Les Vers qui suivent m’ont paru si naturels pour une Amante trahie, que j’ay crû vous les
-          devoir envoyer, au hazard que vous les ayez déja veus, car on les chante icy depuis
-          quelques jours. C’est pour cela que je n’y ay point adjoûté la Note. Ils sont de M<hi rend="sup">r</hi> Marcelle. M<hi rend="sup">r</hi> de la Tour les a mis en Air.</p>
+    <body>
+      <div>
+        <p>Les Vers qui suivent m’ont paru si naturels pour une Amante trahie, que j’ay crû vous les devoir envoyer, au hazard que vous les ayez déja veus, car on les chante icy depuis quelques jours. C’est pour cela que je n’y ay point adjoûté la Note. Ils sont de M<hi rend="sup">r</hi> Marcelle. M<hi rend="sup">r</hi> de la Tour les a mis en Air.</p>
         <quote>
           <label>CHANSON.</label>
           <lg>
@@ -32,6 +29,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

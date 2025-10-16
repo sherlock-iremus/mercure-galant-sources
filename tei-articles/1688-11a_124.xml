@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
+    <body>
+      <div>
         <p/>
-        <p>La Fable qui suit vous fera connoistre le defaut de bien des gens, qu’une vaine curiosité
-          engage à parcourir tous les Livres, &amp; qui ne faisant que les effleurer, perdent bien
-          du temps, &amp; ont toûjours l’esprit vuide. Elle est du Pere Comire, Jesuite, qui l’a
-          adressée en Vers Latins à M<hi rend="sup">r</hi> l’Abbé Huet, nommé à l’Evesché de
-          Soissons, &amp; comme il réüssit admirablement dans les Ouvrages de cette nature, elle a
-          trouvé aussi-tost un Traducteur.</p>
+        <p>La Fable qui suit vous fera connoistre le defaut de bien des gens, qu’une vaine curiosité engage à parcourir tous les Livres, &amp; qui ne faisant que les effleurer, perdent bien du temps, &amp; ont toûjours l’esprit vuide. Elle est du Pere Comire, Jesuite, qui l’a adressée en Vers Latins à M<hi rend="sup">r</hi> l’Abbé Huet, nommé à l’Evesché de Soissons, &amp; comme il réüssit admirablement dans les Ouvrages de cette nature, elle a trouvé aussi-tost un Traducteur.</p>
         <quote>
           <label>LE PAPILLON<lb/>ET L’ABEILLE.</label>
           <lg>
@@ -179,9 +172,11 @@
             <l rend="i">Quand un Siecle complet achevera ton sort,</l>
             <l rend="i">Tes écrits sçauront bien dementir tes années.</l>
           </lg>
-          <note resp="author"><p>* Montagne de Grece chargée de fleurs.</p></note>
+          <note resp="author">
+            <p>* Montagne de Grece chargée de fleurs.</p>
+          </note>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

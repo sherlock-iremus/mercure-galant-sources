@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-
-        
+    <body>
+      <div>
         <quote>
-          <label><hi rend="i">Sur la Révocation de l’Edit</hi><lb/><hi rend="i">de
-            Nantes.</hi><lb/>SONNET AU ROY.</label>
+          <label><hi rend="i">Sur la Révocation de l’Edit</hi><lb/><hi rend="i">de Nantes.</hi><lb/>SONNET AU ROY.</label>
           <lg>
             <l>Arbitre souverain de la Paix, de la Guerre,</l>
             <l>Tout fléchit sous tes Loix, tu n’as plus d’Ennemis,</l>
@@ -77,6 +74,6 @@
           <p><hi rend="i">Mademoiselle De VILLANDON</hi>.</p>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

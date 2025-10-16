@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,40 +14,19 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-                
-                
-
-                <label>De S. Malo le 9 May 1710</label>
-                <p>[...]</p>
-                <p><hi rend="italic">La Couronne</hi> Corsaire de S. Malo y a amené un
-                    Vaisseau d’Amsterdam de six-vingt tonneaux venant de Curasso<hi rend="sup"><note
-                        xml:id="_ftn0" resp="editor" n="1"> [NDÉ] État
-                                autonome rattaché aux Pays-Bas, Curaçao se situe dans la mer des
-                                Caraïbes et fait partie des Petites Antilles appelées Îles
-                                Sous-le-Vent.</note></hi>, chargé de cacao, de sucre, de tabac,
-                    de cuirs, &amp; de bois de Campesche, estimé trente mille écus. Ce Bastiment estoit
-                    parti de Curasso avec une Flute de trois cens tonneaux, qui a aussi esté
-                    prise le 15 Avril par deux Vaisseaux de Saint Malo.</p>
-                <p>Le Corsaire le <hi rend="italic">S. Jan</hi> de Roscof de 6 canons a pris sur les
-                    Sorlingues le 16 le Navire <hi rend="italic">les cinq Sœurs</hi> de Middelbourg,
-                    Interlope Hollandois, qui venoit de la Coste de la Mine. Il s’y est trouvé
-                    250 marcs de poudre d’or, dix milliers de morfil &amp; quelques autres marchandises
-                    de Traitte. Le Capitaine François a esté dangereusement blessé, &amp; le Capitaine
-                    Hollandois tué. Les Armateurs auront près de quinze pour un de profit.</p>
-                <p>La Fregate du Roy <hi rend="italic">la Nymphe</hi> venant de la Martinique, est
-                    arrivée à la Rochelle. M<hi rend="sup">r</hi> du Gué qui la commande a pris un Corsaire Anglois
-                    sorti d’Antigue.</p>
-                <p>Un Vaisseau de la même Nation, chargé de planches &amp; de merrein. </p>
-                <p>Un autre venant de Nieves, chargé de sucre, &amp; un autre qui vient de la Barbade,
-                    aussi chargé de sucre. </p>
-                <p>La Fregate de S. Malo <hi rend="italic">la Reine d’Espagne</hi>, est arrivée à
-                    la Rochelle, venant de l’Amerique richement chargée. </p>
-                <p>[...]</p>
-                <p>Je crois que vous apprendrez toutes ces Prises avec beaucoup de plaisir, tant à
-                    cause de l’honneur qu’elles font à la Marine de France, que des avantages que la
-                    Nation en retire.</p>
-            </div>
+    <body>
+      <div>
+        <label>De S. Malo le 9 May 1710</label>
+        <p>[...]</p>
+        <p><hi rend="italic">La Couronne</hi> Corsaire de S. Malo y a amené un Vaisseau d’Amsterdam de six-vingt tonneaux venant de Curasso<hi rend="sup"><note xml:id="_ftn0" resp="editor" n="1"> [NDÉ] État autonome rattaché aux Pays-Bas, Curaçao se situe dans la mer des Caraïbes et fait partie des Petites Antilles appelées Îles Sous-le-Vent.</note></hi>, chargé de cacao, de sucre, de tabac, de cuirs, &amp; de bois de Campesche, estimé trente mille écus. Ce Bastiment estoit parti de Curasso avec une Flute de trois cens tonneaux, qui a aussi esté prise le 15 Avril par deux Vaisseaux de Saint Malo.</p>
+        <p>Le Corsaire le <hi rend="italic">S. Jan</hi> de Roscof de 6 canons a pris sur les Sorlingues le 16 le Navire <hi rend="italic">les cinq Sœurs</hi> de Middelbourg, Interlope Hollandois, qui venoit de la Coste de la Mine. Il s’y est trouvé 250 marcs de poudre d’or, dix milliers de morfil &amp; quelques autres marchandises de Traitte. Le Capitaine François a esté dangereusement blessé, &amp; le Capitaine Hollandois tué. Les Armateurs auront près de quinze pour un de profit.</p>
+        <p>La Fregate du Roy <hi rend="italic">la Nymphe</hi> venant de la Martinique, est arrivée à la Rochelle. M<hi rend="sup">r</hi> du Gué qui la commande a pris un Corsaire Anglois sorti d’Antigue.</p>
+        <p>Un Vaisseau de la même Nation, chargé de planches &amp; de merrein. </p>
+        <p>Un autre venant de Nieves, chargé de sucre, &amp; un autre qui vient de la Barbade, aussi chargé de sucre. </p>
+        <p>La Fregate de S. Malo <hi rend="italic">la Reine d’Espagne</hi>, est arrivée à la Rochelle, venant de l’Amerique richement chargée. </p>
+        <p>[...]</p>
+        <p>Je crois que vous apprendrez toutes ces Prises avec beaucoup de plaisir, tant à cause de l’honneur qu’elles font à la Marine de France, que des avantages que la Nation en retire.</p>
+      </div>
     </body>
   </text>
 </TEI>

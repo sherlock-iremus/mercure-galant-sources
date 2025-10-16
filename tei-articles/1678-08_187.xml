@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-
-        
-        <p>Le Madrigal qui suit est aussi de Mr Robbe. Souvenez-vous quand vous le lirez, que c’est
-          le Magistrat de Basle qui parle à Mr le Mareschal de Créquy apres la défaite des Impériaux
-          sur le Pont de Rhinfeld.</p>
+    <body>
+      <div>
+        <p>Le Madrigal qui suit est aussi de Mr Robbe. Souvenez-vous quand vous le lirez, que c’est le Magistrat de Basle qui parle à Mr le Mareschal de Créquy apres la défaite des Impériaux sur le Pont de Rhinfeld.</p>
         <quote>
           <label rend="center">MADRIGAL.</label>
           <lg>
@@ -40,6 +36,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

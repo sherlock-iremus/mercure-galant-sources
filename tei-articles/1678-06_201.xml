@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Messieurs d’Alençon, pour marque leur zele à Madame de Guyse, ont fait faire une nouvelle
-          Porte à leur Ville, qui va en droite ligne de son Palais à la grande Eglise. Ainsi du haut
-          du Faux-bourg S. Blaise, on découvre presentement le fond de la grande Ruë, &amp; la veuë
-          y trouve une Perspective en éloignement tres-agreable. Cette augmentation de Porte a
-          fourny la matiere de ces quatre Vers.</p>
+    <body>
+      <div>
+        <p>Messieurs d’Alençon, pour marque leur zele à Madame de Guyse, ont fait faire une nouvelle Porte à leur Ville, qui va en droite ligne de son Palais à la grande Eglise. Ainsi du haut du Faux-bourg S. Blaise, on découvre presentement le fond de la grande Ruë, &amp; la veuë y trouve une Perspective en éloignement tres-agreable. Cette augmentation de Porte a fourny la matiere de ces quatre Vers.</p>
         <quote>
           <l><space/>Toute nostre Ville s’empresse</l>
           <l><space/>À marquer sa fidelle ardeur,</l>
@@ -29,6 +24,6 @@
           <l>Elle ouvre en mesme temps &amp; ses murs &amp; son cœur.</l>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

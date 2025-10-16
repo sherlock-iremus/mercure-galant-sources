@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Je vous envoye encore quelques Vers sur la prise de Namur, &amp; commence par ceux que
-          vous m’avez demandez. Je n’en connois point l’Auteur, mais ils ont assez plû à tous ceux
-          qui les ont lûs, pour meriter vostre curiosité.</p>
+    <body>
+      <div>
+        <p>Je vous envoye encore quelques Vers sur la prise de Namur, &amp; commence par ceux que vous m’avez demandez. Je n’en connois point l’Auteur, mais ils ont assez plû à tous ceux qui les ont lûs, pour meriter vostre curiosité.</p>
         <quote>
           <label>SUR LA PRISE<lb/>de Namur.</label>
           <lg>
@@ -103,6 +100,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

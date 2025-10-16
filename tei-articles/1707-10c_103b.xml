@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,22 +14,23 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-    
-
-<quote>
-<label><hi rend="i">CHANSON.</hi><lb/>Sur l’Air : <hi rend="i">L’amour avoit pour étalage</hi>.</label>
-<lg>
-<l>Vous croyez prendre la Provence,</l>
-<l>Et de là conquerir la France,</l>
-<l>Digne Heros des Savoyards ;</l>
-<l>Ce sont là de grandes idées ;</l>
-<l>Mais les conquêtes des Cesars,</l>
-<l>Ne sont pas pour des Amedées.</l>
-</lg>
-<p><hi rend="i">D’Agmard.</hi></p>
-</quote>
-</div>
-</body>
+    <body>
+      <div>
+        <quote>
+          <label><hi rend="i">CHANSON.</hi><lb/>Sur l’Air : <hi rend="i">L’amour avoit pour étalage</hi>.</label>
+          <lg>
+            <l>Vous croyez prendre la Provence,</l>
+            <l>Et de là conquerir la France,</l>
+            <l>Digne Heros des Savoyards ;</l>
+            <l>Ce sont là de grandes idées ;</l>
+            <l>Mais les conquêtes des Cesars,</l>
+            <l>Ne sont pas pour des Amedées.</l>
+          </lg>
+          <p>
+            <hi rend="i">D’Agmard.</hi>
+          </p>
+        </quote>
+      </div>
+    </body>
   </text>
 </TEI>

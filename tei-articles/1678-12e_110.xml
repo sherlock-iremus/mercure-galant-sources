@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,23 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-
-        
-
-        <p>Vous devez avoir entendu parler d’une contestation qui s’est émeuë, pour sçavoir si la
-          langue Latine avoit quelques avantages sur la Françoise en matiere d’Inscriptions. Force
-          habiles Gens soûtiennent que cette derniere ne cede à l’autre en aucune sorte ; &amp; pour
-          le prouver, ils se servent de quatre Traductions de six Vers Latins que M<hi rend="sup">r</hi> de Santeüil Chanoine de S. Victor, a faits à la priere de la Ville, sur la Pompe
-          du Pont Nostre-Dame. Ils y sont gravez en lettres d’or, &amp; mériteroient la récompense
-          qui fut donnée autrefois à Sannazar pour les six qu’il fit sur Venise à la sollicitation
-          du Doge de cette fameuse Republique. Soufrez, je vous prie, que je fasse icy grace au
-          Latin contre ma coûtume, en vous envoyant les six Vers de M<hi rend="sup">r</hi> de
-          Santeüil. Il est necessaire que vous les voyiez, non seulement pour décider la Question
-          dont il s’agit, mais pour en juger une autre. Quatre Personnes d’esprit ont traduit ces
-          Vers. On voudroit sçavoir laquelle de ces Traductions est la plus fidelle &amp; la mieux
-          tournée. Prononcez. Ce que vous direz là-dessus sera un jugement décisif.</p>
+    <body>
+      <div>
+        <p>Vous devez avoir entendu parler d’une contestation qui s’est émeuë, pour sçavoir si la langue Latine avoit quelques avantages sur la Françoise en matiere d’Inscriptions. Force habiles Gens soûtiennent que cette derniere ne cede à l’autre en aucune sorte ; &amp; pour le prouver, ils se servent de quatre Traductions de six Vers Latins que M<hi rend="sup">r</hi> de Santeüil Chanoine de S. Victor, a faits à la priere de la Ville, sur la Pompe du Pont Nostre-Dame. Ils y sont gravez en lettres d’or, &amp; mériteroient la récompense qui fut donnée autrefois à Sannazar pour les six qu’il fit sur Venise à la sollicitation du Doge de cette fameuse Republique. Soufrez, je vous prie, que je fasse icy grace au Latin contre ma coûtume, en vous envoyant les six Vers de M<hi rend="sup">r</hi> de Santeüil. Il est necessaire que vous les voyiez, non seulement pour décider la Question dont il s’agit, mais pour en juger une autre. Quatre Personnes d’esprit ont traduit ces Vers. On voudroit sçavoir laquelle de ces Traductions est la plus fidelle &amp; la mieux tournée. Prononcez. Ce que vous direz là-dessus sera un jugement décisif.</p>
         <quote>
           <label rend="center">Inscription </label>
           <label rend="center">Qui se lit sur la Pompe</label>
@@ -75,6 +61,6 @@
           <l>Il se croit trop heureux de devenir Fontaine.</l>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

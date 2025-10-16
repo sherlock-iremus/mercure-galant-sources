@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,27 +14,28 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <quote>
           <label>CHANSON.</label>
-          <label><hi rend="i">Menuet du Bal d'Auteüil, composé par Mademoiselle Antier.</hi></label>
+          <label>
+            <hi rend="i">Menuet du Bal d'Auteüil, composé par Mademoiselle Antier.</hi>
+          </label>
           <lg>
             <l>Prés d'Iris veux-tu toûjours</l>
-            <l>À ton secours</l> 
+            <l>À ton secours</l>
             <l>N'appeller que les Amours ?</l>
             <l>Amy, ne soupire plus,</l>
             <l>Et cours au jus de Baccus.</l>
             <l>Je bois, j'aime, fais de même ;</l>
             <l>Qu'il est doux dans un festin</l>
             <l>D'unir la tendresse &amp; le vin !</l>
-            <l>Je bois j'aime, fais de même :</l> 
+            <l>Je bois j'aime, fais de même :</l>
             <l>On entend sonner souvent</l>
             <l>L'heure du Berger en bûvant.</l>
-           </lg>
+          </lg>
         </quote>
-      </div>  
-      </body>
+      </div>
+    </body>
   </text>
 </TEI>

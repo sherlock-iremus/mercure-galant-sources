@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-                
-                
-
-                <p>J’apprens en ce moment l’arrivée de la Flotte du
-                        Mexique au <hi rend="italic">Passage</hi> ; on la croit riche d’environ 30 millions de
-                        piastres, mais je n’ay le temps que de vous annoncer cette nouvelle, sans
-                        vous en pouvoir rien dire davantage.</p>
-
-            </div>
-
+    <body>
+      <div>
+        <p>J’apprens en ce moment l’arrivée de la Flotte du Mexique au <hi rend="italic">Passage</hi> ; on la croit riche d’environ 30 millions de piastres, mais je n’ay le temps que de vous annoncer cette nouvelle, sans vous en pouvoir rien dire davantage.</p>
+      </div>
     </body>
   </text>
 </TEI>

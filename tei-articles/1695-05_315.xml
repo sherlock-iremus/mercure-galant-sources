@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>On estime fort icy l'Air nouveau que je vous envoye gravé, &amp; dont vous allez lire les
-          paroles <note resp="editor">Cet air est publié sous le nom de M. Le Camus, avec deux variantes de détail (mes. 14 et 20), dans le <hi rend="italic">Recueil d'airs sérieux et à boire</hi> de septembre 1695, p. 177.</note>.</p>
+    <body>
+      <div>
+        <p>On estime fort icy l'Air nouveau que je vous envoye gravé, &amp; dont vous allez lire les paroles <note resp="editor">Cet air est publié sous le nom de M. Le Camus, avec deux variantes de détail (mes. 14 et 20), dans le <hi rend="italic">Recueil d'airs sérieux et à boire</hi> de septembre 1695, p. 177.</note>.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour
-              placer les Figures</hi> : l’Air doit regarder la page 316.</note>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air doit regarder la page 316.</note>
           <lg>
             <l rend="i">Quand on aime bien tendrement,</l>
             <l rend="i">On ne peut estre un jour sans voir ce que l'on aime,</l>

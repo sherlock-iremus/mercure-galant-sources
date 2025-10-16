@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,9 +14,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Cependant, Madame, vous croirez que la Tragédie dont je vous parle a esté quelque chose de fort provincial, &amp; vous aurez de la peine à estre persuadée que les Muses Gasconnes approchent de la politesse de celles que le Roy a bien voulu loger dans le Louvre. Perdez cette pensée, &amp; jugez de ce qu’a pû estre la Piece par ces Vers qui devoient servir de compliment à Monsieur le Duc du Maine, s’il eust eu le temps d’en voir une Représentation.</p>
         <quote>
           <lg>
@@ -41,7 +40,11 @@
             <l rend="i">Nous voulions en ces lieux faire venir la Gloire,</l>
             <l rend="i">Mais (&amp; vous n’aurez pas de peine à nous en croire)</l>
             <l rend="i">Elle n’a point de temps à perdre avecque nous.</l>
-            <l><hi rend="i">Pour l’Auguste</hi> <hi rend="sc">Loüis</hi> <hi rend="i">elle est toute occupée,</hi></l>
+            <l>
+              <hi rend="i">Pour l’Auguste</hi>
+              <hi rend="sc">Loüis</hi>
+              <hi rend="i">elle est toute occupée,</hi>
+            </l>
             <l rend="i"> Elle ne peut le quiter un moment,</l>
             <l rend="i">Et pour aucun Héros jamais attachement</l>
             <l rend="i"> Ne rendit moins son attente trompée.</l>
@@ -53,6 +56,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Si la Paix est toûjours difficile à conclure, quand mesme il n’y a eu Guerre qu’entre
-          deux Rois, on peut dire qu’elle est presque impossible lors que le nombre des Intéressez
-          est grand. Ils ne peuvent avoir tous ce qu’ils souhaitent ; &amp; quand chacun auroit lieu
-          d’estre satisfait à son égard, c’est en gouster imparfaitement la joye, que d’estre obligé
-          de reconnoistre un Vainqueur, &amp; de voir toute la gloire d’un costé. Je vous en diray
-          davantage apres l’échange des Ratifications. Voicy un Madrigal de M<hi rend="sup">r</hi>
-          de Monchamps Avocat au Conseil, adressé à ceux des Conféderez qui refusent de signer la
-          Paix.</p>
+    <body>
+      <div>
+        <p>Si la Paix est toûjours difficile à conclure, quand mesme il n’y a eu Guerre qu’entre deux Rois, on peut dire qu’elle est presque impossible lors que le nombre des Intéressez est grand. Ils ne peuvent avoir tous ce qu’ils souhaitent ; &amp; quand chacun auroit lieu d’estre satisfait à son égard, c’est en gouster imparfaitement la joye, que d’estre obligé de reconnoistre un Vainqueur, &amp; de voir toute la gloire d’un costé. Je vous en diray davantage apres l’échange des Ratifications. Voicy un Madrigal de M<hi rend="sup">r</hi> de Monchamps Avocat au Conseil, adressé à ceux des Conféderez qui refusent de signer la Paix.</p>
         <quote>
           <label>MADRIGAL.</label>
           <lg>
@@ -41,6 +33,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,19 +14,21 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>La Chanson nouvelle que je vous envoye, sera sans doute de vostre goust, puis que les paroles sont de Mademoiselle des Houlieres, &amp; que M<hi rend="sup">r</hi> le Camus les a mises en air. Ainsi tout en est de bonne main <note resp="editor">L'air a également été publié dans le <hi rend="italic">XXXVII. livre d'airs de différents auteurs</hi> (Paris, Christophe Ballard, 1694, p. 19-21, cf. LADDA 1694-06).</note>.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air doit regarder la page 323.</note>
-          <lg><l rend="i">Que serviroit, helas ! au Printemps de paroistre ?</l>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air doit regarder la page 323.</note>
+          <lg>
+            <l rend="i">Que serviroit, helas ! au Printemps de paroistre ?</l>
             <l rend="i">L'Amour n'y trouve plus ces charmans loisirs,</l>
             <l rend="i">Dont il estoit toujours le maistre.</l>
             <l rend="i">Son empire est détruit ; à peine fait-il naistre</l>
             <l rend="i">Dans les plus jeunes cœurs les plus foibles desirs.</l>
             <l rend="i">Non, le Printemps ne peut plus estre</l>
-            <l rend="i">La saison des plaisirs.</l></lg>
+            <l rend="i">La saison des plaisirs.</l>
+          </lg>
         </quote>
         <ref target="images/1693-08a_322.JPG">
           <figure>
@@ -34,6 +36,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

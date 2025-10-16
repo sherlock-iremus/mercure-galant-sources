@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-
-          
-          <p/>
-          <p>L’ouverture du Parlement se fit le Mercredy 2. de ce mois, &amp; commença par une Messe solemnelle que celebra M<hi rend="sup">r</hi> Berthier, premier Evêque de Blois, dans la Chapelle de la grande Salle du Palais. M<hi rend="sup">rs</hi> du Parlement y assisterent en la maniére ordinaire, les Presidens en Robes rouges &amp; en fourures d'hermine, &amp; les Conseillers &amp; Secretaires de la Cour en Robes rouges. [...] La Musique qui estoit de la composition de M<hi rend="sup">r</hi> Charpentier, Maistre de Musique de la Sainte Chapelle, fut trouvée des plus excellentes.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p/>
+        <p>L’ouverture du Parlement se fit le Mercredy 2. de ce mois, &amp; commença par une Messe solemnelle que celebra M<hi rend="sup">r</hi> Berthier, premier Evêque de Blois, dans la Chapelle de la grande Salle du Palais. M<hi rend="sup">rs</hi> du Parlement y assisterent en la maniére ordinaire, les Presidens en Robes rouges &amp; en fourures d'hermine, &amp; les Conseillers &amp; Secretaires de la Cour en Robes rouges. [...] La Musique qui estoit de la composition de M<hi rend="sup">r</hi> Charpentier, Maistre de Musique de la Sainte Chapelle, fut trouvée des plus excellentes.</p>
+      </div>
+    </body>
   </text>
 </TEI>

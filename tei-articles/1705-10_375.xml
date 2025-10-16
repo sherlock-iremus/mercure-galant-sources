@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,28 +14,42 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p>La Chanson qui suit est de la composition de Mr Charles.</p>
-          <quote>
-            <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’air qui commence par, <hi rend="i">Que la Rape au Tabac s’accorde</hi>, doit regarder la page 376.</note>
-            <lg>
-              <l><hi rend="i">Que la rape au tabac s’accorde,</hi></l>
-              <l><hi rend="i">Sans avoir ni tuyau, ni corde,</hi></l>
-              <l><hi rend="i">Mieux que l’Orgue &amp; le Violon.</hi></l>
-              <l><hi rend="i">Cet instrument surpasse la Musique,</hi></l>
-              <l><hi rend="i">Il ne cherche jamais son ton ;</hi></l>
-              <l><hi rend="i">Et quand il cherche, c’est du bon,</hi></l>
-              <l><hi rend="i">Du bon tabac de Martynique.</hi></l>
-            </lg>
-          </quote>
-          <ref target="images/1705-10_375.JPG">
-            <figure>
-              <graphic url="images/1705-10_375.JPG"/>
-            </figure>
-          </ref>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>La Chanson qui suit est de la composition de Mr Charles.</p>
+        <quote>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’air qui commence par, <hi rend="i">Que la Rape au Tabac s’accorde</hi>, doit regarder la page 376.</note>
+          <lg>
+            <l>
+              <hi rend="i">Que la rape au tabac s’accorde,</hi>
+            </l>
+            <l>
+              <hi rend="i">Sans avoir ni tuyau, ni corde,</hi>
+            </l>
+            <l>
+              <hi rend="i">Mieux que l’Orgue &amp; le Violon.</hi>
+            </l>
+            <l>
+              <hi rend="i">Cet instrument surpasse la Musique,</hi>
+            </l>
+            <l>
+              <hi rend="i">Il ne cherche jamais son ton ;</hi>
+            </l>
+            <l>
+              <hi rend="i">Et quand il cherche, c’est du bon,</hi>
+            </l>
+            <l>
+              <hi rend="i">Du bon tabac de Martynique.</hi>
+            </l>
+          </lg>
+        </quote>
+        <ref target="images/1705-10_375.JPG">
+          <figure>
+            <graphic url="images/1705-10_375.JPG"/>
+          </figure>
+        </ref>
+      </div>
+    </body>
   </text>
 </TEI>

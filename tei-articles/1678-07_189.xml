@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,19 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>S’ils [les instruments] n’estoient employez dans cette belle Maison que pour la joye, on
-          s’en doit servir avant qu’il soit peu pour marquer le sensible déplaisir qu’on a de la
-          mort de Mademoiselle de Maisons. Vous le verrez par les Vers que je vous envoye. C’est une
-          espece de petit Opéra lugubre qui se prépare. L’Autheur qui ne se fait connoistre que sous
-          le nom du Solitaire de Pontoise, l’intitule,</p>
+    <body>
+      <div>
+        <p>S’ils [les instruments] n’estoient employez dans cette belle Maison que pour la joye, on s’en doit servir avant qu’il soit peu pour marquer le sensible déplaisir qu’on a de la mort de Mademoiselle de Maisons. Vous le verrez par les Vers que je vous envoye. C’est une espece de petit Opéra lugubre qui se prépare. L’Autheur qui ne se fait connoistre que sous le nom du Solitaire de Pontoise, l’intitule,</p>
         <quote>
-          <label>MONUMENT <lb/>D’AMARANTE,<lb/><hi rend="i">Le Theatre represente le Chasteau de
-              <lb/>Maisons en éloignement, &amp; un <lb/>superbe Tombeau sur le bord de la
-              Seine.</hi></label>
-          <label><hi rend="i">1. SIMPHONIE TRISTE.</hi></label>
+          <label>MONUMENT <lb/>D’AMARANTE,<lb/><hi rend="i">Le Theatre represente le Chasteau de <lb/>Maisons en éloignement, &amp; un <lb/>superbe Tombeau sur le bord de la Seine.</hi></label>
+          <label>
+            <hi rend="i">1. SIMPHONIE TRISTE.</hi>
+          </label>
         </quote>
         <quote>
           <label>DIALOGUE DE L’AMOUR <lb/>&amp; de la Nymphe de la Seine.</label>
@@ -61,8 +56,7 @@
         </quote>
         <quote>
           <label>2. SIMPHONIE PLUS TRISTE.</label>
-          <label>Mercure descend du Ciel, &amp; s’estant placé entre l’Amour &amp; la Nymphe de la
-            Seine aupres du Tombeau d’Amarante, il leur dit.</label>
+          <label>Mercure descend du Ciel, &amp; s’estant placé entre l’Amour &amp; la Nymphe de la Seine aupres du Tombeau d’Amarante, il leur dit.</label>
           <l rend="i">Cessez, cessez vos pleurs, vostre chere Amarante</l>
           <l rend="i"> Partage les plaisirs des Dieux.</l>
           <l rend="i">Ah ! si dans ce Tombeau son Corps frape vos yeux,</l>
@@ -93,6 +87,6 @@
           <label>3. SYMPHONIE.</label>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

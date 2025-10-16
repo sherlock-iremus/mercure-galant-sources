@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,9 +14,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Monsieur le Duc de Luxembourg ne n’estoit avancé sur le Canal de Bruxelles que pour faire quiter la Sambre aux Ennemis ; ce qu’ils firent, dés qu’ils eurent appris qu’il estoit si proche d’eux. Leur Campagne n’a pas esté fort glorieuse. Voyez-en la peinture dans ce Sonnet.</p>
         <quote>
           <label>SUR LA CAMPAGNE <lb/>des Ennemis en Flandre. <lb/>SONNET IRREGULIER.</label>
@@ -48,6 +47,6 @@
         </quote>
         <p>On ne peut pas dire qu’ils n’ayent point réüssy dans leurs entreprises, si en venant assieger Charleroy, ils n’ont eu dessein que de chagriner M<hi rend="sup">r</hi> de Montal, qui comme je vous ay déja dit, eust esté bien-aise qu’ils luy eussent laissé l’occasion de les visiter.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

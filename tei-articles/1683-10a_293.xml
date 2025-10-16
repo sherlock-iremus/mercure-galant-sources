@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
-        <p>M<hi rend="sup">r</hi> de Louvoys servant toûjours le Roy avec une égale activité dans
-          les diférens Emplois dont Sa Majesté se repose sur ce Ministre. M<hi rend="sup">r</hi> Magnin, dont vous avez déja veu tant de beaux Ouvrages, a fait pour luy le Sonnet
-          que je vous envoye. C’est une Allusion à la Devise de ce grand Monarque, <hi rend="i">Nec
-            pluribus impar.</hi></p>
+    <body>
+      <div>
+        <p>M<hi rend="sup">r</hi> de Louvoys servant toûjours le Roy avec une égale activité dans les diférens Emplois dont Sa Majesté se repose sur ce Ministre. M<hi rend="sup">r</hi> Magnin, dont vous avez déja veu tant de beaux Ouvrages, a fait pour luy le Sonnet que je vous envoye. C’est une Allusion à la Devise de ce grand Monarque, <hi rend="i">Nec pluribus impar.</hi></p>
         <quote>
-          <label>POUR MONSIEUR<lb/>LE MARQUIS<lb/>DE LOUVOYS,<lb/>MINISTRE
-            D’ETAT.<lb/>SONNET.</label>
+          <label>POUR MONSIEUR<lb/>LE MARQUIS<lb/>DE LOUVOYS,<lb/>MINISTRE D’ETAT.<lb/>SONNET.</label>
           <lg>
             <l rend="i">D’un Ministre agissant, le soin laborieux</l>
             <l rend="i">Doit seconder les soins des suprémes Puissances ;</l>
@@ -41,8 +35,7 @@
           <ab type="ornament">***</ab>
           <lg>
             <l rend="i">Un Roy, plus élevé que tous les Potentats,</l>
-            <l><hi rend="i">Trouve dans</hi> Louvoys <hi rend="i">seul tous ces yeux, tous ces
-                bras,</hi></l>
+            <l><hi rend="i">Trouve dans</hi> Louvoys <hi rend="i">seul tous ces yeux, tous ces bras,</hi></l>
             <l rend="i">La prompte activité, la sagesse profonde,</l>
           </lg>
           <ab type="ornament">***</ab>
@@ -53,6 +46,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,27 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
+    <body>
+      <div>
         <quote>
           <label rend="center">Lettre XLVIII.</label>
           <p rend="i">À Vendosme. </p>
-          <p>JE croirois dérober quelque chose à vostre gloire, Monsieur, &amp; à celle d’une
-            Demoiselle des environs de cette Ville qui n’a pas moins d’esprit que de naissance &amp;
-            de beauté, si je souffrois plus longtemps qu’elle vous demeurât inconnuë. Elle lit tous
-            les Mois le Galant Ouvrage que toute la France doit à vos soins ; &amp; au hazard de
-            faire souffrir la modestie qui l’oblige à cacher les talens qui l’élevent au-dessus de
-            la plûpart de celles de son Sexe, je vous envoye un Rondeau qu’elle a fait pour servir
-            d’Explication à vostre premiere Enigme du Mois de Fevrier. Elle a si heureusement deviné
-            toutes les premieres depuis le Trictrac, jusqu’à celle de l’Academie, que je ne doute
-            point qu’elle n’ait également réüssy à l’égard de cette derniere. Elle me sçaura mauvais
-            gré, sans doute, du vol que je luy ay fait de ses Vers ; mais vous luy en avez fourny la
-            matiere par vostre Enigme, &amp; il est juste de vous faire voir une Production où vous
-            avez part.</p>
+          <p>JE croirois dérober quelque chose à vostre gloire, Monsieur, &amp; à celle d’une Demoiselle des environs de cette Ville qui n’a pas moins d’esprit que de naissance &amp; de beauté, si je souffrois plus longtemps qu’elle vous demeurât inconnuë. Elle lit tous les Mois le Galant Ouvrage que toute la France doit à vos soins ; &amp; au hazard de faire souffrir la modestie qui l’oblige à cacher les talens qui l’élevent au-dessus de la plûpart de celles de son Sexe, je vous envoye un Rondeau qu’elle a fait pour servir d’Explication à vostre premiere Enigme du Mois de Fevrier. Elle a si heureusement deviné toutes les premieres depuis le Trictrac, jusqu’à celle de l’Academie, que je ne doute point qu’elle n’ait également réüssy à l’égard de cette derniere. Elle me sçaura mauvais gré, sans doute, du vol que je luy ay fait de ses Vers ; mais vous luy en avez fourny la matiere par vostre Enigme, &amp; il est juste de vous faire voir une Production où vous avez part.</p>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

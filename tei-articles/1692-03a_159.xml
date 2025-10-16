@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,20 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Des marques de pieté aussi éclatantes que celles dont je viens de vous parler, sont d’une
-          grande édification pour les peuples. Heureux qui ne les donne point par hypocrisie, &amp;
-          qui est dans l’ame ce qu’il paroist au dehors. Si ceux qui ont le cœur veritablement
-          touché des veritez que la Religion nous enseigne sont tres estimables, il n’y a rien de
-          plus dangereux que les faux Devots, qui n’ayant en veuë que leurs interests, sont
-          seulement pieux par grimace, &amp; trouvent l’art de faire servir à leurs passions les
-          apparences trompeuses qu’ils employent pour persuader que l’Esprit de Dieu regle leur
-          conduite. Vous verrez leur caractere admirablement dépeint dans l’excellent Ouvrage que
-          vous allez lire. Il est de l’Illustre Madame des Houlieres, que la beauté de ses Vers,
-          &amp; le tour heureux &amp; delicat qu’elle donne à ses pensées, mettent au dessus de
-          toute loüange.</p>
+    <body>
+      <div>
+        <p>Des marques de pieté aussi éclatantes que celles dont je viens de vous parler, sont d’une grande édification pour les peuples. Heureux qui ne les donne point par hypocrisie, &amp; qui est dans l’ame ce qu’il paroist au dehors. Si ceux qui ont le cœur veritablement touché des veritez que la Religion nous enseigne sont tres estimables, il n’y a rien de plus dangereux que les faux Devots, qui n’ayant en veuë que leurs interests, sont seulement pieux par grimace, &amp; trouvent l’art de faire servir à leurs passions les apparences trompeuses qu’ils employent pour persuader que l’Esprit de Dieu regle leur conduite. Vous verrez leur caractere admirablement dépeint dans l’excellent Ouvrage que vous allez lire. Il est de l’Illustre Madame des Houlieres, que la beauté de ses Vers, &amp; le tour heureux &amp; delicat qu’elle donne à ses pensées, mettent au dessus de toute loüange.</p>
         <quote>
           <label>EPITRE CHAGRINE,<lb/>Au R.P. de la Chaise.</label>
           <lg>
@@ -56,7 +45,9 @@
             <l rend="i">Il vient, luy dis-je alors exprés pour découvrir</l>
             <l rend="i">Où tendoit cette belle &amp; sage remontrance.</l>
             <l rend="i"> De ce qu’en moy-mesme je pense</l>
-            <l><hi rend="i">Quel merite nouveau je pourrois acquerir.</hi></l>
+            <l>
+              <hi rend="i">Quel merite nouveau je pourrois acquerir.</hi>
+            </l>
             <l rend="i"> Je n’en vois point, tant je suis sotte.</l>
             <l rend="i">Abus, s’êcria-t-il ! hé, devenez devote.</l>
             <l rend="i">Ne le devient-on pas à la Ville, à la Cour ?</l>
@@ -241,6 +232,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

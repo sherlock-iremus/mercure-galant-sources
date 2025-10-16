@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Ce second Air dont vous allez lire les paroles est de M. l'Abbé, Maistre à Chanter à Roüen, dont vous connoissez le genie par plusieurs Airs que je vous ay deja envoyez de luy.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par <hi rend="i">Lassé des rigueurs de Climene</hi>, doit regarder la page 344.</note>
-          <lg><l rend="i">Lassé des rigueurs de Climene,</l>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par <hi rend="i">Lassé des rigueurs de Climene</hi>, doit regarder la page 344.</note>
+          <lg>
+            <l rend="i">Lassé des rigueurs de Climene,</l>
             <l rend="i">J'avois voulu gouster les douceurs de Bachus ;</l>
             <l rend="i">Mais je m'apperçois que son jus</l>
             <l rend="i">Ne me cause pas moins de peine.</l>
@@ -29,7 +30,8 @@
             <l rend="i">Je vois tout trouble, je chancelle,</l>
             <l rend="i">La terre tremble sous mes pas,</l>
             <l rend="i">Ah, qu'en vuidant les pots, les verres, &amp; les plats</l>
-            <l rend="i">Bacchus me vange mal d'une Beauté cruelle !</l></lg>
+            <l rend="i">Bacchus me vange mal d'une Beauté cruelle !</l>
+          </lg>
         </quote>
         <ref target="images/1688-03_343.JPG">
           <figure>
@@ -37,6 +39,6 @@
           </figure>
         </ref>
       </div>
-        </body>
+    </body>
   </text>
 </TEI>

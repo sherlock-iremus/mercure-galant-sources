@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Je suis bien aise que le Sonnet que je vous envoyay au commencement de ma Lettre du
-          dernier mois, vous ait paru assez beau pour vous donner envie de sçavoir qui en est
-          l’Autheur. Il a esté fait par M<hi rend="sup">r</hi> Magnin, Conseiller au Bailliage &amp;
-          Siege Présidial de Mâcon. Voicy d’autres Vers de luy, qui me sont tombez entre les mains
-          il y a déja quelque temps, sur la mesme matiere du Sonnet. Comme la Piece est plus longue,
-          elle vous fera mieux voir son heureux talent pour la Poësie.</p>
+    <body>
+      <div>
+        <p>Je suis bien aise que le Sonnet que je vous envoyay au commencement de ma Lettre du dernier mois, vous ait paru assez beau pour vous donner envie de sçavoir qui en est l’Autheur. Il a esté fait par M<hi rend="sup">r</hi> Magnin, Conseiller au Bailliage &amp; Siege Présidial de Mâcon. Voicy d’autres Vers de luy, qui me sont tombez entre les mains il y a déja quelque temps, sur la mesme matiere du Sonnet. Comme la Piece est plus longue, elle vous fera mieux voir son heureux talent pour la Poësie.</p>
         <quote>
           <label>SUR LE SECRET<lb/>DES DESSEINS DU ROY.</label>
           <lg>
@@ -130,6 +124,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

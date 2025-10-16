@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Un des plus habiles Maistres que nous ayons en Musique, a mis en Air ces paroles sur un départ.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">Vous vous en allez, belle Iris</hi>, doit regarder la page 45.</note>
-          <lg><l rend="i">Vous vous en allez, belle Iris,</l>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">Vous vous en allez, belle Iris</hi>, doit regarder la page 45.</note>
+          <lg>
+            <l rend="i">Vous vous en allez, belle Iris,</l>
             <l rend="i">Et les Jeux, les Amours, les Plaisirs &amp; les Ris</l>
             <l rend="i">Vont partir avec vous, &amp; vous suivront sans cesse.</l>
             <l rend="i">Vos appas vous feront mille Amans en tous lieux,</l>
@@ -34,6 +35,6 @@
           </figure>
         </ref>
       </div>
-        </body>
+    </body>
   </text>
 </TEI>

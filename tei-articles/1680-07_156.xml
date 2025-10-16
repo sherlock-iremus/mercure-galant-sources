@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,22 +14,18 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Ces autres Paroles semblent assez propres à estre notées.</p>
         <quote>
           <label>Paroles à mettre en air.</label>
-          <l><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"> </space>Un
-            cœur Bien né</l>
-          <l><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"> </space>Est
-            toûjours tendre ;</l>
+          <l><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"> </space>Un cœur Bien né</l>
+          <l><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"> </space>Est toûjours tendre ;</l>
           <l>En matiere d’amour il a beau se défendre ;</l>
           <l><space rend="tab"> </space><space rend="tab"> </space>Apres en avoir bien donné,</l>
-          <l><space rend="tab"> </space><space rend="tab"> </space>Il est enfin contraint d’en
-            prendre.</l>
+          <l><space rend="tab"> </space><space rend="tab"> </space>Il est enfin contraint d’en prendre.</l>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

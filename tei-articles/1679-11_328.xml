@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,24 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Madame la Duchesse de Hanover a esté régalée à Chantilly au commencement de ce mois par
-          Leurs Altesses Serénissimes. Elle fut menée à la Comédie en arrivant, &amp; on luy a donné
-          le mesme divertissement pendant cinq jours qu’elle a demeuré dans cette délicieuse Maison.
-          On servit plusieurs Tables au sortir de la Comédie. On avoit donné ordre dans le Bourg de
-          traiter à discretion tous les Domestiques &amp; Gens de Livrée de cette Princesse. Je
-          croy, Madame, vous avoir déja marqué qu’elle est Fille de Madame la Princesse Palatine,
-          &amp; Sœur de Madame la Duchesse. Les Régals qui luy ont esté faits à Chantilly, ont
-          continué de la mesme sorte jusqu’à son depart. Il ne seroit pas aisé d’en faire de mieux
-          entendus. Rien ne manquoit dans cette superbe Maison. Elle estoit éclairée tous les soirs
-          d’une infinité de Lustres, &amp; les ornemens y estoient par tout d’une tres-grande
-          beauté. Vous n’aurez pas de peine à le croire. Vous sçavez il y a longtemps que Leurs
-          Altesses Serénissimes ne font jamais rien qu’avec une extraordinaire magnificence. La
-          fatigue ne rebutant point Madame la Duchesse de Hanover, on luy a tous les jours donné le
-          plaisir d’une Chasse diférente.</p>
+    <body>
+      <div>
+        <p>Madame la Duchesse de Hanover a esté régalée à Chantilly au commencement de ce mois par Leurs Altesses Serénissimes. Elle fut menée à la Comédie en arrivant, &amp; on luy a donné le mesme divertissement pendant cinq jours qu’elle a demeuré dans cette délicieuse Maison. On servit plusieurs Tables au sortir de la Comédie. On avoit donné ordre dans le Bourg de traiter à discretion tous les Domestiques &amp; Gens de Livrée de cette Princesse. Je croy, Madame, vous avoir déja marqué qu’elle est Fille de Madame la Princesse Palatine, &amp; Sœur de Madame la Duchesse. Les Régals qui luy ont esté faits à Chantilly, ont continué de la mesme sorte jusqu’à son depart. Il ne seroit pas aisé d’en faire de mieux entendus. Rien ne manquoit dans cette superbe Maison. Elle estoit éclairée tous les soirs d’une infinité de Lustres, &amp; les ornemens y estoient par tout d’une tres-grande beauté. Vous n’aurez pas de peine à le croire. Vous sçavez il y a longtemps que Leurs Altesses Serénissimes ne font jamais rien qu’avec une extraordinaire magnificence. La fatigue ne rebutant point Madame la Duchesse de Hanover, on luy a tous les jours donné le plaisir d’une Chasse diférente.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

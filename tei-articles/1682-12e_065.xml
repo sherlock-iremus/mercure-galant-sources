@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,9 +14,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
+    <body>
+      <div>
         <p><hi rend="i">Voicy ce que j’ay reçeu d’Explications en Vers sur les deux Enigmes du Mois de Septembre, dont les Mots estoient</hi> la Lanterne <hi rend="i">&amp;</hi> le Lit.</p>
         <quote>
           <label>I.</label>
@@ -74,7 +73,9 @@
             <l rend="i">Qu’est-ce qu’il nous vient lanterner</l>
             <l rend="i">Avec son Enigme premiere ?</l>
           </lg>
-          <p><hi rend="sc">Daphnis D.L.R.N.S.A.</hi></p>
+          <p>
+            <hi rend="sc">Daphnis D.L.R.N.S.A.</hi>
+          </p>
         </quote>
         <quote>
           <label>V.</label>
@@ -232,7 +233,7 @@
             <l rend="i"> Ne la dédaignez pas, Mercure,</l>
             <l rend="i">La Sœur, comme le Frere, aime vos beaux Ecrits ;</l>
             <l><hi rend="i">Quoy que malade au</hi> Lit, <hi rend="i">mes sens en sont épris,</hi></l>
-            <l><hi rend="i">On me nomme par tout</hi> <hi rend="sc">La belle Nourriture</hi>.</l>
+            <l><hi rend="i">On me nomme par tout</hi><hi rend="sc">La belle Nourriture</hi>.</l>
           </lg>
           <p>du Havre.</p>
         </quote>
@@ -303,6 +304,6 @@
           <p>L’Ennemy d’Amour, à l’Anagramme, <hi rend="i">L’Héroïne m’y entraîne</hi>.</p>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

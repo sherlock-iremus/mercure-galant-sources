@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Je ne puis mieux commencer cette Seconde Partie de ma Lettre, que par une Anagramme
-          littérale, qui a esté faite du Nom du Roy. Elle est de M<hi rend="sup">r</hi> l’Abbé
-          Lauge, qui dans ces deux mots, <hi rend="sc">Loüis le Grand</hi>, a trouvé <hi rend="sc">Rang du Soleil</hi>. L’estime où cet Abbé s’est mis à la Cour, par ses Sermons &amp;
-          ses Lettres, vous est sans-doute connuë. Voicy des Vers qu’il a faits pour expliquer sa
-          pensée.</p>
+    <body>
+      <div>
+        <p>Je ne puis mieux commencer cette Seconde Partie de ma Lettre, que par une Anagramme littérale, qui a esté faite du Nom du Roy. Elle est de M<hi rend="sup">r</hi> l’Abbé Lauge, qui dans ces deux mots, <hi rend="sc">Loüis le Grand</hi>, a trouvé <hi rend="sc">Rang du Soleil</hi>. L’estime où cet Abbé s’est mis à la Cour, par ses Sermons &amp; ses Lettres, vous est sans-doute connuë. Voicy des Vers qu’il a faits pour expliquer sa pensée.</p>
         <quote>
           <lg>
             <l rend="i">Il fournit sans erreur sa brillante carriere,</l>
@@ -39,6 +34,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,29 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Comme jamais la gloire d'un Souverain n'a esté dans une si haute élevation que l'est
-          aujourd'huy celle du Roy, jamais les évenemens heureux des autres Monarques n'ont causé
-          une si sensible joye, que ce qui arrive à Sa Majesté. C'est par là que toute la France a
-          fait des Réjoüissances si extraordinaires pour la Naissance de Monseigneur le Duc de
-          Bourgogne. Les Particuliers, qui se sont distinguez dans le monde par leur esprit, apres
-          avoir contribué à l'allégresse publique par leurs Feux, &amp; par les autres
-          démonstrations de joye, ont travaillé sur cet auguste Sujet. M<hi rend="sup">r</hi>
-          Perrault, si connu dans l'Empire des beaux Arts &amp; des belles Lettres, est un de ceux
-          qui a témoigné le plus de zele de toutes manieres dans cette importante occasion. Il a
-          fait paroître sur tout par un Ouvrage d'une invention tres-particuliere, combien il
-          s'intéressoit dans le bonheur de la France. Je ne puis vous le donner icy tout entier,
-          parce qu'il occuperoit trop de place dans ma Lettre. Je vous diray seulement qu'il l'a
-          intitulé, <hi rend="i">Le Banquet des Dieux</hi><note resp="editor">Voir
-              <ref target="MG-1683-06_251">cet article</ref> (reprise du <hi rend="i">Banquet des
-              Dieux</hi> à la demande de la dauphine).</note><hi rend="i">pour la Naissance de
-            Monseigneur le Duc de Bourgogne</hi>. Il feint que sur la fin de ce Celeste Repas, une
-          Symphonie de toutes sortes d'Instrumens, la plus grave &amp; la plus majestueuse qui fut
-          jamais, surprit agreablement l'Assemblée, &amp; qu’apres qu'elle eut duré quelque temps,
-          elle cessa pour faire place à une autre Symphonie moins forte, mais qui n'estoit pas moins
-          agreable, &amp; sur laquelle Jupiter chanta ces Vers.</p>
+    <body>
+      <div>
+        <p>Comme jamais la gloire d'un Souverain n'a esté dans une si haute élevation que l'est aujourd'huy celle du Roy, jamais les évenemens heureux des autres Monarques n'ont causé une si sensible joye, que ce qui arrive à Sa Majesté. C'est par là que toute la France a fait des Réjoüissances si extraordinaires pour la Naissance de Monseigneur le Duc de Bourgogne. Les Particuliers, qui se sont distinguez dans le monde par leur esprit, apres avoir contribué à l'allégresse publique par leurs Feux, &amp; par les autres démonstrations de joye, ont travaillé sur cet auguste Sujet. M<hi rend="sup">r</hi> Perrault, si connu dans l'Empire des beaux Arts &amp; des belles Lettres, est un de ceux qui a témoigné le plus de zele de toutes manieres dans cette importante occasion. Il a fait paroître sur tout par un Ouvrage d'une invention tres-particuliere, combien il s'intéressoit dans le bonheur de la France. Je ne puis vous le donner icy tout entier, parce qu'il occuperoit trop de place dans ma Lettre. Je vous diray seulement qu'il l'a intitulé, <hi rend="i">Le Banquet des Dieux</hi><note resp="editor">Voir <ref target="MG-1683-06_251">cet article</ref> (reprise du <hi rend="i">Banquet des Dieux</hi> à la demande de la dauphine).</note><hi rend="i">pour la Naissance de Monseigneur le Duc de Bourgogne</hi>. Il feint que sur la fin de ce Celeste Repas, une Symphonie de toutes sortes d'Instrumens, la plus grave &amp; la plus majestueuse qui fut jamais, surprit agreablement l'Assemblée, &amp; qu’apres qu'elle eut duré quelque temps, elle cessa pour faire place à une autre Symphonie moins forte, mais qui n'estoit pas moins agreable, &amp; sur laquelle Jupiter chanta ces Vers.</p>
         <quote>
           <lg>
             <l rend="i"> Vous avez sçeu, Troupe immortelle,</l>
@@ -47,8 +27,7 @@
             <l rend="i">Du Héros qu'en ce jour le Ciel donne à la France.</l>
           </lg>
         </quote>
-        <p>Voicy ce qu'ajoûte l'Autheur de ce mesme Ouvrage. Tous les Dieux ayant répeté ensemble
-          ces deux derniers Vers, Jupiter poursuivit de cette sorte.</p>
+        <p>Voicy ce qu'ajoûte l'Autheur de ce mesme Ouvrage. Tous les Dieux ayant répeté ensemble ces deux derniers Vers, Jupiter poursuivit de cette sorte.</p>
         <quote>
           <lg>
             <l rend="i">C'est le sang de LOUIS, ce roy victorieux,</l>
@@ -62,9 +41,7 @@
             <l rend="i">Le Modelle des Roys, &amp; l'image des Dieux.</l>
           </lg>
         </quote>
-        <p>Le Chœur des Dieux ayant répeté les trois derniers Vers de ce Couplet, &amp; la grande
-          Symphonie ayant joüé encor quelque temps, Apollon prit sa Lyre, &amp; chanta les Paroles
-          suivantes.</p>
+        <p>Le Chœur des Dieux ayant répeté les trois derniers Vers de ce Couplet, &amp; la grande Symphonie ayant joüé encor quelque temps, Apollon prit sa Lyre, &amp; chanta les Paroles suivantes.</p>
         <quote>
           <lg>
             <l rend="i">Je voy dans l'Avenir, malgré ses replis sombres</l>
@@ -75,10 +52,7 @@
             <l rend="i">Et rien n'égalera son bonheur &amp; sa gloire.</l>
           </lg>
         </quote>
-        <p>Les Muses, qui s'estoient rangées aupres d'Apollon, &amp; qui avoient fait avec leurs
-          Instrumens une Symphonie admirable pendant qu'il chantoit, reprirent les trois derniers
-          Vers ; apres quoy, ce Dieu se tournant vers elles, &amp; les regardant, chanta ce qui
-          suit.</p>
+        <p>Les Muses, qui s'estoient rangées aupres d'Apollon, &amp; qui avoient fait avec leurs Instrumens une Symphonie admirable pendant qu'il chantoit, reprirent les trois derniers Vers ; apres quoy, ce Dieu se tournant vers elles, &amp; les regardant, chanta ce qui suit.</p>
         <quote>
           <lg>
             <l rend="i">Combien de fois les Exploits de LOUIS,</l>
@@ -94,8 +68,7 @@
             <l rend="i">  Il n'est point de repos pour vous.</l>
           </lg>
         </quote>
-        <p>Les Muses ayant encor repris les trois derniers Vers de ce Couplet, Apollon continua en
-          cette maniere.</p>
+        <p>Les Muses ayant encor repris les trois derniers Vers de ce Couplet, Apollon continua en cette maniere.</p>
         <quote>
           <lg>
             <l rend="i">  Chantez cette aimable Princesse</l>
@@ -107,8 +80,7 @@
             <l rend="i">Qui donne pour jamais des Roys à tout le Monde.</l>
           </lg>
         </quote>
-        <p>Le Chœur des Muses ayant répeté ces deux derniers Vers, Vénus &amp; Mars chanterent
-          ceux-cy en Dialogue.</p>
+        <p>Le Chœur des Muses ayant répeté ces deux derniers Vers, Vénus &amp; Mars chanterent ceux-cy en Dialogue.</p>
         <p/>
         <p>VENUS.</p>
         <l rend="i">Que nous verrons un jour de Festes &amp; de Jeux !</l>
@@ -141,9 +113,7 @@
         <l rend="i">  Il sera couronné de gloire</l>
         <l rend="i">  Par l'Amour, &amp; par la Victoire.</l>
         <p/>
-        <p>Ce Dialogue finy, les Graces se mirent à dancer une espece de Ménüet ; &amp; en suite
-          Bacchus ayant le Verre en main, se tourna avec un air riant vers le Buffet, &amp; chanta
-          ces Paroles, en regardant Silene, &amp; les Satyres.</p>
+        <p>Ce Dialogue finy, les Graces se mirent à dancer une espece de Ménüet ; &amp; en suite Bacchus ayant le Verre en main, se tourna avec un air riant vers le Buffet, &amp; chanta ces Paroles, en regardant Silene, &amp; les Satyres.</p>
         <quote>
           <lg>
             <l rend="i">Allons, mes chers Enfans, &amp; vous, Pere Silene,</l>
@@ -166,8 +136,7 @@
             <l rend="i">De ce Peuple maudit qui ne boit point de Vin.</l>
           </lg>
         </quote>
-        <p>La Feste se termina pas ces Vers que Jupiter chanta sur une Symphonie grave &amp;
-          tres-sérieuse.</p>
+        <p>La Feste se termina pas ces Vers que Jupiter chanta sur une Symphonie grave &amp; tres-sérieuse.</p>
         <quote>
           <lg>
             <l rend="i">  Que de bonheur ! que d'abondance !</l>
@@ -188,9 +157,8 @@
             <l rend="i">Nous reposer sur eux de l'Empire du Monde.</l>
           </lg>
         </quote>
-        <p>Tous ces Vers ont esté mis en Musique par M<hi rend="sup">r</hi> Oudot, &amp; chantez à
-          la Cour, où ils ont reçeu beaucoup d'aplaudissemens.</p>
+        <p>Tous ces Vers ont esté mis en Musique par M<hi rend="sup">r</hi> Oudot, &amp; chantez à la Cour, où ils ont reçeu beaucoup d'aplaudissemens.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

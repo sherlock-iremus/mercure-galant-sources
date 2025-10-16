@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
+    <body>
+      <div>
         <quote>
-          <label>DEVISE<lb/><hi rend="sc">Pour Loüis le Grand</hi>.<lb/>Le Soleil avec ce
-              mot :<lb/><hi rend="i">Non surrexit major.</hi><lb/>SONNET.</label>
+          <label>DEVISE<lb/><hi rend="sc">Pour Loüis le Grand</hi>.<lb/>Le Soleil avec ce mot :<lb/><hi rend="i">Non surrexit major.</hi><lb/>SONNET.</label>
           <lg>
             <l rend="i">Les grands Heros qu’on voit tant vantez dans l’Histoire,</l>
             <l rend="i">Celebres en vertus, fameux par mille Exploits,</l>
@@ -46,10 +43,9 @@
             <l rend="i">On n’en a jamais veu de si grand dans le monde,</l>
             <l rend="i">Et l’on verra point de si grand aprés luy.</l>
           </lg>
-          <p>M<hi rend="sup">r</hi> de Vertron, Historiographe de Sa Majesté, de l’Academie Royale
-            d’Arles.</p>
+          <p>M<hi rend="sup">r</hi> de Vertron, Historiographe de Sa Majesté, de l’Academie Royale d’Arles.</p>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

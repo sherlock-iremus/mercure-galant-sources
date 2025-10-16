@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,16 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <quote>
-          <label><hi rend="i">REPONCES A TOUTES</hi><lb/><hi rend="i">les Questions du XVII.</hi><lb/><hi rend="i">Extraordinaire.</hi></label>
+          <label>
+            <hi rend="i">REPONCES A TOUTES</hi>
+            <lb/>
+            <hi rend="i">les Questions du XVII.</hi>
+            <lb/>
+            <hi rend="i">Extraordinaire.</hi>
+          </label>
           <label>Si on peut estimer une Personne sans qu’on l’aime ; ou si au contraire on peut aimer une Personne sans qu’on l’estime.</label>
           <lg>
             <l rend="i">  J’estime sans aimer,</l>
@@ -80,6 +85,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

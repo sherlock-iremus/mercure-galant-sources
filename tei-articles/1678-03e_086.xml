@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,25 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
+    <body>
+      <div>
         <quote>
           <label rend="center">Lettre VII.</label>
-          <p>LE Sonnet que vous trouverez dans cette Lettre a esté envoyé du fond de l’Allemagne
-            depuis huit ou dix jours. Vous voyez par là, Monsieur, quelque chose qu’on dise, qu’il y
-            encor de bons François en ce Païs-là, &amp; que nous n’y sommes pas si décreditez, qu’il
-            ne s’y rencontre toûjours quelqu’un qui veüille bien prendre nostre party. Ces Vers
-            viennent de la Cour d’un Grand Prince qui est demeuré neutre depuis le commencement de
-            la Guerre, &amp; qui ayant beaucoup de discernement, aime avec passion les Gens
-            d’esprit. Ils ont esté faits par un Gentilhomme qui n’est pas un des moindres ornemens
-            de sa Cour, &amp; valent bien la peine d’estre publiez. On a crû ne pouvoir mieux
-            s’adresser pour cela qu’à l’Autheur du Mercure Galant. Ses Ouvrages sont veus par toute
-            l’Europe, &amp; on est persuadé qu’il n’y a point de meilleur moyen pour mettre une
-            Piece en crédit, que de le prier de luy ménager une place dans les Mémoires qu’il donne
-            tous les Mois au Public. Je suis, Monsieur, quoy que je n’aye pas l’honneur d’estre
-            connu de vous, avec tous les sentimens d’estime imaginables, vostre, &amp;c.</p>
+          <p>LE Sonnet que vous trouverez dans cette Lettre a esté envoyé du fond de l’Allemagne depuis huit ou dix jours. Vous voyez par là, Monsieur, quelque chose qu’on dise, qu’il y encor de bons François en ce Païs-là, &amp; que nous n’y sommes pas si décreditez, qu’il ne s’y rencontre toûjours quelqu’un qui veüille bien prendre nostre party. Ces Vers viennent de la Cour d’un Grand Prince qui est demeuré neutre depuis le commencement de la Guerre, &amp; qui ayant beaucoup de discernement, aime avec passion les Gens d’esprit. Ils ont esté faits par un Gentilhomme qui n’est pas un des moindres ornemens de sa Cour, &amp; valent bien la peine d’estre publiez. On a crû ne pouvoir mieux s’adresser pour cela qu’à l’Autheur du Mercure Galant. Ses Ouvrages sont veus par toute l’Europe, &amp; on est persuadé qu’il n’y a point de meilleur moyen pour mettre une Piece en crédit, que de le prier de luy ménager une place dans les Mémoires qu’il donne tous les Mois au Public. Je suis, Monsieur, quoy que je n’aye pas l’honneur d’estre connu de vous, avec tous les sentimens d’estime imaginables, vostre, &amp;c.</p>
           <p rend="sc">De Saveuse. </p>
           <label rend="center">Sur le Projet de Paix.</label>
           <label rend="center">Sonnet.</label>
@@ -60,6 +46,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

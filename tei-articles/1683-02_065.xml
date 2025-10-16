@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>L´Air que je vous envoye, est d´un fort habile Maistre. Vous le connoîtrez en le
-          chantant.</p>
+    <body>
+      <div>
+        <p>L´Air que je vous envoye, est d´un fort habile Maistre. Vous le connoîtrez en le chantant.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour
-              placer les Figures</hi> : l’Air qui commence par <hi rend="i">L'Inhumaine, l'Ingrate,
-              a pû m'abandonner</hi>, doit regarder la page 65.</note>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">L'Inhumaine, l'Ingrate, a pû m'abandonner</hi>, doit regarder la page 65.</note>
           <lg>
             <l rend="i">L'Inhumaine, l'Ingrate, a pû m'abandonner,</l>
             <l rend="i">Et mon coeur brûle encore pour elle ;</l>
@@ -38,6 +35,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

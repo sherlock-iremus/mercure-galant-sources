@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>[...] L’amour des Sciences, &amp; les belles connoissances qu’il joignoit à ses grandes
-          qualitez, luy acquirent pendant qu’il vivoit l’amitié des beaux Esprits &amp; des Gens de
-          Lettres. Ainsi on ne doit pas s’étonner si apres sa mort, plusieurs à l’envy voulurent
-          éterniser sa mémoire par leurs Ouvrages, &amp; par plusieurs Epitaphes dont les Livres de
-          ce temps-là sont remplis. En voicy une qui contient toute sa vie en deux Vers Latins C’est
-          si peu de chose, que vos Amies voudront bien leur faire grace.</p>
+    <body>
+      <div>
+        <p>[...] L’amour des Sciences, &amp; les belles connoissances qu’il joignoit à ses grandes qualitez, luy acquirent pendant qu’il vivoit l’amitié des beaux Esprits &amp; des Gens de Lettres. Ainsi on ne doit pas s’étonner si apres sa mort, plusieurs à l’envy voulurent éterniser sa mémoire par leurs Ouvrages, &amp; par plusieurs Epitaphes dont les Livres de ce temps-là sont remplis. En voicy une qui contient toute sa vie en deux Vers Latins C’est si peu de chose, que vos Amies voudront bien leur faire grace.</p>
         <quote>
           <lg>
             <l rend="i">Dux, Legatus, Eques fudit, sociavit, adauxit,</l>
@@ -30,6 +24,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

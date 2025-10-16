@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,19 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
-        <p>M<hi rend="sup">r</hi> de Fieubet, Chancelier de la feuë Reyne, Homme d’une égale
-          réputation pour la probité &amp; pour l’esprit, a esté fait Conseiller d’Etat ordinaire
-          dans le mesme temps. Il sçait parfaitement les belles Lettres, &amp; a une finesse &amp;
-          une délicatesse dans l’esprit, qui se trouvent rarement. On a veu de luy des Vers Latins
-          &amp; François, qui sont admirables. M<hi rend="sup">r</hi> de Fieubet son Pere, estoit
-          Trésorier de l’Epargne. Il a un Frere Maistre des Requestes. Madame de Fieubet sa Femme
-          est continuellement employée aux œuvres de pieté, &amp; dans une grande réputation parmy
-          les veritables Devots.</p>
+    <body>
+      <div>
+        <p>M<hi rend="sup">r</hi> de Fieubet, Chancelier de la feuë Reyne, Homme d’une égale réputation pour la probité &amp; pour l’esprit, a esté fait Conseiller d’Etat ordinaire dans le mesme temps. Il sçait parfaitement les belles Lettres, &amp; a une finesse &amp; une délicatesse dans l’esprit, qui se trouvent rarement. On a veu de luy des Vers Latins &amp; François, qui sont admirables. M<hi rend="sup">r</hi> de Fieubet son Pere, estoit Trésorier de l’Epargne. Il a un Frere Maistre des Requestes. Madame de Fieubet sa Femme est continuellement employée aux œuvres de pieté, &amp; dans une grande réputation parmy les veritables Devots.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

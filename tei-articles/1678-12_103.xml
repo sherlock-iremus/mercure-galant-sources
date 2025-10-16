@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,27 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Je vous ay toûjours veu rechercher les Airs de M<hi rend="sup">r</hi> de Bacilly avec
-          tant de soin, que j’ay lieu de croire que vous ne serez pas fâchée d’en voir un de la
-          composition de M<hi rend="sup">r</hi> Daniel, qu’il a choisy comme un digne Sujet pour luy
-          mettre entre les mains tout ce qu’il avoit de Gens de la premiere qualité à instruire dans
-          la belle maniere de chanter. Vous sçavez, Madame, que peu de Personnes en ont une
-          connoissance aussi parfaite que M<hi rend="sup">r</hi> de Bacilly, &amp; qu’il en a mesme
-          fait un Traité fort utile à ceux qui veulent parler en public, à cause des Regles de
-          prononciation, &amp; de quantité de choses tres-curieusement remarquées. Le choix qu’il a
-          fait de M<hi rend="sup">r</hi> Daniel pour luy donner toutes ses pratiques, en luy faisant
-          épouser une de ses Nièces, vous fait connoistre qu’il estoit fortement persuadé de son
-          mérite. Aussi celuy dont je vous parle est-il dans une grande réputation soit pour le fond
-          de la Musique, soit pour la composition des Parties, pour le génie de faire de tres-beaux
-          Airs, &amp; sur tout pour la noble &amp; agreable exécution du Chant. Vous en jugerez par
-          ces Paroles qu’il a notées.</p>
+    <body>
+      <div>
+        <p>Je vous ay toûjours veu rechercher les Airs de M<hi rend="sup">r</hi> de Bacilly avec tant de soin, que j’ay lieu de croire que vous ne serez pas fâchée d’en voir un de la composition de M<hi rend="sup">r</hi> Daniel, qu’il a choisy comme un digne Sujet pour luy mettre entre les mains tout ce qu’il avoit de Gens de la premiere qualité à instruire dans la belle maniere de chanter. Vous sçavez, Madame, que peu de Personnes en ont une connoissance aussi parfaite que M<hi rend="sup">r</hi> de Bacilly, &amp; qu’il en a mesme fait un Traité fort utile à ceux qui veulent parler en public, à cause des Regles de prononciation, &amp; de quantité de choses tres-curieusement remarquées. Le choix qu’il a fait de M<hi rend="sup">r</hi> Daniel pour luy donner toutes ses pratiques, en luy faisant épouser une de ses Nièces, vous fait connoistre qu’il estoit fortement persuadé de son mérite. Aussi celuy dont je vous parle est-il dans une grande réputation soit pour le fond de la Musique, soit pour la composition des Parties, pour le génie de faire de tres-beaux Airs, &amp; sur tout pour la noble &amp; agreable exécution du Chant. Vous en jugerez par ces Paroles qu’il a notées.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour
-              placer les Figures</hi> : l’Air qui commence par <hi rend="i">En vain vous m’ordonnez
-              de feindre</hi>, doit regarder la page 106.</note>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">En vain vous m’ordonnez de feindre</hi>, doit regarder la page 106.</note>
           <lg>
             <l rend="i">En vain vous m’ordonnez de feindre</l>
             <l rend="i">De l’indiférence pour vous,</l>
@@ -52,6 +37,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

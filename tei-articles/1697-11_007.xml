@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,23 +14,22 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p>Si la Priere pour le Roy, que vous allez lire, n’est pas dans la bouche de tous les François, on ne peut douter qu’elle ne soit dans leurs cœurs, puis que jamais Prince n’a merité par tant de bontez, l’amour &amp; l’admiration de ses Peuples. C’est donc à nous à nous récrier tout d’une voix.</p>
-          <quote>
-            <lg>
-              <l rend="i"> Que Dieu par sa bonté</l>
-              <l rend="i"> Dans une paix profonde,</l>
-              <l rend="i">Donne au Roy de longs jours, une heureuse santé ;</l>
-              <l rend="i">A ses augustes Fils une race feconde,</l>
-              <l rend="i"> Afin que sa Posterité</l>
-              <l rend="i"> Puisse autant durer que le monde,</l>
-              <l rend="i"> Dont il fait la felicité.</l>
-            </lg>
-          </quote>
-          <p>Ces Vers sont de Madame le Camus, dont le zele pour le Roy est aussi connu, que ce feu d’esprit qui la distingue avec tant d’éclat parmy celles de son Sexe.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>Si la Priere pour le Roy, que vous allez lire, n’est pas dans la bouche de tous les François, on ne peut douter qu’elle ne soit dans leurs cœurs, puis que jamais Prince n’a merité par tant de bontez, l’amour &amp; l’admiration de ses Peuples. C’est donc à nous à nous récrier tout d’une voix.</p>
+        <quote>
+          <lg>
+            <l rend="i"> Que Dieu par sa bonté</l>
+            <l rend="i"> Dans une paix profonde,</l>
+            <l rend="i">Donne au Roy de longs jours, une heureuse santé ;</l>
+            <l rend="i">A ses augustes Fils une race feconde,</l>
+            <l rend="i"> Afin que sa Posterité</l>
+            <l rend="i"> Puisse autant durer que le monde,</l>
+            <l rend="i"> Dont il fait la felicité.</l>
+          </lg>
+        </quote>
+        <p>Ces Vers sont de Madame le Camus, dont le zele pour le Roy est aussi connu, que ce feu d’esprit qui la distingue avec tant d’éclat parmy celles de son Sexe.</p>
+      </div>
+    </body>
   </text>
 </TEI>

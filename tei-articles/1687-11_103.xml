@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,23 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
-        <p>Le Pere Comire Jesuite, qui s’est acquis tant de reputation par la beauté de ses Vers
-          Latins, a fait une Fable sur le Papillon, &amp; sur l’Abeille. Elle est extremement
-          estimée, &amp; il ne faut pas s’en étonner, puis que tout ce que nous avons vû de luy, a
-          ce tour aisé &amp; naturel que tout le monde recherche, &amp; qu’il est si difficile
-          d’attraper. M<hi rend="sup">r</hi> Petit de Roüen à fait la traduction de cette Fable avec
-          beaucoup de fidelité, &amp; je croy que vous n’aurez pas moins de plaisir à la lire, que
-          vous en avez receu des <hi rend="i">Dialogues Satyriques &amp; Moraux</hi>, dont il est
-          l’Autheur, &amp; qui ont esté si approuvez du Public. Son jugement en cela se trouve tous
-          les jours conforme à ce qui en fut dit d’avantageux il y a quelque temps dans la
-          Republique des Lettres.</p>
+        <p>Le Pere Comire Jesuite, qui s’est acquis tant de reputation par la beauté de ses Vers Latins, a fait une Fable sur le Papillon, &amp; sur l’Abeille. Elle est extremement estimée, &amp; il ne faut pas s’en étonner, puis que tout ce que nous avons vû de luy, a ce tour aisé &amp; naturel que tout le monde recherche, &amp; qu’il est si difficile d’attraper. M<hi rend="sup">r</hi> Petit de Roüen à fait la traduction de cette Fable avec beaucoup de fidelité, &amp; je croy que vous n’aurez pas moins de plaisir à la lire, que vous en avez receu des <hi rend="i">Dialogues Satyriques &amp; Moraux</hi>, dont il est l’Autheur, &amp; qui ont esté si approuvez du Public. Son jugement en cela se trouve tous les jours conforme à ce qui en fut dit d’avantageux il y a quelque temps dans la Republique des Lettres.</p>
         <quote>
-          <label><hi rend="i">LE PAPILLON</hi><lb/><hi rend="i">ET
-            L’ABEILLE</hi>.<lb/>FABLE.</label>
+          <label><hi rend="i">LE PAPILLON</hi><lb/><hi rend="i">ET L’ABEILLE</hi>.<lb/>FABLE.</label>
           <lg>
             <l rend="i">Dans un Jardin delicieux</l>
             <l rend="i">Un Papillon tout glorieux</l>
@@ -131,6 +120,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Apres vous avoir envoyé des Sonnets, des Madrigaux, des Eglogues, des Elegies, des
-          Chansons, &amp; des Stances ; je croy vous devoir aussi envoyer des Fables, puis qu’elles
-          sont à la mode : En voicy une de la Jument &amp; de l’Asne, qui fait icy assez de
-          bruit.</p>
+    <body>
+      <div>
+        <p>Apres vous avoir envoyé des Sonnets, des Madrigaux, des Eglogues, des Elegies, des Chansons, &amp; des Stances ; je croy vous devoir aussi envoyer des Fables, puis qu’elles sont à la mode : En voicy une de la Jument &amp; de l’Asne, qui fait icy assez de bruit.</p>
         <quote rend="border">
           <label rend="center b">Fable</label>
           <label rend="center b">De la jument et de l’Asne.</label>
@@ -55,8 +51,7 @@
           <l>Mais le Proverbe aussi chez elles doit changer ;</l>
           <l>Car c’est l’Heure de l’Asne, &amp; non du Berger.</l>
         </quote>
-        <p>On en trouve beaucoup qui la cherchent, mais chacun a son goust, &amp; tout le monde
-          n’est pas delicat en amour.</p>
+        <p>On en trouve beaucoup qui la cherchent, mais chacun a son goust, &amp; tout le monde n’est pas delicat en amour.</p>
       </div>
     </body>
   </text>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,20 +14,22 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Je vous envoye un Air nouveau, que vous ne trouverez pas moins agréable que ceux qui l'ont précedé.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin">L’Air doit regarder la page 326.</note>
-          <lg><l rend="i">Quand on a de l'amour</l>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin">L’Air doit regarder la page 326.</note>
+          <lg>
+            <l rend="i">Quand on a de l'amour</l>
             <l rend="i">Qu'il est difficile</l>
             <l rend="i">D'estre tranquille</l>
             <l rend="i">Seulement un jour,</l>
             <l rend="i">Que ne craint pas mesme un heureux Amant ?</l>
             <l rend="i">L'instant que luy promet une ardeur éternelle,</l>
             <l rend="i">Est suivi d'un autre moment,</l>
-            <l rend="i">Qui souvent fait une infidelle.</l></lg>
+            <l rend="i">Qui souvent fait une infidelle.</l>
+          </lg>
         </quote>
         <ref target="images/1696-09_326.JPG">
           <figure>
@@ -35,6 +37,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

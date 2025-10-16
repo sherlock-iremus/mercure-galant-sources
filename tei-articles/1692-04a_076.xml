@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,29 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Je vous ay déja envoyé trois Lettres du Berger de Flore, sur les galantes Societez où il
-          a esté receu. En voicy une quatriéme, dont la lecture ne vous donnera pas moins de plaisir
-          que vous en avez eu en lisant les autres.</p>
+    <body>
+      <div>
+        <p>Je vous ay déja envoyé trois Lettres du Berger de Flore, sur les galantes Societez où il a esté receu. En voicy une quatriéme, dont la lecture ne vous donnera pas moins de plaisir que vous en avez eu en lisant les autres.</p>
         <quote>
           <label>A LA BELLE<lb/>MARTHESIE.</label>
-          <p><hi rend="i">La cinquiéme Societé où j’entray, &amp; plûtost par hazard que par
-              inclination, estoit appellée</hi>, Le Royaume de Phenicie. <hi rend="i">Son nœud
-              estoit de</hi> couleur de feu, <hi rend="i">&amp; sa Devise</hi>, Brûler sans se
-            plaindre. <hi rend="i">Ce nom de Phenicie fut tiré du Phenix, qui servoit de corps à
-              cette Devise. Là les Cavaliers descendirent encore d’un degré, pour estre tenus dans
-              une plus grande soumission. On les nomma</hi> Esclaves, <hi rend="i">&amp; les Dames
-              porterent le nom de</hi> Reines. <hi rend="i">Mon Frere fut de cette Societé, aussi
-              bien que moy, &amp; la fortune voulut qu’une mesme personne devint d’abord l’objet de
-              nos attachemens ; ce qui nous étoit déja arrivé d’autres fois, comme si la nature nous
-              eust donné les mesmes inclinations. C’estoit pourtant sans jalousie de part ny
-              d’autre, au contraire, nous cherchions à nous servir. Cette Belle s’appelloit</hi>
-            Caliste. <hi rend="i">Un de ses Parens qui luy estoit destiné pour Epoux, ne fut pas
-              trop satisfait de nous voir assidus auprés d’elle, &amp; comme il avoit de l’esprit,
-              il s’en plaignit d’une maniere assez agréable. Ce fut par ces Vers qu’il nous
-              envoya.</hi></p>
+          <p><hi rend="i">La cinquiéme Societé où j’entray, &amp; plûtost par hazard que par inclination, estoit appellée</hi>, Le Royaume de Phenicie. <hi rend="i">Son nœud estoit de</hi> couleur de feu, <hi rend="i">&amp; sa Devise</hi>, Brûler sans se plaindre. <hi rend="i">Ce nom de Phenicie fut tiré du Phenix, qui servoit de corps à cette Devise. Là les Cavaliers descendirent encore d’un degré, pour estre tenus dans une plus grande soumission. On les nomma</hi> Esclaves, <hi rend="i">&amp; les Dames porterent le nom de</hi> Reines. <hi rend="i">Mon Frere fut de cette Societé, aussi bien que moy, &amp; la fortune voulut qu’une mesme personne devint d’abord l’objet de nos attachemens ; ce qui nous étoit déja arrivé d’autres fois, comme si la nature nous eust donné les mesmes inclinations. C’estoit pourtant sans jalousie de part ny d’autre, au contraire, nous cherchions à nous servir. Cette Belle s’appelloit</hi> Caliste. <hi rend="i">Un de ses Parens qui luy estoit destiné pour Epoux, ne fut pas trop satisfait de nous voir assidus auprés d’elle, &amp; comme il avoit de l’esprit, il s’en plaignit d’une maniere assez agréable. Ce fut par ces Vers qu’il nous envoya.</hi></p>
           <quote>
             <lg>
               <l>On dit que la concorde est rare entre les Freres,</l>
@@ -72,14 +55,9 @@
               <l> N’entre point dans vôtre union.</l>
             </lg>
           </quote>
-          <p><hi rend="i">Ce Berger appellé Leandre, estoit de nos Amis. Nous le laissâmes en repos,
-              &amp; nos desirs se bornerent à l’amitié de sa Parente, qui devint bien-tost sa Femme.
-              Nous fismes ensuite la cour à deux autres Belles de la Societé ; mon Frere à une
-              Blonde nommée Orcene ; &amp; moy à une Brune, appellée Mirrhine. Cette Brune estoit
-              une jeune coquette, mariée depuis cinq ou six mois, mais qui n’avoit pas renoncé au
-              plaisir d’avoir des Amans, quoy qu’elle eust un Mary. Ce fut le premier jour d’une
-              année que je luy fis present de mon cœur, &amp; ces Vers luy en apprirent la nouvelle.
-              Elle les aimoit bien plus que la Prose,</hi></p>
+          <p>
+            <hi rend="i">Ce Berger appellé Leandre, estoit de nos Amis. Nous le laissâmes en repos, &amp; nos desirs se bornerent à l’amitié de sa Parente, qui devint bien-tost sa Femme. Nous fismes ensuite la cour à deux autres Belles de la Societé ; mon Frere à une Blonde nommée Orcene ; &amp; moy à une Brune, appellée Mirrhine. Cette Brune estoit une jeune coquette, mariée depuis cinq ou six mois, mais qui n’avoit pas renoncé au plaisir d’avoir des Amans, quoy qu’elle eust un Mary. Ce fut le premier jour d’une année que je luy fis present de mon cœur, &amp; ces Vers luy en apprirent la nouvelle. Elle les aimoit bien plus que la Prose,</hi>
+          </p>
           <quote>
             <lg>
               <l>Que vous donner en ce jour, belle Reine,</l>
@@ -125,15 +103,9 @@
               <l>En le donnant, on donne tout le reste.</l>
             </lg>
           </quote>
-          <p><hi rend="i">Cette Dame n’estoit pas d’humeur à refuser de ces sortes de presens. Elle
-              en faisoit pourtant mistere, de peur qu’on ne la broüillast avec son Mary, si elle
-              s’en faisoit honneur, mais comme elle avoit l’esprit pointilleux &amp; inégal, on ne
-              sçavoit presque jamais comment on estoit auprés d’elle. Il arriva diverses ruptures
-              entre nous, dont le renoûment n’estoit jamais bien éloigné ; elle commençoit toujours
-              la guerre, &amp; moy la paix. Croyant une fois l’avoir laissée en belle humeur, à la
-              veille d’un voyage de deux ou trois jours qu’elle alloit passer dans un endroit fort
-              agreable, mais fort desert, je m’avisay de luy écrire avant son départ ce qui
-              suit.</hi></p>
+          <p>
+            <hi rend="i">Cette Dame n’estoit pas d’humeur à refuser de ces sortes de presens. Elle en faisoit pourtant mistere, de peur qu’on ne la broüillast avec son Mary, si elle s’en faisoit honneur, mais comme elle avoit l’esprit pointilleux &amp; inégal, on ne sçavoit presque jamais comment on estoit auprés d’elle. Il arriva diverses ruptures entre nous, dont le renoûment n’estoit jamais bien éloigné ; elle commençoit toujours la guerre, &amp; moy la paix. Croyant une fois l’avoir laissée en belle humeur, à la veille d’un voyage de deux ou trois jours qu’elle alloit passer dans un endroit fort agreable, mais fort desert, je m’avisay de luy écrire avant son départ ce qui suit.</hi>
+          </p>
           <quote>
             <lg>
               <l>Dans ces lieux écartez de tout commerce humain,</l>
@@ -147,14 +119,7 @@
               <l> Mais, de grace, pensez-y bien.</l>
             </lg>
           </quote>
-          <p><hi rend="i">Elle me renvoya mon Billet, aprés l’avoir lû, &amp; avoir écrit au
-              bas</hi>, Je n’en feray rien. <hi rend="i">Cette réponse me donna du chagrin ; &amp;
-              ennuyé du peu de progrés que je faisois sur son esprit, je résolus de rompre le
-              premier avec elle, si-tost que nous nous serions raccommodez de la broüillerie que
-              demandoit son insulte. La paix ne tarda guere à se faire aprés son retour, &amp; la
-              guerre à recommencer. Je pris l’occasion d’une petite faveur que je la priay de
-              m’accorder, &amp; qu’elle me refusa ; sur quoy l’ayant quittée brusquement, je luy
-              envoyay ce Billet.</hi></p>
+          <p><hi rend="i">Elle me renvoya mon Billet, aprés l’avoir lû, &amp; avoir écrit au bas</hi>, Je n’en feray rien. <hi rend="i">Cette réponse me donna du chagrin ; &amp; ennuyé du peu de progrés que je faisois sur son esprit, je résolus de rompre le premier avec elle, si-tost que nous nous serions raccommodez de la broüillerie que demandoit son insulte. La paix ne tarda guere à se faire aprés son retour, &amp; la guerre à recommencer. Je pris l’occasion d’une petite faveur que je la priay de m’accorder, &amp; qu’elle me refusa ; sur quoy l’ayant quittée brusquement, je luy envoyay ce Billet.</hi></p>
           <quote>
             <lg>
               <l>Je vous l’ay dit cent fois, si j’ay bonne memoire,</l>
@@ -168,16 +133,9 @@
               <l>Nous verrons qui de nous en aura du regret.</l>
             </lg>
           </quote>
-          <p><hi rend="i">Mais parce que je voulois rompre, elle ne le voulut pas. Elle m’écrivit
-              que je faisois bien le méchant pour un Esclave ; &amp; qu’elle sçauroit me mettre à la
-              raison, si je ne m’y rangeois de moy-mesme. Un cœur qui aime est foible &amp; timide.
-              Je ne fus ny assez fort ny assez hardy pour soûtenir mon entreprise. Je revins à elle
-              en luy demandant pardon de m’estre échapé, &amp; il arriva par sa bizarrerie, que
-              quand elle me vit dans la soumission, elle me dit fierement qu’elle ne me pardonneroit
-              jamais la menace de la quitter, que j’avois eu la témerité de luy faire. Neanmoins ce
-              pardon me fut bien-tost accordé. Une fiévre violente la prit quelques jours aprés,
-              &amp; la reduisit à un fort mauvais estat. Je fis alors ces Vers pour la
-              divertir.</hi></p>
+          <p>
+            <hi rend="i">Mais parce que je voulois rompre, elle ne le voulut pas. Elle m’écrivit que je faisois bien le méchant pour un Esclave ; &amp; qu’elle sçauroit me mettre à la raison, si je ne m’y rangeois de moy-mesme. Un cœur qui aime est foible &amp; timide. Je ne fus ny assez fort ny assez hardy pour soûtenir mon entreprise. Je revins à elle en luy demandant pardon de m’estre échapé, &amp; il arriva par sa bizarrerie, que quand elle me vit dans la soumission, elle me dit fierement qu’elle ne me pardonneroit jamais la menace de la quitter, que j’avois eu la témerité de luy faire. Neanmoins ce pardon me fut bien-tost accordé. Une fiévre violente la prit quelques jours aprés, &amp; la reduisit à un fort mauvais estat. Je fis alors ces Vers pour la divertir.</hi>
+          </p>
           <quote>
             <lg>
               <l>Avec vous la Beauté pâtit ;</l>
@@ -191,31 +149,7 @@
               <l> Vous gueririez tous ces Malades.</l>
             </lg>
           </quote>
-          <p><hi rend="i">Son Mary qui estoit à l’Armée, dans les commencemens de cette maladie,
-              revint au Pays à la premiere nouvelle qu’il en receut ; &amp; n’eut pas peu
-              d’affliction de se voir en danger de perdre cette belle Femme. Ce qu’il y eut d’assez
-              plaisant, c’est que dans les redoublemens de sa fiévre, son esprit se dereglant, elle
-              ne faisoit que parler de</hi> Palcin. <hi rend="i">C’estoit le nom d’Esclave qu’on
-              m’avoit donné, &amp; celuy d’une Terre, un peu déguisé ; de sorte que son Mary
-              demandant qui estoit ce Palcin qui revenoit si souvent à la bouche de sa Malade, &amp;
-              personne n’osant luy dire ce qu’on en sçavoit, il se mit en teste qu’il y avoit un
-              grand mistere caché sous ce nom, &amp; s’abandonna à un chagrin que ne pouvoit
-              dissiper l’asseurance qui luy fut donnée, qu’il falloit qu’elle extravaguast dans les
-              mots, aussi bien que dans le sens. Mon assiduité &amp; mes soins pour cette Belle,
-              diminuerent beaucoup depuis le retour de ce Mary, quoy que j’eusse autant
-              d’inclination qu’auparavant à luy rendre mes services, &amp; que sa maladie continuast
-              dans la mesme violence, mais diverses considerations arrestoient mes bonnes volontez,
-              &amp; m’obligerent mesme d’aller à la Campagne. Dans le sejour que j’y fis, un de mes
-              Amis devenu amoureux d’une jeune Veuve qui estoit belle &amp; qui chantoit bien, ce
-              qui est assez rare, comme vous sçavez, me pria de luy faire des Vers sur un grand Air
-              qui couroit, &amp; qui plaisoit fort à sa Maistresse, pour luy apprendre la resolution
-              qu’il prenoit de l’aimer. Il m’avoit dit qu’elle se plaisoit beaucoup à la Campagne
-              aussi-bien que luy, &amp; qu’elle y estoit presque toûjours, qu’elle avoit un penchant
-              plus grand à l’humeur cruelle qu’à la douce, &amp; qu’elle portoit en galanterie, le
-              nom de la premiere personne que j’avois aimée, je veux dire, de Philis ; &amp; sur sa
-              priere &amp; ses instructions, voicy les Vers que pour la premiere fois l’amitié sçeut
-              m’inspirer ; encore l’amour m’aida-t-il à la faveur du souvenir de ma premiere
-              Inclination.</hi></p>
+          <p><hi rend="i">Son Mary qui estoit à l’Armée, dans les commencemens de cette maladie, revint au Pays à la premiere nouvelle qu’il en receut ; &amp; n’eut pas peu d’affliction de se voir en danger de perdre cette belle Femme. Ce qu’il y eut d’assez plaisant, c’est que dans les redoublemens de sa fiévre, son esprit se dereglant, elle ne faisoit que parler de</hi> Palcin. <hi rend="i">C’estoit le nom d’Esclave qu’on m’avoit donné, &amp; celuy d’une Terre, un peu déguisé ; de sorte que son Mary demandant qui estoit ce Palcin qui revenoit si souvent à la bouche de sa Malade, &amp; personne n’osant luy dire ce qu’on en sçavoit, il se mit en teste qu’il y avoit un grand mistere caché sous ce nom, &amp; s’abandonna à un chagrin que ne pouvoit dissiper l’asseurance qui luy fut donnée, qu’il falloit qu’elle extravaguast dans les mots, aussi bien que dans le sens. Mon assiduité &amp; mes soins pour cette Belle, diminuerent beaucoup depuis le retour de ce Mary, quoy que j’eusse autant d’inclination qu’auparavant à luy rendre mes services, &amp; que sa maladie continuast dans la mesme violence, mais diverses considerations arrestoient mes bonnes volontez, &amp; m’obligerent mesme d’aller à la Campagne. Dans le sejour que j’y fis, un de mes Amis devenu amoureux d’une jeune Veuve qui estoit belle &amp; qui chantoit bien, ce qui est assez rare, comme vous sçavez, me pria de luy faire des Vers sur un grand Air qui couroit, &amp; qui plaisoit fort à sa Maistresse, pour luy apprendre la resolution qu’il prenoit de l’aimer. Il m’avoit dit qu’elle se plaisoit beaucoup à la Campagne aussi-bien que luy, &amp; qu’elle y estoit presque toûjours, qu’elle avoit un penchant plus grand à l’humeur cruelle qu’à la douce, &amp; qu’elle portoit en galanterie, le nom de la premiere personne que j’avois aimée, je veux dire, de Philis ; &amp; sur sa priere &amp; ses instructions, voicy les Vers que pour la premiere fois l’amitié sçeut m’inspirer ; encore l’amour m’aida-t-il à la faveur du souvenir de ma premiere Inclination.</hi></p>
           <quote>
             <lg>
               <l>Zephirs, arbres, ruisseaux, mes plus cheres delices,</l>
@@ -239,29 +173,9 @@
               <l>En plaisant à Philis, vous leur plairez aussi.</l>
             </lg>
           </quote>
-          <p><hi rend="i">Mon Amy trouva ces Vers assez conformes à ses intentions, &amp; les
-              presenta à sa Belle, à qui ils ne déplurent pas. Elle les apprit, &amp; les chanta ;
-              &amp; les fit voir &amp; chanter à ses Compagnes, ce qui les fit si bien aller de
-              l’une à l’autre qu’ils vinrent jusqu’aux oreilles de Mirrhine qui commençoit à se
-              mieux porter ; mais comme la Renommée n’est jamais fidelle dans ses rapports, lors
-              qu’aprés avoir ouy ces Vers, &amp; témoigné qu’ils luy sembloient assez jolis, elle
-              demanda qui en estoit l’auteur, elle ne pût apprendre sans depit que c’estoit moy,
-              &amp; que je les avois faits pour une jeune Veuve dont j’estois devenu amoureux
-              pendant sa maladie. Il est fâcheux à une Belle de perdre un Cœur qu’elle estoit au
-              nombre de ses Conquestes les plus asseurées. Mirrhine jugeant à ce discours que le
-              mien manquoit pour elle de fidelité ou de constance ne m’en voulut pas peu de mal. Son
-              Mary d’un autre costé n’estoit pas mieux intentionné pour moy. Il avoit enfin
-              découvert que j’estois la personne dont sa Femme parloit tant en sa maladie, &amp;
-              quoy qu’on l’asseurast que si elle y avoit jamais pensé en santé, c’estoit fort à la
-              legere, il croyoit qu’on cherchoit à le tromper, &amp; que le meilleur party quel eust
-              à prendre, c’estoit de rompre avec moy. Averty de ces sentimens, tant de la Belle que
-              de son Mary, &amp; de l’opiniastreté qu’ils avoient à les conserver ; &amp; appellé
-              d’ailleurs à Paris par une grande &amp; puissante affaire, je quittay la Province
-              aprés leur avoir seulement envoyé faire civilité à mon départ ; mais je ne fus pas
-              éloigné trois mois sans apprendre la mort de Mirrhine, qu’une recheute avoit entrainée
-              dans le Tombeau. La nouvelle que la Societé m’en donna, me toucha sensiblement ; &amp;
-              pensant à cette perte, &amp; à celle de ma volage Arthenice, je m’écriay plus d’une
-              fois dans le transport de ma douleur.</hi></p>
+          <p>
+            <hi rend="i">Mon Amy trouva ces Vers assez conformes à ses intentions, &amp; les presenta à sa Belle, à qui ils ne déplurent pas. Elle les apprit, &amp; les chanta ; &amp; les fit voir &amp; chanter à ses Compagnes, ce qui les fit si bien aller de l’une à l’autre qu’ils vinrent jusqu’aux oreilles de Mirrhine qui commençoit à se mieux porter ; mais comme la Renommée n’est jamais fidelle dans ses rapports, lors qu’aprés avoir ouy ces Vers, &amp; témoigné qu’ils luy sembloient assez jolis, elle demanda qui en estoit l’auteur, elle ne pût apprendre sans depit que c’estoit moy, &amp; que je les avois faits pour une jeune Veuve dont j’estois devenu amoureux pendant sa maladie. Il est fâcheux à une Belle de perdre un Cœur qu’elle estoit au nombre de ses Conquestes les plus asseurées. Mirrhine jugeant à ce discours que le mien manquoit pour elle de fidelité ou de constance ne m’en voulut pas peu de mal. Son Mary d’un autre costé n’estoit pas mieux intentionné pour moy. Il avoit enfin découvert que j’estois la personne dont sa Femme parloit tant en sa maladie, &amp; quoy qu’on l’asseurast que si elle y avoit jamais pensé en santé, c’estoit fort à la legere, il croyoit qu’on cherchoit à le tromper, &amp; que le meilleur party quel eust à prendre, c’estoit de rompre avec moy. Averty de ces sentimens, tant de la Belle que de son Mary, &amp; de l’opiniastreté qu’ils avoient à les conserver ; &amp; appellé d’ailleurs à Paris par une grande &amp; puissante affaire, je quittay la Province aprés leur avoir seulement envoyé faire civilité à mon départ ; mais je ne fus pas éloigné trois mois sans apprendre la mort de Mirrhine, qu’une recheute avoit entrainée dans le Tombeau. La nouvelle que la Societé m’en donna, me toucha sensiblement ; &amp; pensant à cette perte, &amp; à celle de ma volage Arthenice, je m’écriay plus d’une fois dans le transport de ma douleur.</hi>
+          </p>
           <quote>
             <lg>
               <l> Combien d’infortunes diverses !</l>
@@ -274,20 +188,10 @@
               <l> Qui vit jamais d’éternelles amours ?</l>
             </lg>
           </quote>
-          <p><hi rend="i">Mon Frere, s’il m’est permis de vous parler encore de luy, ne fut pas plus
-              heureux que moy dans l’amour qu’il eut pour Circene. C’estoit une autre Coquette fort
-              avide de loüanges, qui se déguisoit sous les apparences d’une Prude, &amp; qui luy fit
-              bien voir du pays. Il s’en plaignit par une Elegie qui la toucha, &amp; qui eut la
-              force de la remettre à la raison pendant quelques mois ; mais comme il n’est rien de
-              plus glissant que le panchant à la coquetterie, elle y retomba ; &amp; aprés beaucoup
-              de chagrins que cette humeur luy fit essuyer, il en fut enfin vangé par le secours
-              d’une de ces redoutables maladies qui empoisonnent la beauté, &amp; dont la malignité
-              agit si fortement sur Circene, qu’elle luy enleva tous ses charmes, &amp; tous ses
-              Amans.</hi></p>
-          <p><hi rend="i">Ce fut dans le temps de cette Societé, Madame, que je composay</hi> le
-            Chemin d’amour, <hi rend="i">en faveur d’un jeune Marquis de mes Amis, qui desiroit
-              sçavoir l’art de se faire aimer par les belles formes. Cette Piece eut l’approbation
-              de la Societé, &amp; la receut en ces termes.</hi></p>
+          <p>
+            <hi rend="i">Mon Frere, s’il m’est permis de vous parler encore de luy, ne fut pas plus heureux que moy dans l’amour qu’il eut pour Circene. C’estoit une autre Coquette fort avide de loüanges, qui se déguisoit sous les apparences d’une Prude, &amp; qui luy fit bien voir du pays. Il s’en plaignit par une Elegie qui la toucha, &amp; qui eut la force de la remettre à la raison pendant quelques mois ; mais comme il n’est rien de plus glissant que le panchant à la coquetterie, elle y retomba ; &amp; aprés beaucoup de chagrins que cette humeur luy fit essuyer, il en fut enfin vangé par le secours d’une de ces redoutables maladies qui empoisonnent la beauté, &amp; dont la malignité agit si fortement sur Circene, qu’elle luy enleva tous ses charmes, &amp; tous ses Amans.</hi>
+          </p>
+          <p><hi rend="i">Ce fut dans le temps de cette Societé, Madame, que je composay</hi> le Chemin d’amour, <hi rend="i">en faveur d’un jeune Marquis de mes Amis, qui desiroit sçavoir l’art de se faire aimer par les belles formes. Cette Piece eut l’approbation de la Societé, &amp; la receut en ces termes.</hi></p>
           <quote>
             <lg>
               <l> Cet Ouvrage galant me plaist ;</l>
@@ -298,13 +202,11 @@
               <l> Droit dans le port.</l>
             </lg>
           </quote>
-          <p><hi rend="i">J’acheveray, Madame, par une autre Lettre, de vous donner les
-              éclaircissemens que vous avez desirez de moy. J’ay bien de la joye d’apprendre que
-              vous les recevez avec plaisir. Je m’en feray toujours un tres-grand de contribuer à
-              vos divertissemens, &amp; de vous marquer que je suis avec zele &amp; respect vostre,
-              &amp;c.</hi></p>
+          <p>
+            <hi rend="i">J’acheveray, Madame, par une autre Lettre, de vous donner les éclaircissemens que vous avez desirez de moy. J’ay bien de la joye d’apprendre que vous les recevez avec plaisir. Je m’en feray toujours un tres-grand de contribuer à vos divertissemens, &amp; de vous marquer que je suis avec zele &amp; respect vostre, &amp;c.</hi>
+          </p>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

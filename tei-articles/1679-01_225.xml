@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,25 +14,19 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Voyez, Madame, comme la Paix a mis toute la France en joye. Celle qu’on fait
-          ordinairement éclater dans le temps des Roys, en a redoublé, &amp; ces paroles
-          nouvellement mises en Air vous l’apprendront.</p>
+    <body>
+      <div>
+        <p>Voyez, Madame, comme la Paix a mis toute la France en joye. Celle qu’on fait ordinairement éclater dans le temps des Roys, en a redoublé, &amp; ces paroles nouvellement mises en Air vous l’apprendront.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour
-              placer les Figures</hi> : l’Air qui commence par <hi rend="i">Quelle Musique
-              agreable</hi>, doit regarder la page 225.</note>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Quelle Musique agreable</hi>, doit regarder la page 225.</note>
           <lg>
             <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Quelle Musique agreable</l>
             <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Retentit dans les airs ?</l>
             <l rend="i">Je croy que comme nous tout le monde est à table,</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg>Qu'on mange, qu’on boit,
-              qu’on fait des Concerts ;</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg>Qu'on mange, qu’on boit, qu’on fait des Concerts ;</l>
             <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>L'accord en est admirable.</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg>Ah qu’il est doux !
-              qu’il est aimable.</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg>Ah qu’il est doux ! qu’il est aimable.</l>
             <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Chacun y chante comme il doit.</l>
             <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Homme, Femme, Garçon &amp; Fille,</l>
             <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Tout s’égosille</l>
@@ -45,6 +39,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

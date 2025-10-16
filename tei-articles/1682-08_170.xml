@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
+    <body>
+      <div>
         <p/>
-        <p>M<hi rend="sup">r</hi> Salbray, Valet de Chambre du Roy, a tiré d’heureux présages de ce
-          que le Prince est né le Jeudy, &amp; dans le mois d’Aoust, appellé Auguste par les Latins.
-          Voicy comment il explique sa pensée.</p>
+        <p>M<hi rend="sup">r</hi> Salbray, Valet de Chambre du Roy, a tiré d’heureux présages de ce que le Prince est né le Jeudy, &amp; dans le mois d’Aoust, appellé Auguste par les Latins. Voicy comment il explique sa pensée.</p>
         <quote>
           <lg>
             <l rend="i">Ce nouveau Prince est né le jour de Jupiter,</l>
@@ -32,6 +29,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

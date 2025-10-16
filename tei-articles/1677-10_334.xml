@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,9 +14,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Tous les Amans ne sont pas fortunez ; &amp; l’Amour, pour mieux faire connoistre sa puissance, ne prend pas toûjours le party des Dieux. Apollon a lieu de s’en plaindre ; laissons-le dans son chagrin, &amp; voyons ce que dit un Mortel plus heureux que luy. Sa Maistresse l’avoit prié de feindre pour tromper les Jaloux, &amp; voicy ce qu’il luy répond.</p>
         <quote>
           <label>AIR NOUVEAU <lb/>de M<hi rend="sup">r</hi> Lambert.</label>

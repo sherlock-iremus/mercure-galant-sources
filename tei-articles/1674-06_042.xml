@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>En vous parlant des Vers qui ont esté faits sur la Prise de Mastric, j’ay oublié de vous
-          parler de ceux de Mademoiselle de Scudery. Comme il ne sort rien de sa Plume, qui ne soit
-          confiderable, je croy que vous ne m’auriez pas pardonné. Elle a dit beaucoup en peu de
-          paroles, &amp; voicy le Madrigal qu’elle a fait.</p>
+    <body>
+      <div>
+        <p>En vous parlant des Vers qui ont esté faits sur la Prise de Mastric, j’ay oublié de vous parler de ceux de Mademoiselle de Scudery. Comme il ne sort rien de sa Plume, qui ne soit confiderable, je croy que vous ne m’auriez pas pardonné. Elle a dit beaucoup en peu de paroles, &amp; voicy le Madrigal qu’elle a fait.</p>
         <quote rend="border">
           <label rend="center b">Madrgial</label>
           <label rend="center b">De Mademoiselle de Scudéry, sur la prise de Mastric.</label>
@@ -32,6 +28,6 @@
           <l>Que son Nom seulement vous va rendre imprenable.</l>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

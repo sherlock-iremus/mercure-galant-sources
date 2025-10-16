@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>J'ajouste à ces Vers les paroles d'un Air à boire que vous chanterez avec plaisir.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air doit regarder la page 323.</note>
-          <lg><l rend="i">Ah ! Bacchus, pourquoy dans ces lieux,</l>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air doit regarder la page 323.</note>
+          <lg>
+            <l rend="i">Ah ! Bacchus, pourquoy dans ces lieux,</l>
             <l rend="i">Nous rens-tu ta liqueur si rare ?</l>
             <l rend="i">Du plus agreable des Dieux,</l>
             <l rend="i">Deviendras-tu le plus barbare ?</l>
@@ -36,6 +37,6 @@
           </figure>
         </ref>
       </div>
-        </body>
+    </body>
   </text>
 </TEI>

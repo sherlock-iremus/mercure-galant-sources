@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
+    <body>
+      <div>
         <p/>
-        <p>On a eu aussi nouvelles de la mort de M<hi rend="sup">r</hi> Soirot, arrivée depuis trois
-          semaines. Il estoit Grand-Maistre des Eaux &amp; Forests de Bourgogne &amp; de Bresse,
-          &amp; s’estoit acquis une estime generale. M<hi rend="sup">r</hi> de la Monnoye de Dijon,
-          dont la reputation vous est si connuë, a fait les Vers que vous allez lire, pour luy
-          servir d’Epitaphe.</p>
+        <p>On a eu aussi nouvelles de la mort de M<hi rend="sup">r</hi> Soirot, arrivée depuis trois semaines. Il estoit Grand-Maistre des Eaux &amp; Forests de Bourgogne &amp; de Bresse, &amp; s’estoit acquis une estime generale. M<hi rend="sup">r</hi> de la Monnoye de Dijon, dont la reputation vous est si connuë, a fait les Vers que vous allez lire, pour luy servir d’Epitaphe.</p>
         <quote>
           <lg>
             <l rend="i">Cy gist Soyrot. Passant, ce mot veut dire,</l>
@@ -38,6 +33,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

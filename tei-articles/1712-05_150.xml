@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,19 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-                
-                
-
-                <p>On confirme que la Reine a envoyé ordre en Irlande de
-                        casser deux Regiments dont les Soldats seront incorporez en d’autres corps,
-                        que Sa Majesté a donné de pareils ordres pour reformer une partie des
-                        troupes qui sont en Angleterre &amp; celles qui ont servi à l’expedition du
-                        Canada, afin de rendre complettes les Garnisons des places d’Ecosse au lieu
-                        de Regiments Ecossois qui y sont &amp; qui doivent venir en
-                        Angleterre.</p>
-
-            </div>
+    <body>
+      <div>
+        <p>On confirme que la Reine a envoyé ordre en Irlande de casser deux Regiments dont les Soldats seront incorporez en d’autres corps, que Sa Majesté a donné de pareils ordres pour reformer une partie des troupes qui sont en Angleterre &amp; celles qui ont servi à l’expedition du Canada, afin de rendre complettes les Garnisons des places d’Ecosse au lieu de Regiments Ecossois qui y sont &amp; qui doivent venir en Angleterre.</p>
+      </div>
     </body>
   </text>
 </TEI>

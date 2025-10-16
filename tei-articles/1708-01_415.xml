@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p/>
-          <label><hi rend="sc">Le Libraire au Lecteur.</hi></label>
-          <p>L’Histoire du siége de Toulon ayant obligé l’Auteur de reculer le Mercure de Decembre d’un mois, cela a donné lieu à quelques Particuliers de dire que le Mercure étoit cessé, l’Auteur n’étant plus en état de le continüer ; cependant, il a donné au commencement de Janvier, un Volume plus gros que les autres, puisqu’il contient les nouvelles du mois de Decembre, &amp; celles du mois de Novembre. On trouve dans le titre de ce Volume, <hi rend="i">Novembre</hi>, &amp; <hi rend="i">Decembre.</hi></p>
-        </div>
-      </body>
+    <body>
+      <div>
+        <p/>
+        <label>
+          <hi rend="sc">Le Libraire au Lecteur.</hi>
+        </label>
+        <p>L’Histoire du siége de Toulon ayant obligé l’Auteur de reculer le Mercure de Decembre d’un mois, cela a donné lieu à quelques Particuliers de dire que le Mercure étoit cessé, l’Auteur n’étant plus en état de le continüer ; cependant, il a donné au commencement de Janvier, un Volume plus gros que les autres, puisqu’il contient les nouvelles du mois de Decembre, &amp; celles du mois de Novembre. On trouve dans le titre de ce Volume, <hi rend="i">Novembre</hi>, &amp; <hi rend="i">Decembre.</hi></p>
+      </div>
+    </body>
   </text>
 </TEI>

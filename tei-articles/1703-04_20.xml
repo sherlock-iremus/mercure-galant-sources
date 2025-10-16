@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,38 +14,37 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <quote>
-            <label>SUR UN HOMME À BONNE FORTUNE.</label>
-            <lg>
-              <l><hi rend="i">Dans l’amoureuse intrigue, Hilas toûjours</hi> actif,</l>
-              <l><hi rend="i">Aux flames endurci comme la</hi> Salamandre,</l>
-              <l><hi rend="i">Et plus fier que Pirrhus ne fut sur le</hi> Scamandre,</l>
-              <l><hi rend="i">Met aux fers chaque jour nouvel objet</hi> captif.</l>
-            </lg>
-            <ab type="ornament">***</ab>
-            <lg>
-              <l><hi rend="i">Les Meres, les Maris prennent un ton</hi> plaintif</l>
-              <l><hi rend="i">Contre ce Conquerant aussi prompt qu’</hi>Alexandre,</l>
-              <l><hi rend="i">Mais, il est peu touché des pleurs qu’il fait</hi> répandre ;</l>
-              <l><hi rend="i">Et brave le Jaloux le plus</hi> vindicatif.</l>
-            </lg>
-            <ab type="ornament">***</ab>
-            <lg>
-              <l><hi rend="i">Il enchante la Sotte, il dompte la</hi> superbe,</l>
-              <l><hi rend="i">Parle sublime à l’une, avec l’autre,</hi> proverbe,</l>
-              <l><hi rend="i">Chante comme la Chappe, &amp; mieux qu’un</hi> Rossignol :</l>
-            </lg>
-            <ab type="ornament">***</ab>
-            <lg>
-              <l><hi rend="i">Du feu de ses regards la fatale</hi> abondance</l>
-              <l><hi rend="i">À celle qui s’y vient livrer sans</hi> parassol</l>
-              <l><hi rend="i">Fait bientost à coup sûr, perdre toute</hi> cadence.</l>
-            </lg>
-          </quote>
-        </div>
-        </body>
+    <body>
+      <div>
+        <quote>
+          <label>SUR UN HOMME À BONNE FORTUNE.</label>
+          <lg>
+            <l><hi rend="i">Dans l’amoureuse intrigue, Hilas toûjours</hi> actif,</l>
+            <l><hi rend="i">Aux flames endurci comme la</hi> Salamandre,</l>
+            <l><hi rend="i">Et plus fier que Pirrhus ne fut sur le</hi> Scamandre,</l>
+            <l><hi rend="i">Met aux fers chaque jour nouvel objet</hi> captif.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l><hi rend="i">Les Meres, les Maris prennent un ton</hi> plaintif</l>
+            <l><hi rend="i">Contre ce Conquerant aussi prompt qu’</hi>Alexandre,</l>
+            <l><hi rend="i">Mais, il est peu touché des pleurs qu’il fait</hi> répandre ;</l>
+            <l><hi rend="i">Et brave le Jaloux le plus</hi> vindicatif.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l><hi rend="i">Il enchante la Sotte, il dompte la</hi> superbe,</l>
+            <l><hi rend="i">Parle sublime à l’une, avec l’autre,</hi> proverbe,</l>
+            <l><hi rend="i">Chante comme la Chappe, &amp; mieux qu’un</hi> Rossignol :</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l><hi rend="i">Du feu de ses regards la fatale</hi> abondance</l>
+            <l><hi rend="i">À celle qui s’y vient livrer sans</hi> parassol</l>
+            <l><hi rend="i">Fait bientost à coup sûr, perdre toute</hi> cadence.</l>
+          </lg>
+        </quote>
+      </div>
+    </body>
   </text>
 </TEI>

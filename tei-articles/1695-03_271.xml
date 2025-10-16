@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-          
-          <p>M<hi rend="sup">r</hi> l’Abbé Saurin, homme tres-considerable dans la Republique des Lettres. Les Ouvrages qu’il a donnez au Public de temps en temps, joints à la traduction en Vers François des Hymnes de M<hi rend="sup">r</hi> de Santeul, luy ont acquis une tres grande réputation. Il estoit d’une illustre &amp; tres noble Famille du Bas Languedoc, qui a donné sous les regnes de Henry le Grand &amp; de Louis le Juste, plusieurs Gouverneurs des Ville &amp; Chasteau de Lommieres, Place la plus importante du Pays des Sevenes.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>M<hi rend="sup">r</hi> l’Abbé Saurin, homme tres-considerable dans la Republique des Lettres. Les Ouvrages qu’il a donnez au Public de temps en temps, joints à la traduction en Vers François des Hymnes de M<hi rend="sup">r</hi> de Santeul, luy ont acquis une tres grande réputation. Il estoit d’une illustre &amp; tres noble Famille du Bas Languedoc, qui a donné sous les regnes de Henry le Grand &amp; de Louis le Juste, plusieurs Gouverneurs des Ville &amp; Chasteau de Lommieres, Place la plus importante du Pays des Sevenes.</p>
+      </div>
+    </body>
   </text>
 </TEI>

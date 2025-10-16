@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Je finis par un Ouvrage, dont M<hi rend="sup">r</hi> Rousselet, Principal du College de
-          Noyon, est l’Auteur.</p>
+    <body>
+      <div>
+        <p>Je finis par un Ouvrage, dont M<hi rend="sup">r</hi> Rousselet, Principal du College de Noyon, est l’Auteur.</p>
         <quote>
           <label>EPISTRE AU ROY,<lb/>Sur la prise des Ville &amp;<lb/>Chasteau de Namur.</label>
           <lg>
@@ -97,6 +95,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

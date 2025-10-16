@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,20 +14,17 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
-        <p>Comme il n’y a rien de plus agreable que l’accent Provençal, &amp; que je sçay que vous
-          le prenez si bien quand il vous plaist, qu’il semble que vous soyez une veritable
-          Provençale, je vous envoye une Chanson qui vient de ce Pays-là. L’Air est de M<hi rend="sup">r</hi> Garnier. Le titre qu’elle a vous en apprend le sujet.</p>
+        <p>Comme il n’y a rien de plus agreable que l’accent Provençal, &amp; que je sçay que vous le prenez si bien quand il vous plaist, qu’il semble que vous soyez une veritable Provençale, je vous envoye une Chanson qui vient de ce Pays-là. L’Air est de M<hi rend="sup">r</hi> Garnier. Le titre qu’elle a vous en apprend le sujet.</p>
         <quote>
-          <label><hi rend="i">COMPLEINTO</hi><lb/><hi rend="i">Sur l’état present deis
-              affairès</hi><lb/><hi rend="i">dau Duc de Savoyo.</hi><lb/>CANSOUN
-            NOUVELO</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les
-              Figures</hi> : la Chanson Provençale doit regarder la page 128.</note>
+          <label><hi rend="i">COMPLEINTO</hi><lb/><hi rend="i">Sur l’état present deis affairès</hi><lb/><hi rend="i">dau Duc de Savoyo.</hi><lb/>CANSOUN NOUVELO</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : la Chanson Provençale doit regarder la page 128.</note>
           <lg>
-            <l><hi rend="i">Jusqu’à Venizo avés courrut</hi></l>
+            <l>
+              <hi rend="i">Jusqu’à Venizo avés courrut</hi>
+            </l>
             <l rend="i">Senso gagna ley joyo,</l>
             <l rend="i">Vous sias soulamen mourfoundut,</l>
             <l rend="i">Pauré Duc de Savoyo.</l>
@@ -42,7 +39,9 @@
           <ab type="ornament">***</ab>
           <lg>
             <l rend="i"> Niço n’és plus ce qu’és istat,</l>
-            <l><hi rend="i">Car n’és qu’uno mounjoyo,</hi></l>
+            <l>
+              <hi rend="i">Car n’és qu’uno mounjoyo,</hi>
+            </l>
             <l rend="i">Soun famou Casteou fa pietat,</l>
             <l rend="i">Pauré Duc de Savoyo.</l>
           </lg>
@@ -165,6 +164,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

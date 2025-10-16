@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,9 +14,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <label rend="center">Avis pour toûjours.</label>
         <p>On prie ceux qui envoyeront des Memoires où il y aura des Noms propres, d’écrire ces Noms en caracteres tres-bien formez &amp; qui imitent l’Impression, s’il se peut, afin qu’on ne soit plus sujet à s’y tromper.</p>
         <p>On prie aussi qu’on mette sur des papiers diférens toutes les Pieces qu’on envoyera.</p>

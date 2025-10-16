@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <quote>
-          <label><hi rend="i">QUATRAINS.</hi></label>
+          <label>
+            <hi rend="i">QUATRAINS.</hi>
+          </label>
           <lg>
             <l>Chantons tous l’heureuse Paix,</l>
             <l><hi rend="i">LOUIS</hi> a par sa puissance</l>
@@ -97,6 +98,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

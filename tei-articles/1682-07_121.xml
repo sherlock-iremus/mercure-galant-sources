@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,9 +14,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
         <p>Vous avez trouvé dans ma Lettre du dernier Mois, le Sonnet victorieux, sur les Bouts-rimez de Jupiter &amp; de Pharmacopole. Le Prix avoit esté proposé par M<hi rend="sup">r</hi> le Duc de S. Aignan ; &amp; si tost que l’Autheur de ce Sonnet s’est présenté, on luy a remis la Médaille d’or entre les mains. Elle estoit tres-belle &amp; tres-bien frapée, &amp; représentoit le Roy d’un costé, &amp; la Reyne de l’autre. Rien n’est plus digne d’un grand Seigneur, ny ne donne tant d’émulation qu’un Prix proposé de cette sorte. On est assuré de l’obtenir sans retardement, quand on est assez heureux pour le mériter, &amp; l’on y acquiert d’autant plus de gloire, qu’on le remporte sur un tres-grand nombre de Personnes. Celuy qui a gagné la Médaille donnée par ce Duc, s’appelle M<hi rend="sup">r</hi> de Baraton. Il est de Paris, &amp; originaire du Berry. Sa Famille est une des plus considérables de cette Province, &amp; a pris autrefois alliance avec les Maisons de Surgeres, de Mornay, de Hennequin, &amp;c. C’est tout ce que je vous en diray, ne parlant jamais de Genéalogies, qu’aux occasions de mort, ou de mariage. Quoy que M<hi rend="sup">r</hi> Baraton ne se pique point de faire des Vers, les Muses l’inspirent quand il veut se divertir, &amp; il n’y a point de stile plus naturel que le sien. Jugez-en, Madame, par ces trois Sonnets, qui sont de sa façon, aussi sur des Bouts rimez.</p>
         <quote>
@@ -134,6 +133,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

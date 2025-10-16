@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,25 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div copyOf="JLB-MG-1687-08a_064">
-        
-        
+    <body>
+      <div copyOf="JLB-MG-1687-08a_064">
         <p/>
-        <p>Pendant que les uns servent ainsi l'Estat &amp; le Roy dans ses Armées, ceux qui
-          gouvernent les Villes, &amp; ceux qui les font subsister par leur commerce, font tous les
-          ans des Festes Guerrieres dans lesquelles ils s'exercent. L'une de ces Festes, qui se font
-          presque dans toutes les Provinces du Royaume, fut faite à Reims avec grand éclat, le
-          Dimanche 15. de Juin dernier. [...]</p>
-        <p>Les Compagnies furent regalées pendant la Marche d’une Collation tres-superbe, aprés
-          laquelle elles se rendirent au bruit de la Mousqueterie, &amp; de plusieurs décharges de
-          Canon au Jardin de l’Arquebuse, où M<hi rend="sup">r</hi> le Comte de Léry, M<hi rend="sup">r</hi> Favard, Lieutenant des Habitans, &amp; M<hi rend="sup">r</hi> Frison
-          firent la Ceremonie de découvrir la Satuë Pedestre de Sa Majesté, érigée dans ce Jardin
-          par les soins du mesme M<hi rend="sup">r</hi> Frison &amp; des Chevaliers de l’Arquebuse
-          de Reims, ce qui se passa avec des acclamations extraordinaires de <hi rend="i">Vive le
-            Roy</hi>, &amp; des demonstrations d’une joye universelle, ainsi qu’au bruit de la
-          mousqueterie, &amp; de la décharge generale du canon des remparts de la Ville. On avoit
-          mis pour Devise à cette Statuë le Soleil entrant dans le Signe de Sagitaire avec ces mots,
-            <hi rend="i">hospitium illustrat.</hi></p>
+        <p>Pendant que les uns servent ainsi l'Estat &amp; le Roy dans ses Armées, ceux qui gouvernent les Villes, &amp; ceux qui les font subsister par leur commerce, font tous les ans des Festes Guerrieres dans lesquelles ils s'exercent. L'une de ces Festes, qui se font presque dans toutes les Provinces du Royaume, fut faite à Reims avec grand éclat, le Dimanche 15. de Juin dernier. [...]</p>
+        <p>Les Compagnies furent regalées pendant la Marche d’une Collation tres-superbe, aprés laquelle elles se rendirent au bruit de la Mousqueterie, &amp; de plusieurs décharges de Canon au Jardin de l’Arquebuse, où M<hi rend="sup">r</hi> le Comte de Léry, M<hi rend="sup">r</hi> Favard, Lieutenant des Habitans, &amp; M<hi rend="sup">r</hi> Frison firent la Ceremonie de découvrir la Satuë Pedestre de Sa Majesté, érigée dans ce Jardin par les soins du mesme M<hi rend="sup">r</hi> Frison &amp; des Chevaliers de l’Arquebuse de Reims, ce qui se passa avec des acclamations extraordinaires de <hi rend="i">Vive le Roy</hi>, &amp; des demonstrations d’une joye universelle, ainsi qu’au bruit de la mousqueterie, &amp; de la décharge generale du canon des remparts de la Ville. On avoit mis pour Devise à cette Statuë le Soleil entrant dans le Signe de Sagitaire avec ces mots, <hi rend="i">hospitium illustrat.</hi></p>
         <quote>
           <lg>
             <l rend="i"> Par tout le long de sa carriere,</l>
@@ -50,6 +36,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,20 +14,22 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Vous devez estre contente de l'Air nouveau dont vous allez lire les paroles, puisqu'il est de la saison.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">Affreux Hyver, tu bannis, &amp;c.</hi>, doit regarder la page 232.</note>
-          <lg><l rend="i">Affreux Hyver, tu bannis de ces lieux</l>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">Affreux Hyver, tu bannis, &amp;c.</hi>, doit regarder la page 232.</note>
+          <lg>
+            <l rend="i">Affreux Hyver, tu bannis de ces lieux</l>
             <l rend="i">L'émail des fleurs &amp; l'aimable verdure,</l>
             <l rend="i">Tu viens dépouiller la Nature</l>
             <l rend="i">De ses ornemens précieux.</l>
             <l rend="i">Mais c'est un changement qui ne sçauroit me nuire,</l>
             <l rend="i">Puis que le teint de ma Philis</l>
             <l rend="i">Fait voir des Roses &amp; des Lis</l>
-            <l rend="i">Que ta rigueur ne peut dêtruire.</l></lg>
+            <l rend="i">Que ta rigueur ne peut dêtruire.</l>
+          </lg>
         </quote>
         <ref target="images/1690-12_331.JPG">
           <figure>
@@ -35,6 +37,6 @@
           </figure>
         </ref>
       </div>
-        </body>
+    </body>
   </text>
 </TEI>

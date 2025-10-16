@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,9 +14,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Apres ces tristes Nouvelles, voudrez-vous bien, Madame, écoutez les Plaintes d’un Malheureux, que plus d’une infidelité soufferte n’a pû guérir de la foiblesse d’engager toûjours son cœur ? Il les fait avec assez d’esprit pour meriter que vous perdiez un peu de temps à l’entendre ; &amp; quoy que vous vous soyez renduë insensible aux maux de l’Amour, la maniere dont il exprime les siens vous pourra toucher.</p>
         <quote>
           <label>L’AMANT <lb/>TROMPÉ.</label>
@@ -166,6 +165,6 @@
         </quote>
         <p>Cette Piece a quelque chose de champestre, &amp; je l’ay choisie exprés de ce caractere parmy beaucoup d’autres que j’ay à vous faire voir, pour donner à ma Lettre une plus agreable diversité.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

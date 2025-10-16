@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,19 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Il est temps de vous donner à mon ordinaire dequoy exercer vostre belle voix. Lisez ces
-          Paroles que vous trouverez en suite notées. Elles ont esté mises en Air par M<hi rend="sup">r</hi> Martin le Fils. Le mérite du Pere est connu de tous ceux qui aiment la
-          Musique ; &amp; ce que je vous envoye du Fils vous persuadera aisément qu’on a eu raison
-          d’attendre beaucoup de luy. Il s’est acquis de l’estime par la maniere dont il jouë du
-          Clavessin, de la Basse &amp; du Dessus de Viole, &amp; il est à croire qu’il n’en acquerra
-          pas moins s’appliquant à la composition des Airs.</p>
+    <body>
+      <div>
+        <p>Il est temps de vous donner à mon ordinaire dequoy exercer vostre belle voix. Lisez ces Paroles que vous trouverez en suite notées. Elles ont esté mises en Air par M<hi rend="sup">r</hi> Martin le Fils. Le mérite du Pere est connu de tous ceux qui aiment la Musique ; &amp; ce que je vous envoye du Fils vous persuadera aisément qu’on a eu raison d’attendre beaucoup de luy. Il s’est acquis de l’estime par la maniere dont il jouë du Clavessin, de la Basse &amp; du Dessus de Viole, &amp; il est à croire qu’il n’en acquerra pas moins s’appliquant à la composition des Airs.</p>
         <quote>
-          <label rend="center">CHANSON.</label><note resp="author" place="margin"><hi rend="i">Avis
-              pour placer les Figures</hi> : la Chanson qui commence par <hi rend="i">Rossignols que
-              pretendez-vous</hi>, doit regarder la Page 73.</note>
+          <label rend="center">CHANSON.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : la Chanson qui commence par <hi rend="i">Rossignols que pretendez-vous</hi>, doit regarder la Page 73.</note>
           <lg>
             <l rend="i"><space/>Rossignols, que pretendez-vous</l>
             <l rend="i"><space/>Par vos Chants languissans &amp; doux ?</l>
@@ -42,6 +35,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

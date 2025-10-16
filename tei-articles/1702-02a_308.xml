@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,23 +14,33 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <quote>
-            <label>MADRIGAL<lb/>sur le même sujet.</label>
-            <lg>
-              <l> <hi rend="i">Cette figure de la France</hi></l>
-              <l><hi rend="i">Qu’on voit se reposer sur lit du Heros</hi></l>
-              <l> <hi rend="i">N’est pas celle de la Prudence</hi></l>
-              <l> <hi rend="i">Qui cherche à prendre du repos.</hi></l>
-              <l><hi rend="sc">Louis</hi> <hi rend="i">dans les travaux, dans soins qu’il s’impose</hi></l>
-              <l><hi rend="i">Sans relâche occupé veille sur ses Etats ;</hi></l>
-              <l><hi rend="i">C’est la Sagesse qui repose</hi></l>
-              <l><hi rend="i">Mais sa Prudence ne dort pas.</hi></l>
-            </lg>
-          </quote>
-        </div>
-        </body>
+    <body>
+      <div>
+        <quote>
+          <label>MADRIGAL<lb/>sur le même sujet.</label>
+          <lg>
+            <l> <hi rend="i">Cette figure de la France</hi></l>
+            <l>
+              <hi rend="i">Qu’on voit se reposer sur lit du Heros</hi>
+            </l>
+            <l> <hi rend="i">N’est pas celle de la Prudence</hi></l>
+            <l> <hi rend="i">Qui cherche à prendre du repos.</hi></l>
+            <l>
+              <hi rend="sc">Louis</hi>
+              <hi rend="i">dans les travaux, dans soins qu’il s’impose</hi>
+            </l>
+            <l>
+              <hi rend="i">Sans relâche occupé veille sur ses Etats ;</hi>
+            </l>
+            <l>
+              <hi rend="i">C’est la Sagesse qui repose</hi>
+            </l>
+            <l>
+              <hi rend="i">Mais sa Prudence ne dort pas.</hi>
+            </l>
+          </lg>
+        </quote>
+      </div>
+    </body>
   </text>
 </TEI>

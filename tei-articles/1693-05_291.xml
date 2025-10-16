@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p/>
-          <p>Vous m’avez marqué que vous aviez leû avec plaisir la Traduction en Vers des Satyres de Juvenal, qui nous a esté donnée depuis deux ans avec des Notes aussi curieuses que sçavantes. M<hi rend="sup">r</hi> de Silvecane, President en la Cour des Monnoyes, qui en est l’Auteur, n’a pas voulu priver le public de voir les Satyres de Perse, traduites aussi en Vers, &amp; enrichies de semblables Notes. Cette fecondité dans un Magistrat, qui au milieu de ses grandes occupations, trouve encore du temps à donner à la Poësie, fait bien connoistre que ce talent luy est naturel, &amp; que ce qui seroit un travail penible pour un autre, n’est qu’un simple divertissement pour luy. Cette nouvelle <hi rend="i">Traduction en Vers</hi> des Satyres de Perse a esté imprimée à Lyon, &amp; se vend chez le S<hi rend="sup">r</hi> Michel Brunet, Libraire au Palais, qui debite aussi une Historiette du temps, intitulée <hi rend="i">la Princesse Agathonice.</hi></p>
-        </div>
-      </body>
+    <body>
+      <div>
+        <p/>
+        <p>Vous m’avez marqué que vous aviez leû avec plaisir la Traduction en Vers des Satyres de Juvenal, qui nous a esté donnée depuis deux ans avec des Notes aussi curieuses que sçavantes. M<hi rend="sup">r</hi> de Silvecane, President en la Cour des Monnoyes, qui en est l’Auteur, n’a pas voulu priver le public de voir les Satyres de Perse, traduites aussi en Vers, &amp; enrichies de semblables Notes. Cette fecondité dans un Magistrat, qui au milieu de ses grandes occupations, trouve encore du temps à donner à la Poësie, fait bien connoistre que ce talent luy est naturel, &amp; que ce qui seroit un travail penible pour un autre, n’est qu’un simple divertissement pour luy. Cette nouvelle <hi rend="i">Traduction en Vers</hi> des Satyres de Perse a esté imprimée à Lyon, &amp; se vend chez le S<hi rend="sup">r</hi> Michel Brunet, Libraire au Palais, qui debite aussi une Historiette du temps, intitulée <hi rend="i">la Princesse Agathonice.</hi></p>
+      </div>
+    </body>
   </text>
 </TEI>

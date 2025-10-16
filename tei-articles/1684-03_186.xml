@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Une jeune &amp; tres-aimable Personne, dont la beauté a fait un assez grand bruit depuis
-          un an aux Thuileries, au Cours, &amp; au Bal, a reçû de fort agreables Etrennes, dont il
-          faut que je vous parle. Elles consistent en un petit Livre tres-proprement relié. La
-          Renommée, qui est représentée au premier feüillet, avec deux Trompettes, sonne de celle
-          qu’elle tient de la main droite, &amp; à celle qu’elle tient de l’autre main, est attachée
-          une Banderolle, sur laquelle on lit ce Titre, ALMANACH GALANT POUR L’ANNEE 1684. [...]</p>
+    <body>
+      <div>
+        <p>Une jeune &amp; tres-aimable Personne, dont la beauté a fait un assez grand bruit depuis un an aux Thuileries, au Cours, &amp; au Bal, a reçû de fort agreables Etrennes, dont il faut que je vous parle. Elles consistent en un petit Livre tres-proprement relié. La Renommée, qui est représentée au premier feüillet, avec deux Trompettes, sonne de celle qu’elle tient de la main droite, &amp; à celle qu’elle tient de l’autre main, est attachée une Banderolle, sur laquelle on lit ce Titre, ALMANACH GALANT POUR L’ANNEE 1684. [...]</p>
         <p/>
         <p>PREDICTIONS</p>
         <p>Sur les quatre Saisons de</p>
@@ -30,9 +24,7 @@
         <p/>
         <p>L’AUTOMNE</p>
         <p/>
-        <p>L’Automne sera la plus belle Saison de l’Année. On n’y verra que Festes &amp;
-          Réjoüissances. Les Amours y témoigneront leur joye par leurs Chansons, &amp; on leur
-          entendra dire par tous,</p>
+        <p>L’Automne sera la plus belle Saison de l’Année. On n’y verra que Festes &amp; Réjoüissances. Les Amours y témoigneront leur joye par leurs Chansons, &amp; on leur entendra dire par tous,</p>
         <p/>
         <p>Que chacun à l’envy s’empresse</p>
         <p>A marquer son allégresse,</p>
@@ -43,6 +35,6 @@
         <p/>
         <p>Ces Vers composent une Chanson qui est notée sur un feüillet séparé. [...]</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

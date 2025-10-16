@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
-        <p>Je croy, Madame, que ce sera vous faire plaisir que vous donner Perse habillé à la
-          Françoise. Un Homme de qualité dont je vous ay fait voir plusieurs Fables sous le nom du
-          Berger Fidelle des Accates, s’est servy de ses pensées dans la Satyre que je vous envoye.
-          Elles sont tirées de celle qui commence par <hi rend="i">Hunc Macrine diem</hi>. Il a
-          voulu n’y employer que des noms Romains, pour en mieux garder le caractere.</p>
+        <p>Je croy, Madame, que ce sera vous faire plaisir que vous donner Perse habillé à la Françoise. Un Homme de qualité dont je vous ay fait voir plusieurs Fables sous le nom du Berger Fidelle des Accates, s’est servy de ses pensées dans la Satyre que je vous envoye. Elles sont tirées de celle qui commence par <hi rend="i">Hunc Macrine diem</hi>. Il a voulu n’y employer que des noms Romains, pour en mieux garder le caractere.</p>
         <quote>
           <label>SATYRE.</label>
           <lg>
@@ -101,6 +96,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,16 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p><hi rend="i">« BOUTS-RIMEZ</hi></p>
-        <p><hi rend="i">sur l'Opéra d'Atys.</hi></p>
+    <body>
+      <div>
+        <p>
+          <hi rend="i">« BOUTS-RIMEZ</hi>
+        </p>
+        <p>
+          <hi rend="i">sur l'Opéra d'Atys.</hi>
+        </p>
         <p/>
-        <p>On attaque Mr le Duc de S. Aignan, &amp; l'on luy donne seulement une heure pour faire ce
-          Sonnet.</p>
+        <p>On attaque Mr le Duc de S. Aignan, &amp; l'on luy donne seulement une heure pour faire ce Sonnet.</p>
         <p>Voicy de quelle maniere il remplit ces Bouts-rimez.</p>
         <p/>
         <p>SONNET.</p>
@@ -44,6 +46,6 @@
         <p><hi rend="i">Et si l'on le voyoit sans frais &amp; sans</hi> machines,</p>
         <p><hi rend="i">Je l'aurois dans ma Salle avec un</hi> Paravent. »</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

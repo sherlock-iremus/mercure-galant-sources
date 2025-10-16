@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,31 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-                
-
-                
-
-                <p>Il y a déja quelque temps que vous avez appris la mort de M<hi rend="sup">r</hi> Begon Intendant de
-                    la Rochelle &amp; de la Marine du département de Rochefort. Je vous ay si souvent
-                    parlé de tous ceux qui portent ce nom, que je ne vous en diray pas aujourd’huy
-                    davantage. Le défunt estoit dans une estime generale, &amp; il joignoit aux
-                    lumieres qui regardoient les Emplois qu’il a possedez, celles d’un esprit fort
-                    cultivé ; il aimoit les gens de Lettres, &amp; il a fait graver à ses dépens
-                    les Portraits des hommes illustres dont feu M<hi rend="sup">r</hi> Perrault a composé la vie<hi
-                        rend="sup"><note xml:id="_ftn0" resp="editor" n="1"><hi rend=""
-                                > [NDÉ] à compléter</hi></note></hi>.</p>
-                <p>Le Roy a choisi M<hi rend="sup">r</hi> de Beauharnois pour remplir sa
-                        place. Cette Intendance estant la plus considerable de la Marine, à cause
-                        que celle de la Province y est jointe, demandoit un successeur de la
-                        capacité, &amp; du merite de M<hi rend="sup">r</hi> de Beauharnois. Sa Majesté qui en a une
-                        parfaite connoissance, luy avoit donné quelques mois auparavant l’Intendance
-                        generale des Classes des Matelots du Royaume. Elle en a disposé en
-                        faveur de M<hi rend="sup">r</hi> Raudot le fils, Intendant de Justice, Police &amp; Finance en
-                        Canada, &amp; elle a donné cette derniere place à M<hi rend="sup">r</hi> Begon Inspecteur general
-                        de la Marine à Rochefort, fils de M<hi rend="sup">r</hi> Begon qui vient de mourir.</p>
-
-            </div>
+    <body>
+      <div>
+        <p>Il y a déja quelque temps que vous avez appris la mort de M<hi rend="sup">r</hi> Begon Intendant de la Rochelle &amp; de la Marine du département de Rochefort. Je vous ay si souvent parlé de tous ceux qui portent ce nom, que je ne vous en diray pas aujourd’huy davantage. Le défunt estoit dans une estime generale, &amp; il joignoit aux lumieres qui regardoient les Emplois qu’il a possedez, celles d’un esprit fort cultivé ; il aimoit les gens de Lettres, &amp; il a fait graver à ses dépens les Portraits des hommes illustres dont feu M<hi rend="sup">r</hi> Perrault a composé la vie<hi rend="sup"><note xml:id="_ftn0" resp="editor" n="1"><hi rend=""> [NDÉ] à compléter</hi></note></hi>.</p>
+        <p>Le Roy a choisi M<hi rend="sup">r</hi> de Beauharnois pour remplir sa place. Cette Intendance estant la plus considerable de la Marine, à cause que celle de la Province y est jointe, demandoit un successeur de la capacité, &amp; du merite de M<hi rend="sup">r</hi> de Beauharnois. Sa Majesté qui en a une parfaite connoissance, luy avoit donné quelques mois auparavant l’Intendance generale des Classes des Matelots du Royaume. Elle en a disposé en faveur de M<hi rend="sup">r</hi> Raudot le fils, Intendant de Justice, Police &amp; Finance en Canada, &amp; elle a donné cette derniere place à M<hi rend="sup">r</hi> Begon Inspecteur general de la Marine à Rochefort, fils de M<hi rend="sup">r</hi> Begon qui vient de mourir.</p>
+      </div>
     </body>
   </text>
 </TEI>

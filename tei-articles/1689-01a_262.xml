@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Cet article de Musique me fait prendre l'occasion de vous faire part d'un second Air nouveau, qui est d'un excellent Maistre.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : la Chanson qui commence par, <hi rend="i">Non je ne verray plus Silvie</hi>, doit regarder la page 262.</note>
-          <lg><l rend="i">Non, je ne verray plus Silvie ;</l>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : la Chanson qui commence par, <hi rend="i">Non je ne verray plus Silvie</hi>, doit regarder la page 262.</note>
+          <lg>
+            <l rend="i">Non, je ne verray plus Silvie ;</l>
             <l rend="i">Un fort barbare l'a ravie</l>
             <l rend="i">Au milieu de ses plus beaux jours.</l>
             <l rend="i">Je ne sentiray plus la douceur de ses charmes,</l>
@@ -34,6 +35,6 @@
           </figure>
         </ref>
       </div>
-        </body>
+    </body>
   </text>
 </TEI>

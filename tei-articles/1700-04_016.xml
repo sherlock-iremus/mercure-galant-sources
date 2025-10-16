@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,19 +14,18 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <quote>
-            <label>AU ROY.</label>
-            <lg>
-              <l rend="i">Louis, vous estiez grand, quand sur mer &amp; sur terre</l>
-              <l rend="i"> On vous vit toujours Conquerant ;</l>
-              <l rend="i">Pour le commun repos vous terminez la guerre,</l>
-              <l rend="i"> Vous estes encore plus grand.</l>
-            </lg>
-          </quote>
-        </div>
-        </body>
+    <body>
+      <div>
+        <quote>
+          <label>AU ROY.</label>
+          <lg>
+            <l rend="i">Louis, vous estiez grand, quand sur mer &amp; sur terre</l>
+            <l rend="i"> On vous vit toujours Conquerant ;</l>
+            <l rend="i">Pour le commun repos vous terminez la guerre,</l>
+            <l rend="i"> Vous estes encore plus grand.</l>
+          </lg>
+        </quote>
+      </div>
+    </body>
   </text>
 </TEI>

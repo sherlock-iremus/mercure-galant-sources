@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Le Theodat de Monsieur de Corneille le jeune a esté joüé à l’Hostel de Bourgogne dans le
-          mesme temps que la Pulcherie. Cet ouvrage auroit eu un tres-grand succez, si la Fortune
-          avoit esté un effet du merite ; mais comme ce ne sont plus les Ouvrages qui cabalent, il
-          ne faut pas s’étonner si cette Piece, qui a eu l’approbation des meilleurs connoisseurs,
-          n’a pas esté aussi suivie que les autres du mesme Autheur. Je voudrois bien ne vous parler
-          que de divertissemens ; mais il faut, puis que vous voulez tout sçavoir, que je reprenne
-          le Chapitre de la Guerre.</p>
+    <body>
+      <div>
+        <p>Le Theodat de Monsieur de Corneille le jeune a esté joüé à l’Hostel de Bourgogne dans le mesme temps que la Pulcherie. Cet ouvrage auroit eu un tres-grand succez, si la Fortune avoit esté un effet du merite ; mais comme ce ne sont plus les Ouvrages qui cabalent, il ne faut pas s’étonner si cette Piece, qui a eu l’approbation des meilleurs connoisseurs, n’a pas esté aussi suivie que les autres du mesme Autheur. Je voudrois bien ne vous parler que de divertissemens ; mais il faut, puis que vous voulez tout sçavoir, que je reprenne le Chapitre de la Guerre.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

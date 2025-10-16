@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Il faut vous apprendre le nom qu’il donna aux Lettres que je vous écris. Je croy le
-          pouvoir faire sans qu’on ait lieu de m’accuser de présomption, puis que ce qu’il en dit
-          d’avantageux regarde les Ouvrages des Beaux Esprits dont elles sont composées, &amp; qui
-          seuls leur ont fait avoir le cours extraordinaire que vous leur voyez. Voicy de quelle
-          maniere il en parle.</p>
+    <body>
+      <div>
+        <p>Il faut vous apprendre le nom qu’il donna aux Lettres que je vous écris. Je croy le pouvoir faire sans qu’on ait lieu de m’accuser de présomption, puis que ce qu’il en dit d’avantageux regarde les Ouvrages des Beaux Esprits dont elles sont composées, &amp; qui seuls leur ont fait avoir le cours extraordinaire que vous leur voyez. Voicy de quelle maniere il en parle.</p>
         <quote>
           <l><space/>Je dis par tout que le Mercure</l>
           <l><space/>Est une agreable voiture</l>
@@ -31,6 +26,6 @@
           <l><space/>Que son talent a merité.</l>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

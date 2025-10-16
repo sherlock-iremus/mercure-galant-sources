@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
-        <p>On a fait une Nouvelle Historique de la Vie de D. Juan d’Autriche, qui estoit Fils
-          naturel de l’Empereur Charles V. &amp; qui gagna la fameuse Bataille de Lépante sous le
-          Regne de Philippe II. Elle fait voir que toutes les inclinations de ce Prince estoient
-          aussi relevées que sa naissance. La lecture de ce Livre est fort agreable. On le trouve au
-          Palais, à l’Ange Gabriel, dans la Gallerie des Prisonniers.</p>
+    <body>
+      <div>
+        <p>On a fait une Nouvelle Historique de la Vie de D. Juan d’Autriche, qui estoit Fils naturel de l’Empereur Charles V. &amp; qui gagna la fameuse Bataille de Lépante sous le Regne de Philippe II. Elle fait voir que toutes les inclinations de ce Prince estoient aussi relevées que sa naissance. La lecture de ce Livre est fort agreable. On le trouve au Palais, à l’Ange Gabriel, dans la Gallerie des Prisonniers.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

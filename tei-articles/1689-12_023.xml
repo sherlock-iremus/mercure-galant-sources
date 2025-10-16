@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
-        <p>Madame la Marquise d’Antin, Fille de M<hi rend="sup">r</hi> le Duc d’Usez, est accouchée
-          depuis peu de deux Garçons. C’est ce qui a donné lieu aux vers que je vous envoye. On les
-          a trouvez si agréables, que je croy vous faire plaisir de vous en donner une Copie.</p>
+        <p>Madame la Marquise d’Antin, Fille de M<hi rend="sup">r</hi> le Duc d’Usez, est accouchée depuis peu de deux Garçons. C’est ce qui a donné lieu aux vers que je vous envoye. On les a trouvez si agréables, que je croy vous faire plaisir de vous en donner une Copie.</p>
         <quote>
           <label>A MADAME<lb/>La Marquise d’Antin sur sa<lb/>derniere couche.</label>
           <lg>
@@ -61,13 +58,15 @@
           <lg>
             <l rend="i">Plus habiles que les Guerriers,</l>
             <l rend="i">Qui luy moissonnent des Lauriers,</l>
-            <l><hi rend="i">Vous doublerez par là son glorieux Empire,</hi></l>
+            <l>
+              <hi rend="i">Vous doublerez par là son glorieux Empire,</hi>
+            </l>
             <l rend="i">Tremblez, fiers Ennemis du plus puissant des Rois,</l>
             <l rend="i">Contre luy c’est en vain que l’Univers conspire,</l>
             <l rend="i">Les Heros parmy nous naissent deux à la fois.</l>
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

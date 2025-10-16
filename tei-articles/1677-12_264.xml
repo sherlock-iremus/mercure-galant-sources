@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Comme vous m'avez ordonné de vous parler de tous ceux qui ont quelque talent extraordinaire, je me crois obligé de vous dire que nous avons aussi perdu M<hi rend="sup">r</hi> Michel, qui touchait les Orgues à S. Leu. C'estoit un charme que de l'entendre, &amp; on y venoit en foule de toutes parts.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

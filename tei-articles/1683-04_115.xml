@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Il y a quatre ou cinq mois qu’on proposa le mot de <hi rend="i">Torrent</hi>, pour
-          matiere d’un Sonnet, sans aucune contrainte de Bouts-rimez. Je vous en ay déja envoyé un,
-          dont vous m’avez témoigné estre fort contente. Je croy que vous ne le serez pas moins de
-          celuy-cy. Il est de saison, puis que nous sommes encor dans un temps de Sainteté. Ceux qui
-          voudront changer de sujet, pourront faire des Sonnets sur un Rocher.</p>
+    <body>
+      <div>
+        <p>Il y a quatre ou cinq mois qu’on proposa le mot de <hi rend="i">Torrent</hi>, pour matiere d’un Sonnet, sans aucune contrainte de Bouts-rimez. Je vous en ay déja envoyé un, dont vous m’avez témoigné estre fort contente. Je croy que vous ne le serez pas moins de celuy-cy. Il est de saison, puis que nous sommes encor dans un temps de Sainteté. Ceux qui voudront changer de sujet, pourront faire des Sonnets sur un Rocher.</p>
         <quote>
           <label>SUR UN TORRENT.<lb/>SONNET.</label>
           <lg>
@@ -50,10 +45,8 @@
             <l rend="i">Où regne un doux repos sans aucun changement.</l>
           </lg>
         </quote>
-        <p>Ce Sonnet est de M<hi rend="sup">r</hi> Vignier de Richelieu, qui s’est diverty à écrire,
-          moitié en Prose, &amp; moitié en Vers, l’Avanture dont je vay vous faire part. Voicy dans
-          quels termes il en a fait le recit à une Dame de ses Amies.</p>
+        <p>Ce Sonnet est de M<hi rend="sup">r</hi> Vignier de Richelieu, qui s’est diverty à écrire, moitié en Prose, &amp; moitié en Vers, l’Avanture dont je vay vous faire part. Voicy dans quels termes il en a fait le recit à une Dame de ses Amies.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

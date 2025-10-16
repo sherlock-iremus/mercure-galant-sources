@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-          
-          <p>[...] Le Tambac est un métal, où il entre sept parties d’or, &amp; trois d’un cuivre qui donne à l’or un nouvel éclat, &amp; qui est beaucoup plus estimé. Le Roy avoit eu dessein d’envoyer au Pape une chaise toute de Tambac, &amp; avoit demandé à M<hi rend="sup">r</hi> l’Abbé de Choisy s’il voudroit bien la presenter de sa part, mais cela ne s’est point fait.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>[...] Le Tambac est un métal, où il entre sept parties d’or, &amp; trois d’un cuivre qui donne à l’or un nouvel éclat, &amp; qui est beaucoup plus estimé. Le Roy avoit eu dessein d’envoyer au Pape une chaise toute de Tambac, &amp; avoit demandé à M<hi rend="sup">r</hi> l’Abbé de Choisy s’il voudroit bien la presenter de sa part, mais cela ne s’est point fait.</p>
+      </div>
+    </body>
   </text>
 </TEI>

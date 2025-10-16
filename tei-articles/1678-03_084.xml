@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-
-        
-        <p>On a aussi representé ce Carnaval une Comédie intitulée <hi rend="i">le Bon Mary</hi>,
-          chez une Personne de qualité. Il y avoit des Entr’Actes de Musique. Les Paroles estoient
-          de M<hi rend="sup">r</hi> de Vaumoriere, &amp; les Airs de M<hi rend="sup">r</hi> B. D. B.
-          dont le merveilleux génie est connu pour la Musique. L’Assemblée fut de Gens choisis, fort
-          capables d’en connoistre toutes les beautez.</p>
+    <body>
+      <div>
+        <p>On a aussi representé ce Carnaval une Comédie intitulée <hi rend="i">le Bon Mary</hi>, chez une Personne de qualité. Il y avoit des Entr’Actes de Musique. Les Paroles estoient de M<hi rend="sup">r</hi> de Vaumoriere, &amp; les Airs de M<hi rend="sup">r</hi> B. D. B. dont le merveilleux génie est connu pour la Musique. L’Assemblée fut de Gens choisis, fort capables d’en connoistre toutes les beautez.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

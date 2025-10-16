@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,9 +14,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
+    <body>
+      <div>
         <p>Mais, Madame, il est temps que je vous ramene de Saint Omer à Paris, où je croy que vous ne serez pas fâchée d’accompagner la Duchesse au College de Clermont. Leurs Altesses Serenissimes Monsieur le Prince &amp; Monsieur le Duc, qui ont bien voulu confier le jeune Duc de Bourbon aux Peres de ce College pour y faire ses Etudes, l’y avoient amené depuis six mois, &amp; Madame la Duchesse fut bien aise il y a quelque temps de leur venir témoigner elle mesme, qu’elle se tenoit obligée de leurs soins. Plusieurs Dames de la premiere Qualité estoient avec elle ; &amp; les Jesuites qui sçavent toûjours bien faire les choses, répondirent à l’honneur qu’elle leur faisoit par tous ceux qui sont deus à une Personne de son rang. Ils ne se contenterent pas de luy marquer eux-mesmes combien ils estimoient la grace qu’il luy plaisoit de leur faire. Ils choisirent deux de leurs plus considerables Pensionnaires, qui suivis de quantité d’autres des plus Illustres Maisons de France, luy vinrent faire compliment, &amp; se servirent pour cela des Vers que je vous envoye. M<hi rend="sup">r</hi> le Prince de Tingry commença par ceux-cy, &amp; vous ne sçauriez croire, Madame, avec combien de grace il les prononça. C’est le Fils aîné de M<hi rend="sup">r</hi> le Duc de Luxembourg, &amp; son nom suffit pour vous faire concevoir à quels importans Emplois il est un jour destiné par sa naissance. Il a tout à fait de l’esprit aussi-bien que M<hi rend="sup">r</hi> le Marquis de la Chastre qui fut choisi comme luy pour cet Employ, &amp; ils marquent l’un &amp; l’autre, je ne sçay quoy de grand qui répond parfaitement à ce qu’ils sont nez.</p>
         <quote>
           <l rend="i">Deux Princes, deux Héros fameux êgalement,</l>
@@ -75,7 +74,8 @@
         </quote>
         <p>Apres que M<hi rend="sup">r</hi> le Prince de Tingry eut fait ce Compliment à Madame la Duchesse, M<hi rend="sup">r</hi> le Marquis de la Chastre luy fit le sien par les Vers qui suivent, &amp; reçeut beaucoup de loüanges de la maniere dont il les recita. Il est l’Aîné de la Maison de la Chastre, &amp; petit-fils de M<hi rend="sup">r</hi> le Comte de la Chastre, Colonel General des Suisses.</p>
         <quote>
-          <lg><l rend="i"> Quand le merite est veritable,</l>
+          <lg>
+            <l rend="i"> Quand le merite est veritable,</l>
             <l rend="i"> On ne peut le desavoüer,</l>
             <l rend="i"> Et l’on sçait toûjours bien loüer</l>
             <l rend="i"> Ce qu’on trouve toûjours loüable.</l>
@@ -90,7 +90,8 @@
             <l rend="i">Doivent attendre les douceurs,</l>
             <l rend="i">Et tous les Eloges flateurs</l>
             <l rend="i">Qui plaisent tant à la pluspart des Femmes.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l rend="i">Nous aimons trop la verité</l>
             <l rend="i">Pour bien sçavoir l’art des fleurettes,</l>
             <l rend="i">Nous ne traitons point de parfaites</l>
@@ -108,7 +109,8 @@
             <l rend="i">Et du Prince &amp; du Duc a conté les Exploits,</l>
             <l rend="i"> Elle trouve encor de la voix</l>
             <l rend="i"> Pour nous parler de la Duchesse.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l rend="i"> Il ne faut donc point employer</l>
             <l rend="i"> Les longs Préceptes de Sciences,</l>
             <l rend="i"> Pour soûtenir les esperances</l>
@@ -117,10 +119,11 @@
             <l rend="i"> Et vostre Ayeul, &amp; vostre Mere,</l>
             <l rend="i">Toûjours de leurs vertus regardez le Portrait.</l>
             <l rend="i"> Voila, Prince, comme il faut faire</l>
-            <l rend="i"> Pour se rendre un Prince parfait.</l></lg>
+            <l rend="i"> Pour se rendre un Prince parfait.</l>
+          </lg>
         </quote>
         <p>On m’a dit que le Pere de Villiers estoit l’Autheur de ces Vers ; je n’ay pas de peine à le croire, car ils sont tres-agreablement tournez, &amp; nous avons veu quelques Pieces de luy qui sont assez du caractere de celle-cy.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,25 +14,44 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <quote>
           <label>CHANSON.</label>
           <lg>
-            <l><hi rend="i">Toy, qui formes les plus beaux nœuds,</hi></l>
-            <l><hi rend="i">Vole, Amour, viens me rendre heureux.</hi></l>
-            <l><hi rend="i">Pour toucher l'objet que j'adore,</hi></l>
-            <l><hi rend="i">Peins-lui mes tourmens amoureux :</hi></l>
-            <l><hi rend="i">Pour allumer de tendres feux,</hi></l>
-            <l><hi rend="i">Prends de celui qui me devore.</hi></l>
-            <l><hi rend="i">Que l'insensible toute en flâme,</hi></l>
-            <l><hi rend="i">Te sente enfin victorieux :</hi></l>
-            <l><hi rend="i">Ne t'arrête plus dans ses yeux,</hi></l>
-            <l><hi rend="i">Ose penetrer dans son ame.</hi></l>
+            <l>
+              <hi rend="i">Toy, qui formes les plus beaux nœuds,</hi>
+            </l>
+            <l>
+              <hi rend="i">Vole, Amour, viens me rendre heureux.</hi>
+            </l>
+            <l>
+              <hi rend="i">Pour toucher l'objet que j'adore,</hi>
+            </l>
+            <l>
+              <hi rend="i">Peins-lui mes tourmens amoureux :</hi>
+            </l>
+            <l>
+              <hi rend="i">Pour allumer de tendres feux,</hi>
+            </l>
+            <l>
+              <hi rend="i">Prends de celui qui me devore.</hi>
+            </l>
+            <l>
+              <hi rend="i">Que l'insensible toute en flâme,</hi>
+            </l>
+            <l>
+              <hi rend="i">Te sente enfin victorieux :</hi>
+            </l>
+            <l>
+              <hi rend="i">Ne t'arrête plus dans ses yeux,</hi>
+            </l>
+            <l>
+              <hi rend="i">Ose penetrer dans son ame.</hi>
+            </l>
           </lg>
         </quote>
-      </div>   
-            </body>
+      </div>
+    </body>
   </text>
 </TEI>

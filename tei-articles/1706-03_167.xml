@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-            
-            
-            <p> Ce que vous allez lire estant tombé entre mes mains, aussi bien que la Medaille dont il est parlé dans le même écrit, j’ay crû la devoir faire graver, &amp; qu’une Estampe de cette Medaille accompagneroit bien cet écrit.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p> Ce que vous allez lire estant tombé entre mes mains, aussi bien que la Medaille dont il est parlé dans le même écrit, j’ay crû la devoir faire graver, &amp; qu’une Estampe de cette Medaille accompagneroit bien cet écrit.</p>
+      </div>
+    </body>
   </text>
 </TEI>

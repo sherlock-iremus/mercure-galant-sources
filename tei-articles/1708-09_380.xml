@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,26 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-                
-                
-
-                <p>Les Imprimez d’Angleterre &amp; de Hollande ont repeté
-                        plusieurs fois depuis six semaines, que M<hi rend="sup">r</hi> Ducasse en escortant la flotte du
-                        Mexique, arrivée le mois passé au Port du Passage, avoit pris sur sa route
-                        six de leurs vaisseaux : cependant on a esté surpris d’apprendre à son
-                        retour qu’il n’en avoit amené aucun, &amp; qu’il n’en avoit pas même
-                        rencontré ; mais on vient d’apprendre que les vaisseaux dont on luy
-                        attribuoit la prise, ont esté enlevez par M<hi rend="sup">rs</hi> d’Orogne &amp; du Dresnay,
-                        Capitaines de vaisseau, en convoyant la Flotte de Cadix aux Indes de
-                        la nouvelle Espagne ; de maniere que si vous joignez ces Vaisseaux aux 13
-                        dont je vous ay déja marqué la prise dans ma lettre, vous trouverez qu’en
-                        peu de temps les François se sont emparez de 19 gros Vaisseaux richement
-                        chargez.</p>
-
-            </div>
-
-
+    <body>
+      <div>
+        <p>Les Imprimez d’Angleterre &amp; de Hollande ont repeté plusieurs fois depuis six semaines, que M<hi rend="sup">r</hi> Ducasse en escortant la flotte du Mexique, arrivée le mois passé au Port du Passage, avoit pris sur sa route six de leurs vaisseaux : cependant on a esté surpris d’apprendre à son retour qu’il n’en avoit amené aucun, &amp; qu’il n’en avoit pas même rencontré ; mais on vient d’apprendre que les vaisseaux dont on luy attribuoit la prise, ont esté enlevez par M<hi rend="sup">rs</hi> d’Orogne &amp; du Dresnay, Capitaines de vaisseau, en convoyant la Flotte de Cadix aux Indes de la nouvelle Espagne ; de maniere que si vous joignez ces Vaisseaux aux 13 dont je vous ay déja marqué la prise dans ma lettre, vous trouverez qu’en peu de temps les François se sont emparez de 19 gros Vaisseaux richement chargez.</p>
+      </div>
     </body>
   </text>
 </TEI>

@@ -1,52 +1,22 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
-        <p />
+        <p/>
       </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text>
-
     <body>
       <div>
-
-        
-        
-
-        <p>Le Pere le Jay Jesuite, Professeur d’éloquence au College de Loüis le Grand, a prononcé
-          un discours, dans lequel il a fait voir la necessité &amp; l’utilité de la Rhetorique
-          enseignée dans les Colleges. Monsieur le Cardinal d’Etrées, plusieurs Prelats &amp;
-          quantité de personnes de la premiere qualité y assisterent, &amp; donnerent de grands
-          éloges à l’Orateur. Le Pere le Jay fit un plan abregé de la Rhetorique, copié d’aprés les
-          plus grands Maîtres ; il mêla les preuves à l’autorité, &amp; il montra que la Rhetorique
-          &amp; l’éloquence ne sont autre chose que la raison. Il en proposa les regles qui ne sont
-          que celles d’Aristote, de Ciceron, de Quintilien, &amp; de S. Augustin. Il avoüa ensuite,
-          que souvent les impressions de l’éloquence la plus reglée ne sont pas sans quelque danger
-          à l’égard des esprits foibles ; &amp; les preuves qu’il en apporta démontrerent
-          suffisament cette verité : mais en même temps il deffendit l’éloquence, sur ce que
-          quelques auteurs de ce temps lui ont reproché, qu’elle parle aux hommes conformément à
-          leurs préjugez, &amp; qu’elle les entretient dans leurs erreurs, en leur parlant des
-          objets sensibles, comme s’ils avoient en eux des qualitez semblables à celles dont ils
-          donnent le sentiment. Il dit ensuite, <hi rend="i">qu’il seroit à
-            souhaitter que pour rendre la verité aimable aux yeux des hommes, on ne fust pas obligé
-          de la parer
-            d’ornemens étrangers, &amp; que l’éloquence ne consistast que dans la clarté &amp;
-          l’arrangement du discours
-          </hi>.
-          Il fit voir sur ce sujet, qu’on ne doit pas blâmer les Orateurs de ce qu’ils parlent comme
-          le peuple, puisque les Philosophes mesmes ne parlent pas autrement ; mais de ce que
-          souvent ils pensent comme le peuple, &amp; qu’ils font trop valoir les ideés &amp; les
-          opinions populaires. Il finit, en disant, que Ciceron &amp; S. Augustin n’ont jamais parû
-          si grands, que dans l’usage qu’ils ont fait de l’éloquence, &amp; des regles de l’art de
-          persuader.</p>
+        <p>Le Pere le Jay Jesuite, Professeur d’éloquence au College de Loüis le Grand, a prononcé un discours, dans lequel il a fait voir la necessité &amp; l’utilité de la Rhetorique enseignée dans les Colleges. Monsieur le Cardinal d’Etrées, plusieurs Prelats &amp; quantité de personnes de la premiere qualité y assisterent, &amp; donnerent de grands éloges à l’Orateur. Le Pere le Jay fit un plan abregé de la Rhetorique, copié d’aprés les plus grands Maîtres ; il mêla les preuves à l’autorité, &amp; il montra que la Rhetorique &amp; l’éloquence ne sont autre chose que la raison. Il en proposa les regles qui ne sont que celles d’Aristote, de Ciceron, de Quintilien, &amp; de S. Augustin. Il avoüa ensuite, que souvent les impressions de l’éloquence la plus reglée ne sont pas sans quelque danger à l’égard des esprits foibles ; &amp; les preuves qu’il en apporta démontrerent suffisament cette verité : mais en même temps il deffendit l’éloquence, sur ce que quelques auteurs de ce temps lui ont reproché, qu’elle parle aux hommes conformément à leurs préjugez, &amp; qu’elle les entretient dans leurs erreurs, en leur parlant des objets sensibles, comme s’ils avoient en eux des qualitez semblables à celles dont ils donnent le sentiment. Il dit ensuite, <hi rend="i">qu’il seroit à souhaitter que pour rendre la verité aimable aux yeux des hommes, on ne fust pas obligé de la parer d’ornemens étrangers, &amp; que l’éloquence ne consistast que dans la clarté &amp; l’arrangement du discours </hi>. Il fit voir sur ce sujet, qu’on ne doit pas blâmer les Orateurs de ce qu’ils parlent comme le peuple, puisque les Philosophes mesmes ne parlent pas autrement ; mais de ce que souvent ils pensent comme le peuple, &amp; qu’ils font trop valoir les ideés &amp; les opinions populaires. Il finit, en disant, que Ciceron &amp; S. Augustin n’ont jamais parû si grands, que dans l’usage qu’ils ont fait de l’éloquence, &amp; des regles de l’art de persuader.</p>
       </div>
     </body>
   </text>

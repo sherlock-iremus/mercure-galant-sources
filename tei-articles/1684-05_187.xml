@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p>S’il y a d’habiles Gens en quelque Profession que ce soit, c’est assûrément à Paris qu’on les rencontre. Il ne faut pas s’étonner qu’ils y soient attirez de toutes parts, puis qu’il n’y a point de Ville au Monde ny si peuplée ny si grande. Cela est cause que ses Habitans mesme ne sçavent pas ce que son enceinte renferme de curieux. Ainsi ils n’ont pas moins d’obligation que les Etrangers à l’Autheur qui a donné au Public depuis peu de jours une Description de ce qu’il y a de remarquable dans cette superbe Ville. Toutes les remarques de ce Livre sont fort recherchées. Je ne vous en fais point icy de détail ; le Journal des Sçavans que vous voyez, en parle amplement.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>S’il y a d’habiles Gens en quelque Profession que ce soit, c’est assûrément à Paris qu’on les rencontre. Il ne faut pas s’étonner qu’ils y soient attirez de toutes parts, puis qu’il n’y a point de Ville au Monde ny si peuplée ny si grande. Cela est cause que ses Habitans mesme ne sçavent pas ce que son enceinte renferme de curieux. Ainsi ils n’ont pas moins d’obligation que les Etrangers à l’Autheur qui a donné au Public depuis peu de jours une Description de ce qu’il y a de remarquable dans cette superbe Ville. Toutes les remarques de ce Livre sont fort recherchées. Je ne vous en fais point icy de détail ; le Journal des Sçavans que vous voyez, en parle amplement.</p>
+      </div>
+    </body>
   </text>
 </TEI>

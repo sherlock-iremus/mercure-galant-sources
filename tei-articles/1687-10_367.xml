@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
+    <body>
+      <div>
         <p/>
-        <p>M. le Begue, Organiste du Roy, a composé un Livre des plus belles Pieces de Clavessin qui
-          ayent encore paru, tant Allemandes, Gavotes, Menuets, Bourées, que Chaconnes, Sarabandes
-          &amp; autres. Celles de vos Amies qui aiment le Clavessin, trouveront ce Livre chez M.
-          Noël, ruë Simon le Franc, entre le Cygne &amp; le Lion d'or. Le mesme Sieur Noël debite un
-          Livre de Motets de sa façon, à une voix seule avec la Basse continuë, &amp; de petites
-          symphonies pour l'Orgue ou pour la Viole.</p>
+        <p>M. le Begue, Organiste du Roy, a composé un Livre des plus belles Pieces de Clavessin qui ayent encore paru, tant Allemandes, Gavotes, Menuets, Bourées, que Chaconnes, Sarabandes &amp; autres. Celles de vos Amies qui aiment le Clavessin, trouveront ce Livre chez M. Noël, ruë Simon le Franc, entre le Cygne &amp; le Lion d'or. Le mesme Sieur Noël debite un Livre de Motets de sa façon, à une voix seule avec la Basse continuë, &amp; de petites symphonies pour l'Orgue ou pour la Viole.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,20 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-                
-                
-
-                <p>M<hi rend="sup">r</hi> Denors, Chef d’Escadre, a esté pourveu du
-                        Gouvernement des Isles Françoises en Amerique, vacant par la mort de
-                        M<hi rend="sup">r</hi> d’Amblimont. Le Cordon rouge de l’Ordre de Saint Louis, qu’avoit ce
-                        dernier, a esté donné à M<hi rend="sup">r</hi> le Marquis de Nesmond, Lieutenant General, &amp; la
-                        pension qu’avoit M<hi rend="sup">r</hi> d’Amblimont, à M<hi rend="sup">r</hi> des Augers, ancien Capitaine de
-                        Vaisseau.</p>
-
-            </div>
-
-
+    <body>
+      <div>
+        <p>M<hi rend="sup">r</hi> Denors, Chef d’Escadre, a esté pourveu du Gouvernement des Isles Françoises en Amerique, vacant par la mort de M<hi rend="sup">r</hi> d’Amblimont. Le Cordon rouge de l’Ordre de Saint Louis, qu’avoit ce dernier, a esté donné à M<hi rend="sup">r</hi> le Marquis de Nesmond, Lieutenant General, &amp; la pension qu’avoit M<hi rend="sup">r</hi> d’Amblimont, à M<hi rend="sup">r</hi> des Augers, ancien Capitaine de Vaisseau.</p>
+      </div>
     </body>
   </text>
 </TEI>

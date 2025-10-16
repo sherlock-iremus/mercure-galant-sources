@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,46 +14,19 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-                
-                
-
-                <p>Je passe à l’Article de differentes Prises arrivées
-                        dans nos Ports, &amp; de quelques Combats de Mer qui ont esté tres-glorieux à
-                        la Nation, quoyque les Bastimens Ennemis n’ayent pas toujours esté
-                        enlevez.</p>
-    <quote>
-                <label>Extrait des Prises amenées à Dunkerque.</label>
-                <label>Du 3 Octobre 1709</label>
-                <p>Le Prince des Asturies, Corsaire de Dunkerque, y a amené cinq rançons
-                    Hollandoises pour onze mille florins, &amp; une Prise Angloise pour quatre mille
-                    livres argent de France, &amp; il a apporté dans son Bord qu’il a enlevé sur le
-                    Navire Anglois rançonné quelques Balots de Drap, Boucauds de Tabac de Virginie,
-                    &amp; du Plomb en Saumon &amp; à giboyer ; le tout valant, compris les rançons,
-                    environ cinquante mille livres.</p>
-                                <label>À Brest le 8 Novembre.</label>
-                <p>Il entra hier au soir en cette Ville une petite prise Angloise qui a esté
-                    faitte par le Corsaire de S. Malo, nommé <hi rend="italic">la Marguerite</hi>,
-                    Capitaine M<hi rend="sup">r</hi> des Audrais Loquez à 30 lieues à l’Ouest Sud’Ouest des Sorlingues,
-                    le trois du present mois, cette prise venoit de la Jamaïque, &amp; alloit porter
-                    des Lettres en Angleterre. Elle estoit partie de l’Isle de la Jamaïque, il y a
-                    environ deux mois ; elle est de dix canons &amp; de 50 hommes d’équipage compris
-                    les passagers, &amp; n’a point du tout de Marchandises ; le Maître de la prise &amp;
-                    les prisonniers, raportent que peu après leur départ, il devoit partir de
-                    la Jamaïque une Flotte considerable sous l’escorte de cinq Vaisseaux de 50 à
-                    60 canons, &amp; ils comptent qu’elle ne doit pas tarder à arriver.</p>
-                <label>À Brest le 11 Novembre</label>
-                <p>La Fregate <hi rend="italic">la Syrenne</hi> de Dunkerque, Capitaine M<hi rend="sup">r</hi> Simon,
-                    entra en cette Rade Vendredy au soir 8 de ce mois, ayant amené une petite Prise
-                    Angloise nommée l’<hi rend="italic">Elisabeth</hi> &amp; <hi rend="italic">Anne de
-                        Londres</hi>, venant de la Jamaïque chargée de Sucre &amp; de Gingembre ; il a
-                    fait cette prise sur le Cap de Cornoüailles, &amp; les gens de la Prise
-                    rapportent qu’ils avoient moüillé aux Sorlingues le 4 de ce mois, &amp; qu’on leur
-                    avoit dit qu’une partie de la Flotte de la Barbade, &amp; une Flotte venant de
-                    Lisbonne estoient entrées dans la Manche peu de jours auparavant.</p>
+    <body>
+      <div>
+        <p>Je passe à l’Article de differentes Prises arrivées dans nos Ports, &amp; de quelques Combats de Mer qui ont esté tres-glorieux à la Nation, quoyque les Bastimens Ennemis n’ayent pas toujours esté enlevez.</p>
+        <quote>
+          <label>Extrait des Prises amenées à Dunkerque.</label>
+          <label>Du 3 Octobre 1709</label>
+          <p>Le Prince des Asturies, Corsaire de Dunkerque, y a amené cinq rançons Hollandoises pour onze mille florins, &amp; une Prise Angloise pour quatre mille livres argent de France, &amp; il a apporté dans son Bord qu’il a enlevé sur le Navire Anglois rançonné quelques Balots de Drap, Boucauds de Tabac de Virginie, &amp; du Plomb en Saumon &amp; à giboyer ; le tout valant, compris les rançons, environ cinquante mille livres.</p>
+          <label>À Brest le 8 Novembre.</label>
+          <p>Il entra hier au soir en cette Ville une petite prise Angloise qui a esté faitte par le Corsaire de S. Malo, nommé <hi rend="italic">la Marguerite</hi>, Capitaine M<hi rend="sup">r</hi> des Audrais Loquez à 30 lieues à l’Ouest Sud’Ouest des Sorlingues, le trois du present mois, cette prise venoit de la Jamaïque, &amp; alloit porter des Lettres en Angleterre. Elle estoit partie de l’Isle de la Jamaïque, il y a environ deux mois ; elle est de dix canons &amp; de 50 hommes d’équipage compris les passagers, &amp; n’a point du tout de Marchandises ; le Maître de la prise &amp; les prisonniers, raportent que peu après leur départ, il devoit partir de la Jamaïque une Flotte considerable sous l’escorte de cinq Vaisseaux de 50 à 60 canons, &amp; ils comptent qu’elle ne doit pas tarder à arriver.</p>
+          <label>À Brest le 11 Novembre</label>
+          <p>La Fregate <hi rend="italic">la Syrenne</hi> de Dunkerque, Capitaine M<hi rend="sup">r</hi> Simon, entra en cette Rade Vendredy au soir 8 de ce mois, ayant amené une petite Prise Angloise nommée l’<hi rend="italic">Elisabeth</hi> &amp; <hi rend="italic">Anne de Londres</hi>, venant de la Jamaïque chargée de Sucre &amp; de Gingembre ; il a fait cette prise sur le Cap de Cornoüailles, &amp; les gens de la Prise rapportent qu’ils avoient moüillé aux Sorlingues le 4 de ce mois, &amp; qu’on leur avoit dit qu’une partie de la Flotte de la Barbade, &amp; une Flotte venant de Lisbonne estoient entrées dans la Manche peu de jours auparavant.</p>
         </quote>
-
-            </div>
+      </div>
     </body>
   </text>
 </TEI>

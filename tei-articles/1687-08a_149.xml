@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
+    <body>
+      <div>
         <p/>
-        <p>Il s’est fait de fort jolis Vers, ausquels l’Auteur a donné le nom de galanterie. Une
-          Dame, quatre Demoiselles, &amp; deux Cavaliers, que l’occasion du voisinage fait souvent
-          rencontrer ensemble, joüoient un jour à de petits jeux. Une d’elles ordonna à un des
-          Cavaliers, pour retirer son gage, &amp; pour satisfaire aux loix du Jeu, de faire des Vers
-          pour chaque Personne de la Compagnie, &amp; on luy donna terme jusqu’au lendemain. Le
-          Cavalier, pour executer cet ordre, envoya ces Vers à la Compagnie.</p>
+        <p>Il s’est fait de fort jolis Vers, ausquels l’Auteur a donné le nom de galanterie. Une Dame, quatre Demoiselles, &amp; deux Cavaliers, que l’occasion du voisinage fait souvent rencontrer ensemble, joüoient un jour à de petits jeux. Une d’elles ordonna à un des Cavaliers, pour retirer son gage, &amp; pour satisfaire aux loix du Jeu, de faire des Vers pour chaque Personne de la Compagnie, &amp; on luy donna terme jusqu’au lendemain. Le Cavalier, pour executer cet ordre, envoya ces Vers à la Compagnie.</p>
         <quote>
           <lg>
             <label>À MADAME C.</label>
@@ -99,8 +92,7 @@
           </lg>
           <p>M.D.M.</p>
         </quote>
-        <p>Ces Vers donnerent lieu à un Inconnu, d’envoyer ceux qui suivent, à deux des Demoiselles
-          de cette Compagnie.</p>
+        <p>Ces Vers donnerent lieu à un Inconnu, d’envoyer ceux qui suivent, à deux des Demoiselles de cette Compagnie.</p>
         <quote>
           <lg>
             <l rend="i"> Plus je relis les Vers que l’on a fais pour vous,</l>
@@ -128,8 +120,7 @@
             <l rend="i">Luy fit tomber du bec, &amp; mangea son fromage.</l>
           </lg>
         </quote>
-        <p>Les deux Demoiselles envoyerent ces Vers à l’Auteur des premiers, qui aussi-tost leur fit
-          cette réponse.</p>
+        <p>Les deux Demoiselles envoyerent ces Vers à l’Auteur des premiers, qui aussi-tost leur fit cette réponse.</p>
         <quote>
           <lg>
             <l rend="i">Du Poëte inconnu, de l’Auteur anonyme,</l>
@@ -155,6 +146,6 @@
           <p>M.D.M.</p>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

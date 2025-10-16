@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
+    <body>
+      <div>
         <p>Les paroles de la Ritornelle que j'ay employée dans cette Lettre, &amp; qui commence par</p>
-        <quote><hi rend="i">Un soir dans une grotte obscure,</hi><note resp="author" place="margin">L’Air doit regarder les pages 140. &amp; 328.</note></quote>
+        <quote>
+          <hi rend="i">Un soir dans une grotte obscure,</hi>
+          <note resp="author" place="margin">L’Air doit regarder les pages 140. &amp; 328.</note>
+        </quote>
         <p>ont esté trouvées si agreables, qu'un second Musicien des plus habiles que nous ayons a voulu aussi les mettre en air. Ainsi je vous les envoye notées de sa composition, afin que vous ayez le plaisir de juger du genie de l'un &amp; de l'autre, par la difference de leurs caracteres. <note resp="editor">Le texte a été publié dans le même volume du <hi rend="italic">Mercure galant</hi> (cf. <ref target="MG-1696-01_139">cet article</ref>) et figure dans les <hi rend="italic">Oeuvres posthumes</hi> de Senecé (E. Chasles, Paris, 1855, p. 289-292). Une autre mise en musique, de Duparc, a été publiée dans le <hi rend="italic">Recueil d'airs sérieux et à boire</hi> de janvier 1696 (p. 20).</note></p>
         <ref target="images/1696-01_328a.JPG">
           <figure>
@@ -26,6 +28,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

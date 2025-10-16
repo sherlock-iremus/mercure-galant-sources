@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
-        <p>Les Vers que je vous envoyay dans ma Lettre de Janvier, sous le nom du Petit Ramoneur,
-          sont aussi de Mademoiselle de la Force. Mademoiselle de Navailles, Mademoiselle de la
-          Valette, &amp; elle, voulant faire une Galanterie à S.A. Royale Mademoiselle, luy
-          envoyerent le premier jour de l’année, un Gentilhomme qui luy présenta un petit Ramoneur
-          de Cire, portant une Boëte pleine de Bijoux, &amp; tenant dans sa main les Vers que vous
-          avez déja veus.</p>
+    <body>
+      <div>
+        <p>Les Vers que je vous envoyay dans ma Lettre de Janvier, sous le nom du Petit Ramoneur, sont aussi de Mademoiselle de la Force. Mademoiselle de Navailles, Mademoiselle de la Valette, &amp; elle, voulant faire une Galanterie à S.A. Royale Mademoiselle, luy envoyerent le premier jour de l’année, un Gentilhomme qui luy présenta un petit Ramoneur de Cire, portant une Boëte pleine de Bijoux, &amp; tenant dans sa main les Vers que vous avez déja veus.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

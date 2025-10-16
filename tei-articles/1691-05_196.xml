@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-          
-          <p/>
-          <p>Il me reste à vous parler d’une perte tres-considerable que les Capucins ont faite en la personne du Pere Bonaventure de Recanati, Predicateur du Pape. Il est mort âgé de soixante &amp; seize ans, au Convent de Rome le 14. de Mars, parmy les larmes &amp; les soupirs de tous les Religieux, qui ne purent presque chanter pendant ses Funerailles, tant ils regrettoient amerement cet excellent homme, qui estoit l’exemple &amp; l’ornement de tout l’Ordre.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p/>
+        <p>Il me reste à vous parler d’une perte tres-considerable que les Capucins ont faite en la personne du Pere Bonaventure de Recanati, Predicateur du Pape. Il est mort âgé de soixante &amp; seize ans, au Convent de Rome le 14. de Mars, parmy les larmes &amp; les soupirs de tous les Religieux, qui ne purent presque chanter pendant ses Funerailles, tant ils regrettoient amerement cet excellent homme, qui estoit l’exemple &amp; l’ornement de tout l’Ordre.</p>
+      </div>
+    </body>
   </text>
 </TEI>

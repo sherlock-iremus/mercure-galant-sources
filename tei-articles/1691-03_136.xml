@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,18 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
-        <p>Je vous envoye des Vers d’une aimable Personne de vostre Sexe, dont vous avez déja veu
-          quelques Ouvrages. Elle pense finement, &amp; vous serez contente de l’expression. Une
-          Dame de ses particulieres Amies l’ayant trouvée attaquée de fiévre un jour qu’elle l’alla
-          voir, luy dit en riant qu’elle voyoit bien que son mal venoit des soins qu’elle se donnoit
-          pour sa Famille, &amp; que si elle vouloit suivre son conseil, elle n’auroit jamais de
-          chagrins que ceux que l’amour luy causeroit, &amp; qu’assurément elle trouveroit ces
-          sortes de maux plus faciles à souffrir que l’importune ardeur de la fiévre. C’est ce qui
-          luy donna lieu de faire cette réponse.</p>
+        <p>Je vous envoye des Vers d’une aimable Personne de vostre Sexe, dont vous avez déja veu quelques Ouvrages. Elle pense finement, &amp; vous serez contente de l’expression. Une Dame de ses particulieres Amies l’ayant trouvée attaquée de fiévre un jour qu’elle l’alla voir, luy dit en riant qu’elle voyoit bien que son mal venoit des soins qu’elle se donnoit pour sa Famille, &amp; que si elle vouloit suivre son conseil, elle n’auroit jamais de chagrins que ceux que l’amour luy causeroit, &amp; qu’assurément elle trouveroit ces sortes de maux plus faciles à souffrir que l’importune ardeur de la fiévre. C’est ce qui luy donna lieu de faire cette réponse.</p>
         <quote>
           <label>A MADAME DE M.</label>
           <lg>
@@ -78,6 +70,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

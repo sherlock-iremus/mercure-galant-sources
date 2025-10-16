@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,22 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-    
-    
-
-    <quote>
-     <label>POUR LA CHARMANTE CALISTE.</label>
-     <p>On fait une peinture si triste &amp; si pitoyable de l’Amour, que la charité voudroit qu’on
-      n’en donnast point, &amp; la prudence que l’on n’en parlast jamais. Cependant, Madame vous
-      vous laissez voir tous les jours, &amp; je connois une Personne qui se fait un plaisir de vous
-      abandonner entierement son cœur. Il est aisé de juger par ce que je dis, que l’Amour est une
-      espece de necessité qu’on est absolument forcé de suivre ; &amp; comme il est impossible que
-      vous cessiez jamais d’estre aimable, il est impossible aussi que la Personne dont je vous ay
-      parlé ne vous aime passionnément toute sa vie.</p>
-     <p>S.P.</p>
-    </quote>
-   </div>
-   </body>
+    <body>
+      <div>
+        <quote>
+          <label>POUR LA CHARMANTE CALISTE.</label>
+          <p>On fait une peinture si triste &amp; si pitoyable de l’Amour, que la charité voudroit qu’on n’en donnast point, &amp; la prudence que l’on n’en parlast jamais. Cependant, Madame vous vous laissez voir tous les jours, &amp; je connois une Personne qui se fait un plaisir de vous abandonner entierement son cœur. Il est aisé de juger par ce que je dis, que l’Amour est une espece de necessité qu’on est absolument forcé de suivre ; &amp; comme il est impossible que vous cessiez jamais d’estre aimable, il est impossible aussi que la Personne dont je vous ay parlé ne vous aime passionnément toute sa vie.</p>
+          <p>S.P.</p>
+        </quote>
+      </div>
+    </body>
   </text>
 </TEI>

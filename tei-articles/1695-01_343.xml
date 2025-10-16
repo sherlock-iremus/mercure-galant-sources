@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>La Chanson nouvelle que je vous envoye estant de saison, j'espere que vous en serez contente <note resp="editor">Le poème figure, avec une mise en musique différente, dans le <hi rend="italic">Recueil d'airs sérieux et à boire</hi> de février 1695 (Paris, Ballard, 1695, p. 34).</note>.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air doit regarder la page 343.</note>
-          <lg><l rend="i">Que l'Hiver à son gré désole la nature,</l>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air doit regarder la page 343.</note>
+          <lg>
+            <l rend="i">Que l'Hiver à son gré désole la nature,</l>
             <l rend="i">Qu'il arreste le cours de nos charmans ruisseaux,</l>
             <l rend="i">Qu'il fasse taire les oyseaux,</l>
             <l rend="i">Et mourir dans nos bois les fleurs &amp; la verdure ;</l>
@@ -36,6 +37,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

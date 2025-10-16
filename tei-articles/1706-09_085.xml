@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,21 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-                
-                
-                <p>L’Evêché d’Olinda dans les Indes Occidentales, à la
-                        nomination du Roy de Portugal, a esté préconisé en faveur de Dom Emmanuel de
-                        Costa ; c’est un Prelat d’un grand merite &amp; d’une naissance distinguée.
-                        Olinde est une Ville du Bresil, dans l’Amerique, en la Capitainerie de
-                        Pernambuco, dont elle est Capitale. Elle est située sur une colline, avec un
-                        Port vers l’embouchure du fleuve Bibiribe, &amp; une Forteresse dite <hi
-                        rend="italic">de Saint George</hi>.
-                        Les Hollandois la prirent en 1629 mais ensuite ils l’abandonnerent, &amp;
-                        depuis ce temps-là les Portugais en sont les maistres &amp; de tout son
-                        territoire.</p>
-
-            </div>
+    <body>
+      <div>
+        <p>L’Evêché d’Olinda dans les Indes Occidentales, à la nomination du Roy de Portugal, a esté préconisé en faveur de Dom Emmanuel de Costa ; c’est un Prelat d’un grand merite &amp; d’une naissance distinguée. Olinde est une Ville du Bresil, dans l’Amerique, en la Capitainerie de Pernambuco, dont elle est Capitale. Elle est située sur une colline, avec un Port vers l’embouchure du fleuve Bibiribe, &amp; une Forteresse dite <hi rend="italic">de Saint George</hi>. Les Hollandois la prirent en 1629 mais ensuite ils l’abandonnerent, &amp; depuis ce temps-là les Portugais en sont les maistres &amp; de tout son territoire.</p>
+      </div>
     </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,20 +14,22 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Je vous envoye un second Air, qui est d´un de nos Illustres en Musique.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par <hi rend="i">Il n'est point de jour</hi>, doit regarder la page 350.</note>
-          <lg><l rend="i">Il n'est point de jour</l>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par <hi rend="i">Il n'est point de jour</hi>, doit regarder la page 350.</note>
+          <lg>
+            <l rend="i">Il n'est point de jour</l>
             <l rend="i">Que l'Amour</l>
             <l rend="i">Ne donne des alarmes</l>
             <l rend="i">A plus d'un cœur</l>
             <l rend="i">Dont il est le vainqueur ;</l>
             <l rend="i">Mais sans vos charmes,</l>
             <l rend="i">Iris, je connois bien</l>
-            <l rend="i">Qu'il n'auroit pû vaincre le mien.</l></lg>
+            <l rend="i">Qu'il n'auroit pû vaincre le mien.</l>
+          </lg>
         </quote>
         <ref target="images/1684-08_349.JPG">
           <figure>
@@ -35,6 +37,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

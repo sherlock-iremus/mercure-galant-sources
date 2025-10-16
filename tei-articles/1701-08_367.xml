@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,25 +14,24 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p>Le zele de Madame de Beuvron, Prieure des Benedictines de Moret, est trop grand pour Madame la Duchesse de Bourgogne, pour ne pas ajoûter ici avant que de fermer ma Lettre, qu’elle a fait chanter un <hi rend="i">Te Deum</hi> par sa Communauté, en action de graces du recouvrement de la santé de cette Princesse. Voici un Madrigal qu’on luy a adressé au sujet de sa maladie.</p>
-          <quote>
-            <lg>
-              <l rend="i">Aprés de mortelles allarmes</l>
-              <l rend="i"> Le Ciel sensible à nos douleurs,</l>
-              <l rend="i">Vient de faire cesser nos larmes,</l>
-              <l rend="i">Et de nous épargner un des plus grands malheurs.</l>
-              <l rend="i">Ce terrible danger, Princesse, vous convie</l>
-              <l rend="i">À bien ménager une vie</l>
-              <l rend="i">Precieuse à Louis, si chere à vostre Epoux,</l>
-              <l rend="i">Importante à toute la France</l>
-              <l rend="i">Qui met sa plus douce esperance</l>
-              <l rend="i">À tenir ses Maistres de Vous.</l>
-            </lg>
-          </quote>
-        </div>
-      </body>
+    <body>
+      <div>
+        <p>Le zele de Madame de Beuvron, Prieure des Benedictines de Moret, est trop grand pour Madame la Duchesse de Bourgogne, pour ne pas ajoûter ici avant que de fermer ma Lettre, qu’elle a fait chanter un <hi rend="i">Te Deum</hi> par sa Communauté, en action de graces du recouvrement de la santé de cette Princesse. Voici un Madrigal qu’on luy a adressé au sujet de sa maladie.</p>
+        <quote>
+          <lg>
+            <l rend="i">Aprés de mortelles allarmes</l>
+            <l rend="i"> Le Ciel sensible à nos douleurs,</l>
+            <l rend="i">Vient de faire cesser nos larmes,</l>
+            <l rend="i">Et de nous épargner un des plus grands malheurs.</l>
+            <l rend="i">Ce terrible danger, Princesse, vous convie</l>
+            <l rend="i">À bien ménager une vie</l>
+            <l rend="i">Precieuse à Louis, si chere à vostre Epoux,</l>
+            <l rend="i">Importante à toute la France</l>
+            <l rend="i">Qui met sa plus douce esperance</l>
+            <l rend="i">À tenir ses Maistres de Vous.</l>
+          </lg>
+        </quote>
+      </div>
+    </body>
   </text>
 </TEI>

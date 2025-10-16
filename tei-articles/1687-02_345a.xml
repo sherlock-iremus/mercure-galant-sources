@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div copyOf="JLB-MG-1687-02_345">
-        
-        
-        <p>Je vous envoye encore un Air nouveau dont les paroles ont esté faites contre les
-          Avares.</p>
+    <body>
+      <div copyOf="JLB-MG-1687-02_345">
+        <p>Je vous envoye encore un Air nouveau dont les paroles ont esté faites contre les Avares.</p>
         <quote>
           <label>AIR NOUVEAU.</label>
-          <note place="margin" resp="author"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air
-            qui commence par, <hi rend="i">J'entens murmurer</hi>, doit regarder la page 345.</note>
+          <note place="margin" resp="author"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">J'entens murmurer</hi>, doit regarder la page 345.</note>
           <lg>
             <l rend="i">J'Entens murmurer tout le monde,</l>
             <l rend="i">Et dire qu'il n'est plus d'argent,</l>
@@ -43,6 +40,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

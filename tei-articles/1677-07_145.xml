@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Il se rendit de là à Jonsac, où la Comtesse de ce nom le reçeut &amp; le regala magnifiquement à Souper. Il continua sa route le lendemain, &amp; vint coucher à Blaye. Ce ne fut pas sans entendre la décharge du Canon, &amp; de toute l’Artillerie du Chasteau. Monsieur le Duc de Roquelaure, &amp; Monsieur de Séve Intendant de Guyenne, s’y estoient rendus avec les Jurats Députez de Bordeaux pour l’assurer de la joye qu’on auroit de l’y recevoir. Il y arriva le lendemain. Les Complimens de la Ville luy furent portez par M<hi rend="sup">r</hi> de la Lande Premier Jurat qui luy fut presenté à la descente de la Maison Navale, par Monsieur le Comte de Montaigu. Ce jeune Prince alla le soir se promener à cheval sur le Quay des Chartreux, accompagné de Monsieur le Duc de Roquelaure, &amp; au retour il entra dans le Chasteau Trompete, où toute la Garnison se trouva dans la Place sous les armes. M<hi rend="sup">r</hi> Cesar Ayde Major estoit à la teste en l’absence du Major.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

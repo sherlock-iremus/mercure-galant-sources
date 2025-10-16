@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,18 +14,25 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
         <quote>
           <label>CANTICUM<lb/>GALLIÆ TRIUMPHANTIS.</label>
-          <p><hi rend="i">Io triumphe, o Galli, Io triumphe ! Ter Deo nostro jucunde cantemus, Io
-              triumphe.</hi></p>
-          <p><hi rend="i">Dedisti, Domine, Gallorum Populo Regem pium, justum &amp; secundum cor
-              tuum ; Regem fortem, invictum, &amp; te adjuvante, invincibilem.</hi></p>
+          <p>
+            <hi rend="i">Io triumphe, o Galli, Io triumphe ! Ter Deo nostro jucunde cantemus, Io triumphe.</hi>
+          </p>
+          <p>
+            <hi rend="i">Dedisti, Domine, Gallorum Populo Regem pium, justum &amp; secundum cor tuum ; Regem fortem, invictum, &amp; te adjuvante, invincibilem.</hi>
+          </p>
           <quote>
-            <label><hi rend="i">CANTIQUE</hi><lb/><hi rend="i">DES TRIOMPHES</hi><lb/><hi rend="i">de la France.</hi></label>
+            <label>
+              <hi rend="i">CANTIQUE</hi>
+              <lb/>
+              <hi rend="i">DES TRIOMPHES</hi>
+              <lb/>
+              <hi rend="i">de la France.</hi>
+            </label>
             <lg>
               <l>O Peuple comblé de gloire,</l>
               <l>O François à qui tout rit,</l>
@@ -40,16 +47,21 @@
               <l>C’est vous, Seigneur, c’est vous qui nous l’avez donné.</l>
             </lg>
           </quote>
-          <p><hi rend="i">Zelus domus tuæ possedit eum ; &amp; ideò inimicis tuis factus est
-              inimicus.</hi></p>
-          <p><hi rend="i">Non sustinuit Hæreticos in terra sua diutius immorari ; aut enim dociles
-              adoptavit ut filios, aut contumaces ut degeneres abdicavit.</hi></p>
-          <p><hi rend="i">Expulsi sunt à Regno Christianissimo Iconoclastæ, &amp; Iconomachi, omnes
-              impii contemptores Sacramentorum.</hi></p>
-          <p><hi rend="i">Ejecti sunt qui Hierarchiam Catholicam evertere meditabantur, qui
-              Monarchicum Imperium inviti subiebant.</hi></p>
-          <p><hi rend="i">Perfecit LUDOVICUS sine bellis &amp; sine cæde intra fines unius anni,
-              quod Majores sui toto plus quàm sæculo in vanum cupierunt &amp; tentaverunt.</hi></p>
+          <p>
+            <hi rend="i">Zelus domus tuæ possedit eum ; &amp; ideò inimicis tuis factus est inimicus.</hi>
+          </p>
+          <p>
+            <hi rend="i">Non sustinuit Hæreticos in terra sua diutius immorari ; aut enim dociles adoptavit ut filios, aut contumaces ut degeneres abdicavit.</hi>
+          </p>
+          <p>
+            <hi rend="i">Expulsi sunt à Regno Christianissimo Iconoclastæ, &amp; Iconomachi, omnes impii contemptores Sacramentorum.</hi>
+          </p>
+          <p>
+            <hi rend="i">Ejecti sunt qui Hierarchiam Catholicam evertere meditabantur, qui Monarchicum Imperium inviti subiebant.</hi>
+          </p>
+          <p>
+            <hi rend="i">Perfecit LUDOVICUS sine bellis &amp; sine cæde intra fines unius anni, quod Majores sui toto plus quàm sæculo in vanum cupierunt &amp; tentaverunt.</hi>
+          </p>
           <quote>
             <lg>
               <l>Son cœur sans balancer prenant vostre querelle,</l>
@@ -86,12 +98,15 @@
               <l>Cede à LOUIS armé de sa seule Vertu.</l>
             </lg>
           </quote>
-          <p><hi rend="i">Io Triumphe, o Galli, Io triumphe ! Ter Deo nostro jucunde cantemus, Io
-              triumphe.</hi></p>
-          <p><hi rend="i">Lumen tantæ virtutis offendit oculos superborum ; zeli tam efficacis
-              gloria Hæreticorum, &amp; Principum Europæ odium &amp; invidiam suscitavit.</hi></p>
-          <p><hi rend="i">Convenerunt in unum Germanus, Iberus, &amp; Allobrox, adversus Christum
-              Domini, primogenitum Ecclesiæ.</hi></p>
+          <p>
+            <hi rend="i">Io Triumphe, o Galli, Io triumphe ! Ter Deo nostro jucunde cantemus, Io triumphe.</hi>
+          </p>
+          <p>
+            <hi rend="i">Lumen tantæ virtutis offendit oculos superborum ; zeli tam efficacis gloria Hæreticorum, &amp; Principum Europæ odium &amp; invidiam suscitavit.</hi>
+          </p>
+          <p>
+            <hi rend="i">Convenerunt in unum Germanus, Iberus, &amp; Allobrox, adversus Christum Domini, primogenitum Ecclesiæ.</hi>
+          </p>
           <quote>
             <lg>
               <l>O Peuple comblé de gloire,</l>
@@ -114,18 +129,21 @@
               <l>Les Fréres sont armez, &amp; n’en rougissent point.</l>
             </lg>
           </quote>
-          <p><hi rend="i">Conjuncti sunt Rebellibus Angliæ, &amp; Hollandiæ Confœderatis
-              adhæserunt : non erubuerunt Principes Catholici sociari cum iniquo &amp; Hæretico
-              Throni Britannici Invasore.</hi></p>
-          <p><hi rend="i">Factus est Magnus LUDOVICUS, Protector veræ Religionis &amp; vindex :
-              Regiæ dignitatis assertor acerrimus..</hi></p>
-          <p><hi rend="i">Omnes isti unanimiter impetum fecerunt in Gallias frustrà : operti sunt
-              confusione, &amp; cum ignominia repulsi sunt.</hi></p>
-          <p><hi rend="i">Catenato Rheno gemit Germania, Eridanus confractis cornibus luget : Belgii
-              nobis penetrale reserant subjecti Montes Hannoniæ ; maria victricibus Francorum
-              Navibus obtemperant.</hi></p>
-          <p><hi rend="i">Io Triumphe, o Galli, Io Triumphe ! ter Deo nostro jucunde cantemus, Io
-              Triumphe.</hi></p>
+          <p>
+            <hi rend="i">Conjuncti sunt Rebellibus Angliæ, &amp; Hollandiæ Confœderatis adhæserunt : non erubuerunt Principes Catholici sociari cum iniquo &amp; Hæretico Throni Britannici Invasore.</hi>
+          </p>
+          <p>
+            <hi rend="i">Factus est Magnus LUDOVICUS, Protector veræ Religionis &amp; vindex : Regiæ dignitatis assertor acerrimus..</hi>
+          </p>
+          <p>
+            <hi rend="i">Omnes isti unanimiter impetum fecerunt in Gallias frustrà : operti sunt confusione, &amp; cum ignominia repulsi sunt.</hi>
+          </p>
+          <p>
+            <hi rend="i">Catenato Rheno gemit Germania, Eridanus confractis cornibus luget : Belgii nobis penetrale reserant subjecti Montes Hannoniæ ; maria victricibus Francorum Navibus obtemperant.</hi>
+          </p>
+          <p>
+            <hi rend="i">Io Triumphe, o Galli, Io Triumphe ! ter Deo nostro jucunde cantemus, Io Triumphe.</hi>
+          </p>
           <quote>
             <lg>
               <l>Au lâche Usurpateur du Trône d’Angleterre,</l>
@@ -135,8 +153,7 @@
             </lg>
             <ab type="ornament">***</ab>
             <lg>
-              <l><hi rend="sc">Dieu</hi> seul soûtient <hi rend="sc">Louis</hi> contre tant
-                d’adversaires,</l>
+              <l><hi rend="sc">Dieu</hi> seul soûtient <hi rend="sc">Louis</hi> contre tant d’adversaires,</l>
               <l>Et sa haute Valeur redoublant ses Exploits,</l>
               <l>Au nom de Défenseur de la Foy de nos Péres,</l>
               <l>Joint le titre éclatant de Protecteur des Rois.</l>
@@ -163,22 +180,9 @@
               <l>Vers le Ciel qui vous cherit.</l>
             </lg>
           </quote>
-          <p>Cet Ouvrage a esté composé en Latin sur les Victoires du Roy, à l’imitation des
-            Cantiques de Moyse, &amp; de plusieurs autres semblables, par M<hi rend="sup">r</hi> de
-            Senecé, ancien Lieutenant General au Présidial de Mascon. C’est un homme qui a trouvé le
-            secret de joindre une profonde Litterature &amp; une grande politesse, à l’exacte
-            connoissance des Loix &amp; de tout ce qui concerne l’administration de la Justice,
-            qu’il a exercée pendant cinquante ans avec une réputation de sçavoir &amp; d’integrité
-            qui vivra long-tems aprés luy. Il a déja donné des marques de son zele pour le Roy dans
-            plusieurs Ouvrages, &amp; particulierement dans son Apollon François, où par une
-            fecondité merveilleuse, il a rassemblé plus de cent Devises de sa façon, composées à la
-            loüange de Sa Majesté, qui ont toutes le Soleil pour corps, &amp; qui sont accompagnées
-            d’autant de discours remplis de beaucoup d’érudition. Il a voulu faire voir à l’âge de
-            prés de quatre vingt ans que son ardeur pour son Maistre n’est point encore ralentie.
-            Les Vers François sont de M<hi rend="sup">r</hi> de Senecé son Fils, dont je vous ay
-            envoyé plusieurs Ouvrages, que vous n’avez pas moins estimez que le Public.</p>
+          <p>Cet Ouvrage a esté composé en Latin sur les Victoires du Roy, à l’imitation des Cantiques de Moyse, &amp; de plusieurs autres semblables, par M<hi rend="sup">r</hi> de Senecé, ancien Lieutenant General au Présidial de Mascon. C’est un homme qui a trouvé le secret de joindre une profonde Litterature &amp; une grande politesse, à l’exacte connoissance des Loix &amp; de tout ce qui concerne l’administration de la Justice, qu’il a exercée pendant cinquante ans avec une réputation de sçavoir &amp; d’integrité qui vivra long-tems aprés luy. Il a déja donné des marques de son zele pour le Roy dans plusieurs Ouvrages, &amp; particulierement dans son Apollon François, où par une fecondité merveilleuse, il a rassemblé plus de cent Devises de sa façon, composées à la loüange de Sa Majesté, qui ont toutes le Soleil pour corps, &amp; qui sont accompagnées d’autant de discours remplis de beaucoup d’érudition. Il a voulu faire voir à l’âge de prés de quatre vingt ans que son ardeur pour son Maistre n’est point encore ralentie. Les Vers François sont de M<hi rend="sup">r</hi> de Senecé son Fils, dont je vous ay envoyé plusieurs Ouvrages, que vous n’avez pas moins estimez que le Public.</p>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

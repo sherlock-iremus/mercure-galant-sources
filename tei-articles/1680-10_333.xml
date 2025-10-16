@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,32 +14,20 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Voicy le Bavolet<note resp="editor">Catherine Cessac attribue le texte de cet air à J. Donneau de Visé
-          (<hi rend="italic">Bulletin de la Société Marc-Antoine Charpentier</hi>, « Airs sérieux et à
-          boire », n° 20 (2003), p. 3).</note> de M<hi rend="sup">r</hi> Charpentier, que vous avez tant d’envie de
-          voir noté, &amp; que la Troupe de Guenegaud adjoûta dés l’année derniere à la galante
-          Piece de <hi rend="i">l’Inconnu</hi>. Comme on en doit donner quelques Représentations
-          incontinent apres la Toussaints, ceux de vostre Province qui s’y trouveront, pourront vous
-          dire combien cette agreable Chanson est aimée.</p>
+    <body>
+      <div>
+        <p>Voicy le Bavolet<note resp="editor">Catherine Cessac attribue le texte de cet air à J. Donneau de Visé (<hi rend="italic">Bulletin de la Société Marc-Antoine Charpentier</hi>, « Airs sérieux et à boire », n° 20 (2003), p. 3).</note> de M<hi rend="sup">r</hi> Charpentier, que vous avez tant d’envie de voir noté, &amp; que la Troupe de Guenegaud adjoûta dés l’année derniere à la galante Piece de <hi rend="i">l’Inconnu</hi>. Comme on en doit donner quelques Représentations incontinent apres la Toussaints, ceux de vostre Province qui s’y trouveront, pourront vous dire combien cette agreable Chanson est aimée.</p>
         <quote>
-          <label>LE BAVOLET.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer
-              les Figures</hi> : l’Air qui commence par <hi rend="i">Ne fripez poan mon
-            Bavolet</hi>, doit regarder la page 334.</note>
+          <label>LE BAVOLET.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Ne fripez poan mon Bavolet</hi>, doit regarder la page 334.</note>
           <lg>
-            <l rend="i"><space rend="tab"> </space><space rend="tab"> </space>Ne fripez poan mon
-              Bavolet,</l>
+            <l rend="i"><space rend="tab"> </space><space rend="tab"> </space>Ne fripez poan mon Bavolet,</l>
             <l rend="i"><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"> </space>C’est aujordy Dimanche.</l>
             <l rend="i"><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"> </space>Je vous le dis tout net,</l>
-            <l rend="i"><space rend="tab"> </space><space rend="tab"> </space>J’ay des éplingues sur
-              ma manche,</l>
-            <l rend="i"><space rend="tab"> </space><space rend="tab"> </space>Ma main peze autant
-              qu’al est blanche,</l>
+            <l rend="i"><space rend="tab"> </space><space rend="tab"> </space>J’ay des éplingues sur ma manche,</l>
+            <l rend="i"><space rend="tab"> </space><space rend="tab"> </space>Ma main peze autant qu’al est blanche,</l>
             <l rend="i"><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"> </space>Et vous gagnerez un souflet,</l>
-            <l rend="i"><space rend="tab"> </space><space rend="tab"> </space>Ne fripez poan mon
-              Bavolet,</l>
+            <l rend="i"><space rend="tab"> </space><space rend="tab"> </space>Ne fripez poan mon Bavolet,</l>
             <l rend="i"><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"> </space>C’est aujordy Dimanche.</l>
             <l/>
             <l rend="i">Attendez à demain que je vaze à la Ville,</l>
@@ -64,6 +52,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

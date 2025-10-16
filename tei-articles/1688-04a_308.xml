@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,19 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
+    <body>
+      <div>
         <p/>
-        <p>Comme Madame la Dauphine aime beaucoup la Musique, qu'elle s'y connoist parfaitement,
-          qu'elle a la voix belle, &amp; qu'elle chante mesme en partie, chacun s'empresse à
-          travailler pour la divertir. C'est ce qui est cause qu'il y a eu souvent à Versailles de
-          petits concerts en forme d'Opera, sans habits &amp; sans theatre. Les deux derniers dont
-          la Cour a eu le divertissement, sont de M. Moreau &amp; de M. Matho. Ils ont paru tous
-          deux fort agreables, &amp; on y a trouvé de fort belles choses. Vous devez estre persuadée
-          que M. Matho est tres-habile, puis qu'il a esté choisi pour montrer à chanter à cette
-          Princesse.</p>
+        <p>Comme Madame la Dauphine aime beaucoup la Musique, qu'elle s'y connoist parfaitement, qu'elle a la voix belle, &amp; qu'elle chante mesme en partie, chacun s'empresse à travailler pour la divertir. C'est ce qui est cause qu'il y a eu souvent à Versailles de petits concerts en forme d'Opera, sans habits &amp; sans theatre. Les deux derniers dont la Cour a eu le divertissement, sont de M. Moreau &amp; de M. Matho. Ils ont paru tous deux fort agreables, &amp; on y a trouvé de fort belles choses. Vous devez estre persuadée que M. Matho est tres-habile, puis qu'il a esté choisi pour montrer à chanter à cette Princesse.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

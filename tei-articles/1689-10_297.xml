@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Quoy que la Chanson que je vous envoye ne soit pas nouvelle, elle a presentement un si grand cours à Paris, qu'elle ne peut estre que favorablement receuë en Province. Les paroles sont de l'illustre M<hi rend="sup">r</hi> de la Fontaine, &amp; l'air est du fameux M<hi rend="sup">r</hi> Charpentier, qui a une si grande connoissance de toutes les beautez de la Musique.</p>
         <quote>
-          <label>AIR.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">Brillantes fleurs, naissez</hi>, doit regarder la page 298.</note>
+          <label>AIR.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">Brillantes fleurs, naissez</hi>, doit regarder la page 298.</note>
           <lg>
             <l rend="i">Brillantes fleurs, naissez,</l>
             <l rend="i">Herbe tendre, croissez</l>
@@ -53,6 +53,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

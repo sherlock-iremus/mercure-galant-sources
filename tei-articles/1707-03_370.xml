@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,39 +14,22 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-                
-
-                
-                <p>L’Article que vous allez lire est tiré d’une Lettre de
-                    Dunkerque.</p>
-    <quote>
-                <label>Prises faites par les Fregates de la Chambre du
-                        Commerce.</label>
-                <p>4 Fregates de 12 à 16 canons, chargées de beurre &amp; de cuirs verds en Irlande,
-                    pour Ostende, estimée chacune 25 000 livres.</p>
-                <p>1 Fregate de 36 canons, chargée de briques &amp; de quelques balots, partie
-                    d’Hollande pour la Coste de Guinée, estimée 50 000 livres.</p>
-                <p>2 Bastimens Hollandois chargez de canons &amp; de poudre, allant à Lisbonne, envoyez
-                    à Brest.</p>
-                <p>La Reconnoissance de 28 canons, Capitaine Andritte Baert, a pris une Fregate de
-                    20 canons chargée à Lisbonne pour Amsterdam.</p>
-                <p>Chargement</p>
-                <p>163 Caisses de Sucre du Bresil ; 
-                    80 milliers<note xml:id="_ftn0" resp="editor"
-                            n="1"> « millers » a été corrigé par « milliers ».</note> de Campéche ; 12 demi pieces de vin blanc ;
-                        365 rouleaux de Tabac de Bresil ; 600 caisses de fruits, &amp; une partie de
-                        sel.</p>
-                <p>La Constance de 28 canons, Capitaine Bernard, a pris un Corsaire d’Ostende de 10
-                    canons.</p>
-                <p>Le Cupidon de 16 canons, Capitaine Alexandre Carpentier, a pris un Dogre chargé
-                    de Poisson.</p>
-                <p>La Marquise de Bernieres de 8 canons, a pris 2 Fregates, l’une de 8 &amp; l’autre de
-                    10 canons, chargées de beurre &amp; de cuirs verds venant d’Irlande pour Ostende,
-                    les deux sont estimées 80 000 livres.</p>
+    <body>
+      <div>
+        <p>L’Article que vous allez lire est tiré d’une Lettre de Dunkerque.</p>
+        <quote>
+          <label>Prises faites par les Fregates de la Chambre du Commerce.</label>
+          <p>4 Fregates de 12 à 16 canons, chargées de beurre &amp; de cuirs verds en Irlande, pour Ostende, estimée chacune 25 000 livres.</p>
+          <p>1 Fregate de 36 canons, chargée de briques &amp; de quelques balots, partie d’Hollande pour la Coste de Guinée, estimée 50 000 livres.</p>
+          <p>2 Bastimens Hollandois chargez de canons &amp; de poudre, allant à Lisbonne, envoyez à Brest.</p>
+          <p>La Reconnoissance de 28 canons, Capitaine Andritte Baert, a pris une Fregate de 20 canons chargée à Lisbonne pour Amsterdam.</p>
+          <p>Chargement</p>
+          <p>163 Caisses de Sucre du Bresil ; 80 milliers<note xml:id="_ftn0" resp="editor" n="1"> « millers » a été corrigé par « milliers ».</note> de Campéche ; 12 demi pieces de vin blanc ; 365 rouleaux de Tabac de Bresil ; 600 caisses de fruits, &amp; une partie de sel.</p>
+          <p>La Constance de 28 canons, Capitaine Bernard, a pris un Corsaire d’Ostende de 10 canons.</p>
+          <p>Le Cupidon de 16 canons, Capitaine Alexandre Carpentier, a pris un Dogre chargé de Poisson.</p>
+          <p>La Marquise de Bernieres de 8 canons, a pris 2 Fregates, l’une de 8 &amp; l’autre de 10 canons, chargées de beurre &amp; de cuirs verds venant d’Irlande pour Ostende, les deux sont estimées 80 000 livres.</p>
         </quote>
-
-            </div>
+      </div>
     </body>
   </text>
 </TEI>

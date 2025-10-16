@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p>Je vous envoye <hi rend="i">le Jugement de Pluton sur les deux Parties des Dialogues des Morts</hi>, que les Sieurs Blageart &amp; Quinet debitent depuis huit jours. Il plaist fort icy ; &amp; l’on y trouve une Critique fine &amp; délicate, qui fait honneur à l’Autheur, sans qu’elle blesse celuy à qui nous devons les Dialogues. Elle est fort honneste à son égard, &amp; ne laisse pas de renfermer tous les defauts qu’on a prétendu avoir découverts dans cet Ouvrage. Je vous prie de me mander si vous croyez que les Arrests que donne Pluton, doivent luy faire grand tort. On a traité la matiere avec assez d’enjoüement ; &amp; si de pareilles conversations se faisoient souvent parmy les Morts, beaucoup de Vivans ne les vaudroient pas.</p>
-        </div>
-      </body>
+    <body>
+      <div>
+        <p>Je vous envoye <hi rend="i">le Jugement de Pluton sur les deux Parties des Dialogues des Morts</hi>, que les Sieurs Blageart &amp; Quinet debitent depuis huit jours. Il plaist fort icy ; &amp; l’on y trouve une Critique fine &amp; délicate, qui fait honneur à l’Autheur, sans qu’elle blesse celuy à qui nous devons les Dialogues. Elle est fort honneste à son égard, &amp; ne laisse pas de renfermer tous les defauts qu’on a prétendu avoir découverts dans cet Ouvrage. Je vous prie de me mander si vous croyez que les Arrests que donne Pluton, doivent luy faire grand tort. On a traité la matiere avec assez d’enjoüement ; &amp; si de pareilles conversations se faisoient souvent parmy les Morts, beaucoup de Vivans ne les vaudroient pas.</p>
+      </div>
+    </body>
   </text>
 </TEI>

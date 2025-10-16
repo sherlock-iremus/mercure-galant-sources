@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
-        <p>L'Air nouveau que je vous envoye, est d'un de nos plus habiles Maistres. Vous le
-          connoistrez en le chantant.</p>
+    <body>
+      <div>
+        <p>L'Air nouveau que je vous envoye, est d'un de nos plus habiles Maistres. Vous le connoistrez en le chantant.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour
-              placer les Figures</hi> : l’Air qui commence par <hi rend="i">Quand le Printemps dans
-              les champs nous appelle</hi>, doit regarder la page 86.</note>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Quand le Printemps dans les champs nous appelle</hi>, doit regarder la page 86.</note>
           <lg>
             <l rend="i">Quand le Printemps dans les champs nous appelle</l>
             <l rend="i">Pour respirer les doux Zephirs,</l>
@@ -44,6 +40,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
-
-        <p>[...] Voicy un Madrigal qui a esté fait sur la facilité qu’il a toûjours euë à prendre
-          des Villes.</p>
+    <body>
+      <div>
+        <p>[...] Voicy un Madrigal qui a esté fait sur la facilité qu’il a toûjours euë à prendre des Villes.</p>
         <quote>
           <lg>
             <l rend="i">Tout le monde est surpris des victoires sans nombre</l>
@@ -38,6 +35,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

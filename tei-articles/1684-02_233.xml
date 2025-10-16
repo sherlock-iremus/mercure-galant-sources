@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,21 +14,20 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-          
-          <p>M<hi rend="sup">r</hi> le Duc de S. Aignan a répondu à Madame des Houlieres par ce galant Madrigal.</p>
-          <quote>
-            <lg>
-              <l rend="i">Puisqu’aupres de vos Vers tous les autres sont fades,</l>
-              <l rend="i">Aujourd’huy pour longtemps je renonce aux Ballades,</l>
-              <l rend="i">Et ne fais qu’applaudir à celle que je voy.</l>
-              <l rend="i">Les plus charmans Ecrits ne valent pas les vostres ;</l>
-              <l rend="i">Mais tous les beaux Esprits jugeront comme moy,</l>
-              <l rend="i">Q’estant vaincu par vous, on peut vaincre les autres.</l>
-            </lg>
-          </quote>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>M<hi rend="sup">r</hi> le Duc de S. Aignan a répondu à Madame des Houlieres par ce galant Madrigal.</p>
+        <quote>
+          <lg>
+            <l rend="i">Puisqu’aupres de vos Vers tous les autres sont fades,</l>
+            <l rend="i">Aujourd’huy pour longtemps je renonce aux Ballades,</l>
+            <l rend="i">Et ne fais qu’applaudir à celle que je voy.</l>
+            <l rend="i">Les plus charmans Ecrits ne valent pas les vostres ;</l>
+            <l rend="i">Mais tous les beaux Esprits jugeront comme moy,</l>
+            <l rend="i">Q’estant vaincu par vous, on peut vaincre les autres.</l>
+          </lg>
+        </quote>
+      </div>
+    </body>
   </text>
 </TEI>

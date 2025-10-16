@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Un je ne sçay quel feu martial qui brille déja dans ses [le Dauphin] yeux, &amp; qui ne
-          diminuë rien de la douceur de ses traits, répond parfaitement à ce que son heureuse
-          naissance nous en fait attendre, &amp; c’est avec beaucoup de justice que M<hi rend="sup">r</hi> Lelleron Avocat à Provins a dit dans le Rondeau que je vous envoye.</p>
+    <body>
+      <div>
+        <p>Un je ne sçay quel feu martial qui brille déja dans ses [le Dauphin] yeux, &amp; qui ne diminuë rien de la douceur de ses traits, répond parfaitement à ce que son heureuse naissance nous en fait attendre, &amp; c’est avec beaucoup de justice que M<hi rend="sup">r</hi> Lelleron Avocat à Provins a dit dans le Rondeau que je vous envoye.</p>
         <quote rend="border">
           <label rend="center">Pour Monseigneur</label>
           <label rend="center">le Dauphin,</label>
@@ -49,6 +46,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

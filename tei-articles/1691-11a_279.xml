@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
-        <p>Je vous envoye les derniers Vers qu’on a veus de luy. Ils prouvent parfaitement bien,
-          qu’il n’est point necessaire de se retirer du monde pour bien travailler à son salut,
-          pourveu que l’on y demeure dans l’obeïssance que l’on doit à Dieu, &amp; qu’on soit exact
-          à suivre ses loix, sans s’abandonner à son caprice.</p>
+        <p>Je vous envoye les derniers Vers qu’on a veus de luy. Ils prouvent parfaitement bien, qu’il n’est point necessaire de se retirer du monde pour bien travailler à son salut, pourveu que l’on y demeure dans l’obeïssance que l’on doit à Dieu, &amp; qu’on soit exact à suivre ses loix, sans s’abandonner à son caprice.</p>
         <quote>
           <lg>
             <l rend="i">Heureux qui se trouvant trop foible &amp; trop tenté,</l>
@@ -41,7 +37,9 @@
             <l rend="i">Observez seulement le peu qu’il vous ordonne,</l>
             <l rend="i"> Et sans cesse le benissant,</l>
             <l rend="i">Usez de son present, mais tel qu’il vous le donne,</l>
-            <l><hi rend="i">Et vous n’aurez plus rien qui ne soit innocent.</hi></l>
+            <l>
+              <hi rend="i">Et vous n’aurez plus rien qui ne soit innocent.</hi>
+            </l>
           </lg>
           <ab type="ornament">***</ab>
           <lg>
@@ -82,6 +80,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

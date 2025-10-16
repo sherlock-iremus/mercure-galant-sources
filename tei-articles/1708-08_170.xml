@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,24 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-                
-                
-
-                <p>Je dois ajouter que dans les Lettres recueillies par le
-                        Pere le Gobien dont je viens de vous parler<hi
-                            rend="sup "><note xml:id="_ftn0" resp="editor" n="1"> Le rédacteur évoque dans l’article huit
-                                volumes de lettres pieuses et édifiantes écrites par les
-                                missionnaires de l’ordre.</note></hi> ; 
-                        on trouve l’Histoire de l’établissement de deux nouvelles Missions dans
-                        l’Amerique Meridionale, &amp; l’Histoire de la découverte des Isles Marianes
-                        qu’on ne connoissoit presque point il y a quelques années, &amp; il y
-                        rapporte avec une grande exactitude, tout ce qui s’y est passé depuis que
-                        les Missionnaires y ont pénétré.</p>
-
-            </div>
-
-
+    <body>
+      <div>
+        <p>Je dois ajouter que dans les Lettres recueillies par le Pere le Gobien dont je viens de vous parler<hi rend="sup "><note xml:id="_ftn0" resp="editor" n="1"> Le rédacteur évoque dans l’article huit volumes de lettres pieuses et édifiantes écrites par les missionnaires de l’ordre.</note></hi> ; on trouve l’Histoire de l’établissement de deux nouvelles Missions dans l’Amerique Meridionale, &amp; l’Histoire de la découverte des Isles Marianes qu’on ne connoissoit presque point il y a quelques années, &amp; il y rapporte avec une grande exactitude, tout ce qui s’y est passé depuis que les Missionnaires y ont pénétré.</p>
+      </div>
     </body>
   </text>
 </TEI>

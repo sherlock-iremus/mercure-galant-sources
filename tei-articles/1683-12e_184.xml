@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,30 +14,29 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <quote>
-            <label>S’il est permis à un Homme qui aime avec passion, de souhaiter que la Personne qu’il aime, ne luy survive que d’un moment.</label>
-            <lg>
-              <l rend="i"> Tircis, par un esprit de pure jalousie,</l>
-              <l rend="i"> Dépourveu qu’il est de bon sens,</l>
-              <l rend="i"> Croit ses desirs fort innocens,</l>
-              <l rend="i"> De souhaiter que la fin de sa vie</l>
-              <l rend="i">Soit le terme préfix des beaux jours de Catin,</l>
-              <l rend="i">De peur que dans les bras d’un Mary plus sincere</l>
-              <l rend="i"> Elle ne passe apres la fin</l>
-              <l rend="i"> De cet Animal trop severe.</l>
-              <l rend="i">C’est une cruauté que je ne puis souffrir,</l>
-              <l rend="i">De demander la mort de l’Objet que l’on aime ;</l>
-              <l rend="i">On doit plutost prévoir avec un soin extréme</l>
-              <l rend="i"> Les moyens de le secourir,</l>
-              <l rend="i"> S’il arrive que sur la terre</l>
-              <l rend="i">Le moindre des malheurs luy déclare la guerre.</l>
-            </lg>
-            <p><hi rend="sc">Alcidor</hi>, du Havre.</p>
-          </quote>
-        </div>
-        </body>
+    <body>
+      <div>
+        <quote>
+          <label>S’il est permis à un Homme qui aime avec passion, de souhaiter que la Personne qu’il aime, ne luy survive que d’un moment.</label>
+          <lg>
+            <l rend="i"> Tircis, par un esprit de pure jalousie,</l>
+            <l rend="i"> Dépourveu qu’il est de bon sens,</l>
+            <l rend="i"> Croit ses desirs fort innocens,</l>
+            <l rend="i"> De souhaiter que la fin de sa vie</l>
+            <l rend="i">Soit le terme préfix des beaux jours de Catin,</l>
+            <l rend="i">De peur que dans les bras d’un Mary plus sincere</l>
+            <l rend="i"> Elle ne passe apres la fin</l>
+            <l rend="i"> De cet Animal trop severe.</l>
+            <l rend="i">C’est une cruauté que je ne puis souffrir,</l>
+            <l rend="i">De demander la mort de l’Objet que l’on aime ;</l>
+            <l rend="i">On doit plutost prévoir avec un soin extréme</l>
+            <l rend="i"> Les moyens de le secourir,</l>
+            <l rend="i"> S’il arrive que sur la terre</l>
+            <l rend="i">Le moindre des malheurs luy déclare la guerre.</l>
+          </lg>
+          <p><hi rend="sc">Alcidor</hi>, du Havre.</p>
+        </quote>
+      </div>
+    </body>
   </text>
 </TEI>

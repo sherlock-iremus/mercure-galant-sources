@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Vous connoistrez celuy [le mérite] d’une aimable Demoiselle par ce Sonnet qui m’a esté
-          envoyé de Loudun. Elle y doit avoir la Direction de quelque Hopital, &amp; c’est là-dessus
-          qu’on a fait les Vers que vous allez lire.</p>
+    <body>
+      <div>
+        <p>Vous connoistrez celuy [le mérite] d’une aimable Demoiselle par ce Sonnet qui m’a esté envoyé de Loudun. Elle y doit avoir la Direction de quelque Hopital, &amp; c’est là-dessus qu’on a fait les Vers que vous allez lire.</p>
         <quote>
           <label rend="center">Sonnet.</label>
           <lg>
@@ -27,22 +24,25 @@
             <l>Eut de pitié des Affligez,</l>
             <l>Quand il vous mit où vous logez,</l>
             <l>Pour avoir soin de leur misere !</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l>Si dans quelque douleur amere</l>
             <l>Leur mauvais sort les a plongez,</l>
             <l>La main dont ils sont soulagez</l>
             <l>Sçait rendre leur peine legere.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l>Sage Olympe, il faut l’avoüer,</l>
             <l>On ne sçauroit assez loüer</l>
             <l>Ces bontez, ces soins charitables.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l>Vous les empeschez de mourir ;</l>
             <l>Mais il est d’autres Miserables</l>
             <l>Qu’il faudroit aussi secourir.</l>
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>M<hi rend="sup">r</hi> Robinet zelé à son ordinaire quand il se presente quelque occasion
-          de celebrer la gloire du Roy, ne s’est pas teu sur la glorieuse Campagne de Catalogne, qui
-          luy a donné lieu de faire l’Ouvrage qui suit.</p>
+    <body>
+      <div>
+        <p>M<hi rend="sup">r</hi> Robinet zelé à son ordinaire quand il se presente quelque occasion de celebrer la gloire du Roy, ne s’est pas teu sur la glorieuse Campagne de Catalogne, qui luy a donné lieu de faire l’Ouvrage qui suit.</p>
         <quote>
-          <label><hi rend="i">ODE.</hi></label>
+          <label>
+            <hi rend="i">ODE.</hi>
+          </label>
           <lg>
             <l rend="i">Pour la troisiéme fois, que de bruit dans les airs !</l>
             <l rend="i"> En un beau jour la nuit se change.</l>
@@ -179,6 +178,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

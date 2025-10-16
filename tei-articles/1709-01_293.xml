@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,22 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-                
-
-                
-
-                <p>Un Armateur de Biscaye a amené à Vigo un bâtiment Hollandois venant de la
-                    Jamaïque ; sa charge est estimée cent mille écus.</p>
-                <p>[...]</p>
-                <p>Les lettres de Londres du 22 Decembre portoient que les
-                        François avoient enlevé 12 bâtimens anglois sur la côte de Terre-Neuve,
-                        chargez de moruë ; &amp; qu’ils avoient amené à S. Malo deux autres vaisseaux
-                        qui venoient de Guinée, &amp; qui estoient richement chargez.</p>
-
-            </div>
-
-
+    <body>
+      <div>
+        <p>Un Armateur de Biscaye a amené à Vigo un bâtiment Hollandois venant de la Jamaïque ; sa charge est estimée cent mille écus.</p>
+        <p>[...]</p>
+        <p>Les lettres de Londres du 22 Decembre portoient que les François avoient enlevé 12 bâtimens anglois sur la côte de Terre-Neuve, chargez de moruë ; &amp; qu’ils avoient amené à S. Malo deux autres vaisseaux qui venoient de Guinée, &amp; qui estoient richement chargez.</p>
+      </div>
     </body>
   </text>
 </TEI>

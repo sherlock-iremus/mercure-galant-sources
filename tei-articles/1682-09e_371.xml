@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,9 +14,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>SENTIMENS SUR LES Questions du dernier Extraordinaire.<note resp="editor">Voir <ref target="MG-1682-09e_390">cet article</ref>.</note></p>
         <p/>
         <p>[...]</p>
@@ -36,6 +35,6 @@
         <p>Phinée, avouez en ce jour</p>
         <p>Qu'une autre passion regne en vous que l'amour.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

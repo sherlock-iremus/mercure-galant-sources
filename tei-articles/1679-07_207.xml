@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Cette matiere [l’envie] ne peut estre traitée ny
-          plus agréablement, ny avec plus d’esprit qu’elle l’est dans la Fable que je vous envoye.
-          Quoy qu’elle soit un peu longue, je suis assuré qu’elle ne vous ennuyera pas. M<hi rend="sup">r</hi> de Frontiniere en est l’Autheur. Il a un talent admirable pour la
-          Poësie, &amp; travaille avec beaucoup de délicatesse. C’est luy qui depuis quelques années
-          a fait la plûpart des belles Paroles que M<hi rend="sup">r</hi> Lambert a mises en Air.
-          Celles que je vous envoyay notées le dernier Mois, commençant par <hi rend="i">Ombre de
-            mon Amant</hi>, sont de luy. Il n’y a personne aujourd’huy qui ne les chante.<note resp="editor">Pour la publication du poème, cf. <ref target="MG-1679-06_259">cet article</ref>.</note></p>
+    <body>
+      <div>
+        <p>Cette matiere [l’envie] ne peut estre traitée ny plus agréablement, ny avec plus d’esprit qu’elle l’est dans la Fable que je vous envoye. Quoy qu’elle soit un peu longue, je suis assuré qu’elle ne vous ennuyera pas. M<hi rend="sup">r</hi> de Frontiniere en est l’Autheur. Il a un talent admirable pour la Poësie, &amp; travaille avec beaucoup de délicatesse. C’est luy qui depuis quelques années a fait la plûpart des belles Paroles que M<hi rend="sup">r</hi> Lambert a mises en Air. Celles que je vous envoyay notées le dernier Mois, commençant par <hi rend="i">Ombre de mon Amant</hi>, sont de luy. Il n’y a personne aujourd’huy qui ne les chante.<note resp="editor">Pour la publication du poème, cf. <ref target="MG-1679-06_259">cet article</ref>.</note></p>
         <quote>
           <label type="head">Les <lb/>Chenilles <lb/>et le Buisson.</label>
           <label type="head">Fable.</label>
@@ -46,8 +39,7 @@
           <l><seg type="tab">    </seg>Leur dit-il, <hi rend="i">&amp; ces injures</hi>,</l>
           <l><hi rend="i">Qui du Chesne ennemy redoublant le couroux</hi>,</l>
           <l><seg type="tab">    </seg><hi rend="i">Ne font que l’attirer sur nous</hi> ?</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg><hi rend="i">Il vaut mieux se
-              taire</hi>,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg><hi rend="i">Il vaut mieux se taire</hi>,</l>
           <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Et faire. </l>
           <l><seg type="tab">    </seg><hi rend="i">Vous parlez trop hautement</hi> ;</l>
           <l rend="i"><seg type="tab">    </seg>Des Chenilles inhumaines </l>
@@ -150,14 +142,11 @@
           <l>Et qui ne paroissoit Chenille nullement,</l>
           <l><seg type="tab">    </seg>Est envoyée en haut comme Espionne.</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Elle y fut en un moment.</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Une
-            Pie,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Une Pie,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Accroupie,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Qui faisoit alors le guet ;</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg><hi rend="i">Où cours-tu si
-              daguet</hi> ?</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg><hi rend="i">Demeure</hi>, luy
-            cria-t-elle,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg><hi rend="i">Où cours-tu si daguet</hi> ?</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg><hi rend="i">Demeure</hi>, luy cria-t-elle,</l>
           <l rend="i"><seg type="tab">    </seg>Demeure, ou de mon bec crains l’atteinte mortelle. </l>
           <l><seg type="tab">    </seg>Elle obéït ; soudain le Chesne est averty</l>
           <l><seg type="tab">    </seg>Que c’est une Chenille, animal travesty.</l>
@@ -176,40 +165,29 @@
           <l rend="i"><seg type="tab">    </seg>Pour deux ou trois jours seulement. </l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Cette grace est accordée,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Aussitost que demandée.</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>En ce moment, Oyseaux à
-            l’entourer,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>En ce moment, Oyseaux à l’entourer,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Oyseaux à la considérer,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Et chacun à bond, à volée,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>A dire sa
-            ratelée ;</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>A dire sa ratelée ;</l>
           <l><seg type="tab">    </seg>Trois Fauvetes sur tout assurent, la voyant,</l>
           <l><seg type="tab">    </seg>Qu'elle est Chenille, ou qu’elle en a la mine.</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg><hi rend="i">Si je le croyois
-              pourtant</hi>,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg><hi rend="i">Si je le croyois pourtant</hi>,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Dit une qui l’examine,</l>
-          <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg>Je la goberois à
-            l’instant. </l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Une autre dit, <hi rend="i">Je l’ay
-              veuë en passant</hi>,</l>
+          <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg>Je la goberois à l’instant. </l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Une autre dit, <hi rend="i">Je l’ay veuë en passant</hi>,</l>
           <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg>Sur ce Buisson attenant. </l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>La
-            Bestiole écoutant,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg><hi rend="i">Vous estes des
-              prévenuës</hi>,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>La Bestiole écoutant,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg><hi rend="i">Vous estes des prévenuës</hi>,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Repart-elle fiérement ;</l>
-          <l><seg type="tab">    </seg><hi rend="i">Vous m’avez veuë ! où donc ? quand ? &amp;
-              comment</hi> ?</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg><hi rend="i">Je viens de tomber des
-              nuës</hi>,</l>
+          <l><seg type="tab">    </seg><hi rend="i">Vous m’avez veuë ! où donc ? quand ? &amp; comment</hi> ?</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg><hi rend="i">Je viens de tomber des nuës</hi>,</l>
           <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg>Et de naître maintenant. </l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Les Oyseaux se virent
-            confondre,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Les Oyseaux se virent confondre,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Et ne sçeurent que répondre.</l>
           <l><seg type="tab">    </seg>La nuit venuë, elle ne s’endort pas ;</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Tandis que l’Arbre sommeille,</l>
           <l><seg type="tab">    </seg>Elle va tout conter aux Chenilles d’enbas,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Qui cependant faisoient
-            merveille.</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Qui cependant faisoient merveille.</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Le matin chacun s’éveille,</l>
           <l><seg type="tab">    </seg>Le Genéral paroist fort satisfait</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>De ce que la Chenille a fait.</l>
@@ -222,12 +200,10 @@
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Parviennent jusques en haut,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Et donnent un grand assaut.</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Au milieu de la nuit le Chesne,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Tout d’un coup s’éveille en
-            sursaut,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Tout d’un coup s’éveille en sursaut,</l>
           <l><seg type="tab">    </seg>Comme on fait quand on est en peine,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Et s’agite tellement,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Que ses racines en
-            tressaillent,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Que ses racines en tressaillent,</l>
           <l>Ny plus ny moins, que ceux que les Puces assaillent,</l>
           <l><seg type="tab">    </seg>Et qu’elles mordent vivement.</l>
           <l><seg type="tab">    </seg>En effet dans ce moment,</l>
@@ -321,6 +297,6 @@
           <l><seg type="tab">    </seg>Souvent retombent sur eux.</l>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

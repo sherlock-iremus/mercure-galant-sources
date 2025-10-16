@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,19 +14,18 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p>J’ajoûte une Epigramme, adressée au mesme par un Inconnu.</p>
-          <quote>
-            <lg>
-              <l rend="i">Bellocq, ton nom devoit paroistre</l>
-              <l rend="i">Au bas de tes charmans Ecrits,</l>
-              <l rend="i">Tu sçais y parler en grand Maistre</l>
-              <l rend="i">En parlant si bien des Petits.</l>
-            </lg>
-          </quote>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>J’ajoûte une Epigramme, adressée au mesme par un Inconnu.</p>
+        <quote>
+          <lg>
+            <l rend="i">Bellocq, ton nom devoit paroistre</l>
+            <l rend="i">Au bas de tes charmans Ecrits,</l>
+            <l rend="i">Tu sçais y parler en grand Maistre</l>
+            <l rend="i">En parlant si bien des Petits.</l>
+          </lg>
+        </quote>
+      </div>
+    </body>
   </text>
 </TEI>

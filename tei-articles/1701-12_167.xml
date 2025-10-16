@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>L'Air nouveau que je vous envoye, est de Mademoiselle de Bataille, les Paroles sont de celuy qui ne se fait connoistre que sous le nom de Tamiriste.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par <hi rend="i">Ce n'est pour le Printemps</hi>, doit regarder la page 168.</note>
-          <lg><l rend="i">Ce n'est pour le Printemps, pour l'Esté, pour l'Automne,</l>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par <hi rend="i">Ce n'est pour le Printemps</hi>, doit regarder la page 168.</note>
+          <lg>
+            <l rend="i">Ce n'est pour le Printemps, pour l'Esté, pour l'Automne,</l>
             <l rend="i">Ny les fleurs, ny les fruits que chaque saison donne</l>
             <l rend="i">Que mon cœur amoureux</l>
             <l rend="i">Forme des vœux.</l>
@@ -30,7 +31,8 @@
             <l rend="i">L'Automne, chez Bacchus mes soupirs dédaignez,</l>
             <l rend="i">Font le chagrin qui me devore.</l>
             <l rend="i">Je chante l'Hyver seulement,</l>
-            <l rend="i">Il me ramene mon Amant.</l></lg>
+            <l rend="i">Il me ramene mon Amant.</l>
+          </lg>
         </quote>
         <ref target="images/1701-12_167.JPG">
           <figure>
@@ -38,6 +40,6 @@
           </figure>
         </ref>
       </div>
-        </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,9 +14,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Vous serez sans doute surprise de trouver icy un Ouvrage qui me regarde en quelque maniere, sçachant que je n’ay jamais voulu rien mettre dans mes Lettres qui pût estre regardé comme des loüanges qui tomberoient sur moy ; cependant je n’ay pû résister aux pressantes sollicitations qui m’ont esté faites par des personnes ausquelles je dois obéïr, d’inserer icy ce que vous y allez lire touchant l’<hi rend="i">Histoire du Siege de Toulon</hi>. Mais aprés l’avoir bien examiné, j’ay trouvé qu’il étoit beaucoup moins à mon avantage qu’à celuy des personnes qui m’ont envoyé les Relations qui, aprés avoir esté mises en corps, ont formé cette Histoire. Je ne dois estre regardé en cette occasion que comme une Bouquetiere, qui aprés avoir cueilli de tous côtez les plus belles fleurs qu’elle ait pû trouver, &amp; en avoir fait de tres-beaux bouquets, ne peut être loüée que du grand amas, &amp; du beau choix qu’elle a fait de toutes ces fleurs ; de l’arrangement où elle les a mises, &amp; de les avoir liées ensemble. L’Auteur de la Lettre, que vous allez lire, est un de ces hommes universels qui sçavent un peu de tout, &amp; qui sont répandus dans le monde, où ils sont souhaittez, dans toutes les Compagnies. Vous trouverez dans la Lettre suivante, qui lui a esté envoyée par une Dame de Poitou, ce qui l’a obligé d’écrire sur l’<hi rend="i">Histoire de Toulon</hi>.</p>
         <quote>
           <p>
@@ -75,6 +74,6 @@
         </quote>
         <p>Je crois estre assez connu de vous pour estre persuadé que vous vous imaginez bien que je me suis fait beaucoup de violence en vous envoyant cette Lettre. J’aurois quantité de choses à vous dire là-dessus ; mais je vous diray seulement que je n’ay pû m’empêcher d’obéïr, &amp; que l’on a souhaité que cette Lettre parust pour des raisons qu’il ne m’est pas permis de dire.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-
-        
-        <p>Voicy plusieurs couplets de Chanson, qui apparemment seront aussi bien receus dans vôtre
-          Province qu'ils l'ont été à Paris. Ils sont de M<hi rend="sup">r</hi> Diereville, qui les
-          a faits sur l'Air <hi rend="i">J'ay passé deux jours sans vous voir</hi>. Il les
-          intitule</p>
+    <body>
+      <div>
+        <p>Voicy plusieurs couplets de Chanson, qui apparemment seront aussi bien receus dans vôtre Province qu'ils l'ont été à Paris. Ils sont de M<hi rend="sup">r</hi> Diereville, qui les a faits sur l'Air <hi rend="i">J'ay passé deux jours sans vous voir</hi>. Il les intitule</p>
         <quote>
           <label>PLAINTES<lb/>des Hollandois, défaits sur<lb/> mer &amp; sur terre.</label>
           <lg>
@@ -115,6 +110,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,24 +14,30 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-
-<quote>
-  <label>AIR NOUVEAU.</label><note resp="author" place="margin">L’Air <hi rend="i">Que l’Hiver ait glacé</hi>, page 366.</note>
-<lg>
-<l><hi rend="i">Que l’hiver ait glacé nos roses &amp; nos lis,</hi></l>
-<l> <hi rend="i">Je suis insensible à ces choses ;</hi></l>
-<l><hi rend="i">Sur vôtre beau visage adorable Philis,</hi></l>
-<l><hi rend="i">Ne vois-je pas toûjours &amp; des lis &amp; des roses.</hi></l>
-</lg>
-</quote>
-  <ref target="images/1709-02_366.JPG">
-    <figure>
-      <graphic url="images/1709-02_366.JPG"/>
-    </figure>
-  </ref>
-</div>
-</body>
+    <body>
+      <div>
+        <quote>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin">L’Air <hi rend="i">Que l’Hiver ait glacé</hi>, page 366.</note>
+          <lg>
+            <l>
+              <hi rend="i">Que l’hiver ait glacé nos roses &amp; nos lis,</hi>
+            </l>
+            <l> <hi rend="i">Je suis insensible à ces choses ;</hi></l>
+            <l>
+              <hi rend="i">Sur vôtre beau visage adorable Philis,</hi>
+            </l>
+            <l>
+              <hi rend="i">Ne vois-je pas toûjours &amp; des lis &amp; des roses.</hi>
+            </l>
+          </lg>
+        </quote>
+        <ref target="images/1709-02_366.JPG">
+          <figure>
+            <graphic url="images/1709-02_366.JPG"/>
+          </figure>
+        </ref>
+      </div>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
         <quote>
-          <label>LA CONSPIRATION<lb/>des Planetes, &amp; de la Comete<lb/>contre le
-            Soleil.<lb/>HISTOIRE ALLEGORIQUE.</label>
+          <label>LA CONSPIRATION<lb/>des Planetes, &amp; de la Comete<lb/>contre le Soleil.<lb/>HISTOIRE ALLEGORIQUE.</label>
           <lg>
-            <l><hi rend="i">Du bel Astre du jour la lumiere feconde</hi></l>
+            <l>
+              <hi rend="i">Du bel Astre du jour la lumiere feconde</hi>
+            </l>
             <l rend="i"> De ses rayons éclairoit tout le monde,</l>
             <l rend="i">  Et chaque Peuple avec ardeur</l>
             <l rend="i">S’empressoit à l’envi sur la terre &amp; sur l’onde,</l>
@@ -156,6 +156,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

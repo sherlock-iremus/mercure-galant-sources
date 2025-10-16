@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>La joye est fort necessaire pour faire profiter les Remedes. Celuy qui a fait la Chanson
-          qui suit, en doit estre persuadé, puis qu’il ne parle que de ce qui est contraire au
-          chagrin. Voyez-en les Paroles. M<hi rend="sup">r</hi> l’Egu les a mises en Air.</p>
+    <body>
+      <div>
+        <p>La joye est fort necessaire pour faire profiter les Remedes. Celuy qui a fait la Chanson qui suit, en doit estre persuadé, puis qu’il ne parle que de ce qui est contraire au chagrin. Voyez-en les Paroles. M<hi rend="sup">r</hi> l’Egu les a mises en Air.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour
-              placer les Figures</hi> : l’Air qui commence par, Pendant que nos braves Guerriers,
-            doit regarder la Page 212.</note>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par, Pendant que nos braves Guerriers, doit regarder la Page 212.</note>
           <lg>
             <l rend="i">Pendant que nos braves Guerriers</l>
             <l rend="i">S’entredisputent les Lauriers,</l>
@@ -41,6 +37,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

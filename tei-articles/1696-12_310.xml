@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <quote>
           <label>AIR NOUVEAU<note resp="author" place="margin">L’Air doit regarder la page 310.</note>.</label>
-          <lg><l rend="i">Climene, contre vos dédains</l>
+          <lg>
+            <l rend="i">Climene, contre vos dédains</l>
             <l rend="i">J'ay des remedes souverains,</l>
             <l rend="i">Je cours au jus de la treille.</l>
             <l rend="i">Là sans ressentir ny tourment ny langueur,</l>
@@ -33,6 +33,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

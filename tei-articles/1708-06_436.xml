@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p/>
-          <quote>
-            <label>AVIS.</label>
-            <p>Le Mercure de Juillet se distribuëra sans faute le Vendredy troisiéme d’Aoust. On doit remarquer qu’il se distribuë toûjours le jour marqué dans les Avis que l’on donne chaque mois, &amp; que ceux qui ont des raisons de publier le contraire, abusent le Public, lorsqu’ils disent autrement.</p>
-          </quote>
-        </div>
-      </body>
+    <body>
+      <div>
+        <p/>
+        <quote>
+          <label>AVIS.</label>
+          <p>Le Mercure de Juillet se distribuëra sans faute le Vendredy troisiéme d’Aoust. On doit remarquer qu’il se distribuë toûjours le jour marqué dans les Avis que l’on donne chaque mois, &amp; que ceux qui ont des raisons de publier le contraire, abusent le Public, lorsqu’ils disent autrement.</p>
+        </quote>
+      </div>
+    </body>
   </text>
 </TEI>

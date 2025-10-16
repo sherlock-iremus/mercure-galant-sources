@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Voicy un Air nouveau, qui a icy une grande vogue. Vous n´en serez pas surprise, quand je vous auray appris qu´il est du fameux M<hi rend="sup">r</hi> Lambert <note resp="editor">L'air a également été publié, avec basse continue et de nombreuses variantes rythmiques à la voix, dans le <hi rend="italic">XXVIII. livre d'airs de differents auteurs</hi> (Paris, Christophe Ballard, 1685, f. 13-13v ; cf. LADDA 1685-10).</note>.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par <hi rend="i">Le Rossignol que l'on admire</hi>, doit regarder la page 149.</note>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par <hi rend="i">Le Rossignol que l'on admire</hi>, doit regarder la page 149.</note>
           <lg>
             <l rend="i">Le Rossignol que l'on admire,</l>
             <l rend="i">Et dont on vante tant la voix,</l>
@@ -37,6 +37,6 @@
           </figure>
         </ref>
       </div>
-        </body>
+    </body>
   </text>
 </TEI>

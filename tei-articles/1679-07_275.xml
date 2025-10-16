@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Vous vous plaindriez de mon peu de soin, si un autre que moy vous faisoit voir un Placet
-          qui a esté presenté au Roy depuis quelques jours par un ancien Officier, à qui Sa Majesté
-          donne pension. Il y avoit attaché un Ruban bleu d’où pendoit une Médaille de trente Loüis
-          d’or. Le Portrait du Roy estoit dans cette Médaille.</p>
+    <body>
+      <div>
+        <p>Vous vous plaindriez de mon peu de soin, si un autre que moy vous faisoit voir un Placet qui a esté presenté au Roy depuis quelques jours par un ancien Officier, à qui Sa Majesté donne pension. Il y avoit attaché un Ruban bleu d’où pendoit une Médaille de trente Loüis d’or. Le Portrait du Roy estoit dans cette Médaille.</p>
         <quote>
           <label type="head">Placet au Roy.</label>
           <l>CEtte Medaille, SIRE, est ma derniere Piece,</l>
@@ -34,13 +30,10 @@
           <l>Ordonnez, s’il vous plaist, SIRE, que l’on m’en donne ;</l>
           <l>Quoy que vieux Officier, j’ay la dent assez bonne,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Et pour comble de mes desirs,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Qu'ils soient de vos menus
-            plaisirs.</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Qu'ils soient de vos menus plaisirs.</l>
         </quote>
-        <p>Le Roy fit rendre la Médaille à l’Officier, &amp; sa Pension luy fut payée dans le mesme
-          temps sur l’argent qui s’appelle des Menus. Rien n’est plus avantageux qu’une
-          gratification sur ce Fond, puis qu’il ne faut point d’Ordonnance pour estre payé.</p>
+        <p>Le Roy fit rendre la Médaille à l’Officier, &amp; sa Pension luy fut payée dans le mesme temps sur l’argent qui s’appelle des Menus. Rien n’est plus avantageux qu’une gratification sur ce Fond, puis qu’il ne faut point d’Ordonnance pour estre payé.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

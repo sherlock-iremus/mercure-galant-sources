@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,9 +14,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Je vous ay parlé dans ma Lettre du dernier Mois des réjoüissances particulieres qui se sont faites en divers lieux du Royaume à l’occasion de la Paix d’Espagne. On ne s’est pas contenté à Montpellier d’allumer des Feux, &amp; d’y faire éclater toute la joye que font paroistre les Peuples dans ces sortes de rencontres. On y a preparé une maniere d’Opéra tres agreable, &amp; M<hi rend="sup">r</hi> de Sablieres qui en est l’Autheur<note resp="editor"> M. de Sablières est l'auteur de la musique et M. Broy l'auteur du livret (pour l'attribution des paroles, cf. <ref target="MG-1679-03_049">cet article</ref>.</note>, en a donné le divertissement pendant la tenuë des Etats de Languedoc, à Monsieur le Cardinal de Bonzi, qui comme vous sçavez est Président né de ceux qui s’y tiennent, en qualité d’Archevesque &amp; de Primat de Narbonne. Le Theatre representoit les Palais de la Renommée, de la Gloire, &amp; de Flore. Celuy de la Renommée estoit dans le fond. De hautes Tours le distinguoient des deux autres. On voyoit le Palais de la Gloire du costé droit, &amp; celuy de Flore du costé gauche, l’un figuré par des Trophées d’armes &amp; par des Arcs de triomphe ; &amp; l’autre, par des Guirlandes de Fleurs &amp; par des Vases d’Orangers. Des Palmes &amp; des Lauriers entremeslez de Mirtes &amp; de rameaux d’Oliviers, faisoient l’ornement des intervales de ces trois Palais. Dans le frontispice du Theatre estoient les Armes du Roy, celles de la Province de Languedoc, &amp; un Trophée d’Instrumens de Musique.</p>
         <p>Apres une grande Ouverture, on entendoit les fanfares de plusieurs Trompetes ; apres quoy on voyoit la Renommée qui descendoit en volant d’une des Tours de son Palais. La Gloire &amp; Flore paroissoient dans le mesme temps, suivies de Clio &amp; d’Erato. La premiere de ces Muses est dévoüée à la Gloire, &amp; l’autre préside aux Amours, qui ne regnent ordinairement que pendant la Paix. Les Déesses chantoient les Vers suivans, qui servoient de Prologue à cet Opéra</p>
         <quote rend="border">
@@ -404,6 +403,6 @@
         </quote>
         <p>Vous jugez bien, Madame, que cet assemblage de voix, &amp; de dances, n’a pû que produire un tres-agreable effet. Joignez à cela que tous ceux qui avoient bien voulu estre des Entrées, estoient des Personnes de qualité, à qui la naissance donnoit un je ne sçay quel air plus noble &amp; moins étudié, qu’il ne se trouve ordinairement dans ceux qui dancent de profession.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-    
-    <p>Une belle &amp; jeune Dame est en peine de sçavoir ce que luy veut faire entendre un de ses
-     Amis, par ces mots qui font la fin d’un Billet qu’elle en a reçeu. <hi rend="i">Adieu, Madame,
-      si je voulois vous dire la centiéme partie de ce que je pense, je n’aurois pas assez de
-      papier. ——— Ce trait vous dira le reste.</hi> Elle prie ceux qui s’apliquent à deviner les
-     Enigmes &amp; les Chifres du Mercure, d’avoir la bonté de luy expliquer ce que signifie cette
-     fin de Lettre qu’elle n’entend pas.</p>
-   </div>
-   </body>
+    <body>
+      <div>
+        <p>Une belle &amp; jeune Dame est en peine de sçavoir ce que luy veut faire entendre un de ses Amis, par ces mots qui font la fin d’un Billet qu’elle en a reçeu. <hi rend="i">Adieu, Madame, si je voulois vous dire la centiéme partie de ce que je pense, je n’aurois pas assez de papier. ——— Ce trait vous dira le reste.</hi> Elle prie ceux qui s’apliquent à deviner les Enigmes &amp; les Chifres du Mercure, d’avoir la bonté de luy expliquer ce que signifie cette fin de Lettre qu’elle n’entend pas.</p>
+      </div>
+    </body>
   </text>
 </TEI>

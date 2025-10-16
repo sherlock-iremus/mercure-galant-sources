@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Cette Chanson me fait ressouvenir d’un Dialogue que vous serez peut-estre bien aise
-          d’apprendre, quoy qu’il ne soit pas sur la prise de Mastric : Il a esté mis en Musique par
-          un grand Maistre, &amp; vous n’en douterez pas, quand vous sçaurez que c’est Monsieur
-          Vignon.</p>
+    <body>
+      <div>
+        <p>Cette Chanson me fait ressouvenir d’un Dialogue que vous serez peut-estre bien aise d’apprendre, quoy qu’il ne soit pas sur la prise de Mastric : Il a esté mis en Musique par un grand Maistre, &amp; vous n’en douterez pas, quand vous sçaurez que c’est Monsieur Vignon.</p>
         <quote rend="border">
           <label rend="center b">Dialogue d’un</label>
           <label rend="center b">Berger &amp; d’une Bergere.</label>
@@ -54,6 +50,6 @@
           <l>Et vivons &amp; mourons ensemble.</l>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Les paroles que vous allez lire ont esté mises en chant, par M<hi rend="sup">r</hi> Hurel, qui est dans une haute réputation pour bien montrer à jouër du Thuorbe, &amp; à bien chanter.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">J'aime tendrement Lisette</hi>, doit regarder la page 61.</note>
-          <lg><l rend="i">J'aime tendrement Lisette,</l>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">J'aime tendrement Lisette</hi>, doit regarder la page 61.</note>
+          <lg>
+            <l rend="i">J'aime tendrement Lisette,</l>
             <l rend="i">Et j'avois sceu l'engager.</l>
             <l rend="i">Cependant cette Follette</l>
             <l rend="i">Depuis peu me veut changer.</l>
@@ -28,7 +29,8 @@
             <l rend="i">Car si dans nostre Village</l>
             <l rend="i">Elle vient encor m'appeller</l>
             <l rend="i">Pour danser au boccage,</l>
-            <l rend="i">Je n'y voudray plus aller.</l></lg>
+            <l rend="i">Je n'y voudray plus aller.</l>
+          </lg>
         </quote>
         <ref target="images/1691-09_060.JPG">
           <figure>
@@ -36,6 +38,6 @@
           </figure>
         </ref>
       </div>
-        </body>
+    </body>
   </text>
 </TEI>

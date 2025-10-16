@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,19 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>En vous envoyant il y a un mois le Prologue de <hi rend="i">l'Amour Berger</hi><note resp="editor">Voir <ref target="MG-1683-04_138">cet article</ref>.</note>, Opéra en Pastorale, qu'une
-          Troupe d'illustre &amp; jeunes Acteurs a représenté ce Carnaval à l'Hôtel de Duras, je
-          vous en promis quelques Airs notez. Ainsi il est juste que je vous tienne parole. En voicy
-          un dans lequel vous reconnoistrez sans peine le génie de M<hi rend="sup">r</hi> de la
-          Lande, si estimé de tous ceux qui ont quelque goust pour la Musique. Les Paroles de cet
-          Air estoient chantées par une Bergere.</p>
+    <body>
+      <div>
+        <p>En vous envoyant il y a un mois le Prologue de <hi rend="i">l'Amour Berger</hi><note resp="editor">Voir <ref target="MG-1683-04_138">cet article</ref>.</note>, Opéra en Pastorale, qu'une Troupe d'illustre &amp; jeunes Acteurs a représenté ce Carnaval à l'Hôtel de Duras, je vous en promis quelques Airs notez. Ainsi il est juste que je vous tienne parole. En voicy un dans lequel vous reconnoistrez sans peine le génie de M<hi rend="sup">r</hi> de la Lande, si estimé de tous ceux qui ont quelque goust pour la Musique. Les Paroles de cet Air estoient chantées par une Bergere.</p>
         <quote>
-          <label>AIR.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les
-              Figures</hi> : l’Air qui commence par <hi rend="i">Bergers, qui murmurez de ces
-              rigueurs extrémes</hi>, doit regarder la page 176.</note>
+          <label>AIR.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Bergers, qui murmurez de ces rigueurs extrémes</hi>, doit regarder la page 176.</note>
           <l rend="i">Bergers, qui murmurez de ces rigueurs extrémes</l>
           <l rend="i"> Que nous avons souvent pour vous,</l>
           <l rend="i"> Ne vous plaignez jamais de nous,</l>
@@ -37,12 +30,7 @@
           <l rend="i"> Si nous pouvions toûjours contenter nos Amans.</l>
         </quote>
         <p/>
-        <p>Cet Opéra estoit divisé en trois Actes, diversifiez par les jalousies, &amp; par les
-          changemens dont l'amour estoit la cause. Dans les deux premieres Scenes, Daphnis &amp;
-          Philiste s'estant plaints de ce qu'Aminte leur préferoit le Berger Lisandre, &amp; cette
-          Bergere leur conseillant d'aller se signaler dans les Jeux, où tous les Bergers du
-          voisinage devoient montrer leur adresse ce jour-là ; Daphnis voyant qu'elle s'arrestoit
-          afin d'attendre Lisandre, expliquoit sa peine par ces Vers.</p>
+        <p>Cet Opéra estoit divisé en trois Actes, diversifiez par les jalousies, &amp; par les changemens dont l'amour estoit la cause. Dans les deux premieres Scenes, Daphnis &amp; Philiste s'estant plaints de ce qu'Aminte leur préferoit le Berger Lisandre, &amp; cette Bergere leur conseillant d'aller se signaler dans les Jeux, où tous les Bergers du voisinage devoient montrer leur adresse ce jour-là ; Daphnis voyant qu'elle s'arrestoit afin d'attendre Lisandre, expliquoit sa peine par ces Vers.</p>
         <quote>
           <l rend="i"> Allez, Bergers, dans ce Bocage,</l>
           <l rend="i">Vous qui vivez contens dans l'Empire amoureux.</l>
@@ -64,8 +52,7 @@
           <l rend="i">Je veux sur mon Rival gagner vostre tendresse,</l>
           <l rend="i">  Ou l'immoler à mon couroux.</l>
         </quote>
-        <p>Cette menace étonnant Aminte, elle s'en alloit avec Daphnis, sans qu'elle osast regarder
-          Lisandre ; ce qui faisoit dire à ce Berger,</p>
+        <p>Cette menace étonnant Aminte, elle s'en alloit avec Daphnis, sans qu'elle osast regarder Lisandre ; ce qui faisoit dire à ce Berger,</p>
         <quote>
           <l rend="i"> Elle me voit, elle me quite,</l>
           <l rend="i"> Je la cherche, elle me fuit ;</l>
@@ -98,8 +85,7 @@
           <l rend="i"> Mais il est malheureux</l>
           <l rend="i"> Autant qu'il est amoureux.</l>
         </quote>
-        <p>L'Echo repétoit ces quatre derniers Vers, &amp; Céladon survenant, faisoit entendre
-          ceux-cy.</p>
+        <p>L'Echo repétoit ces quatre derniers Vers, &amp; Céladon survenant, faisoit entendre ceux-cy.</p>
         <quote>
           <l rend="i">Errez à vostre gré dans ce sombre Bocage,</l>
           <l rend="i"> Moutons, perdez-vous dans ces Bois,</l>
@@ -139,8 +125,7 @@
           <l rend="i">    Et par mille détours</l>
           <l rend="i">Elle fait ce que font les naissantes amours.</l>
         </quote>
-        <p>Janot entroit, chantant &amp; dançant, &amp; se moquoit par ces Vers de ces deux Amans
-          jaloux.</p>
+        <p>Janot entroit, chantant &amp; dançant, &amp; se moquoit par ces Vers de ces deux Amans jaloux.</p>
         <quote>
           <l rend="i"> Eh, comme vous faites tous deux !</l>
           <l rend="i"> J'admire vostre triste mine.</l>
@@ -175,8 +160,7 @@
           <l rend="i"> Je dirois à Cloris,</l>
           <l rend="i"> Nargue de vos mépris.</l>
         </quote>
-        <p>Cloris estant entrée, Céladon &amp; Philiste se retiroient, &amp; Janot demeuré seul avec
-          elle, chantoit ces Vers.</p>
+        <p>Cloris estant entrée, Céladon &amp; Philiste se retiroient, &amp; Janot demeuré seul avec elle, chantoit ces Vers.</p>
         <quote>
           <l rend="i"> Que dans ce beau sejour</l>
           <l rend="i"> La vie est diférente</l>
@@ -212,8 +196,7 @@
           <l rend="i">Apprennent aux desirs</l>
           <l rend="i">L'usage des plaisirs.</l>
         </quote>
-        <p>Un Entrée de Plaisirs faisoit l'Intermede de ce premier Acte. Apres qu'ils avoient dancé,
-          un Plaisir chantoit ces Vers.</p>
+        <p>Un Entrée de Plaisirs faisoit l'Intermede de ce premier Acte. Apres qu'ils avoient dancé, un Plaisir chantoit ces Vers.</p>
         <quote>
           <l rend="i"> Chacun de nous a son partage,</l>
           <l rend="i">  Et nos soins diférens</l>
@@ -225,8 +208,7 @@
           <l rend="i"> Mais les plaisirs les plus charmans</l>
           <l rend="i"> Sont les plaisirs des vrais Amans.</l>
         </quote>
-        <p>M<hi rend="sup">r</hi> le Marquis de Grignan dançoit icy une Entrée seul, &amp; ensuite
-          un Plaisir badin chantoit ces Vers.</p>
+        <p>M<hi rend="sup">r</hi> le Marquis de Grignan dançoit icy une Entrée seul, &amp; ensuite un Plaisir badin chantoit ces Vers.</p>
         <quote>
           <l rend="i"> Les plus charmans plaisirs</l>
           <l rend="i">Dégoustent souvent davantage ;</l>
@@ -234,21 +216,15 @@
           <l rend="i">Veulent un peu de badinage,</l>
           <l rend="i"> Pour combler les desirs.</l>
         </quote>
-        <p>Janot dançoit seul une Entrée burlesque, qui estoit suivie de la grande Entrée de
-          plusieurs Plaisirs diférens.</p>
-        <p>Dans le second Acte, Aminte suivie partout de Daphnis, rencontroit Lisandre qui luy
-          apprenoit que ses Parens consentoient qu'elle donnast à luy. Cette Bergere, à qui Daphnis
-          reïtéroit tout bas les menaces de perdre Lisandre, si elle luy faisoit connoistre qu'elle
-          l'aimast, se tournoit du costé de Daphnis sans oser répondre à son Amant ; ce qui faisoit
-          dire à Lisandre apres quelques plaintes.</p>
+        <p>Janot dançoit seul une Entrée burlesque, qui estoit suivie de la grande Entrée de plusieurs Plaisirs diférens.</p>
+        <p>Dans le second Acte, Aminte suivie partout de Daphnis, rencontroit Lisandre qui luy apprenoit que ses Parens consentoient qu'elle donnast à luy. Cette Bergere, à qui Daphnis reïtéroit tout bas les menaces de perdre Lisandre, si elle luy faisoit connoistre qu'elle l'aimast, se tournoit du costé de Daphnis sans oser répondre à son Amant ; ce qui faisoit dire à Lisandre apres quelques plaintes.</p>
         <quote>
           <l rend="i">Elle me fuit, mes soins sont superflus.</l>
           <l rend="i"> Ah, qu'il est cruel quand on aime,</l>
           <l rend="i"> Et qu'on estoit aimé de mesme,</l>
           <l rend="i">Qu'il est cruel de voir qu'on ne l'est plus !</l>
         </quote>
-        <p>Aminte contrainte par la présence de Daphnis, quitoit Lisandre, apres luy avoir dit ces
-          paroles ambiguës.</p>
+        <p>Aminte contrainte par la présence de Daphnis, quitoit Lisandre, apres luy avoir dit ces paroles ambiguës.</p>
         <quote>
           <l rend="i"> Berger, l'amour est un martire</l>
           <l rend="i">Qui ne laisse jamais un repos assuré.</l>
@@ -259,8 +235,7 @@
           <l rend="i"> Quoy qu'il ait ce qu'il desire.</l>
           <l rend="i"> C'est tout ce que je puis dire.</l>
         </quote>
-        <p>Aminte &amp; Daphnis s'estant retirez, Lisandre desesperé des fausses rigueurs de sa
-          Maîtresse, disoit à Philiste qui survenoit.</p>
+        <p>Aminte &amp; Daphnis s'estant retirez, Lisandre desesperé des fausses rigueurs de sa Maîtresse, disoit à Philiste qui survenoit.</p>
         <quote>
           <lg>
             <l rend="i">Berger, vous le sçavez, elle estoit satisfaite</l>
@@ -283,9 +258,7 @@
             <l rend="i">  Le bonheur de la charmer.</l>
           </lg>
         </quote>
-        <p>Philiste s'estant consolé de l'inconstance d'Aminte, par le dessein de préferer Bacchus à
-          l'Amour, voyoit Cloris qu'il avoit autrefois aimée, &amp; qui s'avançoit en chantant ces
-          Vers.</p>
+        <p>Philiste s'estant consolé de l'inconstance d'Aminte, par le dessein de préferer Bacchus à l'Amour, voyoit Cloris qu'il avoit autrefois aimée, &amp; qui s'avançoit en chantant ces Vers.</p>
         <quote>
           <l rend="i">  Que mon Berger difére</l>
           <l rend="i"> A revenir sur ce Côteau !</l>
@@ -297,19 +270,14 @@
           <l rend="i">   A celuy de plaire</l>
           <l rend="i">   A sa Bergere.</l>
         </quote>
-        <p>Philiste ayant feint d'aimer de nouveau Cloris, &amp; Cloris doutant qu'il fust capable
-          de reprendre ses premieres chaînes, ils voyoient entrer Tircis ; &amp; fur ce que Philiste
-          proposoit à Cloris de le choisir pour Arbitre de leur diférent, Cloris répondoit parlant
-          de Tircis.</p>
+        <p>Philiste ayant feint d'aimer de nouveau Cloris, &amp; Cloris doutant qu'il fust capable de reprendre ses premieres chaînes, ils voyoient entrer Tircis ; &amp; fur ce que Philiste proposoit à Cloris de le choisir pour Arbitre de leur diférent, Cloris répondoit parlant de Tircis.</p>
         <quote>
           <l rend="i"> Il est honneste, il est aimable,</l>
           <l rend="i"> Mais il craint trop de s'enflâmer.</l>
           <l rend="i">  Quand on ne sçait pas aimer,</l>
           <l rend="i">On ne peut en amour estre un juge équitable.</l>
         </quote>
-        <p>L'Amour qui s'estoit déguisé en Berger sous le nom de Tircis, prenoit le dessein de
-          toucher Cloris en faveur de Céladon qui avoit esté abandonné d'Iris, &amp; changeoit son
-          coeur, en luy disant,</p>
+        <p>L'Amour qui s'estoit déguisé en Berger sous le nom de Tircis, prenoit le dessein de toucher Cloris en faveur de Céladon qui avoit esté abandonné d'Iris, &amp; changeoit son coeur, en luy disant,</p>
         <quote>
           <l rend="i">Changez, jeune Bergere,</l>
           <l rend="i">Goustez le changement.</l>
@@ -324,10 +292,7 @@
           <l rend="i">Que le commencement</l>
           <l rend="i">D'une amour nouvelle.</l>
         </quote>
-        <p>Cloris sentant tout-à-coup son cœur charmé, se déclaroit pour Céladon qu'on voyoit
-          paroistre ; ce qui obligeoit Philiste de s'affermir dans la résolution de ne donner plus
-          ses soins qu'à Bacchus. Céladon l'ayant assurée de son amour si elle ne changeoit pas
-          comme Iris, Cloris luy disoit,</p>
+        <p>Cloris sentant tout-à-coup son cœur charmé, se déclaroit pour Céladon qu'on voyoit paroistre ; ce qui obligeoit Philiste de s'affermir dans la résolution de ne donner plus ses soins qu'à Bacchus. Céladon l'ayant assurée de son amour si elle ne changeoit pas comme Iris, Cloris luy disoit,</p>
         <quote>
           <l rend="i"> Je ne puis plus le cacher,</l>
           <l rend="i">  Je vous aime,</l>
@@ -340,10 +305,7 @@
           <l rend="i">Quand on a le pouvoir de faire</l>
           <l rend="i"> Un pareil changement.</l>
         </quote>
-        <p>Cloris s'éloignoit à l'arrivée de Janot qu'elle abandonnoit pour Céladon ; &amp; Céladon
-          que Janot avoit raillé dans le premier Acte sur sa jalousie, le railloit à son tour, en
-          luy apprenant qu'il estoit aimé de Cloris. L'Intermede de cet Acte estoit une Entrée de
-          Païsans, conduits par l'Amour déguisé en Païsan. L'Amour chantoit ce Couplet.</p>
+        <p>Cloris s'éloignoit à l'arrivée de Janot qu'elle abandonnoit pour Céladon ; &amp; Céladon que Janot avoit raillé dans le premier Acte sur sa jalousie, le railloit à son tour, en luy apprenant qu'il estoit aimé de Cloris. L'Intermede de cet Acte estoit une Entrée de Païsans, conduits par l'Amour déguisé en Païsan. L'Amour chantoit ce Couplet.</p>
         <quote>
           <l rend="i">Prenons comme eux un air rustique,</l>
           <l rend="i"> Habillons-nous simplement ;</l>
@@ -354,9 +316,7 @@
           <l rend="i">N'est pas toûjours le plus charmant.</l>
         </quote>
         <p>L'Intermede finissoit par une Dance de Païsanes conduites par Janot.</p>
-        <p>Au commencement du troisiéme Acte, Aminte s'estant dérobée de Daphnis, cherchoit Lisandre
-          pour luy découvrir la cause des rigueurs qu'elle avoit esté forcée d'affecter, &amp; le
-          trouvant assis au pied d'un Arbre, elle luy disoit,</p>
+        <p>Au commencement du troisiéme Acte, Aminte s'estant dérobée de Daphnis, cherchoit Lisandre pour luy découvrir la cause des rigueurs qu'elle avoit esté forcée d'affecter, &amp; le trouvant assis au pied d'un Arbre, elle luy disoit,</p>
         <quote>
           <l rend="i"> Lisandre, vostre incertitude</l>
           <l rend="i">Me fait soufrir un mal pire que le trépas.</l>
@@ -367,11 +327,7 @@
           <l rend="i">   S'il en couste de le dire,</l>
           <l rend="i">Qu'il est dur de le dire à qui ne le croit pas !</l>
         </quote>
-        <p>Lisandre ayant appris le dessein qu'avoit Daphnis de l'immoler à sa jalousie, voyoit
-          avancer ce Rival les armes à la main, &amp; il se faisoit un combat de Bergers, dans
-          lequel l'Amour rendoit Lisandre vainqueur. Daphnis desarmé fuyoit de honte ; &amp;
-          Lisandre priant Aminte d'estre favorable à ses espérances, apres ce que luy avoient promis
-          ses Parens, elle répondoit,</p>
+        <p>Lisandre ayant appris le dessein qu'avoit Daphnis de l'immoler à sa jalousie, voyoit avancer ce Rival les armes à la main, &amp; il se faisoit un combat de Bergers, dans lequel l'Amour rendoit Lisandre vainqueur. Daphnis desarmé fuyoit de honte ; &amp; Lisandre priant Aminte d'estre favorable à ses espérances, apres ce que luy avoient promis ses Parens, elle répondoit,</p>
         <quote>
           <l rend="i">Un respect constant &amp; sincere</l>
           <l rend="i">M'attache aux ordres d'un Pere,</l>
@@ -436,23 +392,18 @@
             <l rend="i">Vous en gousterez mieux la charmante douceur.</l>
           </lg>
         </quote>
-        <p>L'Intermede de cet Acte estoit une Entrée de Jeux. Apres une Chacone dancée à huit, &amp;
-          conduite par M<hi rend="sup">r</hi> le Comte de Duras, ce Comte dançoit une entrée luy
-          seul, sur l'Air de laquelle on chantoit ces Vers.</p>
+        <p>L'Intermede de cet Acte estoit une Entrée de Jeux. Apres une Chacone dancée à huit, &amp; conduite par M<hi rend="sup">r</hi> le Comte de Duras, ce Comte dançoit une entrée luy seul, sur l'Air de laquelle on chantoit ces Vers.</p>
         <quote>
           <l rend="i"> Un amour favorable</l>
           <l rend="i">Nous seconde avant le temps ;</l>
           <l rend="i"> On est longtemps aimable,</l>
           <l rend="i">Quand on l'est devant douze ans.</l>
         </quote>
-        <p>Il y avoit une derniere Entrée à dix Personnes. Elle finissoit par un Ménüet figuré, que
-          dançoient cinq Bergers, &amp; cinq Bergeres.</p>
-        <p>Voicy encore un Couplet que je vous envoye noté. La Bergere Aminte le chantoit, apres
-          qu'elle avoit veu Daphnis vaincu par Lisandre.</p>
+        <p>Il y avoit une derniere Entrée à dix Personnes. Elle finissoit par un Ménüet figuré, que dançoient cinq Bergers, &amp; cinq Bergeres.</p>
+        <p>Voicy encore un Couplet que je vous envoye noté. La Bergere Aminte le chantoit, apres qu'elle avoit veu Daphnis vaincu par Lisandre.</p>
         <quote>
-          <label>AIR.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les
-              Figures</hi> : l’Air qui commence par <hi rend="i">C'est une douceur sans
-            seconde</hi>, doit regarder la page 205.</note>
+          <label>AIR.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">C'est une douceur sans seconde</hi>, doit regarder la page 205.</note>
           <l rend="i"> C'est une douceur sans seconde,</l>
           <l rend="i"> Quand on aime tendrement,</l>
           <l rend="i"> De s'éloigner de tout le monde,</l>
@@ -462,28 +413,7 @@
           <l rend="i"> L'Amour accable qui l'offense,</l>
           <l rend="i">Et les rivaux fâcheux ne sont que trop punis.</l>
         </quote>
-        <p>Je vous ay marqué dans une autre Lettre, que les Vers de cet Opéra, sont de la mesme
-          Personne qui nous a donné depuis des mois <hi rend="i">La Politique des Amans</hi>,
-          Ouvrage fort estimé. M<hi rend="sup">r</hi> le Comte de Duras, Fils de M<hi rend="sup">r</hi> le Maréchal Duc de Duras, Capitaine des Gardes du Corps, y représentoit
-          Lisandre. Il est parfaitement beau, dance tres-bien, &amp; a un teint que les plus belles
-          Femmes regardent avec envie. M<hi rend="sup">r</hi> le Comte de Teride, second Fils de
-            M<hi rend="sup">r</hi> le Marquis de Mirepoix, Gouverneur de la Province de Foix,
-          Senéchal de Beziers, de Carcassonne, de Limours, &amp; de Pamiers, faisoit Daphnis, &amp;
-          s'aquita de ce rôle avec beaucoup d'agrément. Ceux de Philiste &amp; de Céladon, furent
-          joüez par M<hi rend="sup">r</hi> le Marquis de Grignan, &amp; par M<hi rend="sup">r</hi>
-          de la Martelliere, qui s'attirerent beaucoup d'aplaudissemens. Le premier est Fils de M<hi rend="sup">r</hi> le Comte de Grignan, seul Lieutenant General pour le Roy en Provence.
-          Il représentoit Philiste, &amp; ce fut avec le plus aimable enjoüement du monde, qu'il
-          soûtint le caractere d'un Berger qui quite l'Amour pour suivre Bacchus. L'autre est Fils
-          de feu M<hi rend="sup">r</hi> de la Martelliere, Maistre des Requestes, &amp; a pres de
-          soixante mille livres de rente, &amp; beaucoup de Gens de qualité pour Parens. M<hi rend="sup">r</hi> le Marquis de Vins, Fils de M<hi rend="sup">r</hi> le Marquis de Vins,
-          Sous-Lieutenant de la Compagnie des Mousquetaires Noirs, se fit admirer dans le rôle de
-          l'Amour. Il en avoit la beauté, la taille, &amp; la hardiesse. Il y avoit six jolies
-          Actrices, à peu prés de l'âge de ces aimables Acteurs. L'une estoit la petite Mademoiselle
-          Laurens, qui ne fut pas un petit ornement pour cet Opéra. Elle chanta bien, dança de
-          mesme, &amp; ne fut pas moins bonne Actrice dans la Pastorale. La petite Mademoiselle le
-          Clerc se distingua fort aussi, en dançant avec la justesse, &amp; la disposition qu'elle a
-          fait paroistre au <hi rend="i">Triomphe de l'Amour</hi>, à <hi rend="i">Proserpine</hi>,
-          &amp; à <hi rend="i">Persée</hi>.</p>
+        <p>Je vous ay marqué dans une autre Lettre, que les Vers de cet Opéra, sont de la mesme Personne qui nous a donné depuis des mois <hi rend="i">La Politique des Amans</hi>, Ouvrage fort estimé. M<hi rend="sup">r</hi> le Comte de Duras, Fils de M<hi rend="sup">r</hi> le Maréchal Duc de Duras, Capitaine des Gardes du Corps, y représentoit Lisandre. Il est parfaitement beau, dance tres-bien, &amp; a un teint que les plus belles Femmes regardent avec envie. M<hi rend="sup">r</hi> le Comte de Teride, second Fils de M<hi rend="sup">r</hi> le Marquis de Mirepoix, Gouverneur de la Province de Foix, Senéchal de Beziers, de Carcassonne, de Limours, &amp; de Pamiers, faisoit Daphnis, &amp; s'aquita de ce rôle avec beaucoup d'agrément. Ceux de Philiste &amp; de Céladon, furent joüez par M<hi rend="sup">r</hi> le Marquis de Grignan, &amp; par M<hi rend="sup">r</hi> de la Martelliere, qui s'attirerent beaucoup d'aplaudissemens. Le premier est Fils de M<hi rend="sup">r</hi> le Comte de Grignan, seul Lieutenant General pour le Roy en Provence. Il représentoit Philiste, &amp; ce fut avec le plus aimable enjoüement du monde, qu'il soûtint le caractere d'un Berger qui quite l'Amour pour suivre Bacchus. L'autre est Fils de feu M<hi rend="sup">r</hi> de la Martelliere, Maistre des Requestes, &amp; a pres de soixante mille livres de rente, &amp; beaucoup de Gens de qualité pour Parens. M<hi rend="sup">r</hi> le Marquis de Vins, Fils de M<hi rend="sup">r</hi> le Marquis de Vins, Sous-Lieutenant de la Compagnie des Mousquetaires Noirs, se fit admirer dans le rôle de l'Amour. Il en avoit la beauté, la taille, &amp; la hardiesse. Il y avoit six jolies Actrices, à peu prés de l'âge de ces aimables Acteurs. L'une estoit la petite Mademoiselle Laurens, qui ne fut pas un petit ornement pour cet Opéra. Elle chanta bien, dança de mesme, &amp; ne fut pas moins bonne Actrice dans la Pastorale. La petite Mademoiselle le Clerc se distingua fort aussi, en dançant avec la justesse, &amp; la disposition qu'elle a fait paroistre au <hi rend="i">Triomphe de l'Amour</hi>, à <hi rend="i">Proserpine</hi>, &amp; à <hi rend="i">Persée</hi>.</p>
         <ref target="images/1683-05_175x.JPG">
           <figure>
             <graphic url="images/1683-05_175x.JPG"/>
@@ -495,6 +425,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

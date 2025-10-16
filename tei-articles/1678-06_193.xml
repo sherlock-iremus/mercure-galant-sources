@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>La Place de M<hi rend="sup">r</hi> l’Abbé de la Barre, Organiste ordinaire de la Chapelle
-          du Roy, a esté remplie. Plusieurs furent proposez quand il fut question de la donner,
-          &amp; l’on fit joüer les plus habiles Maistres de France. On en trouva beaucoup
-          d’excellens, &amp; le Roy en demeura si satisfait, qu’il en choisit quatre au lieu d’un.
-          Ainsi cette Charge qui estoit Ordinaire, va estre servie par quartier. Le premier, qui est
-          celuy de Janvier, sera servy par M<hi rend="sup">r</hi> Tomelin ; le second, par M<hi rend="sup">r</hi> le Begue ; le troisiéme, par M<hi rend="sup">r</hi> Buterne ; &amp; le
-          dernier, par M<hi rend="sup">r</hi> Nivers.</p>
+    <body>
+      <div>
+        <p>La Place de M<hi rend="sup">r</hi> l’Abbé de la Barre, Organiste ordinaire de la Chapelle du Roy, a esté remplie. Plusieurs furent proposez quand il fut question de la donner, &amp; l’on fit joüer les plus habiles Maistres de France. On en trouva beaucoup d’excellens, &amp; le Roy en demeura si satisfait, qu’il en choisit quatre au lieu d’un. Ainsi cette Charge qui estoit Ordinaire, va estre servie par quartier. Le premier, qui est celuy de Janvier, sera servy par M<hi rend="sup">r</hi> Tomelin ; le second, par M<hi rend="sup">r</hi> le Begue ; le troisiéme, par M<hi rend="sup">r</hi> Buterne ; &amp; le dernier, par M<hi rend="sup">r</hi> Nivers.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

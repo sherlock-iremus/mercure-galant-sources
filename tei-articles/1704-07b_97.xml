@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-          
-          <p>Les Chartreux avoient chanté le même jour un <hi rend="i">Te Deum</hi>, avant leur Grande Messe, ils firent le soir un tres beau feu, la portion fut doublée ce jour-là aux Religieux, &amp; ils eurent permission d’aller par extraordinaire dans leur <hi rend="i">Spatiement</hi>, qui est un lieu où ils vont ordinairement promener à certains jours de la Semaine.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>Les Chartreux avoient chanté le même jour un <hi rend="i">Te Deum</hi>, avant leur Grande Messe, ils firent le soir un tres beau feu, la portion fut doublée ce jour-là aux Religieux, &amp; ils eurent permission d’aller par extraordinaire dans leur <hi rend="i">Spatiement</hi>, qui est un lieu où ils vont ordinairement promener à certains jours de la Semaine.</p>
+      </div>
+    </body>
   </text>
 </TEI>

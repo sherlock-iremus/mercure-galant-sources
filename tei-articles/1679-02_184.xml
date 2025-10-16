@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,9 +14,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Il n’y a rien de plus commun que les ruptures, mais on en voit peu arriver pour une occasion aussi foible que celle que j’ay à vous conter. Un Cavalier qui voyoit une Dame d’une fort grande laideur, mais dont l’esprit luy plaisoit, se trouvant il y a dix ou douze jours avec cinq ou six de ses Amis, l’un d’eux chanta le Menuet de l’Opéra de Bellérophon, dont ces paroles font un Couplet.</p>
         <quote rend="border">
           <l>Que sert la fierté dans les Belles ?</l>
@@ -112,6 +111,6 @@
         </quote>
         <p>Ces Vers estant d’une veine aisée n’ont pas manqué de courir. La Laide spirituelle les a vûs, &amp; a crû se faire honneur d’en prendre le prétexte de rompre avec le Cavalier qui les a faits. Quand on luy en a demandé la raison, elle a répondu qu’elle ne croyoit pas qu’une Femme raisonnable pust recevoir aucune visite d’un Homme qui établissoit pour maxime, qu’il ne falloit qu’être un peu hardy pour se mettre en commerce de faveurs avec les Dames. Une jeune &amp; fort aimable Marquise, qui ne garde aucunes mesures avec elle, luy ayant entendu faire ce raisonnement, n’a pû résister à la tentation de luy dire qu’elle estoit bonne de prendre ainsi l’interest du Sexe, puis que ces Vers n’avoient rien qui la regardast. Comme elle a beaucoup d’esprit, elle n’a pas voulu se faire expliquer qu’elle estoit trop laide pour faire soupçonner que personne prétendist à ses faveurs. Elle s’est contentée de demeurer ferme dans la rupture, &amp; quoy qu’on luy ait pû dire, elle n’a plus voulu voir le Cavalier.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

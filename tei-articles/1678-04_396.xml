@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Quant à la seconde Enigme, vous en trouverez le Mot dans le Sonnet que voicy. Il fut fait
-          autrefois en envoyant des <hi rend="i">Volants</hi> à une jeune &amp; belle Personne de la
-          premiere qualité, qui est aujourd’huy Madame la Comtesse de Poitiers, de la
-          Franche-Comté.</p>
+    <body>
+      <div>
+        <p>Quant à la seconde Enigme, vous en trouverez le Mot dans le Sonnet que voicy. Il fut fait autrefois en envoyant des <hi rend="i">Volants</hi> à une jeune &amp; belle Personne de la premiere qualité, qui est aujourd’huy Madame la Comtesse de Poitiers, de la Franche-Comté.</p>
         <label rend="center">Sonnet.</label>
         <lg>
           <l>Petits Volans allez aupres de cette Belle,</l>
@@ -45,6 +41,6 @@
           <l>Puis que sa belle main le ressussiteroit ?</l>
         </lg>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

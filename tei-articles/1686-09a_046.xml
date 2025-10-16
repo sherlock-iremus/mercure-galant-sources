@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,26 +14,25 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p/>
-          <p>Dans le mesme temps, M<hi rend="sup">r</hi> Doujat, Doyen de l’Academie Françoise, fit ce Madrigal sur le mesme sujet.</p>
-          <quote>
-            <label>MADRIGAL.</label>
-            <lg>
-              <l rend="i"> Arrêtons desormais nos larmes,</l>
-              <l rend="i"> Elles ne sont point de saison,</l>
-              <l rend="i">Le Ciel donne à LOUIS l’entiere guerison</l>
-              <l rend="i"> Du mal qui causoit nos alarmes.</l>
-              <l rend="i">Grand Dieu, qui de la France es l’éternel appuy,</l>
-              <l rend="i">Qu’au delà de Nestor nostre Monarque vive ;</l>
-              <l rend="i">C’est l’unique souhait qu’elle forme aujourd’huy.</l>
-              <l rend="i"> Si ce bien par toy nous arrive,</l>
-              <l rend="i"> Le reste nous viendra par luy.</l>
-            </lg>
-          </quote>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p/>
+        <p>Dans le mesme temps, M<hi rend="sup">r</hi> Doujat, Doyen de l’Academie Françoise, fit ce Madrigal sur le mesme sujet.</p>
+        <quote>
+          <label>MADRIGAL.</label>
+          <lg>
+            <l rend="i"> Arrêtons desormais nos larmes,</l>
+            <l rend="i"> Elles ne sont point de saison,</l>
+            <l rend="i">Le Ciel donne à LOUIS l’entiere guerison</l>
+            <l rend="i"> Du mal qui causoit nos alarmes.</l>
+            <l rend="i">Grand Dieu, qui de la France es l’éternel appuy,</l>
+            <l rend="i">Qu’au delà de Nestor nostre Monarque vive ;</l>
+            <l rend="i">C’est l’unique souhait qu’elle forme aujourd’huy.</l>
+            <l rend="i"> Si ce bien par toy nous arrive,</l>
+            <l rend="i"> Le reste nous viendra par luy.</l>
+          </lg>
+        </quote>
+      </div>
+    </body>
   </text>
 </TEI>

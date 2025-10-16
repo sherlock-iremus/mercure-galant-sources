@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,19 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-
-          
-          <p>Je croy ne pouvoir mieux commencer ma Lettre qu’en vous disant qu’il paroist depuis peu
-            un Livre intitulé <hi rend="i">Discours historique du Regne de</hi>
-            <hi rend="sc">Louis le Grand</hi>, XIV. <hi rend="i">du nom, Roy de France &amp; de
-              Navarre</hi>. Cet Ouvrage merite l’attention de tous ceux qui aiment le Roy,
-            c’est-à-dire de tous ses Sujets ; jamais Souverain n’ayant esté plus digne de
-            leur estime &amp; de leur amour. M<hi rend="sup">r</hi> Mirat de la Tour, Gouverneur de
-            Tulles, est l’Auteur de ce Livre. Il se vend chez le sieur Jean-Baptiste Coignard, ruë
-            Saint Jacques, à la Bible d’or.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>Je croy ne pouvoir mieux commencer ma Lettre qu’en vous disant qu’il paroist depuis peu un Livre intitulé <hi rend="i">Discours historique du Regne de</hi> <hi rend="sc">Louis le Grand</hi>, XIV. <hi rend="i">du nom, Roy de France &amp; de Navarre</hi>. Cet Ouvrage merite l’attention de tous ceux qui aiment le Roy, c’est-à-dire de tous ses Sujets ; jamais Souverain n’ayant esté plus digne de leur estime &amp; de leur amour. M<hi rend="sup">r</hi> Mirat de la Tour, Gouverneur de Tulles, est l’Auteur de ce Livre. Il se vend chez le sieur Jean-Baptiste Coignard, ruë Saint Jacques, à la Bible d’or.</p>
+      </div>
+    </body>
   </text>
 </TEI>

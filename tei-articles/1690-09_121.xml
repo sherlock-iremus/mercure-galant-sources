@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,19 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
-        <p>Je ne vous parleray point d'un Feu d'artifice qui a esté fait à Uzez dans la mesme
-          occasion par l'ordre de M<hi rend="sup">r</hi> l'Evesque, ny d'un Soupé magnifique de
-          cinquante Couverts, qu'il donna ensuite à toute la Noblesse du Pays. Je vous diray
-          seulement que le bruit de cette Feste ayant attiré un fort grand nombre de nouveaux
-          Convertis, la Cathedrale s'en trouva toute remplie dans le temps du <hi rend="sc">Te
-            Deum</hi>. Il fut chanté en Musique en presence des Corps de Ville &amp; de Justice,
-          &amp; ce Prelat avant que de se revestir de ses habits Pontificaux, alla s'asseoir au
-          Fauteuil dont il se sert ordinairement pour entendre le Sermon &amp; fit le discours qui
-          suit. [...]</p>
+    <body>
+      <div>
+        <p>Je ne vous parleray point d'un Feu d'artifice qui a esté fait à Uzez dans la mesme occasion par l'ordre de M<hi rend="sup">r</hi> l'Evesque, ny d'un Soupé magnifique de cinquante Couverts, qu'il donna ensuite à toute la Noblesse du Pays. Je vous diray seulement que le bruit de cette Feste ayant attiré un fort grand nombre de nouveaux Convertis, la Cathedrale s'en trouva toute remplie dans le temps du <hi rend="sc">Te Deum</hi>. Il fut chanté en Musique en presence des Corps de Ville &amp; de Justice, &amp; ce Prelat avant que de se revestir de ses habits Pontificaux, alla s'asseoir au Fauteuil dont il se sert ordinairement pour entendre le Sermon &amp; fit le discours qui suit. [...]</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

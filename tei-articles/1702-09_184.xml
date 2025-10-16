@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,23 +14,34 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p>Une Dame de Cremone qui entend parfaitement bien la Langue Françoise, a fait les Vers suivans sur le Combat de Luzzara.</p>
-          <quote>
-            <lg>
-              <l><hi rend="i">Que de prodiges inoüis,</hi></l>
-              <l><hi rend="i">Philippes semblable à Louis</hi></l>
-              <l><hi rend="i">Entasse chaque jour victoire sur victoire :</hi></l>
-              <l> <hi rend="i">Je voudrois celebrer sa gloire.</hi></l>
-              <l><hi rend="i">Mais quand je vois Crequi dans le sein du Tombeau</hi></l>
-              <l><hi rend="i">De mes premiers transports je ne suis pas le maistre,</hi></l>
-              <l><hi rend="i">Ah, Prince, vos Lauriers demandoient-ils pour croistre</hi></l>
-              <l> <hi rend="i">D’estre arrosez d’un sang si beau.</hi></l>
-            </lg>
-          </quote>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>Une Dame de Cremone qui entend parfaitement bien la Langue Françoise, a fait les Vers suivans sur le Combat de Luzzara.</p>
+        <quote>
+          <lg>
+            <l>
+              <hi rend="i">Que de prodiges inoüis,</hi>
+            </l>
+            <l>
+              <hi rend="i">Philippes semblable à Louis</hi>
+            </l>
+            <l>
+              <hi rend="i">Entasse chaque jour victoire sur victoire :</hi>
+            </l>
+            <l> <hi rend="i">Je voudrois celebrer sa gloire.</hi></l>
+            <l>
+              <hi rend="i">Mais quand je vois Crequi dans le sein du Tombeau</hi>
+            </l>
+            <l>
+              <hi rend="i">De mes premiers transports je ne suis pas le maistre,</hi>
+            </l>
+            <l>
+              <hi rend="i">Ah, Prince, vos Lauriers demandoient-ils pour croistre</hi>
+            </l>
+            <l> <hi rend="i">D’estre arrosez d’un sang si beau.</hi></l>
+          </lg>
+        </quote>
+      </div>
+    </body>
   </text>
 </TEI>

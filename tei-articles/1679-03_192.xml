@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Il [le public] a esté fort
-          favorable à deux Quadrains qui ont couru de la façon du Fils d’un Auditeur de la Chambre
-          des Comptes de Dijon. Une Dame luy reprocha dans un Bal, qu’il estoit sorty de cadence,
-          &amp; il fit l’Inpromptu qui suit sur ce reproche.</p>
+    <body>
+      <div>
+        <p>Il [le public] a esté fort favorable à deux Quadrains qui ont couru de la façon du Fils d’un Auditeur de la Chambre des Comptes de Dijon. Une Dame luy reprocha dans un Bal, qu’il estoit sorty de cadence, &amp; il fit l’Inpromptu qui suit sur ce reproche.</p>
         <quote>
           <label>Inpromptu.</label>
           <l>Lors que je vous vois dans la Danse</l>
@@ -35,6 +31,6 @@
           <l>Ne sçait plus sur quel pied danser.</l>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

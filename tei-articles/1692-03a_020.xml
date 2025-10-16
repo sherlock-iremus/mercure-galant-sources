@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Aprés vous avoir parlé des plaisirs de la Cour, vous ne serez pas fâchée de voir une
-          image de ceux de la Vie champestre. Vous la trouverez dans les Vers qui suivent. C’est une
-          traduction de l’Ode d’Horace, qui commence par, <hi rend="i">Beatus ille qui procul
-            negociis</hi>. Elle est de M<hi rend="sup">r</hi> de Saint Ouën de Caën.</p>
+    <body>
+      <div>
+        <p>Aprés vous avoir parlé des plaisirs de la Cour, vous ne serez pas fâchée de voir une image de ceux de la Vie champestre. Vous la trouverez dans les Vers qui suivent. C’est une traduction de l’Ode d’Horace, qui commence par, <hi rend="i">Beatus ille qui procul negociis</hi>. Elle est de M<hi rend="sup">r</hi> de Saint Ouën de Caën.</p>
         <quote>
           <label>LOUANGES DE LA VIE<lb/>CHAMPESTRE.</label>
           <lg>
@@ -29,10 +25,14 @@
             <l rend="i">Le chagrin dans son cœur ne trouve aucun accés ;</l>
             <l rend="i">Comme il n’a point de dette, il n’a point de procés ;</l>
             <l rend="i">L’avarice ne peut luy suggerer l’envie</l>
-            <l><hi rend="i">De courir l’Ocean aux dépens de sa vie.</hi></l>
+            <l>
+              <hi rend="i">De courir l’Ocean aux dépens de sa vie.</hi>
+            </l>
             <l rend="i">Aux tumultes de Mars préferant son repos</l>
             <l rend="i">Il ne s’enteste point du vain nom de Heros,</l>
-            <l><hi rend="i">Et jamais on ne vit sa constance importune</hi></l>
+            <l>
+              <hi rend="i">Et jamais on ne vit sa constance importune</hi>
+            </l>
             <l rend="i">A la porte des Grands attendre la fortune ;</l>
             <l rend="i">Mais toujours affranchy des loix de l’interest,</l>
             <l rend="i">Il suffit à soy-mesme, en soy-mesme il se plaist,</l>
@@ -55,7 +55,9 @@
             <l rend="i">Tantost assis sur l’herbe, à l’ombrage des hestres,</l>
             <l rend="i">Il apprend aux Echos des airs doux &amp; champestres,</l>
             <l rend="i">Et s’endort quelquefois au murmure des eaux,</l>
-            <l><hi rend="i">Au soufle des Zephirs, au concert des Oiseaux.</hi></l>
+            <l>
+              <hi rend="i">Au soufle des Zephirs, au concert des Oiseaux.</hi>
+            </l>
             <l rend="i"> Mais quand du triste Hiver la mortelle froidure</l>
             <l rend="i">De ses propres beautez a privé la Nature,</l>
             <l rend="i">Il marche environné de ses ardens Limiers,</l>
@@ -85,7 +87,9 @@
             <l rend="i">Il se voit entouré de ses nombreux troupeaux,</l>
             <l rend="i">Que le Berger ramene au son des chalumeaux !</l>
             <l rend="i">D’autre part, quel plaisir n’a-t-il point à la veuë</l>
-            <l><hi rend="i">Du coutre renversé qui luit sur la charuë,</hi></l>
+            <l>
+              <hi rend="i">Du coutre renversé qui luit sur la charuë,</hi>
+            </l>
             <l rend="i">Que ses bœufs harassez d’un pas tranquille &amp; lent</l>
             <l rend="i">Conduisent vers l’étable où le foin les attend ?</l>
             <l rend="i">Mais lors que de valets une riante troupe</l>
@@ -101,6 +105,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

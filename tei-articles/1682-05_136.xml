@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
-        <p>Rien n’est plus naïf que la Réponse du Païsan dans le Madrigal que j’adjoûte à cette
-          Fable. Si l’on y entend malice, ce n’est pas sa faute. Ce qu’il a dit, il l’a dit tout
-          bonnement ; on doit l’expliquer de mesme.</p>
+        <p>Rien n’est plus naïf que la Réponse du Païsan dans le Madrigal que j’adjoûte à cette Fable. Si l’on y entend malice, ce n’est pas sa faute. Ce qu’il a dit, il l’a dit tout bonnement ; on doit l’expliquer de mesme.</p>
         <quote>
           <label>MADRIGAL.</label>
           <lg>
@@ -38,6 +35,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

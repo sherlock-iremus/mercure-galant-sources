@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Encore un Ouvrage de Cydippe. Ce nom employé dans d’autres que vous avez estimez, vous
-          fait connoistre que celuy-cy part de la mesme Plume, &amp; qu’il a par consequent les
-          mêmes beautez.</p>
+    <body>
+      <div>
+        <p>Encore un Ouvrage de Cydippe. Ce nom employé dans d’autres que vous avez estimez, vous fait connoistre que celuy-cy part de la mesme Plume, &amp; qu’il a par consequent les mêmes beautez.</p>
         <quote>
-          <label><hi rend="i">EGLOGUE.</hi></label>
+          <label>
+            <hi rend="i">EGLOGUE.</hi>
+          </label>
           <lg>
             <l rend="i">Cydippe, vous partez, vous quittez ce sejour,</l>
             <l rend="i">Et vous ne me laissez qu’un violent amour</l>
@@ -86,6 +85,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

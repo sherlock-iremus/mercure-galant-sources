@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
-        <p>Cependant pour vous parler d’un autre torrent de Jaloux déchaînez contre la gloire de Sa
-          Majesté, je vous diray que les Conféderez d’Allemagne s’assemblent, &amp; font des
-          mouvemens depuis plus d’un mois ; qu’on n’entend parler que de leurs Magasins, &amp;
-          qu’ils font apporter des Provisions de mille endroits diférens. Ils sont beaucoup, &amp;
-          ils se souviennent de l’année derniere. Je ne sçay s’ils feront de grand progrés, &amp; si
-          l’on n’en doit point croire cette Chanson.</p>
+    <body>
+      <div>
+        <p>Cependant pour vous parler d’un autre torrent de Jaloux déchaînez contre la gloire de Sa Majesté, je vous diray que les Conféderez d’Allemagne s’assemblent, &amp; font des mouvemens depuis plus d’un mois ; qu’on n’entend parler que de leurs Magasins, &amp; qu’ils font apporter des Provisions de mille endroits diférens. Ils sont beaucoup, &amp; ils se souviennent de l’année derniere. Je ne sçay s’ils feront de grand progrés, &amp; si l’on n’en doit point croire cette Chanson.</p>
         <quote rend="border">
           <lg>
             <l rend="i">Pourquoy quiter vostre charmante Reyne,</l>
@@ -42,6 +36,6 @@
           <p>D. V.</p>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,25 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
+    <body>
+      <div>
         <quote>
           <label rend="center">LETTRE VI.</label>
-          <p>Il y a quelques temps, Monsieur, que je me mets sur le pied de bel Esprit, c’est à dire
-            de bel Esprit de Province, &amp; personne ne s’estoit encore avisé de m’en disputer le
-            Titre, que dans une Compagnie où je me trouvay hier apres dîné. Je tâchois là de debiter
-            mes Fleuretes à demy-fletries entre cinq ou six Belles, &amp; je me faisois
-            attentivement écouter par deux ou trois Sots qui se récrimoient à chaque parole, quand
-            un nouveau venu, lequel apparament n’avoit pas accoûtumé de demeurer sans rien dire,
-            ennuyé de m’entendre toûjours parler, &amp; se fâchant de me voir trop applaudy ; Mon
-            Dieu ! Dit-il, il semble que Monsieur est icy quelque Oracle ; il veut faire le bel
-            Esprit, &amp; son nom n’est point dans le Mercure. Je vous avoüe, Monsieur, que ce
-            reproche me toucha. Je sortis brusquement sans répondre une parole, &amp; j’allay
-            chercher un Mercure, avec lequel je me vins enfermer dans mon Cabinet, où apres avoir vû
-            vos Enigmes avec attention, j’invoquay plus de six fois Apollon &amp; les Muses,
-            lesquelles m’inspirerent ces pensées.</p>
+          <p>Il y a quelques temps, Monsieur, que je me mets sur le pied de bel Esprit, c’est à dire de bel Esprit de Province, &amp; personne ne s’estoit encore avisé de m’en disputer le Titre, que dans une Compagnie où je me trouvay hier apres dîné. Je tâchois là de debiter mes Fleuretes à demy-fletries entre cinq ou six Belles, &amp; je me faisois attentivement écouter par deux ou trois Sots qui se récrimoient à chaque parole, quand un nouveau venu, lequel apparament n’avoit pas accoûtumé de demeurer sans rien dire, ennuyé de m’entendre toûjours parler, &amp; se fâchant de me voir trop applaudy ; Mon Dieu ! Dit-il, il semble que Monsieur est icy quelque Oracle ; il veut faire le bel Esprit, &amp; son nom n’est point dans le Mercure. Je vous avoüe, Monsieur, que ce reproche me toucha. Je sortis brusquement sans répondre une parole, &amp; j’allay chercher un Mercure, avec lequel je me vins enfermer dans mon Cabinet, où apres avoir vû vos Enigmes avec attention, j’invoquay plus de six fois Apollon &amp; les Muses, lesquelles m’inspirerent ces pensées.</p>
           <lg>
             <l rend="i">Ce petit Nain avec son gros teignon,</l>
             <l rend="i">Qui d’un pied vient en diligence,</l>
@@ -54,15 +40,12 @@
             <l rend="i">Qu'il est doux de s’imaginer</l>
             <l rend="i">Ce que dans ce Tableau cette Enigme nous marque !</l>
             <l rend="i">C'est le fruit des travaux de nostre grand Monarque,</l>
-            <l><hi rend="i">C'est </hi>la Paix <hi rend="i">que LOUIS s’appreste à nous
-              donner.</hi></l>
+            <l><hi rend="i">C'est </hi>la Paix <hi rend="i">que LOUIS s’appreste à nous donner.</hi></l>
           </lg>
-          <p>Apres cela, Monsieur, je demeureray fort satisfait de moy, &amp; je pris bien dessein
-            de me vanger de l’Homme qui m’avoit méprisé, en luy faisant voir dans la premier
-            Mercure, entre les autres noms imprimez, celuy de vostre tres-humble serviteur,</p>
+          <p>Apres cela, Monsieur, je demeureray fort satisfait de moy, &amp; je pris bien dessein de me vanger de l’Homme qui m’avoit méprisé, en luy faisant voir dans la premier Mercure, entre les autres noms imprimez, celuy de vostre tres-humble serviteur,</p>
           <p>Y. Z.</p>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

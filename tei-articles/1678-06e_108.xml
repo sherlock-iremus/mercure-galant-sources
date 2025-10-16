@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,37 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-                
-
-                
-                    avril 1678, t. 2, p. 108-109<hi rend="sup"><note
-                        xml:id="_ftn0" resp="editor" n="1"> Cette
-                                nouvelle est reproduite dans le cadre du projet « Mercure galant »,
-                                sous le titre « Lettre XI », disponible en ligne sur <hi
-
-                <label><hi rend="italic">À la Rochelle</hi></label>
-                <p>Un remercîment du plaisir &amp; de l’utilité qu’on reçoit également de vos Ouvrages,
-                    n’est pas une chose fort ragoûtante pour vous. Je croy que vous en estes
-                    accablé, &amp; que dans cette multitude le plus beau ne laisse pas de vous
-                    importuner un peu. Aussi, Monsieur je vous épargneray la peine de lire ce que
-                    bien des Gens voudroient que vous apprissiez pour marque de leur
-                    reconnoissance. Comme je vous crois plus sensible aux avantures qui arrivent à
-                    vos Ouvrages (car enfin ce sont vos Enfans &amp; des Enfans dignes de n’estre pas
-                    desavoüez) je veux vous apprendre que ne se contentant pas de courir toute<note
-                        xml:id="_ftn1" resp="editor" n="2"> « tout » corrigé par « toute ».</note> la
-                    Terre, ils ont entrepris des Voyages sur Mer. Quatorze de compagnie
-                    s’embarquerent il n’y a que huit jours pour les Isles de l’Amérique, &amp; quatre
-                    pour le Canada, autant pour la Cayenne, &amp; autant pour le Portugal. C’est moy
-                    qui leur ay fait entreprendre ce Voyage, &amp; qui les ay assurez qu’ils seroient
-                    bien reçeus. S’il leur arrive quelque chose de particulier dans ces Voyages, je
-                    vous le feray sçavoir. Un de mes Amis m’a dit que le Voyage du Mercure galant à
-                    l’Amerique seroit un beau sujet pour une Piece de Vers, &amp; qu’il y
-                    penseroit.</p>
-                <p>L’Abbé d’Arteval.</p>
-            </div>
-
-
+    <body>
+      <div>
+        <label>
+          <hi rend="italic">À la Rochelle</hi>
+        </label>
+        <p>Un remercîment du plaisir &amp; de l’utilité qu’on reçoit également de vos Ouvrages, n’est pas une chose fort ragoûtante pour vous. Je croy que vous en estes accablé, &amp; que dans cette multitude le plus beau ne laisse pas de vous importuner un peu. Aussi, Monsieur je vous épargneray la peine de lire ce que bien des Gens voudroient que vous apprissiez pour marque de leur reconnoissance. Comme je vous crois plus sensible aux avantures qui arrivent à vos Ouvrages (car enfin ce sont vos Enfans &amp; des Enfans dignes de n’estre pas desavoüez) je veux vous apprendre que ne se contentant pas de courir toute<note xml:id="_ftn1" resp="editor" n="2"> « tout » corrigé par « toute ».</note> la Terre, ils ont entrepris des Voyages sur Mer. Quatorze de compagnie s’embarquerent il n’y a que huit jours pour les Isles de l’Amérique, &amp; quatre pour le Canada, autant pour la Cayenne, &amp; autant pour le Portugal. C’est moy qui leur ay fait entreprendre ce Voyage, &amp; qui les ay assurez qu’ils seroient bien reçeus. S’il leur arrive quelque chose de particulier dans ces Voyages, je vous le feray sçavoir. Un de mes Amis m’a dit que le Voyage du Mercure galant à l’Amerique seroit un beau sujet pour une Piece de Vers, &amp; qu’il y penseroit.</p>
+        <p>L’Abbé d’Arteval.</p>
+      </div>
     </body>
   </text>
 </TEI>

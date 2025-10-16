@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Ces morts prématurées qui semblent renverser l’ordre de la Nature, engagent à des
-          refléxions que je ne doute point que vous ne trouviez heureusement exprimées dans les Vers
-          qui suivent.</p>
+    <body>
+      <div>
+        <p>Ces morts prématurées qui semblent renverser l’ordre de la Nature, engagent à des refléxions que je ne doute point que vous ne trouviez heureusement exprimées dans les Vers qui suivent.</p>
         <quote>
           <label rend="center">Stances</label>
           <label rend="center">sur la vanité</label>
@@ -124,6 +121,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

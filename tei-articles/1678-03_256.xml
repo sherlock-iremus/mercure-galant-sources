@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,19 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Apres plusieurs Airs François, je vous en envoye un Italien. M<hi rend="sup">r</hi>
-          Ménage connu par toute la terre à cause de sa profonde érudition, a fait les Paroles. Un
-          de ses Amis les a envoyées à Rome, &amp; elles y ont paru si belles à un des plus fameux
-          Maistres de Musique d’Italie, qu’il a pris plaisir à les noter. Lisez &amp; chantez.</p>
+    <body>
+      <div>
+        <p>Apres plusieurs Airs François, je vous en envoye un Italien. M<hi rend="sup">r</hi> Ménage connu par toute la terre à cause de sa profonde érudition, a fait les Paroles. Un de ses Amis les a envoyées à Rome, &amp; elles y ont paru si belles à un des plus fameux Maistres de Musique d’Italie, qu’il a pris plaisir à les noter. Lisez &amp; chantez.</p>
         <quote>
-          <label>AIR ITALIEN.<note resp="editor">Le <hi rend="italic">Mercure galant</hi> du mois de
-            mai 1678 publie une <ref target="MG-1678-05_109b">traduction du poème</ref>.</note></label>
+          <label>AIR ITALIEN.<note resp="editor">Le <hi rend="italic">Mercure galant</hi> du mois de mai 1678 publie une <ref target="MG-1678-05_109b">traduction du poème</ref>.</note></label>
           <lg>
-            <l rend="i">QUesta bella d’amor nemica e mia<note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air Italien doit regarder la page
-              257.</note></l>
+            <l rend="i">QUesta bella d’amor nemica e mia<note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air Italien doit regarder la page 257.</note></l>
             <l rend="i">La mia tenera Iole.</l>
             <l rend="i">Alle prime parole</l>
             <l rend="i">Che d’amor muovo, torce fiera il guardo,</l>
@@ -47,6 +41,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

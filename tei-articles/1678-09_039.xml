@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,21 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-
-        
-        <p>Je viens de voir une Lettre qui parle d’un Divertissement de Chasse que Madame la
-          Duchesse de Savoye donna il y a quelque temps à Madame la Comtesse de Soissons dans le
-          Parc de la Vénerie. C‘est une Maison de plaisance des plus belles à deux lieuës de Turin.
-          Ce plaisir fut suivy de celuy de la Comédie qu’on representa dans une Orangerie ornée de
-          Verdures &amp; de plusieurs Jets d’eau sur le Theatre. Ils luy servoient de décoration,
-          &amp; les ordres avoient esté si bien donnez pour tout ce qui pouvoit contribuer à la
-          beauté du Spéctacle, qu’il sembloit que le Lieu fust enchanté. Un magnifique Repas
-          accompagné d’une Synphonie admirable, succeda à la Comédie, &amp; il n’y eut rien où l’on
-          ne remarquast cet air de grandeur qui est inséparable de tout ce que fait Madame
-          Royale.</p>
+    <body>
+      <div>
+        <p>Je viens de voir une Lettre qui parle d’un Divertissement de Chasse que Madame la Duchesse de Savoye donna il y a quelque temps à Madame la Comtesse de Soissons dans le Parc de la Vénerie. C‘est une Maison de plaisance des plus belles à deux lieuës de Turin. Ce plaisir fut suivy de celuy de la Comédie qu’on representa dans une Orangerie ornée de Verdures &amp; de plusieurs Jets d’eau sur le Theatre. Ils luy servoient de décoration, &amp; les ordres avoient esté si bien donnez pour tout ce qui pouvoit contribuer à la beauté du Spéctacle, qu’il sembloit que le Lieu fust enchanté. Un magnifique Repas accompagné d’une Synphonie admirable, succeda à la Comédie, &amp; il n’y eut rien où l’on ne remarquast cet air de grandeur qui est inséparable de tout ce que fait Madame Royale.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

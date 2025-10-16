@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-          
-          <p/>
-          <p>M<hi rend="sup">r</hi> le Duc de Beauvilliers, Fils de M<hi rend="sup">r</hi> le Duc de Saint Aignan, &amp; le seul qui reste du premier lit, ayant eu huit Filles, commençoit à apprehender de n’avoir point de Garçons ; mais enfin, Madame, la Duchesse de Beauvilliers luy en vient de donner un, ce qui a causé beaucoup de joye dans toute cette Maison. Monseigneur le Duc de Bourgogne &amp; Madame la Duchesse de Chevreuse l’ont tenu sur les Fonts.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p/>
+        <p>M<hi rend="sup">r</hi> le Duc de Beauvilliers, Fils de M<hi rend="sup">r</hi> le Duc de Saint Aignan, &amp; le seul qui reste du premier lit, ayant eu huit Filles, commençoit à apprehender de n’avoir point de Garçons ; mais enfin, Madame, la Duchesse de Beauvilliers luy en vient de donner un, ce qui a causé beaucoup de joye dans toute cette Maison. Monseigneur le Duc de Bourgogne &amp; Madame la Duchesse de Chevreuse l’ont tenu sur les Fonts.</p>
+      </div>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p><hi rend="i">Le Comte d’Essex</hi> de M<hi rend="sup">r</hi> de Corneille le jeune est
-          imprimé. Je vous l’envoye, &amp; ne doute point que vous ne receviez beaucoup de plaisir
-          de la lecture d’une Piece qui a occupé le Théatre de l’Hostel de Bourgogne avec tant de
-          succés pendant les deux derniers Mois. Le <hi rend="i">Lyncée</hi> de M<hi rend="sup">r</hi> Abeille y parut il y a trois jours. Il fut extraordinairemenet applaudy. Les
-          Vers en sont beaux, les Pensées brillantes, &amp; dignes de l’Autheur du <hi rend="i">Coriolan</hi>.</p>
+    <body>
+      <div>
+        <p><hi rend="i">Le Comte d’Essex</hi> de M<hi rend="sup">r</hi> de Corneille le jeune est imprimé. Je vous l’envoye, &amp; ne doute point que vous ne receviez beaucoup de plaisir de la lecture d’une Piece qui a occupé le Théatre de l’Hostel de Bourgogne avec tant de succés pendant les deux derniers Mois. Le <hi rend="i">Lyncée</hi> de M<hi rend="sup">r</hi> Abeille y parut il y a trois jours. Il fut extraordinairemenet applaudy. Les Vers en sont beaux, les Pensées brillantes, &amp; dignes de l’Autheur du <hi rend="i">Coriolan</hi>.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

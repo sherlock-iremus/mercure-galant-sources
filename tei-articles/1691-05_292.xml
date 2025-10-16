@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p/>
-          <p>Tous les Livres dont la lecture donne du plaisir, ne sont pas toujours aussi utiles qu’ils sont agréables. C’est ce qui doit faire estimer celuy qui paroist depuis peu sous le titre <hi rend="i">Des desordres du Jeu</hi>, puis qu’il est aussi profitable que divertissant. On y voit les malheurs que le Jeu cause parmy les Princes, les Ecclesiastiques, les Courtisans, les Gens de guerre, les Magistrats, les Femmes, les jeunes gens, &amp; les Vieillards, &amp; ces desordres sont prouvez par des exemples des malheurs arrivez pour le Jeu à toutes ces sortes de personnes. Ainsi l’on peut dire que ce Livre est composé d’une infinité de petites histoires qui divertissent en instruisant, &amp; qui donnent de l’horreur pour une passion si condamnable. Il se vend chez le S<hi rend="sup">r</hi> Michalet, Imprimeur du Roy ruë Saint Jacques, à l’Image S. Paul. On le trouve aussi chez le S<hi rend="sup">r</hi> Guerout.</p>
-        </div>
-      </body>
+    <body>
+      <div>
+        <p/>
+        <p>Tous les Livres dont la lecture donne du plaisir, ne sont pas toujours aussi utiles qu’ils sont agréables. C’est ce qui doit faire estimer celuy qui paroist depuis peu sous le titre <hi rend="i">Des desordres du Jeu</hi>, puis qu’il est aussi profitable que divertissant. On y voit les malheurs que le Jeu cause parmy les Princes, les Ecclesiastiques, les Courtisans, les Gens de guerre, les Magistrats, les Femmes, les jeunes gens, &amp; les Vieillards, &amp; ces desordres sont prouvez par des exemples des malheurs arrivez pour le Jeu à toutes ces sortes de personnes. Ainsi l’on peut dire que ce Livre est composé d’une infinité de petites histoires qui divertissent en instruisant, &amp; qui donnent de l’horreur pour une passion si condamnable. Il se vend chez le S<hi rend="sup">r</hi> Michalet, Imprimeur du Roy ruë Saint Jacques, à l’Image S. Paul. On le trouve aussi chez le S<hi rend="sup">r</hi> Guerout.</p>
+      </div>
+    </body>
   </text>
 </TEI>

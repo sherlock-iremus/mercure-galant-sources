@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
-        <p>J’ajoûte une Priere d’une autre nature. Elle est de M<hi rend="sup">r</hi> de Boisimon
-          d’Angers, &amp; a esté faite pendant le cours d’une maladie, qui avoit déja duré quatre
-          mois.</p>
+        <p>J’ajoûte une Priere d’une autre nature. Elle est de M<hi rend="sup">r</hi> de Boisimon d’Angers, &amp; a esté faite pendant le cours d’une maladie, qui avoit déja duré quatre mois.</p>
         <quote>
           <label>VERS LIBRES.</label>
           <lg>
@@ -84,6 +81,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p/>
-          <p>Si vos Amies veulent passer agreablement quelques momens aprés le repas, qui est le temps qu’on donne ordinairement à la conversation dans les Familles, elles feront bien de faire acheter <hi rend="i">La Pratique curieuse</hi>, ou <hi rend="i">les Oracles des Sybilles sur chaque question proposée</hi>, que commence à debiter le S<hi rend="sup">r</hi> Brunet, Libraire au Palais. C’est un Livre tiré des Manuscrits de la Bibliotheque de feu M<hi rend="sup">r</hi> Comiers, qui ne peut manquer de donner beaucoup de plaisir à ceux qui s’an serviront, puis que l’on y trouve la réponse à des questions sur toutes les choses qui excitent la curiosité de ceux qui souhaitent d’estre éclaircis sur mille affaires ou entreprises qui les regardent, ou ausquelles ils prennent quelque interest. Ce n’est pas que l’on doive ajoûter foy aux décisions qu’on y rencontre, mais la pluspart donnent lieu à dire des choses qui divertissent, soit pour les promesses agreables dont on est flaté, soit pour les fâcheux évenemens dont on reçoit la menace. Chaque réponse sur ce qu’on a envie de sçavoir, &amp; que l’on tire au hazard, est renfermée en quatre Vers, qui ont un tour fort aisé.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p/>
+        <p>Si vos Amies veulent passer agreablement quelques momens aprés le repas, qui est le temps qu’on donne ordinairement à la conversation dans les Familles, elles feront bien de faire acheter <hi rend="i">La Pratique curieuse</hi>, ou <hi rend="i">les Oracles des Sybilles sur chaque question proposée</hi>, que commence à debiter le S<hi rend="sup">r</hi> Brunet, Libraire au Palais. C’est un Livre tiré des Manuscrits de la Bibliotheque de feu M<hi rend="sup">r</hi> Comiers, qui ne peut manquer de donner beaucoup de plaisir à ceux qui s’an serviront, puis que l’on y trouve la réponse à des questions sur toutes les choses qui excitent la curiosité de ceux qui souhaitent d’estre éclaircis sur mille affaires ou entreprises qui les regardent, ou ausquelles ils prennent quelque interest. Ce n’est pas que l’on doive ajoûter foy aux décisions qu’on y rencontre, mais la pluspart donnent lieu à dire des choses qui divertissent, soit pour les promesses agreables dont on est flaté, soit pour les fâcheux évenemens dont on reçoit la menace. Chaque réponse sur ce qu’on a envie de sçavoir, &amp; que l’on tire au hazard, est renfermée en quatre Vers, qui ont un tour fort aisé.</p>
+      </div>
+    </body>
   </text>
 </TEI>

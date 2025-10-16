@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,27 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
+    <body>
+      <div>
         <p/>
-        <p>Elle a esté grande à Frontignan. Les Trompetes, les Tambours, &amp; les Hautbois, l'y
-          commencerent de fort grand matin le Dimanche 4. de ce mois, &amp; continuerent de se faire
-          entendre le reste du jour, aussi-bien que les décharges des Habitans, qui se mirent sous
-          les armes. [...] A midy on fit une décharge de soixante Boëtes, &amp; de la Mousqueterie ;
-          &amp; en mesme temps on ouvrit trois Fontaines de Vin, qui coulerent jusqu'à minuit en
-          divers endroits de la Place. [...]</p>
-        <p>Sur les trois heures, on vit paroistre à la Place une Compagnie de Filles habillées en
-          Amazones, avec un Drapeau de Tafetas blanc, où estoit peint un Amour qui desarmoit un
-          Hercule. [...]</p>
-        <p>Une autre Compagnie de jeunes Hommes suivoit avec un Drapeau de Tafetas bleu, où estoit
-          un Amour emmailloté, tenant un Arc d'une main, &amp; de l'autre plusieurs Fléches d'or.
-          [...]</p>
-        <p>Ces deux Compagnies que précedoient des Hautbois, des Tambours &amp; des Trompetes,
-          furent salüées par une décharge des Mousquetaires. Elles leur rendirent le salut, &amp; se
-          mettant à leur teste, marcherent par toute la Ville. [...]</p>
+        <p>Elle a esté grande à Frontignan. Les Trompetes, les Tambours, &amp; les Hautbois, l'y commencerent de fort grand matin le Dimanche 4. de ce mois, &amp; continuerent de se faire entendre le reste du jour, aussi-bien que les décharges des Habitans, qui se mirent sous les armes. [...] A midy on fit une décharge de soixante Boëtes, &amp; de la Mousqueterie ; &amp; en mesme temps on ouvrit trois Fontaines de Vin, qui coulerent jusqu'à minuit en divers endroits de la Place. [...]</p>
+        <p>Sur les trois heures, on vit paroistre à la Place une Compagnie de Filles habillées en Amazones, avec un Drapeau de Tafetas blanc, où estoit peint un Amour qui desarmoit un Hercule. [...]</p>
+        <p>Une autre Compagnie de jeunes Hommes suivoit avec un Drapeau de Tafetas bleu, où estoit un Amour emmailloté, tenant un Arc d'une main, &amp; de l'autre plusieurs Fléches d'or. [...]</p>
+        <p>Ces deux Compagnies que précedoient des Hautbois, des Tambours &amp; des Trompetes, furent salüées par une décharge des Mousquetaires. Elles leur rendirent le salut, &amp; se mettant à leur teste, marcherent par toute la Ville. [...]</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

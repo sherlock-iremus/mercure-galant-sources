@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>L’Année ayant recommencé comme dans la plus profonde Paix, &amp; tout ce qui peur marquer
-          la grandeur de nostre Monarque ayant paru à l’ordinaire, cette mesme année a continué par
-          quatre Opéra qu’on represente alternativement à S. Germain pour le Divertissement de Leurs
-          Majestez. Quoy qu’ils n’y soient pas nouveaux, on n’a pas laissé de faire de nouvelles
-          dépenses pour tout ce qui sert à les représenter. Rien n’a esté épargné pour la beauté des
-          Décorations, les Habits y sont aussi bien entendus que magnifiques, &amp; ces grands
-          Spectacles en ont reçeu de merveilleux agrémens.</p>
+    <body>
+      <div>
+        <p>L’Année ayant recommencé comme dans la plus profonde Paix, &amp; tout ce qui peur marquer la grandeur de nostre Monarque ayant paru à l’ordinaire, cette mesme année a continué par quatre Opéra qu’on represente alternativement à S. Germain pour le Divertissement de Leurs Majestez. Quoy qu’ils n’y soient pas nouveaux, on n’a pas laissé de faire de nouvelles dépenses pour tout ce qui sert à les représenter. Rien n’a esté épargné pour la beauté des Décorations, les Habits y sont aussi bien entendus que magnifiques, &amp; ces grands Spectacles en ont reçeu de merveilleux agrémens.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

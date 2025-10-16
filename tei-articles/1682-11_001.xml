@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
-        <p>Si je ne commence point aujourd’huy ma Lettre par un Eloge du Roy, je croy, Madame, que
-          vous serez aisément persuadée que ce n’est point la matiere qui me manque. Je ne vous
-          écris que tous les mois ; &amp; ce que ce grand Monarque fait chaque jour, donne de
-          nouveaux sujets de le loüer ; mais le moyen d’oser l’entreprendre, quand on a l’esprit
-          remply du Sonnet que vous allez lire ? Il est de M<hi rend="sup">r</hi> Magnin, Conseiller
-          au Bailliage &amp; Siege Présidial de Mâcon.</p>
+        <p>Si je ne commence point aujourd’huy ma Lettre par un Eloge du Roy, je croy, Madame, que vous serez aisément persuadée que ce n’est point la matiere qui me manque. Je ne vous écris que tous les mois ; &amp; ce que ce grand Monarque fait chaque jour, donne de nouveaux sujets de le loüer ; mais le moyen d’oser l’entreprendre, quand on a l’esprit remply du Sonnet que vous allez lire ? Il est de M<hi rend="sup">r</hi> Magnin, Conseiller au Bailliage &amp; Siege Présidial de Mâcon.</p>
         <quote>
           <label>SONNET<lb/>Sur ce qu’on ne peut loüer<lb/>dignement le Roy.</label>
           <lg>
@@ -50,6 +44,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

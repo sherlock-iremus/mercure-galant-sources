@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Les Amans jurent toûjours d’aimer éternellement. Voyez-le dans ces Vers Italiens, comme
-          vous venez de le voir dans cet Epitaphe. Ils m’ont esté envoyez de Rome avec les Notes que
-          j’ay fait graver. Puis que la Graveure vous plaist mieux en Musique que l’Impression,
-          j’auray soin à l’avenir de vous satisfaire. Les Connoisseurs estiment fort celle qui a
-          esté faite sur ces Paroles. Vous en jugerez.</p>
+    <body>
+      <div>
+        <p>Les Amans jurent toûjours d’aimer éternellement. Voyez-le dans ces Vers Italiens, comme vous venez de le voir dans cet Epitaphe. Ils m’ont esté envoyez de Rome avec les Notes que j’ay fait graver. Puis que la Graveure vous plaist mieux en Musique que l’Impression, j’auray soin à l’avenir de vous satisfaire. Les Connoisseurs estiment fort celle qui a esté faite sur ces Paroles. Vous en jugerez.</p>
         <quote>
-          <label>AIR ITALIEN.</label><note resp="author" place="margin"><hi rend="i">Avis pour
-              placer les Figures</hi> : l’Air Italien doit regarder la page 196.</note>
+          <label>AIR ITALIEN.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air Italien doit regarder la page 196.</note>
           <lg>
             <l rend="i">E'cosi dolce la pena ch'io sento</l>
             <l rend="i"><seg type="tab">    </seg>Che nel tormento</l>
@@ -46,6 +41,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

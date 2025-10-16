@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
-        <p>Rien n’est plus commun que d’entendre condamner le trop de fierté des Belles. On proteste
-          tous les jours qu’on se vangera de leurs mépris ; mais quelques sermens que l’on en fasse,
-          ce sont des desseins qu’on ne peut exécuter. On sent toûjours que l’on aime, &amp; il n’y
-          a point de ressentiment qui puisse tenir contre l’Amour. Les Vers qui suivent vous
-          confirmeront cette verité. Ils sont de M<hi rend="sup">r</hi> Diéreville du
-          Pontlevesque.</p>
+        <p>Rien n’est plus commun que d’entendre condamner le trop de fierté des Belles. On proteste tous les jours qu’on se vangera de leurs mépris ; mais quelques sermens que l’on en fasse, ce sont des desseins qu’on ne peut exécuter. On sent toûjours que l’on aime, &amp; il n’y a point de ressentiment qui puisse tenir contre l’Amour. Les Vers qui suivent vous confirmeront cette verité. Ils sont de M<hi rend="sup">r</hi> Diéreville du Pontlevesque.</p>
         <quote>
           <label>MADRIGAL.</label>
           <lg>
@@ -51,6 +45,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

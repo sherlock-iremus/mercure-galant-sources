@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,9 +14,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Autre Enigme à proposer aux belles Personnes à qui vous faites part de mes Lettres. Elle est un peu longue, mais je la tiens juste ; &amp; vous vous souviendrez, s’il vous plaist, que j’en attens l’explication sur chaque Article. Je vous feray part de celles qu’on me donnera.</p>
         <quote>
           <label>ENIGME.</label>

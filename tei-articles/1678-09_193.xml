@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
-       <p>Mademoiselle Masson la suit de pres dans ce merveilleux talent. Elle a gravé les Portraits de Leurs Majestez avec une si entiere ressemblance, qu’aucun trait n’y est oublié. J’ay appris qu’elle travailloit presentement à ceux de Leurs Altesses Royales.</p>
+    <body>
+      <div>
+        <p>Mademoiselle Masson la suit de pres dans ce merveilleux talent. Elle a gravé les Portraits de Leurs Majestez avec une si entiere ressemblance, qu’aucun trait n’y est oublié. J’ay appris qu’elle travailloit presentement à ceux de Leurs Altesses Royales.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

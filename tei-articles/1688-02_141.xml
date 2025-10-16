@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,25 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-            
-            <p>M. l’Abbé de Saint Vallier, cy devant Aumônier du Roy, &amp;
-                    qui a toûjours vescu au milieu de la Cour, comme il auroit fait dans un
-                    Seminaire, fut sacré sur la fin du dernier mois Evesque de Quebec, en la
-                    nouvelle France. Cette Ceremonie qui se fit dans l’Eglise de Saint
-                    Sulpice, &amp; la pieté de ce Prelat y attirerent quantité d’Evesques &amp; de
-                    personnes de qualité, &amp; l’affluence du peuple y fut grande. Ce nouvel Evesque a
-                    preferé le plaisir qu’il aura de gagner des Ames à Dieu dans un Pays si éloigné,
-                    à l’utile gloire qu’il auroit euë de posseder icy un Evesché, qu’il auroit pû
-                    gouverner dans sa patrie, sans essuyer la fatigue d’un long &amp; penible Voyage,
-                    ny tous les soins qu’il sera obligé de prendre à Quebec, pour éclairer des
-                    aveugles, &amp; fortifier dans la veritable Foy ceux qui l’auront déjà
-                    embrassée. Un si grand détachement du monde dans une personne de qualité, &amp; qui
-                    pourroit vivre avec plus de magnificence &amp; de repos, produit des effets tres
-                    avantageux à la Religion, &amp; quand on fait ce qu’on presche, on est toûjours
-                    seur de persuader.</p>
-
-        </div>
+    <body>
+      <div>
+        <p>M. l’Abbé de Saint Vallier, cy devant Aumônier du Roy, &amp; qui a toûjours vescu au milieu de la Cour, comme il auroit fait dans un Seminaire, fut sacré sur la fin du dernier mois Evesque de Quebec, en la nouvelle France. Cette Ceremonie qui se fit dans l’Eglise de Saint Sulpice, &amp; la pieté de ce Prelat y attirerent quantité d’Evesques &amp; de personnes de qualité, &amp; l’affluence du peuple y fut grande. Ce nouvel Evesque a preferé le plaisir qu’il aura de gagner des Ames à Dieu dans un Pays si éloigné, à l’utile gloire qu’il auroit euë de posseder icy un Evesché, qu’il auroit pû gouverner dans sa patrie, sans essuyer la fatigue d’un long &amp; penible Voyage, ny tous les soins qu’il sera obligé de prendre à Quebec, pour éclairer des aveugles, &amp; fortifier dans la veritable Foy ceux qui l’auront déjà embrassée. Un si grand détachement du monde dans une personne de qualité, &amp; qui pourroit vivre avec plus de magnificence &amp; de repos, produit des effets tres avantageux à la Religion, &amp; quand on fait ce qu’on presche, on est toûjours seur de persuader.</p>
+      </div>
     </body>
   </text>
 </TEI>

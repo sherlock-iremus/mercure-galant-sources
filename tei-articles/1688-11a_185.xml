@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
-
+    <body>
+      <div>
         <p/>
-        <p>A M. l’Abbé de Bussi Rabutin, le Prieuré de Nostre-Dame de Lespan, Diocese d’Auxerre. Il
-          est Fils de M<hi rend="sup">r</hi> de Bussi Rabutin, de l’Academie Françoise, qui a esté
-          Mestre de Camp de la Cavalerie, &amp; dont les Ouvrages font l’éloge.</p>
+        <p>A M. l’Abbé de Bussi Rabutin, le Prieuré de Nostre-Dame de Lespan, Diocese d’Auxerre. Il est Fils de M<hi rend="sup">r</hi> de Bussi Rabutin, de l’Academie Françoise, qui a esté Mestre de Camp de la Cavalerie, &amp; dont les Ouvrages font l’éloge.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

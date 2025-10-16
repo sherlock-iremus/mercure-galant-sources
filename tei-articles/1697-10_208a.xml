@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
-        <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : La
-          Figure doit regarder la page 208.</note>
-        <p>Puis que la Paix ne me permet plus de vous envoyer des Plans de Batailles &amp; de Villes
-          assiegées, je vais achever de faire graver toutes les Fontaines de Rome, dont vous avez
-          déja vû quelques unes, afin de vous en envoyer la suite. Voicy la Fontaine de la Place de
-          Farneze.</p>
+    <body>
+      <div>
+        <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : La Figure doit regarder la page 208.</note>
+        <p>Puis que la Paix ne me permet plus de vous envoyer des Plans de Batailles &amp; de Villes assiegées, je vais achever de faire graver toutes les Fontaines de Rome, dont vous avez déja vû quelques unes, afin de vous en envoyer la suite. Voicy la Fontaine de la Place de Farneze.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

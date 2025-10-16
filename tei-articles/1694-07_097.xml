@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-          
-          <p>Les Vers qui suivent sur cette mesme Victoire<note resp="editor">Du duc de Noailles.</note>, sont de Mademoiselle Itié, qui fit il y a deux ans cette celebre Chanson, qui a esté chantée dans toute l’Europe, &amp; où il y avoit pour refrein à chaque couplet, <hi rend="italic">Tout le long de la Riviere</hi>. Ce fut lors que le Prince d’Orange avec cent mille hommes regarda prendre Namur, couvert de la Mehagne, qu’il feignoit toujours de vouloir passer, &amp; que pourtant il ne passa point.</p>
-          <quote>
+    <body>
+      <div>
+        <p>Les Vers qui suivent sur cette mesme Victoire<note resp="editor">Du duc de Noailles.</note>, sont de Mademoiselle Itié, qui fit il y a deux ans cette celebre Chanson, qui a esté chantée dans toute l’Europe, &amp; où il y avoit pour refrein à chaque couplet, <hi rend="italic">Tout le long de la Riviere</hi>. Ce fut lors que le Prince d’Orange avec cent mille hommes regarda prendre Namur, couvert de la Mehagne, qu’il feignoit toujours de vouloir passer, &amp; que pourtant il ne passa point.</p>
+        <quote>
           <l rend="i">Les desseins de Louis sont secondez des Cieux,</l>
           <l rend="i">Il vient de remporter une grande victoire,</l>
           <l rend="i"> Et malgré ses fiers envieux</l>
@@ -29,9 +28,9 @@
           <l rend="i">On le voit constamment marcher d’un pas égal.</l>
           <l rend="i">Et ce que contre luy peut inventer leur rage,</l>
           <l rend="i"> Pour eux seuls est toujours fatal.</l>
-            </quote>
-          <quote>
-            <label>SUR LA VICTOIRE <lb/> De Mr le Maréchal <lb/> de Noailles.</label>
+        </quote>
+        <quote>
+          <label>SUR LA VICTOIRE <lb/> De Mr le Maréchal <lb/> de Noailles.</label>
           <l rend="i">Un Heros n’est Heros parfait</l>
           <l rend="i">Que lors que tous ses pas sont conduits par sa teste,</l>
           <l rend="i">Et que de conqueste en conqueste,</l>
@@ -45,15 +44,15 @@
           <l rend="i">Dans tous ses succés inoüis,</l>
           <l rend="i">Tel est toujours le grand Louis,</l>
           <l rend="i">Et tel est aujourd’huy Noailles.</l>
-          </quote>
-          <quote>
+        </quote>
+        <quote>
           <label>A LA FRANCE.</label>
           <l rend="i">Quelle rapidité dans toutes vos conquestes !</l>
           <l rend="i">Quel excés de valeur dans tous vos Generaux !</l>
           <l rend="i">France, que vous avez d’habiles Marèchaux !</l>
           <l rend="i">Il semble que Loüis est toujours à leurs testes.</l>
-            </quote>
-        </div>
-        </body>
+        </quote>
+      </div>
+    </body>
   </text>
 </TEI>

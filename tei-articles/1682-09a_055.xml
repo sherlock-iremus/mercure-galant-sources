@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
+    <body>
+      <div>
         <p/>
-        <p>Dans la Tragédie représentée au College de la Marche, il y eut un Concert de Musique à la
-          loüange du Roy, &amp; plusieurs Odes recitées sur la Naissance du nouveau Prince. Le
-          Principal de ce College, apres avoir fait chanter le <hi rend="i">Te Deum</hi>, fit
-          allumer un Feu d’artifice, &amp; distribuer du Pain &amp; du Vin.</p>
+        <p>Dans la Tragédie représentée au College de la Marche, il y eut un Concert de Musique à la loüange du Roy, &amp; plusieurs Odes recitées sur la Naissance du nouveau Prince. Le Principal de ce College, apres avoir fait chanter le <hi rend="i">Te Deum</hi>, fit allumer un Feu d’artifice, &amp; distribuer du Pain &amp; du Vin.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
-        <p>Le nom de Mademoiselle de Castille vous est connu par beaucoup de jolis Vers que je vous
-          ay envoyez de sa façon dans plusieurs de mes Lettres. Elle revenoit il y a quelque temps
-          d’Arnouvillé à Paris en fort bonne compagnie, &amp; fut priée de donner un Inpromptu sur
-          deux Papillons qui se poursuivoient dans la Campagne, en tournant l’un sur l’autre. Voicy
-          le Madrigal qu’elle fit.</p>
+        <p>Le nom de Mademoiselle de Castille vous est connu par beaucoup de jolis Vers que je vous ay envoyez de sa façon dans plusieurs de mes Lettres. Elle revenoit il y a quelque temps d’Arnouvillé à Paris en fort bonne compagnie, &amp; fut priée de donner un Inpromptu sur deux Papillons qui se poursuivoient dans la Campagne, en tournant l’un sur l’autre. Voicy le Madrigal qu’elle fit.</p>
         <quote>
           <label>MADRIGAL<lb/>A LYSETE.</label>
           <lg>
@@ -38,17 +33,13 @@
           </lg>
         </quote>
         <p/>
-        <p>On ne s’est pas montré moins zelé en Picardie que dans les autres Provinces. Amiens donna
-          l’exemple dés le Samedy 15. d’Aoust, &amp; par les décharges du Canon de la Citadelle, les
-          Feux, les Illuminations, &amp; les Fontaines de Vin. Cette Ville fit connoistre
-          l’attachement qu’elle a pour le Roy, &amp; pour toute la Famille Royale, selon sa Devise
-          qui porte,</p>
+        <p>On ne s’est pas montré moins zelé en Picardie que dans les autres Provinces. Amiens donna l’exemple dés le Samedy 15. d’Aoust, &amp; par les décharges du Canon de la Citadelle, les Feux, les Illuminations, &amp; les Fontaines de Vin. Cette Ville fit connoistre l’attachement qu’elle a pour le Roy, &amp; pour toute la Famille Royale, selon sa Devise qui porte,</p>
         <quote>
           <lg>
             <l rend="i">Lilijs tenaci vimine jungor.</l>
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

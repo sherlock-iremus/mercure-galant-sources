@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Voicy un Air Bachique du célebre Maistre, dont tous les Ouvrages sont si fort de vostre
-          goust.</p>
+    <body>
+      <div>
+        <p>Voicy un Air Bachique du célebre Maistre, dont tous les Ouvrages sont si fort de vostre goust.</p>
         <quote>
-          <label>CHANSON A BOIRE.</label><note resp="author" place="margin"><hi rend="i">Avis pour
-              placer les Figures</hi> : la Chanson qui commence par <hi rend="i">Amis, dans le[s]
-              Combat[s]</hi>, doit regarder la page 62.</note>
+          <label>CHANSON A BOIRE.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : la Chanson qui commence par <hi rend="i">Amis, dans le[s] Combat[s]</hi>, doit regarder la page 62.</note>
           <lg>
             <l rend="i">Amis, dans les Combats ne cherchons plus la gloire,</l>
             <l rend="i"> Il ne faut plus songer qu’à boire ;</l>
@@ -40,6 +37,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

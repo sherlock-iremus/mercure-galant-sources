@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,31 +14,16 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-    
-    
-
-    <quote>
-     <label>Réponse à quatre Questions du dernier Extraordinaire.</label>
-     <p>Sur les trois, quatre, six &amp; septiéme Questions, 1. Des plaisir du corps &amp; de
-      l’esprit, 2. Si le Mary doit estre plus grand maistre que la Femme, 3. En quoy consiste l’air
-      &amp; la politesse, 4. Quelques Billets galans, avec declarations, je vay vous dire deux mots,
-       <hi rend="i">Currente calamo, &amp; pingui minerva</hi>. Par la noblesse de l’ame, je conclus
-      que ses plaisirs sont plus parfaits que ceux du corps, qui nous sont communs avec les
-      Bestes.</p>
-     <p>Ce mot de Maistre me blesse dans le mariage, où l’égalité doit estre. Pour le dire
-      sincérement, le Mary doit avoir, &amp; plus de prudence, &amp; plus d’esprit que sa Femme.</p>
-     <p>Je fais consister la Politesse du monde dans la complaisance envers les Dames, dans la
-      propreté sur sa personne, &amp; dans celle de son équipage. À la Cour parler peu ; à la Ville,
-      ny flateur ny opiniâtre, mais sincere.</p>
-     <p>Des Billets galans, il y en a de plusieurs sortes. Si vostre Maîtresse est avare, M<hi rend="sup">r</hi> de Bussy en a donné un original inimitable. Si vous agissez par amour, il
-      faut à peu prés parler ainsi. <hi rend="i">Je n’ay, Madame, ny joye ny plaisir qu’auprés de
-       vous.</hi> Si c’est belle amitié, dont il se faut défier un peu. <hi rend="i">Madame</hi>,
-      luy dirois-je ; <hi rend="i">ma fortune, mes biens, tout est à vous ; neanmoins</hi>
-      <hi rend="sc">us que ad aras</hi>, fondant la veritable amitié sur la vertu qui a ses loix
-      &amp; ses bornes.</p>
-    </quote>
-   </div>
-   </body>
+    <body>
+      <div>
+        <quote>
+          <label>Réponse à quatre Questions du dernier Extraordinaire.</label>
+          <p>Sur les trois, quatre, six &amp; septiéme Questions, 1. Des plaisir du corps &amp; de l’esprit, 2. Si le Mary doit estre plus grand maistre que la Femme, 3. En quoy consiste l’air &amp; la politesse, 4. Quelques Billets galans, avec declarations, je vay vous dire deux mots, <hi rend="i">Currente calamo, &amp; pingui minerva</hi>. Par la noblesse de l’ame, je conclus que ses plaisirs sont plus parfaits que ceux du corps, qui nous sont communs avec les Bestes.</p>
+          <p>Ce mot de Maistre me blesse dans le mariage, où l’égalité doit estre. Pour le dire sincérement, le Mary doit avoir, &amp; plus de prudence, &amp; plus d’esprit que sa Femme.</p>
+          <p>Je fais consister la Politesse du monde dans la complaisance envers les Dames, dans la propreté sur sa personne, &amp; dans celle de son équipage. À la Cour parler peu ; à la Ville, ny flateur ny opiniâtre, mais sincere.</p>
+          <p>Des Billets galans, il y en a de plusieurs sortes. Si vostre Maîtresse est avare, M<hi rend="sup">r</hi> de Bussy en a donné un original inimitable. Si vous agissez par amour, il faut à peu prés parler ainsi. <hi rend="i">Je n’ay, Madame, ny joye ny plaisir qu’auprés de vous.</hi> Si c’est belle amitié, dont il se faut défier un peu. <hi rend="i">Madame</hi>, luy dirois-je ; <hi rend="i">ma fortune, mes biens, tout est à vous ; neanmoins</hi> <hi rend="sc">us que ad aras</hi>, fondant la veritable amitié sur la vertu qui a ses loix &amp; ses bornes.</p>
+        </quote>
+      </div>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,18 +14,20 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Je vous envoye un Printemps que vous chanterez avec plaisir. Les Vers ont esté notez par un des plus Sçavans hommes que nous ayons en Musique <note resp="editor">L'air <ref target="MG-1687-05_350"><hi rend="italic">Toutes les fois que je vous vois</hi></ref> est du même compositeur, non identifié, que celui-ci.</note>.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">Taisez-vous, Rossignols, vostre chant m'importunne</hi>, doit regarder la page 43.</note>
-          <lg><l rend="i">Taisez-vous, Rossignols, vostre chant m'importune,</l>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">Taisez-vous, Rossignols, vostre chant m'importunne</hi>, doit regarder la page 43.</note>
+          <lg>
+            <l rend="i">Taisez-vous, Rossignols, vostre chant m'importune,</l>
             <l rend="i">L'absence de Philis me cause une infortune</l>
             <l rend="i">Qui me rend ennemy de tout ce que je voy.</l>
             <l rend="i">Que me sert qu'en ces lieux le Printemps vous rappelle ?</l>
             <l rend="i">Ne sçavez-vous pas que sans elle</l>
-            <l rend="i">Il n'est point de Printemps pour moy ?</l></lg>
+            <l rend="i">Il n'est point de Printemps pour moy ?</l>
+          </lg>
         </quote>
         <ref target="images/1687-05_042.JPG">
           <figure>
@@ -33,6 +35,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,26 +14,32 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p>L’Air que je vous envoye a esté noté par de Montailly, &amp; les paroles sont tirées des œuvres de M<hi rend="sup">e</hi> des Houlieres.</p>
-          <quote>
-            <label>AIR NOUVEAU.</label><note resp="author" place="margin">AVIS. L’Air, <hi rend="i">Agreables transports,</hi> page 216.</note>
-            <lg>
-              <l><hi rend="i">Agreables transports qu’un tendre amour inspire,</hi></l>
-              <l><hi rend="i">Desirs impatiens, qu’étes-vous devenus ?</hi></l>
-              <l><hi rend="i">Dans le cœur du Berger pour qui le mien soûpire,</hi></l>
-              <l> <hi rend="i">Je vous cherche, je vous desire ;</hi></l>
-              <l> <hi rend="i">Et je ne vous retrouve plus.</hi></l>
-            </lg>
-          </quote>
-          <ref target="images/1705-11_215.JPG">
-            <figure>
-              <graphic url="images/1705-11_215.JPG"/>
-            </figure>
-          </ref>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>L’Air que je vous envoye a esté noté par de Montailly, &amp; les paroles sont tirées des œuvres de M<hi rend="sup">e</hi> des Houlieres.</p>
+        <quote>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin">AVIS. L’Air, <hi rend="i">Agreables transports,</hi> page 216.</note>
+          <lg>
+            <l>
+              <hi rend="i">Agreables transports qu’un tendre amour inspire,</hi>
+            </l>
+            <l>
+              <hi rend="i">Desirs impatiens, qu’étes-vous devenus ?</hi>
+            </l>
+            <l>
+              <hi rend="i">Dans le cœur du Berger pour qui le mien soûpire,</hi>
+            </l>
+            <l> <hi rend="i">Je vous cherche, je vous desire ;</hi></l>
+            <l> <hi rend="i">Et je ne vous retrouve plus.</hi></l>
+          </lg>
+        </quote>
+        <ref target="images/1705-11_215.JPG">
+          <figure>
+            <graphic url="images/1705-11_215.JPG"/>
+          </figure>
+        </ref>
+      </div>
+    </body>
   </text>
 </TEI>

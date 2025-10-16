@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,19 +14,21 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Voicy une seconde Chanson dont Mademoiselle Lheritier a fait les paroles. M<hi rend="sup">r</hi> de Colignon les a encore mises en air.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">L'agreable Printemps fait regner les Zephirs</hi>, doit regarder la page 300.</note>
-          <lg><l rend="i">L'Agreable Printemps fait regner les Zéphirs,</l>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">L'agreable Printemps fait regner les Zephirs</hi>, doit regarder la page 300.</note>
+          <lg>
+            <l rend="i">L'Agreable Printemps fait regner les Zéphirs,</l>
             <l rend="i">Il ramene tous les plaisir[s],</l>
             <l rend="i">Nos Plaines, &amp; nos Bois brillent de mille charmes,</l>
             <l rend="i">Mais que tout cet éclat me coûte de douleurs !</l>
             <l rend="i">Ah, les beaux jours m'ostent malgré mes larmes</l>
             <l rend="i">La beauté qui charme mon cœur.</l>
-            <l rend="i">Le Printemps n'est pour moy qu'un Hiver plein d'horreur.</l></lg>
+            <l rend="i">Le Printemps n'est pour moy qu'un Hiver plein d'horreur.</l>
+          </lg>
         </quote>
         <ref target="images/1700-07_300.JPG">
           <figure>
@@ -34,6 +36,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

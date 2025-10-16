@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Tous les Poisons, quoy que dangereux, ne sont pas toûjours à éviter. Il en est
-          d’agreables qu’on fait prendre par les yeux, &amp; c’est de ceux-là que parle M<hi rend="sup">r</hi> Cousinet dans le Sonnet que je vous envoye. Il est Fils du Maistre des
-          Comptes de Paris qui porte ce nom.</p>
+    <body>
+      <div>
+        <p>Tous les Poisons, quoy que dangereux, ne sont pas toûjours à éviter. Il en est d’agreables qu’on fait prendre par les yeux, &amp; c’est de ceux-là que parle M<hi rend="sup">r</hi> Cousinet dans le Sonnet que je vous envoye. Il est Fils du Maistre des Comptes de Paris qui porte ce nom.</p>
         <quote>
           <label type="head">Sonnet.</label>
           <l>Vous condamnez, Philis, la fureur exécrable</l>
@@ -44,6 +41,6 @@
           <l>Souffrez que ce soit moy, Philis, qui vous en donne.</l>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

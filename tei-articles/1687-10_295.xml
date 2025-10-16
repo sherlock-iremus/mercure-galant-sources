@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,21 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-
-        
+    <body>
+      <div>
         <p/>
-        <p>Ils [les ambassadeurs de Tripoli en France] ont vû la Comedie, &amp; l'Opera avec un
-          fort grand plaisir, &amp; ont dit que ces Spectacles paroissoient plûtost un enchantement
-          qu'un effet de l'imagination des Hommes. J'estois à l'Opera avec eux, &amp; en les
-          entretenant, j'eus le plaisir de remarquer leur surprise. Ils me dirent que s'ils estoient
-          dans une Place extremement fortifiée, &amp; dont les Remparts fussent garnis de tout le
-          Canon necessaire pour sa deffense, ils seroient seurs de faire toute la resistance qu'on
-          pourroit attendre d'eux ; mais que s'ils estoient attaquez par tous ceux qui composoient
-          l'Opera, avec le mesme équipage, &amp; les mesmes charmes, ils ne se deffendroient point,
-          &amp; auroient au contraire beaucoup de plaisir à se rendre.</p>
+        <p>Ils [les ambassadeurs de Tripoli en France] ont vû la Comedie, &amp; l'Opera avec un fort grand plaisir, &amp; ont dit que ces Spectacles paroissoient plûtost un enchantement qu'un effet de l'imagination des Hommes. J'estois à l'Opera avec eux, &amp; en les entretenant, j'eus le plaisir de remarquer leur surprise. Ils me dirent que s'ils estoient dans une Place extremement fortifiée, &amp; dont les Remparts fussent garnis de tout le Canon necessaire pour sa deffense, ils seroient seurs de faire toute la resistance qu'on pourroit attendre d'eux ; mais que s'ils estoient attaquez par tous ceux qui composoient l'Opera, avec le mesme équipage, &amp; les mesmes charmes, ils ne se deffendroient point, &amp; auroient au contraire beaucoup de plaisir à se rendre.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

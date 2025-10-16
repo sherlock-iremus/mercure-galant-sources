@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Les paroles de l'Air nouveau que je vous envoye noté, ont esté faites d'aprés nature. Elles marquent la vive douleur d'un mary que rien ne peut consoler de la perte de sa femme. C'est M<hi rend="sup">r</hi> Arnoux, Ordinaire de la Musique de Roy. Je ne doute point que l'Air qu'il a composé sur cette mort, n'ait dans vôtre Province le mesme applaudissement qu'il a eu dans une Cour aussi délicate que la nostre.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air doit regarder la page 314.</note>
-          <lg><l rend="i">Triste &amp; cher souvenir d'une si pure flame,</l>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air doit regarder la page 314.</note>
+          <lg>
+            <l rend="i">Triste &amp; cher souvenir d'une si pure flame,</l>
             <l rend="i">Non, je ne prétens point vous bannir de mon cœur,</l>
             <l rend="i">Je n'écoute que vous dans mon cruel tourment,</l>
             <l rend="i">Sans cesse vous m'offrez Celimene vivante,</l>
@@ -35,6 +36,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

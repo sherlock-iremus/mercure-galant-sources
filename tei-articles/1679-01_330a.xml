@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-
-        
-        <p><hi rend="i">La Troade</hi>, Tragédie nouvelle de M<hi rend="sup">r</hi> Pradon, a paru
-          depuis quinze jours sur le Theatre de l’Hôtel de Bourgogne. Leurs Altesses Royales en ont
-          honoré une Representation de leur presence. C'est un avantage que s’attirent ordinairement
-          les Pieces qui font du bruit.</p>
+    <body>
+      <div>
+        <p><hi rend="i">La Troade</hi>, Tragédie nouvelle de M<hi rend="sup">r</hi> Pradon, a paru depuis quinze jours sur le Theatre de l’Hôtel de Bourgogne. Leurs Altesses Royales en ont honoré une Representation de leur presence. C'est un avantage que s’attirent ordinairement les Pieces qui font du bruit.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

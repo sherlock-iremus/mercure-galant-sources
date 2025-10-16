@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,25 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
+    <body>
+      <div>
         <quote>
           <label rend="center">Lettre LXXI.</label>
           <p rend="i">À Paris. </p>
-          <p>JE ne doute point, Monsieur, que vous n’estimiez assez l’Eglogue que je vous envoye,
-            pour luy donner place, ou dans vostre Mercure du Mois, ou dans l’Extraordinaire que vous
-            nous faites esperer. C’est une Traduction, ou plutost une Imitation de celle de Virgile
-            qui commence par <hi rend="i">Formosus Pastor Corydon</hi>. Monsieur Desmay qui en est
-            l’Autheur, a choisy seulement ce qui luy a semblé le plus propre à son sujet, &amp; le
-            plus capable des beautez de nostre Langue. Il m’en a confié une Copie dont je vous fais
-            part, sans l’en consulter ; car il n’est jamais content de luy-mesme, &amp; il est
-            toûjours le dernier à estre persuadé du merite de ses Ouvrages. Outre ceux de cette
-            nature, que nous avons déja veus de luy, il a donné au Public une premiere Partie de <hi rend="i">l’Esope du temps</hi>, &amp; nous en promet une seconde. Ce sont des Fables
-            fort agreablement moralisées, &amp; enrichies de Figures selon leur divers sujets. Je ne
-            vous dis rien de la maniere aisée dont il sçait tourner les Vers. Vous n’avez qu’à lire
-            pour le connoistre.</p>
+          <p>JE ne doute point, Monsieur, que vous n’estimiez assez l’Eglogue que je vous envoye, pour luy donner place, ou dans vostre Mercure du Mois, ou dans l’Extraordinaire que vous nous faites esperer. C’est une Traduction, ou plutost une Imitation de celle de Virgile qui commence par <hi rend="i">Formosus Pastor Corydon</hi>. Monsieur Desmay qui en est l’Autheur, a choisy seulement ce qui luy a semblé le plus propre à son sujet, &amp; le plus capable des beautez de nostre Langue. Il m’en a confié une Copie dont je vous fais part, sans l’en consulter ; car il n’est jamais content de luy-mesme, &amp; il est toûjours le dernier à estre persuadé du merite de ses Ouvrages. Outre ceux de cette nature, que nous avons déja veus de luy, il a donné au Public une premiere Partie de <hi rend="i">l’Esope du temps</hi>, &amp; nous en promet une seconde. Ce sont des Fables fort agreablement moralisées, &amp; enrichies de Figures selon leur divers sujets. Je ne vous dis rien de la maniere aisée dont il sçait tourner les Vers. Vous n’avez qu’à lire pour le connoistre.</p>
           <label rend="center">Eglogue.</label>
           <lg>
             <l><space/><space/>        Tirsis, qui d’une amour extréme</l>
@@ -206,10 +193,9 @@
             <l>Si Doris est moins belle, elle est moins inhumaine,</l>
             <l>Et Doris de t’aimer fera tout son plaisir.</l>
           </lg>
-          <p>Je croy, Monsieur, que la lecture de cette Eglogue suffira pour vous persuader que M<hi rend="sup">r</hi> Desmay ne fait rien qui ne soit digne d’estre veu par tout. Je vous
-            l’abandonne pour la placer où vous le jugerez à propos, &amp; suis vostre, &amp;c.</p>
+          <p>Je croy, Monsieur, que la lecture de cette Eglogue suffira pour vous persuader que M<hi rend="sup">r</hi> Desmay ne fait rien qui ne soit digne d’estre veu par tout. Je vous l’abandonne pour la placer où vous le jugerez à propos, &amp; suis vostre, &amp;c.</p>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

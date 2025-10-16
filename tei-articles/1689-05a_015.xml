@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,22 +14,21 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-          
-          <p/>
-          <p>Le mesme a fait les six Vers suivans, pour mettre au bas d’un Portrait, où le Roy est peint tout entier en habit de ceremonie. On en a fait tirer une Estampe, &amp; Sa Majesté y est representée dans le Temple de la Gloire. La Fortune, la Valeur, la Sagesse, &amp; la Pieté l’y couronnent.</p>
-          <quote>
-            <lg>
-              <l rend="i"> Estre le refuge des Rois,</l>
-              <l rend="i"> Le Protecteur de l’Eglise &amp; des Loix,</l>
-              <l rend="i"> Toujours Conquerant, toujours juste,</l>
-              <l rend="i"> Pere d’un Fils par tant d’exploits fameux,</l>
-              <l rend="i">C’est sans comparaison estre plus grand qu’Auguste,</l>
-              <l rend="i"> Et plus puissant, &amp; plus heureux.</l>
-            </lg>
-          </quote>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p/>
+        <p>Le mesme a fait les six Vers suivans, pour mettre au bas d’un Portrait, où le Roy est peint tout entier en habit de ceremonie. On en a fait tirer une Estampe, &amp; Sa Majesté y est representée dans le Temple de la Gloire. La Fortune, la Valeur, la Sagesse, &amp; la Pieté l’y couronnent.</p>
+        <quote>
+          <lg>
+            <l rend="i"> Estre le refuge des Rois,</l>
+            <l rend="i"> Le Protecteur de l’Eglise &amp; des Loix,</l>
+            <l rend="i"> Toujours Conquerant, toujours juste,</l>
+            <l rend="i"> Pere d’un Fils par tant d’exploits fameux,</l>
+            <l rend="i">C’est sans comparaison estre plus grand qu’Auguste,</l>
+            <l rend="i"> Et plus puissant, &amp; plus heureux.</l>
+          </lg>
+        </quote>
+      </div>
+    </body>
   </text>
 </TEI>

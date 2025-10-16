@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
-
-        <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : La
-          Figure où est écrit, <hi rend="i">Vista de la Fuente y Plazuela de la Cavada de
-            Madrid</hi>, doit regarder la page 298.</note>
-        <p><hi rend="i">Voicy encor une Veuë d’une des Places publiques de Madrid, que cette Planche
-            vous représente ornée d’une tres-belle Fontaine, comme la Place de</hi> San Domingo. <hi rend="i">Celle-cy est appellée</hi> de la Cevada<hi rend="i">, qui veut dire, le Marché
-            où l’on vend l’Avoine.</hi></p>
+    <body>
+      <div>
+        <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : La Figure où est écrit, <hi rend="i">Vista de la Fuente y Plazuela de la Cavada de Madrid</hi>, doit regarder la page 298.</note>
+        <p><hi rend="i">Voicy encor une Veuë d’une des Places publiques de Madrid, que cette Planche vous représente ornée d’une tres-belle Fontaine, comme la Place de</hi> San Domingo. <hi rend="i">Celle-cy est appellée</hi> de la Cevada<hi rend="i">, qui veut dire, le Marché où l’on vend l’Avoine.</hi></p>
       </div>
     </body>
   </text>

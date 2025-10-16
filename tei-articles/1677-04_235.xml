@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,20 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div copyOf="JLB-MG-1677-04_234">
-        
-        
+    <body>
+      <div copyOf="JLB-MG-1677-04_234">
         <quote>
           <label>Réponse de la main du Roy, à M. le <lb/>Duc de S. Aignan.</label>
-          </quote>
-        <p><hi rend="i">Mon Cousin, Je connois trop bien le fonds de votre cœur, pour douter de vostre joye dans les favorables succés dont il plaist à Dieu de benir mes Armes. Je ne suis pas moins persuadé de vos inquietudes pour les fatigues &amp; les accidens où l’on est obligé de s’exposer en des Expeditions comme celles-cy. Mais vous jugez bien qu’on ne peut reüssir autrement ; &amp; apres tout vous conviendrez qu’il faut toûjours faire son devoir, &amp; du reste se recommander à Dieu. Je le prie de vous avoir, mon Cousin, en sa sainte &amp; digne garde.</hi></p>
-        <p><hi rend="i">A Dunkerque le 27. d’Avril 1677.</hi></p>
-        <p><hi rend="i">Signé, LOUIS.</hi></p>
+        </quote>
+        <p>
+          <hi rend="i">Mon Cousin, Je connois trop bien le fonds de votre cœur, pour douter de vostre joye dans les favorables succés dont il plaist à Dieu de benir mes Armes. Je ne suis pas moins persuadé de vos inquietudes pour les fatigues &amp; les accidens où l’on est obligé de s’exposer en des Expeditions comme celles-cy. Mais vous jugez bien qu’on ne peut reüssir autrement ; &amp; apres tout vous conviendrez qu’il faut toûjours faire son devoir, &amp; du reste se recommander à Dieu. Je le prie de vous avoir, mon Cousin, en sa sainte &amp; digne garde.</hi>
+        </p>
+        <p>
+          <hi rend="i">A Dunkerque le 27. d’Avril 1677.</hi>
+        </p>
+        <p>
+          <hi rend="i">Signé, LOUIS.</hi>
+        </p>
       </div>
     </body>
   </text>

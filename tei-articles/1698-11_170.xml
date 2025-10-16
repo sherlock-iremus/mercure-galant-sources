@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p/>
-          <p>[Le 8 septembre on fit] une Procession solemnelle, où assisterent tous les Corps Seculiers &amp; Reguliers de la Ville. La Procession s’estant terminée à la Charité, on y chanta le <hi rend="sc">Te Deum</hi>, pour rendre graces à Dieu du succés de cette entreprise.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p/>
+        <p>[Le 8 septembre on fit] une Procession solemnelle, où assisterent tous les Corps Seculiers &amp; Reguliers de la Ville. La Procession s’estant terminée à la Charité, on y chanta le <hi rend="sc">Te Deum</hi>, pour rendre graces à Dieu du succés de cette entreprise.</p>
+      </div>
+    </body>
   </text>
 </TEI>

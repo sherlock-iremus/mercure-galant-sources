@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p> Quelques charmes que puissent avoir les plus beaux Lieux, ils ne sont particulierement
-          agreables que par la présence de ce qui plaist. Ces Paroles que M<hi rend="sup">r</hi> des
-          Fontaines a mises en Air, en font foy.</p>
+    <body>
+      <div>
+        <p> Quelques charmes que puissent avoir les plus beaux Lieux, ils ne sont particulierement agreables que par la présence de ce qui plaist. Ces Paroles que M<hi rend="sup">r</hi> des Fontaines a mises en Air, en font foy.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour
-              placer les Figures</hi> : l’Air qui commence par, <hi rend="i">Agreables Ruisseaux,
-              &amp; vous sombres Forests</hi>, doit regarder la page 137.</note>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par, <hi rend="i">Agreables Ruisseaux, &amp; vous sombres Forests</hi>, doit regarder la page 137.</note>
           <lg>
             <l rend="i">Agreables Ruisseaux, &amp; vous sombres Forests,</l>
             <l rend="i">Cessez de m’étaler vostre charme ordinaire,</l>
@@ -41,6 +37,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

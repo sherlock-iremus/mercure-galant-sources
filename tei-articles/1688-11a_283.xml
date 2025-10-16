@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,20 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
-
-        <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : La
-          Médaille doit regarder la page 283.</note>
+    <body>
+      <div>
+        <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : La Médaille doit regarder la page 283.</note>
         <p/>
-        <p>Je vous envoye une Medaille de M. Jurieu, que j’ay fait graver. Vous trouverez un autre
-          Portrait de ce Ministre dans la troisiéme partie des <hi rend="i">Affaires du Temps</hi>,
-          qui m’empesche de vous en rien dire icy. Jamais homme n’a tant écrit de Lettres Pastorales
-          que luy. Il en a accablé les nouveaux Convertis de France ; &amp; pendant qu’il est fort à
-          son aise, &amp; que rien ne luy manque, il leur conseille toujours de s’assembler, &amp;
-          d’exposer leurs vies &amp; leurs biens.</p>
+        <p>Je vous envoye une Medaille de M. Jurieu, que j’ay fait graver. Vous trouverez un autre Portrait de ce Ministre dans la troisiéme partie des <hi rend="i">Affaires du Temps</hi>, qui m’empesche de vous en rien dire icy. Jamais homme n’a tant écrit de Lettres Pastorales que luy. Il en a accablé les nouveaux Convertis de France ; &amp; pendant qu’il est fort à son aise, &amp; que rien ne luy manque, il leur conseille toujours de s’assembler, &amp; d’exposer leurs vies &amp; leurs biens.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

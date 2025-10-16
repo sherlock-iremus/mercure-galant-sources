@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Voicy une Chanson nouvelle qui est estimée des Amateurs de Musique <note resp="editor">Une version de cet air à deux voix et basse continue a été publiée dans le <hi rend="italic">Recueil d'airs sérieux et à boire</hi> d'avril 1695 (Paris, Ballard, 1695, p. 68), sous le titre d'« Air sérieux de M...», dont le premier dessus est identique à l'air publié dans le <hi rend="italic">Mercure galant</hi>.</note>.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin">L’Air doit regarder la page 333.</note>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin">L’Air doit regarder la page 333.</note>
           <lg>
             <l rend="i">Croyez-vous n'estre aimable</l>
             <l rend="i">Que le verre à la main ?</l>
@@ -37,6 +37,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

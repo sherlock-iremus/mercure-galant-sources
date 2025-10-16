@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-
-        
-        <p>Puis que vous trouvez que je m’acquite passablement du mien [de mon emploi] aupres de vous, par les galantes Pieces que j’ay
-          soin de vous envoyer dans toutes mes Lettres Extraordinaires, j’en adjoûteray icy
-          quelques-unes que j’ay crû à propos de vous reserver. Tout ce qu’il y a de Réponses aux
-          six Questions dans la derniere, a esté assez de vostre goust, &amp; j’ay lieu de croire
-          que vous ne recevrez pas moins de plaisir de celles que Mademoiselle Fredinie de Pontoise,
-          a faites à ces mesmes Questions par autant de Madrigaux.</p>
+    <body>
+      <div>
+        <p>Puis que vous trouvez que je m’acquite passablement du mien [de mon emploi] aupres de vous, par les galantes Pieces que j’ay soin de vous envoyer dans toutes mes Lettres Extraordinaires, j’en adjoûteray icy quelques-unes que j’ay crû à propos de vous reserver. Tout ce qu’il y a de Réponses aux six Questions dans la derniere, a esté assez de vostre goust, &amp; j’ay lieu de croire que vous ne recevrez pas moins de plaisir de celles que Mademoiselle Fredinie de Pontoise, a faites à ces mesmes Questions par autant de Madrigaux.</p>
         <quote>
           <label>Sentimens</label>
           <label>sur les six Questions</label>
@@ -86,6 +79,6 @@
           <l><seg type="tab">    </seg>Un heureux moment dans la vie.</l>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

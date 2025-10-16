@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
-        <p>Voicy d’autres Pieces qui portent leur recommandation par elles-mesmes ; ainsi je ne vous
-          dis rien à leur avantage.</p>
+    <body>
+      <div>
+        <p>Voicy d’autres Pieces qui portent leur recommandation par elles-mesmes ; ainsi je ne vous dis rien à leur avantage.</p>
         <quote>
           <label rend="center">Le Berger Heureux, </label>
           <label rend="center">preferé à son Rival par sa Maitresse, à ses yeux mesmes.</label>
@@ -92,6 +89,6 @@
           <l>Que voulant trop aimer, je n’aimasse plus rien.</l>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

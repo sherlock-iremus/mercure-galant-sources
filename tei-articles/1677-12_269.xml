@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,9 +14,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Ces Prodiges donnent de l’occupation à tous ceux qui sçavent se distinguer par leur Esprit. Il n’y a pas jusqu’aux Dames qu’une si belle matiere n’engage à prendre la plume, &amp; voicy ce qu’elle a fait écrire à Mademoiselle de Racilly.</p>
         <quote>
           <label>AU ROY.</label>
@@ -31,6 +30,6 @@
         </quote>
         <p>Si j’avois parlé toûjours aussi juste que celle qui a fait ces Vers, je ne serois pas obligé de me dédire aujourd’huy sur la Situation de Fribourg.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

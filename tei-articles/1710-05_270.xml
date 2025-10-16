@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,25 +14,29 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-                    
-                    
-                    <p>Je vous envoye une Chanson nouvelle.</p>
-                    <quote>
-                        <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : [l’Air] qui commence par <hi rend="i">Que la Recolte sera belle !</hi>, doit regarder la page 270.</note>
-                        <lg>
-                            <l> <hi rend="i">Que la Recolte sera belle !</hi></l>
-                            <l> <hi rend="i">Et que nous devons à Cybelle,</hi></l>
-                            <l><hi rend="i">Qui nous prepare avec profusion</hi></l>
-                            <l><hi rend="i">Tout ce que peut produire une riche Moisson.</hi></l>
-                        </lg>
-                    </quote>
-                    <ref target="images/1710-05_270.JPG">
-                        <figure>
-                            <graphic url="images/1710-05_270.JPG"/>
-                        </figure>
-                    </ref>
-                </div>
-                </body>
+    <body>
+      <div>
+        <p>Je vous envoye une Chanson nouvelle.</p>
+        <quote>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : [l’Air] qui commence par <hi rend="i">Que la Recolte sera belle !</hi>, doit regarder la page 270.</note>
+          <lg>
+            <l> <hi rend="i">Que la Recolte sera belle !</hi></l>
+            <l> <hi rend="i">Et que nous devons à Cybelle,</hi></l>
+            <l>
+              <hi rend="i">Qui nous prepare avec profusion</hi>
+            </l>
+            <l>
+              <hi rend="i">Tout ce que peut produire une riche Moisson.</hi>
+            </l>
+          </lg>
+        </quote>
+        <ref target="images/1710-05_270.JPG">
+          <figure>
+            <graphic url="images/1710-05_270.JPG"/>
+          </figure>
+        </ref>
+      </div>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,9 +14,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <quote>
           <label type="head">Autre Enigme.</label>
           <l>MA Mere sans douleur m’enfanta dans les Champs,</l>
@@ -29,24 +28,20 @@
           <l>Mais beaucoup plus qu’ailleurs, on me voit à l’Armée.</l>
           <l>À vous dire le vray, mon abord ne plaist pas,</l>
           <l><seg type="tab">    </seg>Fort peu de Gens y trouvent des appas.</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Je prens feu, sans estre en
-            colere,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Je prens feu, sans estre en colere,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Je m’échauffe facilement ;</l>
           <l>Ainsi mon entretien ne sçauroit satisfaire</l>
           <l>Ceux qui n’en goúteroient qu’une fois seulement.</l>
           <l>On n’a jamais connu d’Iris, ny de Sylvie,</l>
           <l>Qui de tant d’Amoureux ait esté poursuivie.</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Et quiconque enfin suit mes
-            Loix,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Les suit tout le temps de sa
-            vie.</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Et quiconque enfin suit mes Loix,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Les suit tout le temps de sa vie.</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>De mille Amans tout à la fois</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Je puis satisfaire l’envie ;</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Mals bien que je brúle pour
-            tous,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Mals bien que je brúle pour tous,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Je n’en fais pas-un de jaloux.</l>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

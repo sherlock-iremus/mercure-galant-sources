@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,18 +14,20 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Le second Air que je vous envoye est du mesme M<hi rend="sup">r</hi> d'Ambruis, dont je vous ay parlé amplement dans un des articles de ma Lettre <note resp="editor">L'auteur fait référence à <ref target="MG-1685-04_127">cet article</ref>.</note>.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par <hi rend="i">En vain tu peins nos Champs des plus vives couleurs</hi>, doit regarder la page 296.</note>
-          <lg><l rend="i">En vain tu peins nos Champs des plus vives couleurs</l>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par <hi rend="i">En vain tu peins nos Champs des plus vives couleurs</hi>, doit regarder la page 296.</note>
+          <lg>
+            <l rend="i">En vain tu peins nos Champs des plus vives couleurs</l>
             <l rend="i">Printemps je ne voy point tes Gazons ny tes Fleurs,</l>
             <l rend="i">Je ne suis point touché d'une Saison si belle,</l>
             <l rend="i">Iris me permet de la voir</l>
             <l rend="i">De sa seule beauté mon coeur sent le pouvoir,</l>
-            <l rend="i">Et ne n'ay des yeux que pour elle.</l></lg>
+            <l rend="i">Et ne n'ay des yeux que pour elle.</l>
+          </lg>
         </quote>
         <ref target="images/1685-04_296a.JPG">
           <figure>
@@ -33,6 +35,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

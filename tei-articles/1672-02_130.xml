@@ -1,44 +1,22 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
-        <p />
+        <p/>
       </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text>
-
     <body>
       <div>
-
-        
-        
-
-        <p>Il y en eut un de la Compagnie, qui demanda quelle Charge il avoit. On luy dit qu’il
-          estoit Gentilhomme
-          ordinaire de la Maison du Roy, &amp; qu’il estoit couché sur l’Etat avec cette qualité ;
-          mais parce qu’elle
-          estoit étenduë en trop de paroles, il avoit plû à l’usage de faire appeler tous ceux qui
-          ont les mesmes
-          Charges, les Ordinaires du Roy. On adjousta que Sa Majesté en avoit vingt-six pour porter
-          par tout ses
-          volontez, pour aller faire des Complimens de sa part aux Princes Etrangers, &amp; les
-          faire recevoir dans ses
-          Estats, &amp; pour faire d’autres fonctions semblables, pour lesquelles ils estoient
-          nommez selon qu’il
-          plaisoit au Roy ; &amp; que lors qu’il leur trouvoit de l’intelligence pour les Affaires,
-          il les employoit
-          souvent dans les Negotiations. Ceux qui ne sçavoient point toutes ces choses, furent ravis
-          de les apprendre :
-          En suite dequoy la conversation tourna sur la Promotion de l’Evesque de Laon au
-          Cardinalat.</p>
+        <p>Il y en eut un de la Compagnie, qui demanda quelle Charge il avoit. On luy dit qu’il estoit Gentilhomme ordinaire de la Maison du Roy, &amp; qu’il estoit couché sur l’Etat avec cette qualité ; mais parce qu’elle estoit étenduë en trop de paroles, il avoit plû à l’usage de faire appeler tous ceux qui ont les mesmes Charges, les Ordinaires du Roy. On adjousta que Sa Majesté en avoit vingt-six pour porter par tout ses volontez, pour aller faire des Complimens de sa part aux Princes Etrangers, &amp; les faire recevoir dans ses Estats, &amp; pour faire d’autres fonctions semblables, pour lesquelles ils estoient nommez selon qu’il plaisoit au Roy ; &amp; que lors qu’il leur trouvoit de l’intelligence pour les Affaires, il les employoit souvent dans les Negotiations. Ceux qui ne sçavoient point toutes ces choses, furent ravis de les apprendre : En suite dequoy la conversation tourna sur la Promotion de l’Evesque de Laon au Cardinalat.</p>
       </div>
     </body>
   </text>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,24 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-
-        
+    <body>
+      <div>
         <p/>
-        <p>La renommée apporte d’abord avec une vitesse extraordinaire les
-        premieres nouvelles d’une grande Expedition ; mais il faut beaucoup de temps pour
-        travailler aux détails, &amp; pour les verifier ; &amp; quand ceux qui veulent bien se
-        donner ce soin ont achevé, il n’est pas si facile de les envoyer. Il faut traverser des
-        Mers, &amp; l’on est quelquefois deux mois entiers à Venise sans recevoir des nouvelles du
-        Generalissime Morosini, qui en donneroit presque tous les jours si elles pouvoient venir
-        par terre. Les dernieres ont confirmé la prise de Misitra, dont je vous parlay amplement
-        il y a deux mois, dans une Relation particuliere, intitulée, <hi rend="i">Défaites des
-          Armées Othomanes par les Armées Chrestiennes en Hongrie &amp; dans la Morée, avec la
-          prise de plusieurs Places</hi>. Comme celle d’Athenes vient de reconnoistre la puissance
-        des Venitiens, je vais vous en faire la description, ainsi que j’ay déja décrit <hi rend="i">Patras, Lepante, Castel-Tornese, Corinthe, Acrocorinthe, &amp; Misitra</hi>,
-        dans la Relation dont je viens de vous parler.</p>
+        <p>La renommée apporte d’abord avec une vitesse extraordinaire les premieres nouvelles d’une grande Expedition ; mais il faut beaucoup de temps pour travailler aux détails, &amp; pour les verifier ; &amp; quand ceux qui veulent bien se donner ce soin ont achevé, il n’est pas si facile de les envoyer. Il faut traverser des Mers, &amp; l’on est quelquefois deux mois entiers à Venise sans recevoir des nouvelles du Generalissime Morosini, qui en donneroit presque tous les jours si elles pouvoient venir par terre. Les dernieres ont confirmé la prise de Misitra, dont je vous parlay amplement il y a deux mois, dans une Relation particuliere, intitulée, <hi rend="i">Défaites des Armées Othomanes par les Armées Chrestiennes en Hongrie &amp; dans la Morée, avec la prise de plusieurs Places</hi>. Comme celle d’Athenes vient de reconnoistre la puissance des Venitiens, je vais vous en faire la description, ainsi que j’ay déja décrit <hi rend="i">Patras, Lepante, Castel-Tornese, Corinthe, Acrocorinthe, &amp; Misitra</hi>, dans la Relation dont je viens de vous parler.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

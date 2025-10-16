@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,9 +14,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Quoy qu’on fasse passer l’Amour pour la plus violente de toutes les Passions, il faut que la Gloire ait quelque chose de beaucoup plus fort, puis qu’elle oblige les plus honnestes Gens à préferer les fatigues aux plaisirs, &amp; qu’elle les arrache sans peine de ce qui leur est le plus cher, pour les précipiter dans les occasions les plus redoutables. Il est vray que l’éloignement de ce qu’on aime, n’est pas également sensible à tout le monde. Il y en a qui ne trouvent rien de plus inutile que d’en soûpirer, &amp; j’en connois quelques uns qui s’accommodent admirablement bien des Maximes qu’on nous a données là-dessus depuis quelques temps. Elles ont esté faites en faveur d’une aimable Personne qui recevant tous les jours des reproches de ce qu’elle n’aimoit pas, demanda enfin des Regles qui ne luy laissassent aucun embarras dans l’engagement qu’on cherchoit à luy faire prendre. Ces Vers luy furent envoyez un peu apres. Je ne vous en puis dire l’Autheur. Il nous a voulu cacher son nom, quoy qu’il n’y ait que de la gloire pour luy à les avoûer.</p>
         <quote>
           <label>MAXIMES <lb/>D’AMOUR.</label>
@@ -142,6 +141,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

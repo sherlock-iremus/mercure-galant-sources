@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,19 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-                    
-                    
-                    <p>Je dois vous dire en vous parlant de Poësie, que M<hi rend="sup">r</hi>
-                        l’Abbé Massieu, de l’Academie Royale des Inscriptions, continuë son ouvrage
-                        de l’origine de la Poësie Françoise. Les morceaux qu’il en a lus dans cette
-                        Academie, les applaudissemens qu’ils y ont receus, &amp; les empressemens du
-                        public à demander cet ouvrage, sont des motifs assez pressans pour engager
-                            M<hi rend="sup">r</hi> l’Abbé Massieu à le continuer. Son travail est si
-                        grand &amp; si considerable, que l’ouvrage qui a paru sous ce titre ne doit
-                        point l’empescher de satisfaire la curiosité du public, qui attend son
-                        ouvrage avec une extrême impatience.</p>
-                </div>
-                </body>
+    <body>
+      <div>
+        <p>Je dois vous dire en vous parlant de Poësie, que M<hi rend="sup">r</hi> l’Abbé Massieu, de l’Academie Royale des Inscriptions, continuë son ouvrage de l’origine de la Poësie Françoise. Les morceaux qu’il en a lus dans cette Academie, les applaudissemens qu’ils y ont receus, &amp; les empressemens du public à demander cet ouvrage, sont des motifs assez pressans pour engager M<hi rend="sup">r</hi> l’Abbé Massieu à le continuer. Son travail est si grand &amp; si considerable, que l’ouvrage qui a paru sous ce titre ne doit point l’empescher de satisfaire la curiosité du public, qui attend son ouvrage avec une extrême impatience.</p>
+      </div>
+    </body>
   </text>
 </TEI>

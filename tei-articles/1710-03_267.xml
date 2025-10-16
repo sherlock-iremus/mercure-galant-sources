@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-                    
-                    
-                    <p>En attendant que je puisse vous parler de celuy sur lequel l’Academie aura jetté les yeux, je dois vous dire que Mr le President de Mesmes, qui avoit esté nommé pour remplir celle de M<hi rend="sup">r</hi> le Comte de Crecy y vient d’estre reçû ; mais comme il faut du temps pour vous faire un fidele portrait de ce qui s’est passé à cette reception j’ay cru devoir remettre au mois prochain à vous en entretenir. Vous ne perdrez rien pour attendre, &amp; je suis persuadé que vostre curiosité sera satisfaite.</p>
-                </div>
-                </body>
+    <body>
+      <div>
+        <p>En attendant que je puisse vous parler de celuy sur lequel l’Academie aura jetté les yeux, je dois vous dire que Mr le President de Mesmes, qui avoit esté nommé pour remplir celle de M<hi rend="sup">r</hi> le Comte de Crecy y vient d’estre reçû ; mais comme il faut du temps pour vous faire un fidele portrait de ce qui s’est passé à cette reception j’ay cru devoir remettre au mois prochain à vous en entretenir. Vous ne perdrez rien pour attendre, &amp; je suis persuadé que vostre curiosité sera satisfaite.</p>
+      </div>
+    </body>
   </text>
 </TEI>

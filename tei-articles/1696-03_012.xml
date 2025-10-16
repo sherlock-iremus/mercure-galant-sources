@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
         <p>Je vous envoye un Divertissement de Musique, qui a esté fait pour Monseigneur. Il est de la composition de M<hi rend="sup">r</hi> Boisset, si connu par ses beaux Airs, &amp; les paroles sont de M<hi rend="sup">r</hi> Moreau de Mautour, dont je vous ay déjà envoyé plusieurs Pieces &amp; Traductions galantes.</p>
         <p/>
-       <label>IDILLE DE MEUDON.</label>
+        <label>IDILLE DE MEUDON.</label>
         <p/>
         <label>Flore, l'Hiver, Cerés, Bacchus,</label>
         <label>Deux Plaisirs chantans, deux</label>
@@ -28,17 +27,17 @@
         <p/>
         <label type="speaker">UN BERGER de la suite de Flore.</label>
         <lg>
-         <l rend="i"> Ce n'est plus le temps des Amours</l>
-         <l rend="i"> Que la saison de Flore.</l>
-         <l rend="i">C'est en vain qu'on entend au lever de l'Aurore</l>
-         <l rend="i">Les Oiseaux dans nos bois annoncer les beaux jours.</l>
-         <l rend="i"> On ne voit plus d'Amans sensibles,</l>
-         <l rend="i">Les plaisirs ont quitté nos retraites paisibles,</l>
-         <l rend="i"> La Guerre en a troublé le cours.</l>
-         <l rend="i">La Déesse des fleurs que le Zephire adore,</l>
-         <l rend="i"> Se plaint &amp; repete toujours,</l>
-         <l rend="i"> Ce n'est plus le temps des amours</l>
-         <l rend="i"> Que la saison de Flore.</l>
+          <l rend="i"> Ce n'est plus le temps des Amours</l>
+          <l rend="i"> Que la saison de Flore.</l>
+          <l rend="i">C'est en vain qu'on entend au lever de l'Aurore</l>
+          <l rend="i">Les Oiseaux dans nos bois annoncer les beaux jours.</l>
+          <l rend="i"> On ne voit plus d'Amans sensibles,</l>
+          <l rend="i">Les plaisirs ont quitté nos retraites paisibles,</l>
+          <l rend="i"> La Guerre en a troublé le cours.</l>
+          <l rend="i">La Déesse des fleurs que le Zephire adore,</l>
+          <l rend="i"> Se plaint &amp; repete toujours,</l>
+          <l rend="i"> Ce n'est plus le temps des amours</l>
+          <l rend="i"> Que la saison de Flore.</l>
         </lg>
         <label type="speaker">FLORE.</label>
         <lg>
@@ -54,7 +53,7 @@
           <l rend="i"> Ce n'est plus le temps des amours</l>
           <l rend="i"> Que la saison de Flore.</l>
         </lg>
-          <label type="speaker">Choeur de la suite de Flore.</label>
+        <label type="speaker">Choeur de la suite de Flore.</label>
         <lg>
           <l rend="i">Les échos sont pour nous muets &amp; sourds ;</l>
           <l rend="i">Le bruit de nos Concerts, le son de nos Musettes</l>
@@ -136,7 +135,6 @@
           <l rend="i"> Pour prévenir &amp; renverser</l>
           <l rend="i">De cent Peuples liguez les entreprises vaines.</l>
         </lg>
-
         <label type="speaker">BACCHUS.</label>
         <lg>
           <l rend="i">C'est dans les mains de ce Vainqueur heureux,</l>
@@ -157,10 +155,10 @@
         </lg>
         <label type="speaker">BACCHUS &amp; CERES.</label>
         <lg>
-         <l rend="i">Son illustre Dauphin dans ces lieux nous rassemble,</l>
-         <l rend="i">Celebrons ses vertus dans nos chants les plus doux.</l>
-         <l rend="i"> Peut-on manquer de plaisirs entre nous,</l>
-         <l rend="i">Lors que Bacchus &amp; Ceres sont ensemble ?</l>
+          <l rend="i">Son illustre Dauphin dans ces lieux nous rassemble,</l>
+          <l rend="i">Celebrons ses vertus dans nos chants les plus doux.</l>
+          <l rend="i"> Peut-on manquer de plaisirs entre nous,</l>
+          <l rend="i">Lors que Bacchus &amp; Ceres sont ensemble ?</l>
         </lg>
         <label type="speaker">CHOEUR.</label>
         <lg>
@@ -233,22 +231,23 @@
         </lg>
         <label type="speaker">Deux Plaisirs.</label>
         <lg>
-         <l rend="i">Au milieu de sa Cour ce Vainqueur est aimable</l>
-         <l rend="i">Autant que redoutable</l>
-         <l rend="i">Dans le champ de Mars.</l>
+          <l rend="i">Au milieu de sa Cour ce Vainqueur est aimable</l>
+          <l rend="i">Autant que redoutable</l>
+          <l rend="i">Dans le champ de Mars.</l>
         </lg>
-        <label type="speaker">CHOEUR.</label><lg>
+        <label type="speaker">CHOEUR.</label>
+        <lg>
           <l rend="i">Que le bruit de son nom au doux son des Musettes,</l>
           <l rend="i"> Au doux son des Trompettes</l>
-          <l rend="i"> Retentisse de toutes parts.</l>   
+          <l rend="i"> Retentisse de toutes parts.</l>
         </lg>
         <label type="speaker">Bacchus, Ceres, deux Plaisirs.</label>
         <lg>
-         <l rend="i">Dans ce brillant sejour, dont l'éclat nous enchante,</l>
-         <l rend="i"> Le Prince aimable en fait tous les attraits,</l>
-         <l rend="i"> Que tout ressente</l>
-         <l rend="i"> Sa presence charmante.</l>
-         <l rend="i">Ah, sans luy nos plaisirs ne seroient qu'imparfaits.</l>
+          <l rend="i">Dans ce brillant sejour, dont l'éclat nous enchante,</l>
+          <l rend="i"> Le Prince aimable en fait tous les attraits,</l>
+          <l rend="i"> Que tout ressente</l>
+          <l rend="i"> Sa presence charmante.</l>
+          <l rend="i">Ah, sans luy nos plaisirs ne seroient qu'imparfaits.</l>
         </lg>
         <label type="speaker">CHOEUR.</label>
         <lg>
@@ -269,6 +268,6 @@
           <l rend="i"> Retentisse de toutes parts.</l>
         </lg>
       </div>
-        </body>
+    </body>
   </text>
 </TEI>

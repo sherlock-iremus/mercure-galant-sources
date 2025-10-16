@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Il en est que ny l’ardeur de la Gloire, ny les grandes Actions qui y menent, ne sont
-          point capables de faire manquer aux protestations de n’oublier jamais ce qu’ils aiment,
-          &amp; on connoit une Personne de qualité que sa valeur a élevé à une des plus
-          considérables Charges de l’Armée, qui ayant pris de l’attachement depuis quatre ans pour
-          une Dame d’un fort grand mérite, fait sa joye de luy donner des marques de son souvenir au
-          milieu de ses plus importantes occupations. Leur réciproque tendresse qui n’est point
-          cachée aux Gens du grand monde, a donné lieu à ces Vers.</p>
+    <body>
+      <div>
+        <p>Il en est que ny l’ardeur de la Gloire, ny les grandes Actions qui y menent, ne sont point capables de faire manquer aux protestations de n’oublier jamais ce qu’ils aiment, &amp; on connoit une Personne de qualité que sa valeur a élevé à une des plus considérables Charges de l’Armée, qui ayant pris de l’attachement depuis quatre ans pour une Dame d’un fort grand mérite, fait sa joye de luy donner des marques de son souvenir au milieu de ses plus importantes occupations. Leur réciproque tendresse qui n’est point cachée aux Gens du grand monde, a donné lieu à ces Vers.</p>
         <quote>
           <label rend="center">Madrigal.</label>
           <l>Les Beautez qu’on voit à la Cour,</l>
@@ -34,6 +27,6 @@
           <l>Par la captivité d’un des Fils du Dieu Mars.</l>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

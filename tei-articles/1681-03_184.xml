@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,24 +14,37 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Je vous envoye à mon ordinaire, une Chanson d’un grand Maistre. Il me seroit inutile de
-          rien dire davantage à une Personne qui s’y connoist aussibien que vous.</p>
+    <body>
+      <div>
+        <p>Je vous envoye à mon ordinaire, une Chanson d’un grand Maistre. Il me seroit inutile de rien dire davantage à une Personne qui s’y connoist aussibien que vous.</p>
         <quote>
-          <label>CHANSON.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer
-              les Figures</hi> : la Chanson qui commence par <hi rend="i">Tu m’as promis cent
-              fois</hi>, doit regarder la page 184.</note>
+          <label>CHANSON.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : la Chanson qui commence par <hi rend="i">Tu m’as promis cent fois</hi>, doit regarder la page 184.</note>
           <lg>
-            <l><hi rend="i">Tu m’as promis cent fois,</hi></l>
-            <l><hi rend="i">Que tu viendrois seulete</hi></l>
-            <l><hi rend="i">Dancer dessus l’herbete</hi></l>
-            <l><hi rend="i">Avec moy dans nos Bois.</hi></l>
-            <l><hi rend="i">Ah, ah, viens donc, ma Bergere,</hi></l>
-            <l><hi rend="i">Nous n’avons que trop attendu ;</hi></l>
-            <l><hi rend="i">Songe qu’un plaisir qu’on difere,</hi></l>
-            <l><hi rend="i">Souvent est un plaisir perdu.</hi></l>
+            <l>
+              <hi rend="i">Tu m’as promis cent fois,</hi>
+            </l>
+            <l>
+              <hi rend="i">Que tu viendrois seulete</hi>
+            </l>
+            <l>
+              <hi rend="i">Dancer dessus l’herbete</hi>
+            </l>
+            <l>
+              <hi rend="i">Avec moy dans nos Bois.</hi>
+            </l>
+            <l>
+              <hi rend="i">Ah, ah, viens donc, ma Bergere,</hi>
+            </l>
+            <l>
+              <hi rend="i">Nous n’avons que trop attendu ;</hi>
+            </l>
+            <l>
+              <hi rend="i">Songe qu’un plaisir qu’on difere,</hi>
+            </l>
+            <l>
+              <hi rend="i">Souvent est un plaisir perdu.</hi>
+            </l>
           </lg>
         </quote>
         <ref target="images/1681-03_184.JPG">
@@ -40,6 +53,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

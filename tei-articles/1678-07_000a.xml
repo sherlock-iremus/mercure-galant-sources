@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,22 +14,19 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <quote>
           <label>À MONSEIGNEUR LE DAUPHIN</label>
-          <p><hi rend="i">MONSEIGNEUR,</hi></p>
-          <p><hi rend="i">Vous avez tant de part aux Vers qui suivent, que quoyque ce ne soit pas à
-              Vous qu’ils s’adressent, je puis les regarder comme un Ouvrage qui vous est
-              particulierement dedié. Comme Autheur du Mercure, je suis chargé de le faire voir à
-              toute l’Europe. Il contient des veritez qui vous sont trop glorieuses pour ne me pas
-              faire une joye d’estre employé à le publier. Agréez, MONSEIGNEUR, l’empressement que
-              je vous en témoigne, &amp; me pardonnez la liberté que je prens de vous assurer en
-              mesme temps que de tous ceux qui admireront la peinture qui s’y trouve de vos grandes
-              qualitez, aucun n’en sera jamais si charmé que moy, qui suis avec la plus profonde
-              soûmission,</hi></p>
-          <p><hi rend="i">MONSEIGNEUR,</hi></p>
+          <p>
+            <hi rend="i">MONSEIGNEUR,</hi>
+          </p>
+          <p>
+            <hi rend="i">Vous avez tant de part aux Vers qui suivent, que quoyque ce ne soit pas à Vous qu’ils s’adressent, je puis les regarder comme un Ouvrage qui vous est particulierement dedié. Comme Autheur du Mercure, je suis chargé de le faire voir à toute l’Europe. Il contient des veritez qui vous sont trop glorieuses pour ne me pas faire une joye d’estre employé à le publier. Agréez, MONSEIGNEUR, l’empressement que je vous en témoigne, &amp; me pardonnez la liberté que je prens de vous assurer en mesme temps que de tous ceux qui admireront la peinture qui s’y trouve de vos grandes qualitez, aucun n’en sera jamais si charmé que moy, qui suis avec la plus profonde soûmission,</hi>
+          </p>
+          <p>
+            <hi rend="i">MONSEIGNEUR,</hi>
+          </p>
           <p>     Vostre tres-humble &amp; tres-</p>
           <p>        obeïssant Serviteur, D.</p>
         </quote>
@@ -107,6 +104,6 @@
           <l>   DU JARRY.</l>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

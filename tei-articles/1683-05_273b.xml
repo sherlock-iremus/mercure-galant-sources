@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Ce jeune Prince pourra estre secondé dans ce qu’on espere qu’il procurera d’avantages à
-          la France, puis qu’on ne doute point à la Cour de la grossesse de Madame la Dauphine. Ce
-          bruit qui s’est répandu tous les jours, &amp; qui se confirme par tout, a donné lieu à
-            M<hi rend="sup">r</hi> Diéreville de faire ces Vers.</p>
+    <body>
+      <div>
+        <p>Ce jeune Prince pourra estre secondé dans ce qu’on espere qu’il procurera d’avantages à la France, puis qu’on ne doute point à la Cour de la grossesse de Madame la Dauphine. Ce bruit qui s’est répandu tous les jours, &amp; qui se confirme par tout, a donné lieu à M<hi rend="sup">r</hi> Diéreville de faire ces Vers.</p>
         <quote>
           <label>A MONSEIGNEUR<lb/>LE DAUPHIN,<lb/>Sur la Grossesse de Madame la Dauphine.</label>
           <lg>
@@ -35,6 +31,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

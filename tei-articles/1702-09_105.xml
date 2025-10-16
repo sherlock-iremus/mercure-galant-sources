@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,27 +14,37 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-          
-          <p>Rien ne peut mieux suivre une Fête galante qu’une tendre Chanson, celle qui suit est de Mr le Camus.</p>
-          <quote>
-            <lg>
-              <l><hi rend="i">Les plus charmans plaisirs sont faits pour les cœurs tendres,</hi><note resp="author" place="margin">L’Air, <hi rend="i">Les plus</hi> [doit regarder la page] 106.</note></l>
-              <l><hi rend="i">Amour leur fait goûter mille &amp; mille douceurs,</hi></l>
-              <l> <hi rend="i">Qu’il coûte cher de se défendre,</hi></l>
-              <l><hi rend="i">Disoit un jour Philis, les yeux baignez de pleurs.</hi></l>
-              <l> <hi rend="i">Je cede, il est temps de se rendre,</hi></l>
-              <l><hi rend="i">Vaine fierté tu fais tous mes malheurs,</hi></l>
-              <l><hi rend="i">Les plus charmans plaisirs sont faits pour les cœurs tendres.</hi></l>
-            </lg>
-          </quote>
-          <ref target="images/1702-09_105.JPG">
-            <figure>
-              <graphic url="images/1702-09_105.JPG"/>
-            </figure>
-          </ref>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>Rien ne peut mieux suivre une Fête galante qu’une tendre Chanson, celle qui suit est de Mr le Camus.</p>
+        <quote>
+          <lg>
+            <l>
+              <hi rend="i">Les plus charmans plaisirs sont faits pour les cœurs tendres,</hi>
+              <note resp="author" place="margin">L’Air, <hi rend="i">Les plus</hi> [doit regarder la page] 106.</note>
+            </l>
+            <l>
+              <hi rend="i">Amour leur fait goûter mille &amp; mille douceurs,</hi>
+            </l>
+            <l> <hi rend="i">Qu’il coûte cher de se défendre,</hi></l>
+            <l>
+              <hi rend="i">Disoit un jour Philis, les yeux baignez de pleurs.</hi>
+            </l>
+            <l> <hi rend="i">Je cede, il est temps de se rendre,</hi></l>
+            <l>
+              <hi rend="i">Vaine fierté tu fais tous mes malheurs,</hi>
+            </l>
+            <l>
+              <hi rend="i">Les plus charmans plaisirs sont faits pour les cœurs tendres.</hi>
+            </l>
+          </lg>
+        </quote>
+        <ref target="images/1702-09_105.JPG">
+          <figure>
+            <graphic url="images/1702-09_105.JPG"/>
+          </figure>
+        </ref>
+      </div>
+    </body>
   </text>
 </TEI>

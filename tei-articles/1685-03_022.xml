@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
-        <p>Voicy un Sonnet fort heureusement remply, sur les Bouts-rimez Latins qui ont cours. Comme
-          il est fait pour le Roy, il ne sçauroit manquer de vous plaire. M<hi rend="sup">r</hi> Blanchard, Curé de Fissé aux Environs de Dijon, en est l’Autheur.</p>
+    <body>
+      <div>
+        <p>Voicy un Sonnet fort heureusement remply, sur les Bouts-rimez Latins qui ont cours. Comme il est fait pour le Roy, il ne sçauroit manquer de vous plaire. M<hi rend="sup">r</hi> Blanchard, Curé de Fissé aux Environs de Dijon, en est l’Autheur.</p>
         <quote>
           <lg>
-            <l><hi rend="i">Estre en tout &amp; par tout</hi>
-              <hi rend="sc">non Impar</hi> omnibus,</l>
+            <l><hi rend="i">Estre en tout &amp; par tout</hi><hi rend="sc">non Impar</hi> omnibus,</l>
             <l><hi rend="i">Sçavoir l’Art de parler, sans rien dire qui</hi> fâche,</l>
             <l><hi rend="i">Pour sa gloire &amp; l’Etat travailler sans</hi> relâche,</l>
             <l><hi rend="i">Plus qu’Hercule jadis, faire teste</hi> tribus.</l>
@@ -48,6 +45,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

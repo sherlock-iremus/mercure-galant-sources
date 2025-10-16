@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Anne de Bretagne, dont l’Hôtel de Bourgogne nous a déja donné quelques Représentations, est la premiere Piece nouvelle qui ait paru au Theatre de cet Hyver. Elle est de Monsieur Ferrier. Les Vers en sont fort aisez, &amp; les pensées naturellement exprimées. Il y a des endroits dans la peinture qu’on y fait de Charles VIII. tres-finement tournez à l’avantage du Roy. Leurs Altesses Royales l’ont esté voir, &amp; en sont sorties fort satisfaites.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

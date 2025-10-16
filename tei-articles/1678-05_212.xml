@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,18 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-
-        
-        <p>Pour satisfaire vos Amies qui prétendent que je vous devois épargner la peine de leur
-          expliquer la Chanson Italienne que vous avez trouvée dans ma Lettre du Mois de Mars, je
-          vous en envoye la Traduction. Elle est tres-fidelle, &amp; il ne faut pas avoir un
-          médiocre talent en Poësie, pour pouvoir donner un tour agreable à ce qui est traduit
-          fidellement.</p>
+    <body>
+      <div>
+        <p>Pour satisfaire vos Amies qui prétendent que je vous devois épargner la peine de leur expliquer la Chanson Italienne que vous avez trouvée dans ma Lettre du Mois de Mars, je vous en envoye la Traduction. Elle est tres-fidelle, &amp; il ne faut pas avoir un médiocre talent en Poësie, pour pouvoir donner un tour agreable à ce qui est traduit fidellement.</p>
         <quote>
-          <label rend="center">Traduction de la Chanson Italienne du Mois de Mars, qui commence par,
-              <hi rend="i">Questa bella d’amor nemica.</hi></label>
+          <label rend="center">Traduction de la Chanson Italienne du Mois de Mars, qui commence par, <hi rend="i">Questa bella d’amor nemica.</hi></label>
           <lg>
             <l rend="i">Cette Belle qu’Amour n’a jamais pû toucher,</l>
             <l rend="i">Dont le cœur fut toûjours aussi dur qu’un Rocher,</l>
@@ -46,9 +39,8 @@
             <l rend="i">Du moins ouvre les yeux pour le voir expirer.</l>
           </lg>
         </quote>
-        <p>Ces Vers sont du Fils d’un Auditeur de la Chambre des Comptes de Dijon. C’est tout ce qui
-          m’en est connu.</p>
+        <p>Ces Vers sont du Fils d’un Auditeur de la Chambre des Comptes de Dijon. C’est tout ce qui m’en est connu.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

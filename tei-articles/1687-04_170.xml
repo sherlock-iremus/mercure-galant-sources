@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-          
-          <p>[...] Il avoit épousé en premieres Noces Urbaine de Sainte Marthe, d’une ancienne Famille, qui a donné plusieurs illustres Autheurs sur l’Histoire de France, &amp; dans les belles Lettres, qui ont fait part de leurs Ouvrages au Public ;</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>[...] Il avoit épousé en premieres Noces Urbaine de Sainte Marthe, d’une ancienne Famille, qui a donné plusieurs illustres Autheurs sur l’Histoire de France, &amp; dans les belles Lettres, qui ont fait part de leurs Ouvrages au Public ;</p>
+      </div>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p/>
-          <p>On vous a dit vray, Madame. Ce sont tous les jours Divertissemens nouveaux à Versailles. Les Apartemens, le Bal, l'Opéra &amp; la Comédie, sont des plaisirs que l'on y fait succeder les uns aux autres, &amp; tout y est digne de la majesté du Lieu ; mais ce qui vous surprendra, c'est que pendant que toute la Cour se divertit, le Roy que les longs Conseils où il est incessamment, devroient avoir rebuté, prend encore ce temps pour travailler en particulier, tant il a soin de répondre aux intentions du Ciel, qui ne l'a mis dans le Trône, qu'afin qu'en veillant au bien de ses Peuples, il portast la France dans le haut degré de gloire où nous la voyons. [...]</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p/>
+        <p>On vous a dit vray, Madame. Ce sont tous les jours Divertissemens nouveaux à Versailles. Les Apartemens, le Bal, l'Opéra &amp; la Comédie, sont des plaisirs que l'on y fait succeder les uns aux autres, &amp; tout y est digne de la majesté du Lieu ; mais ce qui vous surprendra, c'est que pendant que toute la Cour se divertit, le Roy que les longs Conseils où il est incessamment, devroient avoir rebuté, prend encore ce temps pour travailler en particulier, tant il a soin de répondre aux intentions du Ciel, qui ne l'a mis dans le Trône, qu'afin qu'en veillant au bien de ses Peuples, il portast la France dans le haut degré de gloire où nous la voyons. [...]</p>
+      </div>
+    </body>
   </text>
 </TEI>

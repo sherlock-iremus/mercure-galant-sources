@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Voicy d'autres paroles notées, que vous prendrez plaisir à chanter. <note resp="editor">L'air a été publié en juillet 1699 dans le <hi rend="italic">Recueil d'airs sérieux et à boire</hi> (Paris, Ballard, 1699, p. 138) sous le nom de Montailly.</note></p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">C'est un bonheur</hi>, doit regarder la page 2[5]3.</note>
-          <lg><l rend="i">C'est un bonheur charmant</l>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">C'est un bonheur</hi>, doit regarder la page 2[5]3.</note>
+          <lg>
+            <l rend="i">C'est un bonheur charmant</l>
             <l rend="i">D'estre fidelle,</l>
             <l rend="i">C'est un bonheur charmant</l>
             <l rend="i">D'aimer constamment.</l>
@@ -31,7 +32,8 @@
             <l rend="i">C'est un bonheur charmant</l>
             <l rend="i">D'estre fidelle,</l>
             <l rend="i">C'est un bonheur charmant</l>
-            <l rend="i">D'aimer constamment.</l></lg>
+            <l rend="i">D'aimer constamment.</l>
+          </lg>
         </quote>
         <ref target="images/1699-06_252.JPG">
           <figure>
@@ -39,6 +41,6 @@
           </figure>
         </ref>
       </div>
-        </body>
+    </body>
   </text>
 </TEI>

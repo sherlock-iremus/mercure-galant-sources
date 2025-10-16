@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,18 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Les Balades qu’on a veuës depuis deux mois, en ont amené la mode. Chacun a essayé son
-          talent sur ce genre de Poesie ; &amp; une Dame Solitaire qui se plaist à se cacher, quoy
-          qu’elle soit seûre que tout ce qu’elle est luy feroit honneur, si elle vouloit le faire
-          paroistre, en a fait deux qui me sont tombées entre les mains, sur les Rimes des
-          premiéres. Elles sont sur des matieres qui s’accommodent à la sainteté du temps où nous
-          sommes.</p>
+    <body>
+      <div>
+        <p>Les Balades qu’on a veuës depuis deux mois, en ont amené la mode. Chacun a essayé son talent sur ce genre de Poesie ; &amp; une Dame Solitaire qui se plaist à se cacher, quoy qu’elle soit seûre que tout ce qu’elle est luy feroit honneur, si elle vouloit le faire paroistre, en a fait deux qui me sont tombées entre les mains, sur les Rimes des premiéres. Elles sont sur des matieres qui s’accommodent à la sainteté du temps où nous sommes.</p>
         <quote>
-          <label>SUR LES RIMES<lb/>DE LA BALADE<lb/>DU MERCURE DE JANVIER.<lb/>On n’aime plus comme
-            on aimoit jadis.</label>
+          <label>SUR LES RIMES<lb/>DE LA BALADE<lb/>DU MERCURE DE JANVIER.<lb/>On n’aime plus comme on aimoit jadis.</label>
           <lg>
             <l><hi rend="i">A caution tous Hommes sont</hi> sujets,</l>
             <l><hi rend="i">Des le premier cette Loy fut</hi> écrite.</l>
@@ -87,6 +80,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

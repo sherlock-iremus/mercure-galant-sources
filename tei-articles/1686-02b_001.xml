@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,27 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-
-        
+    <body>
+      <div>
         <p/>
-        <p><hi rend="i">Je vous tiens parole, Madame, &amp; j’ajoûte à ma Lettre une seconde Partie,
-            ainsi que je vous l’ay promis au commencement de la premiere. Presque tous les Ouvrages
-            qui la remplissent, ont esté faits à l’occasion de ce que le Roy vient de faire en
-            faveur de la Religion Catholique. Ceux qui ne sont point sur cette matiere, regardent le
-            Roy par d’autres endroits. Ainsi l’on peut dire que le tout ensemble forme un corps
-            d’Eloges de cet Auguste Monarque, composé par plus de cinquante personnes, dont les
-            sentimens doivent faire mieux connoistre aux Siecles à venir ce que le nostre a pensé
-            des avantages qu’il vient de procurer à l’Eglise, que ce qu’en dira l’Histoire. En
-            effet, l’Histoire est l’ouvrage d’un homme seul qui peut déguiser la verité, au lieu que
-            ce que je vous envoye estant l’ouvrage de quantité d’Autheurs differens, est comme un
-            Acte signé de tous les Sujets de Sa Majesté, pour confirmer à ceux qui viendront aprés
-            nous, des choses si éloignées de toute apparence de verité, que pour estre creuës elles
-            ont besoin d’un nombre infiny de témoignages, &amp; que ceux mesmes qui en parlent ayent
-            vécu du Regne du Roy, sans quoy la Posterité auroit peine à croire les étonnantes
-            merveilles qui font aujourd’huy l’entretien &amp; l’admiration de tout l’Univers. Voicy
-            les Ouvrages dont j’ay commencé à vous parler.</hi></p>
+        <p>
+          <hi rend="i">Je vous tiens parole, Madame, &amp; j’ajoûte à ma Lettre une seconde Partie, ainsi que je vous l’ay promis au commencement de la premiere. Presque tous les Ouvrages qui la remplissent, ont esté faits à l’occasion de ce que le Roy vient de faire en faveur de la Religion Catholique. Ceux qui ne sont point sur cette matiere, regardent le Roy par d’autres endroits. Ainsi l’on peut dire que le tout ensemble forme un corps d’Eloges de cet Auguste Monarque, composé par plus de cinquante personnes, dont les sentimens doivent faire mieux connoistre aux Siecles à venir ce que le nostre a pensé des avantages qu’il vient de procurer à l’Eglise, que ce qu’en dira l’Histoire. En effet, l’Histoire est l’ouvrage d’un homme seul qui peut déguiser la verité, au lieu que ce que je vous envoye estant l’ouvrage de quantité d’Autheurs differens, est comme un Acte signé de tous les Sujets de Sa Majesté, pour confirmer à ceux qui viendront aprés nous, des choses si éloignées de toute apparence de verité, que pour estre creuës elles ont besoin d’un nombre infiny de témoignages, &amp; que ceux mesmes qui en parlent ayent vécu du Regne du Roy, sans quoy la Posterité auroit peine à croire les étonnantes merveilles qui font aujourd’huy l’entretien &amp; l’admiration de tout l’Univers. Voicy les Ouvrages dont j’ay commencé à vous parler.</hi>
+        </p>
         <quote>
           <label>AU ROY,<lb/><hi rend="i">Pour avoir détruit l’Heresie</hi>.<lb/><hi rend="i">SONNET.</hi></label>
           <lg>
@@ -64,6 +49,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

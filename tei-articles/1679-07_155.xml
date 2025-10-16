@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Un de ces Amans respectueux qui craignent d’estre mal reçeus en se déclarant d’abord
-          ouvertement, apres avoir parlé plusieurs fois de sa passion à une Belle sous le nom d’un
-          autre, a trouvé enfin moyen de lui faire lire ce Madrigal.</p>
+    <body>
+      <div>
+        <p>Un de ces Amans respectueux qui craignent d’estre mal reçeus en se déclarant d’abord ouvertement, apres avoir parlé plusieurs fois de sa passion à une Belle sous le nom d’un autre, a trouvé enfin moyen de lui faire lire ce Madrigal.</p>
         <quote>
           <label type="head">Declaration <lb/>d’amour. <lb/>A Mademoiselle de S.</label>
           <l>JE vous ay dit souvent, charmante Solitaire,</l>
@@ -30,6 +27,6 @@
           <l>Que mon meilleur Amy n’est autre que moy-même ?</l>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

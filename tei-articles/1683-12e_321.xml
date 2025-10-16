@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
-<p><hi rend="i">La premiere des Enigmes du mois de Novembre, dont</hi> la Cramaillere <hi rend="i">estoit le Mot, a donné lieu aux Explications que vous allez lire.</hi></p>
+    <body>
+      <div>
+        <p><hi rend="i">La premiere des Enigmes du mois de Novembre, dont</hi> la Cramaillere <hi rend="i">estoit le Mot, a donné lieu aux Explications que vous allez lire.</hi></p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

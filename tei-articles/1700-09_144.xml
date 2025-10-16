@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,18 +14,20 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>L'Air nouveau dont je vous envoye les paroles notées, est fort estimé des Connoisseurs. <note resp="editor">Dans le <hi rend="italic">Recueil d'airs sérieux et à boire</hi> de juillet 1700 (Paris, Ballard, 1700, p. 130) figure un air de M. de La Coste dont la partie de dessus est identique à celle de cet air, à l'exception de variantes mineures (mes. 12 et 13) et de la tonalité (au ton supérieur dans l'édition Ballard). La basse continue diffère. On ignore s'il s'agit d'un air de La Coste harmonisé de deux manières ou d'une mélodie harmonisée par deux compositeurs différents.</note></p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin">L’Air qui commence par, <hi rend="i">Ainsi que mon amour ma foiblesse, &amp;c.</hi> doit regarder la page 145.</note>
-          <lg><l rend="i">Ainsi que mon amour ma foiblesse est extrême,</l>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin">L’Air qui commence par, <hi rend="i">Ainsi que mon amour ma foiblesse, &amp;c.</hi> doit regarder la page 145.</note>
+          <lg>
+            <l rend="i">Ainsi que mon amour ma foiblesse est extrême,</l>
             <l rend="i">Malgré tout mon dépit, cruelle, je vous aime,</l>
             <l rend="i">Et je ne puis aimer que vous.</l>
             <l rend="i">Si vous n'approuvez pas le feu qui me devore,</l>
             <l rend="i">Percez mon tendre cœur, je le livre à vos coups,</l>
-            <l rend="i">Mais craignez d'y blesser l'ingrate que j'adore.</l></lg>
+            <l rend="i">Mais craignez d'y blesser l'ingrate que j'adore.</l>
+          </lg>
         </quote>
         <ref target="images/1700-09_144.JPG">
           <figure>
@@ -33,6 +35,6 @@
           </figure>
         </ref>
       </div>
-        </body>
+    </body>
   </text>
 </TEI>

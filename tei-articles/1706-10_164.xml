@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,30 +14,33 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-                    
-                    
-                    <p>Quoy que les paroles que je vous envoye n’ayent pas esté faites comme le
-                        Madrigal que vous venez de lire, au sujet du mariage dont je viens de vous
-                        parler, il peut fort bien le suivre, &amp; estre chanté devant la nouvelle
-                        Epouse.</p>
-                    <quote>
-                        <label>AIR NOUVEAU.</label><note resp="author" place="margin">L’air, <hi rend="i">Que mon Iris</hi>, page 165.</note>
-                        <lg>
-                            <l> <hi rend="i">Que mon Iris est belle,</hi></l>
-                            <l> <hi rend="i">Que j’en suis amoureux ;</hi></l>
-                            <l><hi rend="i">L’Himen va nous unir d’une chaîne éternelle,</hi></l>
-                            <l><hi rend="i">Je suis au comble de mes vœux</hi></l>
-                            <l><hi rend="i">Et je vais estre autant heureux</hi></l>
-                            <l> <hi rend="i">Que mon Iris est belle.</hi></l>
-                        </lg>
-                    </quote>
-                    <ref target="images/1706-10_164.JPG">
-                        <figure>
-                            <graphic url="images/1706-10_164.JPG"/>
-                        </figure>
-                    </ref>
-                </div>
-                </body>
+    <body>
+      <div>
+        <p>Quoy que les paroles que je vous envoye n’ayent pas esté faites comme le Madrigal que vous venez de lire, au sujet du mariage dont je viens de vous parler, il peut fort bien le suivre, &amp; estre chanté devant la nouvelle Epouse.</p>
+        <quote>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin">L’air, <hi rend="i">Que mon Iris</hi>, page 165.</note>
+          <lg>
+            <l> <hi rend="i">Que mon Iris est belle,</hi></l>
+            <l> <hi rend="i">Que j’en suis amoureux ;</hi></l>
+            <l>
+              <hi rend="i">L’Himen va nous unir d’une chaîne éternelle,</hi>
+            </l>
+            <l>
+              <hi rend="i">Je suis au comble de mes vœux</hi>
+            </l>
+            <l>
+              <hi rend="i">Et je vais estre autant heureux</hi>
+            </l>
+            <l> <hi rend="i">Que mon Iris est belle.</hi></l>
+          </lg>
+        </quote>
+        <ref target="images/1706-10_164.JPG">
+          <figure>
+            <graphic url="images/1706-10_164.JPG"/>
+          </figure>
+        </ref>
+      </div>
+    </body>
   </text>
 </TEI>

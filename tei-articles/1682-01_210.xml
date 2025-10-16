@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,23 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
-        <p>Mr l'Evesque de Clermont a reçeu depuis dix ou douze jours l'Abjuration de Mr &amp; de
-          Madame de Strada, à laquelle ce vigilant &amp; pieux Prélat travailloit depuis long temps.
-          Ils estoient tous deux nez dans l'Héresie, Mr de Strada, Seigneur de Serlieve à une lieuë
-          de Clermont, estant originaire de Flandre, &amp; Madame de Strada de la Famille des
-          Fabrices. Les bonnes qualitez de l'un &amp; de l'autre les faisoient fort estimer dans la
-          Province, &amp; ils n'estoient connus de personne qui ne souhaitast leur conversion. Ainsi
-          ce fut une joye universelle de les voir enfin assez penétrez des lumieres de nostre Foy,
-          pour abjurer l'Erreur de Calvin. La Cerémonie se fit dans l'Eglise Cathédrale de Clermont
-          avec une affluence de monde incroyable. Mademoiselle de Strada leur Fille suivit leur
-          exemple, ainsi qu'une Fille de leurs Domestiques. Mr l'Evesque leur fit un Discours qui
-          attira les larmes de tous ceux qui l'entendirent. Le Te Deum fut chanté en suite
-          solemnellement, &amp; tout le monde sortit avec une satisfaction extraordinaire.</p>
+        <p>Mr l'Evesque de Clermont a reçeu depuis dix ou douze jours l'Abjuration de Mr &amp; de Madame de Strada, à laquelle ce vigilant &amp; pieux Prélat travailloit depuis long temps. Ils estoient tous deux nez dans l'Héresie, Mr de Strada, Seigneur de Serlieve à une lieuë de Clermont, estant originaire de Flandre, &amp; Madame de Strada de la Famille des Fabrices. Les bonnes qualitez de l'un &amp; de l'autre les faisoient fort estimer dans la Province, &amp; ils n'estoient connus de personne qui ne souhaitast leur conversion. Ainsi ce fut une joye universelle de les voir enfin assez penétrez des lumieres de nostre Foy, pour abjurer l'Erreur de Calvin. La Cerémonie se fit dans l'Eglise Cathédrale de Clermont avec une affluence de monde incroyable. Mademoiselle de Strada leur Fille suivit leur exemple, ainsi qu'une Fille de leurs Domestiques. Mr l'Evesque leur fit un Discours qui attira les larmes de tous ceux qui l'entendirent. Le Te Deum fut chanté en suite solemnellement, &amp; tout le monde sortit avec une satisfaction extraordinaire.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

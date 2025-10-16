@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-                
-                
-                <p>La nouvelle qu’on a euë icy de l’expedition des
-                        François dans le Bresil, nous a esté confirmée par un Bastiment arrivé de
-                        San Salvador, &amp; l’on y adjouste d’autant plus de foy, que nous n’avons
-                        point de nouvelles de la Flotte que nous en attendons.</p>
-
-            </div>
-
-
+    <body>
+      <div>
+        <p>La nouvelle qu’on a euë icy de l’expedition des François dans le Bresil, nous a esté confirmée par un Bastiment arrivé de San Salvador, &amp; l’on y adjouste d’autant plus de foy, que nous n’avons point de nouvelles de la Flotte que nous en attendons.</p>
+      </div>
     </body>
   </text>
 </TEI>

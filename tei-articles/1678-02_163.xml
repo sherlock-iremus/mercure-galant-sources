@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,20 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Apres le bruit des armes que la Relation qui vient de vous occuper, vous doit avoir fait
-          entendre, il est bon d’en faire suivre un plus doux, la Musique me le fournira, &amp; vous
-          pourrez vous délasser agreablement de la Guerre, en chantant ce que je vous envoye. C’est
-          un grand Air de la composition de M<hi rend="sup">r</hi> de la Tour. Vous sçavez dans
-          quelle estime il est parmy tous les Connoisseurs ; mais avant que de vous attacher à la
-          Note, examinez les Paroles sur lesquelles il a travaillé. Elles sont d’une Personne qui
-          est au dessus de toute sorte de loüanges. Le nom de Madame des Houlieres vous en fera
-          demeurer d’accord.</p>
+    <body>
+      <div>
+        <p>Apres le bruit des armes que la Relation qui vient de vous occuper, vous doit avoir fait entendre, il est bon d’en faire suivre un plus doux, la Musique me le fournira, &amp; vous pourrez vous délasser agreablement de la Guerre, en chantant ce que je vous envoye. C’est un grand Air de la composition de M<hi rend="sup">r</hi> de la Tour. Vous sçavez dans quelle estime il est parmy tous les Connoisseurs ; mais avant que de vous attacher à la Note, examinez les Paroles sur lesquelles il a travaillé. Elles sont d’une Personne qui est au dessus de toute sorte de loüanges. Le nom de Madame des Houlieres vous en fera demeurer d’accord.</p>
         <quote rend="border">
-          <label>AIR NOUVEAU.<note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : la seconde Chanson
-                qui commence par Ah que je sens d’inquietude, doit regarder la Page 164.</note></label>
+          <label>AIR NOUVEAU.<note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : la seconde Chanson qui commence par Ah que je sens d’inquietude, doit regarder la Page 164.</note></label>
           <lg>
             <l rend="i"><space/>Ah, que je sens d’inquietude !</l>
             <l rend="i">Que j’ay de mouvemens qui m’estoient inconnus !</l>
@@ -47,6 +38,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

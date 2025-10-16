@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-          
-          <p><hi rend="i">Le S<hi rend="sup">r</hi> Blageart, Libraire, qui vend cette Relation, a aussi donné deux Livres nouveaux. L’un est</hi> Cara Mustapha, Grand Vizir, <hi rend="i">Histoire contenant son élevation, ses amours dans le Serrail, ses divers emplois, le vray sujet qui luy a fait entreprendre le Siege de Vienne, &amp; les particularitez de sa mort. L’autre Livre est</hi> La Seconde Partie de l’Académie Calante, <hi rend="i">que le Public souhaitoit depuis longtemps.</hi></p>
-        </div>
-      </body>
+    <body>
+      <div>
+        <p><hi rend="i">Le S<hi rend="sup">r</hi> Blageart, Libraire, qui vend cette Relation, a aussi donné deux Livres nouveaux. L’un est</hi> Cara Mustapha, Grand Vizir, <hi rend="i">Histoire contenant son élevation, ses amours dans le Serrail, ses divers emplois, le vray sujet qui luy a fait entreprendre le Siege de Vienne, &amp; les particularitez de sa mort. L’autre Livre est</hi> La Seconde Partie de l’Académie Calante, <hi rend="i">que le Public souhaitoit depuis longtemps.</hi></p>
+      </div>
+    </body>
   </text>
 </TEI>

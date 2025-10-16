@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>La grande Troupe, qui est à présent l’unique, a représenté dans ce mois pour Piece
-          nouvelle, <hi rend="i">le Solyman</hi> de M<hi rend="sup">r</hi> de la Tuilerie, dont on a
-          fort estimé les Vers. Elle va souvent joüer à Versailles dans l’Apartement de Monseigneur
-          le Dauphin, où elle divertit ce jeune Prince depuis le retour de sa santé. Mademoiselle de
-          Chammeslé, qui n’avoit point encor eu l’honneur de joüer devant Madame la Dauphine, y a
-          paru avec tant d’éclat, que quoy que cette Princesse en eust entendu dire beaucoup de
-          bien, elle en a trouvé encor davantage, &amp; est demeurée d’accord qu’il n’y eut jamais
-          une maniere de joüer plus propre à toucher le cœur.</p>
+    <body>
+      <div>
+        <p>La grande Troupe, qui est à présent l’unique, a représenté dans ce mois pour Piece nouvelle, <hi rend="i">le Solyman</hi> de M<hi rend="sup">r</hi> de la Tuilerie, dont on a fort estimé les Vers. Elle va souvent joüer à Versailles dans l’Apartement de Monseigneur le Dauphin, où elle divertit ce jeune Prince depuis le retour de sa santé. Mademoiselle de Chammeslé, qui n’avoit point encor eu l’honneur de joüer devant Madame la Dauphine, y a paru avec tant d’éclat, que quoy que cette Princesse en eust entendu dire beaucoup de bien, elle en a trouvé encor davantage, &amp; est demeurée d’accord qu’il n’y eut jamais une maniere de joüer plus propre à toucher le cœur.</p>
       </div>
     </body>
   </text>

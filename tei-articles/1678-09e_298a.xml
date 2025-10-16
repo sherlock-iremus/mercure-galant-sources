@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,35 +14,16 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-
-        
-
-        <p>On n’a pas seulement expliqué ces caracteres de l’œuf du Serpent sur la Paix. L'enfant
-          monstrueux de Toulouse en a esté un présage. Vous le retrouverez dans cette Lettre.</p>
+    <body>
+      <div>
+        <p>On n’a pas seulement expliqué ces caracteres de l’œuf du Serpent sur la Paix. L'enfant monstrueux de Toulouse en a esté un présage. Vous le retrouverez dans cette Lettre.</p>
         <quote>
           <label rend="center">LETTRE XXV.</label>
           <p rend="i">À Rheims. </p>
-          <p>L'Utile est si heureusement meslé avec l’agreable dans ce que vous nous donnez tous les
-            Mois, que la lecture de vos Ouvrages n’instruit pas moins qu’elle divertit. C'est une
-            verité, Monsieur, dont vous serez aisément persuadé, quand je vous auray dit dequelle
-            maniere les Esprits ont esté exercez par vostre Mercure de Juillet. L'Enfant de Toulouse
-            dont vous nous parlez, a donné l’estre à bien des pensées. Il est cause qu’un fameux
-            Medecin de nostre Ville a pris dessein de faire voir au Public un Traité qu’il a composé
-            sur ce Prodige. Mais d’autres sans vouloir feüilleter ny Avicennes, ny Galien, pour
-            découvrir les causes d’une naissance si extraordinaire, ont crû qu’un Enfant si
-            merveilleux n’estoit rien autre chose qu’un présage de la Paix, qui apres avoir tenu
-            longtemps en travail (pour me servir de l’Allégorie) tous les Plenipotentiaires des
-            Princes de l’Europe, a pris enfin naissance lors qu’on s’y attendoit le moins. J'aurois
-            bien des choses à vous dire, si je ne voulois m’arrester sur toutes les matieres qui ont
-            fait icy le sujet des plus agreables conversations. Le Procés d’un Chat a fourny des
-            pensées fort spirituelles, aussi bien que l’œuvre trouvé dans le ventre du Serpent de
-            Montpellier. Je vous en rendrois compte, si je n’avoit impatience de vous dire que je
-            suis vostre, &amp;c.</p>
+          <p>L'Utile est si heureusement meslé avec l’agreable dans ce que vous nous donnez tous les Mois, que la lecture de vos Ouvrages n’instruit pas moins qu’elle divertit. C'est une verité, Monsieur, dont vous serez aisément persuadé, quand je vous auray dit dequelle maniere les Esprits ont esté exercez par vostre Mercure de Juillet. L'Enfant de Toulouse dont vous nous parlez, a donné l’estre à bien des pensées. Il est cause qu’un fameux Medecin de nostre Ville a pris dessein de faire voir au Public un Traité qu’il a composé sur ce Prodige. Mais d’autres sans vouloir feüilleter ny Avicennes, ny Galien, pour découvrir les causes d’une naissance si extraordinaire, ont crû qu’un Enfant si merveilleux n’estoit rien autre chose qu’un présage de la Paix, qui apres avoir tenu longtemps en travail (pour me servir de l’Allégorie) tous les Plenipotentiaires des Princes de l’Europe, a pris enfin naissance lors qu’on s’y attendoit le moins. J'aurois bien des choses à vous dire, si je ne voulois m’arrester sur toutes les matieres qui ont fait icy le sujet des plus agreables conversations. Le Procés d’un Chat a fourny des pensées fort spirituelles, aussi bien que l’œuvre trouvé dans le ventre du Serpent de Montpellier. Je vous en rendrois compte, si je n’avoit impatience de vous dire que je suis vostre, &amp;c.</p>
           <p><hi rend="sc">Roland</hi>, Avocat.</p>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,25 +14,36 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Une belle personne, &amp; de qualité devant Quester pour les pauvres le jour d’une grande
-          Feste dans une celebre Paroisse de Paris, un de ses amis envoya à ce sujet le Madrigal
-          suivant à un Magistrat de distinction qui devoit s’y trouver.</p>
+    <body>
+      <div>
+        <p>Une belle personne, &amp; de qualité devant Quester pour les pauvres le jour d’une grande Feste dans une celebre Paroisse de Paris, un de ses amis envoya à ce sujet le Madrigal suivant à un Magistrat de distinction qui devoit s’y trouver.</p>
         <quote>
           <label>A. M. D. M. D. R.</label>
           <lg>
-            <l><hi rend="i">Vous estes tendre &amp; charitable,</hi></l>
-            <l><hi rend="i">Gardez vous des appas d’une Questeuse aimable,</hi></l>
-            <l><hi rend="i">Dans un jour, dans un lieu, consacrez au Seigneur,</hi></l>
-            <l><hi rend="i">Où le pauvre attend d’elle une riche ressource,</hi></l>
-            <l><hi rend="i">Le seul amour divin doit estre le vainqueur.</hi></l>
-            <l><hi rend="i">La Belle en veut à vostre bource,</hi></l>
-            <l><hi rend="i">Et n’en veut pas à vostre cœur.</hi></l>
+            <l>
+              <hi rend="i">Vous estes tendre &amp; charitable,</hi>
+            </l>
+            <l>
+              <hi rend="i">Gardez vous des appas d’une Questeuse aimable,</hi>
+            </l>
+            <l>
+              <hi rend="i">Dans un jour, dans un lieu, consacrez au Seigneur,</hi>
+            </l>
+            <l>
+              <hi rend="i">Où le pauvre attend d’elle une riche ressource,</hi>
+            </l>
+            <l>
+              <hi rend="i">Le seul amour divin doit estre le vainqueur.</hi>
+            </l>
+            <l>
+              <hi rend="i">La Belle en veut à vostre bource,</hi>
+            </l>
+            <l>
+              <hi rend="i">Et n’en veut pas à vostre cœur.</hi>
+            </l>
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

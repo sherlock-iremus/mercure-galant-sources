@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,10 +14,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
+    <body>
+      <div>
         <quote>
           <label>PRIERE POUR LE ROY.</label>
           <lg>
@@ -36,9 +34,8 @@
             <l rend="i"> Tu ne l’abandonnes jamais ?</l>
           </lg>
         </quote>
-        <p>Cette Piece est de M<hi rend="sup">r</hi> l’Abbé de Maumenet, dont je vous ay envoyé un
-          fort bel Ouvrage au commencement de ma Lettre du mois de Juillet dernier.</p>
+        <p>Cette Piece est de M<hi rend="sup">r</hi> l’Abbé de Maumenet, dont je vous ay envoyé un fort bel Ouvrage au commencement de ma Lettre du mois de Juillet dernier.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

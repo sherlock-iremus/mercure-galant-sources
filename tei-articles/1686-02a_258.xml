@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
-
+    <body>
+      <div>
         <p/>
-        <p>Je reçois avis tout présentement, que le Dimanche troisième jour de ce mois, M<hi rend="sup">r</hi> l'Evesque d'Amiens fit chanter le <hi rend="i">Te Deum</hi> dans sa
-          Cathédrale, pour rendre grâce à Dieu de l'entière Conversion des Religionnaires de son
-          Dioscèse. [...]</p>
+        <p>Je reçois avis tout présentement, que le Dimanche troisième jour de ce mois, M<hi rend="sup">r</hi> l'Evesque d'Amiens fit chanter le <hi rend="i">Te Deum</hi> dans sa Cathédrale, pour rendre grâce à Dieu de l'entière Conversion des Religionnaires de son Dioscèse. [...]</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

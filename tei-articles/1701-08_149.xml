@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>L'Air nouveau que vous trouverez icy, m'a esté envoyé de Toulose. <note resp="editor">Variante mineure de texte entre les vers imprimés et la partition. Une autre mise en musique figure dans le <hi rend="italic">XXVII. livre d'airs de différents auteurs</hi> (Paris, Christophe Ballard, 1684, f. 23v-24 ; cf. LADDA 1684-19). Elle présente au dernier vers une variante poétique identique à celle de la partition publiée dans le <hi rend="italic">Mercure galant</hi>.</note></p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin">L’Air qui commence par <hi rend="i">Iris fut</hi>, page 149.</note>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin">L’Air qui commence par <hi rend="i">Iris fut</hi>, page 149.</note>
           <lg>
             <l rend="i">Iris fut mon premier Amour,</l>
             <l rend="i">Par mes soupirs je sceus toucher son ame ;</l>
@@ -37,6 +37,6 @@
           </figure>
         </ref>
       </div>
-        </body>
+    </body>
   </text>
 </TEI>

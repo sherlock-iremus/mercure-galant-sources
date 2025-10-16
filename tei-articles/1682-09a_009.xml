@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
+    <body>
+      <div>
         <p/>
-        <p>Quelques grandes choses que l’on puisse dire à l’avantage du Roy, avoüez, Madame,
-          qu’elles n’expriment que d’une maniere tres-imparfaite, ce qu’il fait penser de ses
-          admirables qualitez. Ce Prince fait les delices de tous les Lieux qui sont honorez de sa
-          présence ; &amp; les Palais les plus somptueux n’ont rien de si grand que sa Personne.
-          C’est ce qu’a dit agreablement M<hi rend="sup">r</hi> Salbray dans ce Madrigal sur le
-          Château de Versailles.</p>
+        <p>Quelques grandes choses que l’on puisse dire à l’avantage du Roy, avoüez, Madame, qu’elles n’expriment que d’une maniere tres-imparfaite, ce qu’il fait penser de ses admirables qualitez. Ce Prince fait les delices de tous les Lieux qui sont honorez de sa présence ; &amp; les Palais les plus somptueux n’ont rien de si grand que sa Personne. C’est ce qu’a dit agreablement M<hi rend="sup">r</hi> Salbray dans ce Madrigal sur le Château de Versailles.</p>
         <quote>
           <lg>
             <l rend="i"> S’il estoit permis au Soleil</l>
@@ -38,6 +31,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

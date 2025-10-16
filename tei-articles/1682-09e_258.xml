@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,10 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p><hi rend="i">Des Dames ayant fait une Partie de Campagne pour aller à Bcaulieu, y furent menées par un Cocher maladroit, qui les versa. C’est ce qui a donné lieu à ces Vers.</hi></p>
+    <body>
+      <div>
+        <p>
+          <hi rend="i">Des Dames ayant fait une Partie de Campagne pour aller à Bcaulieu, y furent menées par un Cocher maladroit, qui les versa. C’est ce qui a donné lieu à ces Vers.</hi>
+        </p>
         <quote>
           <label>RONDEAU.</label>
           <lg>
@@ -46,6 +47,6 @@
           <p><hi rend="sc">Le Bloy</hi>, S<hi rend="sup">r</hi> des Granges, Avocat au Présidial de la Fleche.</p>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

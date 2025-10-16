@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
-        <p>Je reviens aux Ouvrages d’esprit. L'ode Bachique que vous allez voir sera pour vos Amis
-          de bon goust. Elle est de saison. Nous sommes dans le plus fort des Vendanges.</p>
+    <body>
+      <div>
+        <p>Je reviens aux Ouvrages d’esprit. L'ode Bachique que vous allez voir sera pour vos Amis de bon goust. Elle est de saison. Nous sommes dans le plus fort des Vendanges.</p>
         <quote>
           <label rend="center">Ode Bachique.</label>
           <lg>
@@ -33,7 +30,8 @@
             <l>Et du Rustique incommode</l>
             <l>qui veut qu’on vive à sa mode,</l>
             <l>Méprisons la sote Loy.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l>Quelques avantage qu’on tire</l>
             <l>Des Biens &amp; de la Grandeur,</l>
             <l>Ont-ils jamais pû suffire</l>
@@ -44,7 +42,8 @@
             <l>Cette gloire est importune,</l>
             <l>Si parmy tant de fortune</l>
             <l>Nous ne nous possedons pas.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l>Renfermons-nous dans ta Chambre ;</l>
             <l>Là dans le sein du repos,</l>
             <l>Et sans froid malgré Décembre,</l>
@@ -55,7 +54,8 @@
             <l>Et c’est dans cette Fontaine</l>
             <l>Que l’on recouvre sans peine</l>
             <l>La jeunesse &amp; les plaisirs.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l>Qu'un affamé Parasite</l>
             <l>D'un air soûmis &amp; content,</l>
             <l>Vienne affronter ma Marmite,</l>
@@ -66,7 +66,8 @@
             <l>Reputerons-nous injure</l>
             <l>Un pur effet de Nature,</l>
             <l>Dont la cause est hors de nous ?</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l>Buvons, &amp; de leur foiblesse</l>
             <l>Ne nous inquiétons pas.</l>
             <l>C'est avoir peu de sagesse</l>
@@ -77,7 +78,8 @@
             <l>Et je ne sçay point de voye,</l>
             <l>Loin du Vin &amp; de la joye,</l>
             <l>Qui puisse nous rendre heureux.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l>Ménageons l’âge qui passe,</l>
             <l>N'en perdons pas un moment.</l>
             <l>L'on ne vuide point de Tasse</l>
@@ -87,7 +89,8 @@
             <l>Des bons Mots, ny des Festins ;</l>
             <l>Et pour revoir la lumiere,</l>
             <l>Il n’est plainte ny priere qui fléchisse les Destins.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l>À quoy bon ces soins extrémes,</l>
             <l>Et tous ces vastes desseins</l>
             <l>Qui nous rendent de nous-mesmes</l>
@@ -98,7 +101,8 @@
             <l>Et dés que le Ciel m’envoye</l>
             <l>Du bon Vin &amp; de la joye,</l>
             <l>Nul n’est si content que moy.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l>Quelque panchant qu’on me donne</l>
             <l>Pour les plaisirs amoureux,</l>
             <l>En te voyant j’abandonne</l>
@@ -112,6 +116,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

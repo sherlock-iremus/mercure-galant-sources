@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-
-        
-        <p>Enfin l’<hi rend="i">Ariane</hi> de Monsieur de Corneille le jeune, qu’on attendoit
-          depuis si longtemps, parut Vendredy dernier. On ne peut rien voir de plus touchant, &amp;
-          cette Princesse s’exprime avec des sentimens si tendres &amp; si nouveaux, que personne
-          ne croit qu’on ne puisse mieux reüssir en ce genre d’écrire ; &amp; pour tout dire enfin, les
-          charmes de <hi rend="i">Bajazet</hi> n’ont pas empesché leurs Admirateurs d’en trouver
-          dans cette Piece, &amp; d’y retourner plus d’une fois.</p>
+    <body>
+      <div>
+        <p>Enfin l’<hi rend="i">Ariane</hi> de Monsieur de Corneille le jeune, qu’on attendoit depuis si longtemps, parut Vendredy dernier. On ne peut rien voir de plus touchant, &amp; cette Princesse s’exprime avec des sentimens si tendres &amp; si nouveaux, que personne ne croit qu’on ne puisse mieux reüssir en ce genre d’écrire ; &amp; pour tout dire enfin, les charmes de <hi rend="i">Bajazet</hi> n’ont pas empesché leurs Admirateurs d’en trouver dans cette Piece, &amp; d’y retourner plus d’une fois.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

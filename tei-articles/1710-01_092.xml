@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,31 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-                
-                
-
-                <p>Le Vaisseau du Roy <hi rend="italic">le Sorlingue</hi>, armé en course a amené à
-                    Saint Malo le Vaisseau <hi rend="italic">la Marie de Londres</hi>, de
-                    200 tonneaux chargé de 300 boucauts de sucre, vingt-six barils d’Indigo, &amp;
-                    de douze de teste de clouds de geroffle, venant de Montsarra, estimé à soixante
-                    mille livres. <hi rend="italic">La Couronne</hi> autre Corsaire a amené aussi à
-                    Saint Malo deux prises, l’une nommée <hi rend="italic">le Richard Henry de
-                        Plimouth</hi>, venant de la Virginie chargée de 350 boucauts de tabac,
-                    l’autre nommée <hi rend="italic">la Prudence</hi>, venant de la Caroline chargée
-                    de bray de ris &amp; de goudron.</p>
-                <p>[...]</p>
-                <p>M<hi rend="sup">r</hi> Blanque commandant la Fregatte du Roy <hi rend="italic">le Zephire</hi>,
-                    prit le trois Decembre entre Oüessant &amp; Sorlingue un Brigantin de 40 tonneaux
-                    venant de Baston, chargé de molüe verte &amp; seche, d’huille de baleine, &amp; de
-                    Pelleteries.</p>
-                <p>Le 22 du même mois estant sur le Cap Lezard il prit
-                        aussi un Navire Anglois de 250 tonneaux venant de la Virginie chargé de 532
-                        boucauts de tabac estimé 85 mille livres.</p>
-
-            </div>
-
-
+    <body>
+      <div>
+        <p>Le Vaisseau du Roy <hi rend="italic">le Sorlingue</hi>, armé en course a amené à Saint Malo le Vaisseau <hi rend="italic">la Marie de Londres</hi>, de 200 tonneaux chargé de 300 boucauts de sucre, vingt-six barils d’Indigo, &amp; de douze de teste de clouds de geroffle, venant de Montsarra, estimé à soixante mille livres. <hi rend="italic">La Couronne</hi> autre Corsaire a amené aussi à Saint Malo deux prises, l’une nommée <hi rend="italic">le Richard Henry de Plimouth</hi>, venant de la Virginie chargée de 350 boucauts de tabac, l’autre nommée <hi rend="italic">la Prudence</hi>, venant de la Caroline chargée de bray de ris &amp; de goudron.</p>
+        <p>[...]</p>
+        <p>M<hi rend="sup">r</hi> Blanque commandant la Fregatte du Roy <hi rend="italic">le Zephire</hi>, prit le trois Decembre entre Oüessant &amp; Sorlingue un Brigantin de 40 tonneaux venant de Baston, chargé de molüe verte &amp; seche, d’huille de baleine, &amp; de Pelleteries.</p>
+        <p>Le 22 du même mois estant sur le Cap Lezard il prit aussi un Navire Anglois de 250 tonneaux venant de la Virginie chargé de 532 boucauts de tabac estimé 85 mille livres.</p>
+      </div>
     </body>
   </text>
 </TEI>

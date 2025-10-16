@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-                    
-                    <p>Le Pere Besnier, Jesuite, natif de Tours, mourut à Constantinople le
-                        8. Septembre de l’année derniere. Il avoit fait il y a quelques années un
-                            <hi rend="i">Projet de la réünion des langues</hi> ; mais les Missions
-                        où il fut employé dans la Grece, empêcherent l’execution de ce dessein. Il
-                        est Auteur de la <hi rend="i">Préface des origines de la Langue Françoise,
-                            de M<hi rend="sup">r</hi> Ménage.</hi></p>
-                </div>
-                </body>
+    <body>
+      <div>
+        <p>Le Pere Besnier, Jesuite, natif de Tours, mourut à Constantinople le 8. Septembre de l’année derniere. Il avoit fait il y a quelques années un <hi rend="i">Projet de la réünion des langues</hi> ; mais les Missions où il fut employé dans la Grece, empêcherent l’execution de ce dessein. Il est Auteur de la <hi rend="i">Préface des origines de la Langue Françoise, de M<hi rend="sup">r</hi> Ménage.</hi></p>
+      </div>
+    </body>
   </text>
 </TEI>

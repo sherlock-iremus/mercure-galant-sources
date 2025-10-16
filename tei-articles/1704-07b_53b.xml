@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-          
-          <p>Dès le jour de la naissance de Monseigneur le Duc de Bretagne, Mr de Breteüil, Conseiller d’Etat ordinaire, fit illuminer sa Maison, fit faire des feux devant la porte de son Hôtel &amp; couler une fontaine de vin, ce qui a esté continué pendant plusieurs jours au bruit des violons, &amp; des haut-bois &amp; de plusieurs autres instrumens, qui n’ont pas moins attiré le peuple, que le vin qu’il a fait distribuer ; ce Peuple s’estant fait un extrême plaisir de chanter &amp; de dancer au bruit de tant d’instrumens.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>Dès le jour de la naissance de Monseigneur le Duc de Bretagne, Mr de Breteüil, Conseiller d’Etat ordinaire, fit illuminer sa Maison, fit faire des feux devant la porte de son Hôtel &amp; couler une fontaine de vin, ce qui a esté continué pendant plusieurs jours au bruit des violons, &amp; des haut-bois &amp; de plusieurs autres instrumens, qui n’ont pas moins attiré le peuple, que le vin qu’il a fait distribuer ; ce Peuple s’estant fait un extrême plaisir de chanter &amp; de dancer au bruit de tant d’instrumens.</p>
+      </div>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p/>
-          <p>Je n'ay rien à ajoûter, sinon qu'il a plu à Dieu d'exaucer tant de Prières, &amp; que la Santé du Roy est parfaite, qu'il a remply tous les devoirs d'un Chrétien pendant les Festes estant descendu à la Chapelle, &amp; que ce Dimanche 29 de ce mois, on chanta le <hi rend="i">Te Deum</hi> dans toutes les Paroisses de Paris, en action de grâces d'une guérison si ardemment souhaitée.</p>
-        </div>
-      </body>
+    <body>
+      <div>
+        <p/>
+        <p>Je n'ay rien à ajoûter, sinon qu'il a plu à Dieu d'exaucer tant de Prières, &amp; que la Santé du Roy est parfaite, qu'il a remply tous les devoirs d'un Chrétien pendant les Festes estant descendu à la Chapelle, &amp; que ce Dimanche 29 de ce mois, on chanta le <hi rend="i">Te Deum</hi> dans toutes les Paroisses de Paris, en action de grâces d'une guérison si ardemment souhaitée.</p>
+      </div>
+    </body>
   </text>
 </TEI>

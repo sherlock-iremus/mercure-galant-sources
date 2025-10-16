@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>L’aimable Blonde dont vous me demandez des nouvelles, demeure toûjours dans sa fierté
-          ordinaire. Elle n’est sensible qu’aux carresses de son Perroquet, &amp; c’est ce qui a
-          donné lieu à ces Vers. Ils sont d’un Homme qui ne manque point d’accés au Parnasse. Vous
-          le connoistrez en les lisant.</p>
+    <body>
+      <div>
+        <p>L’aimable Blonde dont vous me demandez des nouvelles, demeure toûjours dans sa fierté ordinaire. Elle n’est sensible qu’aux carresses de son Perroquet, &amp; c’est ce qui a donné lieu à ces Vers. Ils sont d’un Homme qui ne manque point d’accés au Parnasse. Vous le connoistrez en les lisant.</p>
         <quote>
           <label>REQUESTE <lb/>À L’AMOUR.</label>
           <lg>
@@ -56,6 +52,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

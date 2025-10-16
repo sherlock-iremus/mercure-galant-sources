@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>On celebre la gloire de cette Paix en toute sorte de Langues. Voicy des Stances
-          Italiennes qu’elle a fait faire à M<hi rend="sup">r</hi> l’Abbé Mallement de Messange,
-          dont vous avez veu la nouvelle maniere qu’il a trouvée de faire des Cadrans, dans ma
-          derniere Lettre Extraordinaire.</p>
+    <body>
+      <div>
+        <p>On celebre la gloire de cette Paix en toute sorte de Langues. Voicy des Stances Italiennes qu’elle a fait faire à M<hi rend="sup">r</hi> l’Abbé Mallement de Messange, dont vous avez veu la nouvelle maniere qu’il a trouvée de faire des Cadrans, dans ma derniere Lettre Extraordinaire.</p>
         <label>La riconciliazione </label>
         <label>de i popoli</label>
         <label>Alla gloria immortale </label>
@@ -62,6 +58,6 @@
         <l>La Guerra i corpi hà vinto ;</l>
         <l>Vinca la pace i cuori.</l>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

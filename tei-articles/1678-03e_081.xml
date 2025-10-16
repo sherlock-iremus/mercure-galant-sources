@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,10 +14,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
+    <body>
+      <div>
         <quote>
           <label rend="center">Lettre V.</label>
           <label rend="center">Sur les deux Enigmes du Tome de Janvier.</label>
@@ -35,15 +33,11 @@
             <l>Et pour y réüssir du fond de ma Valée,</l>
             <l>Je m’élève aussi haut que le Coq d’un Clocher.</l>
           </lg>
-          <p>Ayant esté assez heureux, Monsieur, pour deviner la plûpart de vos Enigmes précedens,
-            j’ay crû que je pouvois vous envoyer l’Explication de celles-cy, &amp; je l’aurois fait
-            plutost, si je n’avois pas reçeu si tard vostre Mercure de Janvier. J’attens celuy de
-            Fevrier pour sçavoir si cette Explication est juste, &amp; suis, Monsieur, tout à
-            vous.</p>
+          <p>Ayant esté assez heureux, Monsieur, pour deviner la plûpart de vos Enigmes précedens, j’ay crû que je pouvois vous envoyer l’Explication de celles-cy, &amp; je l’aurois fait plutost, si je n’avois pas reçeu si tard vostre Mercure de Janvier. J’attens celuy de Fevrier pour sçavoir si cette Explication est juste, &amp; suis, Monsieur, tout à vous.</p>
           <p>I. <hi rend="i">Conseiller au Présidial</hi></p>
           <p rend="i">de Périgueux. </p>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

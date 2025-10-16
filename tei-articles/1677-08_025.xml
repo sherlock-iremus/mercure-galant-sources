@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,9 +14,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Rien ne peut mieux suivre ces Vers que le Rondeau que je vous envoye, puis qu’il exprime encor l’embarras d’un Cœur amoureux.</p>
         <quote>
           <label>RONDEAU.</label>
@@ -25,13 +24,15 @@
             <l rend="i">Laissez-moy pour quelques momens,</l>
             <l rend="i">Tout mon cœur ne sçauroit suffire</l>
             <l rend="i">Aux transports que l’Amour m’inspire.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l rend="i">Pour le plus parfait des Amans,</l>
             <l rend="i">A quoy servent ces sentimens ?</l>
             <l rend="i">Dans leurs plus doux emportemens,</l>
             <l rend="i">La Raison vient toújours me dire,</l>
             <l rend="i">   Taisez-vous.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l rend="i">La Cruelle depuis deux ans....</l>
             <l rend="i">Mais helas ! quels redoublemens</l>
             <l rend="i">Souffre mon amoureux martire ?</l>
@@ -42,6 +43,6 @@
         </quote>
         <p>L’Amour fournissoit autrefois presque toute la matiere des Vers qui se faisoient ; mais depuis quelques années les grandes Conquestes du Roy ont pris sa place, &amp; la plûpart de ceux qui en ont écrit, ont cru qu’ils devoient se servir de ce langage pour parler plus dignement d’un si beau Sujet. Ne vous étonnez pas apres cela si vous avez trouvé dans toutes mes Lettres des Vers à la gloire de ce Monarque.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

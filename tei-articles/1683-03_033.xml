@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,9 +14,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <quote>
           <label>REPONSE DE SAPHO.</label>
           <lg>
@@ -36,16 +35,8 @@
             <l rend="i">Et LOUIS est trop grand pour avoir besoin d’elle.</l>
           </lg>
         </quote>
-        <p>Le premier de ces Madrigaux est de M<hi rend="sup">r</hi> de la Loubere, Résident pour Sa
-          Majesté à Strasbourg, avant que cette Ville eust reconnu le Roy pour son Souverain. Le
-          second est de M<hi rend="sup">r</hi> de S. Clair Turgot ; le troisiéme, de Mademoiselle
-          Bernard, (c’est la jeune Iris du <hi rend="i">Commerce Galant</hi>, si estimée par les
-          jolies Lettres qui sont d’elle dans ce Livre ;) le quatriéme, de M<hi rend="sup">r</hi> Petit, de Roüen ; &amp; le cinquiéme de M<hi rend="sup">r</hi> de Montfort,
-          Autheur des <hi rend="i">Conversations Galantes</hi>, qui ont eu un grand succés, &amp;
-          d’un autre Livre qui va paroistre, intitulé, <hi rend="i">La Politique des Amans.</hi>
-            M<hi rend="sup">r</hi> de Montfort est tres-agreable par sa personne, &amp; par son
-          esprit, &amp; fort estimé dans le beau monde.</p>
+        <p>Le premier de ces Madrigaux est de M<hi rend="sup">r</hi> de la Loubere, Résident pour Sa Majesté à Strasbourg, avant que cette Ville eust reconnu le Roy pour son Souverain. Le second est de M<hi rend="sup">r</hi> de S. Clair Turgot ; le troisiéme, de Mademoiselle Bernard, (c’est la jeune Iris du <hi rend="i">Commerce Galant</hi>, si estimée par les jolies Lettres qui sont d’elle dans ce Livre ;) le quatriéme, de M<hi rend="sup">r</hi> Petit, de Roüen ; &amp; le cinquiéme de M<hi rend="sup">r</hi> de Montfort, Autheur des <hi rend="i">Conversations Galantes</hi>, qui ont eu un grand succés, &amp; d’un autre Livre qui va paroistre, intitulé, <hi rend="i">La Politique des Amans.</hi> M<hi rend="sup">r</hi> de Montfort est tres-agreable par sa personne, &amp; par son esprit, &amp; fort estimé dans le beau monde.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

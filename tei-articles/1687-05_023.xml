@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
-        <p>Le mot de <hi rend="i">Magnus</hi> donné au Roy dans cette Devise, n’est point assez
-          grand pour le plus grand Prince qui ait Jamais monté sur le Trône. C’est ce qui a donné
-          lieu à ce Distique Latin du Pere Paul de la Mere de Dieu, Religieux Carme Reformé de
-          Rennes, &amp; Docteur en l’un &amp; en l’autre Droit. Comme il ne s’agit que de deux Vers,
-          la grandeur de la matiere les fera souffrir en une Langue, qui est ordinairement bannie de
-          mes Lettres.</p>
+    <body>
+      <div>
+        <p>Le mot de <hi rend="i">Magnus</hi> donné au Roy dans cette Devise, n’est point assez grand pour le plus grand Prince qui ait Jamais monté sur le Trône. C’est ce qui a donné lieu à ce Distique Latin du Pere Paul de la Mere de Dieu, Religieux Carme Reformé de Rennes, &amp; Docteur en l’un &amp; en l’autre Droit. Comme il ne s’agit que de deux Vers, la grandeur de la matiere les fera souffrir en une Langue, qui est ordinairement bannie de mes Lettres.</p>
         <quote>
           <lg>
             <l rend="i">Cognomen Magni minus est tibi ; Maximus immò</l>
@@ -30,6 +24,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

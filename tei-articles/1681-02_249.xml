@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,33 +14,45 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-    
-    
-    <p>M<hi rend="sup">r</hi> Charpentier qui a demeuré trois ans à Rome, en a tiré de grands
-     avantages. Tous ses Ouvrages en sont une preuve. Je vous envoye la suite de ce qu’il a
-     commencé.</p>
-    <quote>
-     <label>SECOND COUPLET DES STANCES DU CID,<lb/>mis en Air.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par <hi rend="i">Que je sens de rudes combats</hi>, doit regarder la page 250.</note>
-     <lg>
-      <l> <hi rend="i">Que je sens de rudes combats !</hi></l>
-      <l><hi rend="i">Contre mon propre honneur mon amour s’intéresse.</hi></l>
-      <l><hi rend="i">Il faut vanger un Pere, ou perdre une Maîtresse ;</hi></l>
-      <l><hi rend="i">L’un m’anime le cœur, l’autre retient mon bras.</hi></l>
-      <l><hi rend="i">Réduit au triste choix, ou de trahir ma flâme,</hi></l>
-      <l> <hi rend="i">Ou de vivre en Infame,</hi></l>
-      <l><hi rend="i">Des deux costez mon mal est infiny.</hi></l>
-      <l> <hi rend="i">O Dieu, l’étrange peine !</hi></l>
-      <l><hi rend="i">Faut-il laisser un affront impuny ?</hi></l>
-      <l><hi rend="i">Faut-il punir le Pere de Chimene ?</hi></l>
-     </lg>
-    </quote>
-    <ref target="images/1681-02_249.JPG">
-     <figure>
-      <graphic url="images/1681-02_249.JPG"/>
-     </figure>
-    </ref>
-   </div>
-   </body>
+    <body>
+      <div>
+        <p>M<hi rend="sup">r</hi> Charpentier qui a demeuré trois ans à Rome, en a tiré de grands avantages. Tous ses Ouvrages en sont une preuve. Je vous envoye la suite de ce qu’il a commencé.</p>
+        <quote>
+          <label>SECOND COUPLET DES STANCES DU CID,<lb/>mis en Air.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par <hi rend="i">Que je sens de rudes combats</hi>, doit regarder la page 250.</note>
+          <lg>
+            <l> <hi rend="i">Que je sens de rudes combats !</hi></l>
+            <l>
+              <hi rend="i">Contre mon propre honneur mon amour s’intéresse.</hi>
+            </l>
+            <l>
+              <hi rend="i">Il faut vanger un Pere, ou perdre une Maîtresse ;</hi>
+            </l>
+            <l>
+              <hi rend="i">L’un m’anime le cœur, l’autre retient mon bras.</hi>
+            </l>
+            <l>
+              <hi rend="i">Réduit au triste choix, ou de trahir ma flâme,</hi>
+            </l>
+            <l> <hi rend="i">Ou de vivre en Infame,</hi></l>
+            <l>
+              <hi rend="i">Des deux costez mon mal est infiny.</hi>
+            </l>
+            <l> <hi rend="i">O Dieu, l’étrange peine !</hi></l>
+            <l>
+              <hi rend="i">Faut-il laisser un affront impuny ?</hi>
+            </l>
+            <l>
+              <hi rend="i">Faut-il punir le Pere de Chimene ?</hi>
+            </l>
+          </lg>
+        </quote>
+        <ref target="images/1681-02_249.JPG">
+          <figure>
+            <graphic url="images/1681-02_249.JPG"/>
+          </figure>
+        </ref>
+      </div>
+    </body>
   </text>
 </TEI>

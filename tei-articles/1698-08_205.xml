@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Je vous envoye une seconde Chanson, que l'on chante icy avec plaisir.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin">L'Air qui commence par, <hi rend="i">Les Prez, les Bois, les Fleurs, &amp; la Verdure</hi>, doit regarder la page
-            205.</note>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin">L'Air qui commence par, <hi rend="i">Les Prez, les Bois, les Fleurs, &amp; la Verdure</hi>, doit regarder la page 205.</note>
           <lg>
             <l rend="i">Les prez, les bois, les fleurs, &amp; la verdure</l>
             <l rend="i">Ne sçauroient divertir mon extrême langueur.</l>
@@ -34,6 +33,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

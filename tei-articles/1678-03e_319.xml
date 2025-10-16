@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,24 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
+    <body>
+      <div>
         <quote>
           <label rend="center">Lettre LI.</label>
-          <p>VOus sçavez, Monsieur, que Mars &amp; les Muses n’ont jamais bien vescu ensemble. <hi rend="sc">Loüis le Grand</hi> à qui rien n’est d’impossible, accommode aujourd’huy les
-            fatigues &amp; la fierté de l’un avec le repos &amp; la douceur des autres. Jamais
-            Guerre n’a esté si avantageuse que celle-cy ; Mars &amp; Apollon y trouvent également
-            leur compte, puis qu’elle fait autant de Sçavans que de bons Capitaines. Aussi est-il
-            bien juste qu’à mesure que la gloire de nostre Invincible Monarque augmente, le Ciel
-            fasse naistre des Personnes qui la puissent publier. Pour moy je suis devenu Poëte par
-            une espece de miracle aussi grand que ceux que le Roy fait en Flandres. Il ne vous sera
-            pas difficile, Monsieur, de connoistre que le Sonnet que je vous envoye, est un coup
-            d’essay. Aussi esperay-je que vous ne regarderez pas tant l’art que le sujet qui en fait
-            tout le prix &amp; toute la beauté ; c’est pas là seulement qu’il se peut permettre
-            d’estre inseré dans vostre Mercure, où vous meslez si bien les Actions de valeur avec
-            les avantures de Galanterie, qu’elles surprennent.</p>
+          <p>VOus sçavez, Monsieur, que Mars &amp; les Muses n’ont jamais bien vescu ensemble. <hi rend="sc">Loüis le Grand</hi> à qui rien n’est d’impossible, accommode aujourd’huy les fatigues &amp; la fierté de l’un avec le repos &amp; la douceur des autres. Jamais Guerre n’a esté si avantageuse que celle-cy ; Mars &amp; Apollon y trouvent également leur compte, puis qu’elle fait autant de Sçavans que de bons Capitaines. Aussi est-il bien juste qu’à mesure que la gloire de nostre Invincible Monarque augmente, le Ciel fasse naistre des Personnes qui la puissent publier. Pour moy je suis devenu Poëte par une espece de miracle aussi grand que ceux que le Roy fait en Flandres. Il ne vous sera pas difficile, Monsieur, de connoistre que le Sonnet que je vous envoye, est un coup d’essay. Aussi esperay-je que vous ne regarderez pas tant l’art que le sujet qui en fait tout le prix &amp; toute la beauté ; c’est pas là seulement qu’il se peut permettre d’estre inseré dans vostre Mercure, où vous meslez si bien les Actions de valeur avec les avantures de Galanterie, qu’elles surprennent.</p>
           <p>
             <hi rend="sc">Le Jeune Solitaire</hi>
             <hi rend="i">de</hi>
@@ -42,6 +29,6 @@
           <p rend="i">ronne. </p>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

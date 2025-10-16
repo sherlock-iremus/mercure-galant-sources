@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,22 +14,21 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <quote>
-            <label>POUR MESDEMOISELLES<lb/>DE NANTES &amp; DE BLOIS.</label>
-            <lg>
-              <l rend="i">  Quel effort pourroit arrester</l>
-              <l rend="i">  Les Exploits dont LOUIS remplit la Terre &amp; l’Onde,</l>
-              <l rend="i"> Et quel cœur pourroit resister</l>
-              <l rend="i">A cette belle Brune, à cette belle Blonde ?</l>
-              <l rend="i">Ce Héros se fait craindre, elles se font aimer.</l>
-              <l rend="i">Le Pere est né pour conquerir le Monde,</l>
-              <l rend="i"> Et les Filles pour le charmer.</l>
-            </lg>
-          </quote>
-        </div>
-        </body>
+    <body>
+      <div>
+        <quote>
+          <label>POUR MESDEMOISELLES<lb/>DE NANTES &amp; DE BLOIS.</label>
+          <lg>
+            <l rend="i">  Quel effort pourroit arrester</l>
+            <l rend="i">  Les Exploits dont LOUIS remplit la Terre &amp; l’Onde,</l>
+            <l rend="i"> Et quel cœur pourroit resister</l>
+            <l rend="i">A cette belle Brune, à cette belle Blonde ?</l>
+            <l rend="i">Ce Héros se fait craindre, elles se font aimer.</l>
+            <l rend="i">Le Pere est né pour conquerir le Monde,</l>
+            <l rend="i"> Et les Filles pour le charmer.</l>
+          </lg>
+        </quote>
+      </div>
+    </body>
   </text>
 </TEI>

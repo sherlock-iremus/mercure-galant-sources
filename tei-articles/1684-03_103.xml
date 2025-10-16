@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
-        <p>Je vous envoye un Sonnet de M<hi rend="sup">r</hi> l’Abbé de la Chaize, sur ce que
-          Monseigneur le Duc d’Anjou est né dans le temps que les Espagnols nous ont déclaré la
-          Guerre.</p>
+    <body>
+      <div>
+        <p>Je vous envoye un Sonnet de M<hi rend="sup">r</hi> l’Abbé de la Chaize, sur ce que Monseigneur le Duc d’Anjou est né dans le temps que les Espagnols nous ont déclaré la Guerre.</p>
         <quote>
           <lg>
             <l rend="i">Av triomphe déja Bourgogne est destiné.</l>
@@ -48,6 +45,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,226 +1,37 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
-        <p />
+        <p/>
       </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text>
-
     <body>
       <div>
-
-        
-        
-
-        <p>Vous m’avez mandé que vous aviez peine à vous accommoder de la prononciation de <hi
-            rend="i">Bourdeaux</hi>, par l’habitude que vous vous estiez faite de dire <hi rend="i">
-          Bordeaux</hi>. Cela me fait croire que vous serez bien-aise de voir la réponse qui a esté
-          faite à la Lettre dans laquelle on a tâché de prouver qu’il faut prononcer <hi rend="i">
-          Bourdeaux</hi>.</p>
+        <p>Vous m’avez mandé que vous aviez peine à vous accommoder de la prononciation de <hi rend="i">Bourdeaux</hi>, par l’habitude que vous vous estiez faite de dire <hi rend="i"> Bordeaux</hi>. Cela me fait croire que vous serez bien-aise de voir la réponse qui a esté faite à la Lettre dans laquelle on a tâché de prouver qu’il faut prononcer <hi rend="i"> Bourdeaux</hi>.</p>
         <quote>
           <label rend="sc">Monsieur,</label>
-          <p>Quoique je fasse cas de vos jugemens, &amp; que j’honore vos décisions, vous me
-            permettrez, s’il vous plaist, de reclamer contre celle que vous venez de donner au
-            Public dans une Lettre où vous répondez à la question s’il faut dire <hi rend="i">
-            Bordeaux</hi>, ou <hi rend="i">Bourdeaux</hi>. Si vous aviez imité Ciceron, que vous
-            vous proposez d’abord pour modéle, vous auriez fait comme ce grand Homme, lors que
-            Pompée le consulta, aprés avoir élevé un Temple à la Victoire voulant y mettre une
-            inscription pour marquer que ce Temple avoit esté achevé pendant son troisiéme Consulat
-            ; &amp; au lieu de prononcer définitivement qu’il faut dire <hi rend="i">Bourdeaux</hi>,
-            vous sous seriez contenté d’écrire ce mot sans y mettre les deux premieres voyelles,
-            &amp; vous auriez laissé le Lecteur dans la liberté de prononcer <hi rend="i">Bourdeaux
-            </hi> ou <hi rend="i">Bordeaux</hi>, dans un temps où cette
-            derniere prononciation a une foule de partisans. </p>
-          <p>Il ne faut point estre de la famille du President Bordeaux pour se déclarer du party
-            que je prens. C’est assez estre natif de cette Ville, pour conserver à son nom la
-            délicatesse de laquelle il est en possession, &amp; que l’usage autorise dans la bouche
-            de ceux qui parlent avec le plus de douceur, &amp; qui prononcent unanimement <hi
-              rend="i">Bordeaux</hi>.</p>
-          <p>Pourquoy voulez-vous, Monsieur, que cette prononciation ne soit fondée que sur
-            l’imagination de ceux qui ont crû que nostre Ville avoit pris son nom du bord des eaux,
-            où elle est située ? Leur raison n’y auroit-elle pas encore plus de part, &amp; s’il
-            n’est rien de si ordinaire que de donner aux hommes des noms pris des lieux de leur
-            naissance, de leurs qualitez, bonnes ou mauvaises, mesme des marques singuliéres qui
-            paroissent dans leurs personnes, Ciceron ayant esté ainsi appellé <hi rend="i">à Cicere</hi>,
-            Fabius, <hi
-              rend="i">à Fabis</hi>, Lentulus, <hi rend="i">à Lente</hi>, n’aura-t-il pas esté
-            loisible aux fondateurs de cette Ville d’avoir pris son nom de sa situation, &amp; de
-            l’avoir appellée <hi rend="i">Bordeaux</hi>, à cause qu’ils l’ont bastie sur le bord des
-            eaux ?</p>
-          <p>Que s’il se trouve quelques auteurs qui l’ayent nommée <hi rend="i">Bourdeaux</hi>, en
-            y ajoûtant un <hi
-              rend="i">u</hi>, il faut plutost regarder cette addition comme un défaut du Pays,
-            &amp; une corruption du nom, que comme une prononciation naturelle, à laquelle on est
-            revenu, soit par le commerce qu’on a avec les gens qui parlent bien, &amp; qui sont dans
-            cette Province en plus grand nombre qu’ils n’ont jamais esté, soit par une reflexion
-            solide sur l’origine du terme qui se presente d’abord à l’esprit.</p>
-          <p>Il est vray qu’il y a d’autres Villes qui sont basties sur le bord des eaux, &amp; si
-            elles n’en ont pas pris leur nom, ce n’est pas que cet avantage leur estant commun, ne
-            fust pas propre à designer une Ville plutost qu’une autre, mais c’est qu’il n’a pas plû
-            à leurs Fondateurs de tirer leur nom de cette origine, &amp; <hi rend="i">Bordeaux</hi>
-            en ayant pris le sien la premiere, ou estant la plus considerable de celles qui sont le
-            long de la Garonne, les autres n’ont pas voulu luy ravir un nom qui luy estoit dû à bien
-            plus juste titre, puisqu’elle est entourée d’eaux, ayant au Levant celles de la Garonne,
-            au Couchant celles qui viennent des Landes, qui forment pendant quelques mois une petite
-            mer au derriere du Palais Archiepiscopal, &amp; au Midy les ruisseaux qui viennent de
-            Begle ; ce qui est assez conforme à ce que rapporte Pierre Bertius dans ses Tables
-            abregées de Geographie, où parlant de Bordeaux, il dit : <hi rend="i">Burdigala,
-              veterum Biturigum Vibiscorum urbs, est fita in paludibus quas exundans Garumna efficit</hi>
-            ; ce qui a fait porter à cette Capitale de la Guyenne le nom de <hi rend="i">Bordeaux</hi>,
-            par une tres-juste &amp; tres-judicieuse étymologie rapportée dans la page 19. du
-            Suplément de nôtre Chronique.</p>
-          <p>Ainsi, Monsieur, puisque nous trouvons la veritable cause de ce nom dans la propre
-            assiette de la Ville, ne
-            salissons point nostre esprit de ces idées de débauche, qui ne sont ny de vostre goût,
-            ny de vostre
-            penchant. Quelle analogie, quel rapport y a-t-il entre les bords de ces eaux, &amp; ces
-            endroits qu’on ne
-            peut nommer sans choquer la pudeur ? L’exemple d’un Romain qui aime la magnificence, qui
-            fait poser des
-            tentes sur un rivage, &amp; qui s’y va réjoüir avec de petites Bourgeoises, parmy tous
-            les excés de la
-            profusion &amp; du luxe, n’établit aucune preuve de l’allusion qui vous blesse. Aussi ne
-            voit-on rien sur le
-            Port de nostre Ville qui ressente une origine si scandaleuse ; &amp; pourroit-on penser
-            quelque chose
-            d’approchant de ses commencemens, puisque du temps d’Auguste Bordeaux estoit, selon
-            Strabon, une Ville
-            marchande &amp; Port de mer renommé, située prés les Palus &amp; un Lac sur le bord de
-            la Garonne, comme
-            elle est maintenant.</p>
-          <p>Bien qu’Ausone, qui ne fut pas moins la gloire de Rome que de sa Patrie, ait dit que
-            Bordeaux estoit le lieu de sa naissance, <hi rend="i">Burdigala natale solum</hi>, ce
-            n’est pas une consequence que le mot Latin <hi rend="i">Burdigala</hi>, soit plus ancien
-            que celuy que cette Ville porte aujourd’huy, ayant esté apparemment inconnu dans la
-            Guienne, jusqu’au temps que les Romains y porterent leurs armes victorieuses, &amp; que
-            les Vaincus commencerent à y parler la Langue des Vainqueurs, prés de deux siecles &amp;
-            demi avant la naissance d’Ausone.</p>
-          <p>Ce n’est donc pas dans le Latin qu’il faut aller chercher l’origine du nom de <hi
-              rend="i">Bordeaux</hi>, &amp; vous en convenez si bien, Monsieur, que vous voulez bien
-            en avoir l’obligation au ruisseau de la Bourde &amp; de Jalle, qui sont deux noms que la
-            Latinité ne vendiquera jamais. Ils ne sont pas, dites-vous, éloignez de la Ville ; vous
-            en portez vous-même la preuve, puis que vous les faites entrer dans la Garonne par
-            l’endroit où est à present l’Eglise S. Pierre, mais, Monsieur, tous ne conviendront pas
-            avec vous de la jonction que vous faites de ces deux Ruisseaux, estant tres-constant que
-            la Bourde se décharge dans la Garonne un quart de lieuë au dessus de Bordeaux, &amp; la
-            Jalle à plus d’une lieuë au dessous. Il n’y a pas d’apparence que la Bourde ait donné le
-            nom à une grande Ville arrosée de la Garonne, &amp; entourée de marais où se noyoit ce
-            ruisseau avant que de s’approcher de la Ville, s’il avoit le cours que vous luy donnez.
-            Ainsi si quelques Eaux devoient luy donner un nom, ce seroit plûtost celles des Marais,
-            ou de cette grosse Riviere, qu’un petit ruisseau qu’on ne connoist pas, &amp; qui
-            n’osant paroistre à l’aspect de cette belle Ville, se cache tout honteux sous le pavé de
-            ses ruës, &amp; coule, selon vous, dans la Garonne par des canaux soûterrains, sans que
-            l’on sçache seulement s’il y a un ruisseau, ny si ce ruisseau a un nom.</p>
-          <p>Laissant donc là la Bourde, Monsieur, vous souffrirez que je m’en tienne à mon premier
-            sentiment. Je demeure d’accord que l’<hi rend="i">u</hi> des Latins, se change souvent
-            dans le François en <hi rend="i">ou
-            </hi>. Les exemples que vous en citez sont familiers, mais vous ne
-            disconviendrez pas aussi que les Gascons ne changent l’<hi rend="i">o</hi> des François
-            en <hi rend="i">ou</hi>, par exemple, nous disons en François, <hi rend="i">mordu</hi>,
-            preterit parfait de mordre, <hi rend="i">cordeau</hi>, <hi rend="i">
-              borner</hi>, <hi rend="i">orner</hi>, <hi rend="i">border</hi>, <hi rend="i">Cocher</hi>
-            , <hi rend="i">
-              orme</hi>, &amp; une infinité d’autres ; &amp; les Gascons changeant l’<hi rend="i">o</hi>
-            en <hi
-              rend="i">ou</hi>, nous disons <hi rend="i">mourdu</hi>, <hi rend="i">courde</hi>, <hi
-              rend="i">bourna</hi> , <hi rend="i">ourna</hi>, <hi rend="i">bourda</hi>, <hi rend="i">
-            Couchei</hi>, <hi rend="i">ourme</hi>. Un pareil changement a fait qu’au lieu de
-            prononcer <hi rend="i">Bordeaux</hi>, conformement à son étymologie, on a prononcé en
-            Gascon <hi rend="i">Bourdeaux</hi> ; &amp; comme cette prononciation a esté generale,
-            lors que dans la suite on a parlé François, on y a retenu l’<hi rend="i">ou</hi> de la
-            prononciation Gasconne, &amp; de là vient qu’on a dit <hi rend="i">Bourdeaux</hi>, le
-            vulgaire par ignorance, &amp; les habiles gens, pour n’y avoir pas fait assez
-            d’attention. Néanmoins il s’en est trouvé qui ont retenu la pureté de la prononciation
-            Françoise, &amp; qui ont dit <hi rend="i">Bordeaux</hi>, suivant l’étymologie naturelle
-            du nom. Tels sont le Pere Monet, &amp; l’illustre M<hi rend="sup">r</hi> Nicod, Maistre
-            des Requestes, dans les deux sçavans Dictionnaires qu’ils ont faits, où ils ne
-            paroissent pas moins habiles dans la Langue Françoise que dans la Latine, dont ils ont
-            étalé toutes les beautez &amp; les richesses. Calepin prononce <hi
-              rend="i">Bordeaux</hi> comme eux, &amp; Michel-Antoine Baudran dans sa belle
-            Geographie imprimée à Paris en 1661. en deux tomes in fol. expliquant ces mots, <hi
-              rend="i">Burdigalensis ager</hi>, dit le Pays Bordelois, <hi rend="i">Burdigalensis
-            sinus</hi>, la grande Baïe de Bordeaux.</p>
-          <p>Vous m’opposerez sans doute que ces autoritez ne sont pas du poids de celles de M<hi
-              rend="sup">r</hi> le Maistre, de M<hi rend="sup">r</hi> Pelisson &amp; du P. Bouhours
-            ; mais je répondray à l’égard de ce dernier, avec sa permission &amp; la vostre, que
-            s’il a décidé en faveur de <hi rend="i">Bourdeaux</hi>, peut-estre y a-t-il eu dans sa
-            décision un peu d’amour propre. Il a prononcé dans sa cause, contre la prohibition de la
-            Rubrique, <hi rend="i">ne quis in sua causa</hi>, &amp;c. n’ayant conservé l’<hi
-              rend="i">
-              ou</hi> dans la premiere sillabe du nom de <hi rend="i">Bourdeaux</hi>, que parce
-            qu’il se trouve dans la premiere du sien, &amp; qu’il l’a voulu faire entrer avec celuy
-            de <hi rend="i">Bourdeaux</hi> dans la communauté des noms augustes, ausquels vous
-            l’associez dans vostre Lettre. Pour l’autorité de M<hi
-              rend="sup">r</hi> le Maistre, je ne sçay s’il vous avoüeroit bien de vostre citation,
-            &amp; s’il ne vous diroit pas que quand il a composé son Plaidoyer, il s’est plus
-            attaché à la substance des choses, qu’à l’écorce des paroles, comme il se pratique en
-            matiere de Loix, suivant la maxime du Jurisconsulte, <hi
-              rend="i">Scire leges non est earum verba, sed mentem tenere</hi>.</p>
-          <p>Lors que M<hi rend="sup">r</hi> Pelisson a écrit l’Histoire de l’Academie, il n’a pas
-            prétendu y donner des regles pour la Langue, non plus que M<hi rend="sup">r</hi> le
-            Maistre dans son Plaidoyer, Les Geographes que vous alleguez, ont laissé <hi rend="i">
-            Bourdeaux</hi> écrit dans leurs Cartes, comme ils l’ont trouvé dans celles qu’ils ont
-            reformées, &amp; ils n’ont eu en veuë que ceste réformation, &amp; non pas celle de la
-            Langue, pouvant estre de tres-bons Geographes, &amp; parler tres mal Francois. En un
-            mot, il en faut toujours revenir à l’ancienne étymologie, qui se trouvant autorisée par
-            l’usage, qui est le maistre des Langues, on ne doit pas balancer à se déterminer en sa
-            faveur. Ainsi, Monsieur, l’usage d’aujourd’huy estant pour <hi rend="i">Bordeaux</hi>,
-            comme vous pourrez prendre la peine de le remarquer en tous ceux qui parlent le mieux,
-            il faut suivre cet usage qui n’a rien que de doux &amp; d’agreable à l’oreille.</p>
-          <p>Aprés le Latin, vous avez appellé le Grec à vostre secours. Les Grecs prononcent,
-            dites-vous, <hi rend="i">
-              Bourdegala</hi>, le François qui a beaucoup d’affinité avec le Grec, suivant vostre
-            Lettre, doit retenir la prononciation de l’<hi rend="i">ou</hi> ; mais puis que nostre
-            Langue n’en a pas moins avec le Latin, qui de vostre aveu, prononce l’<hi rend="i">u</hi>
-            comme les Grecs, témoin vostre <hi rend="i">Loucoullous</hi>, il faudroit par la même
-            raison prononcer les <hi rend="i">u</hi> venant du Latin, comme s’il y avoit <hi
-              rend="i">ou</hi>. Suivant cette regle, au lieu de <hi rend="i">Muse</hi> venant de <hi
-              rend="i">musa</hi>, on diroit <hi rend="i">Mouse</hi>, au lieu de <hi rend="i">
-            peinture</hi>, venant de <hi rend="i">pictura
-            </hi>, on diroit <hi rend="i">peintoure</hi>, ce qui produiroit de
-            tres grandes difformitez dans la Langue, &amp; montre assez que dans la prononciation
-            Françoise nous ne devons avoir aucun égard ny à la Grecque, ny à la Latine, &amp; qu’il
-            faut suivre uniquement celle qui se trouve établie par le bel usage.</p>
-          <p>Mais enfin, Monsieur, pourquoy voulez-vous persuader que <hi rend="i">Bordeaux</hi>
-            vienne de <hi rend="i">
-              Burdigala</hi>, puis qu’il est plus naturel que <hi rend="i">Burdigala</hi>, ait esté
-            formé de <hi
-              rend="i">Bordeaux</hi>, cette Ville, comme je l’ay déja remarqué, ayant esté
-            tres-considerable, suivant le témoignage de Strabon, dans le temps que les Romains y
-            mirent le pied ? Ainsi le nom de <hi rend="i">
-              Bordeaux</hi> imposé à la Ville par ceux qui la bastirent, estoit plus ancien que le
-            Latin, <hi rend="i">
-              Burdigala</hi>, auquel l’autre peut avoir donné la naissance, à moins de dire,
-            Monsieur, s’il m’est permis de faire une étymologie à mon tour, pour favoriser vostre
-            décision, que <hi rend="i">Burdigala</hi> est composé du mot Espagnol, <hi rend="i">
-            Burgo</hi>, que vous employez dans vostre Lettre pour origine, &amp; qui signifie Bourg,
-            &amp; de <hi rend="i">Gala</hi>, qui veut dire Propreté &amp; bonne grace ; de sorte que
-            la Ville n’estant encore qu’une Bourgade dans son commencement, il se pourroit qu’elle
-            fut appellée par ses Habitans, qui avoient eu sans doute commerce avec les Espagnols,
-            &amp; qui parloient quelque peu leur langage, <hi rend="i">Burgo de Gala</hi>, c’est à
-            dire, Bourg dont les Habitans estoient propres &amp; de bon air, &amp; par succession en
-            retranchant <hi rend="i">go</hi>, on en fit <hi rend="i">Burdegala</hi>, qui est le mot
-            Latin dont l’origine vous a assez occupé. Voilà, Monsieur, une étymologie heureuse, puis
-            qu’elle a l’avantage de tomber dans vostre sens, &amp; elle ne convient pas mal aux
-            Habitans de cette Ville, singulierement aux Femmes, n’y en ayant guere ailleurs qui se
-            mettent plus proprement, ayant cette obligation au bon air quï luy est naturel, que dans
-            des parures mediocres, elles paroissent plus que d’autres dans des habits magnifiques.
-            Mais, Monsieur, puis que je vous donne une étymologie qui vous plaira sans doute, vous
-            ferez bien cette justice au Public de luy passer celle de <hi rend="i">Bordeaux</hi>,
-            &amp; de ne refuser pas à nos rivages, qui presentent à toutes les Nations un abord si
-            agreable, l’honneur d’avoir donné le nom à nostre Ville. Si vous vous obstinez dans ce
-            refus, craignez que les Nimphes de Garonne ne vous broüillent avec vostre Muse. Vous
-            sçavez que les Nimphes sont favorites des Muses, &amp; que ces doctes Sœurs n’ont jamais
-            plus de brillant &amp; plus de gayeté que sur le bord des eaux. Je suis, &amp;c.</p>
+          <p>Quoique je fasse cas de vos jugemens, &amp; que j’honore vos décisions, vous me permettrez, s’il vous plaist, de reclamer contre celle que vous venez de donner au Public dans une Lettre où vous répondez à la question s’il faut dire <hi rend="i"> Bordeaux</hi>, ou <hi rend="i">Bourdeaux</hi>. Si vous aviez imité Ciceron, que vous vous proposez d’abord pour modéle, vous auriez fait comme ce grand Homme, lors que Pompée le consulta, aprés avoir élevé un Temple à la Victoire voulant y mettre une inscription pour marquer que ce Temple avoit esté achevé pendant son troisiéme Consulat ; &amp; au lieu de prononcer définitivement qu’il faut dire <hi rend="i">Bourdeaux</hi>, vous sous seriez contenté d’écrire ce mot sans y mettre les deux premieres voyelles, &amp; vous auriez laissé le Lecteur dans la liberté de prononcer <hi rend="i">Bourdeaux </hi> ou <hi rend="i">Bordeaux</hi>, dans un temps où cette derniere prononciation a une foule de partisans. </p>
+          <p>Il ne faut point estre de la famille du President Bordeaux pour se déclarer du party que je prens. C’est assez estre natif de cette Ville, pour conserver à son nom la délicatesse de laquelle il est en possession, &amp; que l’usage autorise dans la bouche de ceux qui parlent avec le plus de douceur, &amp; qui prononcent unanimement <hi rend="i">Bordeaux</hi>.</p>
+          <p>Pourquoy voulez-vous, Monsieur, que cette prononciation ne soit fondée que sur l’imagination de ceux qui ont crû que nostre Ville avoit pris son nom du bord des eaux, où elle est située ? Leur raison n’y auroit-elle pas encore plus de part, &amp; s’il n’est rien de si ordinaire que de donner aux hommes des noms pris des lieux de leur naissance, de leurs qualitez, bonnes ou mauvaises, mesme des marques singuliéres qui paroissent dans leurs personnes, Ciceron ayant esté ainsi appellé <hi rend="i">à Cicere</hi>, Fabius, <hi rend="i">à Fabis</hi>, Lentulus, <hi rend="i">à Lente</hi>, n’aura-t-il pas esté loisible aux fondateurs de cette Ville d’avoir pris son nom de sa situation, &amp; de l’avoir appellée <hi rend="i">Bordeaux</hi>, à cause qu’ils l’ont bastie sur le bord des eaux ?</p>
+          <p>Que s’il se trouve quelques auteurs qui l’ayent nommée <hi rend="i">Bourdeaux</hi>, en y ajoûtant un <hi rend="i">u</hi>, il faut plutost regarder cette addition comme un défaut du Pays, &amp; une corruption du nom, que comme une prononciation naturelle, à laquelle on est revenu, soit par le commerce qu’on a avec les gens qui parlent bien, &amp; qui sont dans cette Province en plus grand nombre qu’ils n’ont jamais esté, soit par une reflexion solide sur l’origine du terme qui se presente d’abord à l’esprit.</p>
+          <p>Il est vray qu’il y a d’autres Villes qui sont basties sur le bord des eaux, &amp; si elles n’en ont pas pris leur nom, ce n’est pas que cet avantage leur estant commun, ne fust pas propre à designer une Ville plutost qu’une autre, mais c’est qu’il n’a pas plû à leurs Fondateurs de tirer leur nom de cette origine, &amp; <hi rend="i">Bordeaux</hi> en ayant pris le sien la premiere, ou estant la plus considerable de celles qui sont le long de la Garonne, les autres n’ont pas voulu luy ravir un nom qui luy estoit dû à bien plus juste titre, puisqu’elle est entourée d’eaux, ayant au Levant celles de la Garonne, au Couchant celles qui viennent des Landes, qui forment pendant quelques mois une petite mer au derriere du Palais Archiepiscopal, &amp; au Midy les ruisseaux qui viennent de Begle ; ce qui est assez conforme à ce que rapporte Pierre Bertius dans ses Tables abregées de Geographie, où parlant de Bordeaux, il dit : <hi rend="i">Burdigala, veterum Biturigum Vibiscorum urbs, est fita in paludibus quas exundans Garumna efficit</hi> ; ce qui a fait porter à cette Capitale de la Guyenne le nom de <hi rend="i">Bordeaux</hi>, par une tres-juste &amp; tres-judicieuse étymologie rapportée dans la page 19. du Suplément de nôtre Chronique.</p>
+          <p>Ainsi, Monsieur, puisque nous trouvons la veritable cause de ce nom dans la propre assiette de la Ville, ne salissons point nostre esprit de ces idées de débauche, qui ne sont ny de vostre goût, ny de vostre penchant. Quelle analogie, quel rapport y a-t-il entre les bords de ces eaux, &amp; ces endroits qu’on ne peut nommer sans choquer la pudeur ? L’exemple d’un Romain qui aime la magnificence, qui fait poser des tentes sur un rivage, &amp; qui s’y va réjoüir avec de petites Bourgeoises, parmy tous les excés de la profusion &amp; du luxe, n’établit aucune preuve de l’allusion qui vous blesse. Aussi ne voit-on rien sur le Port de nostre Ville qui ressente une origine si scandaleuse ; &amp; pourroit-on penser quelque chose d’approchant de ses commencemens, puisque du temps d’Auguste Bordeaux estoit, selon Strabon, une Ville marchande &amp; Port de mer renommé, située prés les Palus &amp; un Lac sur le bord de la Garonne, comme elle est maintenant.</p>
+          <p>Bien qu’Ausone, qui ne fut pas moins la gloire de Rome que de sa Patrie, ait dit que Bordeaux estoit le lieu de sa naissance, <hi rend="i">Burdigala natale solum</hi>, ce n’est pas une consequence que le mot Latin <hi rend="i">Burdigala</hi>, soit plus ancien que celuy que cette Ville porte aujourd’huy, ayant esté apparemment inconnu dans la Guienne, jusqu’au temps que les Romains y porterent leurs armes victorieuses, &amp; que les Vaincus commencerent à y parler la Langue des Vainqueurs, prés de deux siecles &amp; demi avant la naissance d’Ausone.</p>
+          <p>Ce n’est donc pas dans le Latin qu’il faut aller chercher l’origine du nom de <hi rend="i">Bordeaux</hi>, &amp; vous en convenez si bien, Monsieur, que vous voulez bien en avoir l’obligation au ruisseau de la Bourde &amp; de Jalle, qui sont deux noms que la Latinité ne vendiquera jamais. Ils ne sont pas, dites-vous, éloignez de la Ville ; vous en portez vous-même la preuve, puis que vous les faites entrer dans la Garonne par l’endroit où est à present l’Eglise S. Pierre, mais, Monsieur, tous ne conviendront pas avec vous de la jonction que vous faites de ces deux Ruisseaux, estant tres-constant que la Bourde se décharge dans la Garonne un quart de lieuë au dessus de Bordeaux, &amp; la Jalle à plus d’une lieuë au dessous. Il n’y a pas d’apparence que la Bourde ait donné le nom à une grande Ville arrosée de la Garonne, &amp; entourée de marais où se noyoit ce ruisseau avant que de s’approcher de la Ville, s’il avoit le cours que vous luy donnez. Ainsi si quelques Eaux devoient luy donner un nom, ce seroit plûtost celles des Marais, ou de cette grosse Riviere, qu’un petit ruisseau qu’on ne connoist pas, &amp; qui n’osant paroistre à l’aspect de cette belle Ville, se cache tout honteux sous le pavé de ses ruës, &amp; coule, selon vous, dans la Garonne par des canaux soûterrains, sans que l’on sçache seulement s’il y a un ruisseau, ny si ce ruisseau a un nom.</p>
+          <p>Laissant donc là la Bourde, Monsieur, vous souffrirez que je m’en tienne à mon premier sentiment. Je demeure d’accord que l’<hi rend="i">u</hi> des Latins, se change souvent dans le François en <hi rend="i">ou </hi>. Les exemples que vous en citez sont familiers, mais vous ne disconviendrez pas aussi que les Gascons ne changent l’<hi rend="i">o</hi> des François en <hi rend="i">ou</hi>, par exemple, nous disons en François, <hi rend="i">mordu</hi>, preterit parfait de mordre, <hi rend="i">cordeau</hi>, <hi rend="i"> borner</hi>, <hi rend="i">orner</hi>, <hi rend="i">border</hi>, <hi rend="i">Cocher</hi> , <hi rend="i"> orme</hi>, &amp; une infinité d’autres ; &amp; les Gascons changeant l’<hi rend="i">o</hi> en <hi rend="i">ou</hi>, nous disons <hi rend="i">mourdu</hi>, <hi rend="i">courde</hi>, <hi rend="i">bourna</hi> , <hi rend="i">ourna</hi>, <hi rend="i">bourda</hi>, <hi rend="i"> Couchei</hi>, <hi rend="i">ourme</hi>. Un pareil changement a fait qu’au lieu de prononcer <hi rend="i">Bordeaux</hi>, conformement à son étymologie, on a prononcé en Gascon <hi rend="i">Bourdeaux</hi> ; &amp; comme cette prononciation a esté generale, lors que dans la suite on a parlé François, on y a retenu l’<hi rend="i">ou</hi> de la prononciation Gasconne, &amp; de là vient qu’on a dit <hi rend="i">Bourdeaux</hi>, le vulgaire par ignorance, &amp; les habiles gens, pour n’y avoir pas fait assez d’attention. Néanmoins il s’en est trouvé qui ont retenu la pureté de la prononciation Françoise, &amp; qui ont dit <hi rend="i">Bordeaux</hi>, suivant l’étymologie naturelle du nom. Tels sont le Pere Monet, &amp; l’illustre M<hi rend="sup">r</hi> Nicod, Maistre des Requestes, dans les deux sçavans Dictionnaires qu’ils ont faits, où ils ne paroissent pas moins habiles dans la Langue Françoise que dans la Latine, dont ils ont étalé toutes les beautez &amp; les richesses. Calepin prononce <hi rend="i">Bordeaux</hi> comme eux, &amp; Michel-Antoine Baudran dans sa belle Geographie imprimée à Paris en 1661. en deux tomes in fol. expliquant ces mots, <hi rend="i">Burdigalensis ager</hi>, dit le Pays Bordelois, <hi rend="i">Burdigalensis sinus</hi>, la grande Baïe de Bordeaux.</p>
+          <p>Vous m’opposerez sans doute que ces autoritez ne sont pas du poids de celles de M<hi rend="sup">r</hi> le Maistre, de M<hi rend="sup">r</hi> Pelisson &amp; du P. Bouhours ; mais je répondray à l’égard de ce dernier, avec sa permission &amp; la vostre, que s’il a décidé en faveur de <hi rend="i">Bourdeaux</hi>, peut-estre y a-t-il eu dans sa décision un peu d’amour propre. Il a prononcé dans sa cause, contre la prohibition de la Rubrique, <hi rend="i">ne quis in sua causa</hi>, &amp;c. n’ayant conservé l’<hi rend="i"> ou</hi> dans la premiere sillabe du nom de <hi rend="i">Bourdeaux</hi>, que parce qu’il se trouve dans la premiere du sien, &amp; qu’il l’a voulu faire entrer avec celuy de <hi rend="i">Bourdeaux</hi> dans la communauté des noms augustes, ausquels vous l’associez dans vostre Lettre. Pour l’autorité de M<hi rend="sup">r</hi> le Maistre, je ne sçay s’il vous avoüeroit bien de vostre citation, &amp; s’il ne vous diroit pas que quand il a composé son Plaidoyer, il s’est plus attaché à la substance des choses, qu’à l’écorce des paroles, comme il se pratique en matiere de Loix, suivant la maxime du Jurisconsulte, <hi rend="i">Scire leges non est earum verba, sed mentem tenere</hi>.</p>
+          <p>Lors que M<hi rend="sup">r</hi> Pelisson a écrit l’Histoire de l’Academie, il n’a pas prétendu y donner des regles pour la Langue, non plus que M<hi rend="sup">r</hi> le Maistre dans son Plaidoyer, Les Geographes que vous alleguez, ont laissé <hi rend="i"> Bourdeaux</hi> écrit dans leurs Cartes, comme ils l’ont trouvé dans celles qu’ils ont reformées, &amp; ils n’ont eu en veuë que ceste réformation, &amp; non pas celle de la Langue, pouvant estre de tres-bons Geographes, &amp; parler tres mal Francois. En un mot, il en faut toujours revenir à l’ancienne étymologie, qui se trouvant autorisée par l’usage, qui est le maistre des Langues, on ne doit pas balancer à se déterminer en sa faveur. Ainsi, Monsieur, l’usage d’aujourd’huy estant pour <hi rend="i">Bordeaux</hi>, comme vous pourrez prendre la peine de le remarquer en tous ceux qui parlent le mieux, il faut suivre cet usage qui n’a rien que de doux &amp; d’agreable à l’oreille.</p>
+          <p>Aprés le Latin, vous avez appellé le Grec à vostre secours. Les Grecs prononcent, dites-vous, <hi rend="i"> Bourdegala</hi>, le François qui a beaucoup d’affinité avec le Grec, suivant vostre Lettre, doit retenir la prononciation de l’<hi rend="i">ou</hi> ; mais puis que nostre Langue n’en a pas moins avec le Latin, qui de vostre aveu, prononce l’<hi rend="i">u</hi> comme les Grecs, témoin vostre <hi rend="i">Loucoullous</hi>, il faudroit par la même raison prononcer les <hi rend="i">u</hi> venant du Latin, comme s’il y avoit <hi rend="i">ou</hi>. Suivant cette regle, au lieu de <hi rend="i">Muse</hi> venant de <hi rend="i">musa</hi>, on diroit <hi rend="i">Mouse</hi>, au lieu de <hi rend="i"> peinture</hi>, venant de <hi rend="i">pictura </hi>, on diroit <hi rend="i">peintoure</hi>, ce qui produiroit de tres grandes difformitez dans la Langue, &amp; montre assez que dans la prononciation Françoise nous ne devons avoir aucun égard ny à la Grecque, ny à la Latine, &amp; qu’il faut suivre uniquement celle qui se trouve établie par le bel usage.</p>
+          <p>Mais enfin, Monsieur, pourquoy voulez-vous persuader que <hi rend="i">Bordeaux</hi> vienne de <hi rend="i"> Burdigala</hi>, puis qu’il est plus naturel que <hi rend="i">Burdigala</hi>, ait esté formé de <hi rend="i">Bordeaux</hi>, cette Ville, comme je l’ay déja remarqué, ayant esté tres-considerable, suivant le témoignage de Strabon, dans le temps que les Romains y mirent le pied ? Ainsi le nom de <hi rend="i"> Bordeaux</hi> imposé à la Ville par ceux qui la bastirent, estoit plus ancien que le Latin, <hi rend="i"> Burdigala</hi>, auquel l’autre peut avoir donné la naissance, à moins de dire, Monsieur, s’il m’est permis de faire une étymologie à mon tour, pour favoriser vostre décision, que <hi rend="i">Burdigala</hi> est composé du mot Espagnol, <hi rend="i"> Burgo</hi>, que vous employez dans vostre Lettre pour origine, &amp; qui signifie Bourg, &amp; de <hi rend="i">Gala</hi>, qui veut dire Propreté &amp; bonne grace ; de sorte que la Ville n’estant encore qu’une Bourgade dans son commencement, il se pourroit qu’elle fut appellée par ses Habitans, qui avoient eu sans doute commerce avec les Espagnols, &amp; qui parloient quelque peu leur langage, <hi rend="i">Burgo de Gala</hi>, c’est à dire, Bourg dont les Habitans estoient propres &amp; de bon air, &amp; par succession en retranchant <hi rend="i">go</hi>, on en fit <hi rend="i">Burdegala</hi>, qui est le mot Latin dont l’origine vous a assez occupé. Voilà, Monsieur, une étymologie heureuse, puis qu’elle a l’avantage de tomber dans vostre sens, &amp; elle ne convient pas mal aux Habitans de cette Ville, singulierement aux Femmes, n’y en ayant guere ailleurs qui se mettent plus proprement, ayant cette obligation au bon air quï luy est naturel, que dans des parures mediocres, elles paroissent plus que d’autres dans des habits magnifiques. Mais, Monsieur, puis que je vous donne une étymologie qui vous plaira sans doute, vous ferez bien cette justice au Public de luy passer celle de <hi rend="i">Bordeaux</hi>, &amp; de ne refuser pas à nos rivages, qui presentent à toutes les Nations un abord si agreable, l’honneur d’avoir donné le nom à nostre Ville. Si vous vous obstinez dans ce refus, craignez que les Nimphes de Garonne ne vous broüillent avec vostre Muse. Vous sçavez que les Nimphes sont favorites des Muses, &amp; que ces doctes Sœurs n’ont jamais plus de brillant &amp; plus de gayeté que sur le bord des eaux. Je suis, &amp;c.</p>
         </quote>
       </div>
     </body>

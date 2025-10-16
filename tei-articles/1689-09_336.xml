@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,19 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-            
-            <p>Nos Amateurs continuent à faire des prises de tous costez,
-                    mais je ne vous entretiendray pas davantage aujourd’huy des Affaires de Mer, &amp;
-                    ne vous parleray plus que de celle de Quebec. Deux Vaisseaux Anglois, l’un de
-                    dix-huit Pieces de Canon, &amp; l’autre de dix estant venus attaquer le Fort
-                    Sainte Anne, trouverent M<hi rend="sup">r</hi> d’Iberville, Commandant pour la Compagnie
-                    Françoise du Nord dans la Baye d’Hudson. Quoyqu’il n’eust avec luy que 26
-                    hommes, il les repoussa vigoureusement, prit un petit Fort qui avoit esté
-                    construit par les Anglois, &amp; les obligea de se rendre à discretion, en sorte
-                    qu’il demeura Maistre des deux Vaisseaux, sans avoir perdu qu’un homme.</p>
-
-        </div>
+    <body>
+      <div>
+        <p>Nos Amateurs continuent à faire des prises de tous costez, mais je ne vous entretiendray pas davantage aujourd’huy des Affaires de Mer, &amp; ne vous parleray plus que de celle de Quebec. Deux Vaisseaux Anglois, l’un de dix-huit Pieces de Canon, &amp; l’autre de dix estant venus attaquer le Fort Sainte Anne, trouverent M<hi rend="sup">r</hi> d’Iberville, Commandant pour la Compagnie Françoise du Nord dans la Baye d’Hudson. Quoyqu’il n’eust avec luy que 26 hommes, il les repoussa vigoureusement, prit un petit Fort qui avoit esté construit par les Anglois, &amp; les obligea de se rendre à discretion, en sorte qu’il demeura Maistre des deux Vaisseaux, sans avoir perdu qu’un homme.</p>
+      </div>
     </body>
   </text>
 </TEI>

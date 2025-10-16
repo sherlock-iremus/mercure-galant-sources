@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,9 +14,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
+    <body>
+      <div>
         <quote>
           <label>[AIR NOUVEAU.]* <note resp="editor">Cet air, qui ne correspond pas à l’article introductif, figure en lieu et place de « La fête d’une riche cour » (cf. <ref target="MG-1691-09_311">cet article</ref>) dans les exemplaires F-Pa, 8-H-26483 ; F-Pa, 8-H-26484 ; F-Pm, 8° 33890-266, peut-être en raison d’une erreur de reliure ou d'impression.</note></label>
           <lg>
@@ -29,6 +28,6 @@
           </lg>
         </quote>
       </div>
-        </body>
+    </body>
   </text>
 </TEI>

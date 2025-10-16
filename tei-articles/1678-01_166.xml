@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Vous la placerez où il vous plaira, &amp; cependant je croy que vous ne serez pas fâchée
-          que je place icy trois Rondeaux que j’ay encor recouvrez de ceux que M<hi rend="sup">r</hi> de S. Gilles l’Enfant, Page du Roy, presenta l’Hyver passé à Monsieur le Duc du
-          Maine. Je vous en ay déja envoyé quelques-uns dont vous m’avez témoigné estre satisfaite ;
-          &amp; quoy que ce ne soit point par les Vers que ce jeune Gentilhomme cherche à meriter
-          l’estime des honnestes Gens, je ne puis trop vous faire connoistre son Esprit, apres vous
-          avoir entretenuë dans une de mes premieres Lettres des diverses Occasions où il a fait
-          paroistre son cœur. Il prend agreablement le vray stile du Rondeau, &amp; l’application de
-          sa Morale est heureuse.</p>
+    <body>
+      <div>
+        <p>Vous la placerez où il vous plaira, &amp; cependant je croy que vous ne serez pas fâchée que je place icy trois Rondeaux que j’ay encor recouvrez de ceux que M<hi rend="sup">r</hi> de S. Gilles l’Enfant, Page du Roy, presenta l’Hyver passé à Monsieur le Duc du Maine. Je vous en ay déja envoyé quelques-uns dont vous m’avez témoigné estre satisfaite ; &amp; quoy que ce ne soit point par les Vers que ce jeune Gentilhomme cherche à meriter l’estime des honnestes Gens, je ne puis trop vous faire connoistre son Esprit, apres vous avoir entretenuë dans une de mes premieres Lettres des diverses Occasions où il a fait paroistre son cœur. Il prend agreablement le vray stile du Rondeau, &amp; l’application de sa Morale est heureuse.</p>
         <quote rend="border">
           <label rend="center">Les Pots flotans.</label>
           <label rend="center">Rondeau.</label>
@@ -105,6 +97,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

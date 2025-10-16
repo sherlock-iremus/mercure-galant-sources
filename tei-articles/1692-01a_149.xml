@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,19 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>La galanterie n’a pas seulement lieu dans les choses où l’amour prend quelque part ; il
-          suffit d’avoir de l’esprit pour la faire entrer dans celles qui sont les plus serieuses,
-          &amp; c’est ce qui a paru dans un present d’un Voile de Calice fort riche, fait depuis peu
-          à M<hi rend="sup">r</hi> l’Archidiacre de Paris. Ce Voile estoit envelopé de telle sorte,
-          qu’en défaisant le paquet, on voyoit d’abord des tasses de Porcelaine, des cueillers de
-          Vermeil doré pour prendre du Café, &amp; de petits pains de Sucre de la longueur du doigt.
-          Pour mieux tromper celuy à qui ce present estoit adressé, on avoit écrit sur le paquet,
-            <hi rend="i">Excellent Café</hi>. Ces tasses &amp; ces cueillers luy avoient esté prises
-          par plaisanterie, sans qu’il s’en fust apperceu, &amp; on luy en faisoit la restitution,
-          en envoyant le Voile, que l’on accompagna de ces Vers.</p>
+    <body>
+      <div>
+        <p>La galanterie n’a pas seulement lieu dans les choses où l’amour prend quelque part ; il suffit d’avoir de l’esprit pour la faire entrer dans celles qui sont les plus serieuses, &amp; c’est ce qui a paru dans un present d’un Voile de Calice fort riche, fait depuis peu à M<hi rend="sup">r</hi> l’Archidiacre de Paris. Ce Voile estoit envelopé de telle sorte, qu’en défaisant le paquet, on voyoit d’abord des tasses de Porcelaine, des cueillers de Vermeil doré pour prendre du Café, &amp; de petits pains de Sucre de la longueur du doigt. Pour mieux tromper celuy à qui ce present estoit adressé, on avoit écrit sur le paquet, <hi rend="i">Excellent Café</hi>. Ces tasses &amp; ces cueillers luy avoient esté prises par plaisanterie, sans qu’il s’en fust apperceu, &amp; on luy en faisoit la restitution, en envoyant le Voile, que l’on accompagna de ces Vers.</p>
         <quote>
           <lg>
             <l rend="i"> Je suis un petit Present,</l>
@@ -72,6 +62,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

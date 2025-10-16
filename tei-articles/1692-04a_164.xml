@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Vous croirez facilement que les Vers que vous allez lire n’ont pas moins de delicatesse
-          que de force, quand je vous auray appris qu’ils sont de M<hi rend="sup">r</hi> Boyer de
-          l’Academie Françoise. Ils vous feront voir que l’on se flate inutilement de pouvoir aimer
-          sans former aucuns desirs, &amp; que l’Amant le plus sage ne s’en sçauroit garantir que
-          par la fuite.</p>
+    <body>
+      <div>
+        <p>Vous croirez facilement que les Vers que vous allez lire n’ont pas moins de delicatesse que de force, quand je vous auray appris qu’ils sont de M<hi rend="sup">r</hi> Boyer de l’Academie Françoise. Ils vous feront voir que l’on se flate inutilement de pouvoir aimer sans former aucuns desirs, &amp; que l’Amant le plus sage ne s’en sçauroit garantir que par la fuite.</p>
         <quote>
           <label>ELEGIE.</label>
           <lg>
@@ -55,7 +50,9 @@
             <l rend="i">Perd ce qu’un fol espoir y mêle de fumée.</l>
             <l rend="i">Le cristal de nos eaux, la lumiere du jour,</l>
             <l rend="i">Ont moins de pureté qu’un si parfait amour.</l>
-            <l><hi rend="i">Ce n’est plus cet amour adoré sur la terre,</hi></l>
+            <l>
+              <hi rend="i">Ce n’est plus cet amour adoré sur la terre,</hi>
+            </l>
             <l rend="i">Qui fait à la raison une éternelle guerre,</l>
             <l rend="i">Qui sans rien épargner agit en furieux,</l>
             <l rend="i">Un flambeau dans la main, un bandeau sur les yeux.</l>
@@ -95,7 +92,9 @@
             <l rend="i">Les voir, les admirer, &amp; les loüer ensemble,</l>
             <l rend="i">Comparer quelquefois les roses &amp; les lis</l>
             <l rend="i">Aux fleurs qu’on voit briller sur le teint de Filis,</l>
-            <l><hi rend="i">Et tourner nos regards vers la main immortelle</hi></l>
+            <l>
+              <hi rend="i">Et tourner nos regards vers la main immortelle</hi>
+            </l>
             <l rend="i">Qui l’a donnée au monde, &amp; qui la fit si belle ?</l>
             <l rend="i">Si ce brillant amas de miracles divers,</l>
             <l rend="i">Ce mélange d’appas qui parent l’Univers,</l>
@@ -155,13 +154,15 @@
             <l rend="i">Mais presque à mesme-temps Tirsis la desavouë,</l>
             <l rend="i">Et ses nouveaux regards excitent dans son cœur</l>
             <l rend="i">Un amour, dont loin d’elle il se croyoit vainqueur.</l>
-            <l><hi rend="i">C’est en vain qu’il combat sa fatale puissance,</hi></l>
+            <l>
+              <hi rend="i">C’est en vain qu’il combat sa fatale puissance,</hi>
+            </l>
             <l rend="i">Il sent qu’il ne sçauroit la vaincre en sa presence,</l>
             <l rend="i">Et que pour une entiere &amp; prompte guerison</l>
             <l rend="i">La fuite est un secours plus seur que la raison.</l>
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

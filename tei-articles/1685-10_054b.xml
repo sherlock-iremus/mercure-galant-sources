@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>L'Air nouveau que vous trouverez icy, est digne de suivre ceux que je vous ay envoyez
-          depuis quelque temps <note resp="editor">L'air a également été publié, avec basse continue et avec variantes rythmiques à la voix, dans le <hi rend="italic">XXIX. livre d'airs de différents auteurs</hi> (Paris, Christophe Ballard, 1686, f. 34-34v, cf. LADDA 1686-25). </note>.</p>
+    <body>
+      <div>
+        <p>L'Air nouveau que vous trouverez icy, est digne de suivre ceux que je vous ay envoyez depuis quelque temps <note resp="editor">L'air a également été publié, avec basse continue et avec variantes rythmiques à la voix, dans le <hi rend="italic">XXIX. livre d'airs de différents auteurs</hi> (Paris, Christophe Ballard, 1686, f. 34-34v, cf. LADDA 1686-25). </note>.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour
-              placer les Figures</hi> : l’Air qui commence par, <hi rend="i">Sur les tendres Ormeaux
-              le Rossignol fidelle</hi> [doit regarder la page 55.]</note>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par, <hi rend="i">Sur les tendres Ormeaux le Rossignol fidelle</hi> [doit regarder la page 55.]</note>
           <lg>
             <l rend="i">Sur les tendres Ormeaux, le Rossignol fidelle</l>
             <l rend="i">Se plaint d'amour, dont il ressent les coups.</l>
@@ -36,6 +33,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

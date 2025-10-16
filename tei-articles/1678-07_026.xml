@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,31 +14,31 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Les belles choses ne viennent jamais trop tard. Quoyqu’il y ait déja plus de quatre mois
-          que la prise de Gand &amp; d’Ypres a terminé la Campagne de Sa Majesté, vous ne serez pas
-          fâchée de voir les Vers qui suivent.</p>
+    <body>
+      <div>
+        <p>Les belles choses ne viennent jamais trop tard. Quoyqu’il y ait déja plus de quatre mois que la prise de Gand &amp; d’Ypres a terminé la Campagne de Sa Majesté, vous ne serez pas fâchée de voir les Vers qui suivent.</p>
         <quote>
-          <label>SUR LA CAMPAGNE <lb/><hi rend="sc">du Roy</hi>, <lb/>Faite avant le Printemps.
-              <lb/><hi rend="sc">Madrigal</hi>.</label>
+          <label>SUR LA CAMPAGNE <lb/><hi rend="sc">du Roy</hi>, <lb/>Faite avant le Printemps. <lb/><hi rend="sc">Madrigal</hi>.</label>
           <lg>
             <l rend="i">Vous revenez bien tard, Oyseaux, dans ce Bocage,</l>
-            <l><hi rend="sc">Loüis</hi>
-              <hi rend="i">a déja fait de glorieux Exploits.</hi></l>
+            <l>
+              <hi rend="sc">Loüis</hi>
+              <hi rend="i">a déja fait de glorieux Exploits.</hi>
+            </l>
             <l rend="i">Que ne vous pressiez vous pour avoir l’avantage</l>
             <l rend="i">De mesler à nos Chants vostre charmante voix,</l>
             <l rend="i"> En l’honneur du plus grand des Rois ?</l>
             <l rend="i">Autrefois le Printemps, &amp; vous, &amp; la Victoire,</l>
             <l rend="i"> Vous paroissiez tous à la fois ;</l>
-            <l><hi rend="i">Maintenant</hi>
+            <l>
+              <hi rend="i">Maintenant</hi>
               <hi rend="sc">Loüis</hi>
-              <hi rend="i">a la gloire</hi></l>
+              <hi rend="i">a la gloire</hi>
+            </l>
             <l rend="i">De ranger en tout temps la Victoire à ses Loix.</l>
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

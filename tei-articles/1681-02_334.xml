@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,19 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-    
-
-    
-    <p>Madame la Dauphine qui n’avoit point encor veu la Foire de Saint Germain, y alla Mardy
-     dernier, apres avoir dîné au Palais Royal, où Son Altesse Royale traita Monseigneur le Dauphin.
-     Ce fut de là que ce jeune Prince, accompagné de cette Princesse, de Monsieur, de Madame, &amp;
-     de Mademoiselle, se rendirent chez M<hi rend="sup">r</hi> Malo pour la Représentation &amp; les
-     Intermedes en Musique de la Comédie <hi rend="i">d’Amphitrion</hi>, dont je vous ay déja parlé
-     dans cette Lettre. On leur servit une superbe Collation dans quarante Corbeilles d’argent.
-     Toute cette auguste Cour n’en fut pas moins satisfaite que du compliment de M<hi rend="sup">r</hi> Malo, Conseiller au Parlement de Mets. Ils sont trois Freres, dont l’un est Conseiller
-     à la Grand’Chambre, &amp; l’autre Abbé.</p>
-   </div>
-  </body>
+    <body>
+      <div>
+        <p>Madame la Dauphine qui n’avoit point encor veu la Foire de Saint Germain, y alla Mardy dernier, apres avoir dîné au Palais Royal, où Son Altesse Royale traita Monseigneur le Dauphin. Ce fut de là que ce jeune Prince, accompagné de cette Princesse, de Monsieur, de Madame, &amp; de Mademoiselle, se rendirent chez M<hi rend="sup">r</hi> Malo pour la Représentation &amp; les Intermedes en Musique de la Comédie <hi rend="i">d’Amphitrion</hi>, dont je vous ay déja parlé dans cette Lettre. On leur servit une superbe Collation dans quarante Corbeilles d’argent. Toute cette auguste Cour n’en fut pas moins satisfaite que du compliment de M<hi rend="sup">r</hi> Malo, Conseiller au Parlement de Mets. Ils sont trois Freres, dont l’un est Conseiller à la Grand’Chambre, &amp; l’autre Abbé.</p>
+      </div>
+    </body>
   </text>
 </TEI>

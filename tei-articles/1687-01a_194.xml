@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Je vous envoye encore un Air de M<hi rend="sup">r</hi> l'Abbé. Vous le trouverez du moins aussi beau que celuy du mois passé, de la composition de cet Illustre Autheur <note resp="editor">Cet article permet d'attribuer à Labbé l'air <ref target="MG-1686-12a_132"><hi rend="italic">Petits moutons qui dans la plaine</hi></ref>.</note>.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">C'est en vain que l'hyver contraire à nos desirs</hi>, doit regarder la page 195.</note>
-          <lg><l rend="i">C'est en vain que l'Hyver contraire à nos desirs</l>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">C'est en vain que l'hyver contraire à nos desirs</hi>, doit regarder la page 195.</note>
+          <lg>
+            <l rend="i">C'est en vain que l'Hyver contraire à nos desirs</l>
             <l rend="i">Vient troubler la douceur des innocens plaisirs,</l>
             <l rend="i">Que Flore nous offroit dans la Saison nouvelle,</l>
             <l rend="i">Tout répond à mes vœux, Iris est sous ma loy,</l>
@@ -34,6 +35,6 @@
           </figure>
         </ref>
       </div>
-        </body>
+    </body>
   </text>
 </TEI>

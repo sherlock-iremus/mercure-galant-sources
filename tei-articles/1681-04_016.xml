@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,23 +14,32 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-    
-    
-    <p>Je sçay que vous avez veu six Vers Latins que l’on a trouvez fort beaux, sur cette mesme
-     matiere. Ce sont ceux qui commencent par <hi rend="i">Regem inter Populumque, &amp;c.</hi> Je
-     vous en envoye la Traduction dont vous ferez part à vos Amies.</p>
-    <quote>
-     <lg>
-      <l><hi rend="i">Le Roy contre son Peuple avoit un grand Procés,</hi></l>
-      <l><hi rend="i">Les Juges partagez balançoient le succés,</hi></l>
-      <l><hi rend="i">Et tenoient tout Paris dans une crainte extréme,</hi></l>
-      <l><hi rend="i">Quand ce Roy genéreux renonçant à ses droits,</hi></l>
-      <l><hi rend="i">Prononce, se condamne, &amp; se montre à la fois</hi></l>
-      <l><hi rend="i">Le Pere de son Peuple, &amp; le Roy de Soy-mesme.</hi></l>
-     </lg>
-    </quote>
-   </div>
-   </body>
+    <body>
+      <div>
+        <p>Je sçay que vous avez veu six Vers Latins que l’on a trouvez fort beaux, sur cette mesme matiere. Ce sont ceux qui commencent par <hi rend="i">Regem inter Populumque, &amp;c.</hi> Je vous en envoye la Traduction dont vous ferez part à vos Amies.</p>
+        <quote>
+          <lg>
+            <l>
+              <hi rend="i">Le Roy contre son Peuple avoit un grand Procés,</hi>
+            </l>
+            <l>
+              <hi rend="i">Les Juges partagez balançoient le succés,</hi>
+            </l>
+            <l>
+              <hi rend="i">Et tenoient tout Paris dans une crainte extréme,</hi>
+            </l>
+            <l>
+              <hi rend="i">Quand ce Roy genéreux renonçant à ses droits,</hi>
+            </l>
+            <l>
+              <hi rend="i">Prononce, se condamne, &amp; se montre à la fois</hi>
+            </l>
+            <l>
+              <hi rend="i">Le Pere de son Peuple, &amp; le Roy de Soy-mesme.</hi>
+            </l>
+          </lg>
+        </quote>
+      </div>
+    </body>
   </text>
 </TEI>

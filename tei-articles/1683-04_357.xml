@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Vous vous souvenez de toutes les Festes qui ont esté faites à Toulouse pour cette mesme
-          Naissance. On a bien connu qu'elles se faisoient par zele, encor plus que par devoir, puis
-          qu'elles ont esté renouvellées dans la mesme Ville à la fin de Fevrier. On y représenta
-          chez les Peres Jesuites une Comédie ornée d'une Allégorie en forme d'Opéra. C'estoit <hi rend="i">La naissance de Mercure</hi>, par rapport aux avantages que tire la France de
-          celle de Monseigneur le Duc de Bourgogne. La Comédie avoit pour titre <hi rend="i">Le
-            philosophe à la Mode,</hi> &amp; l'on y joüoit les Cartésiens. [...]</p>
+    <body>
+      <div>
+        <p>Vous vous souvenez de toutes les Festes qui ont esté faites à Toulouse pour cette mesme Naissance. On a bien connu qu'elles se faisoient par zele, encor plus que par devoir, puis qu'elles ont esté renouvellées dans la mesme Ville à la fin de Fevrier. On y représenta chez les Peres Jesuites une Comédie ornée d'une Allégorie en forme d'Opéra. C'estoit <hi rend="i">La naissance de Mercure</hi>, par rapport aux avantages que tire la France de celle de Monseigneur le Duc de Bourgogne. La Comédie avoit pour titre <hi rend="i">Le philosophe à la Mode,</hi> &amp; l'on y joüoit les Cartésiens. [...]</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

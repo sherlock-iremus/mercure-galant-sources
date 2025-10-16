@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Il ne faut pas s’étonner si la Noblesse de France paroist si habile dans le métier de la Guerre dés ses premieres Campagnes. On n’y peut estre mieux instruit qu’elle l’est dans les Académies, &amp; sur tout dans celle de M<hi rend="sup">r</hi> Bernardi, où l’on fait tous les Exercices Militaires que peut souhaiter un Gentilhomme, qui, au sortir de l’Académie veut se signaler dans les Armées de son Prince. Je vous ay déja parlé d’un Fort que M<hi rend="sup">r</hi> Bernardi fait attaquer tous les ans. Voicy ce qui s’est passé la derniere fois dans cette Attaque. Le Lundy seiziéme jour de Septembre, quatre-vingts Académistes, tres-bien armez, sortirent au son des Fifres, Tambours, Trompetes &amp; Hautbois, &amp; se rendirent aupres des Chartreux. (C’est le lieu où estoit construit le Fort.)</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

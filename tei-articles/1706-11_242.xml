@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,30 +14,33 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-                    
-                    
-                    <p>Peut-estre que si Mr le Marquis de Carman avoit demandé à Mlle de Marcognet
-                        avant que de l’épouser, qui estoit son Tircis, elle luy auroit répondu ce
-                        que vous trouverez dans les paroles suivantes.</p>
-                    <quote>
-                        <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’air <hi rend="i">Quoy vous me demandez qui sera mon Tircis</hi> la page 243.</note>
-                        <lg>
-                            <l><hi rend="i">Quoy ? vous me demandez qui sera mon Tircis,</hi></l>
-                            <l><hi rend="i">Pouvez-vous en douter, vous seul le devez
-                                estre :</hi></l>
-                            <l><hi rend="i">Oüy si j’ay de l’amour, vous seul l’avez fait
-                                    naistre,</hi></l>
-                            <l><hi rend="i">Et vous seul avez droit d’estre vainqueur
-                                d’Iris.</hi></l>
-                        </lg>
-                    </quote>
-                    <ref target="images/1706-11_242.JPG">
-                        <figure>
-                            <graphic url="images/1706-11_242.JPG"/>
-                        </figure>
-                    </ref>
-                </div>
-                </body>
+    <body>
+      <div>
+        <p>Peut-estre que si Mr le Marquis de Carman avoit demandé à Mlle de Marcognet avant que de l’épouser, qui estoit son Tircis, elle luy auroit répondu ce que vous trouverez dans les paroles suivantes.</p>
+        <quote>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’air <hi rend="i">Quoy vous me demandez qui sera mon Tircis</hi> la page 243.</note>
+          <lg>
+            <l>
+              <hi rend="i">Quoy ? vous me demandez qui sera mon Tircis,</hi>
+            </l>
+            <l>
+              <hi rend="i">Pouvez-vous en douter, vous seul le devez estre :</hi>
+            </l>
+            <l>
+              <hi rend="i">Oüy si j’ay de l’amour, vous seul l’avez fait naistre,</hi>
+            </l>
+            <l>
+              <hi rend="i">Et vous seul avez droit d’estre vainqueur d’Iris.</hi>
+            </l>
+          </lg>
+        </quote>
+        <ref target="images/1706-11_242.JPG">
+          <figure>
+            <graphic url="images/1706-11_242.JPG"/>
+          </figure>
+        </ref>
+      </div>
+    </body>
   </text>
 </TEI>

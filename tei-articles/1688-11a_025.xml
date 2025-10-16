@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
+    <body>
+      <div>
         <p/>
-        <p>Il est dangereux en toutes choses d’avoir un Concurrent trop puissant. Ce que la Fable
-          qui suit nous dit de l’amour, se peut appliquer à l’ambition. Dans les grands desseins,
-          celuy qui a le plus de credit fait succomber toûjours le plus foible.</p>
+        <p>Il est dangereux en toutes choses d’avoir un Concurrent trop puissant. Ce que la Fable qui suit nous dit de l’amour, se peut appliquer à l’ambition. Dans les grands desseins, celuy qui a le plus de credit fait succomber toûjours le plus foible.</p>
         <quote>
           <label>LE MILAN, LE MOINEAU<lb/>ET L’HIRONDELLE.<lb/>FABLE.</label>
           <lg>
@@ -94,6 +90,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

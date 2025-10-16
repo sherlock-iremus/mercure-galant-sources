@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Autre Inpromptu d’une autre nature. Une Belle pleine de santé avoit demandé qu’on luy
-          fist son Epitaphe. La demande paroissoit bizarre, &amp; on ne concevoit pas trop bien ce
-          qu’on pouvoit faire sur ce sujet pour une Personne qui n’avoit aucun dessein de renoncer à
-          la vie. Un Cavalier qui ne luy avoit encor parlé de sa passion que par ses regards, prit
-          cette occasion de se déclarer, &amp; apres avoir resvé quelques momens, il luy dit en
-          montrant son cœur ;</p>
+    <body>
+      <div>
+        <p>Autre Inpromptu d’une autre nature. Une Belle pleine de santé avoit demandé qu’on luy fist son Epitaphe. La demande paroissoit bizarre, &amp; on ne concevoit pas trop bien ce qu’on pouvoit faire sur ce sujet pour une Personne qui n’avoit aucun dessein de renoncer à la vie. Un Cavalier qui ne luy avoit encor parlé de sa passion que par ses regards, prit cette occasion de se déclarer, &amp; apres avoir resvé quelques momens, il luy dit en montrant son cœur ;</p>
         <quote>
           <label>Epitaphe</label>
           <label>pour une Belle Vivante.</label>
@@ -32,6 +26,6 @@
           <l><seg type="tab">    </seg>Elle n’en sortira jamais.</l>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

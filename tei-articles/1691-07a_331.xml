@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,20 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
-        <p>Je remets au mois prochain à vous donner la suite du Journal de la Campagne de piedmont.
-          Cependant je dois vous dire qu’on en a imprimé un depuis peu de l’année 1690. fait par
-            M<hi rend="sup">r</hi> Moreau de Brasey, Capitaine dans le Regiment de la Sare, qui se
-          vend chez Jean-Baptiste Langlois, dans la grande Salle du Palais, à l’Ange Gardien. Comme
-          il est fait par un homme du mestier, &amp; d’une Famille toute pleine d’esprit, ce Livre
-          ne sçauroit estre que bon.</p>
-        <p>Je reserve aussi pour le mois prochain un Dialogue intitulé, <hi rend="i">Les Dieux au
-            Conseil sur la destinée du Prince d’Orange</hi>, du mesme Auteur dont je vous en ay déja
-          envoye plusieurs.</p>
+        <p>Je remets au mois prochain à vous donner la suite du Journal de la Campagne de piedmont. Cependant je dois vous dire qu’on en a imprimé un depuis peu de l’année 1690. fait par M<hi rend="sup">r</hi> Moreau de Brasey, Capitaine dans le Regiment de la Sare, qui se vend chez Jean-Baptiste Langlois, dans la grande Salle du Palais, à l’Ange Gardien. Comme il est fait par un homme du mestier, &amp; d’une Famille toute pleine d’esprit, ce Livre ne sçauroit estre que bon.</p>
+        <p>Je reserve aussi pour le mois prochain un Dialogue intitulé, <hi rend="i">Les Dieux au Conseil sur la destinée du Prince d’Orange</hi>, du mesme Auteur dont je vous en ay déja envoye plusieurs.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

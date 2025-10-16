@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,20 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
-        <p>Vous venez de voir dans cette Seconde Partie de ma Lettre une Relation de M<hi rend="sup">r</hi> de Poincti, touchant ce qui s’est passé devant Alger. Cette Relation estoit
-          adressée à Mademoiselle des Houlieres. C’est une Fille qui a beaucoup d’esprit, &amp; de
-          bon goust, &amp; qui écrit aussi bien en Prose que Madame sa Mere écrit en Vers. C’est
-          beaucoup dire ; mais des Personnes tres-éclairées en parlent de cette maniere, &amp; on
-          peut les croire sur leur parole. Si sa modestie ne s’opposoit pas au dessein de ses Amis,
-          qui voudroient bien donner des Copies de ses Ouvrages, ils serviroient d’un grand ornement
-          à mes Lettres. Madame des Houlieres a régalé de cette Balade celuy qui avoit envoyé la
-          Relation d’Alger à Mademoiselle sa Fille.</p>
-        <label>A M<hi rend="sup">r</hi> DE POINCTY,<lb/>Commandant dans une des<lb/>Galiotes du Roy,
-            nommée<lb/><hi rend="i">la Cruelle</hi>.<lb/>BALADE.</label>
+    <body>
+      <div>
+        <p>Vous venez de voir dans cette Seconde Partie de ma Lettre une Relation de M<hi rend="sup">r</hi> de Poincti, touchant ce qui s’est passé devant Alger. Cette Relation estoit adressée à Mademoiselle des Houlieres. C’est une Fille qui a beaucoup d’esprit, &amp; de bon goust, &amp; qui écrit aussi bien en Prose que Madame sa Mere écrit en Vers. C’est beaucoup dire ; mais des Personnes tres-éclairées en parlent de cette maniere, &amp; on peut les croire sur leur parole. Si sa modestie ne s’opposoit pas au dessein de ses Amis, qui voudroient bien donner des Copies de ses Ouvrages, ils serviroient d’un grand ornement à mes Lettres. Madame des Houlieres a régalé de cette Balade celuy qui avoit envoyé la Relation d’Alger à Mademoiselle sa Fille.</p>
+        <label>A M<hi rend="sup">r</hi> DE POINCTY,<lb/>Commandant dans une des<lb/>Galiotes du Roy, nommée<lb/><hi rend="i">la Cruelle</hi>.<lb/>BALADE.</label>
         <quote>
           <lg>
             <l rend="i">Preux Chevalier, sage, &amp; de bon alloy,</l>
@@ -78,6 +68,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

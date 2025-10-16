@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>M<hi rend="sup">r</hi> Boileau, S<hi rend="sup">r</hi> de Puimorin, qui a esté Intendant
-          &amp; Controlleur Genéral de l’Argenterie, Menus-Plaisirs, &amp; Affaires de la Chambre de
-          Sa Majesté, est mort aussi dans le mesme temps. C’estoit un Homme d’une societé agréable,
-          aimé de toutes les Personnes d’esprit &amp; de qualité, &amp; Frere de l’illustre M<hi rend="sup">r</hi> Despréaux, qui nous a donné autant de Chef-d’œuvres, que nous avons
-          d’Ouvrages de luy.</p>
+    <body>
+      <div>
+        <p>M<hi rend="sup">r</hi> Boileau, S<hi rend="sup">r</hi> de Puimorin, qui a esté Intendant &amp; Controlleur Genéral de l’Argenterie, Menus-Plaisirs, &amp; Affaires de la Chambre de Sa Majesté, est mort aussi dans le mesme temps. C’estoit un Homme d’une societé agréable, aimé de toutes les Personnes d’esprit &amp; de qualité, &amp; Frere de l’illustre M<hi rend="sup">r</hi> Despréaux, qui nous a donné autant de Chef-d’œuvres, que nous avons d’Ouvrages de luy.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

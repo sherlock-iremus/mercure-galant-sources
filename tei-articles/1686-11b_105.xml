@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
+    <body>
+      <div>
         <p/>
-        <p>Après avoir consideré ce Bassin <note resp="editor">Le bassin d'Apollon.</note>, ils
-          monterent dans la Galere qui est sur le Canal. Toutes les Gondoles &amp; tous les autres
-          Bâtimens les accompagnèrent avec tous leurs ornemens, &amp; agrez, &amp; ces Bastimens
-          estoient remplis de Timbales, de Trompetes, &amp; de divers autres instrumens qui ne
-          cessèrent point de joüer tant que les Ambassadeurs furent sur le Canal. [...]</p>
+        <p>Après avoir consideré ce Bassin <note resp="editor">Le bassin d'Apollon.</note>, ils monterent dans la Galere qui est sur le Canal. Toutes les Gondoles &amp; tous les autres Bâtimens les accompagnèrent avec tous leurs ornemens, &amp; agrez, &amp; ces Bastimens estoient remplis de Timbales, de Trompetes, &amp; de divers autres instrumens qui ne cessèrent point de joüer tant que les Ambassadeurs furent sur le Canal. [...]</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

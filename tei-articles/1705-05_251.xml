@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,23 +14,35 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p>La chanson qui suit est de Monsieur de Metz de la Fléche<note resp="editor">Comme en atteste <ref target="MG-1705-06_170">cet article</ref> paru dans le périodique le mois suivant, Donneau de Visé n'a jamais publié la musique de cet air dont il a publié les paroles par erreur.</note></p>
-          <quote>
-            <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’air qui commence par ces mots, <hi rend="i">O Dieu, &amp;c.</hi> doit regarder la page 251.</note>
-            <lg>
-              <l><hi rend="i">O Dieu ! dont la bonté toûjours inépuisable,</hi></l>
-              <l><hi rend="i">En faveur de la France éclata tant de fois,</hi></l>
-              <l><hi rend="i">Protege jusqu’au bout, le plus grand de ses Rois !</hi></l>
-              <l><hi rend="i">Que tes graces pour luy, l’une à l’autre enchaînées,</hi></l>
-              <l><hi rend="i">De ses prosperitez éternisent les Cours</hi></l>
-              <l><hi rend="i">Et le fassent regner &amp; vivre autant d’années</hi></l>
-              <l> <hi rend="i">Que les autres de jours.</hi></l>
-            </lg>
-          </quote>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>La chanson qui suit est de Monsieur de Metz de la Fléche<note resp="editor">Comme en atteste <ref target="MG-1705-06_170">cet article</ref> paru dans le périodique le mois suivant, Donneau de Visé n'a jamais publié la musique de cet air dont il a publié les paroles par erreur.</note></p>
+        <quote>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’air qui commence par ces mots, <hi rend="i">O Dieu, &amp;c.</hi> doit regarder la page 251.</note>
+          <lg>
+            <l>
+              <hi rend="i">O Dieu ! dont la bonté toûjours inépuisable,</hi>
+            </l>
+            <l>
+              <hi rend="i">En faveur de la France éclata tant de fois,</hi>
+            </l>
+            <l>
+              <hi rend="i">Protege jusqu’au bout, le plus grand de ses Rois !</hi>
+            </l>
+            <l>
+              <hi rend="i">Que tes graces pour luy, l’une à l’autre enchaînées,</hi>
+            </l>
+            <l>
+              <hi rend="i">De ses prosperitez éternisent les Cours</hi>
+            </l>
+            <l>
+              <hi rend="i">Et le fassent regner &amp; vivre autant d’années</hi>
+            </l>
+            <l> <hi rend="i">Que les autres de jours.</hi></l>
+          </lg>
+        </quote>
+      </div>
+    </body>
   </text>
 </TEI>

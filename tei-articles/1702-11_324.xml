@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p>M<hi rend="sup">r</hi> Feuillet, Maistre de Danse, Auteur de Chorégraphie ou Danses, dont les figures sont gravées, vient de donner un recueil de Danses, de Bal de la composition de M<hi rend="sup">r</hi> Pecour. Ce qu’il fera toutes les années au commencement du mois de Novembre. Par ce moyen les personnes éloignées pourront avoir les Danses nouvelles, &amp; auront le temps de les apprendre pour le Carnaval. Le même Auteur donnera sans faute à Pâques prochain les Oeuvres de M<hi rend="sup">r</hi> Pecour, qu’une infinité de personnes attendent depuis long-temps. Le recueil dont je viens de vous parler se vend chez Michel Brunet dans la grande Salle du Palais, au Mercure Galant, &amp; se donnera tous les ans pour trente sols.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>M<hi rend="sup">r</hi> Feuillet, Maistre de Danse, Auteur de Chorégraphie ou Danses, dont les figures sont gravées, vient de donner un recueil de Danses, de Bal de la composition de M<hi rend="sup">r</hi> Pecour. Ce qu’il fera toutes les années au commencement du mois de Novembre. Par ce moyen les personnes éloignées pourront avoir les Danses nouvelles, &amp; auront le temps de les apprendre pour le Carnaval. Le même Auteur donnera sans faute à Pâques prochain les Oeuvres de M<hi rend="sup">r</hi> Pecour, qu’une infinité de personnes attendent depuis long-temps. Le recueil dont je viens de vous parler se vend chez Michel Brunet dans la grande Salle du Palais, au Mercure Galant, &amp; se donnera tous les ans pour trente sols.</p>
+      </div>
+    </body>
   </text>
 </TEI>

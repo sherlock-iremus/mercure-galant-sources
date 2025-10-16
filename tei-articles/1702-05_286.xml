@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,34 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-                
-                
-
-                <p>Les lettres arrivées de la nouvelle France portent que
-                        le Frere Feuville, Jesuite, est mort au College de Quebec âgé de plus de
-                        cent sept ans. Il a vu les trois derniers Siecles ; &amp; 15 jours avant sa
-                        mort il marchoit encore sans baton, faisoit son lit sans nulle aide,
-                        balayoit sa chambre &amp; se levoit regulièrement tous les jours à quatre
-                        heures du matin. Rien ne sembloit nuire à sa santé. On l’a vû souvent souper
-                        d’une salade &amp; de deux pommes crues sans prendre de vin, dont il ne buvoit
-                        que rarement, &amp; le lendemain il en estoit moins incomodé qu’un jeune homme.
-                        Plusieurs personnes luy donnoient plus de cent dix ans. Ce qui est tres
-                        certain, c’est qu’il estoit déja Sergent d’Infantrie au Siege de la
-                        Rochelle<hi rend="sup "><note xml:id="_ftn0" resp="editor"
-                            n="1"> [NDÉ] à compléter</note></hi>. Il a toujours vescu d’une maniere tres dure. Et a
-                        passé cinquante ans dans le Canada servant les Peres Missionaires chez
-                        toutes sortes de Sauvages. Estant âgé de plus de cent ans il tomba du haut
-                        d’un degré de piere jusqu’en bas, se fit quatre grands trous à la Teste, il
-                        se guérit sans vouloir estre couché un moment, ny souffrir qu’on luy mist
-                        aucune emplastre, ne voulant point disoit-il s’accoutumer à ces sortes de
-                        délicatesses. Il a esté emporté d’une maladie populaire &amp; a resisté plus
-                        longtemps &amp; avec plus de force que n’auroit fait un homme de quarante
-                        ans. Il estoit natif de Bretagne sur les confins du Pays du Maine. On n’a
-                        guere d’exemple d’un âge si avancé non seulement sans ressentir aucune
-                        incomodité de Vieillesse, mais joint à tant de force &amp; de vigueur.</p>
-
-            </div>
+    <body>
+      <div>
+        <p>Les lettres arrivées de la nouvelle France portent que le Frere Feuville, Jesuite, est mort au College de Quebec âgé de plus de cent sept ans. Il a vu les trois derniers Siecles ; &amp; 15 jours avant sa mort il marchoit encore sans baton, faisoit son lit sans nulle aide, balayoit sa chambre &amp; se levoit regulièrement tous les jours à quatre heures du matin. Rien ne sembloit nuire à sa santé. On l’a vû souvent souper d’une salade &amp; de deux pommes crues sans prendre de vin, dont il ne buvoit que rarement, &amp; le lendemain il en estoit moins incomodé qu’un jeune homme. Plusieurs personnes luy donnoient plus de cent dix ans. Ce qui est tres certain, c’est qu’il estoit déja Sergent d’Infantrie au Siege de la Rochelle<hi rend="sup "><note xml:id="_ftn0" resp="editor" n="1"> [NDÉ] à compléter</note></hi>. Il a toujours vescu d’une maniere tres dure. Et a passé cinquante ans dans le Canada servant les Peres Missionaires chez toutes sortes de Sauvages. Estant âgé de plus de cent ans il tomba du haut d’un degré de piere jusqu’en bas, se fit quatre grands trous à la Teste, il se guérit sans vouloir estre couché un moment, ny souffrir qu’on luy mist aucune emplastre, ne voulant point disoit-il s’accoutumer à ces sortes de délicatesses. Il a esté emporté d’une maladie populaire &amp; a resisté plus longtemps &amp; avec plus de force que n’auroit fait un homme de quarante ans. Il estoit natif de Bretagne sur les confins du Pays du Maine. On n’a guere d’exemple d’un âge si avancé non seulement sans ressentir aucune incomodité de Vieillesse, mais joint à tant de force &amp; de vigueur.</p>
+      </div>
     </body>
   </text>
 </TEI>

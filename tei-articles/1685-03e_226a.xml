@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,23 +14,22 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <quote>
-            <label>PRIERE POUR LE ROY.</label>
-            <lg>
-              <l rend="i"> Seigneur, sans cesse sur LOUIS</l>
-              <l rend="i"> A pleines mains verse tes graces ;</l>
-              <l rend="i"> Tu sçais qu’en l’Empire des Lys</l>
-              <l rend="i">Aux aveugles Errans il découvre tes traces.</l>
-              <l rend="i"> Fais que cet Astre radieux</l>
-              <l rend="i">N’achéve de long-temps son illustre Carriere,</l>
-              <l rend="i">Puis qu’en la fournissant, ses rayons de lumiere</l>
-              <l rend="i">Eclairent les Mortels, &amp; leur montrent les Cieux.</l>
-            </lg>
-          </quote>
-        </div>
-        </body>
+    <body>
+      <div>
+        <quote>
+          <label>PRIERE POUR LE ROY.</label>
+          <lg>
+            <l rend="i"> Seigneur, sans cesse sur LOUIS</l>
+            <l rend="i"> A pleines mains verse tes graces ;</l>
+            <l rend="i"> Tu sçais qu’en l’Empire des Lys</l>
+            <l rend="i">Aux aveugles Errans il découvre tes traces.</l>
+            <l rend="i"> Fais que cet Astre radieux</l>
+            <l rend="i">N’achéve de long-temps son illustre Carriere,</l>
+            <l rend="i">Puis qu’en la fournissant, ses rayons de lumiere</l>
+            <l rend="i">Eclairent les Mortels, &amp; leur montrent les Cieux.</l>
+          </lg>
+        </quote>
+      </div>
+    </body>
   </text>
 </TEI>

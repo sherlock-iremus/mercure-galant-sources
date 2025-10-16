@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,9 +14,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <quote>
           <label>SONNET<lb/>EN BOUTS-RIMEZ,<lb/>A la gloire du Roy.</label>
           <lg>
@@ -72,7 +71,9 @@
             <l><hi rend="i">Il mit par son Arrest un grand Royaume en</hi> friche,</l>
             <l><hi rend="i">Et chassa ses Troyens de Phrygie à</hi> Fréjus<note resp="author">Fréjus a esté bâty par ordre de l’un des plus fameux Descendans de Jules Fils d’Enée.</note>.</l>
           </lg>
-          <p><hi rend="sc">L’Abbé B.</hi></p>
+          <p>
+            <hi rend="sc">L’Abbé B.</hi>
+          </p>
         </quote>
         <quote>
           <label>SUR LE MARIAGE<lb/>d’un Vieillard avec une<lb/>jeune Coquette.</label>
@@ -162,6 +163,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,9 +14,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div copyOf="JLB-MG-1677-10_113">
-        
-        
+    <body>
+      <div copyOf="JLB-MG-1677-10_113">
         <p>Je croy qu’apres la sincerité de cet aveu, vous ne douterez pas que je n’aye toûjours beaucoup de joye à rendre justice aux Gens d’esprit, &amp; que je ne me fasse un fort grand plaisir de les nommer quand je les connoy. J’ay enfin découvert que celuy qui a fait le Panégyrique des Alliez que vous avez tant estimé, s’appelloit M<hi rend="sup">r</hi> de Masseville. Il est de Normandie, &amp; voicy un Sonnet de sa façon qui ne vous paroistra pas indigne de ce que vous avez déja veu de luy. Il a esté fait pour un Philosophe qui n’a sçeu si bien raisonner, qu’il n’ait senty que l’Amour estoit plus puissant que la Raison.</p>
         <quote>
           <label>LE PHILOSOPHE <lb/><hi rend="sc">Amant. <lb/>Sonnet.</hi></label>
@@ -47,6 +46,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,21 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>A propos de Printemps, j’ay à vous faire present d’un Livre, qui non seulement vous en
-          fera souvenir, mais qui le rendra present à vos yeux toutes les fois que vous le lirez. Il
-          n’en faut pas davantage pour celles qui ont l’imagination aussi vive que vous l’avez. Ce
-          Livre est intitulé, <hi rend="i">La Connoissance, &amp; Culture parfaite des Tulipes
-          rares, des Anemones extraordinaires, des Oeillets fins, &amp; des belles Oreilles d’Ours
-          panachées</hi>. On croit qu’il est de M. de Valnay, Contrôleur de la Maison du Roy. Il
-          enseigne le moyen de connoistre la beauté de toutes ces Fleurs, la terre qui leur est
-          propre, comment il les faut gouverner depuis qu’elles sont en terre jusques à la fleur,
-          &amp; mille choses curieuses sur ce sujet, &amp; tres utiles à ceux qui aiment les Fleurs.
-          L’on trouve aussi dans ce mesme Livre l’histoire de toutes les Fleurs dont il parle, leur
-          origine, &amp; quand &amp; comment on a commencé à en voir en France.</p>
+    <body>
+      <div>
+        <p>A propos de Printemps, j’ay à vous faire present d’un Livre, qui non seulement vous en fera souvenir, mais qui le rendra present à vos yeux toutes les fois que vous le lirez. Il n’en faut pas davantage pour celles qui ont l’imagination aussi vive que vous l’avez. Ce Livre est intitulé, <hi rend="i">La Connoissance, &amp; Culture parfaite des Tulipes rares, des Anemones extraordinaires, des Oeillets fins, &amp; des belles Oreilles d’Ours panachées</hi>. On croit qu’il est de M. de Valnay, Contrôleur de la Maison du Roy. Il enseigne le moyen de connoistre la beauté de toutes ces Fleurs, la terre qui leur est propre, comment il les faut gouverner depuis qu’elles sont en terre jusques à la fleur, &amp; mille choses curieuses sur ce sujet, &amp; tres utiles à ceux qui aiment les Fleurs. L’on trouve aussi dans ce mesme Livre l’histoire de toutes les Fleurs dont il parle, leur origine, &amp; quand &amp; comment on a commencé à en voir en France.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

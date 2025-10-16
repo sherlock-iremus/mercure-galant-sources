@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>A cette Ballade irréguliere, j’en ajoûte une autre, dans laquelle on a observé toutes les
-          régles. Quand je voudrois vous cacher qu’elle est de l’illustre Madame des Houlieres, la
-          finesse des pensées, &amp; le tour des Vers, vous feroient connoistre que nous luy devons
-          cette agreable &amp; spirituelle galanterie. Tout ce qu’elle fait porte un caractere
-          singulier, qui la rend inimitable.</p>
+    <body>
+      <div>
+        <p>A cette Ballade irréguliere, j’en ajoûte une autre, dans laquelle on a observé toutes les régles. Quand je voudrois vous cacher qu’elle est de l’illustre Madame des Houlieres, la finesse des pensées, &amp; le tour des Vers, vous feroient connoistre que nous luy devons cette agreable &amp; spirituelle galanterie. Tout ce qu’elle fait porte un caractere singulier, qui la rend inimitable.</p>
         <quote>
           <label>BALLADE<lb/><hi rend="sc">de Madame</hi><lb/>DES HOULIERES.</label>
           <lg>
@@ -85,6 +80,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,20 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p>Rien ne prouve mieux la bonté d’un Livre que le grand nombre d’Editions qu’il s’en
-            fait ; on vient de donner la cinquiéme du Livre intitulé, <hi rend="i">Stances
-            Chrestiennes sur divers passages de l’Ecriture sainte &amp; des
-              Peres</hi>. Cette derniere Edition est reveuë, corrigée, &amp; augmentée
-            considerablement de plusieurs Ouvrages en Prose &amp; en Vers. Monsieur Testu de
-            l’Academie Françoise, Abbé de Nôtre Dame de Belval, &amp; Prieur de saint Denis de la
-            Chartre, est Auteur de ce Livre. Il ne me reste plus rien à vous dire aprés vous l’avoir
-            nommé, &amp; je crois que vous n’estes presentement pas moins persuadé que moy de la
-            bonté de cet Ouvrage. Il se vend chez Mr le Clerc, ruë saint Jacques, proche Saint Yves,
-            à l’Image Saint Lambert.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>Rien ne prouve mieux la bonté d’un Livre que le grand nombre d’Editions qu’il s’en fait ; on vient de donner la cinquiéme du Livre intitulé, <hi rend="i">Stances Chrestiennes sur divers passages de l’Ecriture sainte &amp; des Peres</hi>. Cette derniere Edition est reveuë, corrigée, &amp; augmentée considerablement de plusieurs Ouvrages en Prose &amp; en Vers. Monsieur Testu de l’Academie Françoise, Abbé de Nôtre Dame de Belval, &amp; Prieur de saint Denis de la Chartre, est Auteur de ce Livre. Il ne me reste plus rien à vous dire aprés vous l’avoir nommé, &amp; je crois que vous n’estes presentement pas moins persuadé que moy de la bonté de cet Ouvrage. Il se vend chez Mr le Clerc, ruë saint Jacques, proche Saint Yves, à l’Image Saint Lambert.</p>
+      </div>
+    </body>
   </text>
 </TEI>

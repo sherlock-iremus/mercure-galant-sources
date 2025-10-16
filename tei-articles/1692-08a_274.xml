@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,9 +14,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <quote>
           <label>SUR LA DEFAITE<lb/>du Prince d’Orange.<lb/>AU ROY.</label>
           <lg>
@@ -40,13 +39,12 @@
           </lg>
           <ab type="ornament">***</ab>
           <lg>
-            <l> <hi rend="sc">Luxembourg</hi>
-              <hi rend="i">tient toujours ta foudre toute preste,</hi></l>
+            <l> <hi rend="sc">Luxembourg</hi> <hi rend="i">tient toujours ta foudre toute preste,</hi></l>
             <l rend="i">Asseure ton triomphe, &amp; sçait par sa valeur</l>
             <l rend="i">Du sang des Ennemis cimenter ta conqueste.</l>
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

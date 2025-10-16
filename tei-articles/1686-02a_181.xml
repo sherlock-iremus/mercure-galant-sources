@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,19 +14,18 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-
-        
-
+    <body>
+      <div>
         <p/>
-        <p>Je vous ay déja envoyé une Anagramme sur le nom de M<hi rend="sup">r</hi> le Chancelier.
-          En voicy une seconde ; elle est de M<hi rend="sup">r</hi> de Salbray, Valet de Chambre de
-          Sa Majesté.</p>
+        <p>Je vous ay déja envoyé une Anagramme sur le nom de M<hi rend="sup">r</hi> le Chancelier. En voicy une seconde ; elle est de M<hi rend="sup">r</hi> de Salbray, Valet de Chambre de Sa Majesté.</p>
         <quote>
           <lg>
-            <l><hi rend="sc">Loüis de Boucherat.</hi></l>
-            <l><hi rend="sc">Le beau chois du Roy.</hi></l>
+            <l>
+              <hi rend="sc">Loüis de Boucherat.</hi>
+            </l>
+            <l>
+              <hi rend="sc">Le beau chois du Roy.</hi>
+            </l>
           </lg>
           <lg>
             <l rend="i"> Illustre Chancelier de France,</l>
@@ -37,8 +36,7 @@
           </lg>
         </quote>
         <p/>
-        <p>Cette autre Epigramme a esté faite sur les Armes de M<hi rend="sup">r</hi> le Chancelier,
-          qui porte d’azur, au Coq d’or.</p>
+        <p>Cette autre Epigramme a esté faite sur les Armes de M<hi rend="sup">r</hi> le Chancelier, qui porte d’azur, au Coq d’or.</p>
         <quote>
           <lg>
             <l rend="i"> Des plus obscures nuits ses Chants percent l’horreur,</l>
@@ -48,6 +46,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

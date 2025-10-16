@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
-        <p>Le <hi rend="i">Te Deum</hi> fut chanté en Musique à Péronne, dans l'Eglise Royale &amp;
-          Collégiale de S. Fursy, en présence des Corps de Justice, &amp; de Ville, &amp; des
-          Officiers de l'Election &amp; du Grenier à Sel. [...]</p>
+        <p>Le <hi rend="i">Te Deum</hi> fut chanté en Musique à Péronne, dans l'Eglise Royale &amp; Collégiale de S. Fursy, en présence des Corps de Justice, &amp; de Ville, &amp; des Officiers de l'Election &amp; du Grenier à Sel. [...]</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

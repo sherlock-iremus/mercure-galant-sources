@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,21 +14,18 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-    
-
-    <p><hi rend="i">Adieu, Madame, je vous réserve pour le premier Extraordinaire, de fort jolis
-      Vers de M<hi rend="sup">r</hi> du Rosier, &amp; plusieurs autres Pieces sur les Questions, qui
-      n’ont pû entrer dans celuy-cy.</hi></p>
-    <quote>
-     <label>À Paris, ce 15. Octobre 1681.</label>
-     <p><hi rend="i">Je voy tout le monde dans les mesmes sentimens que vous touchant l’Ecriture
-       &amp; la Langue universelle que M. de Vienne-Plancy a inventées. Ce Secret paroist aussi
-       curieux qu’utile, &amp; on attend avec grande impatience qu’il nous on donne
-       l’éclaircissement.</hi></p>
-    </quote>
-   </div>
-  </body>
+    <body>
+      <div>
+        <p>
+          <hi rend="i">Adieu, Madame, je vous réserve pour le premier Extraordinaire, de fort jolis Vers de M<hi rend="sup">r</hi> du Rosier, &amp; plusieurs autres Pieces sur les Questions, qui n’ont pû entrer dans celuy-cy.</hi>
+        </p>
+        <quote>
+          <label>À Paris, ce 15. Octobre 1681.</label>
+          <p>
+            <hi rend="i">Je voy tout le monde dans les mesmes sentimens que vous touchant l’Ecriture &amp; la Langue universelle que M. de Vienne-Plancy a inventées. Ce Secret paroist aussi curieux qu’utile, &amp; on attend avec grande impatience qu’il nous on donne l’éclaircissement.</hi>
+          </p>
+        </quote>
+      </div>
+    </body>
   </text>
 </TEI>

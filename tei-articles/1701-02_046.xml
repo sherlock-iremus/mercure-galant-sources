@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,26 +14,25 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p>J’ajoûte un Madrigal dont l’Auteur m’est inconnu.</p>
-          <quote>
-            <label>AU ROY,</label>
-            <lg>
-              <l rend="i">Souffrez, Auguste Roy, que ma Musé vous chante,</l>
-              <l rend="i">La gloire &amp; les vertus d’un Prince fortuné :</l>
-              <l rend="i"> Il commence à remplir l’attente</l>
-              <l rend="i"> De cette grandeur étonnante,</l>
-              <l rend="i"> Où vostre Sang est destiné.</l>
-              <l rend="i"> Chacun voit que le Ciel seconde</l>
-              <l rend="i">Vos soins pour la Justice, &amp; vos soins pour la Paix.</l>
-              <l rend="i">Et pour recompenser vostre race feconde,</l>
-              <l rend="i"> Il veut qu’elle donne à jamais</l>
-              <l rend="i"> Des Maistres au reste du monde.</l>
-            </lg>
-          </quote>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>J’ajoûte un Madrigal dont l’Auteur m’est inconnu.</p>
+        <quote>
+          <label>AU ROY,</label>
+          <lg>
+            <l rend="i">Souffrez, Auguste Roy, que ma Musé vous chante,</l>
+            <l rend="i">La gloire &amp; les vertus d’un Prince fortuné :</l>
+            <l rend="i"> Il commence à remplir l’attente</l>
+            <l rend="i"> De cette grandeur étonnante,</l>
+            <l rend="i"> Où vostre Sang est destiné.</l>
+            <l rend="i"> Chacun voit que le Ciel seconde</l>
+            <l rend="i">Vos soins pour la Justice, &amp; vos soins pour la Paix.</l>
+            <l rend="i">Et pour recompenser vostre race feconde,</l>
+            <l rend="i"> Il veut qu’elle donne à jamais</l>
+            <l rend="i"> Des Maistres au reste du monde.</l>
+          </lg>
+        </quote>
+      </div>
+    </body>
   </text>
 </TEI>

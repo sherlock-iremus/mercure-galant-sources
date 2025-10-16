@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,25 +14,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
+    <body>
+      <div>
         <p/>
-        <p>Le S<hi rend="sup">r</hi> Blageart imprime un Livre nouveau que vous trouverez
-          tres-agreable. Il a pour titre, <hi rend="i">Académie Galante</hi>. Les Statuts vous en
-          plairont. La plûpart ont esté faits par d’aimables Personnes de vostre Sexe, &amp; il vous
-          sera aisé de connoistre par le stile, que les Conversations d’une Societé tres-spirituelle
-          ont fait naître cet Ouvrage. Les Avantures que l’on y debite, sont racontées
-          naturellement, &amp; l’on assure qu’elles ne contiennent rien que de veritable. Vous aurez
-          ce Livre avec ma Lettre de Juin, c’est à dire le premier jour de Juillet. Je remets
-          jusqu’à ce temps le détail exact de tout ce qui s’est passé aux derniers Etats de
-          Bourgogne.</p>
-        <p>On vient de m’apprendre que M<hi rend="sup">r</hi> Malo Conseiller de la Grand’ Chambre
-          est mort, &amp; que M<hi rend="sup">r</hi> Guillard, un des plus éclairez Juges du
-          Parlement, est monté en sa place. C’est tout ce que j’en puis dire, tant je suis pressé de
-          finir ma Lettre.</p>
-        <p><hi rend="i">A Paris ce 30. May 1682.</hi></p>
+        <p>Le S<hi rend="sup">r</hi> Blageart imprime un Livre nouveau que vous trouverez tres-agreable. Il a pour titre, <hi rend="i">Académie Galante</hi>. Les Statuts vous en plairont. La plûpart ont esté faits par d’aimables Personnes de vostre Sexe, &amp; il vous sera aisé de connoistre par le stile, que les Conversations d’une Societé tres-spirituelle ont fait naître cet Ouvrage. Les Avantures que l’on y debite, sont racontées naturellement, &amp; l’on assure qu’elles ne contiennent rien que de veritable. Vous aurez ce Livre avec ma Lettre de Juin, c’est à dire le premier jour de Juillet. Je remets jusqu’à ce temps le détail exact de tout ce qui s’est passé aux derniers Etats de Bourgogne.</p>
+        <p>On vient de m’apprendre que M<hi rend="sup">r</hi> Malo Conseiller de la Grand’ Chambre est mort, &amp; que M<hi rend="sup">r</hi> Guillard, un des plus éclairez Juges du Parlement, est monté en sa place. C’est tout ce que j’en puis dire, tant je suis pressé de finir ma Lettre.</p>
+        <p>
+          <hi rend="i">A Paris ce 30. May 1682.</hi>
+        </p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

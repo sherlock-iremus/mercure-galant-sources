@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,22 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
-        <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : La
-          Médaille doit regarder la page 159.</note>
-        <p>Je vous ay déja dit plusieurs fois qu’on fait frapper des Medailles de tout ce qui rend
-          le regne du Roy, le plus beau Regne dont on ait jamais parlé, de sorte qu’on pourra faire
-          une Histoire metallique de la vie de ce Monarque. Je vous ay déja envoyé quantité de ces
-          Médailles, non pas selon l’ordre des actions de Sa Majesté, mais suivant qu’elles sont
-          tombées entre mes mains. Quoy que je ne garde point l’ordre des temps, c’est toûjours vous
-          faire part de quelque chose de nouveau que de vous envoyer ce que vous n’avez pas encore
-          vû : &amp; comme la Médaille de la Flotte Hollandoise brulée devant Tabago est de ce
-          nombre, je vous l’envoye. Je ne vous repete point que le Portrait du Roy est à la face
-          droite de toutes, &amp; que l’ayant déja fait graver cinq ou six fois, je ne vous envoye
-          plus que les revers.</p>
+    <body>
+      <div>
+        <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : La Médaille doit regarder la page 159.</note>
+        <p>Je vous ay déja dit plusieurs fois qu’on fait frapper des Medailles de tout ce qui rend le regne du Roy, le plus beau Regne dont on ait jamais parlé, de sorte qu’on pourra faire une Histoire metallique de la vie de ce Monarque. Je vous ay déja envoyé quantité de ces Médailles, non pas selon l’ordre des actions de Sa Majesté, mais suivant qu’elles sont tombées entre mes mains. Quoy que je ne garde point l’ordre des temps, c’est toûjours vous faire part de quelque chose de nouveau que de vous envoyer ce que vous n’avez pas encore vû : &amp; comme la Médaille de la Flotte Hollandoise brulée devant Tabago est de ce nombre, je vous l’envoye. Je ne vous repete point que le Portrait du Roy est à la face droite de toutes, &amp; que l’ayant déja fait graver cinq ou six fois, je ne vous envoye plus que les revers.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

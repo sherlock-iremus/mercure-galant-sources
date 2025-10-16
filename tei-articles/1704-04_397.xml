@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,25 +14,31 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p>Vos Amis jugeront de la beauté de l’Air qui suit.</p>
-          <quote>
-            <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">Pouvez-vous, belle Iris</hi>, doit regarder la page 397.</note>
-            <lg>
-              <l><hi rend="i">Pouvez-vous, belle Iris, vous défier de moy,</hi></l>
-              <l><hi rend="i">Vous voyez tous les jours les transports de ma flame,</hi></l>
-              <l> <hi rend="i">Ces vives preuves de mon ame</hi></l>
-              <l><hi rend="i">Devroient bien estre aussi des preuves de ma foy.</hi></l>
-            </lg>
-          </quote>
-          <ref target="images/1704-04_397.JPG">
-            <figure>
-              <graphic url="images/1704-04_397.JPG"/>
-            </figure>
-          </ref>
-        </div>
-      </body>
+    <body>
+      <div>
+        <p>Vos Amis jugeront de la beauté de l’Air qui suit.</p>
+        <quote>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">Pouvez-vous, belle Iris</hi>, doit regarder la page 397.</note>
+          <lg>
+            <l>
+              <hi rend="i">Pouvez-vous, belle Iris, vous défier de moy,</hi>
+            </l>
+            <l>
+              <hi rend="i">Vous voyez tous les jours les transports de ma flame,</hi>
+            </l>
+            <l> <hi rend="i">Ces vives preuves de mon ame</hi></l>
+            <l>
+              <hi rend="i">Devroient bien estre aussi des preuves de ma foy.</hi>
+            </l>
+          </lg>
+        </quote>
+        <ref target="images/1704-04_397.JPG">
+          <figure>
+            <graphic url="images/1704-04_397.JPG"/>
+          </figure>
+        </ref>
+      </div>
+    </body>
   </text>
 </TEI>

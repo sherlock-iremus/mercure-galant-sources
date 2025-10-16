@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,20 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Vous ne sçauriez croire, Madame, combien je me trouve presentement embarrassé à vous
-          écrire. Vous m’avez dispensé de l’exactitude du stile. Je vous dis sans façon les
-          Nouvelles dont on me fait part, &amp; n’estant point assujetty avec vous aux termes
-          choisis, je puis me tirer d’affaire fort commodément. Cela va le mieux du monde pour ce
-          qui regarde la facilité de nostre commerce, mais il n’en est pas de mesme pour l’abondance
-          des matieres qu’on me fournit. Mes Lettres grossissent chaque Mois, &amp; elles ne
-          suffisent point encor à tout ce qui m’est envoyé de tous côtez. Ainsi je me trouve dans la
-          necessité, ou de suprimer quantité de choses que je suis assuré qui vous plairoient, ou de
-          ne les pas mettre dans le temps qu’on me les donne. Vous m’avez causé cet embarras en me
-          rendant à la mode.</p>
+    <body>
+      <div>
+        <p>Vous ne sçauriez croire, Madame, combien je me trouve presentement embarrassé à vous écrire. Vous m’avez dispensé de l’exactitude du stile. Je vous dis sans façon les Nouvelles dont on me fait part, &amp; n’estant point assujetty avec vous aux termes choisis, je puis me tirer d’affaire fort commodément. Cela va le mieux du monde pour ce qui regarde la facilité de nostre commerce, mais il n’en est pas de mesme pour l’abondance des matieres qu’on me fournit. Mes Lettres grossissent chaque Mois, &amp; elles ne suffisent point encor à tout ce qui m’est envoyé de tous côtez. Ainsi je me trouve dans la necessité, ou de suprimer quantité de choses que je suis assuré qui vous plairoient, ou de ne les pas mettre dans le temps qu’on me les donne. Vous m’avez causé cet embarras en me rendant à la mode.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

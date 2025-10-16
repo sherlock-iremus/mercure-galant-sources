@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
-        <p>Je ne chercheray point, Madame, à vous prévenir en faveur des Vers que vous allez lire,
-          en vous disant qu’ils ont eu icy une approbation generale. La matiere en est grande, puis
-          qu’ils ont esté faits sur les merveilleuses actions du Roy. Pour peu qu’on ait de talent
-          pour la Poësie, il est impossible de ne se pas élever, quand on parle de ce qui fait
-          depuis si longtemps l’admiration de toute l’Europe.</p>
+        <p>Je ne chercheray point, Madame, à vous prévenir en faveur des Vers que vous allez lire, en vous disant qu’ils ont eu icy une approbation generale. La matiere en est grande, puis qu’ils ont esté faits sur les merveilleuses actions du Roy. Pour peu qu’on ait de talent pour la Poësie, il est impossible de ne se pas élever, quand on parle de ce qui fait depuis si longtemps l’admiration de toute l’Europe.</p>
         <quote>
           <label>SUR LES TRIOMPHES<lb/>du Roy.</label>
           <lg>
@@ -39,7 +34,9 @@
             <l rend="i">LOUIS, ce défenseur du Trône &amp; de ses droits.</l>
             <l rend="i">LOUIS, seul contre tous le Protecteur des Rois ;</l>
             <l rend="i">Noms que la Ligue craint, dont l’Europe est surprise,</l>
-            <l><hi rend="i">Que Nice rend fameux, &amp; que Mons éternise ;</hi></l>
+            <l>
+              <hi rend="i">Que Nice rend fameux, &amp; que Mons éternise ;</hi>
+            </l>
             <l rend="i">Heureux Titres qui font le sujet de ces Vers,</l>
             <l rend="i">Et dont la Renommée entretient l’Univers.</l>
             <l rend="i">Cet illustre Heros, tout brillant d’une gloire</l>
@@ -124,14 +121,8 @@
             <l rend="i">De Protecteur des Rois le titre glorieux.</l>
           </lg>
         </quote>
-        <p>M<hi rend="sup">r</hi> Blanchard, Curé de Fissey, qui est l’Auteur de ces Vers, ne
-          pouvoit parler plus dignement de l’avantage que tire l’Eglise de la suppression de l’Edit
-          de Nantes. Comme le zele que Sa Majesté a fait paroistre par là, a suscité contre luy tous
-          les efforts de la Ligue, Dieu a montré par le visible secours qu’il luy a donné dans
-          toutes ses entreprises, qu’il se plaisoit à soûtenir un Monarque qui a pris ses interests
-          avec tant d’ardeur, &amp; il y a tout lieu d’esperer qu’il luy continuera sa protection
-          toute-puissante.</p>
+        <p>M<hi rend="sup">r</hi> Blanchard, Curé de Fissey, qui est l’Auteur de ces Vers, ne pouvoit parler plus dignement de l’avantage que tire l’Eglise de la suppression de l’Edit de Nantes. Comme le zele que Sa Majesté a fait paroistre par là, a suscité contre luy tous les efforts de la Ligue, Dieu a montré par le visible secours qu’il luy a donné dans toutes ses entreprises, qu’il se plaisoit à soûtenir un Monarque qui a pris ses interests avec tant d’ardeur, &amp; il y a tout lieu d’esperer qu’il luy continuera sa protection toute-puissante.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

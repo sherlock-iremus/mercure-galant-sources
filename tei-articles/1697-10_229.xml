@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Le Roy arriva à Versailles le Vendredy 25. de ce mois, aprés avoir passé la plus grande
-          partie de l’automne à Fontainebleau. Sa Majesté qui se trouve dans une parfaite santé, y a
-          souvent pris le divertissement de la chasse, &amp; il y a eu tous les soirs
-          alternativement Comedie &amp; Appartemens. Les Appartemens consistent en Jeu &amp; en
-          Concerts de Musique.</p>
+    <body>
+      <div>
+        <p>Le Roy arriva à Versailles le Vendredy 25. de ce mois, aprés avoir passé la plus grande partie de l’automne à Fontainebleau. Sa Majesté qui se trouve dans une parfaite santé, y a souvent pris le divertissement de la chasse, &amp; il y a eu tous les soirs alternativement Comedie &amp; Appartemens. Les Appartemens consistent en Jeu &amp; en Concerts de Musique.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,20 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>QUoy que dans la derniere Lettre Extraordinaire mise en vente depuis quinze jours, on ait
-          donné deux mois de temps pour travailler, à ceux qui voudront envoyer des Desseins d’Arcs
-          de Triomphe, Pyramides, Medailles, &amp; autres Monumens à la gloire du Roy, ces deux mois
-          ne sont qu’en faveur de ceux qui demeurent dans les Provinces les plus reculées ; &amp; si
-          les autres n’envoyoient plutost leurs Desseins, on n’auroit pas le temps de les faire
-          graver, ny mesme d’imprimer l’Extraordinaire qui paroistra le quinziéme de Janvier
-          prochain. Ceux qui ont déja des idées pour ces sortes d’Ouvrages, &amp; qui ont absolument
-          résolu d’y travailler, sont priez d’en avertir dés à present. Cela fera prendre des
-          mesures sur le nombre qu’on en doit avoir, &amp; obligera à leur garder place, afin qu’ils
-          ne travaillent pas inutilement.</p>
+    <body>
+      <div>
+        <p>QUoy que dans la derniere Lettre Extraordinaire mise en vente depuis quinze jours, on ait donné deux mois de temps pour travailler, à ceux qui voudront envoyer des Desseins d’Arcs de Triomphe, Pyramides, Medailles, &amp; autres Monumens à la gloire du Roy, ces deux mois ne sont qu’en faveur de ceux qui demeurent dans les Provinces les plus reculées ; &amp; si les autres n’envoyoient plutost leurs Desseins, on n’auroit pas le temps de les faire graver, ny mesme d’imprimer l’Extraordinaire qui paroistra le quinziéme de Janvier prochain. Ceux qui ont déja des idées pour ces sortes d’Ouvrages, &amp; qui ont absolument résolu d’y travailler, sont priez d’en avertir dés à present. Cela fera prendre des mesures sur le nombre qu’on en doit avoir, &amp; obligera à leur garder place, afin qu’ils ne travaillent pas inutilement.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

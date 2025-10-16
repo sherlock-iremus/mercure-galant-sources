@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,18 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-                    
-                    
-                    <p>Je vous ay parlé, dans ma Lettre du mois d’Avril de l’année derniere, du
-                        Livre intitulé, <hi rend="i">la Langue</hi>. Il paroist depuis peu augmenté
-                        d’une Estampe assez curieuse, &amp; d’une <hi rend="i">Lettre Critique</hi>,
-                        sur ce qui a esté dit &amp; écrit pour &amp; contre cet ouvrage. Je ne vous
-                        parleray point icy du favorable jugement que j’ay porté de ce Livre, en vous
-                        l’annonçant ; j’ajoûteray seulement que la suite a fait voir que le public
-                        s’est trouvé de mon avis ; &amp; qu’il y a un second volume sous la presse,
-                        qui paroistra bien-tost.</p>
-                </div>
-                </body>
+    <body>
+      <div>
+        <p>Je vous ay parlé, dans ma Lettre du mois d’Avril de l’année derniere, du Livre intitulé, <hi rend="i">la Langue</hi>. Il paroist depuis peu augmenté d’une Estampe assez curieuse, &amp; d’une <hi rend="i">Lettre Critique</hi>, sur ce qui a esté dit &amp; écrit pour &amp; contre cet ouvrage. Je ne vous parleray point icy du favorable jugement que j’ay porté de ce Livre, en vous l’annonçant ; j’ajoûteray seulement que la suite a fait voir que le public s’est trouvé de mon avis ; &amp; qu’il y a un second volume sous la presse, qui paroistra bien-tost.</p>
+      </div>
+    </body>
   </text>
 </TEI>

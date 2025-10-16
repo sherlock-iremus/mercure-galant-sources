@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,20 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
+    <body>
+      <div>
         <p/>
-        <p>L’Ode &amp; le Sonnet que vous allez voir, sont de M<hi rend="sup">r</hi> Robinet de S.
-          Jean. Je vous ay parlé plusieurs fois de luy, &amp; je sçay que son mérite vous est aussi
-          connu que son nom. Il entend tres-bien la Langue ; &amp; ce stile aisé qui paroist dans
-          les Nouvelles qu’on donne au Public depuis un grand nombre d’années, en est une preuve,
-          qu’on ne sçauroit contester. Elles sont écrites avec beaucoup de pureté, &amp; ce n’est
-          pas sans raison que tous les honnestes Gens en parlent avec éloge.</p>
+        <p>L’Ode &amp; le Sonnet que vous allez voir, sont de M<hi rend="sup">r</hi> Robinet de S. Jean. Je vous ay parlé plusieurs fois de luy, &amp; je sçay que son mérite vous est aussi connu que son nom. Il entend tres-bien la Langue ; &amp; ce stile aisé qui paroist dans les Nouvelles qu’on donne au Public depuis un grand nombre d’années, en est une preuve, qu’on ne sçauroit contester. Elles sont écrites avec beaucoup de pureté, &amp; ce n’est pas sans raison que tous les honnestes Gens en parlent avec éloge.</p>
         <quote>
-          <label>SUR<lb/>LA NAISSANCE<lb/><hi rend="sc">de Monseigneur</hi><lb/>LE DUC<lb/>DE
-            BOURGOGNE.<lb/>Ode en Vers irréguliers.</label>
+          <label>SUR<lb/>LA NAISSANCE<lb/><hi rend="sc">de Monseigneur</hi><lb/>LE DUC<lb/>DE BOURGOGNE.<lb/>Ode en Vers irréguliers.</label>
           <lg>
             <l rend="i">Dans un Palais égal à celuy du Soleil,</l>
             <l rend="i"> Ou l’Art &amp; la Nature</l>
@@ -141,8 +133,7 @@
           </lg>
         </quote>
         <quote>
-          <label>A LA GLOIRE DU ROY,<lb/>Sur la Naissance de Monseigneur le Duc de
-              Bourgogne.<lb/><hi rend="sc">Sonnet</hi>.</label>
+          <label>A LA GLOIRE DU ROY,<lb/>Sur la Naissance de Monseigneur le Duc de Bourgogne.<lb/><hi rend="sc">Sonnet</hi>.</label>
           <lg>
             <l rend="i">Qui de tous les Héros est semblable à LOUIS ?</l>
             <l rend="i">Quoy qu’en dise de grand la fabuleuse Histoire,</l>
@@ -170,6 +161,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

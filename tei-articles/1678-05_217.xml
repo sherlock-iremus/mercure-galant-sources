@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,17 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Dans le temps du depart du Roy pour sa seconde Campagne de cette Année, M<hi rend="sup">r</hi> l’Abbé Minot dont le talent pour la Chaire est fort connu, expliqua ainsi les
-          Vœux de la France.</p>
+    <body>
+      <div>
+        <p>Dans le temps du depart du Roy pour sa seconde Campagne de cette Année, M<hi rend="sup">r</hi> l’Abbé Minot dont le talent pour la Chaire est fort connu, expliqua ainsi les Vœux de la France.</p>
         <quote rend="border">
           <label rend="center">SONNET.</label>
           <lg>
-            <l><hi rend="i">Que de </hi><hi rend="sc">Loüis le Grand</hi>
-              <hi rend="i">le Nom si venérable,</hi></l>
+            <l>
+              <hi rend="i">Que de </hi>
+              <hi rend="sc">Loüis le Grand</hi>
+              <hi rend="i">le Nom si venérable,</hi>
+            </l>
             <l rend="i">Si charmant &amp; si doux, à ses Peuples soûmis,</l>
             <l rend="i">Soit malgré les efforts de nos fiers Ennemis,</l>
             <l rend="i">En tous lieux, en tout temps, auguste &amp; venérable !</l>
@@ -49,6 +50,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

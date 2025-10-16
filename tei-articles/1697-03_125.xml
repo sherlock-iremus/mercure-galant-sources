@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Ces autres Vers sont d’une Demoiselle, qui est entrée dans un Convent aprés la mort d’un
-          Amant qu’elle estoit sur le point d’épouser.</p>
+    <body>
+      <div>
+        <p>Ces autres Vers sont d’une Demoiselle, qui est entrée dans un Convent aprés la mort d’un Amant qu’elle estoit sur le point d’épouser.</p>
         <quote>
-          <label><hi rend="i">SUR LE NEANT<lb/>des choses de la Terre.</hi></label>
+          <label>
+            <hi rend="i">SUR LE NEANT<lb/>des choses de la Terre.</hi>
+          </label>
           <lg>
             <l>Qu’heureux est le Mortel, dont l’ame indifferente</l>
             <l>Ignore de l’Amour la mortelle douceur,</l>
@@ -78,6 +78,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

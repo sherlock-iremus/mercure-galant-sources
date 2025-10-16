@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,21 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
+    <body>
+      <div>
         <p/>
-        <p>Le <hi rend="i">Te Deum</hi> fut suivy à Rochefort de trois Salves de toute l'Infanterie
-          qui garde le Port. L'Amiral tira en suite tout son Canon ; &amp; six-vingts Pieces qui
-          sont sur le Quay, la plûpart de trente-six, luy répondirent. Madame L'Intendante,
-          accompagnée de Messieurs les Intendans de Rochefort, de Limoges, de Montauban, &amp; de la
-          Noblesse de trois ou quatre Provinces, s'estant renduë dans la grande Place des Capucins,
-          alluma un Feu que l'on avoit préparé avec une infinité d'Artifices. Il estoit à cinq
-          étages, &amp; occupa agreablement tous les spectateurs pendant trois heures. Plusieurs
-          Tables servies avec propreté &amp; avec abondance, ne contribuerent pas peu à la joye de
-          cette grande Assemblée. Il y eut grand Bal le soir ; [...].</p>
+        <p>Le <hi rend="i">Te Deum</hi> fut suivy à Rochefort de trois Salves de toute l'Infanterie qui garde le Port. L'Amiral tira en suite tout son Canon ; &amp; six-vingts Pieces qui sont sur le Quay, la plûpart de trente-six, luy répondirent. Madame L'Intendante, accompagnée de Messieurs les Intendans de Rochefort, de Limoges, de Montauban, &amp; de la Noblesse de trois ou quatre Provinces, s'estant renduë dans la grande Place des Capucins, alluma un Feu que l'on avoit préparé avec une infinité d'Artifices. Il estoit à cinq étages, &amp; occupa agreablement tous les spectateurs pendant trois heures. Plusieurs Tables servies avec propreté &amp; avec abondance, ne contribuerent pas peu à la joye de cette grande Assemblée. Il y eut grand Bal le soir ; [...].</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

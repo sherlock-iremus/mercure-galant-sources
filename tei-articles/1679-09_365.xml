@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>On vient de me donner en Original quelques-unes des Harangues faites à la Reyne
-          d’Espagne, dont je vous ay déjà parlé dans ma Lettre. Je vous les envoyeray entieres dans
-          celle du Mois prochain, &amp; vous feray part en mesme temps des Festes de Rheims, &amp;
-          d’une autre donnée au Raincy. J'espere qu’on m’envoyera des Relations de toutes les Villes
-          où la Reyne d’Espagne aura passé. Je suis, Madame, vostre, &amp;c.</p>
-        <p rend="right"><hi rend="i">À Paris ce 30.</hi>
-          <hi rend="i">Septembre 1679.</hi></p>
+    <body>
+      <div>
+        <p>On vient de me donner en Original quelques-unes des Harangues faites à la Reyne d’Espagne, dont je vous ay déjà parlé dans ma Lettre. Je vous les envoyeray entieres dans celle du Mois prochain, &amp; vous feray part en mesme temps des Festes de Rheims, &amp; d’une autre donnée au Raincy. J'espere qu’on m’envoyera des Relations de toutes les Villes où la Reyne d’Espagne aura passé. Je suis, Madame, vostre, &amp;c.</p>
+        <p rend="right">
+          <hi rend="i">À Paris ce 30.</hi>
+          <hi rend="i">Septembre 1679.</hi>
+        </p>
       </div>
     </body>
   </text>

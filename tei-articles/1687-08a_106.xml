@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,19 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
-
+    <body>
+      <div>
         <p/>
-        <p>M<hi rend="sup">r</hi> de Fontenelle qui a laissé échaper ce petit Ouvrage, se prepare à
-          nous donner dans fort peu de temps un Recüeil de ses Poësies sur divers sujets. Il y a des
-          Epitres à la maniere de celles d’Ovide, avec des Eclogues qui sont d’une tres-grande
-          beauté, &amp; si <hi rend="i">les Dialogues des Morts, la Pluralité des Mondes</hi>, &amp;
-            <hi rend="i">l’Histoire des Oracles</hi> vous ont fait admirer son heureux talent à
-          traiter en Prose toutes sortes de matieres, je ne doute point que ce Recüeil ne vous le
-          fasse admirer également dans la maniere agreable dont il sçait tourner les Vers.</p>
+        <p>M<hi rend="sup">r</hi> de Fontenelle qui a laissé échaper ce petit Ouvrage, se prepare à nous donner dans fort peu de temps un Recüeil de ses Poësies sur divers sujets. Il y a des Epitres à la maniere de celles d’Ovide, avec des Eclogues qui sont d’une tres-grande beauté, &amp; si <hi rend="i">les Dialogues des Morts, la Pluralité des Mondes</hi>, &amp; <hi rend="i">l’Histoire des Oracles</hi> vous ont fait admirer son heureux talent à traiter en Prose toutes sortes de matieres, je ne doute point que ce Recüeil ne vous le fasse admirer également dans la maniere agreable dont il sçait tourner les Vers.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

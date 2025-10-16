@@ -1,45 +1,22 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
-        <p />
+        <p/>
       </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text>
-
     <body>
       <div>
-
-        
-        
-
-        <p>Le Sieur Brun, Imprimeur &amp; Marchand Libraire de Bordeaux, qui est à la ruë Saint
-          James, à l’Enseigne de
-          l’Imitation de Jesus, a imprimé des Cartes de Grammaire, à peu prés semblables à celles de
-          Geographie qui ont
-          paru depuis quelque temps. On voit sur une même Carte la figure ou du Roy, ou de la Reine,
-          ou du Valet, ou
-          bien une pique, un cœur, un carreau, une trefle, avec un chifre qui marque la valeur de la
-          Carte, &amp; une
-          Conjugaison d’un Verbe actif, ou passif, ou déponent, ou anomal, ou impersonnel ; ou une
-          Déclinaison d’un nom,
-          de quelque Declinaison, comme de la premiere, de la seconde, de la troisiéme, ou de la
-          quatriéme. De cette
-          maniere les Enfans peuvent jouër toutes sortes de jeux, &amp; avoir toujours devant les
-          yeux une Déclinaison
-          ou une conjugaison, &amp; apprendre par ce moyen la declinaison des noms, ou la
-          conjugaison des verbes sans
-          aucun livre. Le tout est fait avec un tel ordre, qu'il se trouve une couleur pour chaque
-          sorte de verbes, ou
-          de noms.</p>
+        <p>Le Sieur Brun, Imprimeur &amp; Marchand Libraire de Bordeaux, qui est à la ruë Saint James, à l’Enseigne de l’Imitation de Jesus, a imprimé des Cartes de Grammaire, à peu prés semblables à celles de Geographie qui ont paru depuis quelque temps. On voit sur une même Carte la figure ou du Roy, ou de la Reine, ou du Valet, ou bien une pique, un cœur, un carreau, une trefle, avec un chifre qui marque la valeur de la Carte, &amp; une Conjugaison d’un Verbe actif, ou passif, ou déponent, ou anomal, ou impersonnel ; ou une Déclinaison d’un nom, de quelque Declinaison, comme de la premiere, de la seconde, de la troisiéme, ou de la quatriéme. De cette maniere les Enfans peuvent jouër toutes sortes de jeux, &amp; avoir toujours devant les yeux une Déclinaison ou une conjugaison, &amp; apprendre par ce moyen la declinaison des noms, ou la conjugaison des verbes sans aucun livre. Le tout est fait avec un tel ordre, qu'il se trouve une couleur pour chaque sorte de verbes, ou de noms.</p>
       </div>
     </body>
   </text>

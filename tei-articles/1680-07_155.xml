@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Le fameux Autheur dont je vous ay déja envoyé tant d’Airs nouveaux, a fait encor
-          celuy-cy <note resp="editor">Le « fameux Autheur » est probablement Bacilly, auteur de dix des dix-neuf airs publiés entre octobre 1679 (première publication d'un air de Bacilly dans le <hi rend="italic">Mercure galant</hi>) et la publication de l'air précédant celui-ci. Quatre de ces airs sont attribués à un autre compositeur et cinq sont anonyme.</note>.</p>
+    <body>
+      <div>
+        <p>Le fameux Autheur dont je vous ay déja envoyé tant d’Airs nouveaux, a fait encor celuy-cy <note resp="editor">Le « fameux Autheur » est probablement Bacilly, auteur de dix des dix-neuf airs publiés entre octobre 1679 (première publication d'un air de Bacilly dans le <hi rend="italic">Mercure galant</hi>) et la publication de l'air précédant celui-ci. Quatre de ces airs sont attribués à un autre compositeur et cinq sont anonyme.</note>.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour
-              placer les Figures</hi> : l’Air qui commence par <hi rend="i">Sur ces Rives
-              fleuries</hi>, doit regarder la page 156.</note>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Sur ces Rives fleuries</hi>, doit regarder la page 156.</note>
           <lg>
             <l rend="i">Sur ces Rives fleuries,</l>
             <l rend="i">Le charmant murmure des eaux,</l>
@@ -40,6 +37,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,19 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-            
-
-            
-            <p>Apres qu’on eut fait mille reflexions sur tout ce que je venois de conter, il s’éleva
-              une voix qui dit que pendant que le Roy étendoit les bornes de son Empire, il songeoit
-              à
-              loger magnifiquement les Muses, puis que Messieurs de l’Académie Françoise, venoient
-              suivant son ordre, de prendre possession d’une des Salles du Louvre, pour y tenir
-              desormais leurs Assemblées. On estoit sur le point de se separer apres avoir parlé
-              quelques temps de l’Académie, lors qu’un des Amis de la Compagnie entre avec
-              précipitation, &amp; vint dire la Nouvelle de la prise d’Arnhem.</p>
-          </div>
-        </body>
+    <body>
+      <div>
+        <p>Apres qu’on eut fait mille reflexions sur tout ce que je venois de conter, il s’éleva une voix qui dit que pendant que le Roy étendoit les bornes de son Empire, il songeoit à loger magnifiquement les Muses, puis que Messieurs de l’Académie Françoise, venoient suivant son ordre, de prendre possession d’une des Salles du Louvre, pour y tenir desormais leurs Assemblées. On estoit sur le point de se separer apres avoir parlé quelques temps de l’Académie, lors qu’un des Amis de la Compagnie entre avec précipitation, &amp; vint dire la Nouvelle de la prise d’Arnhem.</p>
+      </div>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Pour changer de ma matiere ainsi que ces Messieurs ont fait de Maistresses, je vous diray
-          que nous avons depuis peu pour Ambassadeur d’Angleterre Monsieur le Comte de Sunderland.
-          Il a de l’esprit infiniment, il aime les belles Lettres ; &amp; quoy qu’il soit encor fort
-          jeune, il a de grandes connoissances des affaires, &amp; l’on peut dire que l’on n’a encor
-          guere veu de Catons de son âge.</p>
+    <body>
+      <div>
+        <p>Pour changer de ma matiere ainsi que ces Messieurs ont fait de Maistresses, je vous diray que nous avons depuis peu pour Ambassadeur d’Angleterre Monsieur le Comte de Sunderland. Il a de l’esprit infiniment, il aime les belles Lettres ; &amp; quoy qu’il soit encor fort jeune, il a de grandes connoissances des affaires, &amp; l’on peut dire que l’on n’a encor guere veu de Catons de son âge.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

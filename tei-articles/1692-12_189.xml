@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>On ne cesse pas d’aimer quand on veut, &amp; quelque peu de correspondance qu’on trouve
-          dans sa passion, il est quelquefois mal aisé de s’en défaire. Vous le connoistrez en
-          lisant ces autres Vers.</p>
+    <body>
+      <div>
+        <p>On ne cesse pas d’aimer quand on veut, &amp; quelque peu de correspondance qu’on trouve dans sa passion, il est quelquefois mal aisé de s’en défaire. Vous le connoistrez en lisant ces autres Vers.</p>
         <quote>
           <label>ELEGIE.</label>
           <lg>
@@ -144,6 +141,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

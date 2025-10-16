@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Les Vers qui suivent vous paroistront placez à propos, puis qu'ils ont esté faits sur le
-          départ de Sa Majesté. Ils sont de M<hi rend="sup">r</hi> Marcel, &amp; le fameux M<hi rend="sup">r</hi> d'Ambruis les a mis en air.</p>
+    <body>
+      <div>
+        <p>Les Vers qui suivent vous paroistront placez à propos, puis qu'ils ont esté faits sur le départ de Sa Majesté. Ils sont de M<hi rend="sup">r</hi> Marcel, &amp; le fameux M<hi rend="sup">r</hi> d'Ambruis les a mis en air.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour
-              placer les Figures</hi> : l’Air qui commence par, <hi rend="i">Louis vient de partir,
-              &amp;c.</hi> doit regarder la page 38.</note>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par, <hi rend="i">Louis vient de partir, &amp;c.</hi> doit regarder la page 38.</note>
           <lg>
             <l rend="i">LOUIS vient de partir, fiers Ennemis, tremblez ;</l>
             <l rend="i">Déjà vous entendez l'éclat de son tonnerre.</l>
@@ -40,6 +37,6 @@
           </ref>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
-        <p>Il court une Galanterie fort agreable dont je me croy obligé de vous faire part. Elle est
-          d’une Dame de qualité. La maniere fine &amp; délicate dont cette Piece est tournée, fait
-          connoistre la beauté de son esprit. On juge aisément qu’elle a esté faite sur quelque
-          Arrest obtenu contre les projets de deux Amans. La Réponse que vous trouverez en suite est
-          un Inpromptu, fait par une Personne tres-spirituelle, qui fait parler l’Ombre d’une
-          Illustre.</p>
+    <body>
+      <div>
+        <p>Il court une Galanterie fort agreable dont je me croy obligé de vous faire part. Elle est d’une Dame de qualité. La maniere fine &amp; délicate dont cette Piece est tournée, fait connoistre la beauté de son esprit. On juge aisément qu’elle a esté faite sur quelque Arrest obtenu contre les projets de deux Amans. La Réponse que vous trouverez en suite est un Inpromptu, fait par une Personne tres-spirituelle, qui fait parler l’Ombre d’une Illustre.</p>
         <quote>
           <label type="head">Placet<lb/>de l’amour, <lb/>au roy.</label>
           <l>Grand Roy, qui redonnez le repos à la Terre,</l>
@@ -68,6 +61,6 @@
           <l>Que <hi rend="sc">louis</hi> &amp; l’Amour sont seuls maistres des cœurs.</l>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

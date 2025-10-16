@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
+    <body>
+      <div>
         <p>Ceux qui ont travaillé à quelques Ouvrages sur les matieres proposées dans le Troisiéme Extraordinaire, sont priez de les envoyer incessamment. La Saison va devenir rigoureuse, &amp; les Ouvriers, &amp; sur tout les Graveurs, ne pourront travailler qu’avec peine. On prie aussi ceux qui par le moyen de leurs correspondances reçoivent des Nouvelles de Perse, de la Chine, du Japon, des Indes, du Mongol, &amp; d’autres Païs Etrangers dont on ne parle jamais dans les Gazettes, d’en faire part à l’Autheur du Mercure, à l’adresse marquée chez le Sieur Blageart son Imprimeur. Les Nouvelles qu’on demande des Païs Etrangers, peuvent estre de leurs Guerres presentes, de leurs Révolutions, Ceremonies, de tout ce que font leur Rois, &amp; generalement de toutes sortes de Nouvelles de la nature de celles que l’on met de toute l’Europe dans le Mercure.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

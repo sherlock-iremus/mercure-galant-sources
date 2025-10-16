@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,19 +14,22 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p>Vos Amies me pardonneront si elles trouvent dans cette Lettre une Epigramme Latine. Elle n’est que de quatre Vers, &amp; faite sur le rétablissement de la santé de Mr Fagon, Premier Medecin du Roy. C’est un homme si necessaire à Sa Majesté que l’on doit se réjouir en toute sorte de langues, de ce qu’il s’est tiré si heureusement du peril qu’il a couru dans l’operation qu’il a soufferte.</p>
-          <quote>
-            <lg>
-              <l><hi rend="i">Fagonium, Rex Magne, tibi sacra numina servant,</hi></l>
-              <l> <hi rend="i">Orbi jam multo tempore jura dabis.</hi></l>
-              <l><hi rend="i">Incolumi Medico salvum dic, Gallia, Regem,</hi></l>
-              <l> <hi rend="i">Te quoque, cum Medici vita sit una trilus,</hi></l>
-            </lg>
-          </quote>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>Vos Amies me pardonneront si elles trouvent dans cette Lettre une Epigramme Latine. Elle n’est que de quatre Vers, &amp; faite sur le rétablissement de la santé de Mr Fagon, Premier Medecin du Roy. C’est un homme si necessaire à Sa Majesté que l’on doit se réjouir en toute sorte de langues, de ce qu’il s’est tiré si heureusement du peril qu’il a couru dans l’operation qu’il a soufferte.</p>
+        <quote>
+          <lg>
+            <l>
+              <hi rend="i">Fagonium, Rex Magne, tibi sacra numina servant,</hi>
+            </l>
+            <l> <hi rend="i">Orbi jam multo tempore jura dabis.</hi></l>
+            <l>
+              <hi rend="i">Incolumi Medico salvum dic, Gallia, Regem,</hi>
+            </l>
+            <l> <hi rend="i">Te quoque, cum Medici vita sit una trilus,</hi></l>
+          </lg>
+        </quote>
+      </div>
+    </body>
   </text>
 </TEI>

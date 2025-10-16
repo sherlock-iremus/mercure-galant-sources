@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-
-<p>S.A.E. de Baviere a fait chanter à Mons le <hi rend="i">Te Deum</hi>, pour celebrer le jour de la naissance de Sa Majesté Catholique, au bruit de trois décharges de plus de six-vingt piéces de canon qui sont sur les remparts. Elle donna le soir un repas magnifique aux Officiers de la garnison, &amp; ensuite le Bal aux Dames de la Ville, pendant lequel on luy vint dire qu’un détachement de la garnison de Bruxelles en estoit sorti à cinq heures du soir ; qu’il avoit pris la route de cette Ville, &amp; qu’il paroissoit avoir dessein de faire quelque expedition. S.A.E. fit aussi tôt mettre la garnison sous les armes, &amp; l’on fit patroüiller 400. chevaux hors de la Ville ; mais l’on apprit peu de temps aprés, que les Ennemis ne s’estoient point avancez, ayant eu avis qu’on avoit fait sortir de Charleroy &amp; de S. Guislain, de gros détachemens pour les couper.</p>
-</div>
-</body>
+    <body>
+      <div>
+        <p>S.A.E. de Baviere a fait chanter à Mons le <hi rend="i">Te Deum</hi>, pour celebrer le jour de la naissance de Sa Majesté Catholique, au bruit de trois décharges de plus de six-vingt piéces de canon qui sont sur les remparts. Elle donna le soir un repas magnifique aux Officiers de la garnison, &amp; ensuite le Bal aux Dames de la Ville, pendant lequel on luy vint dire qu’un détachement de la garnison de Bruxelles en estoit sorti à cinq heures du soir ; qu’il avoit pris la route de cette Ville, &amp; qu’il paroissoit avoir dessein de faire quelque expedition. S.A.E. fit aussi tôt mettre la garnison sous les armes, &amp; l’on fit patroüiller 400. chevaux hors de la Ville ; mais l’on apprit peu de temps aprés, que les Ennemis ne s’estoient point avancez, ayant eu avis qu’on avoit fait sortir de Charleroy &amp; de S. Guislain, de gros détachemens pour les couper.</p>
+      </div>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,21 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-
-        
+    <body>
+      <div>
         <p/>
-        <p>Milord Comte de Montaigu, &amp; Madame sa Femme, Fille de Milord Herber, aprés avoir fait
-          un long sejour à Beaune en Bourgogne, en sont partis depuis peu de temps, pour aller en
-          Angleterre prendre possession du Gouvernement de la Province de Sussex, que Sa Majesté
-          Britannique a donné nouvellement à M<hi rend="sup">r</hi> de Montaigu. Ils ont si bien
-          sceu charmer les cœurs de toutes les personnes considerables de Beaune &amp; du voisinage,
-          par leur esprit &amp; par leurs manieres, qu’on les y regrete tous les jours. C’est au
-          sujet du départ de Madame la Comtesse de Montaigu que M<hi rend="sup">r</hi> Moreau,
-          Avocat General de la Chambre des Comptes de Dijon, qui a eu part à leur estime, a composé
-          les Vers qui suivent. Vous connoissez par plusieurs Ouvrages que vous avez veus de luy, le
-          talent qu’il a pour la Poësie.</p>
+        <p>Milord Comte de Montaigu, &amp; Madame sa Femme, Fille de Milord Herber, aprés avoir fait un long sejour à Beaune en Bourgogne, en sont partis depuis peu de temps, pour aller en Angleterre prendre possession du Gouvernement de la Province de Sussex, que Sa Majesté Britannique a donné nouvellement à M<hi rend="sup">r</hi> de Montaigu. Ils ont si bien sceu charmer les cœurs de toutes les personnes considerables de Beaune &amp; du voisinage, par leur esprit &amp; par leurs manieres, qu’on les y regrete tous les jours. C’est au sujet du départ de Madame la Comtesse de Montaigu que M<hi rend="sup">r</hi> Moreau, Avocat General de la Chambre des Comptes de Dijon, qui a eu part à leur estime, a composé les Vers qui suivent. Vous connoissez par plusieurs Ouvrages que vous avez veus de luy, le talent qu’il a pour la Poësie.</p>
         <quote>
           <label>SUR UN DEPART.</label>
           <lg>
@@ -116,6 +105,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

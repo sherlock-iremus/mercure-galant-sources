@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,20 +14,22 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>J'adjoûte icy un quatriéme Air, fait d’une maniere qui vous surprendra. Il est d’un tres-habile Homme qui ne sçait point la Musique. Il compose par Algebre, ou progression harmonique, &amp; sçachant les Paroles d’un Opéra, il viendroit aisément à bout de le copier entier dans une demy-feüille de papier avec toutes ses parties.</p>
         <quote>
-          <label>AIR PAR ALGEBRE.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par <hi rend="i">Une langueur extréme occupe tous mes sens</hi>, doit regarder la page 358.</note>
-          <lg><l rend="i">Une langueur extréme</l>
-          <l rend="i">Occupe tous mes sens.</l>
-          <l rend="i">Helas ! quand on aime,</l>
-          <l rend="i">Qu'on souffre de tourmens !</l>
-          <l rend="i">Il seroit impossible</l>
-          <l rend="i">D'éviter tous leurs coups.</l>
-          <l rend="i">Mon cœur est trop sensible,</l>
-          <l rend="i">Mais ce n’est que pour vous.</l></lg>
+          <label>AIR PAR ALGEBRE.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par <hi rend="i">Une langueur extréme occupe tous mes sens</hi>, doit regarder la page 358.</note>
+          <lg>
+            <l rend="i">Une langueur extréme</l>
+            <l rend="i">Occupe tous mes sens.</l>
+            <l rend="i">Helas ! quand on aime,</l>
+            <l rend="i">Qu'on souffre de tourmens !</l>
+            <l rend="i">Il seroit impossible</l>
+            <l rend="i">D'éviter tous leurs coups.</l>
+            <l rend="i">Mon cœur est trop sensible,</l>
+            <l rend="i">Mais ce n’est que pour vous.</l>
+          </lg>
         </quote>
         <ref target="images/1679-02_357.JPG">
           <figure>
@@ -35,6 +37,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

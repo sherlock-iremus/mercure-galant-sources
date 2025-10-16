@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
-        <note resp="author" place="margin"><hi rend="i">Table</hi> : La Figure doit regarder la
-          page. 163.</note>
-        <p>J'ay fait encore graver une des Fontaines que l'on voit à Rome, &amp; je vous l'envoye.
-          C'est celle que l'on appelle, <hi rend="i">Fontana alla cadena di Borgo</hi>.</p>
+    <body>
+      <div>
+        <note resp="author" place="margin"><hi rend="i">Table</hi> : La Figure doit regarder la page. 163.</note>
+        <p>J'ay fait encore graver une des Fontaines que l'on voit à Rome, &amp; je vous l'envoye. C'est celle que l'on appelle, <hi rend="i">Fontana alla cadena di Borgo</hi>.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

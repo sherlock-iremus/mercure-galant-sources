@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,9 +14,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
         <p>Rien n’ayant tant de charmes que la diversité, nous devons passer d’une matiere aussi triste que celle dont nous venons de parler, à une plus divertissante ; &amp; je croy que nous ne le pouvons faire plus agreablement, que par la Piece qui suit, puis qu’il y a déja quelque temps qu’elle fait du bruit dans les plus belles Ruelles de Paris.</p>
         <quote>
@@ -29,7 +28,8 @@
             <l rend="i">Et sans attendre icy que la Saison nouvelle</l>
             <l rend="i"> Dans le camp de Mars vous rappelle,</l>
             <l rend="i"> Tout à-coup, Grand Roy, vous partez ?</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l rend="i">On sçait que s’agissant d’attaquer une Place,</l>
             <l rend="i">Il n’est rien qui vous puisse arrester un moment,</l>
             <l rend="i">Et que lors qu’aux Soldats vous allez fierement</l>
@@ -38,7 +38,8 @@
             <l rend="i">Mais qui fait tout trembler, à loisir se délasse,</l>
             <l rend="i">Et vous peuvez devant envoyer la menace,</l>
             <l rend="i"> Sans la suivre si promptement.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l rend="i">À peine vos Guerriers dont la Gloire dispose</l>
             <l rend="i">Sous la faveur de votre appuy,</l>
             <l rend="i"> (Car la Gloire &amp; Vous aujour-d’huy</l>
@@ -50,7 +51,8 @@
             <l rend="i">Que l’amour du repos à moy seul les attache,</l>
             <l rend="i"> Si vous partez aucun d’eux ne me cache</l>
             <l rend="i"> Que rien ne les peut retenir.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l rend="i">Ainsi voila par tout mon attente trompée,</l>
             <l rend="i"> Par tout mes desseins avortez :</l>
             <l rend="i"> Pour reduire des Libertez,</l>
@@ -59,7 +61,8 @@
             <l rend="i">Et dés qu’on peut aller combatre à vos costez,</l>
             <l rend="i">De mes trais les plus vifs l’ame la mieux frapée</l>
             <l rend="i"> Fuit mes douces oysivetez.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l rend="i"> Cependant combien de tendresses</l>
             <l rend="i">Par votre éloignement des cœurs se vont bannir ?</l>
             <l rend="i"> Combien d’Amans à leurs Maistresses</l>
@@ -71,14 +74,16 @@
             <l rend="i">L’autre ayant commencé s’obstinoit à poursuivre ;</l>
             <l rend="i"> Mais vous partez, &amp; pour vous suivre</l>
             <l rend="i"> On se croit dégagé de tout.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l rend="i">Le plus mortel chagrin que reçoivent les Belles,</l>
             <l rend="i">Qui croyoient qu’un accord aussi tendre que doux,</l>
             <l rend="i">Rendroit de leurs Amans les chaisnes eternelles,</l>
             <l rend="i"> C’est de les voir courir aux coups</l>
             <l rend="i"> Avec bien plus d’ardeur pour vous,</l>
             <l rend="i"> Qu’ils n’en eurent pour elles.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l rend="i"> Pour obtenir qu’ils ne s’éloignent pas,</l>
             <l rend="i"> Elles ont beau verser des larmes,</l>
             <l rend="i"> Ces larmes n’ont que d’impuissans appas.</l>
@@ -87,7 +92,8 @@
             <l rend="i"> Ce sont leurs veritables charmes :</l>
             <l rend="i"> Si-tost que vous prenez les armes,</l>
             <l rend="i">Vivent pour eux la Guerre &amp; les Combats.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l rend="i">Le mal est que par tout ces Belles affligées</l>
             <l rend="i">Me conjurent d’entrer dans leurs ressentimens.</l>
             <l rend="i"> Je les rencontre à tous momens,</l>
@@ -103,7 +109,8 @@
             <l rend="i">Ils dédaignent pour vous ma grandeur souveraine,</l>
             <l rend="i"> Et mes plus beaux Mirthes à peine</l>
             <l rend="i"> Valent un seul de vos Lauriers.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l rend="i">Je rougis, puisqu’il faut avoüer ma foiblesse,</l>
             <l rend="i">De voir que contre vous faisant ce que je puis,</l>
             <l rend="i">Ces Belles vainement implorent mon adresse,</l>
@@ -115,7 +122,8 @@
             <l rend="i">Elles sçavent que c’est votre unique Maistresse,</l>
             <l rend="i">Et que vous luy donnez &amp; vos jours &amp; vos nuits :</l>
             <l rend="i">Si-tost que la servir est un soin qui vous presse.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l rend="i">Pleines de vos Exploits, elles n’ignorent pas</l>
             <l rend="i">Que quittant les Plaisirs, &amp; les Jeux &amp; les Festes,</l>
             <l rend="i"> Malgré la glace &amp; les frimats,</l>
@@ -129,14 +137,16 @@
             <l rend="i">Cette insigne valeur qui n’a point de seconde,</l>
             <l rend="i">Si ne pouvant des cœurs me rendre un seul lien,</l>
             <l rend="i"> Je laisse dépeupler le Monde ?</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l rend="i">Voyez combien vous hazardez ;</l>
             <l rend="i">Avec moy, qu’en cela vous ferez bien de croire ;</l>
             <l rend="i"> Si vous ne vous raccomodez,</l>
             <l rend="i">Je laisseray finir le Monde, &amp; vostre Gloire,</l>
             <l rend="i">Et de vos Actions la merveilleuse Histoire</l>
             <l rend="i">N’ira pas aussi loin que vous le pretendez.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l rend="i"> Je pourois mesme par vangeance,</l>
             <l rend="i"> Pour vous oster l’apuy de Mars,</l>
             <l rend="i">Sur quelque autre Venus arrester ses regards,</l>
@@ -146,7 +156,8 @@
             <l rend="i"> Vous avez toute sa Vaillance</l>
             <l rend="i">Pour affronter sans luy les plus mortels hazards,</l>
             <l rend="i"> Et vous le passez en prudence.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l rend="i"> Le plus seur pour vous retenir,</l>
             <l rend="i"> C’est de descendre à la priere,</l>
             <l rend="i">Accordez un peu moins à cette ardeur guerriere,</l>
@@ -170,6 +181,6 @@
         </quote>
         <p>Le Chevalier s’apprestoit à poursuivre, lors que la Duchesse luy dit de n’aller pas si viste ; que cette Galanterie méritoit bien qu’on y fist quelque refléxion, &amp; que les Vers en estoient fort naturels. Il est vray, répondit la Marquise, &amp; j’ay fait une remarque en l’écoutant lire, à laquelle personne n’a peut-estre pensé. Nous parlions tantost, poursuivit-elle, de la maniere de loüer le Roy, &amp; je trouve que les loüanges que nous en venons d’entendre sont fort ingénieusement données : elles entrent si naturellement dans cette Piece, qu’ils ne paroist pas mesmes qu’on ait dessein de le loüer ; &amp; tout ce que l’Amour dit à sa gloire, n’est qu’en se plaignant de luy. La remarque est juste reprit une autre Personne de la Compagnie ; &amp; quand on loüe ainsi quelqu’un, il faut que ce que l’on en dit soit si vray, que personne ne l’ignore. Il n’est pas si facile que l’on pense de loüer ainsi, intérrompit la Duchesse ; &amp; tous ces Esprits guindez &amp; peu galants qui ne peuvent loüer les grands Hommes qu’en les comparant aux Aléxandres &amp; aux Césars, n’en viendroient pas facilement à bout.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

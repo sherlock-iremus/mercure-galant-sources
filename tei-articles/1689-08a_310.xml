@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,18 +14,19 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Le second Air nouveau que j'ajoûte icy, est encore de l'illustre M<hi rend="sup">r</hi> Lambert.</p>
         <quote>
-          <lg><l rend="i">Que j'ay peine à quitter cet aimable Bocage !<note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">Que j'ay peine à quiter cet aimable Bocage</hi>, doit regarder la page 311.</note></l>
+          <lg>
+            <l rend="i">Que j'ay peine à quitter cet aimable Bocage !<note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">Que j'ay peine à quiter cet aimable Bocage</hi>, doit regarder la page 311.</note></l>
             <l rend="i">Un jour, un seul moment en augmente l'ombrage ;</l>
             <l rend="i">Mais je crains d'y revoir un Berger trop charmant.</l>
             <l rend="i">Fuyons sans tarder davantage.</l>
             <l rend="i">Peut-estre qu'un naissant amour</l>
             <l rend="i">Me fait aimer ce beau séjour,</l>
-            <l rend="i">Plûtost que le naissant feüillage.</l></lg>
+            <l rend="i">Plûtost que le naissant feüillage.</l>
+          </lg>
         </quote>
         <ref target="images/1689-08a_310.JPG">
           <figure>
@@ -33,6 +34,6 @@
           </figure>
         </ref>
       </div>
-        </body>
+    </body>
   </text>
 </TEI>

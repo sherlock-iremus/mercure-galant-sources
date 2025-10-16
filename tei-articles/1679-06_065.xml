@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Apres un Sonnet Italien, il faut vous en faire voir un François. Vous le devez lire avec
-          plaisir, puis qu’il est fait par une Personne de vostre Sexe. Les Belles qui ne se piquent
-          pas toûjours de fidelité, trouvent quelquefois des Infidelles. C'est là-dessus que
-          Mademoiselle Moussard s’est divertie à faire ces Vers.</p>
+    <body>
+      <div>
+        <p>Apres un Sonnet Italien, il faut vous en faire voir un François. Vous le devez lire avec plaisir, puis qu’il est fait par une Personne de vostre Sexe. Les Belles qui ne se piquent pas toûjours de fidelité, trouvent quelquefois des Infidelles. C'est là-dessus que Mademoiselle Moussard s’est divertie à faire ces Vers.</p>
         <quote>
           <l>UN aveugle transport de tout mon sort décide,</l>
           <l>C'est par un Inconstant que mon cœur est charmé ;</l>
@@ -43,9 +39,8 @@
           <l>Que ne me laissiez-vous la plus fiere des Ames,</l>
           <l>Ou que ne donniez-vous ma tendresse à Tirsis ?</l>
         </quote>
-        <p>Si un Inconstant a pû donner lieu à ce Sonnet, il y a des fidélitez inviolables, &amp; je
-          puis vous le prouver par Certificat.</p>
+        <p>Si un Inconstant a pû donner lieu à ce Sonnet, il y a des fidélitez inviolables, &amp; je puis vous le prouver par Certificat.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Il y a un tres-grand plaisir à obliger, mais c’est par là fort souvent qu’on perd ses
-          Amis. Ils nous fuyent, ou par impuissance de s’acquiter, ou parce que naturellement on
-          n’aime point à voir ceux à qui l’on doit. M<hi rend="sup">r</hi> le Président la Tournelle
-          de Lyon, a fait quelque chose de fort agreable sur les Débiteurs embarassez. Je vous
-          l’envoye. Vous y trouverez ce tour aisé qui fait seul valoir les Ouvrages de cette
-          nature.</p>
+    <body>
+      <div>
+        <p>Il y a un tres-grand plaisir à obliger, mais c’est par là fort souvent qu’on perd ses Amis. Ils nous fuyent, ou par impuissance de s’acquiter, ou parce que naturellement on n’aime point à voir ceux à qui l’on doit. M<hi rend="sup">r</hi> le Président la Tournelle de Lyon, a fait quelque chose de fort agreable sur les Débiteurs embarassez. Je vous l’envoye. Vous y trouverez ce tour aisé qui fait seul valoir les Ouvrages de cette nature.</p>
         <quote>
           <label type="head">La Chauvesouris et l’Hyrondelle.</label>
           <label type="head">Fable.</label>
@@ -45,15 +39,12 @@
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Chauvesouris ne resvoit</l>
           <l>Qu'à l’employ des trésors que son cœur concevoit</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>D'un si facile passage,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Mais souvent lors que l’on
-            croit</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Mais souvent lors que l’on croit</l>
           <l>Voguer en seûreté, l’on trouve le naufrage.</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Chauvesouris le trouva,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Et du débris ne sauva</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Que ses dents &amp; que ses
-            aisles ;</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Elle se
-            desespera,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Que ses dents &amp; que ses aisles ;</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Elle se desespera,</l>
           <l>Mais malgré les accens de ses plaintes mortelles</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Son argent y demeura.</l>
           <l>Le bout de l’an venu, la douleur renouvelle ;</l>
@@ -72,6 +63,6 @@
           <l>A chercher dans la suite un secours favorable.</l>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

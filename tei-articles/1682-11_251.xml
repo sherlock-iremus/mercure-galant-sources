@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,22 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
-        <p>M<hi rend="sup">r</hi> le Comte de Grancé, Gouverneur d'Argentan, y fit faire les
-          Réjoüissances publiques le Dimanche 23. d'Aoust. Toute la Bourgeoisie sous les armes alla
-          le prendre au Chasteau, où s'estoit rendu tout le Corps de la Justice, &amp; quantité de
-          Noblesse, &amp; le conduisit en l'Eglise de S. Germain. Le <hi rend="i">Te Deum</hi> y fut
-          solemnellement chanté en Musique, avec diférens Motets. [...]</p>
+        <p>M<hi rend="sup">r</hi> le Comte de Grancé, Gouverneur d'Argentan, y fit faire les Réjoüissances publiques le Dimanche 23. d'Aoust. Toute la Bourgeoisie sous les armes alla le prendre au Chasteau, où s'estoit rendu tout le Corps de la Justice, &amp; quantité de Noblesse, &amp; le conduisit en l'Eglise de S. Germain. Le <hi rend="i">Te Deum</hi> y fut solemnellement chanté en Musique, avec diférens Motets. [...]</p>
         <p/>
-        <p>La Feste fut continuée le lendemain au Chasteau, où M<hi rend="sup">r</hi> le Gouverneur,
-          en présence des Dames &amp; de toutes les Personnes distinguées, fit faire la Curée d'un
-          gros Cerf qu'il avoit pris. C'estoit un plaisir de voir cent des meilleurs Chiens qu'il y
-          ait en France, dont sa Meute est composée, démembrer &amp; manger ce Cerf au son de vingt
-          Cors de Chasse.</p>
+        <p>La Feste fut continuée le lendemain au Chasteau, où M<hi rend="sup">r</hi> le Gouverneur, en présence des Dames &amp; de toutes les Personnes distinguées, fit faire la Curée d'un gros Cerf qu'il avoit pris. C'estoit un plaisir de voir cent des meilleurs Chiens qu'il y ait en France, dont sa Meute est composée, démembrer &amp; manger ce Cerf au son de vingt Cors de Chasse.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

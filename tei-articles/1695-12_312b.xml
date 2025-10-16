@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div copyOf="JLB-MG-1695-12_312">
-        
-        
-        <p>Si tous ceux qui font des souhaits, pensoient aussi ingenieusement que l’Auteur des Vers
-          que vous allez lire, chacun auroit envie d’en entendre faire souvent. Je vous envoye ces
-          Souhaits pour vos Estrennes. Vous pourrez en recevoir de moins agreables.</p>
+    <body>
+      <div copyOf="JLB-MG-1695-12_312">
+        <p>Si tous ceux qui font des souhaits, pensoient aussi ingenieusement que l’Auteur des Vers que vous allez lire, chacun auroit envie d’en entendre faire souvent. Je vous envoye ces Souhaits pour vos Estrennes. Vous pourrez en recevoir de moins agreables.</p>
         <quote>
           <label>SOUHAITS POUR IRIS.</label>
           <lg>

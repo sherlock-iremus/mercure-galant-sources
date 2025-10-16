@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,22 +14,21 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-          
-          <p>La France ne peut manquer d’estre heureuse, puis que le Roy paroist satisfait du zele de ses Sujets. C’est sur cela que M<hi rend="sup">r</hi> Perrault, de l’Academie Françoise, a fait le Madrigal que vous allez lire.</p>
-          <quote>
-            <lg>
-              <l rend="i"> LOUIS, quand la Hollande &amp; la fiere Angleterre</l>
-              <l rend="i">Ont flechy sous les coups de ton puissant tonnerre</l>
-              <l rend="i">Et que toute l’Europe en a tremblé d’effroy,</l>
-              <l rend="i">Tu dis que ton bonheur vient d’avoir sous ta loy</l>
-              <l rend="i"> Le meilleur Peuple de la terre.</l>
-              <l rend="i">Ah, combien dans le temps d’une si rude guerre,</l>
-              <l rend="i">Sommes-nous plus heureux d’avoir un si grand Roy !</l>
-            </lg>
-          </quote>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>La France ne peut manquer d’estre heureuse, puis que le Roy paroist satisfait du zele de ses Sujets. C’est sur cela que M<hi rend="sup">r</hi> Perrault, de l’Academie Françoise, a fait le Madrigal que vous allez lire.</p>
+        <quote>
+          <lg>
+            <l rend="i"> LOUIS, quand la Hollande &amp; la fiere Angleterre</l>
+            <l rend="i">Ont flechy sous les coups de ton puissant tonnerre</l>
+            <l rend="i">Et que toute l’Europe en a tremblé d’effroy,</l>
+            <l rend="i">Tu dis que ton bonheur vient d’avoir sous ta loy</l>
+            <l rend="i"> Le meilleur Peuple de la terre.</l>
+            <l rend="i">Ah, combien dans le temps d’une si rude guerre,</l>
+            <l rend="i">Sommes-nous plus heureux d’avoir un si grand Roy !</l>
+          </lg>
+        </quote>
+      </div>
+    </body>
   </text>
 </TEI>

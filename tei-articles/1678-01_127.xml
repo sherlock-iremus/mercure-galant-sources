@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Ce mesme M<hi rend="sup">r</hi> Petit dont je viens de vous faire voir le Mariage du Lys
-          &amp; de la Rose, a connu de quel prix estoit ce glorieux avantage, quand il a fait ce
-          Rondeau.</p>
+    <body>
+      <div>
+        <p>Ce mesme M<hi rend="sup">r</hi> Petit dont je viens de vous faire voir le Mariage du Lys &amp; de la Rose, a connu de quel prix estoit ce glorieux avantage, quand il a fait ce Rondeau.</p>
         <quote rend="border">
           <label rend="center">Pour le Roy.</label>
           <label rend="center">Rondeau.</label>
@@ -48,6 +45,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

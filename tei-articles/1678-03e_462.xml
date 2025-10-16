@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,25 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
+    <body>
+      <div>
         <quote>
           <label rend="center">Lettre LXXVI.</label>
-          <p>TOut le monde vous est si obligé, Monsieur, des peines que vous prenez pour nous donner
-            tous les Mois ces spirituelles Lettres qui font aujourd’huy le plus agreable
-            divertissement du Public, qu’Il n’y a Personne qui ne dust tâcher de vous en marquer sa
-            reconnoissance par quelque Ouvrage qui meritast d’zvoir place parmy ceux que vous y
-            faites entrer. Pour moy qui me sens incapable de rien produire de moy-même, je me sers
-            au moins du bien d’autruy afin de m’acquiter envers vous de ce que je vous dois pour la
-            part que j’ay dans cette obligaiton commune. Les Vers que je vous envoye sont de divers
-            Autheurs qui ont tous l’esprit tres-fin &amp; tres-delicat. Ils ont esté fait pour
-            réponse à ce que demandoit une fort belle Dame &amp; d’un tres-grand merite, dans
-            l’Epistre que vous allez voir. J’ay eu soin de les ramasser, dans la pensée que vous
-            seriez bien aise d’en embellir l’Extraordinaire que vous nous promettez, car je
-            m’imagine qu’il vous faut des choses moins étenduës pour vostre Mercure. Voicy ce que la
-            Dame dont je vous parle avoit écrit à un de ses Amis.</p>
+          <p>TOut le monde vous est si obligé, Monsieur, des peines que vous prenez pour nous donner tous les Mois ces spirituelles Lettres qui font aujourd’huy le plus agreable divertissement du Public, qu’Il n’y a Personne qui ne dust tâcher de vous en marquer sa reconnoissance par quelque Ouvrage qui meritast d’zvoir place parmy ceux que vous y faites entrer. Pour moy qui me sens incapable de rien produire de moy-même, je me sers au moins du bien d’autruy afin de m’acquiter envers vous de ce que je vous dois pour la part que j’ay dans cette obligaiton commune. Les Vers que je vous envoye sont de divers Autheurs qui ont tous l’esprit tres-fin &amp; tres-delicat. Ils ont esté fait pour réponse à ce que demandoit une fort belle Dame &amp; d’un tres-grand merite, dans l’Epistre que vous allez voir. J’ay eu soin de les ramasser, dans la pensée que vous seriez bien aise d’en embellir l’Extraordinaire que vous nous promettez, car je m’imagine qu’il vous faut des choses moins étenduës pour vostre Mercure. Voicy ce que la Dame dont je vous parle avoit écrit à un de ses Amis.</p>
           <lg>
             <l><space/>    UN illustre &amp; galant Berger</l>
             <l><space/>    Me conseille de m’engager.</l>
@@ -53,8 +39,7 @@
             <l><space/>Et puis, sage &amp; prudent Timandre,</l>
             <l>Dites-moy si j’en dois courir tout le danger.</l>
           </lg>
-          <p>Ces quatre Réponses ont esté faites par cet Amy, &amp; par trois autres sur les mesmes
-            Rimes de la Demande.</p>
+          <p>Ces quatre Réponses ont esté faites par cet Amy, &amp; par trois autres sur les mesmes Rimes de la Demande.</p>
           <label rend="center">Premier Avis.</label>
           <l><space/>    FUyez l’Amour &amp; les yeux du Berger</l>
           <l><space/><space/>        Qui tâche de vous engager.</l>
@@ -300,14 +285,10 @@
           <l><space/>    Et le cœur est déja rendu,</l>
           <l><space/>    Quand il consulte pour se rendre.</l>
           <p>D. S. G.</p>
-          <p>La Question estoit délicate, &amp; je croy, Monsieur, que vous trouverez toutes ces
-            diférentes Réponses tres-délicatement tournées. Il seroit à souhaiter qu’on en proposast
-            souvent de semblables. Elles donneroient à nos beaux Esprits de galantes matieres de
-            s’exercer, &amp; à moy peut-estre une nouvelle occasion de vous faire voir que je suis
-            veritablement vostre, &amp;c.</p>
+          <p>La Question estoit délicate, &amp; je croy, Monsieur, que vous trouverez toutes ces diférentes Réponses tres-délicatement tournées. Il seroit à souhaiter qu’on en proposast souvent de semblables. Elles donneroient à nos beaux Esprits de galantes matieres de s’exercer, &amp; à moy peut-estre une nouvelle occasion de vous faire voir que je suis veritablement vostre, &amp;c.</p>
           <p>L. C.</p>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

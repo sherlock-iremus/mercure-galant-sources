@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-          
-          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : La
-            Medaille doit regarder la page 208.</note>
-          <p/>
-          <p>L’usage estant de fraper des Medailles pour tout ce qui se fait de memorable dans les
-            Etats des Souverains, je vous envoye celle qui a esté frapée à l’occasion du mariage du
-            Roy d’Espagne.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : La Medaille doit regarder la page 208.</note>
+        <p/>
+        <p>L’usage estant de fraper des Medailles pour tout ce qui se fait de memorable dans les Etats des Souverains, je vous envoye celle qui a esté frapée à l’occasion du mariage du Roy d’Espagne.</p>
+      </div>
+    </body>
   </text>
 </TEI>

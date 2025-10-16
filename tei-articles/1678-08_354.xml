@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>La Paix qui nous va produire tant de biens, a fait faire les Paroles que je vous envoye.
-          Elles ont esté mises en Air par M<hi rend="sup">r</hi> de Riel, connu pour un des plus
-          consommez que nous ayons dans la Musique, &amp; le premier Eleve de M<hi rend="sup">r</hi>
-          Lambert.</p>
+    <body>
+      <div>
+        <p>La Paix qui nous va produire tant de biens, a fait faire les Paroles que je vous envoye. Elles ont esté mises en Air par M<hi rend="sup">r</hi> de Riel, connu pour un des plus consommez que nous ayons dans la Musique, &amp; le premier Eleve de M<hi rend="sup">r</hi> Lambert.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour
-              placer les Figures</hi> : l’Air qui commence par <hi rend="i">Hastez-vous, amoureux
-              Bergers</hi>, doit regarder la Page 355.</note>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Hastez-vous, amoureux Bergers</hi>, doit regarder la Page 355.</note>
           <lg>
             <l rend="i"><space/><space/>Hastez-vous, amoureux Bergers,</l>
             <l rend="i"><space/><space/>Accourez, timides Bergeres,</l>
@@ -49,6 +44,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

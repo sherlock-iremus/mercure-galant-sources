@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Je vous envoye un fort joly Madrigal de M<hi rend="sup">r</hi> Quinaut. Il a fait icy
-          beaucoup de bruit, &amp; vous estes de trop bon goust pour ne le pas lire avec plaisir. Le
-          sujet s'explique assez luy-mesme. C'est ce qui m'empesche de vous en rien dire.</p>
+    <body>
+      <div>
+        <p>Je vous envoye un fort joly Madrigal de M<hi rend="sup">r</hi> Quinaut. Il a fait icy beaucoup de bruit, &amp; vous estes de trop bon goust pour ne le pas lire avec plaisir. Le sujet s'explique assez luy-mesme. C'est ce qui m'empesche de vous en rien dire.</p>
         <quote>
           <label>L'OPERA DIFFICILE</label>
           <lg>
@@ -37,9 +34,12 @@
             <l rend="i">Pour cinq Filles qu'il fait pourvoir !</l>
             <l rend="i">O Ciel, peut-on jamais avoir</l>
             <l>
-              <hi rend="i">Opéra plus fâcheux à faire ? »</hi><note resp="editor">Voir la <ref target="MG-1683-06_111">Réponse au Madrigal de Quinault</ref>.</note></l>
-          </lg></quote>
+              <hi rend="i">Opéra plus fâcheux à faire ? »</hi>
+              <note resp="editor">Voir la <ref target="MG-1683-06_111">Réponse au Madrigal de Quinault</ref>.</note>
+            </l>
+          </lg>
+        </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,18 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
-        <p>Quoy que le secours de la Raison soit d’un grand usage contre beaucoup de malheurs, elle
-          est pourtant bien souvent l’ennemie de nos plaisirs. Voicy ce que luy fait dire M<hi rend="sup">r</hi> de Vin, Substitut de M<hi rend="sup">r</hi> le Procureur du Roy au
-          Chastelet, par un Amant qui la trouve trop severe. C’est celuy dont je vous envoyay il y a
-          six mois la galante Piece qui a pour titre, <hi rend="i">L’Amour devenu aveugle</hi>. Si
-          l’exemple de Caton vous fait peine en celle-cy, parce qu’on l’y voit Amant de sa Femme,
-          &amp; que d’ordinaire l’amour d’un Mary n’est pas violent, songez qu’il dut aimer beaucoup
-          Martia, puis que l’ayant cedée à Hortensius son Amy intime, il se fit un bonheur de la
-          reprendre apres la mort de ce mesme Hortensius.</p>
+    <body>
+      <div>
+        <p>Quoy que le secours de la Raison soit d’un grand usage contre beaucoup de malheurs, elle est pourtant bien souvent l’ennemie de nos plaisirs. Voicy ce que luy fait dire M<hi rend="sup">r</hi> de Vin, Substitut de M<hi rend="sup">r</hi> le Procureur du Roy au Chastelet, par un Amant qui la trouve trop severe. C’est celuy dont je vous envoyay il y a six mois la galante Piece qui a pour titre, <hi rend="i">L’Amour devenu aveugle</hi>. Si l’exemple de Caton vous fait peine en celle-cy, parce qu’on l’y voit Amant de sa Femme, &amp; que d’ordinaire l’amour d’un Mary n’est pas violent, songez qu’il dut aimer beaucoup Martia, puis que l’ayant cedée à Hortensius son Amy intime, il se fit un bonheur de la reprendre apres la mort de ce mesme Hortensius.</p>
         <quote>
           <label>L’AMANT<lb/>A SA RAISON<lb/>TROP SEVERE.</label>
           <lg>
@@ -97,12 +88,14 @@
           </lg>
           <ab type="ornament">***</ab>
           <lg>
-            <l><hi rend="i">On se souvient encor du divin</hi><note resp="author">Surnommé
-                l’Olympien.</note>
-              <hi rend="i">Periclés,</hi></l>
-            <l> <hi rend="i">Qui pendant un long</hi><note resp="author">De quarante ans.</note>
-              <hi rend="i">Ministere</hi></l>
-            <l><hi rend="i">Ne termina sans toy jamais aucune affaire,</hi>
+            <l>
+              <hi rend="i">On se souvient encor du divin</hi>
+              <note resp="author">Surnommé l’Olympien.</note>
+              <hi rend="i">Periclés,</hi>
+            </l>
+            <l> <hi rend="i">Qui pendant un long</hi><note resp="author">De quarante ans.</note> <hi rend="i">Ministere</hi></l>
+            <l>
+              <hi rend="i">Ne termina sans toy jamais aucune affaire,</hi>
             </l>
             <l rend="i">Qui te faisoit entrer dans les moindres projets</l>
             <l rend="i"> Qu’il faisoit pour la République,</l>
@@ -112,8 +105,11 @@
             <l rend="i">Qui fixa la Fortune à sa rare prudence,</l>
             <l rend="i">Qui par sa vive, ferme, &amp; fléxible éloquence,</l>
             <l rend="i">Sçeut des Athéniens dompter l’esprit mutin,</l>
-            <l><hi rend="i">Qui seul par ton secours évita le</hi><note resp="author">L’Ostracisme.</note>
-              <hi rend="i">destin</hi></l>
+            <l>
+              <hi rend="i">Qui seul par ton secours évita le</hi>
+              <note resp="author">L’Ostracisme.</note>
+              <hi rend="i">destin</hi>
+            </l>
             <l rend="i">Des Chefs infortunez de ce Peuple volage,</l>
             <l rend="i"> Et qui moins Orateur que Sage,</l>
             <l rend="i">Fit servir à sa gloire, &amp; le trouble, &amp; l’orage</l>
@@ -287,6 +283,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

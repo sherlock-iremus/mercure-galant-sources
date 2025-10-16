@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,25 +14,27 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p>L'Air suivant est de Mr le Camus, le fils.</p>
-          <quote>
-            <label>AIR NOUVEAU.</label><note resp="author" place="margin">L’Air <hi rend="i">Bergers</hi>, doit regarder la p. [1]24.</note>
-            <lg>
-              <l> <hi rend="i">Bergers qui souffrez en aimant.</hi></l>
-              <l> <hi rend="i">Soyez constans, soyez fidelles.</hi></l>
-              <l><hi rend="i">Pour engager les cœurs des plus cruelles</hi></l>
-              <l> <hi rend="i">Il ne faut qu’un heureux moment[.]</hi></l>
-            </lg>
-          </quote>
-          <ref target="images/1703-07_124.JPG">
-            <figure>
-              <graphic url="images/1703-07_124.JPG"/>
-            </figure>
-          </ref>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>L'Air suivant est de Mr le Camus, le fils.</p>
+        <quote>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin">L’Air <hi rend="i">Bergers</hi>, doit regarder la p. [1]24.</note>
+          <lg>
+            <l> <hi rend="i">Bergers qui souffrez en aimant.</hi></l>
+            <l> <hi rend="i">Soyez constans, soyez fidelles.</hi></l>
+            <l>
+              <hi rend="i">Pour engager les cœurs des plus cruelles</hi>
+            </l>
+            <l> <hi rend="i">Il ne faut qu’un heureux moment[.]</hi></l>
+          </lg>
+        </quote>
+        <ref target="images/1703-07_124.JPG">
+          <figure>
+            <graphic url="images/1703-07_124.JPG"/>
+          </figure>
+        </ref>
+      </div>
+    </body>
   </text>
 </TEI>

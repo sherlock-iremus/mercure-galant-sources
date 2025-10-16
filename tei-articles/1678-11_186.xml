@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,17 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>On se regle souvent sur les Saisons pour les Airs qu’on fait. C’est ce qui a donné lieu à M<hi rend="sup">r</hi> du Parc de faire celuy-cy sur celle où nous sommes. Divertissez vous à le chanter aupres du feu, si vous ne voulez pas y écouter ceux qui vous diroient avec plaisir que vous estes belle &amp; aimable.</p>
         <quote>
-          <label>MENUET.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : le Menüet qui commence par <hi rend="i">Ne croyez pas, jeune Bergere</hi>, doit regarder la page 187.</note>
+          <label>MENUET.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : le Menüet qui commence par <hi rend="i">Ne croyez pas, jeune Bergere</hi>, doit regarder la page 187.</note>
           <lg>
             <l rend="i"><space/>Ne croyez pas, jeune Bergere,</l>
-          <l rend="i">Que l’Hyver ait banny les plaisirs de ce lieu.</l>
-          <l rend="i"><space/>On fait l’amour aupres du feu,</l>
-          <l rend="i"><space/>Aussi bien que sur la fougere.</l>
+            <l rend="i">Que l’Hyver ait banny les plaisirs de ce lieu.</l>
+            <l rend="i"><space/>On fait l’amour aupres du feu,</l>
+            <l rend="i"><space/>Aussi bien que sur la fougere.</l>
           </lg>
         </quote>
         <ref target="images/1678-11_186.JPG">
@@ -33,6 +33,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

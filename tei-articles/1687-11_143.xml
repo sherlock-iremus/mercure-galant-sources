@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
-        <p>Il n’y a pas toûjours de la honte à fuir, &amp; quelquefois la prudence engage à se
-          servir de cette précaution. Vous en tomberez d’accord quand vous aurez leu la Lettre qui
-          suit. Elle est de M<hi rend="sup">r</hi> Devin, dont je vous ay déja envoyé plusieurs
-          Ouvrages que vous avez leus avec plaisir.</p>
+        <p>Il n’y a pas toûjours de la honte à fuir, &amp; quelquefois la prudence engage à se servir de cette précaution. Vous en tomberez d’accord quand vous aurez leu la Lettre qui suit. Elle est de M<hi rend="sup">r</hi> Devin, dont je vous ay déja envoyé plusieurs Ouvrages que vous avez leus avec plaisir.</p>
         <quote>
           <label>A. M. P. L. M.</label>
           <lg>
@@ -96,6 +92,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

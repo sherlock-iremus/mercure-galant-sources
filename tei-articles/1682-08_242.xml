@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,18 +14,18 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
+    <body>
+      <div>
         <p/>
-        <p>M<hi rend="sup">r</hi> Louvart, de Roye en Picardie, a fait une Anagramme fort
-          particuliere sur le Nom de Monseigneur le Dauphin.</p>
-        <p><hi rend="i">Loüis, Dauphin de Viennois, Fils de Loüis quatorziéme, Roy de France &amp;
-            de Navarre.</hi></p>
+        <p>M<hi rend="sup">r</hi> Louvart, de Roye en Picardie, a fait une Anagramme fort particuliere sur le Nom de Monseigneur le Dauphin.</p>
+        <p>
+          <hi rend="i">Loüis, Dauphin de Viennois, Fils de Loüis quatorziéme, Roy de France &amp; de Navarre.</hi>
+        </p>
         <p>En changeant deux lettres, il y a trouvé ces mots.</p>
-        <p><hi rend="i">Prince qui as la foy, Dieu te donnera un Fils le sixiéme d’Aoust à onze
-            heures du soir.</hi></p>
+        <p>
+          <hi rend="i">Prince qui as la foy, Dieu te donnera un Fils le sixiéme d’Aoust à onze heures du soir.</hi>
+        </p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

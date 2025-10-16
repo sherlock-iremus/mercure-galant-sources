@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
-        <p>Je ne puis poursuivre cette matiere, sans vous dire que les Destins ont esté consultez
-          sur la Naissance du Prince qui donna lieu à toutes ces Festes. Je vous envoye la Demande
-          &amp; la Réponse. L’une &amp; l’autre est d’un Autheur qui n’a voulu se faire connoistre
-          que sous le nom de l’Inconnu de la Ruë S. Jean de Latran.</p>
+    <body>
+      <div>
+        <p>Je ne puis poursuivre cette matiere, sans vous dire que les Destins ont esté consultez sur la Naissance du Prince qui donna lieu à toutes ces Festes. Je vous envoye la Demande &amp; la Réponse. L’une &amp; l’autre est d’un Autheur qui n’a voulu se faire connoistre que sous le nom de l’Inconnu de la Ruë S. Jean de Latran.</p>
         <quote>
           <label>DEMANDE<lb/>AUX DIEUX.</label>
           <lg>
@@ -53,6 +48,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

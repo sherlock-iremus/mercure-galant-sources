@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,30 +14,20 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p/>
-          <p>Je vous envoye une Eglogue de Bergers, faite pour estre mise en Musique. Elle est de Mr de Guitrandi d’Avignon, dont vous avez déjà vû d’autres Ouvrages. Le commencement est tiré du premier Choeur de l'<hi rend="i">Hercules Furens</hi> de Seneque, ce qui suit de l’Ode d’Horace, <hi rend="i">Beatus ille</hi>, &amp; la fin est toute à luy, ainsi que l’invention de la Piece.</p>
-          <p/>
-         <quote>
-          <label>EGLOGUE.
-          <lb/>
-          <lb/>
-            TIRCIS, DAMON,
-           <lb/>
-            DAPHNIS.
-          <lb/>
-          <lb/>
-          Troupe de Bergers.</label>
-         
+    <body>
+      <div>
+        <p/>
+        <p>Je vous envoye une Eglogue de Bergers, faite pour estre mise en Musique. Elle est de Mr de Guitrandi d’Avignon, dont vous avez déjà vû d’autres Ouvrages. Le commencement est tiré du premier Choeur de l'<hi rend="i">Hercules Furens</hi> de Seneque, ce qui suit de l’Ode d’Horace, <hi rend="i">Beatus ille</hi>, &amp; la fin est toute à luy, ainsi que l’invention de la Piece.</p>
+        <p/>
+        <quote>
+          <label>EGLOGUE. <lb/> <lb/> TIRCIS, DAMON, <lb/> DAPHNIS. <lb/> <lb/> Troupe de Bergers.</label>
           <label type="speaker">DAMON.</label>
           <lg>
-             <l rend="i">La nuit cache ses feux errans,</l>
-             <l rend="i">Et ses lampes déja commencent à s’éteindre ;</l>
-             <l rend="i">Fuyez viste, fuyez, Astres petits &amp; grands,</l>
-             <l rend="i">L’Aurore sur son char semble enfin vous contraindre</l>
-             <l rend="i">À luy laisser remplir vos rangs.</l>
+            <l rend="i">La nuit cache ses feux errans,</l>
+            <l rend="i">Et ses lampes déja commencent à s’éteindre ;</l>
+            <l rend="i">Fuyez viste, fuyez, Astres petits &amp; grands,</l>
+            <l rend="i">L’Aurore sur son char semble enfin vous contraindre</l>
+            <l rend="i">À luy laisser remplir vos rangs.</l>
           </lg>
           <label type="speaker">DAPHNIS.</label>
           <lg>
@@ -60,7 +50,7 @@
             <l rend="i">Ses Chevaux vont courant les celestes campagnes</l>
             <l rend="i">Et déjà son éclat vermeil</l>
             <l rend="i">Dore le sommet des montagnes</l>
-           </lg>
+          </lg>
           <label type="speaker">DAMON, DAPHNIS.</label>
           <lg>
             <l rend="i">La Nature s’éveille, &amp; nos Monts, &amp; nos Bois</l>
@@ -89,7 +79,7 @@
             <l rend="i">Et qui passe toute sa vie</l>
             <l rend="i">Content du doux repos qu’il peut se mènager,</l>
             <l rend="i">Est un destin digne d’envie !</l>
-         </lg>
+          </lg>
           <label type="speaker">DAMON.</label>
           <lg>
             <l rend="i">Comme les premiers des Mortels</l>
@@ -100,7 +90,7 @@
             <l rend="i">Il ne redoute aucun assaut,</l>
             <l rend="i">Et tel qu’il est, il est dans son assiette.</l>
           </lg>
-         <label type="speaker">Tous les Bergers.</label>
+          <label type="speaker">Tous les Bergers.</label>
           <lg>
             <l rend="i">Ah, qu’un Berger se rend heureux,</l>
             <l rend="i">Quand il sçait s’affranchir du tourment amoureux !</l>
@@ -113,22 +103,22 @@
             <l rend="i">Il vit en pleine liberté.</l>
           </lg>
           <label type="speaker">TIRSIS.</label>
-         <lg>
+          <lg>
             <l rend="i">Sans crainte il contemple du Port</l>
             <l rend="i">Les divers orages du fort ;</l>
             <l rend="i">Il voit comme des grands la Fortune se jouë,</l>
             <l rend="i">Et que tel qui paroist s’élever jusqu’aux Cieux,</l>
             <l rend="i">Tombe incontinent dans la bouë,</l>
             <l rend="i">Au gré de tous ses envieux.</l>
-         </lg>
+          </lg>
           <label type="speaker">DAPHNIS.</label>
-         <lg>
+          <lg>
             <l rend="i">Ainsi donc il préfere aux Palais magnifiques,</l>
             <l rend="i">Où logent les Grands de la Cour,</l>
             <l rend="i">Son humble &amp; rustique sejour ;</l>
             <l rend="i">Et s’il n’y trouve point de si belles fabriques,</l>
             <l rend="i">Il y joüit d’un plus beau jour.</l>
-         </lg>
+          </lg>
           <label type="speaker">DAMON.</label>
           <lg>
             <l rend="i">Il joüit des plaisirs que la saison nouvelle</l>
@@ -277,15 +267,15 @@
             <l rend="i">L’amour qui peut luy seul troubler le plus beau jour.</l>
           </lg>
           <label type="speaker">TIRSIS.</label>
-           <lg>
+          <lg>
             <l rend="i">À la Chasse, au travail il n’est rien qui ne cede,</l>
             <l rend="i">À la Chasse, au travail employons donc ce jour,</l>
             <l rend="i">Et sans nous amuser à parler de l’amour,</l>
             <l rend="i">Allons tous contre luy nous servir de remede</l>
             <l rend="i">Que nos champs &amp; nos Bois nous offrent tour à tour.</l>
-            </lg>
-         </quote>
-        </div>
-        </body>
+          </lg>
+        </quote>
+      </div>
+    </body>
   </text>
 </TEI>

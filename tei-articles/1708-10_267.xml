@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,51 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-                
-                
-
-                <label>[Mort de M<hi rend="sup">r</hi> l’abbé de Gourgue]</label>
-                <p>Dominique [de Gourgue] est distingué dans plusieurs
-                        Histoires sous le nom de Dominique de Gourgue, Chevalier Capitaine de trois
-                        cens hommes d’armes, &amp; il se distingua par plusieurs belles actions, tant
-                        sur mer que sur terre. Il fut maltraité en Italie par les Espagnols ; il
-                        voulut s’en vanger, &amp; voicy ce qui luy en fournit l’occasion. On apprit en
-                        France que Melander<note xml:id="_ftn0"
-                            resp="editor" n="1"> « Melander » corrigé par
-                        « Melandes ».</note> 
-                        qui commandoit quelques Troupes Espagnoles avoit
-                        abordé à la Floride, &amp; que par surprise &amp; par trahison il avoit pris les
-                        Forts qui appartenoient aux François, dont le nommé Ribaut estoit
-                        Commandant pour le Roy Charles IX. Melandes sous une amitié apparente
-                        s’étant insinué dans la Place, assassina Ribaut, &amp; fit pendre tous les
-                        François, avec cette Inscription « Je ne fais pas cecy comme à des François,
-                        mais comme à des Lutheriens. » Dominique de Gourgue voulut vanger cet
-                        outrage fait à la Nation, &amp; remply de zele pour son Roy, équipa à ses frais
-                        &amp; dépens trois Vaisseaux ; il monta le premier, donna le commandement
-                        du second au Chevalier de Montluc son parent, &amp; celuy du troisième à
-                        Casenove ; il mit à la voile en 1567 il aborda à la Floride, ménagea des
-                        traitez avec les petits Rois du Pays ; sçavoir Satouriava<hi
-                            rend="sup "><note xml:id="_ftn1" resp="editor" n="2"> En un mot ou en deux? Vérifier dans les
-                                dictionnaires anciens</note></hi>,
-                        Athore, Harpaha, Tacadocourou &amp; quelques autres, qui l’assisterent de leurs
-                        gens ; il attaqua les Espagnols, après plusieurs combats, il les força,
-                        reprit les deux Forteresses, prit deux cens Espagnols, les fit pendre aux
-                        mêmes arbres où les François avoient esté pendus, avec des écriteaux 
-                        contenant ces paroles : « Je ne fais pas cecy comme à des Espagnols, mais
-                        comme à des Traîtres, Larrons &amp; Meurtriers » ; il rasa les Forteresses,
-                        craignant que ceux qui composoient les Colonies Espagnoles voisines, ne s’en
-                        emparassent ; il prit leurs canons, arriva à la Rochelle en Juin mil cinq
-                        cens soixante huit après avoir remis la Floride sous l’obeissance de
-                        Charles IX. Cette action fit tant d’éclat dans l’Europe que tous les
-                        Historiens en ont parlé. La Reine d’Angleterre demanda Dominique de Gourgue
-                        au Roy pour Commander son Armée Navale destinée contre les Espagnols
-                        qui s’estoient emparez du Portugal, mais en
-                        passant à Tours pour monter par ordre du Roy cette Flotte, il y tomba
-                        malade, il y mourut &amp; fut enterré dans le Chœur de saint Martin de Tours en
-                        1593.</p>
-
-            </div>
+    <body>
+      <div>
+        <label>[Mort de M<hi rend="sup">r</hi> l’abbé de Gourgue]</label>
+        <p>Dominique [de Gourgue] est distingué dans plusieurs Histoires sous le nom de Dominique de Gourgue, Chevalier Capitaine de trois cens hommes d’armes, &amp; il se distingua par plusieurs belles actions, tant sur mer que sur terre. Il fut maltraité en Italie par les Espagnols ; il voulut s’en vanger, &amp; voicy ce qui luy en fournit l’occasion. On apprit en France que Melander<note xml:id="_ftn0" resp="editor" n="1"> « Melander » corrigé par « Melandes ».</note> qui commandoit quelques Troupes Espagnoles avoit abordé à la Floride, &amp; que par surprise &amp; par trahison il avoit pris les Forts qui appartenoient aux François, dont le nommé Ribaut estoit Commandant pour le Roy Charles IX. Melandes sous une amitié apparente s’étant insinué dans la Place, assassina Ribaut, &amp; fit pendre tous les François, avec cette Inscription « Je ne fais pas cecy comme à des François, mais comme à des Lutheriens. » Dominique de Gourgue voulut vanger cet outrage fait à la Nation, &amp; remply de zele pour son Roy, équipa à ses frais &amp; dépens trois Vaisseaux ; il monta le premier, donna le commandement du second au Chevalier de Montluc son parent, &amp; celuy du troisième à Casenove ; il mit à la voile en 1567 il aborda à la Floride, ménagea des traitez avec les petits Rois du Pays ; sçavoir Satouriava<hi rend="sup "><note xml:id="_ftn1" resp="editor" n="2"> En un mot ou en deux? Vérifier dans les dictionnaires anciens</note></hi>, Athore, Harpaha, Tacadocourou &amp; quelques autres, qui l’assisterent de leurs gens ; il attaqua les Espagnols, après plusieurs combats, il les força, reprit les deux Forteresses, prit deux cens Espagnols, les fit pendre aux mêmes arbres où les François avoient esté pendus, avec des écriteaux contenant ces paroles : « Je ne fais pas cecy comme à des Espagnols, mais comme à des Traîtres, Larrons &amp; Meurtriers » ; il rasa les Forteresses, craignant que ceux qui composoient les Colonies Espagnoles voisines, ne s’en emparassent ; il prit leurs canons, arriva à la Rochelle en Juin mil cinq cens soixante huit après avoir remis la Floride sous l’obeissance de Charles IX. Cette action fit tant d’éclat dans l’Europe que tous les Historiens en ont parlé. La Reine d’Angleterre demanda Dominique de Gourgue au Roy pour Commander son Armée Navale destinée contre les Espagnols qui s’estoient emparez du Portugal, mais en passant à Tours pour monter par ordre du Roy cette Flotte, il y tomba malade, il y mourut &amp; fut enterré dans le Chœur de saint Martin de Tours en 1593.</p>
+      </div>
     </body>
   </text>
 </TEI>

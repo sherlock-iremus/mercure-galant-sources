@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <castList>
           <castItem xml:id="le-fleuret"/>
           <castItem xml:id="l-epee"/>
         </castList>
-        <quote><label rend="center">Dialogue</label>
+        <quote>
+          <label rend="center">Dialogue</label>
           <label rend="center">Du</label>
           <label rend="center">Fleuret &amp; de l’Epée.</label>
           <sp who="le-fleuret">
@@ -142,8 +142,9 @@
             <l>Et de quelque façon que cesse mon bonheur,</l>
             <l>Toûjours soûmis à vostre empire,</l>
             <l>Pour vous qui m’enflâmez j’auray la mesme ardeur.</l>
-          </sp></quote>
+          </sp>
+        </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

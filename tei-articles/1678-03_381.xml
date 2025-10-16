@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>On m’apporte un Air nouveau à boire, que je ne puis me résoudre à vous garder jusqu’à
-          l’autre Mois. En voicy les Paroles.</p>
+    <body>
+      <div>
+        <p>On m’apporte un Air nouveau à boire, que je ne puis me résoudre à vous garder jusqu’à l’autre Mois. En voicy les Paroles.</p>
         <quote>
           <label>AIR A BOIRE.</label>
-          <note resp="author" place="margin"><hi rend="i">Avis pour
-              placer les Figures</hi> : l’Air qui commence par, Du Vin, du Vin, doit regarder la
-            page 382.</note>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par, Du Vin, du Vin, doit regarder la page 382.</note>
           <lg>
             <l rend="i">Du Vin, du Vin, du Vin. Ah, le maudit Laquais !</l>
             <l rend="i"><space/><space/>Voila trois fois que j’en demande.</l>
@@ -36,9 +32,7 @@
             <l rend="i"><space/><space/>Et chacun boit quand il luy plaist.</l>
           </lg>
         </quote>
-        <p>Cet Air dont vous voyez icy la Note, est du fameux M<hi rend="sup">r</hi> Sicard. Il est
-          à sa maniere, qui est toûjours pleine de feu, &amp; qui ne manque jamais d’avoir quelque
-          chose d’extraordinaire.</p>
+        <p>Cet Air dont vous voyez icy la Note, est du fameux M<hi rend="sup">r</hi> Sicard. Il est à sa maniere, qui est toûjours pleine de feu, &amp; qui ne manque jamais d’avoir quelque chose d’extraordinaire.</p>
         <ref target="images/1678-03_381.JPG">
           <figure>
             <graphic url="images/1678-03_381.JPG"/>

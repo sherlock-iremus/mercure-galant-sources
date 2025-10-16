@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>On continuë toûjours à ne point douter de la grossesse de Madame la Dauphine. Vous pouvez
-          juger combien la Cour en ressent de joye. Voicy un Sonnet en Bouts-rimez, qui vous fera
-          voir que cette joye se répand par tout. Vous y trouverez beaucoup d’esprit. Quand on est
-          gesné par la contrainte des Rimes, il est impossible de s’exprimer aussi noblement que la
-          matiere le demande.</p>
+    <body>
+      <div>
+        <p>On continuë toûjours à ne point douter de la grossesse de Madame la Dauphine. Vous pouvez juger combien la Cour en ressent de joye. Voicy un Sonnet en Bouts-rimez, qui vous fera voir que cette joye se répand par tout. Vous y trouverez beaucoup d’esprit. Quand on est gesné par la contrainte des Rimes, il est impossible de s’exprimer aussi noblement que la matiere le demande.</p>
         <quote>
           <label>SUR LA GROSSESSE<lb/>de Madame la Dauphine.<lb/>SONNET.</label>
           <lg>
@@ -51,6 +46,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

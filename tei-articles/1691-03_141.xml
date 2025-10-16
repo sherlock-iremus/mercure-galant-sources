@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
-        <p>Voicy d’autres Vers qui n’ont besoin que du nom de leur Auteur pour s’attirer les
-          loüanges qu’ils meritent. Ils sont de M<hi rend="sup">r</hi> de Messange, connu par divers
-          Traitez qui ont esté favorablement receus du Public.</p>
+        <p>Voicy d’autres Vers qui n’ont besoin que du nom de leur Auteur pour s’attirer les loüanges qu’ils meritent. Ils sont de M<hi rend="sup">r</hi> de Messange, connu par divers Traitez qui ont esté favorablement receus du Public.</p>
         <quote>
           <label>DECLARATION<lb/>d’Amour</label>
           <lg>
@@ -71,6 +68,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

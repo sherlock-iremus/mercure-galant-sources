@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,19 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>On ne parle icy que de divertissemens, &amp; jamais les Balets &amp; la Musique ne furent
-          si à la mode. Les Comédiens du Marais ont représenté depuis peu une Piece qui en est toute
-          remplie ; elle est initulée <hi rend="i">le Mariage de Bachus et d’Ariane</hi> ; les
-          Chansons en ont paru fort agreables, &amp; les Airs en sont faits par ce fameux Monsieur
-          de Moliere, dont le mérite est si connu, &amp; qui a travaillé tant d’années aux Airs des
-          Balets du Roy : Elle est de l’Autheur <hi rend="i">des Amours du Soleil</hi>, qui firent
-          tant de bruit l’année dernière, &amp; qui cet Hyver ont encor occupé le Theatre pendant
-          deux mois. Je ne vous diray rien à l’avantage de ses Pieces, il est trop de mes Amis,
-          &amp; les loüanges que je luy donnerois seroient peut-estre suspectes.</p>
+    <body>
+      <div>
+        <p>On ne parle icy que de divertissemens, &amp; jamais les Balets &amp; la Musique ne furent si à la mode. Les Comédiens du Marais ont représenté depuis peu une Piece qui en est toute remplie ; elle est initulée <hi rend="i">le Mariage de Bachus et d’Ariane</hi> ; les Chansons en ont paru fort agreables, &amp; les Airs en sont faits par ce fameux Monsieur de Moliere, dont le mérite est si connu, &amp; qui a travaillé tant d’années aux Airs des Balets du Roy : Elle est de l’Autheur <hi rend="i">des Amours du Soleil</hi>, qui firent tant de bruit l’année dernière, &amp; qui cet Hyver ont encor occupé le Theatre pendant deux mois. Je ne vous diray rien à l’avantage de ses Pieces, il est trop de mes Amis, &amp; les loüanges que je luy donnerois seroient peut-estre suspectes.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

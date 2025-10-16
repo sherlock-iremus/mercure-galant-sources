@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-                
-                
-                <p>Il est arrivé une Corvette de la Martinique, qui a
-                        rapporté que M. du Gué-Troüin en revenoit avec M. du Casse, &amp; qu’il étoit richement
-                        chargé.</p>
-            </div>
+    <body>
+      <div>
+        <p>Il est arrivé une Corvette de la Martinique, qui a rapporté que M. du Gué-Troüin en revenoit avec M. du Casse, &amp; qu’il étoit richement chargé.</p>
+      </div>
     </body>
   </text>
 </TEI>

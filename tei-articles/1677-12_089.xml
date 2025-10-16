@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,9 +14,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Je sçay, Madame, que ces témoignages de joye &amp; de respect rendus à ce grand Ministre, n’auront rien de surprenant pour vous à qui tout son merite est connu ; mais il vous le sera sans doute d’apprendre la Conversation de l’Indifferent à qui vous avez tant de fois reprochés l’air tranquille qui paroist dans toutes ses actions, &amp; cette Philosophie soit naturelle, soit artificielle dont il se pique, quoy que la plûpart des Gens la regardent en luy comme un defaut. Le croirez-vous, Madame ? Il aime, &amp; apparemment il ne cessera pas si-tost d’aimer, car quand l’Amour s’est une fois rendu maistre de ces cœurs Philosophes qui luy ont long-temps resisté, comme il ne seroit pas assuré d’y rentrer quand il voudroit, il n’abandonne pas aisément la place. Voicy ce que j’en ay pû découvrir. Il voyoit souvent une jeune &amp; fort aimable Personne, &amp; n’avoit commencé à la voir que parce qu’elle aime les Livres &amp; qu’elle a l’esprit tres-éclairé. Apres luy avoir donné ses avis sur les lectures qu’elle devoit faire pour ne rien apprendre confusément, il s’offrit à luy servir de Maistre pour l’Italien ; &amp; à force de luy faire dire, <hi rend="i">j’aime</hi>, dans une autre langue que la sienne, il souhaita d’en estre veritablement aimé. Ses regards parlerent, &amp; comme c’estoit un langage que la Belle n’entendoit pas, ou qu’elle feignoit de ne point entendre, il ne put s’empescher un jour de luy reprocher son peu de sensibilité. Elle se defendit de ce reproche sur l’estime particuliere qu’elle avoit pour luy. Vous sçavez, Madame, que l’estime ne satisfait point un Amant. Il luy declara qu’il en vouloit à son cœur, &amp; qu’il se tiendroit malheureux tant qu’elle luy en refuseroit la tendresse. La Belle détourna ce discours, &amp; fit si-bien pendant quelque temps, qu’il ne pût trouver aucune occasion favorable de le poursuivre. Il devint chagrin, &amp; resvoit aux moyens de faire expliquer celle qu’il aimoit, quand on le vint consulter sur des Vers écrits d’une main qui lui estoit inconnuë. Il est du mestier, &amp; ceux que vous avez veus de sa façon, vous donnent assez lieu de croire qu’on s’en pouvoit rapporter à luy. Il prit le papier qu’on luy donna, &amp; leut ce qui suit sans s’attacher qu’à la netteté de la Poësie.</p>
         <quote>
           <lg>
@@ -218,6 +217,6 @@
         <p>Je croy, Madame, que sans en excepter Petrarque, &amp; Laure d’amoureuse memoire, voila l’intrigue la plus poëtique dont on ait jamais entendu parler, car elle l’est des deux costez. Nous ne trouvons point les Vers que la belle Laure a faits pour répondre à ceux de Pétrarque ; mais cette Laure-cy paye son Petrarque en mesme monnoye, &amp; l’attachement qu’ils ont l’un pour l’autre s’est tellement augmenté par cet agreable commerce de Poësie, qu’ils semblent n’avoir plus de joye qu’en se voyant. Je les attens au Sacrement, s’il vont jamais jusques-là ; car il n’y a guere de passions qu’il n’affoiblisse, &amp; l’Amour dans l’ordinaire, demeure tellement déconcerté par le Mariage, qu’on a quelque raison d’assurer qu’il n’a point de plus irréconciliable Ennemy.</p>
         <p>Ce n’est pas pourtant une regle absolument generale, &amp; ce que je vay vous dire d’une jeune Personne de la plus haute Qualité, vous en fera voir l’exception. Il y a peu de temps qu’elle est mariée, &amp; les belles qualitez de l’Epoux qu’elle a fait heureux le rendent si digne de posseder tout son cœur, qu’elle n’a point mis de bornes à sa tendresse. Elle voudroit le voir dans tous les momens du jour, &amp; vous pouvez juger du plaisir qu’elle s’en fait par le genre de consolation qu’elle choisit dernierement pendant un Voyage qu’il fut obligé de faire sans elle à la Cour. Elle se souvint d’avoir veu son Portrait dans un lieu où elle avoit tout pouvoir. Elle y courut, le détacha elle-mesme de l’endroit où il avoit esté placé, le fit porter à sa Chambre, passa la plus grande partie de la nuit à le regarder, &amp; je ne sçay si elle ne luy fit point de tendres caresses. Si toutes les Femmes aimoient avec une aussi forte passion, il n’y auroit pas un si grand nombre de Marys Coquets, &amp; on seroit ravy de trouver chez soy l’Amour Complaisant que le chagrin engage quelquefois à chercher ailleurs. Quelque estat de vie qu’on ait embrassé, il est toûjours bon d’avoir une grande exactitude à s’aquiter des devoirs qu’il nous en impose.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

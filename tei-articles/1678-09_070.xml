@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,20 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div copyOf="JLB-MG-1678-09_069">
-        
-        
+    <body>
+      <div copyOf="JLB-MG-1678-09_069">
         <figure>
           <graphic url="../img/MG-1678-09_NPb.png"/>
-          <desc><hi rend="n">Avis pour placer les Figures : </hi>le Mausolée de feu Monsieur le
-            Mareschal du Plessis, doit regarder la page 69.</desc>
+          <desc><hi rend="n">Avis pour placer les Figures : </hi>le Mausolée de feu Monsieur le Mareschal du Plessis, doit regarder la page 69.</desc>
         </figure>
-        <p>On travaille de toutes manieres pour la gloire des Grands Hommes. Ce qu’on a fait par un
-          Mausolée pour M<hi rend="sup">r</hi> le Mareschal du Plessis, M<hi rend="sup">r</hi> du
-          Perier l’a fait pour Messieurs de Guise par des Vers à mettre sous leurs Portraits. Je
-          vous les envoye. Ils vous apprendront que M<hi rend="sup">r</hi> du Perier n’a pas moins
-          de talent pour la Poësie Françoise, que vous sçavez il y a longtemps qu’il en a pour la
-          Latine.</p>
+        <p>On travaille de toutes manieres pour la gloire des Grands Hommes. Ce qu’on a fait par un Mausolée pour M<hi rend="sup">r</hi> le Mareschal du Plessis, M<hi rend="sup">r</hi> du Perier l’a fait pour Messieurs de Guise par des Vers à mettre sous leurs Portraits. Je vous les envoye. Ils vous apprendront que M<hi rend="sup">r</hi> du Perier n’a pas moins de talent pour la Poësie Françoise, que vous sçavez il y a longtemps qu’il en a pour la Latine.</p>
         <quote>
           <label rend="center">POUR METTRE <lb/>SOUS LES PORTRAITS <lb/>DES DUCS DE GUYSE</label>
           <label rend="center">CLAUDE.</label>
@@ -102,6 +95,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Le premier jour de ce Mois, l’Evesque de Basle qui fait sa résidence à Polentruck, fit
-          chanter le <hi rend="i">Te deum</hi> pour la Paix conclue entre la France &amp;
-          l’Empereur. Il donna ensuite un fort grand Repas à plus de cinquante Personnes. On but les
-          Santez de Sa Majesté, de l’Empereur, &amp; du Roy d’Espagne. Cette Réjoüissance finit par
-          le bruit de l’Artillerie, &amp; par les feux des Habitans, à qui on distribua quantité de
-          Vin par ‘ordre de ce Prélat.</p>
+    <body>
+      <div>
+        <p>Le premier jour de ce Mois, l’Evesque de Basle qui fait sa résidence à Polentruck, fit chanter le <hi rend="i">Te deum</hi> pour la Paix conclue entre la France &amp; l’Empereur. Il donna ensuite un fort grand Repas à plus de cinquante Personnes. On but les Santez de Sa Majesté, de l’Empereur, &amp; du Roy d’Espagne. Cette Réjoüissance finit par le bruit de l’Artillerie, &amp; par les feux des Habitans, à qui on distribua quantité de Vin par ‘ordre de ce Prélat.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

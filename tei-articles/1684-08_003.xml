@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,37 +14,36 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <quote>
-            <lg>
-              <l rend="i">Le Régne de LOUIS, le plus grand Roy du monde,</l>
-              <l rend="i">Semble avoir réüny les grands évenemens ;</l>
-              <l rend="i">Il brave les Saisons, dompte les Elémens,</l>
-              <l rend="i">Joint les Mers, à ses Loix soûmet la Terre &amp; l’Onde.</l>
-            </lg>
-            <ab type="ornament">***</ab>
-            <lg>
-              <l rend="i">Son Royaume paisible en mille Biens abonde,</l>
-              <l rend="i">Il donne à ses grandeurs d’eternels fondemens ;</l>
-              <l rend="i">Et Diane &amp; Vénus quittant leurs Monumens,</l>
-              <l rend="i">Viennent pour admirer sa sagesse profonde.</l>
-            </lg>
-            <ab type="ornament">***</ab>
-            <lg>
-              <l rend="i">L’une &amp; l’autre s’empresse, &amp; dispute aujourd’huy,</l>
-              <l rend="i">Pour se faire connoistre, &amp; se donner à Luy ;</l>
-              <l rend="i">Et nos Neveux charmez, en lisant son Histoire,</l>
-            </lg>
-            <ab type="ornament">***</ab>
-            <lg>
-              <l rend="i">Dans les Siecles futurs se diront tour-à-tour,</l>
-              <l rend="i">Les Hommes n’ayant rien pour répondre à sa gloire,</l>
-              <l rend="i">Les Dieux mirent leurs soins à luy faire la Cour.</l>
-            </lg>
-          </quote>
-        </div>
-        </body>
+    <body>
+      <div>
+        <quote>
+          <lg>
+            <l rend="i">Le Régne de LOUIS, le plus grand Roy du monde,</l>
+            <l rend="i">Semble avoir réüny les grands évenemens ;</l>
+            <l rend="i">Il brave les Saisons, dompte les Elémens,</l>
+            <l rend="i">Joint les Mers, à ses Loix soûmet la Terre &amp; l’Onde.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l rend="i">Son Royaume paisible en mille Biens abonde,</l>
+            <l rend="i">Il donne à ses grandeurs d’eternels fondemens ;</l>
+            <l rend="i">Et Diane &amp; Vénus quittant leurs Monumens,</l>
+            <l rend="i">Viennent pour admirer sa sagesse profonde.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l rend="i">L’une &amp; l’autre s’empresse, &amp; dispute aujourd’huy,</l>
+            <l rend="i">Pour se faire connoistre, &amp; se donner à Luy ;</l>
+            <l rend="i">Et nos Neveux charmez, en lisant son Histoire,</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l rend="i">Dans les Siecles futurs se diront tour-à-tour,</l>
+            <l rend="i">Les Hommes n’ayant rien pour répondre à sa gloire,</l>
+            <l rend="i">Les Dieux mirent leurs soins à luy faire la Cour.</l>
+          </lg>
+        </quote>
+      </div>
+    </body>
   </text>
 </TEI>

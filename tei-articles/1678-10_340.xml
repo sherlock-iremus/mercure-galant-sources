@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Le Roy a donné une Abbaye à M<hi rend="sup">r</hi> Robert Maistre de Musique de sa
-          Chapelle. Ses Ouvrages luy ont attiré souvent les applaudissemens de Sa Majesté, &amp; ce
-          n’est pas sans avoir bien connu son merite que ce Prince l’a récompensé.</p>
+    <body>
+      <div>
+        <p>Le Roy a donné une Abbaye à M<hi rend="sup">r</hi> Robert Maistre de Musique de sa Chapelle. Ses Ouvrages luy ont attiré souvent les applaudissemens de Sa Majesté, &amp; ce n’est pas sans avoir bien connu son merite que ce Prince l’a récompensé.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

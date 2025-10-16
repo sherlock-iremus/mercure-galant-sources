@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p/>
-          <p>J'ay déja parlé de quelques Particuliers, qui seuls ont fait autant que des Corps ; &amp; j'ay crû devoir le faire connoistre, parce que c'est une chose, qui n'a jamais esté faite que pour le Roy. Aussi me paroît-elle plus à remarquer à cause du zele, dans cette occasion où l'on avoit craint pour une vie si precieuse à l'Etat, que ce qu'on a fait des Villes &amp; des Provinces. M<hi rend="sup">r</hi> de Cuvillier, Renoüeur &amp; Valet de Chambre ordinaire du Roy, s'est trouvé du nombre des Particuliers dont je vous parle. Il fit chanter un <hi rend="i">Te Deum</hi> aux grands Augustins le 26. de Janvier. Les Trompetes &amp; les Timbales s'y firent entendre. Il y eut Procession, en laquelle quatre Armeniens porterent des flambeaux, ayant voulu faire voir que les Etrangers s'interessoient au bonheur public. On tira en ce lieu-là deux cens Boëtes, qui furent encore tirées après la ceremonie devant le logis de M<hi rend="sup">r</hi> de Cuvillier, où on alluma un feu de joye.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p/>
+        <p>J'ay déja parlé de quelques Particuliers, qui seuls ont fait autant que des Corps ; &amp; j'ay crû devoir le faire connoistre, parce que c'est une chose, qui n'a jamais esté faite que pour le Roy. Aussi me paroît-elle plus à remarquer à cause du zele, dans cette occasion où l'on avoit craint pour une vie si precieuse à l'Etat, que ce qu'on a fait des Villes &amp; des Provinces. M<hi rend="sup">r</hi> de Cuvillier, Renoüeur &amp; Valet de Chambre ordinaire du Roy, s'est trouvé du nombre des Particuliers dont je vous parle. Il fit chanter un <hi rend="i">Te Deum</hi> aux grands Augustins le 26. de Janvier. Les Trompetes &amp; les Timbales s'y firent entendre. Il y eut Procession, en laquelle quatre Armeniens porterent des flambeaux, ayant voulu faire voir que les Etrangers s'interessoient au bonheur public. On tira en ce lieu-là deux cens Boëtes, qui furent encore tirées après la ceremonie devant le logis de M<hi rend="sup">r</hi> de Cuvillier, où on alluma un feu de joye.</p>
+      </div>
+    </body>
   </text>
 </TEI>

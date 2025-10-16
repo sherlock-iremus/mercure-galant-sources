@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,9 +14,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Je ne vous envoye point ce qui a esté imprimé, &amp; qui pourroit n’estre point nouveau pour vous. Je m’arreste seulement à ce qui ne peut avoir esté veu que de fort peu de Personnes, &amp; c’est par là que je vous fais part de ces Vers, où vous trouverez plus de naturel, que de cette élevation pompeuse qui a quelquefois plus de grands mots que de bon sens. Ils sont de M<hi rend="sup">r</hi> de Mimur, dont le Pere est Conseiller au Parlement de Dijon. Ce jeune Gentilhomme fut donné pour Page de la Chambre à Monseigneur le Dauphin, dans le temps que Monsieur de Montausier fut fait Gouverneur de ce Prince. Quoy que M<hi rend="sup">r</hi> de Mimur n’eust pas encor dix ans, il passoit déja pour un prodige. Il sçavoit parfaitement l’Histoire &amp; la Chronologie ; les Sciences les plus relevées luy estoient familieres, &amp; il en donna déslors d’assez glorieuses marques, en confondant plusieurs Personnes qui en presence d’un grand Prince, s’attacherent à luy faire des Questions. Son merite augmente tous les jours, aussi-bien que sa modestie, qui l’auroit toûjours empesché de laisser courir ces Vers, si ses Amis n’avoient eu assez de memoire pour en tirer une Copie malgré luy.</p>
         <quote>
           <label>VERS IRREGULIERS <lb/><hi rend="sc">pour le Roy</hi>.</label>
@@ -28,7 +27,10 @@
             <l rend="i">Qui serviroit à peine à parler de nos Bois,</l>
             <l rend="i">Ou du travail que fait l’Abeille au Mont Himette,</l>
             <l rend="i">Oserois-je chanter comme en moins de deux mois</l>
-            <l><hi rend="sc">Loüis</hi> <hi rend="i">a sçeu ranger trois Villes sous ses Loix ?</hi></l>
+            <l>
+              <hi rend="sc">Loüis</hi>
+              <hi rend="i">a sçeu ranger trois Villes sous ses Loix ?</hi>
+            </l>
             <l rend="i">Oserois-je conter la sanglante Défaite</l>
             <l rend="i"> Qui met le Flamand aux abois,</l>
             <l rend="i"> Et tant de surpenans Exploits,</l>
@@ -74,6 +76,6 @@
         </quote>
         <p>On ne peut douter que Sa Majesté n’ait exposé sa personne à bien des périls, puis qu’il ne s’est rien fait où l’on n’ait marqué les alarmes de la France pour cet Auguste Monarque.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Il est des Amans dont la constance merite d’estre récompensée, &amp; ils seroient assez
-          dignes d’estre heureux, s’ils ressembloient tous à celuy qu’on a fait parler dans ce
-          Sonnet.</p>
+    <body>
+      <div>
+        <p>Il est des Amans dont la constance merite d’estre récompensée, &amp; ils seroient assez dignes d’estre heureux, s’ils ressembloient tous à celuy qu’on a fait parler dans ce Sonnet.</p>
         <quote rend="border">
           <label rend="center">Sonnet.</label>
           <lg>
@@ -49,6 +46,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-    
-    
-    <p>L’esprit se faisant connoistre de toutes manieres, M<hi rend="sup">r</hi> de Hautefeüile a
-     fait voir la solidité du sien, par le Traité qui porte pour titre, <hi rend="i">L’Art de
-      respirer sous l’eau, &amp; le moyen d’entretenir pendant un temps considérable la flâme
-      enfermée dans un petit lieu</hi>. Ces deux merveilleux effets paroissent prouvez si nettement,
-     dans ce que l’Autheur en a écrit, qu’il est difficile de ne se pas rendre à ses raisons. On n’a
-     rien à opposer quand l’épreuve les confirme.</p>
-   </div>
-   </body>
+    <body>
+      <div>
+        <p>L’esprit se faisant connoistre de toutes manieres, M<hi rend="sup">r</hi> de Hautefeüile a fait voir la solidité du sien, par le Traité qui porte pour titre, <hi rend="i">L’Art de respirer sous l’eau, &amp; le moyen d’entretenir pendant un temps considérable la flâme enfermée dans un petit lieu</hi>. Ces deux merveilleux effets paroissent prouvez si nettement, dans ce que l’Autheur en a écrit, qu’il est difficile de ne se pas rendre à ses raisons. On n’a rien à opposer quand l’épreuve les confirme.</p>
+      </div>
+    </body>
   </text>
 </TEI>

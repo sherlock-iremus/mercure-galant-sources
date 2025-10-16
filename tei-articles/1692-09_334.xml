@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Ce qui est fait à la loüange du Roy ne lasse jamais, puïsqu'il n'y a point d'éloges qu'il ne merite. Ainsi vous ne serez pas fâchée d'avoir encore à chanter les Vers qui suivent pour vous réjoüir avec tous les François, des avantages de ce grand Monarque.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">Lors que Louis, &amp;c.</hi> pag. 335.</note>
-          <lg><l rend="i">Lors que Loüis est en couroux,</l>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">Lors que Louis, &amp;c.</hi> pag. 335.</note>
+          <lg>
+            <l rend="i">Lors que Loüis est en couroux,</l>
             <l rend="i">Tout cede au pouvoir de ses armes.</l>
             <l rend="i">Vous qui luy resistez de sa gloire jaloux,</l>
             <l rend="i">Princes liguez, craignez ses coups ;</l>
@@ -34,7 +35,8 @@
             <l rend="i">Namur dans l'obeïssance</l>
             <l rend="i">Publie en ce jour sa puissance.</l>
             <l rend="i">Le plus grand des Heros triomphe seul de tous ;</l>
-            <l rend="i">François, réjouissons nous.</l></lg>
+            <l rend="i">François, réjouissons nous.</l>
+          </lg>
         </quote>
         <ref target="images/1692-09_334.JPG">
           <figure>
@@ -42,6 +44,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

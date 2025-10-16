@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,23 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-    
-    
-    <p>La pieté de ce Prince n’est pas moins considérable que ses autres qualitez. Il la fit encor
-     paroistre le Vendredy 15. de ce mois, Feste de l’Assomption, dans l’Eglise des Carmes des
-     Basses-Loges, pres Fontainebleau. Apres y avoir fait ses devotions, il entendit la Grand’ Messe
-     chantée par les Religieux. Le lendemain, Feste de S. Roch, la Reyne assista au Salut dans le
-     mesme Lieu. Ce n’estoit autrefois qu’une Chapelle, que la feuë Reyne Mere avoit choisie, pour y
-     faire ses devotions ordinaires, quand Sa Majesté estoit à Fontainebleau ; &amp; le Roy voulant
-     seconder les pieuses intentions de cette Princesse, fit bâtir l’Eglise des Basses-Loges en
-     1661. pour rendre graces à Dieu de l’heureuse naissance de Monseigneur le Dauphin. Ces
-     Basses-Loges ne sont qu’un Hospice dépendant du Convent des Carmes des Billetes de Paris, qui
-     sont de la Province nommée de Touraine, &amp; d’une Réforme particuliere, distincte des autres
-     Provinces des Carmes, par des Constitutions Apostoliques, &amp; par des Lettres Patentes du
-     Roy. Cette Réforme a commencé environ dix-huit ans apres la mort de Sainte Thérese, dans le
-     Convent des Carmes de Rennes.</p>
-   </div>
-   </body>
+    <body>
+      <div>
+        <p>La pieté de ce Prince n’est pas moins considérable que ses autres qualitez. Il la fit encor paroistre le Vendredy 15. de ce mois, Feste de l’Assomption, dans l’Eglise des Carmes des Basses-Loges, pres Fontainebleau. Apres y avoir fait ses devotions, il entendit la Grand’ Messe chantée par les Religieux. Le lendemain, Feste de S. Roch, la Reyne assista au Salut dans le mesme Lieu. Ce n’estoit autrefois qu’une Chapelle, que la feuë Reyne Mere avoit choisie, pour y faire ses devotions ordinaires, quand Sa Majesté estoit à Fontainebleau ; &amp; le Roy voulant seconder les pieuses intentions de cette Princesse, fit bâtir l’Eglise des Basses-Loges en 1661. pour rendre graces à Dieu de l’heureuse naissance de Monseigneur le Dauphin. Ces Basses-Loges ne sont qu’un Hospice dépendant du Convent des Carmes des Billetes de Paris, qui sont de la Province nommée de Touraine, &amp; d’une Réforme particuliere, distincte des autres Provinces des Carmes, par des Constitutions Apostoliques, &amp; par des Lettres Patentes du Roy. Cette Réforme a commencé environ dix-huit ans apres la mort de Sainte Thérese, dans le Convent des Carmes de Rennes.</p>
+      </div>
+    </body>
   </text>
 </TEI>

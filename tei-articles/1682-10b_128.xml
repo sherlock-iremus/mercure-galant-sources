@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
-        <p>La Fable qui suit ne doit pas déplaire à vostre beau Sexe. La moralité en est tout-à-fait
-          à son avantage.</p>
+    <body>
+      <div>
+        <p>La Fable qui suit ne doit pas déplaire à vostre beau Sexe. La moralité en est tout-à-fait à son avantage.</p>
         <quote>
           <label>LE ROSSIGNOL,<lb/>FABLE.</label>
           <lg>
@@ -102,6 +99,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

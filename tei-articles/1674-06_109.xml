@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Pour passer de la Prose au Vers, je vous envoye une Eglogue qui a esté icy estime de
-          toutes les Personnes de bon goust, &amp; par cette raison je ne doute pas qu’elle ne soit
-          selon le vostre.</p>
+    <body>
+      <div>
+        <p>Pour passer de la Prose au Vers, je vous envoye une Eglogue qui a esté icy estime de toutes les Personnes de bon goust, &amp; par cette raison je ne doute pas qu’elle ne soit selon le vostre.</p>
         <quote rend="border">
           <label rend="center b">Eglogue.</label>
           <speaker>Celimene.</speaker>
@@ -158,6 +155,6 @@
           <l>Et prenne qui voudra le soin de mon Troupeau.</l>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

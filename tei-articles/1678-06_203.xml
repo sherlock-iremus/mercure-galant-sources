@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>La Paix qu’on a tout lieu d’esperer, nous produira d’autres avantages. Il y a longtemps
-          que nos Ennemis reconnoissoient qu’elle leur estoit necessaire ; mais sçavez-vous pourquoy
-          elle commençoit à le devenir pour nous ? Vous l’allez apprendre par les Vers qui
-          suivent.</p>
+    <body>
+      <div>
+        <p>La Paix qu’on a tout lieu d’esperer, nous produira d’autres avantages. Il y a longtemps que nos Ennemis reconnoissoient qu’elle leur estoit necessaire ; mais sçavez-vous pourquoy elle commençoit à le devenir pour nous ? Vous l’allez apprendre par les Vers qui suivent.</p>
         <quote>
           <l>Apres tant de Combats qu’a suivis la Victoire,</l>
           <l><space/>On a grand besoin de la Paix,</l>
@@ -42,10 +38,8 @@
           <l>Consacrez à l’envy vos talens à sa gloire,</l>
           <l><space/>Ils ne peuvent mieux s’employer.</l>
         </quote>
-        <p>Ces Vers m’ont esté envoyez de Dieppe, &amp; sont de M<hi rend="sup">r</hi> Merville, qui
-          dans une fort grande jeunesse fait connoistre par tout ce qu’il fait qu’il est né pour la
-          Poësie.</p>
+        <p>Ces Vers m’ont esté envoyez de Dieppe, &amp; sont de M<hi rend="sup">r</hi> Merville, qui dans une fort grande jeunesse fait connoistre par tout ce qu’il fait qu’il est né pour la Poësie.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

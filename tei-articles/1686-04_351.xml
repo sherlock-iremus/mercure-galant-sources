@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
+    <body>
+      <div>
         <p/>
-        <p>Vous estiez fachée que <hi rend="i">l’Histoire des Troubles de Hongrie</hi> finist en
-          l’année 1683. Vous allez estre contente, puisque je vous apprens que l’Autheur en a fait
-          une quatriéme Partie, qui contient le Siege de Bude, la Prise de Neuhausel, &amp; tout ce
-          qui s’est passé entre l’Armée des Imperiaux, &amp; les Troupes Ottomanes jusqu’à la fin de
-          l’année 1685. Cette quatriéme Partie se débitera au commencement du mois prochain chez le
-            S<hi rend="sup">r</hi> de Luynes au Palais à la Justice, &amp; chez la Veuve Blageart
-          Court-Neuve du Palais, au Dauphin. Je suis, Madame, vôtre, &amp;c.</p>
+        <p>Vous estiez fachée que <hi rend="i">l’Histoire des Troubles de Hongrie</hi> finist en l’année 1683. Vous allez estre contente, puisque je vous apprens que l’Autheur en a fait une quatriéme Partie, qui contient le Siege de Bude, la Prise de Neuhausel, &amp; tout ce qui s’est passé entre l’Armée des Imperiaux, &amp; les Troupes Ottomanes jusqu’à la fin de l’année 1685. Cette quatriéme Partie se débitera au commencement du mois prochain chez le S<hi rend="sup">r</hi> de Luynes au Palais à la Justice, &amp; chez la Veuve Blageart Court-Neuve du Palais, au Dauphin. Je suis, Madame, vôtre, &amp;c.</p>
       </div>
     </body>
   </text>

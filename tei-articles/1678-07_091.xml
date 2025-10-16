@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Vous jugez bien, Madame, que ce qui vient d’arriver à Toulouse a fait d’abord l’entretien
-          de toute la Ville. On ne s’est pas contenté d’en parler. Un fort galant Homme de ce
-          Païs-là en a pris occasion de se plaindre par ces Vers du trop de rigueur d’une belle
-          Dame.</p>
+    <body>
+      <div>
+        <p>Vous jugez bien, Madame, que ce qui vient d’arriver à Toulouse a fait d’abord l’entretien de toute la Ville. On ne s’est pas contenté d’en parler. Un fort galant Homme de ce Païs-là en a pris occasion de se plaindre par ces Vers du trop de rigueur d’une belle Dame.</p>
         <quote>
           <label>STANCES À IRIS,<lb/>Sur le Prodige de l’Enfant <lb/>pétrifié.</label>
           <lg>
@@ -89,6 +85,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

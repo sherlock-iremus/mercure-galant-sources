@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,29 +14,39 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p>Les paroles que je vous envoye ont esté mises en chant par Mr le Camus.</p>
-          <quote>
-            <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : [l’Air] qui commence par <hi rend="i">Perfide Amour</hi>, doit regarder la page 384.</note>
-            <lg>
-              <l><hi rend="i">Perfide Amour, je renonce à tes charmes,</hi></l>
-              <l> <hi rend="i">Mon Amant m’a manqué de foy :</hi></l>
-              <l> <hi rend="i">Que tes plaisirs coûtent de larmes :</hi></l>
-              <l><hi rend="i">Malheureux sont les cœurs qui vivent sous ta loy ;</hi></l>
-              <l><hi rend="i">Mais si l’ingrat revenoit dans ses chaisnes. ;</hi></l>
-              <l><hi rend="i">Si touché de regret, il me rendoit son cœur ;</hi></l>
-              <l><hi rend="i">J’éprouverois encor tes plaisirs &amp; tes peines :</hi></l>
-              <l> <hi rend="i">Je te demande Amour cette faveur.</hi></l>
-            </lg>
-          </quote>
-          <ref target="images/1708-12_383.JPG">
-            <figure>
-              <graphic url="images/1708-12_383.JPG"/>
-            </figure>
-          </ref>
-        </div>
-      </body>
+    <body>
+      <div>
+        <p>Les paroles que je vous envoye ont esté mises en chant par Mr le Camus.</p>
+        <quote>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : [l’Air] qui commence par <hi rend="i">Perfide Amour</hi>, doit regarder la page 384.</note>
+          <lg>
+            <l>
+              <hi rend="i">Perfide Amour, je renonce à tes charmes,</hi>
+            </l>
+            <l> <hi rend="i">Mon Amant m’a manqué de foy :</hi></l>
+            <l> <hi rend="i">Que tes plaisirs coûtent de larmes :</hi></l>
+            <l>
+              <hi rend="i">Malheureux sont les cœurs qui vivent sous ta loy ;</hi>
+            </l>
+            <l>
+              <hi rend="i">Mais si l’ingrat revenoit dans ses chaisnes. ;</hi>
+            </l>
+            <l>
+              <hi rend="i">Si touché de regret, il me rendoit son cœur ;</hi>
+            </l>
+            <l>
+              <hi rend="i">J’éprouverois encor tes plaisirs &amp; tes peines :</hi>
+            </l>
+            <l> <hi rend="i">Je te demande Amour cette faveur.</hi></l>
+          </lg>
+        </quote>
+        <ref target="images/1708-12_383.JPG">
+          <figure>
+            <graphic url="images/1708-12_383.JPG"/>
+          </figure>
+        </ref>
+      </div>
+    </body>
   </text>
 </TEI>

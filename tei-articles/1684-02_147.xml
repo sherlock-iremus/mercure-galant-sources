@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,23 +14,22 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <quote>
-            <label>ABSENCE.</label>
-            <lg>
-              <l rend="i">Je ne vous vois donc plus, jeune &amp; belle Climene,</l>
-              <l rend="i">Un destin trop jaloux m’éloigne de vos yeux.</l>
-              <l rend="i">Est-il rien de plus dur que la cruelle peine</l>
-              <l rend="i">De ne voir nulle part ce qu’on cherche en tous lieux ?</l>
-              <l rend="i">Aux plus sombres ennuis mon ame s’abandonne,</l>
-              <l rend="i">Je paye à chaque instant le tribut d’un soûpir,</l>
-              <l rend="i"> Et je n’ay plus que le plaisir</l>
-              <l rend="i"> De ne me plaire avec personne.</l>
-            </lg>
-          </quote>
-        </div>
-        </body>
+    <body>
+      <div>
+        <quote>
+          <label>ABSENCE.</label>
+          <lg>
+            <l rend="i">Je ne vous vois donc plus, jeune &amp; belle Climene,</l>
+            <l rend="i">Un destin trop jaloux m’éloigne de vos yeux.</l>
+            <l rend="i">Est-il rien de plus dur que la cruelle peine</l>
+            <l rend="i">De ne voir nulle part ce qu’on cherche en tous lieux ?</l>
+            <l rend="i">Aux plus sombres ennuis mon ame s’abandonne,</l>
+            <l rend="i">Je paye à chaque instant le tribut d’un soûpir,</l>
+            <l rend="i"> Et je n’ay plus que le plaisir</l>
+            <l rend="i"> De ne me plaire avec personne.</l>
+          </lg>
+        </quote>
+      </div>
+    </body>
   </text>
 </TEI>

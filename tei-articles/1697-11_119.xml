@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-          
-          <p>Je vais vous parler pour la troisiéme fois des <hi rend="i">Reflexions sur le Ridicule</hi>, parce que le même Libraire, vient d’en donner une troisiéme Edition. Elle est encore augmentée, &amp; vous ne devez pas douter que les nouvelles additions qui s’y trouvent, ne soient de bon goust, puisque M<hi rend="sup">r</hi> l’Abbé de Bellegarde, qui en est l’Auteur, pense tres-juste, &amp; qu’on auroit peine à s’exprimer plus heureusement.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>Je vais vous parler pour la troisiéme fois des <hi rend="i">Reflexions sur le Ridicule</hi>, parce que le même Libraire, vient d’en donner une troisiéme Edition. Elle est encore augmentée, &amp; vous ne devez pas douter que les nouvelles additions qui s’y trouvent, ne soient de bon goust, puisque M<hi rend="sup">r</hi> l’Abbé de Bellegarde, qui en est l’Auteur, pense tres-juste, &amp; qu’on auroit peine à s’exprimer plus heureusement.</p>
+      </div>
+    </body>
   </text>
 </TEI>

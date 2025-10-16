@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,20 +14,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <quote>
           <label>Au Lecteur.</label>
-          <p><hi rend="i">On croyoit mettre dans cette quatriéme Partie la Liste des Presens qu’on
-              envoye au Roy de Siam, à la Princesse Reine &amp; à M<hi rend="sup">r</hi> Constance,
-              &amp; de ceux que l’on fait aux trois Ambassadeurs ; mais comme on n’a pû l’avoir
-              assez tost, &amp; qu’on ne peut differer davantage à faire distribuer le Mercure de
-              Janvier, auquel cette quatriéme Partie est jointe, on avertit le Public qu’on donnera
-              cette Liste dans peu de jours. Ce sera un Ouvrage separé que ceux qui auront acheté ce
-              Volume y pourront faire adjoûter.</hi></p>
+          <p>
+            <hi rend="i">On croyoit mettre dans cette quatriéme Partie la Liste des Presens qu’on envoye au Roy de Siam, à la Princesse Reine &amp; à M<hi rend="sup">r</hi> Constance, &amp; de ceux que l’on fait aux trois Ambassadeurs ; mais comme on n’a pû l’avoir assez tost, &amp; qu’on ne peut differer davantage à faire distribuer le Mercure de Janvier, auquel cette quatriéme Partie est jointe, on avertit le Public qu’on donnera cette Liste dans peu de jours. Ce sera un Ouvrage separé que ceux qui auront acheté ce Volume y pourront faire adjoûter.</hi>
+          </p>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

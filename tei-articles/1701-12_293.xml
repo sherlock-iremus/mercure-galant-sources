@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,18 +14,20 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Je vous envoye un Air nouveau de la composition de M<hi rend="sup">r</hi> Mesnil Marchand. Les Paroles sont de M<hi rend="sup">r</hi> de Saint Lubau.</p>
         <quote>
-          <label>AIR A BOIRE.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par <hi rend="i">Ne cherissez que le jus de la Tonne</hi>, doit regarder la page [2]94.</note>
-          <lg><l rend="i">Ne cherissez que le jus de la Tonne</l>
+          <label>AIR A BOIRE.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par <hi rend="i">Ne cherissez que le jus de la Tonne</hi>, doit regarder la page [2]94.</note>
+          <lg>
+            <l rend="i">Ne cherissez que le jus de la Tonne</l>
             <l rend="i">Amans, pour adoucir vos cruelles langueurs,</l>
             <l rend="i">Puisque le Dieu du Vin vous comble de faveurs ;</l>
             <l rend="i">Profitez des bienfaits que sa bonté vous donne,</l>
             <l rend="i">Et preferez les douceurs de l'Automne</l>
-            <l rend="i">Aux plus tendres attraits de la saison des fleurs.</l></lg>
+            <l rend="i">Aux plus tendres attraits de la saison des fleurs.</l>
+          </lg>
         </quote>
         <ref target="images/1701-12_293.JPG">
           <figure>
@@ -33,6 +35,6 @@
           </figure>
         </ref>
       </div>
-        </body>
+    </body>
   </text>
 </TEI>

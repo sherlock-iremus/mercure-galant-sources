@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Voicy d’autres Vers, qui ont esté faits par une Personne de qualité, qui a toute la
-          délicatesse d’esprit que l’on peut avoir. Comme les premiers regardent Rüel, il y a sujet
-          de leur donner place dans cet Article.</p>
+    <body>
+      <div>
+        <p>Voicy d’autres Vers, qui ont esté faits par une Personne de qualité, qui a toute la délicatesse d’esprit que l’on peut avoir. Comme les premiers regardent Rüel, il y a sujet de leur donner place dans cet Article.</p>
         <quote>
           <label>LA NIMPHE DE RUEL,<lb/><hi rend="i">AU ROY.</hi></label>
           <lg>
@@ -38,6 +35,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

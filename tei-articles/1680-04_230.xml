@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,31 +14,22 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <quote>
           <label>Reponse de la dame </label>
-          <label>au Cavalier<note resp="editor">Le cavalier répond à la dame qui lui avait prêté
-                de l’argent pour lui permettre de continuer de jouer à la bassette. En lui envoyant
-                une bourse pour la rembourser, il y avait joint un billet contenant une poésie (cf.
-                p. 224-229 de la même livraison).</note>.</label>
-          <l><space rend="tab"> </space><space rend="tab"> </space>Songez-vous à ce que vous
-            faites,</l>
+          <label>au Cavalier<note resp="editor">Le cavalier répond à la dame qui lui avait prêté de l’argent pour lui permettre de continuer de jouer à la bassette. En lui envoyant une bourse pour la rembourser, il y avait joint un billet contenant une poésie (cf. p. 224-229 de la même livraison).</note>.</label>
+          <l><space rend="tab"> </space><space rend="tab"> </space>Songez-vous à ce que vous faites,</l>
           <l><space rend="tab"> </space>Lors que d’un air aussi fin qu’obligeant,</l>
           <l><space rend="tab"> </space><space rend="tab"> </space>En me renvoyant mon argent,</l>
           <l>Vous comptez vostre cœur pour une de vos debtes ?</l>
           <l/>
-          <l><space rend="tab"> </space><space rend="tab"> </space>Bornez vostre
-            reconnoissance ;</l>
-          <l><space rend="tab"> </space><space rend="tab"> </space>Tout ce que j’ay fait me
-            paroist</l>
+          <l><space rend="tab"> </space><space rend="tab"> </space>Bornez vostre reconnoissance ;</l>
+          <l><space rend="tab"> </space><space rend="tab"> </space>Tout ce que j’ay fait me paroist</l>
           <l><space rend="tab"> </space><space rend="tab"> </space>D’une si petite importance,</l>
-          <l><space rend="tab"> </space><space rend="tab"> </space>Que je ne vois point
-            d’aparence</l>
+          <l><space rend="tab"> </space><space rend="tab"> </space>Que je ne vois point d’aparence</l>
           <l>Qu’un cœur pour un tel soin à se donner soit prest ;</l>
-          <l><space rend="tab"> </space><space rend="tab"> </space>D’ailleurs, je ferois
-            conscience</l>
+          <l><space rend="tab"> </space><space rend="tab"> </space>D’ailleurs, je ferois conscience</l>
           <l>De mettre mon argent à si gros interest.</l>
           <l/>
           <l>Un si foible service à rien ne vous engage,</l>
@@ -47,28 +38,23 @@
           <l>La genérosité l’est plus du bel usage ;</l>
           <l>Ce que je vous prestay, vous me l’avez rendu,</l>
           <l>En ce siecle en doit-on demander davantage ?</l>
-          <l><space rend="tab"> </space><space rend="tab"> </space>Ah ! l’on est plus heureux que
-            sage,</l>
+          <l><space rend="tab"> </space><space rend="tab"> </space>Ah ! l’on est plus heureux que sage,</l>
           <l>Lors que l’argent presté n’est pas argent perdu.</l>
           <l/>
           <l>Grace à la probité qui vous est naturelle,</l>
           <l><space rend="tab"> </space>On ne court point ce danger avec vous ;</l>
-          <l><space rend="tab"> </space><space rend="tab"> </space>Mais malgré ce que j’ay veu
-            d’elle,</l>
+          <l><space rend="tab"> </space><space rend="tab"> </space>Mais malgré ce que j’ay veu d’elle,</l>
           <l><space rend="tab"> </space><space rend="tab"> </space>Malgré l’estime mutuelle</l>
           <l><space rend="tab"> </space>Que la Bassete a fait naître entre nous,</l>
           <l>Comme il est des Filoux de diférente espece,</l>
           <l><space rend="tab"> </space>Et qu’en amour presque tout est permis,</l>
-          <l><space rend="tab"> </space><space rend="tab"> </space>En vain vous vous estes
-            promis</l>
+          <l><space rend="tab"> </space><space rend="tab"> </space>En vain vous vous estes promis</l>
           <l><space rend="tab"> </space>D’avoir de moy tendresse pour tendresse.</l>
-          <l><space rend="tab"> </space><space rend="tab"> </space>Au seul nom d’amour je
-            frémis,</l>
+          <l><space rend="tab"> </space><space rend="tab"> </space>Au seul nom d’amour je frémis,</l>
           <l>Et pour fuir les chagrins qui le suivent sans cesse,</l>
-          <l><space rend="tab"> </space><space rend="tab"> </space>Demeurons quitte, &amp; bons
-            amis.</l>
+          <l><space rend="tab"> </space><space rend="tab"> </space>Demeurons quitte, &amp; bons amis.</l>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

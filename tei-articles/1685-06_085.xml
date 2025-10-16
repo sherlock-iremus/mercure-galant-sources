@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Voicy d’autres Vers qui ont été faits sur la Soûmission de la Republique de Genes. Ils
-          sont de M<hi rend="sup">r</hi> Salbray Valet de Chambre de Sa Majesté.</p>
+    <body>
+      <div>
+        <p>Voicy d’autres Vers qui ont été faits sur la Soûmission de la Republique de Genes. Ils sont de M<hi rend="sup">r</hi> Salbray Valet de Chambre de Sa Majesté.</p>
         <quote>
           <lg>
             <l rend="i">Cesar dans une Lettre apprenant au Sénat</l>
@@ -31,8 +29,7 @@
           </lg>
           <ab type="ornament">***</ab>
           <lg>
-            <l><hi rend="i">Les superbes Génois sont</hi> Venus <hi rend="i">&amp; l’ont</hi>
-              Veu</l>
+            <l><hi rend="i">Les superbes Génois sont</hi> Venus <hi rend="i">&amp; l’ont</hi> Veu</l>
             <l rend="i">Dans son Trône pompeux recevoir leur hommage,</l>
             <l>(<hi rend="i">D’un pouvoir triomphant illustre témoignage</hi>)</l>
             <l><hi rend="i">C’en est assez &amp; trop pour avoir mieux</hi> Vaincu.</l>
@@ -50,6 +47,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

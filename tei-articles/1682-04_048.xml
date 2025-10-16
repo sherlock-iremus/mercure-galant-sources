@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,19 +14,20 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Les Airs nouveaux que je continuë à vous envoyer, me viennent toûjours d´une bonne main. Ainsi, Madame, je ne doute point que vous ne soyez contente de celuy-cy.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par <hi rend="i">Aupres de vous je souffrois chaque jour</hi>, doit regarder la page 48.</note>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par <hi rend="i">Aupres de vous je souffrois chaque jour</hi>, doit regarder la page 48.</note>
           <lg>
             <l rend="i">Aupres de vous je souffrois chaque jour</l>
             <l rend="i">Tout ce que fait souffrir un malheureux amour.</l>
             <l rend="i">Je succombois sous le poids de mes chaînes,</l>
             <l rend="i">Mais le sort d'un Absent est le pire de tous.</l>
             <l rend="i">Ah, belle Iris, quand reviendront les peines</l>
-            <l rend="i">Que je souffrois aupres de vous ?</l></lg>
+            <l rend="i">Que je souffrois aupres de vous ?</l>
+          </lg>
         </quote>
         <ref target="images/1682-04_048.JPG">
           <figure>
@@ -34,6 +35,6 @@
           </figure>
         </ref>
       </div>
-        </body>
+    </body>
   </text>
 </TEI>

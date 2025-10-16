@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
+    <body>
+      <div>
         <p/>
-        <p>Les Ambassadeurs en s'en retournant entrerent dans S. Mederic, pour entendre les Orgues
-          de cette Eglise, qui ont la reputation d'estre aussi bonnes que l'Organiste est habile.
-          Elles leur donnerent beaucoup de plaisirs, mais ils y en auroient encore pris d'avantage,
-          sans la foule extraordinaire de peuple qui s'y rencontra.</p>
+        <p>Les Ambassadeurs en s'en retournant entrerent dans S. Mederic, pour entendre les Orgues de cette Eglise, qui ont la reputation d'estre aussi bonnes que l'Organiste est habile. Elles leur donnerent beaucoup de plaisirs, mais ils y en auroient encore pris d'avantage, sans la foule extraordinaire de peuple qui s'y rencontra.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

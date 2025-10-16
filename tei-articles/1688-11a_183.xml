@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,19 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
-
+    <body>
+      <div>
         <p/>
-        <p>A M. l’Abbé de Genest, l’Abbaye de Saint Vailemer, Ordre de Saint Augustin, Diocese de
-          Boulogne. Son esprit a paru par ses Ouvrages. Il a remporté le prix de l’éloquence à
-          l’Academie Françoise, &amp; a fait une tres-belle Epistre en Vers à M. de la Bastide, pour
-          l’exhorter à prendre le party de revenir à la vraye Eglise. On le trouva si instruit dans
-          l’Histoire &amp; dans la Geographie, qu’on le mit auprés de Madame la Duchesse, &amp;
-          depuis le mariage de cette Princesse il a esté mis auprés de Mademoiselle de Blois, où il
-          reussit avec beaucoup d’avantage.</p>
+        <p>A M. l’Abbé de Genest, l’Abbaye de Saint Vailemer, Ordre de Saint Augustin, Diocese de Boulogne. Son esprit a paru par ses Ouvrages. Il a remporté le prix de l’éloquence à l’Academie Françoise, &amp; a fait une tres-belle Epistre en Vers à M. de la Bastide, pour l’exhorter à prendre le party de revenir à la vraye Eglise. On le trouva si instruit dans l’Histoire &amp; dans la Geographie, qu’on le mit auprés de Madame la Duchesse, &amp; depuis le mariage de cette Princesse il a esté mis auprés de Mademoiselle de Blois, où il reussit avec beaucoup d’avantage.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

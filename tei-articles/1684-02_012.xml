@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,18 +14,20 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Rien ne convient mieux à ce que je viens de vous dire de la rigueur de l'Hyver, que ces Paroles que je vous envoye notées.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : la Chanson qui commence par <hi rend="i">Le plus cruel Hyver qu'on éprouva jamais</hi>, doit regarder la page 13.</note>
-          <lg><l rend="i">Le plus cruel Hyver qu'on éprouva jamais</l>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : la Chanson qui commence par <hi rend="i">Le plus cruel Hyver qu'on éprouva jamais</hi>, doit regarder la page 13.</note>
+          <lg>
+            <l rend="i">Le plus cruel Hyver qu'on éprouva jamais</l>
             <l rend="i">Fait sentir ses effets.</l>
             <l rend="i">D'où vient ce nouveau feu qui s'allume en mon ame ?</l>
             <l rend="i">Pour éviter du Froid la fatale rigueur,</l>
             <l rend="i">Il semble que l'Amour avec toute sa flâme</l>
-            <l rend="i">Soit venu se cacher dans le fond de mon cœur.</l></lg>
+            <l rend="i">Soit venu se cacher dans le fond de mon cœur.</l>
+          </lg>
         </quote>
         <ref target="images/1684-02_012.JPG">
           <figure>
@@ -33,6 +35,6 @@
           </figure>
         </ref>
       </div>
-        </body>
+    </body>
   </text>
 </TEI>

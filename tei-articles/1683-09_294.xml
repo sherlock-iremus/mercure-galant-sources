@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
-        <p>Vous ne seriez pas contente, si je n’ajoûtois toutes ces Devises avec leur raport aux
-          Inscriptions. Rien ne peut estre plus digne de vôtre curiosité, puis qu’elles sont de M<hi rend="sup">r</hi> l’Abbé Tallemant le jeune, de l’Academie Françoise, Intendant des
-          Devises du Roy.</p>
+    <body>
+      <div>
+        <p>Vous ne seriez pas contente, si je n’ajoûtois toutes ces Devises avec leur raport aux Inscriptions. Rien ne peut estre plus digne de vôtre curiosité, puis qu’elles sont de M<hi rend="sup">r</hi> l’Abbé Tallemant le jeune, de l’Academie Françoise, Intendant des Devises du Roy.</p>
         <quote>
           <lg>
             <l rend="i">Marie-Thérese d’Austriche.</l>
@@ -32,8 +29,7 @@
             <l rend="i">Il montre en s’élevant, la hauteur de sa source.</l>
           </lg>
         </quote>
-        <p>Les nobles &amp; admirables qualitez de la Reyne marquoient la grandeur de sa
-          naissance.</p>
+        <p>Les nobles &amp; admirables qualitez de la Reyne marquoient la grandeur de sa naissance.</p>
         <quote>
           <lg>
             <l rend="i">Reyne de France &amp; de Navarre.</l>
@@ -49,8 +45,10 @@
         <p>La candeur &amp; la vertu de la Reyne, la rendoient digne de commander.</p>
         <quote>
           <lg>
-            <l><hi rend="i">Tres-digne Epouse de</hi>
-              <hi rend="sc">Loüis le Grand.</hi></l>
+            <l>
+              <hi rend="i">Tres-digne Epouse de</hi>
+              <hi rend="sc">Loüis le Grand.</hi>
+            </l>
           </lg>
         </quote>
         <p>Une Aigle.</p>
@@ -86,10 +84,7 @@
             <l rend="i">S’arrester sur la Terre, est ce qu’il craint le plus.</l>
           </lg>
         </quote>
-        <p>Cet Oyseau estant sans pieds, craint de s’arrester sur la Terre, de peur de ne pouvoir
-          plus s’élever pour prendre son vol. Il semble que la Reyne ne soit morte si jeune, que
-          parce qu’elle craignoit de s’attacher aux grandeurs, si elle s’arrestoit trop sur la
-          Terre.</p>
+        <p>Cet Oyseau estant sans pieds, craint de s’arrester sur la Terre, de peur de ne pouvoir plus s’élever pour prendre son vol. Il semble que la Reyne ne soit morte si jeune, que parce qu’elle craignoit de s’attacher aux grandeurs, si elle s’arrestoit trop sur la Terre.</p>
         <quote>
           <lg>
             <l rend="i">Mere auguste de Monseigneur le Dauphin.</l>
@@ -102,8 +97,7 @@
             <l rend="i">Il ne meurt pas entier, il laisse son semblable.</l>
           </lg>
         </quote>
-        <p>La Reyne ne meurt pas tout-à-fait, puis qu’elle nous laisse un Fils heritier de ses
-          vertus.</p>
+        <p>La Reyne ne meurt pas tout-à-fait, puis qu’elle nous laisse un Fils heritier de ses vertus.</p>
         <quote>
           <lg>
             <l rend="i">Femme d’un rare exemple.</l>
@@ -142,8 +136,7 @@
             <l rend="i">Ce qui la fait périr, augmente son éclat.</l>
           </lg>
         </quote>
-        <p>La Reyne devient plus éclatante par sa mort, puis qu’elle partage dans le Ciel la gloire
-          des Saints.</p>
+        <p>La Reyne devient plus éclatante par sa mort, puis qu’elle partage dans le Ciel la gloire des Saints.</p>
         <quote>
           <lg>
             <l rend="i">Née pour le bien du Royaume.</l>
@@ -169,9 +162,7 @@
             <l rend="i">Tout aux Siens, sans songer aux lieux de sa naissance.</l>
           </lg>
         </quote>
-        <p>Comme cet Oyseau, dés qu’il a fait ses Petits, ne conserve plus aucun desir de retourner
-          aux lieux où il est né, la Reyne n’avoit dans le cœur que l’intérest de la France, par
-          l’attachement qu’elle avoit pris pour le Roy, &amp; pour Monseigneur le Dauphin.</p>
+        <p>Comme cet Oyseau, dés qu’il a fait ses Petits, ne conserve plus aucun desir de retourner aux lieux où il est né, la Reyne n’avoit dans le cœur que l’intérest de la France, par l’attachement qu’elle avoit pris pour le Roy, &amp; pour Monseigneur le Dauphin.</p>
         <quote>
           <lg>
             <l rend="i">Tres fidelle à la Religion.</l>
@@ -184,8 +175,7 @@
             <l rend="i">Au milieu des écueils je montre le chemin.</l>
           </lg>
         </quote>
-        <p>La Reyne montre à toutes les Reynes, &amp; à tous ceux qui vivent dans les vanitez &amp;
-          dans les grandeurs, le chemin qu’ils doivent tenir pour se sauver.</p>
+        <p>La Reyne montre à toutes les Reynes, &amp; à tous ceux qui vivent dans les vanitez &amp; dans les grandeurs, le chemin qu’ils doivent tenir pour se sauver.</p>
         <quote>
           <lg>
             <l rend="i">Recommandable par toutes sortes de vertus.</l>
@@ -239,6 +229,6 @@
         </quote>
         <p>La Reyne meurt pour aller à Dieu.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

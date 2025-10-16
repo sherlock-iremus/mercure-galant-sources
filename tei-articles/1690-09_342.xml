@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
-        <p><hi rend="i">Le S<hi rend="sup">r</hi> Guerout avertit qu’en debitant le Mercure, il
-            debitera aussi au commencement de chaque mois</hi>, La Pierre de touche politique, <hi rend="i">qui a commencé à paroistre depuis plus d’un an. Cet Ouvrage est si connu, qu’il
-            seroit inutile d’expliquer en quoy il consiste.</hi></p>
+    <body>
+      <div>
+        <p><hi rend="i">Le S<hi rend="sup">r</hi> Guerout avertit qu’en debitant le Mercure, il debitera aussi au commencement de chaque mois</hi>, La Pierre de touche politique, <hi rend="i">qui a commencé à paroistre depuis plus d’un an. Cet Ouvrage est si connu, qu’il seroit inutile d’expliquer en quoy il consiste.</hi></p>
       </div>
     </body>
   </text>

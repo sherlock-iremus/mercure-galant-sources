@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Je vous envoye une Fable, dont l’original est Latin. La traduction en a esté faite par
-            M<hi rend="sup">r</hi> de Saint-Ouën de Caën, &amp; il l’a adressée au Pere Bouhours
-          Jesuite, qui a tant contribué à la pureté de nostre Langue, par les excellens Ouvrages
-          qu’il nous a donnez.</p>
+    <body>
+      <div>
+        <p>Je vous envoye une Fable, dont l’original est Latin. La traduction en a esté faite par M<hi rend="sup">r</hi> de Saint-Ouën de Caën, &amp; il l’a adressée au Pere Bouhours Jesuite, qui a tant contribué à la pureté de nostre Langue, par les excellens Ouvrages qu’il nous a donnez.</p>
         <quote>
           <label>LE CYGNE<lb/>ET<lb/>LES OYSONS.<lb/><hi rend="i">FABLE.</hi></label>
           <lg>
-            <l><hi rend="i">BOUHOURS, pour quelque temps abstenez-vous d’écrire,</hi></l>
+            <l>
+              <hi rend="i">BOUHOURS, pour quelque temps abstenez-vous d’écrire,</hi>
+            </l>
             <l rend="i">Aprés, vous reprendrez vos Ouvrages pieux.</l>
             <l rend="i"> Daignez icy jetter les yeux,</l>
             <l rend="i">Au premier jour de l’an je veux vous faire rire.</l>
@@ -41,7 +39,9 @@
             <l rend="i"> Leur donne cette aversion.</l>
             <l rend="i">La laideur de leur corps, leur cry desagréable</l>
             <l rend="i">Releve les beautez &amp; la voix admirable</l>
-            <l><hi rend="i">Des Cygnes, dont le chant plein de mille douceurs,</hi></l>
+            <l>
+              <hi rend="i">Des Cygnes, dont le chant plein de mille douceurs,</hi>
+            </l>
             <l rend="i">Se pourroit égaler à celuy des neuf Sœurs.</l>
           </lg>
           <ab type="ornament">***</ab>
@@ -145,7 +145,9 @@
             <l rend="i">  Quittent leur séjour tenebreux.</l>
             <l rend="i">La Pie &amp; le Corbeau, l’Hirondelle volage</l>
             <l rend="i">Viennent accompagnez des farouches Ramiers,</l>
-            <l><hi rend="i">Tant ceux qui sont patus, que d’autres dont les pieds</hi></l>
+            <l>
+              <hi rend="i">Tant ceux qui sont patus, que d’autres dont les pieds</hi>
+            </l>
             <l rend="i">  Ne sont couverts d’aucun plumage.</l>
             <l rend="i">  Entre tant d’Oiseaux si divers</l>
             <l rend="i">La Corneille au coû blanc parut la plus ardente</l>
@@ -196,6 +198,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

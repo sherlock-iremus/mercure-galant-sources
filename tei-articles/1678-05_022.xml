@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-
-        
-        <p>Je feray plus, &amp; comme je sçay l’estime que vous avez pour l’Autheur, j’y adjoûteray
-          un Madrigal qui a esté fait à son avantage. Il vous fera voir que vous n’estes pas la
-          seule qui vous étonniez que dans un âge aussi peu avancé que le sien, il pense si juste,
-          &amp; exprime si finement tout ce qu’il pense. M<hi rend="sup">r</hi> Petit, de Rouën,
-          dont je vous ay déja parlé plusieurs fois, en a trouvé une raison assez plausible dans le
-          Madrigal que je vous envoye. Voyez si vous ne serez pas de son sentiment.</p>
+    <body>
+      <div>
+        <p>Je feray plus, &amp; comme je sçay l’estime que vous avez pour l’Autheur, j’y adjoûteray un Madrigal qui a esté fait à son avantage. Il vous fera voir que vous n’estes pas la seule qui vous étonniez que dans un âge aussi peu avancé que le sien, il pense si juste, &amp; exprime si finement tout ce qu’il pense. M<hi rend="sup">r</hi> Petit, de Rouën, dont je vous ay déja parlé plusieurs fois, en a trouvé une raison assez plausible dans le Madrigal que je vous envoye. Voyez si vous ne serez pas de son sentiment.</p>
         <quote rend="border">
           <lg>
             <l rend="i">Fontenelle, dans ton jeune âge,</l>
@@ -39,6 +32,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
-        <p>Si les Fleurs plaisent à la veuë dans les Parterres, &amp; si la pluspart flatent
-          l’odorat, elles ont encore un autre avantage. Les belles Personnes s’en servent pour se
-          parer, &amp; il semble qu’elles donnent plus de brillant à leur teint. C’est cet usage qui
-          a donné lieu à ce Madrigal.</p>
+        <p>Si les Fleurs plaisent à la veuë dans les Parterres, &amp; si la pluspart flatent l’odorat, elles ont encore un autre avantage. Les belles Personnes s’en servent pour se parer, &amp; il semble qu’elles donnent plus de brillant à leur teint. C’est cet usage qui a donné lieu à ce Madrigal.</p>
         <quote>
           <lg>
             <l rend="i"> Charmantes Fleurs, quittez ces lieux,</l>
@@ -38,6 +34,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

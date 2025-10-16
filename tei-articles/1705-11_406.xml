@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,22 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-                
-                
-                <p>Le Roy a donné des Brevets de Mestres de Camp à sept Officiers de Gendarmerie,
-                    qui sont M<hi rend="sup">rs</hi> de Jussac, de Crecy, de Miran, de Dampierre, de Chenoise, Louvet &amp;
-                    Dauvillars.</p>
-                <p>Sa Majesté a donné à M<hi rend="sup">r</hi>  Cloche de la
-                        Malmaison-d’Espernay en Champagne, le Gouvernement de l’Isle de la
-                        Guardeloupe, en Amerique. Sa Majesté l’avoit peu de jours auparavant honoré
-                        de la Croix de saint Loüis, en consideration de ses services ; ayant soûtenu
-                        deux fois le siege du Fort de ladite Isle, où il estoit Lieutenant de Roy
-                        pendant les années 1691 &amp; 1703 contre les Anglois qui y firent des
-                        descentes, &amp; qu’il a toujours obligez à lever le siege, après avoir
-                        perdu beaucoup de monde.</p>
-
-            </div>
+    <body>
+      <div>
+        <p>Le Roy a donné des Brevets de Mestres de Camp à sept Officiers de Gendarmerie, qui sont M<hi rend="sup">rs</hi> de Jussac, de Crecy, de Miran, de Dampierre, de Chenoise, Louvet &amp; Dauvillars.</p>
+        <p>Sa Majesté a donné à M<hi rend="sup">r</hi>  Cloche de la Malmaison-d’Espernay en Champagne, le Gouvernement de l’Isle de la Guardeloupe, en Amerique. Sa Majesté l’avoit peu de jours auparavant honoré de la Croix de saint Loüis, en consideration de ses services ; ayant soûtenu deux fois le siege du Fort de ladite Isle, où il estoit Lieutenant de Roy pendant les années 1691 &amp; 1703 contre les Anglois qui y firent des descentes, &amp; qu’il a toujours obligez à lever le siege, après avoir perdu beaucoup de monde.</p>
+      </div>
     </body>
   </text>
 </TEI>

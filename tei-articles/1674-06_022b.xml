@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-
-        
-        <p>Puis que nous sommes sur le chapitre des Chansons, je ne puis m’empescher de vous dire
-          des Paroles qui furent faites il y a quelques temps sur un air de Psyché. Un jeune Prince
-          estoit avec des Dames que vous connoissez, lors qu’une Vieille leur vint rendre visite :
-          Elle y fut si longtemps que la jeunesse s’en ennuya beaucoup ; &amp; dés qu’elle fut
-          sortie le Prince fit sur le champ ces Paroles sur l’Air de <hi rend="i">Aimable
-            Jeunesse.</hi></p>
+    <body>
+      <div>
+        <p>Puis que nous sommes sur le chapitre des Chansons, je ne puis m’empescher de vous dire des Paroles qui furent faites il y a quelques temps sur un air de Psyché. Un jeune Prince estoit avec des Dames que vous connoissez, lors qu’une Vieille leur vint rendre visite : Elle y fut si longtemps que la jeunesse s’en ennuya beaucoup ; &amp; dés qu’elle fut sortie le Prince fit sur le champ ces Paroles sur l’Air de <hi rend="i">Aimable Jeunesse.</hi></p>
         <quote rend="border">
           <label rend="center b">Chanson.</label>
           <l><space/>AFfreuse vieillesse,</l>
@@ -38,6 +31,6 @@
           <l><space/>Les derniers soupirs.</l>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

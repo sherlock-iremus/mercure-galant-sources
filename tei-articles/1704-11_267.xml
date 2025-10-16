@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p>La Veuve de Jacques Grou, ruë de la Huchette, au Soleil d’or, vend aussi une Pastorale Lyrique, de la composition de M<hi rend="sup">r</hi> de Messange. Cet ouvrage qu’il a fait à l’occasion de la naissance de Monseigneur le Duc de Bretagne, a pour titre, <hi rend="i">Les nouveaux avantages remportez en Savoye, en Piémont, &amp; sur Mer</hi>. On peut dire que M<hi rend="sup">r</hi> de Messange est universel, &amp; que quoy qu’il s’attache souvent à des ouvrages serieux &amp; d’une profonde erudition, il ne laisse pas de s’occuper quelquefois à faire des Vers ; &amp; qu’il réüssit parfaitement en ce genre d’écrire.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>La Veuve de Jacques Grou, ruë de la Huchette, au Soleil d’or, vend aussi une Pastorale Lyrique, de la composition de M<hi rend="sup">r</hi> de Messange. Cet ouvrage qu’il a fait à l’occasion de la naissance de Monseigneur le Duc de Bretagne, a pour titre, <hi rend="i">Les nouveaux avantages remportez en Savoye, en Piémont, &amp; sur Mer</hi>. On peut dire que M<hi rend="sup">r</hi> de Messange est universel, &amp; que quoy qu’il s’attache souvent à des ouvrages serieux &amp; d’une profonde erudition, il ne laisse pas de s’occuper quelquefois à faire des Vers ; &amp; qu’il réüssit parfaitement en ce genre d’écrire.</p>
+      </div>
+    </body>
   </text>
 </TEI>

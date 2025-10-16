@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
-        <p>La mort de M<hi rend="sup">r</hi> le Duc de Coeslin ayant fait vacquer une place à
-          l’Academie, Mr le Duc de Coeslin son fils a esté élû tout d’une voix pour remplir cette
-          place. Ce Duc ayant infiniment d’esprit, &amp; toutes les qualitez que l’on peut souhaiter
-          dans un Academicien, Mrs de l’Academie ont crû devoir reconnoistre par ce choix les
-          obligations qu’ils ont à feu M<hi rend="sup">r</hi> le Chancelier Seguier, &amp; ont esté
-          ravis de trouver dans un homme de guerre tous les talens d’un homme d’esprit.</p>
+    <body>
+      <div>
+        <p>La mort de M<hi rend="sup">r</hi> le Duc de Coeslin ayant fait vacquer une place à l’Academie, Mr le Duc de Coeslin son fils a esté élû tout d’une voix pour remplir cette place. Ce Duc ayant infiniment d’esprit, &amp; toutes les qualitez que l’on peut souhaiter dans un Academicien, Mrs de l’Academie ont crû devoir reconnoistre par ce choix les obligations qu’ils ont à feu M<hi rend="sup">r</hi> le Chancelier Seguier, &amp; ont esté ravis de trouver dans un homme de guerre tous les talens d’un homme d’esprit.</p>
       </div>
     </body>
   </text>

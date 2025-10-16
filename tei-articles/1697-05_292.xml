@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,19 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-                
-                
-
-                <p>Les Anglois ayant fait partir une Flote de 36 Vaisseaux
-                        pour les Barbades &amp; pour la Virginie, avec quelques Vaisseaux de Guerre, &amp;
-                        un Brulot pour l’escorter, cette Flote a esté rencontrée par M<hi rend="sup">r</hi> d’Andenne
-                        qui commandoit quatre Vaisseaux. Il en a pris huit &amp; un Brulot, &amp; il
-                        a brulé un des Vaisseaux de Convoy. Il auroit pris le reste, sans une brume
-                        qui survint. Deux Armateurs de S. Malo prirent ensuite un des plus riches
-                        Vaisseaux Marchands de la mesme Flote.</p>
-
-            </div>
+    <body>
+      <div>
+        <p>Les Anglois ayant fait partir une Flote de 36 Vaisseaux pour les Barbades &amp; pour la Virginie, avec quelques Vaisseaux de Guerre, &amp; un Brulot pour l’escorter, cette Flote a esté rencontrée par M<hi rend="sup">r</hi> d’Andenne qui commandoit quatre Vaisseaux. Il en a pris huit &amp; un Brulot, &amp; il a brulé un des Vaisseaux de Convoy. Il auroit pris le reste, sans une brume qui survint. Deux Armateurs de S. Malo prirent ensuite un des plus riches Vaisseaux Marchands de la mesme Flote.</p>
+      </div>
     </body>
   </text>
 </TEI>

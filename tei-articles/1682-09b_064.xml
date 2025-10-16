@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,22 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-
-        
-
+    <body>
+      <div>
         <p/>
-        <p>Celles de Rennes en Bretagne ont paru avec grand éclat par la présence de M<hi rend="sup">r</hi> le Duc de Chaunes, Gouverneur de la Province. Apres qu'on y eut chanté le <hi rend="i">Te Deum</hi> avec beaucoup de solemnité, il alluma un grand Feu qui avoit esté
-          préparé dans la Place, &amp; le soir il en fit joüer un d'artifice qui attira l'admiration
-          d'un nombre infiny de Spéctateurs. On l'avoit dressé dans un Pré qui est entre le Cours
-          &amp; le Rampart de la Ville. Toutes les Maisons furent illuminées pendant trois jours,
-          &amp; plusieurs Fontaines de Vin coulerent en divers endroits par les ordres de ce Duc.
-          Toutes les Personnes de qualité, &amp; les Bourgeois mesmes, marquerent leur joye par des
-          Tables servies dans les Ruës. Nantes &amp; Brest en ont donné de semblables témoignages,
-          &amp; surtout cette derniere, par le grand feu des Canons de terre &amp; des
-          Vaisseaux.[...]</p>
+        <p>Celles de Rennes en Bretagne ont paru avec grand éclat par la présence de M<hi rend="sup">r</hi> le Duc de Chaunes, Gouverneur de la Province. Apres qu'on y eut chanté le <hi rend="i">Te Deum</hi> avec beaucoup de solemnité, il alluma un grand Feu qui avoit esté préparé dans la Place, &amp; le soir il en fit joüer un d'artifice qui attira l'admiration d'un nombre infiny de Spéctateurs. On l'avoit dressé dans un Pré qui est entre le Cours &amp; le Rampart de la Ville. Toutes les Maisons furent illuminées pendant trois jours, &amp; plusieurs Fontaines de Vin coulerent en divers endroits par les ordres de ce Duc. Toutes les Personnes de qualité, &amp; les Bourgeois mesmes, marquerent leur joye par des Tables servies dans les Ruës. Nantes &amp; Brest en ont donné de semblables témoignages, &amp; surtout cette derniere, par le grand feu des Canons de terre &amp; des Vaisseaux.[...]</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

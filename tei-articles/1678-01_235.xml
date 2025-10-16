@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Cependant le veritable Mot est celuy que vos Amies ont trouvé. Il m’avoit esté envoyé le
-          jour précédent par un Chanoine de Rheims, qui est le premier qui l’ait deviné ; &amp; dés
-          le lendemain on m’apporta ce Rondeau, qui l’apprendra à ceux qui n’ont pas voulu se donner
-          la peine de le chercher, ou qui l’ont cherché inutilement.</p>
+    <body>
+      <div>
+        <p>Cependant le veritable Mot est celuy que vos Amies ont trouvé. Il m’avoit esté envoyé le jour précédent par un Chanoine de Rheims, qui est le premier qui l’ait deviné ; &amp; dés le lendemain on m’apporta ce Rondeau, qui l’apprendra à ceux qui n’ont pas voulu se donner la peine de le chercher, ou qui l’ont cherché inutilement.</p>
         <quote rend="border">
           <label rend="center">Sur l’Enigme du X.</label>
           <label rend="center">Tome du Mercure.</label>
@@ -50,6 +46,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

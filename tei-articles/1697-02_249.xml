@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,24 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-                
-
-                
-
-                <p>Il vient de paroistre encore deux Livres nouveaux qui
-                        se trouvent chez le Sr Guignard, à l’entrée de la grande Salle du Palais, &amp;
-                        dont l’un a pour titre, <hi rend="italic">Nouvelles
-                        découvertes de M<hi rend="sup">r</hi> de la Salle, dans l’Amerique Septentrionale</hi>.
-                        Cet Ouvrage merite d’autant plus la curiosité du
-                        Lecteur, que ce sont des découvertes de plus de dix huit cens lieuës, tant
-                        du costé du Nord au Sud, que du Levant au Couchant. C’est cette grande
-                        étenduë de terre que l’on a nommée la Loüisiane depuis qu’on en a pris
-                        possession au nom du Roy. L’Auteur y décrit les mœurs de ses Habitans, leur
-                        maniere de vivre &amp; de se loger, &amp; quantité d’autres choses qui font
-                        plaisir à sçavoir.</p>
-
-            </div>
+    <body>
+      <div>
+        <p>Il vient de paroistre encore deux Livres nouveaux qui se trouvent chez le Sr Guignard, à l’entrée de la grande Salle du Palais, &amp; dont l’un a pour titre, <hi rend="italic">Nouvelles découvertes de M<hi rend="sup">r</hi> de la Salle, dans l’Amerique Septentrionale</hi>. Cet Ouvrage merite d’autant plus la curiosité du Lecteur, que ce sont des découvertes de plus de dix huit cens lieuës, tant du costé du Nord au Sud, que du Levant au Couchant. C’est cette grande étenduë de terre que l’on a nommée la Loüisiane depuis qu’on en a pris possession au nom du Roy. L’Auteur y décrit les mœurs de ses Habitans, leur maniere de vivre &amp; de se loger, &amp; quantité d’autres choses qui font plaisir à sçavoir.</p>
+      </div>
     </body>
   </text>
 </TEI>

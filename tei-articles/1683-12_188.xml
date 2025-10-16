@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
-        <p>En vous parlant de la derniere distribution des Prix de l’Académie, j’oubliay à vous
-          envoyer ce Madrigal de M<hi rend="sup">r</hi> Diéreville à M<hi rend="sup">r</hi> de
-          Santeüil, Chanoine de S. Victor. Vous vous souvenez, Madame, que la Traduction de son Ode
-          Latine, faite par M<hi rend="sup">r</hi> de la Monnoye, y remporta celuy de Poësie.</p>
+    <body>
+      <div>
+        <p>En vous parlant de la derniere distribution des Prix de l’Académie, j’oubliay à vous envoyer ce Madrigal de M<hi rend="sup">r</hi> Diéreville à M<hi rend="sup">r</hi> de Santeüil, Chanoine de S. Victor. Vous vous souvenez, Madame, que la Traduction de son Ode Latine, faite par M<hi rend="sup">r</hi> de la Monnoye, y remporta celuy de Poësie.</p>
         <quote>
           <lg>
             <l rend="i">Tandis qu’en mille Lieux on n’entend dans l’Eglise</l>
@@ -34,6 +30,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

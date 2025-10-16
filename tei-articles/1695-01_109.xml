@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,177 +14,23 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-    
-        <p>Il me souvient, Madame, que je vous ay oüy demander autrefois, s’il faloit dire <hi
-            rend="i">Bordeaux</hi> ou <hi rend="i">Bourdeaux</hi>, en parlant de la Ville Capitale,
-          de Guyenne. La Lettre qui suit éclaircira vostre doute.</p>
+    <body>
+      <div>
+        <p>Il me souvient, Madame, que je vous ay oüy demander autrefois, s’il faloit dire <hi rend="i">Bordeaux</hi> ou <hi rend="i">Bourdeaux</hi>, en parlant de la Ville Capitale, de Guyenne. La Lettre qui suit éclaircira vostre doute.</p>
         <quote>
           <label>À MONSIEUR ***.</label>
-          <p>
-            <hi rend="i">La question que vous me faites, Monsieur, s’il faut dire,</hi> Bordeaux <hi
-              rend="i">ou</hi> Bourdeaux<hi rend="i">, me fait souvenir de celle que fit autrefois
-            Pompée aux Beaux-Esprits de Rome, pour
-              sçavoir s’il faloit mettre dans l’inscription de ses titres au Temple de la Victoire,</hi>
-            tertiò <hi
-              rend="i">ou</hi> tertiùm Consul. <hi rend="i">Ciceron se fit une occupation grave d’y
-            penser, pour en
-              donner serieusement son avis, qui nous est rapporté par Aulugelle dans son bel
-            ouvrage, intitulé</hi> Noctes Atticæ. <hi rend="i">Je ne me sens pas moins obligé que
-            l’Orateur Romain d’avoir de l’application
-              pour la Critique du nom d’une des principales villes du Royaume, &amp; qui par le
-            Testament de Charlemagne
-              est qualifiée une des Metropoles de son Empire. Je vais donc vous en écrire avec soin
-            dans cette Lettre,
-              en y mettant de la dorure en quelques endroits, pour orner un peu le sujet.</hi>
-          </p>
-          <p>
-            <hi rend="i">Une personne qui seroit de la famille du deffunt President de Bordeaux, qui
-            fut Ambassadeur en
-              Angleterre, pourroit prendre party pour</hi> Bordeaux<hi rend="i">, afin d’avoir un
-            nom commun avec une
-              grande &amp; belle Ville ; mais ni vous ni moy, n’avons cet interest particulier, au
-            préjudice du bon
-              choix qu’il faut faire.</hi>
-          </p>
-          <p>
-            <hi rend="i">Une pretenduë étymologie a donné lieu au doute. Il y a bien des gens qui
-            lisent &amp; écrivent
-            </hi>
-            Bordeaux<hi rend="i">, sur l’imagination qu’ils ont, que le nom de cette Ville, luy
-            vient du</hi> Bord des eaux<hi rend="i">, &amp; qu’ainsi il faut en conformité, la
-            nommer</hi> Bordeaux<hi rend="i">. Cette
-              origine n’est pas de distinction, &amp; de plus elle n’est pas raisonnable. Ce n’est
-            qu’une petite
-              allusion qui vient d’abord à la bouche, &amp; qui n’estant pas veritable, ne fait
-            nulle consequence pour
-              la dénomination de la Ville. À suivre le cours des grandes Rivieres de France, &amp;
-            de la Garonne en
-              particulier, depuis la source jusqu’à l’embouchure, il y a plusieurs Villes bâties sur
-            le bas des eaux :
-              Ce qui est si commun, n’est pas plus propre à nommer cette Ville que les autres. Il y
-            a mesme quelque
-              turpitude dans cette origine qu’il faut laisser à ces lieux de débauche, qu’on dit en
-            avoir esté appellez
-              dans le vieux stile,</hi> Bordeaux<hi rend="i">, à cause que ces loges de prostitution
-            ont esté autrefois
-              sur le bord de l’eau. Ciceron en fait mention.</hi> Ad partem littoris positis
-            tabernaculis castra Luxuriæ collocaverat. Aprés avoir fait dresser des Tentes sur un
-            endroit du Rivage, il y avoit placé le camp de la luxure. <hi rend="i">Enfin,</hi>
-            Burdigala <hi rend="i">le mot Latin, estant plus ancien que le mot
-              François, car on le trouve dans Ausone,</hi> Burdigala est natale solum, &amp;c. <hi
-              rend="i">il n’y a aucune
-              syllabe qui donne la moindre idée du bord de l’eau. Il n’en est pas de mesme dans
-            Aigues-mortes, où le Latin contient &amp; exprime les eaux du nom François</hi> Aquæ-mortuæ. </p>
-          <p>
-            <hi rend="i">Il faut donc chercher l’origine du mot François dans</hi> Burdigala <hi
-              rend="i">Latin. Elle se
-              presente en deux gros ruisseaux</hi> Bourdes <hi rend="i">&amp;</hi> Jalles<hi
-              rend="i">, qui ne sont pas
-              éloignez de la Ville, &amp; qui à l’endroit où ils entrent dans la Garomne, qu’on dit
-            estre à present sous
-              l’Eglise de Saint Pierre, ont marqué celuy où la Ville a esté bastie. Or on voit dans
-            ce premier Ruisseau
-            </hi>
-            Bourdes<hi rend="i">, qu’il faut dire</hi> Bourdeaux<hi rend="i">, &amp; non plus</hi>
-            Bordeaux<hi
-              rend="i">. Le fleuve de la Judée, qui de deux Fontaines, Jor &amp; Dan, a esté nommé
-            en Latin</hi> Jordanes<hi rend="i">, est nommé en François</hi> Jourdain. </p>
-          <p>
-            <hi rend="i">Le mot</hi> Burdigala <hi rend="i">mesme sans l’étimologie, est favorable à</hi>
-            Bourdeaux<hi
-              rend="i">, parce que lorsque le Latin souffre une conversion de lettres au François,</hi>
-            u<hi rend="i">,
-              se change en la diphtongue</hi> ou<hi rend="i">. Exemples,</hi> cubitus <hi rend="i">c</hi>
-            ou<hi rend="i">
-              de :</hi> curvus <hi rend="i">c</hi>ou<hi rend="i">rbe :</hi> dulcis <hi rend="i">d</hi>
-            ou<hi rend="i">x :
-            </hi> turma <hi rend="i">tr</hi>ou<hi rend="i">pe, &amp; non pas tr</hi>
-            o<hi rend="i">pe qu’on trouve
-              barbare dans Ronsard :</hi> nutrix <hi rend="i">n</hi>ou<hi rend="i">rrice, &amp; non
-            pas n</hi>o<hi
-              rend="i">rrice, qu’on ne peut souffrir dans plusieurs femmes de Paris ; de mesme</hi>
-            Burdigala <hi
-              rend="i">fait</hi> Bourdeaux. </p>
-          <p>
-            <hi rend="i">Il y a un double exemple où la Garonne entre dans l’Ocean</hi> turris
-            Corduana<hi rend="i">,
-              Tour de Cord</hi>ou<hi rend="i">an. Les autres Villes changent de mesme</hi> u <hi
-              rend="i">en</hi> ou. Turones<hi rend="i">, Tours :</hi> Bituriges<hi rend="i">,
-            Bourges, &amp;c. Le Palais du Roy,</hi> Lupara<hi
-              rend="i">, le Louvre &amp; le nom mesme du Roy,</hi> Ludovicus<hi rend="i">, Loüis. Il
-            ne faut pas ôter à
-            </hi> Bourdeaux <hi rend="i">la dignité
-            d’estre en communauté d’une diphtongue douce avec des Villes
-              considerables, &amp; avec des noms Augustes.</hi>
-          </p>
-          <p>
-            <hi rend="i">Une nouvelle preuve paroist dans le nom Grec de la Ville rapporté par
-            Strabon, qui vivoit du
-              temps d’Auguste. On lit au quatrième Livre de sa Geograpbie,</hi> Bourdegala<hi
-              rend="i">. Or le François
-              ayant beaucoup d’affinité avec le Grec, doit retenir la diphtongue</hi> ou <hi
-              rend="i">pour Bourdeaux.
-              Les Latins mesme ont esté jaloux de la doucceur de cette diphtongue dans les Grecs,
-            &amp; l’ont
-              quelquefois imitée trois fois dans un mesme mot, prononçant</hi> Lucullus<hi rend="i">,
-            comme s’il y avoit
-            </hi> Loucoullous<hi rend="i">. Nostre Langue la
-            conserve dans ces grands noms,</hi> Bourges, Bourgogne <hi
-              rend="i">; il faut pareillement la conserver dans la grande Ville de</hi> Bourdeaux. </p>
-          <p>
-            <hi rend="i">Il y a des Auteurs qui tiennent que ses Habitans ont esté autrefois
-            appellez</hi> Bituriges<hi
-              rend="i">, parce que des familles de Bourges, en ont esté les premiers Citoyens ;
-            &amp; que de</hi> Bituriges <hi rend="i">on a substitué dans la basse latinité par
-            contraction</hi> Bourga <hi rend="i">ou
-            </hi> Bourgi<hi rend="i">. Tout cela établit le nom de</hi> Bourdeaux. </p>
-          <p>
-            <hi rend="i">On doit supposer que les Habitans sçavent le nom de leur Ville, comme un
-            fils sçait le nom de
-              son pere. Or il est constant qu’ils disoient</hi> Bourdeu <hi rend="i">dans le vieux
-            langage, &amp; depuis
-              ils disent</hi> Bourdeaux<hi rend="i">, comme il paroist dans la Chronique
-            Bourdeloise, &amp; dans ses
-              Archives de familles.</hi>
-          </p>
-          <p>
-            <hi rend="i">Elie Vinet, ce sçavant homme qui fit honneur à l’Université de la Ville,
-            presenta à Charles IX.
-              en 1564 les Antiquitez de la Ville de</hi> Bourdeaux <hi rend="i">; &amp; audevant de
-            son discours, on
-              voit une Estampe de la Ville, où il y a en haut</hi> Bourdeaux. </p>
-          <p>
-            <hi rend="i">C’est l’affaire des Geographes de sçavoir les noms des Villes, aussi bien
-            que des Montagnes
-              &amp; des Rivieres. On lit dans les Cartes de Samson, de Duval, &amp; de Fer</hi>
-            Bourdeaux <hi rend="i">: &amp; M<hi rend="sup">r</hi> Audifret qui donna l’année passée
-            avec de petites Cartes la Geographie Ancienne, Moderne &amp; Historique, a mis dans son
-            discours, &amp; gravé dans la Carte</hi> Bourdeaux. </p>
-          <p>
-            <hi rend="i">Enfin pour achever de vuider entierement le partage qui depuis quelques
-            années est dans le
-              Monde entre</hi> Bordeaux <hi rend="i">&amp;</hi> Bourdeaux<hi rend="i">, on peut
-            alleguer en faveur du
-              bel usage trois Auteurs illustres. M. le Maistre, fameux Avocat du Parlement de Paris,
-            dans son Plaidoyer
-              xxix. parle d’une Dame</hi> qui fait<hi rend="i">, dit-il,</hi> compassion à tout
-            Bourdeaux. <hi rend="i">
-              M. Pelisson dans son Histoire de l’Academie Françoise, à l’article de M. le Comte de
-            Servien dont il
-              rapporte les titres, y met celuy de</hi> Premier President au Parlement de BOURDEAUX<hi
-              rend="i">. Et le
-              Pere Bouhours, dont les nouvelles Remarques sur la Langue Françoise peuvent estre
-            jointes à celles de
-              Vaugelas, comme de la Broderie sur du velours, dit aussi</hi> BOURDEAUX<hi rend="i">.
-            C’est dans son
-              premier entretien qui est de la Mer.</hi> Au contraire à la côte de BOURDEAUX, le flux
-            est de sept heures. <hi rend="i">Il me semble que voila le nom de</hi> BOURDEAUX<hi
-              rend="i">, aussi bien soûtenu à l’exclusion
-              de Bordeaux, que si M. le Maistre en avoit fait un Plaidoyer, M. Pelisson une
-            Histoire, &amp; le P.
-              Bouhours un Entretien. Je suis, &amp;c.</hi>
-          </p>
+          <p><hi rend="i">La question que vous me faites, Monsieur, s’il faut dire,</hi> Bordeaux <hi rend="i">ou</hi> Bourdeaux<hi rend="i">, me fait souvenir de celle que fit autrefois Pompée aux Beaux-Esprits de Rome, pour sçavoir s’il faloit mettre dans l’inscription de ses titres au Temple de la Victoire,</hi> tertiò <hi rend="i">ou</hi> tertiùm Consul. <hi rend="i">Ciceron se fit une occupation grave d’y penser, pour en donner serieusement son avis, qui nous est rapporté par Aulugelle dans son bel ouvrage, intitulé</hi> Noctes Atticæ. <hi rend="i">Je ne me sens pas moins obligé que l’Orateur Romain d’avoir de l’application pour la Critique du nom d’une des principales villes du Royaume, &amp; qui par le Testament de Charlemagne est qualifiée une des Metropoles de son Empire. Je vais donc vous en écrire avec soin dans cette Lettre, en y mettant de la dorure en quelques endroits, pour orner un peu le sujet.</hi> </p>
+          <p><hi rend="i">Une personne qui seroit de la famille du deffunt President de Bordeaux, qui fut Ambassadeur en Angleterre, pourroit prendre party pour</hi> Bordeaux<hi rend="i">, afin d’avoir un nom commun avec une grande &amp; belle Ville ; mais ni vous ni moy, n’avons cet interest particulier, au préjudice du bon choix qu’il faut faire.</hi> </p>
+          <p><hi rend="i">Une pretenduë étymologie a donné lieu au doute. Il y a bien des gens qui lisent &amp; écrivent </hi> Bordeaux<hi rend="i">, sur l’imagination qu’ils ont, que le nom de cette Ville, luy vient du</hi> Bord des eaux<hi rend="i">, &amp; qu’ainsi il faut en conformité, la nommer</hi> Bordeaux<hi rend="i">. Cette origine n’est pas de distinction, &amp; de plus elle n’est pas raisonnable. Ce n’est qu’une petite allusion qui vient d’abord à la bouche, &amp; qui n’estant pas veritable, ne fait nulle consequence pour la dénomination de la Ville. À suivre le cours des grandes Rivieres de France, &amp; de la Garonne en particulier, depuis la source jusqu’à l’embouchure, il y a plusieurs Villes bâties sur le bas des eaux : Ce qui est si commun, n’est pas plus propre à nommer cette Ville que les autres. Il y a mesme quelque turpitude dans cette origine qu’il faut laisser à ces lieux de débauche, qu’on dit en avoir esté appellez dans le vieux stile,</hi> Bordeaux<hi rend="i">, à cause que ces loges de prostitution ont esté autrefois sur le bord de l’eau. Ciceron en fait mention.</hi> Ad partem littoris positis tabernaculis castra Luxuriæ collocaverat. Aprés avoir fait dresser des Tentes sur un endroit du Rivage, il y avoit placé le camp de la luxure. <hi rend="i">Enfin,</hi> Burdigala <hi rend="i">le mot Latin, estant plus ancien que le mot François, car on le trouve dans Ausone,</hi> Burdigala est natale solum, &amp;c. <hi rend="i">il n’y a aucune syllabe qui donne la moindre idée du bord de l’eau. Il n’en est pas de mesme dans Aigues-mortes, où le Latin contient &amp; exprime les eaux du nom François</hi> Aquæ-mortuæ. </p>
+          <p><hi rend="i">Il faut donc chercher l’origine du mot François dans</hi> Burdigala <hi rend="i">Latin. Elle se presente en deux gros ruisseaux</hi> Bourdes <hi rend="i">&amp;</hi> Jalles<hi rend="i">, qui ne sont pas éloignez de la Ville, &amp; qui à l’endroit où ils entrent dans la Garomne, qu’on dit estre à present sous l’Eglise de Saint Pierre, ont marqué celuy où la Ville a esté bastie. Or on voit dans ce premier Ruisseau </hi> Bourdes<hi rend="i">, qu’il faut dire</hi> Bourdeaux<hi rend="i">, &amp; non plus</hi> Bordeaux<hi rend="i">. Le fleuve de la Judée, qui de deux Fontaines, Jor &amp; Dan, a esté nommé en Latin</hi> Jordanes<hi rend="i">, est nommé en François</hi> Jourdain. </p>
+          <p><hi rend="i">Le mot</hi> Burdigala <hi rend="i">mesme sans l’étimologie, est favorable à</hi> Bourdeaux<hi rend="i">, parce que lorsque le Latin souffre une conversion de lettres au François,</hi> u<hi rend="i">, se change en la diphtongue</hi> ou<hi rend="i">. Exemples,</hi> cubitus <hi rend="i">c</hi> ou<hi rend="i"> de :</hi> curvus <hi rend="i">c</hi>ou<hi rend="i">rbe :</hi> dulcis <hi rend="i">d</hi> ou<hi rend="i">x : </hi> turma <hi rend="i">tr</hi>ou<hi rend="i">pe, &amp; non pas tr</hi> o<hi rend="i">pe qu’on trouve barbare dans Ronsard :</hi> nutrix <hi rend="i">n</hi>ou<hi rend="i">rrice, &amp; non pas n</hi>o<hi rend="i">rrice, qu’on ne peut souffrir dans plusieurs femmes de Paris ; de mesme</hi> Burdigala <hi rend="i">fait</hi> Bourdeaux. </p>
+          <p><hi rend="i">Il y a un double exemple où la Garonne entre dans l’Ocean</hi> turris Corduana<hi rend="i">, Tour de Cord</hi>ou<hi rend="i">an. Les autres Villes changent de mesme</hi> u <hi rend="i">en</hi> ou. Turones<hi rend="i">, Tours :</hi> Bituriges<hi rend="i">, Bourges, &amp;c. Le Palais du Roy,</hi> Lupara<hi rend="i">, le Louvre &amp; le nom mesme du Roy,</hi> Ludovicus<hi rend="i">, Loüis. Il ne faut pas ôter à </hi> Bourdeaux <hi rend="i">la dignité d’estre en communauté d’une diphtongue douce avec des Villes considerables, &amp; avec des noms Augustes.</hi> </p>
+          <p><hi rend="i">Une nouvelle preuve paroist dans le nom Grec de la Ville rapporté par Strabon, qui vivoit du temps d’Auguste. On lit au quatrième Livre de sa Geograpbie,</hi> Bourdegala<hi rend="i">. Or le François ayant beaucoup d’affinité avec le Grec, doit retenir la diphtongue</hi> ou <hi rend="i">pour Bourdeaux. Les Latins mesme ont esté jaloux de la doucceur de cette diphtongue dans les Grecs, &amp; l’ont quelquefois imitée trois fois dans un mesme mot, prononçant</hi> Lucullus<hi rend="i">, comme s’il y avoit </hi> Loucoullous<hi rend="i">. Nostre Langue la conserve dans ces grands noms,</hi> Bourges, Bourgogne <hi rend="i">; il faut pareillement la conserver dans la grande Ville de</hi> Bourdeaux. </p>
+          <p><hi rend="i">Il y a des Auteurs qui tiennent que ses Habitans ont esté autrefois appellez</hi> Bituriges<hi rend="i">, parce que des familles de Bourges, en ont esté les premiers Citoyens ; &amp; que de</hi> Bituriges <hi rend="i">on a substitué dans la basse latinité par contraction</hi> Bourga <hi rend="i">ou </hi> Bourgi<hi rend="i">. Tout cela établit le nom de</hi> Bourdeaux. </p>
+          <p><hi rend="i">On doit supposer que les Habitans sçavent le nom de leur Ville, comme un fils sçait le nom de son pere. Or il est constant qu’ils disoient</hi> Bourdeu <hi rend="i">dans le vieux langage, &amp; depuis ils disent</hi> Bourdeaux<hi rend="i">, comme il paroist dans la Chronique Bourdeloise, &amp; dans ses Archives de familles.</hi> </p>
+          <p><hi rend="i">Elie Vinet, ce sçavant homme qui fit honneur à l’Université de la Ville, presenta à Charles IX. en 1564 les Antiquitez de la Ville de</hi> Bourdeaux <hi rend="i">; &amp; audevant de son discours, on voit une Estampe de la Ville, où il y a en haut</hi> Bourdeaux. </p>
+          <p><hi rend="i">C’est l’affaire des Geographes de sçavoir les noms des Villes, aussi bien que des Montagnes &amp; des Rivieres. On lit dans les Cartes de Samson, de Duval, &amp; de Fer</hi> Bourdeaux <hi rend="i">: &amp; M<hi rend="sup">r</hi> Audifret qui donna l’année passée avec de petites Cartes la Geographie Ancienne, Moderne &amp; Historique, a mis dans son discours, &amp; gravé dans la Carte</hi> Bourdeaux. </p>
+          <p><hi rend="i">Enfin pour achever de vuider entierement le partage qui depuis quelques années est dans le Monde entre</hi> Bordeaux <hi rend="i">&amp;</hi> Bourdeaux<hi rend="i">, on peut alleguer en faveur du bel usage trois Auteurs illustres. M. le Maistre, fameux Avocat du Parlement de Paris, dans son Plaidoyer xxix. parle d’une Dame</hi> qui fait<hi rend="i">, dit-il,</hi> compassion à tout Bourdeaux. <hi rend="i"> M. Pelisson dans son Histoire de l’Academie Françoise, à l’article de M. le Comte de Servien dont il rapporte les titres, y met celuy de</hi> Premier President au Parlement de BOURDEAUX<hi rend="i">. Et le Pere Bouhours, dont les nouvelles Remarques sur la Langue Françoise peuvent estre jointes à celles de Vaugelas, comme de la Broderie sur du velours, dit aussi</hi> BOURDEAUX<hi rend="i">. C’est dans son premier entretien qui est de la Mer.</hi> Au contraire à la côte de BOURDEAUX, le flux est de sept heures. <hi rend="i">Il me semble que voila le nom de</hi> BOURDEAUX<hi rend="i">, aussi bien soûtenu à l’exclusion de Bordeaux, que si M. le Maistre en avoit fait un Plaidoyer, M. Pelisson une Histoire, &amp; le P. Bouhours un Entretien. Je suis, &amp;c.</hi> </p>
         </quote>
       </div>
     </body>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,27 +14,31 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-
-<p>Les Poëtes ayant exercé leur veine, &amp; les Musiciens leur talent sur la naissance
-  de Monseigneur le Duc de Bretagne, il a paru plusieurs Chansons sur ce sujet. 
-  Les paroles de celle que je vous envoye ont esté mises en Air par M<hi rend="sup">r</hi> du Careau.</p>
-<quote>
-  <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">O France</hi>, doit regarder la p. 20.</note>
-<lg>
-<l><hi rend="i">O France ! en merveilles feconde,</hi></l>
-<l><hi rend="i">Pour soûtenir l’éclat des Lis,</hi></l>
-<l> <hi rend="i">Le Ciel donne un nouveau Fils</hi></l>
-<l><hi rend="i">Au plus auguste Roy du monde.</hi></l>
-</lg>
-</quote>
-  <ref target="images/1707-02_19.JPG">
-    <figure>
-      <graphic url="images/1707-02_19.JPG"/>
-    </figure>
-  </ref>
-</div>
-</body>
+    <body>
+      <div>
+        <p>Les Poëtes ayant exercé leur veine, &amp; les Musiciens leur talent sur la naissance de Monseigneur le Duc de Bretagne, il a paru plusieurs Chansons sur ce sujet. Les paroles de celle que je vous envoye ont esté mises en Air par M<hi rend="sup">r</hi> du Careau.</p>
+        <quote>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">O France</hi>, doit regarder la p. 20.</note>
+          <lg>
+            <l>
+              <hi rend="i">O France ! en merveilles feconde,</hi>
+            </l>
+            <l>
+              <hi rend="i">Pour soûtenir l’éclat des Lis,</hi>
+            </l>
+            <l> <hi rend="i">Le Ciel donne un nouveau Fils</hi></l>
+            <l>
+              <hi rend="i">Au plus auguste Roy du monde.</hi>
+            </l>
+          </lg>
+        </quote>
+        <ref target="images/1707-02_19.JPG">
+          <figure>
+            <graphic url="images/1707-02_19.JPG"/>
+          </figure>
+        </ref>
+      </div>
+    </body>
   </text>
 </TEI>

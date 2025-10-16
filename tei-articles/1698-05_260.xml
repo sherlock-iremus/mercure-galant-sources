@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-          
-          <p>Nicolas Tavernier, Prestre, Lecteur &amp; Professeur du Roy en la Langue Grecque, ancien Recteur en l’Université de Paris, Sous-Principal du College Royal de Navarre, &amp; Doyen de la Tribu de Beauvais en la Nation de Picardie. Il avoit prés de quatre-vingt ans. Le Roy a nommé en sa place pour Professeur en Langue Grecque, M<hi rend="sup">r</hi> Pienud, Professeur de la Seconde du College d’Harcourt.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>Nicolas Tavernier, Prestre, Lecteur &amp; Professeur du Roy en la Langue Grecque, ancien Recteur en l’Université de Paris, Sous-Principal du College Royal de Navarre, &amp; Doyen de la Tribu de Beauvais en la Nation de Picardie. Il avoit prés de quatre-vingt ans. Le Roy a nommé en sa place pour Professeur en Langue Grecque, M<hi rend="sup">r</hi> Pienud, Professeur de la Seconde du College d’Harcourt.</p>
+      </div>
+    </body>
   </text>
 </TEI>

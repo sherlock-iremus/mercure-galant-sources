@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,26 +14,20 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Mr Ferret, d’Amiens, s’est servy tres-ingénieusement de cette mesme pensée dans le
-          Madrigal suivant.</p>
+    <body>
+      <div>
+        <p>Mr Ferret, d’Amiens, s’est servy tres-ingénieusement de cette mesme pensée dans le Madrigal suivant.</p>
         <label>Sur la Paix. </label>
         <label>MADRIGAL.</label>
-        <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>C'est en
-          vain que de toutes parts</l>
-        <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>On chante
-          que la Paix nouvelle</l>
+        <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>C'est en vain que de toutes parts</l>
+        <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>On chante que la Paix nouvelle</l>
         <l>Donne à mon Roy le pas au dessus des Césars,</l>
         <l>Et comble son grand Nom d’une gloire immortelle.</l>
-        <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Pour moy je
-          suis tout convaincu</l>
+        <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Pour moy je suis tout convaincu</l>
         <l><seg type="tab">    </seg>Que cette Paix à sa gloire est nuisible ;</l>
         <l>Car puis qu’en la donnant, Luy-mesme il s’est vaincu,</l>
-        <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Qui voudra
-          le croire invincible ?</l>
+        <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Qui voudra le croire invincible ?</l>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p/>
-          <p>Les Religieux du Monastere de S. Martial, Ordre de Cluny, dans la même Ville [Avignon], rendirent de pareilles Actions de graces le 2 de ce mois. M<hi rend="sup">r</hi> le Duc de Caderousse, &amp; Madame la Duchesse de Caderousse sa femme y assisterent accompagnez des plus considerables de la Noblesse &amp; des principales Dames, ainsi que d'un tres-grand nombre des premiers Citoyens d'Avignon. On avoit dressé un Feu de Joye devant l'Eglise. M<hi rend="sup">r</hi> le Duc de Caderousse l'alluma au son des Tambours &amp; des Trompettes, &amp; au bruit de quantité de Boëtes, &amp; de Feux d'artifice qui divertirent le public pendant tout le soir.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p/>
+        <p>Les Religieux du Monastere de S. Martial, Ordre de Cluny, dans la même Ville [Avignon], rendirent de pareilles Actions de graces le 2 de ce mois. M<hi rend="sup">r</hi> le Duc de Caderousse, &amp; Madame la Duchesse de Caderousse sa femme y assisterent accompagnez des plus considerables de la Noblesse &amp; des principales Dames, ainsi que d'un tres-grand nombre des premiers Citoyens d'Avignon. On avoit dressé un Feu de Joye devant l'Eglise. M<hi rend="sup">r</hi> le Duc de Caderousse l'alluma au son des Tambours &amp; des Trompettes, &amp; au bruit de quantité de Boëtes, &amp; de Feux d'artifice qui divertirent le public pendant tout le soir.</p>
+      </div>
+    </body>
   </text>
 </TEI>

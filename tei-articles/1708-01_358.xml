@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,20 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-                
-
-                
-
-                <p>On a pris onze Vaisseaux Anglois, chargez de marchandises, &amp; dans quelques uns
-                    desquels, il s’est trouvé des sommes d’argent assez considerables, &amp; un
-                    Paquebot venant de la Jamaïque, dont les nouvelles publiques ont fait monter la
-                    charge à 100 000 écus. Cependant on a apris depuis qu’il y avoit 400 mille
-                    livres, dans ce Paquebot[.]</p>
-
-            </div>
-
-
+    <body>
+      <div>
+        <p>On a pris onze Vaisseaux Anglois, chargez de marchandises, &amp; dans quelques uns desquels, il s’est trouvé des sommes d’argent assez considerables, &amp; un Paquebot venant de la Jamaïque, dont les nouvelles publiques ont fait monter la charge à 100 000 écus. Cependant on a apris depuis qu’il y avoit 400 mille livres, dans ce Paquebot[.]</p>
+      </div>
     </body>
   </text>
 </TEI>

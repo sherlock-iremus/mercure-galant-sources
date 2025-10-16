@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-          
-          <p>Le même <note resp="editor">Nicolas Langlois.</note> continuë l’Histoire du Roy en Almanachs, &amp; vient de mettre au jour la naissance de Monseigneur le Duc de Bretagne, avec tout ce qui s’est passé de remarquable pour celebrer cette heureuse naissance. Ce sujet est parfaitement bien executé, tant par l’ordonnance du Dessin &amp; la beauté des graveures, que par la ressemblance des Portraits &amp; le choix des plus beaux sujets de l’année.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>Le même <note resp="editor">Nicolas Langlois.</note> continuë l’Histoire du Roy en Almanachs, &amp; vient de mettre au jour la naissance de Monseigneur le Duc de Bretagne, avec tout ce qui s’est passé de remarquable pour celebrer cette heureuse naissance. Ce sujet est parfaitement bien executé, tant par l’ordonnance du Dessin &amp; la beauté des graveures, que par la ressemblance des Portraits &amp; le choix des plus beaux sujets de l’année.</p>
+      </div>
+    </body>
   </text>
 </TEI>

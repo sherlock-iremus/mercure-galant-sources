@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Voicy trois Madrigaux qu’elles ont déja fait faire à M<hi rend="sup">r</hi> Petit de
-          Roüen. Je vous ay parlé de luy dans deux ou trois de mes Lettres.</p>
+    <body>
+      <div>
+        <p>Voicy trois Madrigaux qu’elles ont déja fait faire à M<hi rend="sup">r</hi> Petit de Roüen. Je vous ay parlé de luy dans deux ou trois de mes Lettres.</p>
         <quote>
           <label>SUR LA MORT<lb/>DE L’ILLUSTRE<lb/>M<hi rend="sup">r</hi> DE CORNEILLE.</label>
           <lg>
@@ -45,8 +43,7 @@
           </lg>
           <lg>
             <label>III.</label>
-            <l><hi rend="i">Le Grand</hi> Corneille <hi rend="i">est mort, le Théatre
-              François</hi></l>
+            <l><hi rend="i">Le Grand</hi> Corneille <hi rend="i">est mort, le Théatre François</hi></l>
             <l rend="i"> Helas ! est aux derniers abois.</l>
             <l rend="i"> Ce fut de ce puissant Génie</l>
             <l rend="i">Qu’il tira son brillant, &amp; qu’il reçeut la vie.</l>
@@ -56,6 +53,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

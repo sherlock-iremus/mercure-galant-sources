@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
-        <p>Vous avez déja veu differens Contes de M<hi rend="sup">r</hi> de la Barre de Tours,
-          écrits d’un stile si naturel, qu’il me suffit de vous avertir que celuy que vous allez
-          lire, est de sa façon, pour vous faire attendre quelque chose de tres-agreable dans ce
-          genre. Il a pour titre.</p>
+        <p>Vous avez déja veu differens Contes de M<hi rend="sup">r</hi> de la Barre de Tours, écrits d’un stile si naturel, qu’il me suffit de vous avertir que celuy que vous allez lire, est de sa façon, pour vous faire attendre quelque chose de tres-agreable dans ce genre. Il a pour titre.</p>
         <quote>
           <label>LA RAVE DONNÉE<lb/>à Loüis XI.</label>
           <lg>
@@ -59,8 +55,7 @@
             <l rend="i">En differens endroits alla chercher azile,</l>
             <l rend="i">  Et que comme un Renard bien fin</l>
             <l rend="i">  Qui vise quelque volatile,</l>
-            <l>(<hi rend="i">L’Histoire en parle ainsi</hi>) <hi rend="i">chez Philippe le
-              Bon,</hi></l>
+            <l>(<hi rend="i">L’Histoire en parle ainsi</hi>) <hi rend="i">chez Philippe le Bon,</hi></l>
             <l rend="i">  Ce mesme Prince Bourguignon</l>
             <l rend="i">Dont j’ay fait le portrait en parlant d’Oenophile,</l>
             <l rend="i">Ce Dauphin se glissa, se voyant fugitif</l>
@@ -198,8 +193,7 @@
             <l rend="i">Et qui croyoit en Dieu moins qu’en argent comptant,</l>
             <l rend="i"> Aux Courtisans c’estoit chose commune,</l>
             <l rend="i">La Pieté pour lors n’ayant pas le haut rang</l>
-            <l>  <hi rend="i">Que luy donne</hi>
-              <hi rend="sc">Loüis le Grand</hi>.</l>
+            <l>  <hi rend="i">Que luy donne</hi> <hi rend="sc">Loüis le Grand</hi>.</l>
             <l rend="i"> Ce Courtisan, dont l’ame interessée</l>
             <l rend="i"> Avoit connu qu’une Rave donnée</l>
             <l rend="i">  Avec beaucoup de liberté,</l>
@@ -257,6 +251,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

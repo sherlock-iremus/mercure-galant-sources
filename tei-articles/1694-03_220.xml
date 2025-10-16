@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,24 +14,23 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-          
-          <p>La Chirurgie pouvant estre mise au nombre des choses les plus necessaires, &amp; les plus utiles à un Estat, la Compagnie des Maistres Chirurgiens Jurez de Paris, aprés avoir acquis un fond de terre proche les Ecoles Royales de Chirurgie, a crû ne le pouvoir mieux employer qu’à la construction d’un Amphithéatre Anatomique plus étendu &amp; plus commode que celuy où elle faisoit autrefois ses Actions publiques, afin qu’il puisse contenir le grand nombre d’Ecoliers qui viennent de toutes parts, dans le dessein de s’instruire &amp; de profiter des Leçons Anatomiques &amp; Chirurgicales que Messieurs Bienaise &amp; Roberdeau ont fondées, depuis quelques temps, pour estre faites dans les deux principales saisons de l’année.</p>
-          <p>A peine commençoit-on cet Edifice, que sur le bruit qu’il fit dans Paris, M. Perrault, de l’Academie Françoise, envoya à la Compagnie le Madrigal que vous allez lire.</p>
-          <quote>
-            <lg>
-              <l rend="i"> On éleve en nos jours un vaste Amphithéatre</l>
-              <l rend="i"> Pour le bel Art qui sçait guerir.</l>
-              <l rend="i">Rome en faisoit construire en son culte idolatre</l>
-              <l rend="i">Pour des Gladiateurs qu’elle y faisoit mourir.</l>
-              <l rend="i">Redoublez vostre ardeur, signalez vostre zele,</l>
-              <l rend="i">Vous, qu’à ce grand dessein appelle un heureux sort.</l>
-              <l rend="i">On doit une gloire immortelle</l>
-              <l rend="i">A l’Art qui surmonte la mort.</l>
-            </lg>
-          </quote>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>La Chirurgie pouvant estre mise au nombre des choses les plus necessaires, &amp; les plus utiles à un Estat, la Compagnie des Maistres Chirurgiens Jurez de Paris, aprés avoir acquis un fond de terre proche les Ecoles Royales de Chirurgie, a crû ne le pouvoir mieux employer qu’à la construction d’un Amphithéatre Anatomique plus étendu &amp; plus commode que celuy où elle faisoit autrefois ses Actions publiques, afin qu’il puisse contenir le grand nombre d’Ecoliers qui viennent de toutes parts, dans le dessein de s’instruire &amp; de profiter des Leçons Anatomiques &amp; Chirurgicales que Messieurs Bienaise &amp; Roberdeau ont fondées, depuis quelques temps, pour estre faites dans les deux principales saisons de l’année.</p>
+        <p>A peine commençoit-on cet Edifice, que sur le bruit qu’il fit dans Paris, M. Perrault, de l’Academie Françoise, envoya à la Compagnie le Madrigal que vous allez lire.</p>
+        <quote>
+          <lg>
+            <l rend="i"> On éleve en nos jours un vaste Amphithéatre</l>
+            <l rend="i"> Pour le bel Art qui sçait guerir.</l>
+            <l rend="i">Rome en faisoit construire en son culte idolatre</l>
+            <l rend="i">Pour des Gladiateurs qu’elle y faisoit mourir.</l>
+            <l rend="i">Redoublez vostre ardeur, signalez vostre zele,</l>
+            <l rend="i">Vous, qu’à ce grand dessein appelle un heureux sort.</l>
+            <l rend="i">On doit une gloire immortelle</l>
+            <l rend="i">A l’Art qui surmonte la mort.</l>
+          </lg>
+        </quote>
+      </div>
+    </body>
   </text>
 </TEI>

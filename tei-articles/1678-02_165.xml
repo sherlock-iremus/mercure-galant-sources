@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Cette vangeance est quelquefois à craindre pour les Belles qui sont trop fieres ; mais il
-          n’en faut pas toûjours croire les Amans, &amp; je sçay fort bon gré à une Dame de merite
-          qui estant sollicitée par un Seigneur Etranger qui poussa la déclaration un peu loin, se
-          tira d’affaires en plaisantant avec luy. Voicy de quelle maniere une de ses Amies à qui
-          l’âge permet de tout dire, &amp; qui fait souvent de petites Pieces galantes, a tournée la
-          Réponse qu’elle luy fit.</p>
+    <body>
+      <div>
+        <p>Cette vangeance est quelquefois à craindre pour les Belles qui sont trop fieres ; mais il n’en faut pas toûjours croire les Amans, &amp; je sçay fort bon gré à une Dame de merite qui estant sollicitée par un Seigneur Etranger qui poussa la déclaration un peu loin, se tira d’affaires en plaisantant avec luy. Voicy de quelle maniere une de ses Amies à qui l’âge permet de tout dire, &amp; qui fait souvent de petites Pieces galantes, a tournée la Réponse qu’elle luy fit.</p>
         <quote rend="border">
           <label rend="center">Sonnet.</label>
           <lg>
@@ -52,6 +46,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

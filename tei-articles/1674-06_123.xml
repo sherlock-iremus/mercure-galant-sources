@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Puis que nous sommes sur le chapitre des Vers, je croy vous devoir faire part d’une Piece
-          Galante, qui plaira sans doute à vos belles Provinciales. Si je vous disois le Nom de
-          l’Autheur, vous donneriez par avance à cette Piece toutes les loüanges qui luy sont
-          deües ; mais comme il méprise ces sortes d’Ouvrages, &amp; qu’il est capable de plus
-          grandes choses, il ne m’est pas permis de le nommer.</p>
+    <body>
+      <div>
+        <p>Puis que nous sommes sur le chapitre des Vers, je croy vous devoir faire part d’une Piece Galante, qui plaira sans doute à vos belles Provinciales. Si je vous disois le Nom de l’Autheur, vous donneriez par avance à cette Piece toutes les loüanges qui luy sont deües ; mais comme il méprise ces sortes d’Ouvrages, &amp; qu’il est capable de plus grandes choses, il ne m’est pas permis de le nommer.</p>
         <quote rend="border">
           <label rend="center b">Le Divorce</label>
           <label rend="center b">De l’Amour</label>
@@ -287,7 +282,8 @@
             <l>Il se flatte de plus de gloire,</l>
             <l>À remporter seul la victoire</l>
             <l>Sur tant de puissans ennemis.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l><space/>Voilà la source infortunée,</l>
             <l>D’où naquit la division</l>
             <l>Qui rompit la belle union</l>
@@ -317,7 +313,8 @@
             <l>Sont plein de troubles et d’alarmes,</l>
             <l>Et l’Amour seul avec ses charmes,</l>
             <l>Suffit au bonheur des Amans.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l><space/>Profitez de cette querelle,</l>
             <l>Vous que l’Hymen fit tant souffrir,</l>
             <l>Que l’on vous vit preste à perir</l>
@@ -327,6 +324,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

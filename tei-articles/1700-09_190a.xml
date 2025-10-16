@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,19 +14,18 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p>Mademoiselle de Scudery fit cette réponse à M<hi rend="sup">r</hi> Moreau.</p>
-          <quote>
-            <lg>
-              <l rend="i">Vostre Madrigal est galant,</l>
-              <l rend="i">Il est naturel &amp; sçavant,</l>
-              <l rend="i">Et j’ay regret, je le confesse,</l>
-              <l rend="i">De n’estre pas une Déesse.</l>
-            </lg>
-          </quote>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>Mademoiselle de Scudery fit cette réponse à M<hi rend="sup">r</hi> Moreau.</p>
+        <quote>
+          <lg>
+            <l rend="i">Vostre Madrigal est galant,</l>
+            <l rend="i">Il est naturel &amp; sçavant,</l>
+            <l rend="i">Et j’ay regret, je le confesse,</l>
+            <l rend="i">De n’estre pas une Déesse.</l>
+          </lg>
+        </quote>
+      </div>
+    </body>
   </text>
 </TEI>

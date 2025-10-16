@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,32 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
+    <body>
+      <div>
         <label rend="center">Aux Dames.</label>
-        <p>CE n’est point vous faire un Présent, Mesdames, que de vous donner <hi rend="i">
-          l’Extraordinaire</hi>, c’est vous rendre un Ouvrage qui vient de vous. Il est tout plein,
-          ou de ce que vous avez produit vous mêmes, ou de ce que vous avez fait produire aux
-          autres. Quelle joye ne ressent pas <hi rend="i">le Mercure</hi> de voir que vos Plumes
-          ayent travaillé à l’embellir ! Il n’a pû se taire de ce bonheur ; &amp; si aprés s’estre
-          borné pendant plus d’un An à paroître reglément dans le monde tous les mois, il emprunte
-          aujourd’huy un nouvel éclat pour s’y montrer à des temps extraordinaires, il ne le fait
-          que dans le dessein de publier vos faveurs. Il croit même que ce n’est qu’en les publiant
-          qu’il peut s’acquiter de celles qu’il a reçeuës, &amp; s’en attirer de nouvelles. Il
-          prétend vous faire passer son indiscretion pour une marque de sa reconnoissance, &amp;
-          pour vous engager à le combler toûjours des mêmes bontez, il vous jure qu’il sera
-          éternellement indiscret. Il n’y en a aucune entre vous qui ne sçache par l’expérience
-          qu’elle en a veu faire à ses Amans, que quand on aime, il est fort naturel de ne pouvoir
-          s’empescher de le publier, &amp; que ceux dont le cœur est bien engagé, croiroient
-          beaucoup perdre, s’ils perdoient le plaisir de dire que leur cœur est engagé. Le <hi rend="i">Mercure</hi> a suivy cet exemple. Il n’a pû estre aussi remply d’estime pour le
-          beau Sexe qu’il l’estoit, sans en instruire le Public ; &amp; cette passion qui est de la
-          nature de celles que vous inspirez, c’est à dire, tres-forte &amp; tres-agreable, n’a pû
-          se taire ny se renfermer. Si vous soufrez que <hi rend="i">le Mercure Galant</hi> vous
-          fasse des Déclarations d’amour à sa maniere, il vous dira que luy à qui il passe entre les
-          mains assez d’Ouvrages spirituels, &amp; qui se mesle un peu de ce mestier-là, il fait
-          bien plus de cas de vous que des Hommes ; &amp; je trouve qu’il a raison.</p>
+        <p>CE n’est point vous faire un Présent, Mesdames, que de vous donner <hi rend="i"> l’Extraordinaire</hi>, c’est vous rendre un Ouvrage qui vient de vous. Il est tout plein, ou de ce que vous avez produit vous mêmes, ou de ce que vous avez fait produire aux autres. Quelle joye ne ressent pas <hi rend="i">le Mercure</hi> de voir que vos Plumes ayent travaillé à l’embellir ! Il n’a pû se taire de ce bonheur ; &amp; si aprés s’estre borné pendant plus d’un An à paroître reglément dans le monde tous les mois, il emprunte aujourd’huy un nouvel éclat pour s’y montrer à des temps extraordinaires, il ne le fait que dans le dessein de publier vos faveurs. Il croit même que ce n’est qu’en les publiant qu’il peut s’acquiter de celles qu’il a reçeuës, &amp; s’en attirer de nouvelles. Il prétend vous faire passer son indiscretion pour une marque de sa reconnoissance, &amp; pour vous engager à le combler toûjours des mêmes bontez, il vous jure qu’il sera éternellement indiscret. Il n’y en a aucune entre vous qui ne sçache par l’expérience qu’elle en a veu faire à ses Amans, que quand on aime, il est fort naturel de ne pouvoir s’empescher de le publier, &amp; que ceux dont le cœur est bien engagé, croiroient beaucoup perdre, s’ils perdoient le plaisir de dire que leur cœur est engagé. Le <hi rend="i">Mercure</hi> a suivy cet exemple. Il n’a pû estre aussi remply d’estime pour le beau Sexe qu’il l’estoit, sans en instruire le Public ; &amp; cette passion qui est de la nature de celles que vous inspirez, c’est à dire, tres-forte &amp; tres-agreable, n’a pû se taire ny se renfermer. Si vous soufrez que <hi rend="i">le Mercure Galant</hi> vous fasse des Déclarations d’amour à sa maniere, il vous dira que luy à qui il passe entre les mains assez d’Ouvrages spirituels, &amp; qui se mesle un peu de ce mestier-là, il fait bien plus de cas de vous que des Hommes ; &amp; je trouve qu’il a raison.</p>
         <lg>
           <l><space/>    L’esprit des Hommes d’ordinaire</l>
           <l><space/>    Est un pur ouvrage de l’Art.</l>
@@ -54,10 +32,7 @@
           <l>Grecs, ny Latins, n’y peuvent rien prétendre,</l>
           <l><space/>Et tout vôtre esprit est à vous.</l>
         </lg>
-        <p><hi rend="i">Le Mercure Galant</hi> va plus loin, &amp; ce n’est point une exagération
-          d’Amant. Il prétend que les Hommes vous ont l’obligation de toute la politesse de leur
-          Esprit, &amp; que vous leur en inspirez plus que la plus heureuse naissance ne leur en
-          sçauroit donner ; car enfin</p>
+        <p><hi rend="i">Le Mercure Galant</hi> va plus loin, &amp; ce n’est point une exagération d’Amant. Il prétend que les Hommes vous ont l’obligation de toute la politesse de leur Esprit, &amp; que vous leur en inspirez plus que la plus heureuse naissance ne leur en sçauroit donner ; car enfin</p>
         <lg>
           <l>Aprés qu’on en a pris des leçons dans vos yeux,</l>
           <l><space/>    Il est certain que c’est toute autre chose ;</l>
@@ -74,14 +49,8 @@
           <l>Quelque esprit que l’on ait, il faut un peu d’amour,</l>
           <l><space/><space/>        Cela fait tous les biens du monde.</l>
         </lg>
-        <p>Voila, Mesdames, les sentimens passionnez que <hi rend="i">le Mercure Galant</hi> a pour
-          vous. Il vous répond de sa constance, &amp; vous assure que si chaque Amant en a autant
-          pour chacune de vous, qu’il en aura pour tout le beau Sexe, vous ne vous plaindrez jamais
-          d’aucune infidelité ; mais aussi il veut estre récompensé de l’attachement qu’il a pour
-          vous, &amp; il vous demande à toutes en general, ce que chaque Belle en particulier fait
-          quelquefois acheter si cher à un Amant, je veux dire un peu d’estime pour luy, &amp; s’il
-          se peut, un peu d’empressement de le voir.</p>
+        <p>Voila, Mesdames, les sentimens passionnez que <hi rend="i">le Mercure Galant</hi> a pour vous. Il vous répond de sa constance, &amp; vous assure que si chaque Amant en a autant pour chacune de vous, qu’il en aura pour tout le beau Sexe, vous ne vous plaindrez jamais d’aucune infidelité ; mais aussi il veut estre récompensé de l’attachement qu’il a pour vous, &amp; il vous demande à toutes en general, ce que chaque Belle en particulier fait quelquefois acheter si cher à un Amant, je veux dire un peu d’estime pour luy, &amp; s’il se peut, un peu d’empressement de le voir.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

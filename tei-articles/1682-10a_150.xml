@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,18 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
-        <p>[...] A ce Repas succeda la Dance, qui donna lieu à ces aimables Demoiselles de faire
-          paroître combien elles ont l’oreille juste. M<hi rend="sup">r</hi> de Courserac leur Pere
-          s’est converty depuis peu avec sa belle &amp; grande Famille, composée de treize Enfans.
-          Il a deux Fils qui servent le Roy depuis douze ans. L’un qu’on appelle M<hi rend="sup">r</hi> de Bardon, est Capitaine dans le Régiment du Maine. L’autre est Lieutenant au
-          Régiment Colonel, &amp; tous deux tres-braves. Je ne puis mieux finir cet article, que par
-          un Sonnet de Mademoiselle de Bardon leur Sœur, sur le Laurier qu’elle a fait brûler. Il
-          vous fera voir que si son cœur d’Amazone la rend Amie de Pallas, elle ne l’est pas moins
-          des Muses.</p>
+    <body>
+      <div>
+        <p>[...] A ce Repas succeda la Dance, qui donna lieu à ces aimables Demoiselles de faire paroître combien elles ont l’oreille juste. M<hi rend="sup">r</hi> de Courserac leur Pere s’est converty depuis peu avec sa belle &amp; grande Famille, composée de treize Enfans. Il a deux Fils qui servent le Roy depuis douze ans. L’un qu’on appelle M<hi rend="sup">r</hi> de Bardon, est Capitaine dans le Régiment du Maine. L’autre est Lieutenant au Régiment Colonel, &amp; tous deux tres-braves. Je ne puis mieux finir cet article, que par un Sonnet de Mademoiselle de Bardon leur Sœur, sur le Laurier qu’elle a fait brûler. Il vous fera voir que si son cœur d’Amazone la rend Amie de Pallas, elle ne l’est pas moins des Muses.</p>
         <quote>
           <label>SONNET.</label>
           <lg>
@@ -59,6 +50,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

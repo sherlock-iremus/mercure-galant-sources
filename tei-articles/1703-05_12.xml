@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,24 +14,33 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <quote>
-            <label>Envoy du 2. May 1703.</label>
-            <lg>
-              <l><hi rend="i">C’Est un May que je vous envoye,</hi></l>
-              <l> <hi rend="i">Il doit vous donner de la joye,</hi></l>
-              <l> <hi rend="i">Puisqu’il parle d’un grand Heros</hi></l>
-              <l><hi rend="i">Qui pour nos suretez immole son repos.</hi></l>
-              <l><hi rend="i">Vous ? qui depuis trente ans portez par tout sa gloire,</hi></l>
-              <l> <hi rend="i">Et sur la terre &amp; sur les eaux :</hi></l>
-              <l> <hi rend="i">Mercure, aprestez vous par des chants de victoire,</hi></l>
-              <l><hi rend="i">À vanter de Louis les triomphes nouveaux.</hi></l>
-            </lg>
-            <p><hi rend="i">DU LIVETY.</hi></p>
-          </quote>
-        </div>
-        </body>
+    <body>
+      <div>
+        <quote>
+          <label>Envoy du 2. May 1703.</label>
+          <lg>
+            <l>
+              <hi rend="i">C’Est un May que je vous envoye,</hi>
+            </l>
+            <l> <hi rend="i">Il doit vous donner de la joye,</hi></l>
+            <l> <hi rend="i">Puisqu’il parle d’un grand Heros</hi></l>
+            <l>
+              <hi rend="i">Qui pour nos suretez immole son repos.</hi>
+            </l>
+            <l>
+              <hi rend="i">Vous ? qui depuis trente ans portez par tout sa gloire,</hi>
+            </l>
+            <l> <hi rend="i">Et sur la terre &amp; sur les eaux :</hi></l>
+            <l> <hi rend="i">Mercure, aprestez vous par des chants de victoire,</hi></l>
+            <l>
+              <hi rend="i">À vanter de Louis les triomphes nouveaux.</hi>
+            </l>
+          </lg>
+          <p>
+            <hi rend="i">DU LIVETY.</hi>
+          </p>
+        </quote>
+      </div>
+    </body>
   </text>
 </TEI>

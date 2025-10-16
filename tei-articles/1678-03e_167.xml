@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,19 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
+    <body>
+      <div>
         <quote>
           <label rend="center">Lettre XXV.</label>
         </quote>
-        <p>Fragment d’une Lettre de Richelieu, dans laquelle il est marqué que plusieurs Dames de
-          cette magnifique Ville ont deviné les Enigmes de l’Académie Françoise &amp; du Coq. Voicy
-          ce qui suit &amp; ce que cette Lettre en dit.</p>
+        <p>Fragment d’une Lettre de Richelieu, dans laquelle il est marqué que plusieurs Dames de cette magnifique Ville ont deviné les Enigmes de l’Académie Françoise &amp; du Coq. Voicy ce qui suit &amp; ce que cette Lettre en dit.</p>
         <quote>
-          <p>POur l’Estampe, on luy donne icy plusieurs sens. Les uns veulent que ce soit <hi rend="i">la Triple Alliance étonnée</hi> ; les autres, <hi rend="i">la Jalousie</hi> ;
-            &amp; les autres, <hi rend="i">la Paix</hi>. Mais pour moy,</p>
+          <p>POur l’Estampe, on luy donne icy plusieurs sens. Les uns veulent que ce soit <hi rend="i">la Triple Alliance étonnée</hi> ; les autres, <hi rend="i">la Jalousie</hi> ; &amp; les autres, <hi rend="i">la Paix</hi>. Mais pour moy,</p>
           <lg>
             <l><space/><space/>        Quand le tout en un point j’assemble,</l>
             <l><space/><space/>        Dedans cette Enigme il me semble</l>
@@ -61,10 +56,9 @@
             <l>Charmé de sa posture, il suit ses Etendards,</l>
             <l>Et fiérement méprise &amp; l’Amour &amp; ses larmes.</l>
           </lg>
-          <p>Nous verrons dans le Tome de ce Mois, si <hi rend="i">le Depart du Roy</hi> est le vray
-            sens de l’Enigme du Tableau. Je l’attens avec impatience, &amp; suis vostre, &amp;c.</p>
+          <p>Nous verrons dans le Tome de ce Mois, si <hi rend="i">le Depart du Roy</hi> est le vray sens de l’Enigme du Tableau. Je l’attens avec impatience, &amp; suis vostre, &amp;c.</p>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

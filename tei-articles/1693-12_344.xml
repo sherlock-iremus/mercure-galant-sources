@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Je ne doute point que l'Air nouveau dont vous allez lire les paroles, ne soit de vostre goust, puis qu'il est d'un fort habile Musicien.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin">L’Air doit regarder la page 345.</note>
-          <lg><l rend="i">Princes, jaloux du plus puissant des Rois,</l>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin">L’Air doit regarder la page 345.</note>
+          <lg>
+            <l rend="i">Princes, jaloux du plus puissant des Rois,</l>
             <l rend="i">De vostre propre sang vos campagnes rougissent ;</l>
             <l rend="i">Malgré tous vos efforts les Lis fleurissent,</l>
             <l rend="i">Et Loüis est brillant de ces nouveaux exploits.</l>
@@ -29,7 +30,8 @@
             <l rend="i">Il court de victoire en Victoire,</l>
             <l rend="i">Et soumet à ses loix les Peuples les plus fiers.</l>
             <l rend="i">Tout cede à sa puissance &amp; sur terre sur l'onde ;</l>
-            <l rend="i">Rien ne peut l'arrester que l'Empire du Monde.</l></lg>
+            <l rend="i">Rien ne peut l'arrester que l'Empire du Monde.</l>
+          </lg>
         </quote>
         <ref target="images/1693-12_344.JPG">
           <figure>
@@ -37,6 +39,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

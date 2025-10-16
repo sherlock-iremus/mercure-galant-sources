@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p><hi rend="i">Le Remede Anglois</hi>, ou <hi rend="i">Harlequin Prince de Quinquina</hi>, a paru depuis trois semaines sur le Théatre des Italiens. Comme rien n’est plus à la mode que ce Remede, &amp; qu’ils ont traité cette Comédie selon leurs regles, c’est à dire, en y mêlant un fort grand nombre de Scenes plaisantes, elle a attiré quantité de monde, &amp; auroit esté encor plus suivie sans l’incommode rigueur du froid, qui oblige la plûpart des Dames à renoncer aux plaisirs publics.</p>
         <p>Les François representerent Vendredy dernier <hi rend="i">l’Aspar</hi> de M<hi rend="sup">r</hi> de Fontenelle. La beauté des Vers y soûtient par tout celle des Pensées ; &amp; si on pouvoit se plaindre qu’il y eust trop d’esprit dans un Ouvrage, c’est un defaut qu’on imputeroit peut-estre à cette Piece.</p>
         <p>Je ne suis point étonné de l’impatience que vous me marquez, d’avoir des nouvelles de l’Escarboucle dont je vous parlay la derniere fois. Tout le monde a la mesme curiosité ; mais n’estant pas encor assez bien instruit de la suite de cette affaire, pour vous en donner l’éclaircissement que vous souhaitez, je remets au mois prochain à vous dire ce que j’en auray apris.</p>
-        <p><space rend="tab">    </space>Je vous ay déjà mandé qu’on faisoit de grands apprests pour un Balet magnifique, qui a pour Sujet, <hi rend="i">Le Triomphe de l’Amour</hi>. Ce n’est ny un Opéra, ny un Balet en Machines, mais seulement une Mascarade, qui devoit estre dancée à Versailles le jour de la Feste de S. Hubert. La maladie de Monseigneur le Dauphin ayant obligé de la reculer, on l’a remise jusqu’au douziéme de Janvier. Je puis vous assurer par avance, qu’on n’aura rien veu de plus somptueux que les Habits. Les Dialogues qui séparent les Entrées en plusieurs endroits, &amp; que M<hi rend="sup">r</hi> de Lully a mis en Musique, sont d’une beauté qui passe tout ce qu’on a veu de cette nature ; &amp; comme il n’y aura point de changemens de Théatre, la Décoration qui régnera pendant ce Balet, sera d’une invention toute singuliere. Il est composé de vingt Entrées, dont je vais icy ajoûter l’ordre, avec les Noms des Seigneurs &amp; Dames qui doivent avoir l’honneur de dancer avec Monseigneur le Dauphin, &amp; Madame la Dauphine. Divers accidens, ou de maladie, ou de mort dans les Familles, ont esté cause qu’il y a eu plusieurs changemens dans ce Balet, depuis qu’il a esté résolu ; &amp; mesme je ne voudrois pas répondre qu’il n’y en eust encor quelques-uns jusqu’au jour où il doit estre dancé. Je ne vous dis rien de la Musique, ne vous envoyant les Noms de ceux qui doivent paroître dans ces vingt Entrées, que parce que vous m’avez témoigné souhaiter d’apprendre qui sont les Personnes de qualité que Monseigneur le Dauphin a voulu choisir pour ce Divertissement.</p>
+        <p><space rend="tab"> </space>Je vous ay déjà mandé qu’on faisoit de grands apprests pour un Balet magnifique, qui a pour Sujet, <hi rend="i">Le Triomphe de l’Amour</hi>. Ce n’est ny un Opéra, ny un Balet en Machines, mais seulement une Mascarade, qui devoit estre dancée à Versailles le jour de la Feste de S. Hubert. La maladie de Monseigneur le Dauphin ayant obligé de la reculer, on l’a remise jusqu’au douziéme de Janvier. Je puis vous assurer par avance, qu’on n’aura rien veu de plus somptueux que les Habits. Les Dialogues qui séparent les Entrées en plusieurs endroits, &amp; que M<hi rend="sup">r</hi> de Lully a mis en Musique, sont d’une beauté qui passe tout ce qu’on a veu de cette nature ; &amp; comme il n’y aura point de changemens de Théatre, la Décoration qui régnera pendant ce Balet, sera d’une invention toute singuliere. Il est composé de vingt Entrées, dont je vais icy ajoûter l’ordre, avec les Noms des Seigneurs &amp; Dames qui doivent avoir l’honneur de dancer avec Monseigneur le Dauphin, &amp; Madame la Dauphine. Divers accidens, ou de maladie, ou de mort dans les Familles, ont esté cause qu’il y a eu plusieurs changemens dans ce Balet, depuis qu’il a esté résolu ; &amp; mesme je ne voudrois pas répondre qu’il n’y en eust encor quelques-uns jusqu’au jour où il doit estre dancé. Je ne vous dis rien de la Musique, ne vous envoyant les Noms de ceux qui doivent paroître dans ces vingt Entrées, que parce que vous m’avez témoigné souhaiter d’apprendre qui sont les Personnes de qualité que Monseigneur le Dauphin a voulu choisir pour ce Divertissement.</p>
         <p/>
         <p>PREMIERE ENTREE.</p>
         <p rend="i">Trois Graces. </p>

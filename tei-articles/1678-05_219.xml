@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Le Madrigal qui suit est d’une Dame qui a infiniment du mérite. Je ne vous dis rien de
-          son Esprit, vous en jugerez par ses Vers. Si elle estoit infaillible dans ce qu’elle veut
-          quelquefois deviner, le Tirsis dont elle parle auroit sujet de se croire heureux, car la
-          Bergere est des plus aimables, &amp; la gloire d’avoir quelque place dans son cœur seroit
-          une des meilleures fortunes qu’il pust esperer.</p>
+    <body>
+      <div>
+        <p>Le Madrigal qui suit est d’une Dame qui a infiniment du mérite. Je ne vous dis rien de son Esprit, vous en jugerez par ses Vers. Si elle estoit infaillible dans ce qu’elle veut quelquefois deviner, le Tirsis dont elle parle auroit sujet de se croire heureux, car la Bergere est des plus aimables, &amp; la gloire d’avoir quelque place dans son cœur seroit une des meilleures fortunes qu’il pust esperer.</p>
         <quote>
           <label>MADRIGAL.</label>
           <lg>
@@ -38,6 +33,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

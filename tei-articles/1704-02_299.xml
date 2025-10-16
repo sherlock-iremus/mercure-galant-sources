@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p>Je vous parlai le mois passé des cent questions &amp; réponses de M<hi rend="sup">r</hi> l’Abbé Bourdelon, il vient de donner un second Volume au public, qui en contient autant que le premier, ce qui marque le succés de cet Ouvrage, puisque cet Auteur ne l’auroit pas continué s’il n’avoit beaucoup réüssi.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>Je vous parlai le mois passé des cent questions &amp; réponses de M<hi rend="sup">r</hi> l’Abbé Bourdelon, il vient de donner un second Volume au public, qui en contient autant que le premier, ce qui marque le succés de cet Ouvrage, puisque cet Auteur ne l’auroit pas continué s’il n’avoit beaucoup réüssi.</p>
+      </div>
+    </body>
   </text>
 </TEI>

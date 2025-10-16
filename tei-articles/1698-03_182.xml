@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Les Vers de l'Air nouveau que vous trouverez icy gravé, sont de Mademoiselle d'Alerac de la Charce, de la Tour du Pin, &amp; ils ont esté notez par M<hi rend="sup">r</hi> l'Abbé de Poissy, qui devient fort à la mode, non seulement pour la Musique, qu'il ne fait que dans le dessein de se divertir, mais encore pour tous ses Ouvrages d'esprit, qui sont extremement estimez dans le beau monde.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin">L’Air, <hi rend="i">Terrible Mars, &amp;c.</hi> page 183.</note>
-          <lg><l rend="i">Terrible Mars, fiere Bellone,</l>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin">L’Air, <hi rend="i">Terrible Mars, &amp;c.</hi> page 183.</note>
+          <lg>
+            <l rend="i">Terrible Mars, fiere Bellone,</l>
             <l rend="i">Vous laissez conclure la Paix,</l>
             <l rend="i">Qu'est-ce qui vous étonne ?</l>
             <l rend="i">Pourquoy tout l'Univers ne sent il pas vos traits ?</l>
@@ -28,14 +29,15 @@
             <l rend="i">Pour moy la Paix n'est plus un bien.</l>
             <l rend="i">Pour tous les pleurs que l'on me voit repandre</l>
             <l rend="i">Voicy de vous ce que j'oze pretendre,</l>
-            <l rend="i">C'est de voir tous les cœurs souffrir comme le mien.</l></lg>
+            <l rend="i">C'est de voir tous les cœurs souffrir comme le mien.</l>
+          </lg>
         </quote>
         <ref target="images/1698-03_182.JPG">
           <figure>
             <graphic url="images/1698-03_182.JPG"/>
           </figure>
         </ref>
-        </div>
-        </body>
+      </div>
+    </body>
   </text>
 </TEI>

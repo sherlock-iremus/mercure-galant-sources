@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,18 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>L’Air nouveau que vous allez voir, est de la composition d’un excellent Musicien de la
-          Cathedrale de Montpellier. Les Paroles sont de M<hi rend="sup">r</hi> Laussel, Avocat en
-          la Cour des Aydes de la mesme Ville. Son mérite &amp; son génie aisé &amp; naturel pour la
-          Poësie, sont connus de tout ce qu’il y a de Gens d’esprit dans la Province. Il a donné des
-          marques du sien par plusieurs Ouvrages, dont il a fait part au Public.</p>
+    <body>
+      <div>
+        <p>L’Air nouveau que vous allez voir, est de la composition d’un excellent Musicien de la Cathedrale de Montpellier. Les Paroles sont de M<hi rend="sup">r</hi> Laussel, Avocat en la Cour des Aydes de la mesme Ville. Son mérite &amp; son génie aisé &amp; naturel pour la Poësie, sont connus de tout ce qu’il y a de Gens d’esprit dans la Province. Il a donné des marques du sien par plusieurs Ouvrages, dont il a fait part au Public.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour
-              placer les Figures</hi> : l’Air qui commence par, <hi rend="i">Si pour avoir veu
-              seulement</hi>, doit regarder la page 225.</note>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par, <hi rend="i">Si pour avoir veu seulement</hi>, doit regarder la page 225.</note>
           <lg>
             <l rend="i">Si pour avoir veu seulement</l>
             <l rend="i">Le Portrait d’un Objet aimable ;</l>
@@ -42,6 +36,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

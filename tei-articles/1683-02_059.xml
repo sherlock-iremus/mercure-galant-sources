@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>M<hi rend="sup">r</hi> du Ruisseau va vous dire des nouvelles d’un autre Mariage, dont il
-          doit sçavoir les circonstances, puis qu’il est de sa façon. Diverses Fables que vous avez
-          déja veuës de luy, vous ont fait aimer son stile, &amp; je croy qu’il ne vous déplaira pas
-          en celle-cy.</p>
+    <body>
+      <div>
+        <p>M<hi rend="sup">r</hi> du Ruisseau va vous dire des nouvelles d’un autre Mariage, dont il doit sçavoir les circonstances, puis qu’il est de sa façon. Diverses Fables que vous avez déja veuës de luy, vous ont fait aimer son stile, &amp; je croy qu’il ne vous déplaira pas en celle-cy.</p>
         <quote>
           <label>LE MARIAGE<lb/>DU MANCHON<lb/>ET DE LA PALATINE.<lb/>FABLE.</label>
           <lg>
@@ -102,6 +98,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

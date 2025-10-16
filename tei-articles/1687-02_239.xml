@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,22 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Comme je prens grand interest à vostre santé, je vous envoye un Livre dont je vous prie
-          de faire une tres exacte étude. Il est de M<hi rend="sup">r</hi> de Blegny, &amp; a pour
-          titre, <hi rend="i">Le bon usage du Thé, du Café, &amp; du Chocolat, pour la préservation,
-            &amp; pour la guérison des Maladies</hi>. Je sçay que le Thé &amp; le Café sont des
-          breuvages qui vous sont fort ordinaires ; mais je ne sçay si vous sçavez assez-bien tout
-          ce qu’il faut faire pour les preparer. C’est ce que vous apprendrez par la lecture de ce
-          Livre, avec la nature, les proprietez &amp; le bon usage de l’un &amp; de l’autre, ainsi
-          que du Chocolat. Aprés cela vous en pourrez prendre en seureté. Si vous voulez enseigner
-          ce Livre à vos Amies, il se vend à Paris chez le S<hi rend="sup">r</hi> Michalet, &amp; à
-          Lyon chez le S<hi rend="sup">r</hi> Thomas Amaulry. Quoy qu’on y trouve beaucoup de
-          Figures dont l’explication est donnée dans la quatriéme Partie de cet Ouvrage, le prix
-          n’en est que de trente sols.</p>
+    <body>
+      <div>
+        <p>Comme je prens grand interest à vostre santé, je vous envoye un Livre dont je vous prie de faire une tres exacte étude. Il est de M<hi rend="sup">r</hi> de Blegny, &amp; a pour titre, <hi rend="i">Le bon usage du Thé, du Café, &amp; du Chocolat, pour la préservation, &amp; pour la guérison des Maladies</hi>. Je sçay que le Thé &amp; le Café sont des breuvages qui vous sont fort ordinaires ; mais je ne sçay si vous sçavez assez-bien tout ce qu’il faut faire pour les preparer. C’est ce que vous apprendrez par la lecture de ce Livre, avec la nature, les proprietez &amp; le bon usage de l’un &amp; de l’autre, ainsi que du Chocolat. Aprés cela vous en pourrez prendre en seureté. Si vous voulez enseigner ce Livre à vos Amies, il se vend à Paris chez le S<hi rend="sup">r</hi> Michalet, &amp; à Lyon chez le S<hi rend="sup">r</hi> Thomas Amaulry. Quoy qu’on y trouve beaucoup de Figures dont l’explication est donnée dans la quatriéme Partie de cet Ouvrage, le prix n’en est que de trente sols.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,25 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Le Roy déclara ces jours passez le Mariage de M<hi rend="sup">r</hi> le Duc de S. Aignan,
-          avec Mademoiselle de Rancé. Elle avoit esté élevée aupres de feu Madame la Duchesse de S.
-          Aignan, qui l’aimoit avec beaucoup de tendresse, &amp; la traitoit avec une grande
-          distinction. Des raisons de Famille avoient obligé feu Madame de Rancé sa Mere, à la
-          mettre aupres de cette Duchesse, &amp; à cacher son veritable nom sous celuy de Lucé. Elle
-          joüit de la Terre de Rancé, Maison noble &amp; ancienne, prés de Chastillon sur Indre,
-          dont les Armes sont de gueules au chef d’or, chargé d’un Lion passant d’azur. Cette
-          nouvelle Duchesse est fort agreable, a beaucoup d’esprit, &amp; s’est toûjours fait fort
-          estimer par sa pieté &amp; sa vertu. Le Mariage se fit à la Ferté S. Aignan au
-          commencement du mois de Juillet dernier, &amp; elle est présentement dans le neuviéme mois
-          de sa grossesse. Comme la Lettre que M<hi rend="sup">r</hi> de S. Aignan a écrite à Sa
-          Majesté le 15. de celuy-cy, a esté vûe de plusieurs Personnes, &amp; que ce grand
-          Monarque, qui connoist le zele &amp; la fidelité de ce Duc, aussibien que son mérite,
-          s’est donné la peine de la lire luy-mesme aux principaux de sa Cour, j’ay crû la devoir
-          donner icy.</p>
+    <body>
+      <div>
+        <p>Le Roy déclara ces jours passez le Mariage de M<hi rend="sup">r</hi> le Duc de S. Aignan, avec Mademoiselle de Rancé. Elle avoit esté élevée aupres de feu Madame la Duchesse de S. Aignan, qui l’aimoit avec beaucoup de tendresse, &amp; la traitoit avec une grande distinction. Des raisons de Famille avoient obligé feu Madame de Rancé sa Mere, à la mettre aupres de cette Duchesse, &amp; à cacher son veritable nom sous celuy de Lucé. Elle joüit de la Terre de Rancé, Maison noble &amp; ancienne, prés de Chastillon sur Indre, dont les Armes sont de gueules au chef d’or, chargé d’un Lion passant d’azur. Cette nouvelle Duchesse est fort agreable, a beaucoup d’esprit, &amp; s’est toûjours fait fort estimer par sa pieté &amp; sa vertu. Le Mariage se fit à la Ferté S. Aignan au commencement du mois de Juillet dernier, &amp; elle est présentement dans le neuviéme mois de sa grossesse. Comme la Lettre que M<hi rend="sup">r</hi> de S. Aignan a écrite à Sa Majesté le 15. de celuy-cy, a esté vûe de plusieurs Personnes, &amp; que ce grand Monarque, qui connoist le zele &amp; la fidelité de ce Duc, aussibien que son mérite, s’est donné la peine de la lire luy-mesme aux principaux de sa Cour, j’ay crû la devoir donner icy.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

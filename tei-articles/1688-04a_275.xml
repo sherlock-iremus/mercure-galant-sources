@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Les beaux jours qui ont enfin commencé, m'engagent à vous envoyer un Printemps qui n'a
-          esté fait que depuis trois jours. Vous connoistrez aisément qu'il est d'un habile Maistre.</p>
+    <body>
+      <div>
+        <p>Les beaux jours qui ont enfin commencé, m'engagent à vous envoyer un Printemps qui n'a esté fait que depuis trois jours. Vous connoistrez aisément qu'il est d'un habile Maistre.</p>
         <quote>
           <label>AIR NOUVEAU.</label>
-          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> :
-            l’Air qui commence par, <hi rend="i">Ne me parlez point du Printemps,</hi>, doit
-            regarder la page 276.</note>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">Ne me parlez point du Printemps,</hi>, doit regarder la page 276.</note>
           <lg>
             <l rend="i"> Ne me parlez point du Printemps,</l>
             <l rend="i">L’absence m’a privé de l’Objet que j’adore.</l>
@@ -40,6 +36,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

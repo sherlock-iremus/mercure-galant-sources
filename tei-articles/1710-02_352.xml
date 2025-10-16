@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,20 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-                
-                <p>Ainsi l’on ne doit pas s’étonner si le Carnaval s’est passé à Paris de la mesme
-                    maniere qu’il s’y est passé dans tous les temps. Il est vray que les choses ne
-                    s’y sont pas faites avec les emportemens de joye immoderez qui ont paru en de
-                    certains temps ; mais pendant tout le Carnaval il y a eu des Bals à
-                    l’ordinaire ; on s’est regalé, tous les spectacles ont esté remplis ; la foule
-                    des Carosses a esté aussi grande au Fauxbourg Saint Antoine dans les derniers
-                    jours du Carnaval, qu’elle l’a toûjours esté, &amp; rien n’a marqué la miserable
-                    situation dont tous les écrits publics des Alliez sont remplis, dans le dessein
-                    d’ébloüir leurs Sujets en publiant des choses entierement contraires à la
-                    verité.</p>
-            </div>
-        </body>
+    <body>
+      <div>
+        <p>Ainsi l’on ne doit pas s’étonner si le Carnaval s’est passé à Paris de la mesme maniere qu’il s’y est passé dans tous les temps. Il est vray que les choses ne s’y sont pas faites avec les emportemens de joye immoderez qui ont paru en de certains temps ; mais pendant tout le Carnaval il y a eu des Bals à l’ordinaire ; on s’est regalé, tous les spectacles ont esté remplis ; la foule des Carosses a esté aussi grande au Fauxbourg Saint Antoine dans les derniers jours du Carnaval, qu’elle l’a toûjours esté, &amp; rien n’a marqué la miserable situation dont tous les écrits publics des Alliez sont remplis, dans le dessein d’ébloüir leurs Sujets en publiant des choses entierement contraires à la verité.</p>
+      </div>
+    </body>
   </text>
 </TEI>

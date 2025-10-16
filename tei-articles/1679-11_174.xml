@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,18 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
-        <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : Le
-          Cadran doit regarder la page 175.</note>
-        <p>Je vous envoye un Cadran galant qui a esté fait pour une Dame d’un fort grand mérite,
-          &amp; d’une qualité tres-distinguée. Les paroles Italiennes qui sont en demy-cercle au
-          dessus de la teste de l’Amour qui tient le Cadran, &amp; que vous trouverez expliquées par
-          les Vers que j’ay fait graver dans cette Planche, conviennent fort à la beauté de la Dame,
-          qui en plaisant trop aux yeux, cause de fâcheux desordres dans le cœur. Ainsi peu de Gens
-          ont le plaisir de la voir, qu’ils ne passent en suite de méchantes heures.</p>
+    <body>
+      <div>
+        <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : Le Cadran doit regarder la page 175.</note>
+        <p>Je vous envoye un Cadran galant qui a esté fait pour une Dame d’un fort grand mérite, &amp; d’une qualité tres-distinguée. Les paroles Italiennes qui sont en demy-cercle au dessus de la teste de l’Amour qui tient le Cadran, &amp; que vous trouverez expliquées par les Vers que j’ay fait graver dans cette Planche, conviennent fort à la beauté de la Dame, qui en plaisant trop aux yeux, cause de fâcheux desordres dans le cœur. Ainsi peu de Gens ont le plaisir de la voir, qu’ils ne passent en suite de méchantes heures.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,9 +14,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Puis que les Chansons ont tant de charmes pour vos belles Provinciales, je croy ne devoir pas quitter cette matiere sans vous faire encor part de deux qui sont tombées entre mes mains. L’Air de la premiere est de M<hi rend="sup">r</hi> Boisset ; les Paroles furent faites sur le bruit qui courut que Monsieur retourneroit à l’Armée peu de temps apres que ce Prince fut arrivé à Paris, &amp; c’est sur ce sujet que l’Autheur feint que Madame s’adresse à ce Prince pour luy dire ce qui suit.</p>
         <quote>
           <label>CHANSON.</label>
@@ -35,6 +34,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

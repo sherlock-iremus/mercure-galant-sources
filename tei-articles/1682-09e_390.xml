@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,9 +14,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Sur la question de l'Opéra de Persée.<note resp="editor">Voir <ref target="MG-1682-09e_252">cet article</ref> et <ref target="MG-1682-09e_371">celui-ci</ref>.</note></p>
         <p/>
         <p>LA Cruauté sans-doute avec moy n'est point née,</p>

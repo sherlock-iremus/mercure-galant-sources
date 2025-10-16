@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,18 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
         <quote>
           <label>LE LIBRAIRE AU LECTEUR.</label>
-          <p><hi rend="i">L’Histoire des Troubles de Constantinople n’ayant pû estre renfermée en
-              moins de trois Volumes, le dernier qui contient le regne de Soliman III. sert de
-              seconde Partie au Mercure de Juin. J’avertis le Public qu’il n’aura de plusieurs mois
-              aucune seconde Partie, &amp; que l’Autheur qui a resolu de continuer l’Histoire
-              Turque, n’en donnera des Volumes que de loin à loin, afin qu’ils soient plus remplis
-              de choses curieuses &amp; de grands évenemens.</hi></p>
+          <p>
+            <hi rend="i">L’Histoire des Troubles de Constantinople n’ayant pû estre renfermée en moins de trois Volumes, le dernier qui contient le regne de Soliman III. sert de seconde Partie au Mercure de Juin. J’avertis le Public qu’il n’aura de plusieurs mois aucune seconde Partie, &amp; que l’Autheur qui a resolu de continuer l’Histoire Turque, n’en donnera des Volumes que de loin à loin, afin qu’ils soient plus remplis de choses curieuses &amp; de grands évenemens.</hi>
+          </p>
         </quote>
       </div>
     </body>

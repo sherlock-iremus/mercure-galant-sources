@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>La mort de M<hi rend="sup">r</hi> l’Abbé Cottin a laissé en mesme temps vaquer une Place
-          dans l’Académie Françoise. Il a fait bruit dans le monde, &amp; divers Ouvrages qu’il a
-          donnez au Public conserveront sa mémoire. Mademoiselle d’Orleans le considéroit, &amp; luy
-          a fait voir utilement en plusieurs occasions qu’elle l’honoroit de sa bienveillance. Quand
-          on a une fois merité l’estime de cette Princesse, on a l’avantage de pouvoir compter sur
-          sa durée, &amp; sur les marques solides qu’elle ne manque jamais d’en donner.</p>
+    <body>
+      <div>
+        <p>La mort de M<hi rend="sup">r</hi> l’Abbé Cottin a laissé en mesme temps vaquer une Place dans l’Académie Françoise. Il a fait bruit dans le monde, &amp; divers Ouvrages qu’il a donnez au Public conserveront sa mémoire. Mademoiselle d’Orleans le considéroit, &amp; luy a fait voir utilement en plusieurs occasions qu’elle l’honoroit de sa bienveillance. Quand on a une fois merité l’estime de cette Princesse, on a l’avantage de pouvoir compter sur sa durée, &amp; sur les marques solides qu’elle ne manque jamais d’en donner.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

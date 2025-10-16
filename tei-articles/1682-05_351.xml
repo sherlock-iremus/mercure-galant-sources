@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
-        <p>La Duchesse d’Estramene se vend chez le S<hi rend="sup">r</hi> Blageart, Court neuve du
-          Palais, au Dauphin.</p>
-        <p>Le S<hi rend="sup">r</hi> Libraire au Palais, à l’Ecu de France, debite un Livre nouveau,
-          intitulé <hi rend="i">La Science parfaite des Notaires</hi>. Il est de M<hi rend="sup">r</hi> Ferriore Avocat en Parlement, celebre par quantité d’autres Livres de Droit
-          qu’il a mis au jour depuis trois ans avec grand succés. Ce dernier est un Inquarto fort
-          ample, &amp; aussi utile pour les Provinces de Droit Ecrit, que pour celles de Droit
-          Coûtumier.</p>
+    <body>
+      <div>
+        <p>La Duchesse d’Estramene se vend chez le S<hi rend="sup">r</hi> Blageart, Court neuve du Palais, au Dauphin.</p>
+        <p>Le S<hi rend="sup">r</hi> Libraire au Palais, à l’Ecu de France, debite un Livre nouveau, intitulé <hi rend="i">La Science parfaite des Notaires</hi>. Il est de M<hi rend="sup">r</hi> Ferriore Avocat en Parlement, celebre par quantité d’autres Livres de Droit qu’il a mis au jour depuis trois ans avec grand succés. Ce dernier est un Inquarto fort ample, &amp; aussi utile pour les Provinces de Droit Ecrit, que pour celles de Droit Coûtumier.</p>
       </div>
     </body>
   </text>

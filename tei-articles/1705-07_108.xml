@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p>Le Signor Alessandro Marchetti a dedié à Son Altesse Royale Monsieur le Prince de Toscane, son Recüeil de Poësies ; les loüanges du Roy tres-Chrestien y sont touchées d’une maniere noble &amp; proportionnée à son sujet. Monsieur le Grand Duc &amp; les Princes de sa Maison, les Hommes illustres qui ornent l’Italie, &amp; entr’autres le fameux Magliabecchi, grand Bibliothecaire de ce Prince, ont tous occupé la Muse de nostre Poëte.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>Le Signor Alessandro Marchetti a dedié à Son Altesse Royale Monsieur le Prince de Toscane, son Recüeil de Poësies ; les loüanges du Roy tres-Chrestien y sont touchées d’une maniere noble &amp; proportionnée à son sujet. Monsieur le Grand Duc &amp; les Princes de sa Maison, les Hommes illustres qui ornent l’Italie, &amp; entr’autres le fameux Magliabecchi, grand Bibliothecaire de ce Prince, ont tous occupé la Muse de nostre Poëte.</p>
+      </div>
+    </body>
   </text>
 </TEI>

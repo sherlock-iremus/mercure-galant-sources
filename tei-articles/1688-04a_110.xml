@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
+    <body>
+      <div>
         <p/>
-        <p>Dame Madeleine Danguechin. Elle estoit Veuve de Messire Paul Hay, Marquis du Chatelet,
-          Conseiller d’Etat ordinaire, qui estoit de l’Academie Françoise, &amp; d’une ancienne
-          Famille de Bretagne. La Famille des Danguechin a donné divers Officiers au Parlement,
-          &amp; plusieurs Procureurs Generaux à la Cour des Aides de Paris, &amp; porte <hi rend="i">d’argent
-          à trois testes de Corbeaux de sable.</hi></p>
+        <p>Dame Madeleine Danguechin. Elle estoit Veuve de Messire Paul Hay, Marquis du Chatelet, Conseiller d’Etat ordinaire, qui estoit de l’Academie Françoise, &amp; d’une ancienne Famille de Bretagne. La Famille des Danguechin a donné divers Officiers au Parlement, &amp; plusieurs Procureurs Generaux à la Cour des Aides de Paris, &amp; porte <hi rend="i">d’argent à trois testes de Corbeaux de sable.</hi></p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,21 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
-        <p>Les Pieces qui suivent, &amp; que vous ne trouverez pas moins spirituelles qu’enjoüées,
-          sont sur une matiere qui vous surprendra. Madame des Houlieres a une Chatte nommé
-          Grisette, qui merite d’estre distinguée parmy celle de son espece ; car si elle ne
-          raisonne pas tout à fait, elle a tant d’aparence de raison, &amp; donne tant de marques
-          d’un discernement particulier, qu’elle en attire l’admiration de tout le monde. Un jour un
-          Cavalier estant venu rendre visite à cette Dame, se mit à parler de la beauté de sa
-          Chatte, &amp; témoigna qu’il eust bien voulu en faire une alliance avec un Chat d’une
-          autre Dame de sa connoissance, Grisette, dit-on, pria ce Cavalier de faire ses complimens,
-          &amp; d’ofrir sa tendresse au Chat Amant qu’il avoit dessein de luy donner. Ce Chat est à
-          Madame la Marquise de Monglas, &amp; s’appelle Tata. Il fit la réponce qui suit à
-          Grisette.</p>
+    <body>
+      <div>
+        <p>Les Pieces qui suivent, &amp; que vous ne trouverez pas moins spirituelles qu’enjoüées, sont sur une matiere qui vous surprendra. Madame des Houlieres a une Chatte nommé Grisette, qui merite d’estre distinguée parmy celle de son espece ; car si elle ne raisonne pas tout à fait, elle a tant d’aparence de raison, &amp; donne tant de marques d’un discernement particulier, qu’elle en attire l’admiration de tout le monde. Un jour un Cavalier estant venu rendre visite à cette Dame, se mit à parler de la beauté de sa Chatte, &amp; témoigna qu’il eust bien voulu en faire une alliance avec un Chat d’une autre Dame de sa connoissance, Grisette, dit-on, pria ce Cavalier de faire ses complimens, &amp; d’ofrir sa tendresse au Chat Amant qu’il avoit dessein de luy donner. Ce Chat est à Madame la Marquise de Monglas, &amp; s’appelle Tata. Il fit la réponce qui suit à Grisette.</p>
         <quote>
           <label rend="center">Tata,</label>
           <label rend="center">Chat de Madame</label>
@@ -109,10 +97,11 @@
           <l>Il est rare, dit-on, parmy les Hommes mesme.</l>
           <l><space/>Mais dequoy vais-je m’allarmer ?</l>
           <l><space/>Vous y verrez que je vous aime,</l>
-          <l><space/>C'est assez pour qui sçait aimer.</l></quote>
-        <p>La réputation de Grisette faisant bruit par tout, les Chats du plus grand merite luy en
-          voulurent conter. Voicy les Billets de quelques-uns.</p>
-        <quote><label rend="center">Blondin,</label>
+          <l><space/>C'est assez pour qui sçait aimer.</l>
+        </quote>
+        <p>La réputation de Grisette faisant bruit par tout, les Chats du plus grand merite luy en voulurent conter. Voicy les Billets de quelques-uns.</p>
+        <quote>
+          <label rend="center">Blondin,</label>
           <label rend="center">Chat des J....</label>
           <label rend="center">A sa Voisine</label>
           <label rend="center">Grisette,</label>
@@ -332,14 +321,16 @@
             <l><space/>Et s’il faut tout vous dire, Grisette,</l>
             <l>Moy mesme, franchement, je suis un peu coquet,</l>
             <l><space/>Malgré la perte que j’ay faite.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l>On peut bien sans amour écrire galament,</l>
             <l>Quand on a comme vous tant de belles lumieres :</l>
             <l>Mais croyez-moy, pour parler sçavamment,</l>
             <l><space/>Sur tout en certaine matiere,</l>
             <l>Il faut avoir frequenté les Gouttieres ;</l>
             <l>On ne devient pas habile autrement.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l><space/>Apres tout c’est une foiblesse</l>
             <l><space/>A nous de n’oser coquetter :</l>
             <l><space/>Sur ce point pourqouy nous flater ?</l>
@@ -348,13 +339,15 @@
             <l><space/>Il n’est point de Chatte Lucrece,</l>
             <l>Et l’on ne vit jamais de prude en nostre espece ;</l>
             <l><space/>Cela soit dit sans vous fâcher.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l><space/>Coquettons, cherchons à nous plaire,</l>
             <l><space/>Puis que le sort le veut ainsy ;</l>
             <l>En un mot, aimons-nous, nous ne sçaurions mieux faire,</l>
             <l>Vous avez de l’esprit, j’en ay sans-doute aussy,</l>
             <l><space/>Je croy que je suis vostre affaire.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l>Avec moy vostre honneur ne court aucun danger,</l>
             <l>C'est un malheur dont quelquefois j’enrage,</l>
             <l>Et c’est pour vous, Grisette, un petit avantage ;</l>
@@ -362,7 +355,8 @@
             <l><space/>Je n’aurois pû vous engager</l>
             <l>A... vous m’entendez bien : mais changeons de langage,</l>
             <l><space/>Je pourrois vous desobliger.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l><space/>Eh bien donc ma chere Grisette,</l>
             <l>Etablissons un commerce entre nous ;</l>
             <l>Foy de Matou, vous serez satisfaite</l>
@@ -383,14 +377,16 @@
             <l><space/>Est-ce sur le nom de Grisette</l>
             <l>Que vous me soupçonner d’avoir le cœur coquet ?</l>
             <l>Mon nom ne convient point à l’air dont je suis faite.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l><space/>Quoy, pour écrire galamment,</l>
             <l>Pour avoir dans l’esprit quelques vives lumieres,</l>
             <l>Falloit-il assurer qu’on ne peut sçavamment</l>
             <l><space/>Parler sur certaines matieres,</l>
             <l><space/>Sans avoir couru les Gouttieres ?</l>
             <l>Chats connoisseurs en jugent autrement.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l>Mais quand mesme on auroit quelque douce foiblesse,</l>
             <l>Est-ce avec vous helas ! qu’on voudroit coquetter ?</l>
             <l><space/>Vous aimez trop à vous flater,</l>
@@ -399,13 +395,15 @@
             <l><space/>S'il n’est point de Chatte Lucrece,</l>
             <l>Il n’est point de Tarquins, Tata, de vostre espece ;</l>
             <l><space/>Cela soit dit sans vous fâcher.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l>Quand un Chat comme vous se propose de plaire,</l>
             <l><space/>Il devroit en user ainsy,</l>
             <l><space/>Des jaloux soupçons se défaire,</l>
             <l><space/>Et de ses airs grondeurs aussy ;</l>
             <l><space/>Sans cela, Tata, point d’affaire.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l>Je ne veux point du tout m’aller mettre en danger</l>
             <l>D'entendre tous les jours dire, morbleu j’enrage,</l>
             <l><space/>Il n’en faudroit pas davantage</l>
@@ -413,7 +411,8 @@
             <l>Et souvent par dépit on se peut engager</l>
             <l>A quelque bagatelle au dela du langage ;</l>
             <l>Cecy soit dit encor sans vous desobliger.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l><space/>Adieu, Tata, foy de Grisette,</l>
             <l><space/>Mais de Grisette comme nous ;</l>
             <l><space/>Je ne suis pas plus satisfaite</l>
@@ -421,6 +420,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

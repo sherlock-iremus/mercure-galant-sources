@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,19 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
-        <p>Vous vous souvenez, Madame, que M<hi rend="sup">r</hi> Mignon, Maître de la Musique de
-          l'Eglise de Paris, proposa il y a quelque mois, des Bouts-rimez remplis à la loüange du
-          Roy, sur les Rimes de <hi rend="i">Pan &amp; Guenuche,</hi> &amp; promit la Médaille de Sa
-          Majesté à celuy qui feroit le plus beau Sonnet. Celuy qui a remporté le Prix commence
-          par,</p>
+        <p>Vous vous souvenez, Madame, que M<hi rend="sup">r</hi> Mignon, Maître de la Musique de l'Eglise de Paris, proposa il y a quelque mois, des Bouts-rimez remplis à la loüange du Roy, sur les Rimes de <hi rend="i">Pan &amp; Guenuche,</hi> &amp; promit la Médaille de Sa Majesté à celuy qui feroit le plus beau Sonnet. Celuy qui a remporté le Prix commence par,</p>
         <p><hi rend="i">Joins un courage d'Aigle à la fierté d'un</hi> Pan.</p>
-        <p>On le trouvera à la teste d'un Recueïl, que le S<hi rend="sup">r</hi> Quinet Libraire,
-          dans la Gal. des Prisonniers, a fait imprimer. [...]</p>
+        <p>On le trouvera à la teste d'un Recueïl, que le S<hi rend="sup">r</hi> Quinet Libraire, dans la Gal. des Prisonniers, a fait imprimer. [...]</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

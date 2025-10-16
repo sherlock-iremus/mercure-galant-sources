@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
+    <body>
+      <div>
         <quote>
           <label rend="center">LETTRE XXXI.</label>
-          <p>JE suis obligé, Monsieur, de vous apprendre le bruit que vostre Mercure fait à Madrid
-            parmy les Personnes de la premiere qualité. Voicy ce qu’un Homme de merite qui est dans
-            cette Cour, &amp; à qui je l’envoyay il y a quelque mois, m’en a écrit. <hi rend="i">J'admire la nouvelle &amp; agreable maniere de s’immortaliser, que l’Autheur du
-              Mercure fournit aux Gens d’esprit, dont je trouve qu’il fait une troisiéme espece de
-              Héros.</hi></p>
+          <p>JE suis obligé, Monsieur, de vous apprendre le bruit que vostre Mercure fait à Madrid parmy les Personnes de la premiere qualité. Voicy ce qu’un Homme de merite qui est dans cette Cour, &amp; à qui je l’envoyay il y a quelque mois, m’en a écrit. <hi rend="i">J'admire la nouvelle &amp; agreable maniere de s’immortaliser, que l’Autheur du Mercure fournit aux Gens d’esprit, dont je trouve qu’il fait une troisiéme espece de Héros.</hi></p>
           <lg>
             <l><hi rend="i">Car il est des Héros de toutes les manieres</hi>, </l>
             <l><hi rend="i">Et sans parler des ames meurtrieres</hi>, </l>
@@ -46,6 +40,6 @@
           <p rend="sc">Le Cavalier Ecclesiastique. </p>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

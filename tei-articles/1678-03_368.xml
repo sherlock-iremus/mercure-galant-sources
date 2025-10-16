@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>S’il vous paroit icy bien des noms, vous serez surprise quand je vous diray qu’ils sont
-          tirez de plus de huit cens Lettres que j’ay reçeuës, ce qui vous fait connoistre qu’il
-          s’en faut beaucoup que tout le monde n’ait deviné. Exercez-vous cependant sur ces deux
-          nouvelles Enigmes. La premiere est d’un Abbé dont vous ne sçaurez le nom que le Mois
-          prochain ; &amp; l’autre de la Societé des Dames Cloistrées de Lyon.</p>
+    <body>
+      <div>
+        <p>S’il vous paroit icy bien des noms, vous serez surprise quand je vous diray qu’ils sont tirez de plus de huit cens Lettres que j’ay reçeuës, ce qui vous fait connoistre qu’il s’en faut beaucoup que tout le monde n’ait deviné. Exercez-vous cependant sur ces deux nouvelles Enigmes. La premiere est d’un Abbé dont vous ne sçaurez le nom que le Mois prochain ; &amp; l’autre de la Societé des Dames Cloistrées de Lyon.</p>
         <quote>
           <label>ENIGME.</label>
           <lg>
@@ -44,6 +39,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

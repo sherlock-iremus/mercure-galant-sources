@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
-        <p>Il m’est aisé de justifier ce que je vous ay dit plusieurs fois, que l’on écrit par tout
-          pour le Roy. L’Ouvrage qui suit m’a esté envoyé d’Avignon. L’Auteur qui en est, s’appelle
-            M<hi rend="sup">r</hi> Guintrandi, &amp; vous trouverez en le lisant que la pluspart de
-          ses Vers ont un tour particulier, &amp; qu’on peut dire veritablement Poëtique.</p>
+        <p>Il m’est aisé de justifier ce que je vous ay dit plusieurs fois, que l’on écrit par tout pour le Roy. L’Ouvrage qui suit m’a esté envoyé d’Avignon. L’Auteur qui en est, s’appelle M<hi rend="sup">r</hi> Guintrandi, &amp; vous trouverez en le lisant que la pluspart de ses Vers ont un tour particulier, &amp; qu’on peut dire veritablement Poëtique.</p>
         <quote>
           <label>ODE<lb/>Sur les dernieres Victoires<lb/>du Roy.</label>
           <lg>
@@ -86,7 +82,9 @@
             <l rend="i">Le moindre pas qu’il fait est digne de remarque.</l>
             <l rend="i">Mais quoy qu’elle ait toûjours sur luy les yeux tendus,</l>
             <l rend="i">Quand il faut reciter les beaux Faits du Monarque,</l>
-            <l><hi rend="i">Le nombre l’embarasse, &amp; le choix encor plus.</hi></l>
+            <l>
+              <hi rend="i">Le nombre l’embarasse, &amp; le choix encor plus.</hi>
+            </l>
           </lg>
           <ab type="ornament">***</ab>
           <lg>
@@ -108,9 +106,13 @@
             <l rend="i">A voulu desarmer les mains de nos Guerriers,</l>
             <l rend="i"> Pour donner le repos au monde ;</l>
             <l rend="i">L’envie aux yeux ardens traversant ce dessein,</l>
-            <l><hi rend="i">Et s’opposant au cours d’un calme si serein,</hi></l>
+            <l>
+              <hi rend="i">Et s’opposant au cours d’un calme si serein,</hi>
+            </l>
             <l rend="i">Mon Roy s’est vû contraint de reprendre la foudre.</l>
-            <l><hi rend="i">Il marche ; &amp; les Titans punis de leur orgueil</hi></l>
+            <l>
+              <hi rend="i">Il marche ; &amp; les Titans punis de leur orgueil</hi>
+            </l>
             <l rend="i">Sous leurs forts Bastions d’abord réduits en poudre</l>
             <l rend="i">Trouvent en expirant un funeste cercueil.</l>
           </lg>
@@ -157,7 +159,9 @@
           <lg>
             <l rend="i"> Déja le destin de la Guerre</l>
             <l rend="i"> Allume ses tristes flambeaux ;</l>
-            <l><hi rend="i">Je vois déja floter dans les airs nos drapeaux,</hi></l>
+            <l>
+              <hi rend="i">Je vois déja floter dans les airs nos drapeaux,</hi>
+            </l>
             <l rend="i"> Et Mars fait gronder son Tonnerre.</l>
             <l rend="i">Catinat d’une part, ce Guerrier valeureux,</l>
             <l rend="i">Suivi de nos Soldats hardis &amp; genereux,</l>
@@ -173,7 +177,9 @@
             <l rend="i">Pour deffendre l’orgueil de l’injuste Parti</l>
             <l rend="i"> Est-il assez de fortes Places ?</l>
             <l rend="i">Vainement leurs Châteaux veulent nous resister ;</l>
-            <l><hi rend="i">La justice punit qui l’osoit insulter ;</hi></l>
+            <l>
+              <hi rend="i">La justice punit qui l’osoit insulter ;</hi>
+            </l>
             <l rend="i">Je vois déja plier Villes &amp; Citadelles :</l>
             <l rend="i">Ville-franche se rend, Saint Sospire est à nous,</l>
             <l rend="i">Mont-alban suit de prés, &amp; nos Troupes fidelles</l>
@@ -315,7 +321,9 @@
             <l rend="i"> Fait si-tost l’Ennemy plier,</l>
             <l rend="i">Que ne puis-je aussi haut vos exploits publier,</l>
             <l rend="i"> Que je vois haut vostre partage !</l>
-            <l><hi rend="i">La Victoire contente, assise sur vos fronts</hi></l>
+            <l>
+              <hi rend="i">La Victoire contente, assise sur vos fronts</hi>
+            </l>
             <l rend="i">Vous étale des prix de toutes les façons,</l>
             <l rend="i">Je vous vois tout couverts du jour qui l’environne.</l>
             <l rend="i">Allez, braves Guerriers dont le sort est si beau,</l>
@@ -337,6 +345,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

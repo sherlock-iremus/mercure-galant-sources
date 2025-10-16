@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,23 +14,16 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-    
-    
-
-    <p><hi rend="i">Je vous envoye une autre espece de Chifre. C’est un Billet Enigmatique écrit à
-      une Belle, pour luy donner un Avis utile. Il s’agit de déchifrer cet Avis dans les paroles
-      suivantes.</hi></p>
-    <quote>
-     <label>BILLET ENIGMATIQUE.</label>
-     <p>Depuis fort longtemps, on n’a point veu ce qu’on voit aujourd’huy. Si vous me marquez avoir
-      envie d’apprendre le Lieu où se doit trouver celuy qui donne ce Spectacle ; quand le soir
-      viendra, un nouveau Silene promet de vous l’aller dire. Ces sortes d’Animaux montez sur des
-      Asnes, sont présentement couronnez de Jonc. Feüilletez vos Livres sur l’Enigme dont je me
-      sers. Mesurez Grotes obscures, je ne sçay si vous pourrez découvrir les éminences inévitables
-      à surmonter par les travaux de celuy qui explique mal ce qui fait son bonheur.</p>
-    </quote>
-   </div>
-   </body>
+    <body>
+      <div>
+        <p>
+          <hi rend="i">Je vous envoye une autre espece de Chifre. C’est un Billet Enigmatique écrit à une Belle, pour luy donner un Avis utile. Il s’agit de déchifrer cet Avis dans les paroles suivantes.</hi>
+        </p>
+        <quote>
+          <label>BILLET ENIGMATIQUE.</label>
+          <p>Depuis fort longtemps, on n’a point veu ce qu’on voit aujourd’huy. Si vous me marquez avoir envie d’apprendre le Lieu où se doit trouver celuy qui donne ce Spectacle ; quand le soir viendra, un nouveau Silene promet de vous l’aller dire. Ces sortes d’Animaux montez sur des Asnes, sont présentement couronnez de Jonc. Feüilletez vos Livres sur l’Enigme dont je me sers. Mesurez Grotes obscures, je ne sçay si vous pourrez découvrir les éminences inévitables à surmonter par les travaux de celuy qui explique mal ce qui fait son bonheur.</p>
+        </quote>
+      </div>
+    </body>
   </text>
 </TEI>

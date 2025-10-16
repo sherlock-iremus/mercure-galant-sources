@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div copyOf="JLB_MG-1687-03b_048">
-          
-          
-          <p/>
-          <p>Le 14. de Fevrier le Parlement de Toulouse fit celebrer une Messe, &amp; chanter le <hi rend="i">Te Deum</hi> dans la Chapelle du Palais, &amp; dans la grande Salle de l'Audience, qui estoit ornée de plusieurs Tableaux, où les Victoires de Sa Majesté estoient peintes. M<hi rend="sup">r</hi> l'Evesque de Cahors officia. Tous les Officiers du Parlement estoient en robes rouges, &amp; les Presidens avec leurs Manteaux de ceremonie.</p>
-        </div>
-        </body>
+    <body>
+      <div copyOf="JLB_MG-1687-03b_048">
+        <p/>
+        <p>Le 14. de Fevrier le Parlement de Toulouse fit celebrer une Messe, &amp; chanter le <hi rend="i">Te Deum</hi> dans la Chapelle du Palais, &amp; dans la grande Salle de l'Audience, qui estoit ornée de plusieurs Tableaux, où les Victoires de Sa Majesté estoient peintes. M<hi rend="sup">r</hi> l'Evesque de Cahors officia. Tous les Officiers du Parlement estoient en robes rouges, &amp; les Presidens avec leurs Manteaux de ceremonie.</p>
+      </div>
+    </body>
   </text>
 </TEI>

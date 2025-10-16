@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
-        <p>Il est souvent dangereux de se hazarder à voir les Belles, sur tout lors que des raisons
-          d’interest &amp; de fortune font une necessité de l’éloignement. L’avanture du Biset en
-          est un exemple. Vous la trouverez dans les Vers qui suivent. Ils sont de M<hi rend="sup">r</hi> de Richebourg, Avocat au Parlement de Toulouse. Son esprit vous est connu par
-          les Ouvrages galans que vous avez déja vûs de luy.</p>
+        <p>Il est souvent dangereux de se hazarder à voir les Belles, sur tout lors que des raisons d’interest &amp; de fortune font une necessité de l’éloignement. L’avanture du Biset en est un exemple. Vous la trouverez dans les Vers qui suivent. Ils sont de M<hi rend="sup">r</hi> de Richebourg, Avocat au Parlement de Toulouse. Son esprit vous est connu par les Ouvrages galans que vous avez déja vûs de luy.</p>
         <quote>
           <label>LE BISET,<lb/>ET LE PIGEON.<lb/>FABLE.</label>
           <lg>
@@ -70,6 +66,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

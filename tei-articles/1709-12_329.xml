@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,26 +14,34 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-
-<p>La Chanson qui suit est de Saison.</p>
-<quote>
-  <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : [l’Air] qui commence par, <hi rend="i">Recevez mon cœur</hi>, doit regarder la page 329.</note>
-<lg>
-<l><hi rend="i">Recevez mon Cœur pour Etrennes,</hi></l>
-<l><hi rend="i">Adorable objet de mes feux</hi></l>
-<l><hi rend="i">Et pour me donner les miennes</hi></l>
-<l> <hi rend="i">Repondez à mes vœux,</hi></l>
-<l><hi rend="i">Et l’Amour fera deux heureux.</hi></l>
-</lg>
-</quote>
-  <ref target="images/1709-12_329.JPG">
-    <figure>
-      <graphic url="images/1709-12_329.JPG"/>
-    </figure>
-  </ref>
-</div>
-</body>
+    <body>
+      <div>
+        <p>La Chanson qui suit est de Saison.</p>
+        <quote>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : [l’Air] qui commence par, <hi rend="i">Recevez mon cœur</hi>, doit regarder la page 329.</note>
+          <lg>
+            <l>
+              <hi rend="i">Recevez mon Cœur pour Etrennes,</hi>
+            </l>
+            <l>
+              <hi rend="i">Adorable objet de mes feux</hi>
+            </l>
+            <l>
+              <hi rend="i">Et pour me donner les miennes</hi>
+            </l>
+            <l> <hi rend="i">Repondez à mes vœux,</hi></l>
+            <l>
+              <hi rend="i">Et l’Amour fera deux heureux.</hi>
+            </l>
+          </lg>
+        </quote>
+        <ref target="images/1709-12_329.JPG">
+          <figure>
+            <graphic url="images/1709-12_329.JPG"/>
+          </figure>
+        </ref>
+      </div>
+    </body>
   </text>
 </TEI>

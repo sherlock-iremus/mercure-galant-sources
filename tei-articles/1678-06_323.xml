@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>La seconde Enigme a esté ainsi expliquée dans son vray sens par M<hi rend="sup">r</hi>
-          Gardien Secretaire du Roy.</p>
+    <body>
+      <div>
+        <p>La seconde Enigme a esté ainsi expliquée dans son vray sens par M<hi rend="sup">r</hi> Gardien Secretaire du Roy.</p>
         <quote>
           <l>Toy qui fais la beauté de toute la Nature,</l>
           <l>Toy dont l’on ne peut faire une juste peinture,</l>
@@ -37,6 +35,6 @@
           <l><space/>Et le Peuple le plus fidelle ?</l>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

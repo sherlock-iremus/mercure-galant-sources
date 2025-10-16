@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Si vous avez pris autrefois plaisir à lire cent cinquante Epigrammes de Mr de Brébeuf sur
-          une mesme matiere, je croy que les Pieces que je vous envoye sur la prise de Gand vous
-          divertiront d’autant plus, qu’estant de diférentes Personnes, elles vous doivent rendre
-          curieuse de voir le tour diférent que chacun a donné à des pensées qui se rapportent.</p>
-        <p>La premiere de ces Pieces est un Dialogue d’un Espagnol &amp; d’un Flamand sur la marche
-          impréveuë du Roy, de Lorraine en Flandre, &amp; sur la prise de Gand.</p>
+    <body>
+      <div>
+        <p>Si vous avez pris autrefois plaisir à lire cent cinquante Epigrammes de Mr de Brébeuf sur une mesme matiere, je croy que les Pieces que je vous envoye sur la prise de Gand vous divertiront d’autant plus, qu’estant de diférentes Personnes, elles vous doivent rendre curieuse de voir le tour diférent que chacun a donné à des pensées qui se rapportent.</p>
+        <p>La premiere de ces Pieces est un Dialogue d’un Espagnol &amp; d’un Flamand sur la marche impréveuë du Roy, de Lorraine en Flandre, &amp; sur la prise de Gand.</p>
         <quote>
           <l>L’Espagnol.</l>
           <l rend="i">Des nouvelles, Amy, ne m’en sçaurois-tu dire ?</l>
@@ -63,8 +58,7 @@
           <l rend="i">Il est où vous voudrez ; mais je vous le redis,</l>
           <l rend="i">Les François sont dans Gand, &amp; c’est luy qui l’a pris.</l>
         </quote>
-        <p>Les trois Epigrammes qui suivent sont de M<hi rend="sup">r</hi> Lelleron Avocat à
-          Provins.</p>
+        <p>Les trois Epigrammes qui suivent sont de M<hi rend="sup">r</hi> Lelleron Avocat à Provins.</p>
         <quote>
           <label>SUR LA REDUCTION<lb/><hi rend="sc">De Gand.</hi><lb/>EPIGRAMME.</label>
           <lg>
@@ -95,8 +89,7 @@
             <l rend="i"><space/>Il se munit d’un Gand d’Espagne.</l>
           </lg>
         </quote>
-        <p>Ces trois autres sont, l’une, d’un Homme de qualité ; l’autre, d’un Vandômois ; &amp; la
-          derniere, de M<hi rend="sup">r</hi> de Roux.</p>
+        <p>Ces trois autres sont, l’une, d’un Homme de qualité ; l’autre, d’un Vandômois ; &amp; la derniere, de M<hi rend="sup">r</hi> de Roux.</p>
         <quote>
           <lg>
             <l rend="i">Espagnols, autrefois vous aviez l’arrogance</l>
@@ -247,10 +240,8 @@
             <l rend="i"><space/><space/>Le droit d’entrer aux Tuilleries.</l>
           </lg>
         </quote>
-        <p>Vous entendez le plaisant de cette derniere Epigramme. On prétend qu’on est obligé de se
-          déganter quand on passe par les Ecuries, &amp; que ceux qui ne le font pas, y laissent
-          leurs Gands, ou en payent la valeur.</p>
+        <p>Vous entendez le plaisant de cette derniere Epigramme. On prétend qu’on est obligé de se déganter quand on passe par les Ecuries, &amp; que ceux qui ne le font pas, y laissent leurs Gands, ou en payent la valeur.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

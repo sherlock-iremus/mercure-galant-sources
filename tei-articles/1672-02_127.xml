@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p>Cette mort fit parler de celle de Monsieur la Mothe-le-Vayer, qui laissoit par son
-            trépas une seconde place vacante à l’Académie. C’estoit un Homme tres-docte, qui avoit
-            beaucoup de belles Lettres, &amp; qui a laissé au Public quinze ou seize Volumes
-            d’Oeuvres diverses, qui luy ont acquis beaucoup de reputation. Il avoit esté Precepteur
-            de Monsieur Frere Unique du Roy, &amp; s’estoit marié à l’âge de quatre-vingts ans à
-            Mademoiselle de la Haye. Il a encor vescu plusieurs années apres son Mariage.</p>
-        </div>
-      </body>
+    <body>
+      <div>
+        <p>Cette mort fit parler de celle de Monsieur la Mothe-le-Vayer, qui laissoit par son trépas une seconde place vacante à l’Académie. C’estoit un Homme tres-docte, qui avoit beaucoup de belles Lettres, &amp; qui a laissé au Public quinze ou seize Volumes d’Oeuvres diverses, qui luy ont acquis beaucoup de reputation. Il avoit esté Precepteur de Monsieur Frere Unique du Roy, &amp; s’estoit marié à l’âge de quatre-vingts ans à Mademoiselle de la Haye. Il a encor vescu plusieurs années apres son Mariage.</p>
+      </div>
+    </body>
   </text>
 </TEI>

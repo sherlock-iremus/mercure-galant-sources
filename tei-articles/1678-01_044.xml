@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,47 +14,22 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>On s’en servoit aussi comme d’un monument eternel que l’on consacroit à la gloire des
-          Conquerans apres une signalée Victoire ; &amp; c’est de cette façon que Tacite dit
-          qu’apres la sanglante Bataille qui se donna entre l’Elbe &amp; le Rhin, dans laquelle
-          Germanicus défit entierement les Ennemis des Romains, il en fut dressé un à la gloire du
-          Vainqueur qui portoit ce superbe Titre.</p>
+    <body>
+      <div>
+        <p>On s’en servoit aussi comme d’un monument eternel que l’on consacroit à la gloire des Conquerans apres une signalée Victoire ; &amp; c’est de cette façon que Tacite dit qu’apres la sanglante Bataille qui se donna entre l’Elbe &amp; le Rhin, dans laquelle Germanicus défit entierement les Ennemis des Romains, il en fut dressé un à la gloire du Vainqueur qui portoit ce superbe Titre.</p>
         <quote>
           <l><space/><space/>Des dépoüilles des Nations</l>
           <l><space/>Qui habitent entre l’Elbe &amp; le Rhin</l>
           <l><space/><space/>L’Armée de l’Empereur Tybere</l>
           <l>A consacré ce Monument à Mars, à Jupiter &amp; à Auguste.</l>
         </quote>
-        <p>Tous ces exemples justifient assez que la Ville d'Arles ne pouvoit faire un plus noble
-          &amp; plus digne usage de celuy que la Fortune luy a voulu découvrir, apres l'avoir tenu
-          caché durant tant de Siecles, que de l'élever comme elle a fait à la gloire de nostre
-          Invincible Monarque ; &amp; vous trouverez mesme que ç'a esté une pensée fort heureuse,
-          que sans s'éloigner de la coûtume des Peuples qui consacroient ces sortes de Monumens au
-          Soleil, elle ait pris soin d'ériger celuy-cy au Roy sous la Figure de ce bel Astre qu'il a
-          choisy pour Devise, &amp; qui est son veritable Symbole. En verité, Madame, il semble
-          qu'il y ait quelque chose de mysterieux &amp; qui tient mesme du prodige, en tout ce qui
-          regarde la gloire de nostre Prince. Faites-y reflexion, je vous prie. Cet Obelisque est
-          venu d'Egypte, aussi bien que ceux que l'on voit à Rome. Tous les autres sont remplis de
-          Caracteres hyeroglifiques, &amp; celuy-cy est demeuré tout nud &amp; tout uny, comme si
-          par une heureuse fatalité il eust esté reservé pour y graver les Victoires &amp; les
-          Conquestes de <hi rend="sc">Loüis le Grand</hi>. Je ne puis m’empescher de vous repeter
-          icy les trois derniers Vers d’un Sonnet de M<hi rend="sup">r</hi> Roubin, dont je vous fis
-          part le mois d’Aout passé, &amp; qui expriment admirablement cette pensée. Il dit au Roy
-          en parlant de l’Obelisque d’Arles.</p>
+        <p>Tous ces exemples justifient assez que la Ville d'Arles ne pouvoit faire un plus noble &amp; plus digne usage de celuy que la Fortune luy a voulu découvrir, apres l'avoir tenu caché durant tant de Siecles, que de l'élever comme elle a fait à la gloire de nostre Invincible Monarque ; &amp; vous trouverez mesme que ç'a esté une pensée fort heureuse, que sans s'éloigner de la coûtume des Peuples qui consacroient ces sortes de Monumens au Soleil, elle ait pris soin d'ériger celuy-cy au Roy sous la Figure de ce bel Astre qu'il a choisy pour Devise, &amp; qui est son veritable Symbole. En verité, Madame, il semble qu'il y ait quelque chose de mysterieux &amp; qui tient mesme du prodige, en tout ce qui regarde la gloire de nostre Prince. Faites-y reflexion, je vous prie. Cet Obelisque est venu d'Egypte, aussi bien que ceux que l'on voit à Rome. Tous les autres sont remplis de Caracteres hyeroglifiques, &amp; celuy-cy est demeuré tout nud &amp; tout uny, comme si par une heureuse fatalité il eust esté reservé pour y graver les Victoires &amp; les Conquestes de <hi rend="sc">Loüis le Grand</hi>. Je ne puis m’empescher de vous repeter icy les trois derniers Vers d’un Sonnet de M<hi rend="sup">r</hi> Roubin, dont je vous fis part le mois d’Aout passé, &amp; qui expriment admirablement cette pensée. Il dit au Roy en parlant de l’Obelisque d’Arles.</p>
         <quote>
           <l>Il semble que les ans ne l’ont tant respecté,</l>
           <l>Qu’afin de preparer une Table d’attente</l>
           <l>Pour y graver ton Nom à la Posterité.</l>
         </quote>
-        <p>Je n’ai pas oublié que vous vous plaignîtes en ce temps-là que j’avois supprimé les
-          Inscriptions qui devoient estre gravées aux quatre faces du Piedestal. Je le fis parce
-          qu’elles estoient Latines ; mais afin que vous ne perdiez rien, en voicy quatre Françoises
-          que Messieurs de l’Académie d’Arles avoient jugées dignes d’y estre mises, &amp; qu’on y
-          verroit aujourd’huy si on n’eust jugé à propos de préferer une Langue qui ne sçauroit plus
-          changer.</p>
+        <p>Je n’ai pas oublié que vous vous plaignîtes en ce temps-là que j’avois supprimé les Inscriptions qui devoient estre gravées aux quatre faces du Piedestal. Je le fis parce qu’elles estoient Latines ; mais afin que vous ne perdiez rien, en voicy quatre Françoises que Messieurs de l’Académie d’Arles avoient jugées dignes d’y estre mises, &amp; qu’on y verroit aujourd’huy si on n’eust jugé à propos de préferer une Langue qui ne sçauroit plus changer.</p>
         <quote rend="border">
           <label rend="center">I. INSCRIPTION</label>
           <l>Tandis que <hi rend="sup">Loüis le Grand</hi></l>
@@ -113,6 +88,6 @@
           <l>Ny plus grande, ny plus durable.</l>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

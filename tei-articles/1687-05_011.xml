@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-
-        
-        <p>L’Illustre Madame Deshoulieres est une de celles qui le parlent le plus purement, le plus
-          souvent, &amp; avec le plus d’approbation. Je vous envoyay le mois passé un de ses plus
-          beaux Ouvrages, dans lequel elle s’est assujettie aux rimes en <hi rend="i">oüille</hi>
-          dans tous les Vers feminins. En voicy d’autres de mesme nature, sur des rimes en <hi rend="i">ailles</hi>, en <hi rend="i">eilles</hi>, &amp; en <hi rend="i">ille</hi>, qui
-          ont esté aussi applaudis que le premier. Son genie est merveilleux en toutes sortes de
-          matieres, mais sur tout lors qu’elle entreprend de loüer le Roy On connoist par là
-          l’ardeur de son zele.</p>
+    <body>
+      <div>
+        <p>L’Illustre Madame Deshoulieres est une de celles qui le parlent le plus purement, le plus souvent, &amp; avec le plus d’approbation. Je vous envoyay le mois passé un de ses plus beaux Ouvrages, dans lequel elle s’est assujettie aux rimes en <hi rend="i">oüille</hi> dans tous les Vers feminins. En voicy d’autres de mesme nature, sur des rimes en <hi rend="i">ailles</hi>, en <hi rend="i">eilles</hi>, &amp; en <hi rend="i">ille</hi>, qui ont esté aussi applaudis que le premier. Son genie est merveilleux en toutes sortes de matieres, mais sur tout lors qu’elle entreprend de loüer le Roy On connoist par là l’ardeur de son zele.</p>
         <quote>
           <label>RIMES EN <hi rend="i">AILLES.</hi></label>
           <lg>
@@ -219,6 +211,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

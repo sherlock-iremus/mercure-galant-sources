@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,18 +14,20 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Les paroles que vous allez lire, ont esté mises en Air par un fort habile Musicien. <note resp="editor">Le poème figure, avec une mise en musique de Joseph Campra, dans le <hi rend="italic">Recueil d'airs sérieux et à boire</hi> de mai 1700 (Ballard, 1700, p. 86).</note></p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">Iris oubliant sa rigueur</hi>, doit regarder la page 80.</note>
-          <lg><l rend="i">Iris oubliant sa rigueur,</l>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">Iris oubliant sa rigueur</hi>, doit regarder la page 80.</note>
+          <lg>
+            <l rend="i">Iris oubliant sa rigueur,</l>
             <l rend="i">Dans un songe a flaté mon amoureuse ardeur.</l>
             <l rend="i">Amour, que l'Univers révere,</l>
             <l rend="i">Faut-il que le sommeil soit plus puissant que toy ?</l>
             <l rend="i">Ne sçaurois-tu faire pour moy</l>
-            <l rend="i">Ce que le sommeil a pu faire ?</l></lg>
+            <l rend="i">Ce que le sommeil a pu faire ?</l>
+          </lg>
         </quote>
         <ref target="images/1700-08_079.JPG">
           <figure>
@@ -33,6 +35,6 @@
           </figure>
         </ref>
       </div>
-        </body>
+    </body>
   </text>
 </TEI>

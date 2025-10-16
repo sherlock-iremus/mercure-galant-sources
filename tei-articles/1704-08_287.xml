@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p>Le Reverend Pere Figau, Augustin, Inventeur des pieces d’Artillerie à trois cannes qu’on appelle <hi rend="i">cerberes</hi>, dont je vous ay déja parlé, a esté nouvellement gratifié d’un logement dans l’Arsenal ; dans lequel il a mis en pratique une nouvelle machine pour éteindre le feu quand il prend aux cheminées : elle merite d’être vûë, &amp; d’être experimentée sur toutes les cheminées pour le bien &amp; l’utilité publique ; il s’est d’autant plus appliqué au travail de cette machine, qu’il a cherché à reconnoître par-là les bien faits du Roy qui l’honore d’une pension considerable.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>Le Reverend Pere Figau, Augustin, Inventeur des pieces d’Artillerie à trois cannes qu’on appelle <hi rend="i">cerberes</hi>, dont je vous ay déja parlé, a esté nouvellement gratifié d’un logement dans l’Arsenal ; dans lequel il a mis en pratique une nouvelle machine pour éteindre le feu quand il prend aux cheminées : elle merite d’être vûë, &amp; d’être experimentée sur toutes les cheminées pour le bien &amp; l’utilité publique ; il s’est d’autant plus appliqué au travail de cette machine, qu’il a cherché à reconnoître par-là les bien faits du Roy qui l’honore d’une pension considerable.</p>
+      </div>
+    </body>
   </text>
 </TEI>

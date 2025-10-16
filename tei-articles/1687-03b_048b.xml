@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div copyOf="JLB_MG-1687-03b_048_BIS">
-          
-          
-          <p/>
-          <p>Le 17. du mesme mois, les Tresoriers de France en cette Generalité, firent aussi chanter la Messe &amp; le <hi rend="i">Te Deum</hi> en Musique dans la Chapelle Royale de Saint Barthelemy, au son des Trompetes, &amp; au bruit des Fauconneaux, &amp; de la Mousqueterie, ce qui fut suivy le soir d'une distribution de toutes sortes de vins, &amp; d'une grande Illumination aux fenestres, aux tours, &amp; aux creneaux de la Tresorerie.</p>
-        </div>
-        </body>
+    <body>
+      <div copyOf="JLB_MG-1687-03b_048_BIS">
+        <p/>
+        <p>Le 17. du mesme mois, les Tresoriers de France en cette Generalité, firent aussi chanter la Messe &amp; le <hi rend="i">Te Deum</hi> en Musique dans la Chapelle Royale de Saint Barthelemy, au son des Trompetes, &amp; au bruit des Fauconneaux, &amp; de la Mousqueterie, ce qui fut suivy le soir d'une distribution de toutes sortes de vins, &amp; d'une grande Illumination aux fenestres, aux tours, &amp; aux creneaux de la Tresorerie.</p>
+      </div>
+    </body>
   </text>
 </TEI>

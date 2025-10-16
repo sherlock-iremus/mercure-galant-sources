@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Voicy des Vers qui ont esté faits par M<hi rend="sup">r</hi> Rousselet, Principal du
-          College de Noyon, sur le voyage de Sa Majesté, &amp; qui doivent précéder ce que j’ay à
-          vous en dire.</p>
+    <body>
+      <div>
+        <p>Voicy des Vers qui ont esté faits par M<hi rend="sup">r</hi> Rousselet, Principal du College de Noyon, sur le voyage de Sa Majesté, &amp; qui doivent précéder ce que j’ay à vous en dire.</p>
         <quote>
           <label>AU ROY.</label>
           <lg>
@@ -115,6 +112,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

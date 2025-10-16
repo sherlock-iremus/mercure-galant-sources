@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,27 +14,35 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p>Je vous envoye un Air nouveau, dont les paroles ont esté notées par Mr de Montailly.</p>
-          <quote>
-            <label>PLAINTE DES BUVEURS<lb/> CONTRE LA GELÉE.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">Qu’on ne m’apporte point</hi>, page 137.</note>
-            <lg>
-              <l><hi rend="i">Qu’on ne m’apporte point pour soulager ma peine,</hi></l>
-              <l> <hi rend="i">La triste boisson du Flamand,</hi></l>
-              <l> <hi rend="i">Ny le breuvage du Normand :</hi></l>
-              <l><hi rend="i">Puisqu’une Saison inhumaine</hi></l>
-              <l><hi rend="i">Fait périr en un jour, Bachus dans son Berceau,</hi></l>
-              <l><hi rend="i">Il ne faut plus songer qu’à descendre au Tombeau.</hi></l>
-            </lg>
-          </quote>
-          <ref target="images/1708-06_136.JPG">
-            <figure>
-              <graphic url="images/1708-06_136.JPG"/>
-            </figure>
-          </ref>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>Je vous envoye un Air nouveau, dont les paroles ont esté notées par Mr de Montailly.</p>
+        <quote>
+          <label>PLAINTE DES BUVEURS<lb/> CONTRE LA GELÉE.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">Qu’on ne m’apporte point</hi>, page 137.</note>
+          <lg>
+            <l>
+              <hi rend="i">Qu’on ne m’apporte point pour soulager ma peine,</hi>
+            </l>
+            <l> <hi rend="i">La triste boisson du Flamand,</hi></l>
+            <l> <hi rend="i">Ny le breuvage du Normand :</hi></l>
+            <l>
+              <hi rend="i">Puisqu’une Saison inhumaine</hi>
+            </l>
+            <l>
+              <hi rend="i">Fait périr en un jour, Bachus dans son Berceau,</hi>
+            </l>
+            <l>
+              <hi rend="i">Il ne faut plus songer qu’à descendre au Tombeau.</hi>
+            </l>
+          </lg>
+        </quote>
+        <ref target="images/1708-06_136.JPG">
+          <figure>
+            <graphic url="images/1708-06_136.JPG"/>
+          </figure>
+        </ref>
+      </div>
+    </body>
   </text>
 </TEI>

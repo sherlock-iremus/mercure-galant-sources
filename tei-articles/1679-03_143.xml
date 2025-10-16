@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,20 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-
-        
-        <p>Je viens, Madame, à ce que vous me dites de M<hi rend="sup">r</hi> le Duc de
-          Beauvilliers. Je n’avois point douté que vous ne reconnussiez M<hi rend="sup">r</hi> le
-          Comte de S. Aignan sous ce nom dans ce que je vous manday la derniere fois. Il fut reçeu
-          au Parlement le second de ce Mois avec les Cerémonies accoûtumées. Deux jours apres, le
-          Roy envoya à M<hi rend="sup">r</hi> le Duc de S. Aignan son Pere, un Brevet qui luy
-          confirma tous les honneurs des Pairs dont il joüissoit auparavant, &amp; le lendemain un
-          second Brevet, par lequel Sa Majesté luy accordoit cinquante mille Ecus de retenuë sur son
-          Gouvernement du Havre. Madame la Duchesse de Beauvilliers, seconde Fille de M<hi rend="sup">r</hi> Colbert, alla prendre le Tabouret chez la Reyne le Samedy quatriéme du
-          mesme Mois.</p>
+    <body>
+      <div>
+        <p>Je viens, Madame, à ce que vous me dites de M<hi rend="sup">r</hi> le Duc de Beauvilliers. Je n’avois point douté que vous ne reconnussiez M<hi rend="sup">r</hi> le Comte de S. Aignan sous ce nom dans ce que je vous manday la derniere fois. Il fut reçeu au Parlement le second de ce Mois avec les Cerémonies accoûtumées. Deux jours apres, le Roy envoya à M<hi rend="sup">r</hi> le Duc de S. Aignan son Pere, un Brevet qui luy confirma tous les honneurs des Pairs dont il joüissoit auparavant, &amp; le lendemain un second Brevet, par lequel Sa Majesté luy accordoit cinquante mille Ecus de retenuë sur son Gouvernement du Havre. Madame la Duchesse de Beauvilliers, seconde Fille de M<hi rend="sup">r</hi> Colbert, alla prendre le Tabouret chez la Reyne le Samedy quatriéme du mesme Mois.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

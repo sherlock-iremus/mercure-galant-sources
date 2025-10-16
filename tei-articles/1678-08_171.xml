@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Voila, Madame, ce qu’on m’assure estre vray dans toutes ses circonstances. Le Cavalier ne
-          vous sçauroit estre inconnu, &amp; je vous satisferay sur son nom quand il vous plaira.
-          J’ay receu un nouveau Conte de celuy dont vous en avez déja veu quelques-uns. Leur stile
-          naïf vous a plû, &amp; j’espere que vous ne serez pas moins contente de ce dernier, que
-          vous l’avez esté des premiers.</p>
+    <body>
+      <div>
+        <p>Voila, Madame, ce qu’on m’assure estre vray dans toutes ses circonstances. Le Cavalier ne vous sçauroit estre inconnu, &amp; je vous satisferay sur son nom quand il vous plaira. J’ay receu un nouveau Conte de celuy dont vous en avez déja veu quelques-uns. Leur stile naïf vous a plû, &amp; j’espere que vous ne serez pas moins contente de ce dernier, que vous l’avez esté des premiers.</p>
         <quote>
           <label rend="center">CONTE.</label>
           <lg>
@@ -61,6 +56,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

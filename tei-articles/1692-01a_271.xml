@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Je vous envoye quelques Ouvrages qui ont été faits sur cette derniere Conqueste de Sa
-          Majesté. Les trois premiers que vous allez lire sont de M<hi rend="sup">r</hi> de Vin.</p>
+    <body>
+      <div>
+        <p>Je vous envoye quelques Ouvrages qui ont été faits sur cette derniere Conqueste de Sa Majesté. Les trois premiers que vous allez lire sont de M<hi rend="sup">r</hi> de Vin.</p>
         <quote>
           <label>SUR LA PRISE<lb/>de Monmelian.</label>
           <lg>
@@ -27,7 +25,9 @@
             <l rend="i"> Quand viendra cette servitude</l>
             <l rend="i"> Dont nous menaçoit autrefois</l>
             <l rend="i"> Vostre timide inquietude,</l>
-            <l><hi rend="i">Et sommes-nous encor tous reduits aux abbois,</hi></l>
+            <l>
+              <hi rend="i">Et sommes-nous encor tous reduits aux abbois,</hi>
+            </l>
             <l rend="i">Comme vous le disiez quand Bourbon <note resp="author">Feu Monsieur le Prince.</note> &amp; Turenne</l>
             <l rend="i">Tomberent sous les coups de la Parque inhumaine ?</l>
             <l rend="i">Si pour nostre malheur on vous en avoit cru,</l>
@@ -42,7 +42,9 @@
             <l rend="i"> Vous la representoit ouverte</l>
             <l rend="i">Aux flots impetueux de tous ses Ennemis,</l>
             <l rend="i"> Qui confus &amp; tremblans de crainte,</l>
-            <l><hi rend="i">Toujours battus par eux, en fuite toujours mis,</hi></l>
+            <l>
+              <hi rend="i">Toujours battus par eux, en fuite toujours mis,</hi>
+            </l>
             <l rend="i"> Ne s’exposoient que par contrainte</l>
             <l rend="i"> Aux coups, dont à peine gueris,</l>
             <l rend="i">Ils avoient tant de fois senty la rude atteinte.</l>
@@ -94,7 +96,9 @@
             <l rend="i">C’estoit joüer sans doute â se donner un Maistre.</l>
             <l rend="i"> A peine ce nouveau Tyran</l>
             <l rend="i">Voit-il Mons de Louis implorer la clemence,</l>
-            <l><hi rend="i">Que Nice, fiere encor, mais jusqu’à l’insolence,</hi></l>
+            <l>
+              <hi rend="i">Que Nice, fiere encor, mais jusqu’à l’insolence,</hi>
+            </l>
             <l rend="i">D’avoir veu sans peril les armes d’un Sultan,</l>
             <l rend="i">Et fait devant ses murs échoüer la puissance</l>
             <l rend="i"> Du formidable Soliman ;</l>
@@ -115,7 +119,9 @@
             <l rend="i"> Jusque chez nos fiers Ennemis,</l>
             <l rend="i">Et leur apprend par là cette gloire immortelle</l>
             <l rend="i">Que le destin promet à l’Empire des Lis.</l>
-            <l><hi rend="i">Aprés cela, François, reprendrez-vous courage ?</hi></l>
+            <l>
+              <hi rend="i">Aprés cela, François, reprendrez-vous courage ?</hi>
+            </l>
             <l rend="i"> Quoy donc, en faut-il davantage</l>
             <l rend="i">Pour de vostre frayeur guerir tous vos esprits ?</l>
             <l> <hi rend="i">Hé bien, un peu de patience ;</hi></l>
@@ -141,7 +147,9 @@
             <l rend="i">Quoy, l’intrepide Fils du brave Amphitrion</l>
             <l rend="i">S’occupoit-il toûjours à vaincre un Geryon ?</l>
             <l rend="i">Cette fatigue au monde eust esté trop fatale.</l>
-            <l><hi rend="i">On le vit quelquefois entre les bras d’Omphale</hi></l>
+            <l>
+              <hi rend="i">On le vit quelquefois entre les bras d’Omphale</hi>
+            </l>
             <l rend="i">  Joüir d’un utile repos ;</l>
             <l rend="i">La Quenoüille à la main il filoit avec elle,</l>
             <l rend="i">  Et l’on sçait de ses grands travaux</l>
@@ -151,7 +159,9 @@
             <l rend="i">Que d’Hercule en cela tendres imitateurs</l>
             <l rend="i">Ils laissent quelquefois soupirer leurs grands cœurs ;</l>
             <l rend="i">Mais ils peuvent avoir chacun leur Dejanire,</l>
-            <l><hi rend="i">Et sans crainte, en gouster les charmantes douceurs.</hi></l>
+            <l>
+              <hi rend="i">Et sans crainte, en gouster les charmantes douceurs.</hi>
+            </l>
             <l rend="i">Je vous promets pour eux qu’à leur gloire fidelles,</l>
             <l rend="i"> Ils iront aprés d’un grand pas</l>
             <l rend="i">Chercher ces Ennemis qui fuyent les combats,</l>
@@ -200,8 +210,7 @@
         </quote>
         <p>Voicy encore trois Madrigaux sur cette mesme matiere. Le premier est de M<hi rend="sup">r</hi> de Lorme, Avocat au Parlement de Grenoble.</p>
         <quote>
-          <label>SUR LA PRISE<lb/>de Montmeillan, &amp; sur les<lb/>vains efforts de la
-            Ligue.<lb/>MADRIGAL.</label>
+          <label>SUR LA PRISE<lb/>de Montmeillan, &amp; sur les<lb/>vains efforts de la Ligue.<lb/>MADRIGAL.</label>
           <lg>
             <l rend="i">Ce Fort si renommé, qu’on croyoit imprenable,</l>
             <l rend="i">Vient enfin de ceder à nos braves François.</l>
@@ -219,7 +228,9 @@
         <quote>
           <label>SUR LA PRISE<lb/>de Monmelian.</label>
           <lg>
-            <l><hi rend="i">Quelle gloire à Louis le Grand !</hi></l>
+            <l>
+              <hi rend="i">Quelle gloire à Louis le Grand !</hi>
+            </l>
             <l rend="i">Par le Siege de Mons il ouvrit la campagne,</l>
             <l rend="i"> Et foudroya cette fiere Montagne.</l>
             <l rend="i"> Il la finit encor en Conquerant,</l>
@@ -233,8 +244,7 @@
           </lg>
         </quote>
         <quote>
-          <label>SUR LA PRISE<lb/>de Montmelian, qui a terminé la Campagne de 1691. ouverte par la
-            prise de Mons.<lb/>MADRIGAL.</label>
+          <label>SUR LA PRISE<lb/>de Montmelian, qui a terminé la Campagne de 1691. ouverte par la prise de Mons.<lb/>MADRIGAL.</label>
           <lg>
             <l rend="i">Comment les deux Heros d’une Ligue si fiere,</l>
             <l rend="i"> Le grand Nassau, le grand Baviere,</l>
@@ -249,6 +259,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

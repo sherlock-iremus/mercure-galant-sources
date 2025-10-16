@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Je vous envoyai le mois passé un Air, dont les paroles ont esté faites par Mademoiselle de la Charse, de la Maison de la Tour du Pin. Celles que vous allez lire sont encore de cette spirituelle personne, dont l'esprit n'est pas moins connu que la naissance.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin">L’Air, <hi rend="i">Je vivray sous tes loix</hi>, page 137.</note>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin">L’Air, <hi rend="i">Je vivray sous tes loix</hi>, page 137.</note>
           <lg>
             <l rend="i">Je vivray sous tes loix, adorable Bacchus,</l>
             <l rend="i">Si tu veux effacer Tircis de [ma] memoire :</l>
@@ -35,6 +35,6 @@
           </figure>
         </ref>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

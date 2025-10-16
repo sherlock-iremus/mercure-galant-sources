@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,27 +14,31 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-
-<p>Je vous envoye une Chanson nouvelle dont voicy les paroles.</p>
-<quote>
-  <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : [l’Air] qui commence par <hi rend="i">Bacchus</hi>, doit regarder la page 346.</note>
-<lg>
-<l><hi rend="i">Bacchus n’estant plus à la mode</hi></l>
-<l> <hi rend="i">Croit-on que Venus</hi></l>
-<l><hi rend="i">Quoy que Déesse fort commode</hi></l>
-<l> <hi rend="i">Ait le dessus ?</hi></l>
-<l>  <hi rend="i">Abus :</hi></l>
-<l>Sine Baccho, friget Venus.</l>
-</lg>
-</quote>
-  <ref target="images/1709-08_346.JPG">
-    <figure>
-      <graphic url="images/1709-08_346.JPG"/>
-    </figure>
-  </ref>
-</div>
-</body>
+    <body>
+      <div>
+        <p>Je vous envoye une Chanson nouvelle dont voicy les paroles.</p>
+        <quote>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : [l’Air] qui commence par <hi rend="i">Bacchus</hi>, doit regarder la page 346.</note>
+          <lg>
+            <l>
+              <hi rend="i">Bacchus n’estant plus à la mode</hi>
+            </l>
+            <l> <hi rend="i">Croit-on que Venus</hi></l>
+            <l>
+              <hi rend="i">Quoy que Déesse fort commode</hi>
+            </l>
+            <l> <hi rend="i">Ait le dessus ?</hi></l>
+            <l>  <hi rend="i">Abus :</hi></l>
+            <l>Sine Baccho, friget Venus.</l>
+          </lg>
+        </quote>
+        <ref target="images/1709-08_346.JPG">
+          <figure>
+            <graphic url="images/1709-08_346.JPG"/>
+          </figure>
+        </ref>
+      </div>
+    </body>
   </text>
 </TEI>

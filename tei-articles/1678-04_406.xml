@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Je me reserve à vous faire voir dans mes Lettres extraordinaires les belles Explications
-          des Enigmes, dont la plûpart sont en Vers, &amp; me contente aujourd’huy de vous apprendre
-          les noms de ceux qui les ont devinées. J’en useray toûjours de la mesme sorte à l’avenir,
-          &amp; cependant je vous envoye deux autres Enigmes que vous pourrez proposer à vos Amies.
-          La premiere est de M<hi rend="sup">r</hi> de Poclagnis ; &amp; l’autre de M<hi rend="sup">r</hi> du Matha-d’Emery.</p>
+    <body>
+      <div>
+        <p>Je me reserve à vous faire voir dans mes Lettres extraordinaires les belles Explications des Enigmes, dont la plûpart sont en Vers, &amp; me contente aujourd’huy de vous apprendre les noms de ceux qui les ont devinées. J’en useray toûjours de la mesme sorte à l’avenir, &amp; cependant je vous envoye deux autres Enigmes que vous pourrez proposer à vos Amies. La premiere est de M<hi rend="sup">r</hi> de Poclagnis ; &amp; l’autre de M<hi rend="sup">r</hi> du Matha-d’Emery.</p>
         <quote>
           <label rend="center">Enigme.</label>
           <l>Parmy les Courtisans j’ay la premiere place,</l>
@@ -34,6 +29,6 @@
           <l>Quand on n’a que moy seule, on est sans ornement.</l>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

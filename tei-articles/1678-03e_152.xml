@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,21 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
+    <body>
+      <div>
         <quote>
           <label rend="center">Lettre XXII.</label>
           <p rend="i">À Paris. </p>
-          <p>IL y a deux jours, Monsieur, que je pris la liberté de vous écrire un Billet, où je
-            vous disois ma pensée sur l’Enigme en taille douce de vostre dernier Mercure. Depuis ce
-            temps-là j’ay lû une seconde fois celles que vous y proposez en Vers, &amp; si je ne me
-            trompe, plus heureusement que la premiere, puis que j’en ay trouvé les Mots. Ce sont <hi rend="i">l’académie</hi> &amp; <hi rend="i">le Coq d’un Clocher</hi>. Elles sont si
-            justes &amp; si claires, qu’elles n’ont pas besoin d’explication, &amp; je m’étonne
-            comment elles ne m’ont point sauté d’abord aux yeux. Il faut pourtant que vous
-            permettiez à ma Muse familiere de s’égayer un peu, &amp; de vous dire à sa façon ce
-            qu’elle en pense.</p>
+          <p>IL y a deux jours, Monsieur, que je pris la liberté de vous écrire un Billet, où je vous disois ma pensée sur l’Enigme en taille douce de vostre dernier Mercure. Depuis ce temps-là j’ay lû une seconde fois celles que vous y proposez en Vers, &amp; si je ne me trompe, plus heureusement que la premiere, puis que j’en ay trouvé les Mots. Ce sont <hi rend="i">l’académie</hi> &amp; <hi rend="i">le Coq d’un Clocher</hi>. Elles sont si justes &amp; si claires, qu’elles n’ont pas besoin d’explication, &amp; je m’étonne comment elles ne m’ont point sauté d’abord aux yeux. Il faut pourtant que vous permettiez à ma Muse familiere de s’égayer un peu, &amp; de vous dire à sa façon ce qu’elle en pense.</p>
           <lg>
             <l><space/>Cette Enigme est l’Académie</l>
             <l>Où le Mérite met les petits &amp; les grands :</l>
@@ -57,6 +48,6 @@
           <p rend="sc">L’Abbé Droüyn. </p>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

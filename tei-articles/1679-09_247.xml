@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>J’ajoûte icy des Paroles mises en Air depuis peu. J’en ay fait graver les Notes pour
-          vous.</p>
+    <body>
+      <div>
+        <p>J’ajoûte icy des Paroles mises en Air depuis peu. J’en ay fait graver les Notes pour vous.</p>
         <quote>
-          <label type="head">AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Aimables
-              Lieux, paisible Solitude</hi>, doit regarder la page 247.</note>
+          <label type="head">AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Aimables Lieux, paisible Solitude</hi>, doit regarder la page 247.</note>
           <lg>
             <l rend="i">Aimables Lieux, paisible Solitude,</l>
             <l rend="i">Seuls Confidens de nos derniers adieux,</l>
@@ -39,6 +37,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

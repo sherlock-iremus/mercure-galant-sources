@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,18 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
-        <p>Vous me demandez qui a remporté le Prix des Bouts-rimez, proposez depuis deux mois par ce
-          sçavant Maistre de Musique. Il n’a point encor esté donné. Si ceux que Sa Majesté a nommez
-          pour Juges, prononcent avant que je finisse ma Lettre, je vous envoyeray le Sonnet
-          victorieux. En voicy cependant quatre sur les mesmes Bouts-rimez. Le premier est de M<hi rend="sup">r</hi> Gardien ; le second, de Mademoiselle Frédin de Pontoise ; le
-          troisiéme, de M<hi rend="sup">r</hi> Philibert d’Antibe ; &amp; le quatriéme, de M<hi rend="sup">r</hi> Astier, Prieur d’Avignon.</p>
+        <p>Vous me demandez qui a remporté le Prix des Bouts-rimez, proposez depuis deux mois par ce sçavant Maistre de Musique. Il n’a point encor esté donné. Si ceux que Sa Majesté a nommez pour Juges, prononcent avant que je finisse ma Lettre, je vous envoyeray le Sonnet victorieux. En voicy cependant quatre sur les mesmes Bouts-rimez. Le premier est de M<hi rend="sup">r</hi> Gardien ; le second, de Mademoiselle Frédin de Pontoise ; le troisiéme, de M<hi rend="sup">r</hi> Philibert d’Antibe ; &amp; le quatriéme, de M<hi rend="sup">r</hi> Astier, Prieur d’Avignon.</p>
         <quote>
-          <label>A LA GLOIRE DU ROY,<lb/>Sur les vains Projets des autres<lb/>Puissances jalouses de
-            sa grandeur.</label>
+          <label>A LA GLOIRE DU ROY,<lb/>Sur les vains Projets des autres<lb/>Puissances jalouses de sa grandeur.</label>
           <lg>
             <l><hi rend="i">Vous qui toûjours vaincus avez l’orgueil du</hi> Pan,</l>
             <l><hi rend="i">Et la malignité qu’on voit dans la</hi> Guenuche,</l>
@@ -137,6 +131,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

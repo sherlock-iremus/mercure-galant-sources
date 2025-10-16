@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Une mort de cette nature, à condition de revivre toutefois &amp; quantes, seroit assurément préferable aux langueurs continuelles de ces malheureux Amans qui veulent souffrir sans qu’on le sçache, &amp; qui n’ont autre soin dans leurs plaintes que de recommander la discretion aux Forests. Ecoutez celles d’un Berger que l’absence accable. L’Air &amp; les Paroles sont de M<hi rend="sup">r</hi> Robsard de Fontaines<note resp="editor">Attribution à Brossard d'après J. Duron (<hi rend="italic">L'Œuvre de Sébastien de Brossard (1655-1730). Catalogue thématique)</hi> qui cite les propos du compositeur (F-Pn/ ms. lat. n.a. 520, f. 114) : « Air notté et paroles de M.r Robsard de Fontaines. C'est le nom de Brossard retourné et déguisé. J'étois alors avec une charmante compagnie a Fontaines aux Roses près de Paris ou cette bagatelle m'échappa et fut envoyée au Mercure sous ce déguisement. J'avois mes raisons pour en user alors ainsi. » (cf. SdB.79)</note>.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour
-              placer les Figures</hi> : l’Air qui commence par <hi rend="i">Je ne viens plus dans
-              ces Deserts</hi>, doit regarder la Page 121.</note>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Je ne viens plus dans ces Deserts</hi>, doit regarder la Page 121.</note>
           <lg>
             <l rend="i"><space/>Je ne viens plus dans ces Deserts</l>
             <l rend="i">Inviter les Oyseaux à faire des Concerts ;</l>
@@ -39,6 +37,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

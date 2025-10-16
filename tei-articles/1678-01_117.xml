@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Il y a grande apparence que nos Ennemis n’ont pas tant de loisir de se divertir. Les
-          apprests de la Campagne prochaine les embarassent un peu plus que nous, &amp; s’ils
-          estoient sages, ils suivroient le conseil d’un galant Homme de Saint Maixant en Poitou,
-          qui leur adresse les Vers qui suivent.</p>
+    <body>
+      <div>
+        <p>Il y a grande apparence que nos Ennemis n’ont pas tant de loisir de se divertir. Les apprests de la Campagne prochaine les embarassent un peu plus que nous, &amp; s’ils estoient sages, ils suivroient le conseil d’un galant Homme de Saint Maixant en Poitou, qui leur adresse les Vers qui suivent.</p>
         <quote rend="border">
           <label rend="center">Sonnet.</label>
           <lg>
@@ -50,6 +46,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

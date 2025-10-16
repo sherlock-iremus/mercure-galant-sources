@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,19 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
+    <body>
+      <div>
         <p/>
-        <p>Je vous parlay il y a un mois, de quelques Conversions, qui n’estoient encore que
-          commencées. Elles se sont faites depuis ce temps-là. Je ne puis pourtant vous bien
-          asseurer, que celle de M<hi rend="sup">r</hi> de la Bastide soit de ce nombre. M<hi rend="sup">r</hi> l’Abbé Genest, dont le merite vous est connu, luy a adressé une Lettre
-          en Vers, qui passe pour un Chef-d’œuvre. Quoy qu’elle soit admirable en tout ce qu’elle
-          contient, je ne vous en envoyeray que ce qui regarde le Roy. Aprés beaucoup de fortes
-          raisons, soûtenuës d’un tour de Vers aussi naturel que majestueux, par lesquelles il tâche
-          de porter M<hi rend="sup">r</hi> de la Bastide à se soûmettre aux Veritez saintes qui sont
-          enseignées dans l’Eglise Catholique, voicy de quelle maniere il luy parle.</p>
+        <p>Je vous parlay il y a un mois, de quelques Conversions, qui n’estoient encore que commencées. Elles se sont faites depuis ce temps-là. Je ne puis pourtant vous bien asseurer, que celle de M<hi rend="sup">r</hi> de la Bastide soit de ce nombre. M<hi rend="sup">r</hi> l’Abbé Genest, dont le merite vous est connu, luy a adressé une Lettre en Vers, qui passe pour un Chef-d’œuvre. Quoy qu’elle soit admirable en tout ce qu’elle contient, je ne vous en envoyeray que ce qui regarde le Roy. Aprés beaucoup de fortes raisons, soûtenuës d’un tour de Vers aussi naturel que majestueux, par lesquelles il tâche de porter M<hi rend="sup">r</hi> de la Bastide à se soûmettre aux Veritez saintes qui sont enseignées dans l’Eglise Catholique, voicy de quelle maniere il luy parle.</p>
         <quote>
           <lg>
             <l rend="i">Toy que la Probité peut choisir pour modelle,</l>
@@ -96,6 +87,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

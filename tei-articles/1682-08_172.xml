@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,18 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
+    <body>
+      <div>
         <p/>
-        <p>M<hi rend="sup">r</hi> Cassini, de l’Observatoire, a fait de tres-beaux Vers Latins sur
-          cette mesme matiere. Ils font connoistre l’heureuse disposition où estoient les Astres
-          dans le temps de la Naissance de Monseigneur le Duc de Bourgogne, &amp; les grands biens
-          que la France en doit attendre. M<hi rend="sup">r</hi> Delenglet, Professeur Royal de
-          l’Eloquence Latine, en a fait aussi dans la mesme Langue, qu’il adresse au jeune Prince.
-          Ils sont tournez d’une maniere tres-agreable, &amp; fort estimez de tous ceux qui les ont
-          veus.</p>
+        <p>M<hi rend="sup">r</hi> Cassini, de l’Observatoire, a fait de tres-beaux Vers Latins sur cette mesme matiere. Ils font connoistre l’heureuse disposition où estoient les Astres dans le temps de la Naissance de Monseigneur le Duc de Bourgogne, &amp; les grands biens que la France en doit attendre. M<hi rend="sup">r</hi> Delenglet, Professeur Royal de l’Eloquence Latine, en a fait aussi dans la mesme Langue, qu’il adresse au jeune Prince. Ils sont tournez d’une maniere tres-agreable, &amp; fort estimez de tous ceux qui les ont veus.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

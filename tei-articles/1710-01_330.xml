@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-                    
-                    <p>Le P. Vanier Jesuite, habile Poëte, &amp; qui fait imprimer à Lyon un Dictionnaire Poëtique, a fait une Eglogue adressée à Mr Bon, dont je viens de parler ; dans laquelle il le felicite sur la belle découverte qu’il vient de faire. Cette Eglogue est Latine, ce qui m’empesche de vous l’envoyer. Elle est parfaitement belle.</p>
-                </div>
-                </body>
+    <body>
+      <div>
+        <p>Le P. Vanier Jesuite, habile Poëte, &amp; qui fait imprimer à Lyon un Dictionnaire Poëtique, a fait une Eglogue adressée à Mr Bon, dont je viens de parler ; dans laquelle il le felicite sur la belle découverte qu’il vient de faire. Cette Eglogue est Latine, ce qui m’empesche de vous l’envoyer. Elle est parfaitement belle.</p>
+      </div>
+    </body>
   </text>
 </TEI>

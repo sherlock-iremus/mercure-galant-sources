@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,21 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
+    <body>
+      <div>
         <p/>
-        <p>Cette mesme Feste a esté solemnisée à Cadix avec de grandes marques de joye par M<hi rend="sup">r</hi> Cathalan, Consul de la Nation Françoise en ce lieu là, &amp; en
-          Andalousie, &amp; Commissaire General des Armées Navales de Sa Majesté. Il fit orner
-          magnifiquement la Chapelle de Saint Loüis qu'il a fait bâtir pour les François. On y
-          celébra une grande Messe, qui fut chantée en Musique, &amp; en suite le <hi rend="i">Te
-            Deum</hi>, aux fanfares des Trompetes &amp; au bruit des coups de Canon &amp; des
-          Pierriers. Sur les deux heures apres midy, il fit ouvrir une Fontaine de Vin devant sa
-          Maison au bruit des mesmes Trompetes. Cette libéralité attira un nombre infiny de Peuples,
-          auquel pour luy donner encor plus de lieu de prendre part aux Réjoüissances, il fit jetter
-          une somme considérable par ses Fenestres. [...]</p>
+        <p>Cette mesme Feste a esté solemnisée à Cadix avec de grandes marques de joye par M<hi rend="sup">r</hi> Cathalan, Consul de la Nation Françoise en ce lieu là, &amp; en Andalousie, &amp; Commissaire General des Armées Navales de Sa Majesté. Il fit orner magnifiquement la Chapelle de Saint Loüis qu'il a fait bâtir pour les François. On y celébra une grande Messe, qui fut chantée en Musique, &amp; en suite le <hi rend="i">Te Deum</hi>, aux fanfares des Trompetes &amp; au bruit des coups de Canon &amp; des Pierriers. Sur les deux heures apres midy, il fit ouvrir une Fontaine de Vin devant sa Maison au bruit des mesmes Trompetes. Cette libéralité attira un nombre infiny de Peuples, auquel pour luy donner encor plus de lieu de prendre part aux Réjoüissances, il fit jetter une somme considérable par ses Fenestres. [...]</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

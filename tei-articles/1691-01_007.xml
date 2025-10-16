@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
-        <p>Je croy, Madame, que je ne puis mieux commencer ma premiere Lettre de cette nouvelle
-          année, qu’en vous faisant part d’un nouveau Portrait du Roy. Les traits sont si
-          ressemblans, que vous n’aurez pas de peine à tomber d’accord qu’ils ne peuvent convenir
-          qu’à ce grand Monarque.</p>
+        <p>Je croy, Madame, que je ne puis mieux commencer ma premiere Lettre de cette nouvelle année, qu’en vous faisant part d’un nouveau Portrait du Roy. Les traits sont si ressemblans, que vous n’aurez pas de peine à tomber d’accord qu’ils ne peuvent convenir qu’à ce grand Monarque.</p>
         <quote>
           <label>AU ROY.<lb/><hi rend="i">SONNET.</hi></label>
           <lg>
@@ -51,6 +47,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

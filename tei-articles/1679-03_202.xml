@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-
-        
-        <p>Les Theses galantes employées dans ma Lettre du dernier Mois, ont engagé M<hi rend="sup">r</hi> Gardien Secretaire du Roy, à répondre ce qui suit sur la seixiéme Conclusion.
-          Elle porte, <hi rend="i">Que bien souvent les Amans souhaitent des imperfections dans ce
-            qu’ils aiment, afin que l’envie ne trouble point leur bonheur</hi>.</p>
+    <body>
+      <div>
+        <p>Les Theses galantes employées dans ma Lettre du dernier Mois, ont engagé M<hi rend="sup">r</hi> Gardien Secretaire du Roy, à répondre ce qui suit sur la seixiéme Conclusion. Elle porte, <hi rend="i">Que bien souvent les Amans souhaitent des imperfections dans ce qu’ils aiment, afin que l’envie ne trouble point leur bonheur</hi>.</p>
         <quote>
           <label>Contre la seizieme</label>
           <label>Conclusion des Theses ga-</label>
@@ -55,10 +51,7 @@
           <l rend="i">Que sur vostre fureur il n’encherisse encore,</l>
           <l rend="i">Et que son changement ne serve à vous punir.</l>
         </quote>
-        <p>Le mesme M<hi rend="sup">r</hi> Gardien donnant un sens plus étroit à cette Conclusion,
-          &amp; suposant qu’un Amant souhaite des pertes &amp; des disgraces à sa Maistresse, afin
-          qu’en la secourant il puisse estre plus en état de s’en faire aimer, répond ce que vous
-          allez voir.</p>
+        <p>Le mesme M<hi rend="sup">r</hi> Gardien donnant un sens plus étroit à cette Conclusion, &amp; suposant qu’un Amant souhaite des pertes &amp; des disgraces à sa Maistresse, afin qu’en la secourant il puisse estre plus en état de s’en faire aimer, répond ce que vous allez voir.</p>
         <quote>
           <l rend="i">Qui se flate d’aimer, &amp; peut à ce qu’il aime,</l>
           <l rend="i">Du Destin en couroux souhaiter les rigueurs,</l>
@@ -80,6 +73,6 @@
           <l rend="i">Et quand nous luy donnons, que ce soit comme aux Dieux.</l>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

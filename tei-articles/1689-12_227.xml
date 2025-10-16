@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
-        <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : La
-          Medaille doit regarder la page 227.</note>
-        <p>Je continuë à vous envoyer des Medailles, qui toutes ensemble feront une suite des
-          principales actions de la Vie du Roy. Le revers de celle que je viens de faire graver,
-          contient la Ville de Strasbourg, avec tous les Forts qui sont dans les Isles des environs,
-          &amp; qui ferment la France du costé de l’Allemagne.</p>
+    <body>
+      <div>
+        <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : La Medaille doit regarder la page 227.</note>
+        <p>Je continuë à vous envoyer des Medailles, qui toutes ensemble feront une suite des principales actions de la Vie du Roy. Le revers de celle que je viens de faire graver, contient la Ville de Strasbourg, avec tous les Forts qui sont dans les Isles des environs, &amp; qui ferment la France du costé de l’Allemagne.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

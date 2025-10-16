@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,18 +14,20 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Je vous envoye à mon ordinaire un Air nouveau de M<hi rend="sup">r</hi> de Bassilly. C’est un embellissement qu’il veut bien donner à toutes mes Lettres.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par <hi rend="i">Climene, tu te plains de ma legereté</hi>, doit regarder la page 82.</note>
-          <lg><l rend="i">Climene, tu te plains de ma legereté,</l>
-          <l rend="i"><space rend="tab">    </space>Et je me plains de ta perséverance.</l>
-          <l rend="i">Donnant tout à mes feux, tu leur as tout osté,</l>
-          <l rend="i"><space rend="tab">    </space>L’amour finit où finit l’espérance.</l>
-          <l rend="i"><space rend="tab">    </space>Helas ! Iris me défend d’espérer,</l>
-          <l rend="i">Et pour elle mon cœur ne fait que soûpirer.</l></lg>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par <hi rend="i">Climene, tu te plains de ma legereté</hi>, doit regarder la page 82.</note>
+          <lg>
+            <l rend="i">Climene, tu te plains de ma legereté,</l>
+            <l rend="i"><space rend="tab"> </space>Et je me plains de ta perséverance.</l>
+            <l rend="i">Donnant tout à mes feux, tu leur as tout osté,</l>
+            <l rend="i"><space rend="tab"> </space>L’amour finit où finit l’espérance.</l>
+            <l rend="i"><space rend="tab"> </space>Helas ! Iris me défend d’espérer,</l>
+            <l rend="i">Et pour elle mon cœur ne fait que soûpirer.</l>
+          </lg>
         </quote>
         <ref target="images/1680-12_082.JPG">
           <figure>
@@ -33,6 +35,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

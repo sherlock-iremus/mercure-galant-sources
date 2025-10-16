@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-                
-                
-
-                <p>Nous apprenons, par les Anglois mesmes, puisque c’est par un Vaisseau arrivé en
-                    29 jours de la Jamaïque à Bristol, que quatre Vaisseaux de guerre François
-                    avoient pris <hi rend="italic">l’Heureux retour</hi>, Brigantin, &amp; quatre
-                    autres Navires sur la Coste de Guinée, &amp; que sur l’un de ces derniers il y
-                    avoit 500 Negres.</p>
-            </div>
+    <body>
+      <div>
+        <p>Nous apprenons, par les Anglois mesmes, puisque c’est par un Vaisseau arrivé en 29 jours de la Jamaïque à Bristol, que quatre Vaisseaux de guerre François avoient pris <hi rend="italic">l’Heureux retour</hi>, Brigantin, &amp; quatre autres Navires sur la Coste de Guinée, &amp; que sur l’un de ces derniers il y avoit 500 Negres.</p>
+      </div>
     </body>
   </text>
 </TEI>

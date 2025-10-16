@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,19 +14,18 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p>Il y a cinq ou six mois que je vous appris la mort de M<hi rend="sup">r</hi> Moreau, Avocat General de la Chambre des Comptes de Bourgogne. On vient de me donner un Madrigal que l’Illustre Mademoiselle de Scudery fit sur cette mort. Tout ce qui vient d’elle est à voir en quelque temps que ce soit. Ce Madrigal ne consiste qu’en ces quatre Vers.</p>
-          <quote>
-            <lg>
-              <l rend="i"> Quand on a des vertus sans nombre,</l>
-              <l> <hi rend="i">On ne peut plus n’estre qu’un Ombre,</hi></l>
-              <l rend="i">Et du sçavant Moreau, le merite fut tel,</l>
-              <l rend="i"> Que son nom doit estre immortel.</l>
-            </lg>
-          </quote>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>Il y a cinq ou six mois que je vous appris la mort de M<hi rend="sup">r</hi> Moreau, Avocat General de la Chambre des Comptes de Bourgogne. On vient de me donner un Madrigal que l’Illustre Mademoiselle de Scudery fit sur cette mort. Tout ce qui vient d’elle est à voir en quelque temps que ce soit. Ce Madrigal ne consiste qu’en ces quatre Vers.</p>
+        <quote>
+          <lg>
+            <l rend="i"> Quand on a des vertus sans nombre,</l>
+            <l> <hi rend="i">On ne peut plus n’estre qu’un Ombre,</hi></l>
+            <l rend="i">Et du sçavant Moreau, le merite fut tel,</l>
+            <l rend="i"> Que son nom doit estre immortel.</l>
+          </lg>
+        </quote>
+      </div>
+    </body>
   </text>
 </TEI>

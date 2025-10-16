@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Je ne vous dis rien du second Air nouveau dont vous allez lire les paroles. Vous sçavez ce qu'il y a de plus fin dans la Musique, &amp; vous en aurez bien-tost connu la beauté.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">Vous m'avez dit cent fois</hi>, doit regarder la page 289.</note>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">Vous m'avez dit cent fois</hi>, doit regarder la page 289.</note>
           <lg>
             <l rend="i">Vous m'avez dit cent fois que vous m'aimiez en Frere</l>
             <l rend="i">Et je vous ay promis de vous aimer en Sœur ;</l>
@@ -36,6 +36,6 @@
           </figure>
         </ref>
       </div>
-        </body>
+    </body>
   </text>
 </TEI>

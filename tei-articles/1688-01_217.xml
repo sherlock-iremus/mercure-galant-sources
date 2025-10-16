@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-          
-          <p>M<hi rend="sup">r</hi> le Marquis du Chatelet a épousé ces jours passez Mademoiselle de Bellefond. Ce Marquis est Chef du nom de l’illustre Maison des Maréchaux hereditaires de Lorraine, &amp; Chevaliers de l’ancienne Chevalerie de ce Duché. La Maison du Chatelet est issuë de celle de Lorraine, &amp; elle a pretendu estre de la branche des Aisnez. Il y a eu autrefois contestation là-dessus, &amp; le Roy de France, au lieu des trois Alerions d’argent dont la bande de gueules est chargée aux Armes de Lorraine, luy donna trois Fleurs de Lys d’argent, que ceux de cette Maison ont conservées depuis ce temps-là. Mademoiselle de Bellefond est Fille de M<hi rend="sup">r</hi> le Maréchal de Bellefond, premier Ecuyer de Madame la Dauphine. Je ne vous dis rien de ses Belles qualitez. Vous trouverez son portrait en Vers dans les Madrigaux de la Relation que j’ay faite du dernier Carrousel.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>M<hi rend="sup">r</hi> le Marquis du Chatelet a épousé ces jours passez Mademoiselle de Bellefond. Ce Marquis est Chef du nom de l’illustre Maison des Maréchaux hereditaires de Lorraine, &amp; Chevaliers de l’ancienne Chevalerie de ce Duché. La Maison du Chatelet est issuë de celle de Lorraine, &amp; elle a pretendu estre de la branche des Aisnez. Il y a eu autrefois contestation là-dessus, &amp; le Roy de France, au lieu des trois Alerions d’argent dont la bande de gueules est chargée aux Armes de Lorraine, luy donna trois Fleurs de Lys d’argent, que ceux de cette Maison ont conservées depuis ce temps-là. Mademoiselle de Bellefond est Fille de M<hi rend="sup">r</hi> le Maréchal de Bellefond, premier Ecuyer de Madame la Dauphine. Je ne vous dis rien de ses Belles qualitez. Vous trouverez son portrait en Vers dans les Madrigaux de la Relation que j’ay faite du dernier Carrousel.</p>
+      </div>
+    </body>
   </text>
 </TEI>

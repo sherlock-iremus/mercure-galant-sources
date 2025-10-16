@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Comme le Roy a soin de l’agreable aussi-bien que de l’utile, les superbes Apartemens de
-          son Palais de Versailles, où toutes les Personnes d’une qualité distinguée sont bien
-          reçeuës pour joüer, ont esté ouverts jusqu’à son depart pour Compiegne. Leur magnificence
-          a donné lieu à M<hi rend="sup">r</hi> l’Abbé Tallemant, de l’Académie Françoise, &amp;
-          Premier Aumônier de Madame, de faire le Sonnet que vous allez lire.</p>
+    <body>
+      <div>
+        <p>Comme le Roy a soin de l’agreable aussi-bien que de l’utile, les superbes Apartemens de son Palais de Versailles, où toutes les Personnes d’une qualité distinguée sont bien reçeuës pour joüer, ont esté ouverts jusqu’à son depart pour Compiegne. Leur magnificence a donné lieu à M<hi rend="sup">r</hi> l’Abbé Tallemant, de l’Académie Françoise, &amp; Premier Aumônier de Madame, de faire le Sonnet que vous allez lire.</p>
         <quote>
           <label>SUR LES SUPERBES<lb/>Apartemens de Versailles.</label>
           <lg>
@@ -51,6 +46,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

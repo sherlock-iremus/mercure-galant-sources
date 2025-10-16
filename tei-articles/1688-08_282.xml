@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,18 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
-        <p>Mademoiselle Boucherat, Fille de M<hi rend="sup">r</hi> Boucherat, Conseiller honoraire
-          au Parlement, seul Frere de M<hi rend="sup">r</hi> le Chancelier, a épousé M<hi rend="sup">r</hi> de Lisle Conseiller au Grand Conseil. La ceremonie du Mariage fut faite la nuit
-          du 16. au 17. de ce mois, par M<hi rend="sup">r</hi> le Curé de saint Louis dans la
-          Chapelle de ce digne Chef de la Justice. Comme il est grand en tout ce qu'il fait, il
-          avoit donné un soupé tres-magnifique, aprés lequel il y eut dans sa Galerie une Symphonie
-          fort agréable &amp; les divertissemens que sa sagesse, &amp; sa moderation en toutes
-          choses luy pouvoient permettre. [...]</p>
+        <p>Mademoiselle Boucherat, Fille de M<hi rend="sup">r</hi> Boucherat, Conseiller honoraire au Parlement, seul Frere de M<hi rend="sup">r</hi> le Chancelier, a épousé M<hi rend="sup">r</hi> de Lisle Conseiller au Grand Conseil. La ceremonie du Mariage fut faite la nuit du 16. au 17. de ce mois, par M<hi rend="sup">r</hi> le Curé de saint Louis dans la Chapelle de ce digne Chef de la Justice. Comme il est grand en tout ce qu'il fait, il avoit donné un soupé tres-magnifique, aprés lequel il y eut dans sa Galerie une Symphonie fort agréable &amp; les divertissemens que sa sagesse, &amp; sa moderation en toutes choses luy pouvoient permettre. [...]</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Voicy un Air nouveau estimé des Connoisseurs.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin">L’Air doit regarder la page 333.</note>
-          <lg><l rend="i">Iris, que vous estes charmante,</l>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin">L’Air doit regarder la page 333.</note>
+          <lg>
+            <l rend="i">Iris, que vous estes charmante,</l>
             <l rend="i">Vostre beauté me ravit &amp; m'enchante ;</l>
             <l rend="i">A ne vous déguiser rien ;</l>
             <l rend="i">Si vous vouliez m'aimer, je vous aimerois bien.</l>
@@ -32,6 +33,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

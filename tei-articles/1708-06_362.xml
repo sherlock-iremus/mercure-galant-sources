@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,27 +14,29 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p>Pendant que ces nouveaux époux vont joüir du Printemps de leurs belles années, je passe à une Chanson, faite à l’occasion du dernier Printemps, &amp; dont les paroles ont esté mises en Air par Mr de Montailly.</p>
-          <quote>
-            <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par <hi rend="i">Iris</hi>, page 363.</note>
-            <lg>
-              <l><hi rend="i">Iris m’avoit promis que la Saison nouvelle</hi></l>
-              <l> <hi rend="i">La rameneroit dans nos champs ;</hi></l>
-              <l> <hi rend="i">Cependant voicy le beau temps</hi></l>
-              <l> <hi rend="i">Et l’on ne voit point cette Belle ;</hi></l>
-              <l> <hi rend="i">Ah ! je crains bien que le Printemps</hi></l>
-              <l> <hi rend="i">Ne revienne souvent sans elle.</hi></l>
-            </lg>
-          </quote>
-          <ref target="images/1708-06_362.JPG">
-            <figure>
-              <graphic url="images/1708-06_362.JPG"/>
-            </figure>
-          </ref>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>Pendant que ces nouveaux époux vont joüir du Printemps de leurs belles années, je passe à une Chanson, faite à l’occasion du dernier Printemps, &amp; dont les paroles ont esté mises en Air par Mr de Montailly.</p>
+        <quote>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par <hi rend="i">Iris</hi>, page 363.</note>
+          <lg>
+            <l>
+              <hi rend="i">Iris m’avoit promis que la Saison nouvelle</hi>
+            </l>
+            <l> <hi rend="i">La rameneroit dans nos champs ;</hi></l>
+            <l> <hi rend="i">Cependant voicy le beau temps</hi></l>
+            <l> <hi rend="i">Et l’on ne voit point cette Belle ;</hi></l>
+            <l> <hi rend="i">Ah ! je crains bien que le Printemps</hi></l>
+            <l> <hi rend="i">Ne revienne souvent sans elle.</hi></l>
+          </lg>
+        </quote>
+        <ref target="images/1708-06_362.JPG">
+          <figure>
+            <graphic url="images/1708-06_362.JPG"/>
+          </figure>
+        </ref>
+      </div>
+    </body>
   </text>
 </TEI>

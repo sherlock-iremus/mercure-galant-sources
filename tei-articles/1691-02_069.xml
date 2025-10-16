@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,9 +14,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
         <p>Le temps où nous sommes rend de saison la piece que vous allez lire. Elle est de M<hi rend="sup">r</hi> de Vin, dont tous les Ouvrages ont esté de vostre goust.</p>
         <quote>
@@ -50,7 +49,9 @@
             <l rend="i">Parloit à cœur ouvert ; là se voyoit encor</l>
             <l rend="i">Cette honneste pudeur de l’heureux Siecle d’or.</l>
             <l rend="i">Là regnoient en un mot, sans trouble, sans malice,</l>
-            <l><hi rend="i">La probité, la foy, la paix, &amp; la justice.</hi></l>
+            <l>
+              <hi rend="i">La probité, la foy, la paix, &amp; la justice.</hi>
+            </l>
             <l rend="i"> L’inconstance par tout ailleurs</l>
             <l rend="i">Du plaisir le plus grand alteroit les douceurs.</l>
             <l rend="i">Tel qui couroit aprés le fuyoit par caprice.</l>
@@ -203,6 +204,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

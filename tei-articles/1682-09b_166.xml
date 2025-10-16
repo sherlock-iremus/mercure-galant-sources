@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
+    <body>
+      <div>
         <p/>
-        <p>Vous avez trouvé dans ma Lettre d’Aoust, une ample description de la grande Feste que les
-          Jesuites de la Ruë S. Jacques ont faite, pour celebrer la Naissance du jeune Prince. Elle
-          a donné lieu à cet Ouvrage de M<hi rend="sup">r</hi> Philibert d’Antibe.</p>
+        <p>Vous avez trouvé dans ma Lettre d’Aoust, une ample description de la grande Feste que les Jesuites de la Ruë S. Jacques ont faite, pour celebrer la Naissance du jeune Prince. Elle a donné lieu à cet Ouvrage de M<hi rend="sup">r</hi> Philibert d’Antibe.</p>
         <quote>
-          <label>LA FESTE<lb/>DU PARNASSE,<lb/><hi rend="i">Celebrée dans le College<lb/>de
-              Clermont</hi>.</label>
+          <label>LA FESTE<lb/>DU PARNASSE,<lb/><hi rend="i">Celebrée dans le College<lb/>de Clermont</hi>.</label>
           <lg>
             <l>Quoy ! ce n’est qu’en buvant coup sur coup du Nectar,</l>
             <l><hi rend="i">Dit Apollon aux Dieux,</hi> qu’on celebre une Feste ?</l>
@@ -129,6 +124,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

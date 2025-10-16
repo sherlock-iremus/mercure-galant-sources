@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Vous avez déja veu quelques Airs de M<hi rend="sup">r</hi> Lesgu. En voicy encor un
-          nouveau de sa façon. On ne m’a point dit de qui estoient les Paroles.</p>
+    <body>
+      <div>
+        <p>Vous avez déja veu quelques Airs de M<hi rend="sup">r</hi> Lesgu. En voicy encor un nouveau de sa façon. On ne m’a point dit de qui estoient les Paroles.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour
-              placer les Figures</hi> : l’Air qui commence par, <hi rend="i">Affreux Rochers,
-              Demeures sombres</hi>, doit regarder la page 329.</note>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par, <hi rend="i">Affreux Rochers, Demeures sombres</hi>, doit regarder la page 329.</note>
           <lg>
             <l rend="i"><space/>Affreux Rochers, Demeures sombres,</l>
             <l rend="i">Charmans séjour d’un malheureux Amant,</l>
@@ -39,6 +36,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

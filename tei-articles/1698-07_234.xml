@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p>Les Contes continuent d’estre en vogue, &amp; les Contes nouveaux, ou Fées à la mode, par Madame D** sont du nombre de ceux qui ont le plus réussi. On n’en peut douter, puis que le Public en a demandé une suite. Ainsi on vient de luy en donner deux volumes nouveaux, qui se vendent dans la grande Salle du Palais, à l’Envie, chez Nicolas Gosselin, en la Boutique de défunt Theodore Girard. On voit dans ces deux volumes les Contes</p>
-          <p>Du Pigeon &amp; de la Colombe.</p>
-          <p>De la Princesse Belle-Etoile &amp; du Prince chery.</p> 
-          <p>Du Prince Marcassin.</p> 
-          <p>Du Dauphin.</p>
-          <p>Et celuy du Gentilhomme Bourgeois, qui se trouvant meslé parmy tous ces Contes, fait une agréable diversité.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>Les Contes continuent d’estre en vogue, &amp; les Contes nouveaux, ou Fées à la mode, par Madame D** sont du nombre de ceux qui ont le plus réussi. On n’en peut douter, puis que le Public en a demandé une suite. Ainsi on vient de luy en donner deux volumes nouveaux, qui se vendent dans la grande Salle du Palais, à l’Envie, chez Nicolas Gosselin, en la Boutique de défunt Theodore Girard. On voit dans ces deux volumes les Contes</p>
+        <p>Du Pigeon &amp; de la Colombe.</p>
+        <p>De la Princesse Belle-Etoile &amp; du Prince chery.</p>
+        <p>Du Prince Marcassin.</p>
+        <p>Du Dauphin.</p>
+        <p>Et celuy du Gentilhomme Bourgeois, qui se trouvant meslé parmy tous ces Contes, fait une agréable diversité.</p>
+      </div>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>En attendant, je vous envoie un Contract de liaison, passé par devant l'Esprit &amp; le
-          Cœur, qui sont les plus zélez Ministres dont l'Amour ait acoûtumé de se servir.</p>
+    <body>
+      <div>
+        <p>En attendant, je vous envoie un Contract de liaison, passé par devant l'Esprit &amp; le Cœur, qui sont les plus zélez Ministres dont l'Amour ait acoûtumé de se servir.</p>
         <quote rend="border">
           <label rend="center">Contract</label>
           <label rend="center">Galant.</label>
@@ -29,21 +27,24 @@
             <l>Pour recevoir avec ce caractere</l>
             <l>Des fideles Amans les sermens solomnels,</l>
             <l>Et les unir apres des nœuds eternels.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l><space/>Furent presens le Berger Clidamus,</l>
             <l>Demeurant aujourd’huy dans l’Isle de Thémis,</l>
             <l>D'une part, &amp; la sage &amp; charmante Isabelle,</l>
             <l><space/>Spirituelle encore plus que belle,</l>
             <l><space/>Fille du Docteur Dorimont,</l>
             <l>Qui fait sa résidence au bas du sacré Mont.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l><space/>Ce Berger &amp; cette Bergere,</l>
             <l><space/>Accompagnez de leurs plus chers Amis,</l>
             <l>Se sont de leur plein gré l’un à l’autre promis</l>
             <l><space/>Une foy constante &amp; sincere,</l>
             <l>Et devant tous ont presté le serment</l>
             <l><space/>De s’aimer éternellement.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l>Sous de commodes Loix d’un heureux Hymenée,</l>
             <l><space/>Cet aimable couple d’Amans,</l>
             <l>Pour bannir toute crainte, &amp; fuir cent vains tourmens,</l>
@@ -56,7 +57,8 @@
             <l>Sur ce fond qu’avec soin il a sçeu ménager,</l>
             <l>Et qu’en vain l’on tâcha de luy faire engager,</l>
             <l>Il assigne la Dot de l’Epouse future.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l>Item, un autre fond de grande Complaisance,</l>
             <l>Semé de Petits-soins, meslez de Belle-humeur,</l>
             <l>Clos tout autour d’un mur de Bienseance,</l>
@@ -69,7 +71,8 @@
             <l>Et beaucoup de Pudeur, &amp; beaucoup de Tendresse ;</l>
             <l>Mais pour n’en point mentir, au raport des Témoins,</l>
             <l>La derniere n’y croist qu’avec d’extrémes soins.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l><space/>Item, un tres-grand fond d’Esprit,</l>
             <l>Orné de beaux Discours rangez avec justesse,</l>
             <l>Un champ libre &amp; facile à coucher par écrit,</l>
@@ -94,7 +97,8 @@
             <l>Car il vaut mieux alors se quitter librement,</l>
             <l>Qu'attendre avec chagrin qu’un lugubre moment</l>
             <l>Desunisse deux Corps qu’un triste Hymen assemble.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l>Sans doute l’on fera de merveilleux progrés,</l>
             <l>Si l’on prévient ainsi les desordres secrets,</l>
             <l>Que souvent l’imprudence ou l’interest fait naistre :</l>
@@ -104,8 +108,9 @@
           </lg>
           <p>Signé, <hi rend="sc">Clidamis</hi> &amp; <hi rend="sc">Isabelle</hi>, Parties.</p>
           <p><hi rend="sc">Meliton</hi> &amp; <hi rend="sc">Adamas</hi>, Témoins.</p>
-          <p><hi rend="sc">Esprit</hi> &amp; <hi rend="sc">Le Coeur</hi>, Notaires.</p></quote>
+          <p><hi rend="sc">Esprit</hi> &amp; <hi rend="sc">Le Coeur</hi>, Notaires.</p>
+        </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

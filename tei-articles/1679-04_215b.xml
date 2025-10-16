@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-
-        
-        <p>C’est une étrange chose que l’amour. Il ne cause pas seulement du fracas parmy les
-          Hommes, il tourmente jusqu’aux Animaux, &amp; l’aimable Chate Grisete pour laquelle tant
-          de beaux Esprits ont fait les galantes Pieces que vous avez leuës dans l’Extraordinaire du
-          Quartier d’Octobre, n’a pas borné ses conquestes à Paris. Le bruit de son mérite a esté
-          plus loin, &amp; voicy ce qu’on luy écrit d’aupres d’Argentan. La Lettre est au nom du
-          Matou Brunaut, à qui M<hi rend="sup">r</hi> d’Abloville a prêté ces Vers.</p>
+    <body>
+      <div>
+        <p>C’est une étrange chose que l’amour. Il ne cause pas seulement du fracas parmy les Hommes, il tourmente jusqu’aux Animaux, &amp; l’aimable Chate Grisete pour laquelle tant de beaux Esprits ont fait les galantes Pieces que vous avez leuës dans l’Extraordinaire du Quartier d’Octobre, n’a pas borné ses conquestes à Paris. Le bruit de son mérite a esté plus loin, &amp; voicy ce qu’on luy écrit d’aupres d’Argentan. La Lettre est au nom du Matou Brunaut, à qui M<hi rend="sup">r</hi> d’Abloville a prêté ces Vers.</p>
         <quote>
           <label>Brunaut,</label>
           <label>Matou banal des</label>
@@ -41,8 +34,7 @@
           <l/>
           <ab type="ornament">***</ab>
           <l>Ils me firent bientost abandonner la place,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Et malgré la neige &amp; la
-            glace,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Et malgré la neige &amp; la glace,</l>
           <l>Concevoir le dessein de me rendre à Paris.</l>
           <l>Un Chat qui pour vous voir veut quiter son Païs,</l>
           <l>Par la saison qu’il fait, mérite quelque grace,</l>
@@ -51,8 +43,7 @@
           <ab type="ornament">***</ab>
           <l>Je suis de qualité ; je ne sens point le Drille,</l>
           <l>On peut sans vanité compter dans ma Famille</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Des Chats Héros de Pere en
-            Fils,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Des Chats Héros de Pere en Fils,</l>
           <l><seg type="tab">    </seg>Les Rodilards, les Rominagrobis,</l>
           <l>De tout temps ont passé pour estre fort habiles</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>A faire la guerre aux Souris.</l>
@@ -61,44 +52,35 @@
           <l>Nulle Chate en ces lieux ne m’a paru Tygresse ;</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Si la beauté, si la tendresse,</l>
           <l>Pouvoient me contenter, mon sort seroit bien doux ;</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Mais des Chats bastis comme
-            nous,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Mais des Chats bastis comme nous,</l>
           <l>Demandent de l’esprit, de la délicatesse,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Et tout cela n’est que chez
-            vous.</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Et tout cela n’est que chez vous.</l>
           <l/>
           <ab type="ornament">***</ab>
           <l>Tata m’allarme quelque peu ; quoy qu’il sçache bien dire,</l>
           <l><seg type="tab">    </seg>Bien raisonner, bien rimer, bien écrire,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Il n’est, en gros comme en
-            détail,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Bon qu’à faire un Chat de
-            Serrail,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Il n’est, en gros comme en détail,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Bon qu’à faire un Chat de Serrail,</l>
           <l>Son conseil vaut beaucoup, mais c’est lors qu’on veut rire,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Peu de chose que son travail.</l>
           <l/>
           <ab type="ornament">***</ab>
           <l>Tous les autres Matous de vostre voisinage</l>
           <l><seg type="tab">    </seg>A mon abord changeront de langage,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Entr’autres Dom Gris &amp;
-            Mitin ;</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Certain Renault, certain
-            Blondin,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Entr’autres Dom Gris &amp; Mitin ;</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Certain Renault, certain Blondin,</l>
           <l><seg type="tab">    </seg>Renonceront pour jamais au fromage,</l>
           <l><seg type="tab">    </seg>Quand je voudray prendre mon air mutin.</l>
           <l/>
           <ab type="ornament">***</ab>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Cecy n’est point par
-            Gasconnade ;</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Cecy n’est point par Gasconnade ;</l>
           <l>S’ils veulent avec moy venir à la gourmade,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Ils verront comme un Chat
-            Normand,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Ils verront comme un Chat Normand,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Qui s’est declaré vostre Amant,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Sçait mettre en jeu
-            l’estafilade,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Sçait mettre en jeu l’estafilade,</l>
           <l><seg type="tab">    </seg>Pour posseder un Objet si charmant.</l>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

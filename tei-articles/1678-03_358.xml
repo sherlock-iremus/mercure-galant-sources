@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-
-        
-        <p>Comme ma Lettre est déja plus longue que je ne vous en ay encor écrit aucune, je vay
-          trancher court sur ce qui regarde les Enigmes. On a deviné juste dans vostre Province pour
-          les deux en Vers. L’une est en effet <hi rend="i">un Baston de Mareschal de France</hi>,
-          &amp; l’autre <hi rend="i">une Enseigne de Maison</hi>. M<hi rend="sup">r</hi> Robe de
-          Soisson a expliqué la premiere par ce Madrigal.</p>
+    <body>
+      <div>
+        <p>Comme ma Lettre est déja plus longue que je ne vous en ay encor écrit aucune, je vay trancher court sur ce qui regarde les Enigmes. On a deviné juste dans vostre Province pour les deux en Vers. L’une est en effet <hi rend="i">un Baston de Mareschal de France</hi>, &amp; l’autre <hi rend="i">une Enseigne de Maison</hi>. M<hi rend="sup">r</hi> Robe de Soisson a expliqué la premiere par ce Madrigal.</p>
         <quote>
           <l rend="i">Pendant que nos Héros comme autant de Césars</l>
           <l rend="i"><space/><space/>Courent mille sanglans hazards</l>
@@ -35,18 +29,8 @@
           <l rend="i"><space/>Qui m’a donné plus d’un jour à songer ;</l>
           <l rend="i">C’est là tout ce qu’au vray sa Conqueste me coûte.</l>
         </quote>
-        <p>Ceux qui l’ont deviné comme luy, sans avoir deviné celle de l’Enseigne, sont, M<hi rend="sup">r</hi> de la Vessiere, M<hi rend="sup">r</hi> du Bois Procureur du Roy, de
-          Ham ; M<hi rend="sup">r</hi> Hébert Avocat, du Valois ; M<hi rend="sup">r</hi> du Teil ; M<hi rend="sup">r</hi> Charpentier Commis au Domaine du Languedoc ; M<hi rend="sup">r</hi> de
-          Valnay Controlleur de la Maison du Roy ; la Ville de Ham en Picardie ; M<hi rend="sup">r</hi> Arnoulet de Loche-Fontaine, President de la Cour des Monnoyes ; M<hi rend="sup">r</hi> de Chantoiseau, de Brie-Comte-Robert ; M<hi rend="sup">r</hi> Evrard ;
-          M<hi rend="sup">r</hi> d’Argincourt ; M<hi rend="sup">r</hi> Gauthier ; Mademoiselle
-          Portail, Fille du Gouverneur de Brie-Comte-Robert ; M<hi rend="sup">r</hi> Boulanger, de
-          Dinan en Bretagne ; M<hi rend="sup">r</hi> de la Barmondiere, Secretaire du Roy, &amp;
-          Procureur du Roy, de Villefranche ; Mademoiselle Vastel, de Roüen ; M<hi rend="sup">r</hi>
-          Greaume de Bergeromare, Avocat du Roy au Ponteau de Mer ; M<hi rend="sup">r</hi> du
-          Mata-d’Emery ; M<hi rend="sup">r</hi> le Lieutenant General de Meaux ; M<hi rend="sup">r</hi>
-          Coüet, &amp; M<hi rend="sup">r</hi> Lagréve, de Lyon. Plusieurs l’ont expliquée sur <hi rend="i">l’Or, la Pique le Sceptre</hi>, &amp; <hi rend="i">la Pierre de
-            Taille</hi>.</p>
+        <p>Ceux qui l’ont deviné comme luy, sans avoir deviné celle de l’Enseigne, sont, M<hi rend="sup">r</hi> de la Vessiere, M<hi rend="sup">r</hi> du Bois Procureur du Roy, de Ham ; M<hi rend="sup">r</hi> Hébert Avocat, du Valois ; M<hi rend="sup">r</hi> du Teil ; M<hi rend="sup">r</hi> Charpentier Commis au Domaine du Languedoc ; M<hi rend="sup">r</hi> de Valnay Controlleur de la Maison du Roy ; la Ville de Ham en Picardie ; M<hi rend="sup">r</hi> Arnoulet de Loche-Fontaine, President de la Cour des Monnoyes ; M<hi rend="sup">r</hi> de Chantoiseau, de Brie-Comte-Robert ; M<hi rend="sup">r</hi> Evrard ; M<hi rend="sup">r</hi> d’Argincourt ; M<hi rend="sup">r</hi> Gauthier ; Mademoiselle Portail, Fille du Gouverneur de Brie-Comte-Robert ; M<hi rend="sup">r</hi> Boulanger, de Dinan en Bretagne ; M<hi rend="sup">r</hi> de la Barmondiere, Secretaire du Roy, &amp; Procureur du Roy, de Villefranche ; Mademoiselle Vastel, de Roüen ; M<hi rend="sup">r</hi> Greaume de Bergeromare, Avocat du Roy au Ponteau de Mer ; M<hi rend="sup">r</hi> du Mata-d’Emery ; M<hi rend="sup">r</hi> le Lieutenant General de Meaux ; M<hi rend="sup">r</hi> Coüet, &amp; M<hi rend="sup">r</hi> Lagréve, de Lyon. Plusieurs l’ont expliquée sur <hi rend="i">l’Or, la Pique le Sceptre</hi>, &amp; <hi rend="i">la Pierre de Taille</hi>.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

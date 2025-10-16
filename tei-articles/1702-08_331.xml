@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,19 +14,26 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-          
-          <p>Mr le Marquis de Crequy voulut encore agir aprés avoir reçû deux blessures, &amp; toutes les Lettres portent qu’il a beaucoup contribué à l’avantage que l’on a remporté. Voicy quatre Vers qui ont esté faits par Mr de Canaple à la gloire de ce Marquis.</p>
-          <quote>
-            <lg>
-              <l><hi rend="i">Crequy meurt en Heros les armes à la main.</hi></l>
-              <l><hi rend="i">Et choisit pour Tombeau le sein de la Victoire,</hi></l>
-              <l><hi rend="i">Né dans le Champ de Mars il s’y couvre de gloire,</hi></l>
-              <l><hi rend="i">Seur que par cette mort, il doit vivre sans fin.</hi></l>
-            </lg>
-          </quote>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>Mr le Marquis de Crequy voulut encore agir aprés avoir reçû deux blessures, &amp; toutes les Lettres portent qu’il a beaucoup contribué à l’avantage que l’on a remporté. Voicy quatre Vers qui ont esté faits par Mr de Canaple à la gloire de ce Marquis.</p>
+        <quote>
+          <lg>
+            <l>
+              <hi rend="i">Crequy meurt en Heros les armes à la main.</hi>
+            </l>
+            <l>
+              <hi rend="i">Et choisit pour Tombeau le sein de la Victoire,</hi>
+            </l>
+            <l>
+              <hi rend="i">Né dans le Champ de Mars il s’y couvre de gloire,</hi>
+            </l>
+            <l>
+              <hi rend="i">Seur que par cette mort, il doit vivre sans fin.</hi>
+            </l>
+          </lg>
+        </quote>
+      </div>
+    </body>
   </text>
 </TEI>

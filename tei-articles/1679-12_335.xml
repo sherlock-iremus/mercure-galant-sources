@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Comme vous avez toûjours une forte passion pour la Musique, vous ne serez pas fâchée d’apprendre que M<hi rend="sup">r</hi> Lorenzani est revenu d’Italie, où il estoit allé par ordre du Roy. Il a amené cinq belles Voix de ce Païs-là, &amp; a esté régalé par tout où il a passé. C’est l’effet ordinaire du vray mérite. Il a fait chanter de ses Ouvrages d’Eglise &amp; de Chambre à Turin, où Madame Royale l’a retenu quelque temps. Cette Princesse toûjours genéreuse &amp; magnifique, luy a donné un fort beau Diamant à son départ.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

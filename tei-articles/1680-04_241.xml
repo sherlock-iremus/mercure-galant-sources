@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,28 +14,22 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Je vous envoye un second Printemps, qui vous fera voir ce que je vous ay dit déjà, que
-          les Amans se plaignent toûjours. Je ne vous puis dire ny qui a fait les Paroles, ny qui
-          les a mises en Air.</p>
-        <p><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air
-            qui commence par <hi rend="i">Printemps, dequoy me servez vous</hi>, doit regarder la
-            page 241.</note></p>
+    <body>
+      <div>
+        <p>Je vous envoye un second Printemps, qui vous fera voir ce que je vous ay dit déjà, que les Amans se plaignent toûjours. Je ne vous puis dire ny qui a fait les Paroles, ny qui les a mises en Air.</p>
+        <p>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par <hi rend="i">Printemps, dequoy me servez vous</hi>, doit regarder la page 241.</note>
+        </p>
         <quote>
           <label>Air nouveau.</label>
-          <l><space rend="tab"> </space><space rend="tab"> </space>Printemps, dequoy me servez
-            vous ?</l>
+          <l><space rend="tab"> </space><space rend="tab"> </space>Printemps, dequoy me servez vous ?</l>
           <l>En vain vous étalez une beauté supréme,</l>
           <l><space rend="tab"> </space><space rend="tab"> </space>Mon cœur ennuyeux à soy-mesme</l>
-          <l><space rend="tab"> </space><space rend="tab"> </space>N’en est pas moins sensible aux
-            coups</l>
+          <l><space rend="tab"> </space><space rend="tab"> </space>N’en est pas moins sensible aux coups</l>
           <l><space rend="tab"> </space><space rend="tab"> </space>De la perte de ce qu’il aime.</l>
           <l>Vous avez beau m’offrir vos plaisirs les plus doux,</l>
           <l>Je rediray toûjours dans mon malheur extréme,</l>
-          <l><space rend="tab"> </space><space rend="tab"> </space>Printemps, dequoy me
-            servez-vous ?</l>
+          <l><space rend="tab"> </space><space rend="tab"> </space>Printemps, dequoy me servez-vous ?</l>
         </quote>
         <ref target="images/1680-04_241.JPG">
           <figure>
@@ -43,6 +37,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

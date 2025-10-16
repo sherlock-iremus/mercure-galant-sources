@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
+    <body>
+      <div>
         <p/>
-        <p>Je n’attendray point que vous m’ayez fait connoistre le plaisir que vous aura
-          infailliblement causé la lecture de l’Idille de Madame des Houlieres, employé dans la
-          premiere Partie de cette Lettre, pour vous envoyer un autre Ouvrage de cette illustre
-          Personne. En voicy un Pastoral, dont les Vers aisez, doux &amp; naturels, vous feront
-          admirer de plus en plus la beauté de son Génie.</p>
+        <p>Je n’attendray point que vous m’ayez fait connoistre le plaisir que vous aura infailliblement causé la lecture de l’Idille de Madame des Houlieres, employé dans la premiere Partie de cette Lettre, pour vous envoyer un autre Ouvrage de cette illustre Personne. En voicy un Pastoral, dont les Vers aisez, doux &amp; naturels, vous feront admirer de plus en plus la beauté de son Génie.</p>
         <quote>
           <label>EGLOGUE.</label>
           <lg>
@@ -104,6 +98,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

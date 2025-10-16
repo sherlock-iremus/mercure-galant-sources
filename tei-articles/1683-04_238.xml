@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,21 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-
-        
-        <p>Tous ceux qui ont de l’esprit &amp; du mérite, ont pris tant de part à la justice que le
-          Roy a renduë à Mademoiselle de Scudery, que loin qu’elle ait causé de l’envie, comme on en
-          a ordinairement des avantages qu’on voit accorder aux autres, chacun a écrit pour
-          congratuler cette incomparable Fille de la Pension qui luy a esté donnée. Ma derniere
-          Lettre vous a fait voir plusieurs Madrigaux sur ce sujet. En voicy encor trois autres. Le
-          premier est de M<hi rend="sup">r</hi> de Montplaisir, Lieutenant de Roy d’Arras ; le
-          second, d’un Homme de qualité de Bretagne ; &amp; le troisiéme, de M<hi rend="sup">r</hi>
-          de Vaumoriere.</p>
+    <body>
+      <div>
+        <p>Tous ceux qui ont de l’esprit &amp; du mérite, ont pris tant de part à la justice que le Roy a renduë à Mademoiselle de Scudery, que loin qu’elle ait causé de l’envie, comme on en a ordinairement des avantages qu’on voit accorder aux autres, chacun a écrit pour congratuler cette incomparable Fille de la Pension qui luy a esté donnée. Ma derniere Lettre vous a fait voir plusieurs Madrigaux sur ce sujet. En voicy encor trois autres. Le premier est de M<hi rend="sup">r</hi> de Montplaisir, Lieutenant de Roy d’Arras ; le second, d’un Homme de qualité de Bretagne ; &amp; le troisiéme, de M<hi rend="sup">r</hi> de Vaumoriere.</p>
         <quote>
-          <label>SUR LA FAVORABLE<lb/>audience que le Roy a donnée à Mademoiselle de
-            Scudery.</label>
+          <label>SUR LA FAVORABLE<lb/>audience que le Roy a donnée à Mademoiselle de Scudery.</label>
           <lg>
             <l rend="i">Les Sages, ce dit-on, n’admirent jamais rien ;</l>
             <l rend="i">Mais la sage Sapho, qui voit &amp; sçait si bien</l>
@@ -59,6 +49,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

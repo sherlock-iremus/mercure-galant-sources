@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,22 +14,21 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p>En vous envoyant ce que vous avez veu de M<hi rend="sup">r</hi> Magnin au commencement de cette Lettre, j’ay oublié d’y ajoûter la Devise qu’il a faite pour Madame la Dauphine. Le Corps est une Grénade ouverte, qui montre plusieurs grains. Le mot, <hi rend="i">Spes quanta Coronis</hi> ! Il est expliqué par ce Madrigal.</p>
-          <quote>
-            <lg>
-              <l rend="i">  Que de Testes Couronnées</l>
-              <l rend="i">  Elle va faire germer !</l>
-              <l rend="i"> France, cesse de t’alarmer</l>
-              <l rend="i">De voir finir des Lys les grandes destinées.</l>
-              <l rend="i">Nostre auguste Dauphine a sçû les confirmer.</l>
-              <l rend="i"> Que de Testes Couronnées</l>
-              <l rend="i"> Elle va faire germer !</l>
-            </lg>
-          </quote>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>En vous envoyant ce que vous avez veu de M<hi rend="sup">r</hi> Magnin au commencement de cette Lettre, j’ay oublié d’y ajoûter la Devise qu’il a faite pour Madame la Dauphine. Le Corps est une Grénade ouverte, qui montre plusieurs grains. Le mot, <hi rend="i">Spes quanta Coronis</hi> ! Il est expliqué par ce Madrigal.</p>
+        <quote>
+          <lg>
+            <l rend="i">  Que de Testes Couronnées</l>
+            <l rend="i">  Elle va faire germer !</l>
+            <l rend="i"> France, cesse de t’alarmer</l>
+            <l rend="i">De voir finir des Lys les grandes destinées.</l>
+            <l rend="i">Nostre auguste Dauphine a sçû les confirmer.</l>
+            <l rend="i"> Que de Testes Couronnées</l>
+            <l rend="i"> Elle va faire germer !</l>
+          </lg>
+        </quote>
+      </div>
+    </body>
   </text>
 </TEI>

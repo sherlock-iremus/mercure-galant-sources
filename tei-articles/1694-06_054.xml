@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,28 +14,27 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <quote>
-            <label>RÉPONSE<lb/>De la Fauvette à Daphnis.</label>
-            <lg>
-              <l rend="i">Ouy, ma Maistresse est mon modele ;</l>
-              <l rend="i"> Mais si je veux la contenter.</l>
-              <l rend="i"> Il faut que je chante comme elle,</l>
-              <l rend="i">Les vertus de celuy qui m’apprit à chanter ;</l>
-              <l rend="i"> Car avant le fameux Acante,</l>
-              <l rend="i">Je chantois dans son bois, mais comme une ignorante,</l>
-              <l rend="i"> Et me taisois tous les Hivers :</l>
-              <l rend="i"> Mais par ses admirables Vers</l>
-              <l rend="i"> Ma voix sera douce &amp; charmante</l>
-              <l rend="i"> Jusqu’à la fin de l’Univers.</l>
-              <l rend="i"> Comment pourrois-je estre inconstante ?</l>
-              <l rend="i">Ne me loüez plus tant de ma fidelité,</l>
-              <l rend="i"> Je luy dois l’immortalité.</l>
-            </lg>
-          </quote>
-        </div>
-        </body>
+    <body>
+      <div>
+        <quote>
+          <label>RÉPONSE<lb/>De la Fauvette à Daphnis.</label>
+          <lg>
+            <l rend="i">Ouy, ma Maistresse est mon modele ;</l>
+            <l rend="i"> Mais si je veux la contenter.</l>
+            <l rend="i"> Il faut que je chante comme elle,</l>
+            <l rend="i">Les vertus de celuy qui m’apprit à chanter ;</l>
+            <l rend="i"> Car avant le fameux Acante,</l>
+            <l rend="i">Je chantois dans son bois, mais comme une ignorante,</l>
+            <l rend="i"> Et me taisois tous les Hivers :</l>
+            <l rend="i"> Mais par ses admirables Vers</l>
+            <l rend="i"> Ma voix sera douce &amp; charmante</l>
+            <l rend="i"> Jusqu’à la fin de l’Univers.</l>
+            <l rend="i"> Comment pourrois-je estre inconstante ?</l>
+            <l rend="i">Ne me loüez plus tant de ma fidelité,</l>
+            <l rend="i"> Je luy dois l’immortalité.</l>
+          </lg>
+        </quote>
+      </div>
+    </body>
   </text>
 </TEI>

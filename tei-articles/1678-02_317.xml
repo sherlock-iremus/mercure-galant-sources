@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Que de choses j’aurois à vous dire sur les deux Enigmes en vers, si je n’estois pas
-          pressé de finir ! Le sens que vous leur donnez est le veritable ; &amp; puis que vous
-          voulez voir quelqu’une des Explications qui m’en ont esté envoyées, en voicy de l’une et
-          de l’autre</p>
+    <body>
+      <div>
+        <p>Que de choses j’aurois à vous dire sur les deux Enigmes en vers, si je n’estois pas pressé de finir ! Le sens que vous leur donnez est le veritable ; &amp; puis que vous voulez voir quelqu’une des Explications qui m’en ont esté envoyées, en voicy de l’une et de l’autre</p>
         <quote rend="border">
           <label rend="center">Explication</label>
           <label rend="center">de la premiere Enigme du Mois de Janvier 1678.</label>
@@ -44,12 +40,8 @@
           <l><space/><space/>S’étonne d’avoir tant resvé,</l>
           <l><space/><space/>Quand le secret en est trouvé.</l>
         </quote>
-        <p>Cette Explication est de M<hi rend="sup">r</hi> Robbe. C’est un Homme fort consideré des
-          Personnes du plus haut rang, &amp; qui a fait une Geographie nouvelle pour M<hi rend="sup">r</hi> le Duc du Maine. Ce demy Vers, <hi rend="i">J’ay seulement deux Filles</hi>, que
-          vous me dites qui vous a causé quelque embarras, a donné de la peine à d’autres qu’à vous.
-          En songeant à l’Académie Françoise, on ne s’est pas souvenu qu’elle est comme la Mere de
-          celles de Soissons &amp; d’Arles, puis qu’elle est cause de leur Etablissement.</p>
+        <p>Cette Explication est de M<hi rend="sup">r</hi> Robbe. C’est un Homme fort consideré des Personnes du plus haut rang, &amp; qui a fait une Geographie nouvelle pour M<hi rend="sup">r</hi> le Duc du Maine. Ce demy Vers, <hi rend="i">J’ay seulement deux Filles</hi>, que vous me dites qui vous a causé quelque embarras, a donné de la peine à d’autres qu’à vous. En songeant à l’Académie Françoise, on ne s’est pas souvenu qu’elle est comme la Mere de celles de Soissons &amp; d’Arles, puis qu’elle est cause de leur Etablissement.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

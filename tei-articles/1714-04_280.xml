@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-                
-
-                <p>Le 22 le Pere de Mornay Capucin, fut sacré Evesque d’Eumenie, &amp; Coadjuteur 
-                    de Quebec, en l’Eglise des Capucins ruë S. Honoré, par le Cardinal de Rohan,
-                    Evesque de Strasbourg, Grand Aumosnier de France, assisté des Evesques de
-                    Viviers &amp; de Lavaur.</p>
-
-            </div>
+    <body>
+      <div>
+        <p>Le 22 le Pere de Mornay Capucin, fut sacré Evesque d’Eumenie, &amp; Coadjuteur de Quebec, en l’Eglise des Capucins ruë S. Honoré, par le Cardinal de Rohan, Evesque de Strasbourg, Grand Aumosnier de France, assisté des Evesques de Viviers &amp; de Lavaur.</p>
+      </div>
     </body>
   </text>
 </TEI>

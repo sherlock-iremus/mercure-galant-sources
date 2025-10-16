@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
+    <body>
+      <div>
         <p/>
-        <p>Voicy un Conte nouveau de M<hi rend="sup">r</hi> de la Barre de Tours. Divers Ouvrages de
-          mesme nature que je vous ay déja envoyez de luy, vous ont fait connoistre combien ce genre
-          d’écrire luy est naturel.</p>
+        <p>Voicy un Conte nouveau de M<hi rend="sup">r</hi> de la Barre de Tours. Divers Ouvrages de mesme nature que je vous ay déja envoyez de luy, vous ont fait connoistre combien ce genre d’écrire luy est naturel.</p>
         <quote>
           <label>LES PESCHEURS,<lb/>Ou la Table d’or, Conte tiré<lb/>de Diogene Laërce.</label>
           <lg>
@@ -134,6 +130,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

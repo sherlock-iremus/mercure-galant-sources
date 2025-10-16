@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,27 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-                
-                
-                <p>Elle [la naissance de Monseigneur le duc de Bretagne] a
-                        esté célébrée dans les lieux les plus reculez, &amp; M<hi rend="sup">r</hi> Groyer de Boiseraud,
-                        premier Conseiller au Conseil Souverain de l’Isle de Cayenne &amp; de la
-                        Terre-ferme de la Guyanne a fait divers Ouvrages en Vers sur ce sujet, qui
-                        ont esté presentez au Roy. Il y fait parler cette grande Terre Fille aînée
-                        ou principale partie de l’Amerique. On ne doit pas s’en étonner puis qu’il y
-                        a 20 ans qu’il y demeure &amp; qu’il y a épousé Demoiselle Catherine
-                        Gentil-homme, qui non seulement en est la premiere créole Françoise, mais
-                        qui a donné encore en la personne de ses enfans, les premiers sujets de
-                        Sa Majesté. Si les premiers nez dans les Isles joüissent des
-                        Privileges des Nobles, à plus forte raison cette Demoiselle &amp; ses enfans
-                        nez &amp; à naistre en doivent-ils joüir, puis qu’elle a le double avantage
-                        d’estre &amp; la premiere créole née en la Guyanne &amp; la premiere qui y ait
-                        donné des sujets au Roy.</p>
-
-            </div>
-
-
+    <body>
+      <div>
+        <p>Elle [la naissance de Monseigneur le duc de Bretagne] a esté célébrée dans les lieux les plus reculez, &amp; M<hi rend="sup">r</hi> Groyer de Boiseraud, premier Conseiller au Conseil Souverain de l’Isle de Cayenne &amp; de la Terre-ferme de la Guyanne a fait divers Ouvrages en Vers sur ce sujet, qui ont esté presentez au Roy. Il y fait parler cette grande Terre Fille aînée ou principale partie de l’Amerique. On ne doit pas s’en étonner puis qu’il y a 20 ans qu’il y demeure &amp; qu’il y a épousé Demoiselle Catherine Gentil-homme, qui non seulement en est la premiere créole Françoise, mais qui a donné encore en la personne de ses enfans, les premiers sujets de Sa Majesté. Si les premiers nez dans les Isles joüissent des Privileges des Nobles, à plus forte raison cette Demoiselle &amp; ses enfans nez &amp; à naistre en doivent-ils joüir, puis qu’elle a le double avantage d’estre &amp; la premiere créole née en la Guyanne &amp; la premiere qui y ait donné des sujets au Roy.</p>
+      </div>
     </body>
   </text>
 </TEI>

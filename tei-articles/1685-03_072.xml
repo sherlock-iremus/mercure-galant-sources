@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Quand vous serez à Table avec ces heureuses Personnes que vous avez honorées, des plus
-          considerables Charges de vostre Cour, ce ne vous sera pas un petit plaisir de voir que
-          toutes,</p>
+    <body>
+      <div>
+        <p>Quand vous serez à Table avec ces heureuses Personnes que vous avez honorées, des plus considerables Charges de vostre Cour, ce ne vous sera pas un petit plaisir de voir que toutes,</p>
         <quote>
           <lg>
             <l rend="i">En beuvant de cette Liqueur,</l>
@@ -30,8 +27,7 @@
             <l rend="i">Et rien n’est si bon que son Vin.</l>
           </lg>
         </quote>
-        <p>L’autre Lettre a esté écrite par l’Autheur à un de ses Amis, de qui la Femme accoucha
-          d’un Garçon le jour du Mardy Gras.</p>
+        <p>L’autre Lettre a esté écrite par l’Autheur à un de ses Amis, de qui la Femme accoucha d’un Garçon le jour du Mardy Gras.</p>
         <quote>
           <lg>
             <l rend="i">Mon cher Lisis, j’ay receu le Billet</l>
@@ -87,6 +83,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

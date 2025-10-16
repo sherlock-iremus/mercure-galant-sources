@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Voicy deux autres Enigmes dont vos Amies me diront leur pensée le Mois prochain. La
-          premiere est d’une Dame de Paris demeurant à Mets ; &amp; l’autre, des Réclus de S. Leu
-          d’Amiens.</p>
+    <body>
+      <div>
+        <p>Voicy deux autres Enigmes dont vos Amies me diront leur pensée le Mois prochain. La premiere est d’une Dame de Paris demeurant à Mets ; &amp; l’autre, des Réclus de S. Leu d’Amiens.</p>
         <quote>
           <label type="head">Enigme.</label>
           <l>Sans Pere je suis né, mais d’une illustre Mere,</l>
@@ -44,6 +41,6 @@
           <l>J'imprime du respect aux Testes couronnées.</l>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

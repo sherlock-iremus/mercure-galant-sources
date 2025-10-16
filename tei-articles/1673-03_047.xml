@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-
-          
-
-          <p>Je ne puis assez admirer, reprit celuy qui avoit commencé le raisonnement sur la
-            vitesse des Conquestes de Sa Majesté, la bonne foy de celuy qui travaille à la Gazette
-            d’Hollande, lorsqu’il dit que le Roy de France va si vite, qu’on ne sçait où il est.
-            C’est assez rendre justice à la verité, continua-t-il ; &amp; quand il ne parlera que de
-            la sorte, il sera toûjours loüé de tout le Monde.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>Je ne puis assez admirer, reprit celuy qui avoit commencé le raisonnement sur la vitesse des Conquestes de Sa Majesté, la bonne foy de celuy qui travaille à la Gazette d’Hollande, lorsqu’il dit que le Roy de France va si vite, qu’on ne sçait où il est. C’est assez rendre justice à la verité, continua-t-il ; &amp; quand il ne parlera que de la sorte, il sera toûjours loüé de tout le Monde.</p>
+      </div>
+    </body>
   </text>
 </TEI>

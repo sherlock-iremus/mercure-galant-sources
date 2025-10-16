@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Voicy la Réponse que M<hi rend="sup">r</hi> le Duc de S. Aignan a faite à cette Ballade.
-          Elle est sur les mesmes rimes.</p>
+    <body>
+      <div>
+        <p>Voicy la Réponse que M<hi rend="sup">r</hi> le Duc de S. Aignan a faite à cette Ballade. Elle est sur les mesmes rimes.</p>
         <quote>
-          <label><hi rend="sc">Reponse de M</hi><hi rend="sup">r</hi><lb/>LE DUC DE S. AIGNAN,<lb/>A
-            Madame des Houlieres.</label>
+          <label><hi rend="sc">Reponse de M</hi><hi rend="sup">r</hi><lb/>LE DUC DE S. AIGNAN,<lb/>A Madame des Houlieres.</label>
           <lg>
             <l rend="i">A Caution tous ne sont pas sujets,</l>
             <l rend="i">Autre maxime en ma teste est écrite ;</l>
@@ -83,6 +80,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

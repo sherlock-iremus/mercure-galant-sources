@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,35 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-                
-                
-
-                <p>Les voyages de long cours se font rarement sans que les maladies emportent
-                    beaucoup de monde, nous avons perdu sur la Flote de M<hi rend="sup">r</hi> le Comte de
-                    Chasteaurenaut, M<hi rend="sup">r</hi> le Marquis de Nesmond, Lieutenant General des Armées du
-                    Roy. Il estoit frere de M<hi rend="sup">r</hi> l’Evêque de Montauban, &amp; tous deux neveux à la mode
-                    de Bretagne de feu M<hi rend="sup">r</hi> le President de Nesmond &amp; de M<hi rend="sup">r</hi> l’Evesque de Bayeux,
-                    lesquels estoient aussi fils de feu M<hi rend="sup">r</hi> le President de Nesmond &amp; de Dame N....
-                    de Lamoignon, sœur de feu M<hi rend="sup">r</hi> le Premier President de Lamoignon, &amp; fille de
-                    M<hi rend="sup">r</hi> le President de Lamoignon.</p>
-                <p>[...]</p>
-                <p>M<hi rend="sup">r</hi> le Marquis de Châteaumorant, Capitaine de
-                        Vaisseau est aussi mort au Mexique ; il a un Frere dans le service du Roy.
-                        Il le sert depuis plusieurs années avec gloire &amp; distinction. Celuy qui
-                        vient de mourir estoit fort estimé &amp; avoit fait paroistre une grande
-                        bravoure dans les Combats de mer où il s’est trouvé. Il a un Frere
-                        Ecclesiastique qui a demeuré long-temps au Seminaire de Saint Magloire &amp;
-                        qui est à présent dans la Communauté de Saint Sulpice où il vit avec
-                        une grande régularité &amp; travaille beaucoup. Madame leur Mere Dame N... de
-                        Costentin estoit Sœur de Feu M<hi rend="sup">r</hi> le Maréchal de Tourville. M<hi rend="sup">rs</hi> de
-                        Châteaumorant sont d’une tres ancienne Maison d’Angoulmois. Madame de
-                        Chasteaumorant demeure à l’Abbaye de Pantmont avec Madame sa Sœur qui en est
-                        l’Abbesse.</p>
-
-            </div>
-
-
+    <body>
+      <div>
+        <p>Les voyages de long cours se font rarement sans que les maladies emportent beaucoup de monde, nous avons perdu sur la Flote de M<hi rend="sup">r</hi> le Comte de Chasteaurenaut, M<hi rend="sup">r</hi> le Marquis de Nesmond, Lieutenant General des Armées du Roy. Il estoit frere de M<hi rend="sup">r</hi> l’Evêque de Montauban, &amp; tous deux neveux à la mode de Bretagne de feu M<hi rend="sup">r</hi> le President de Nesmond &amp; de M<hi rend="sup">r</hi> l’Evesque de Bayeux, lesquels estoient aussi fils de feu M<hi rend="sup">r</hi> le President de Nesmond &amp; de Dame N.... de Lamoignon, sœur de feu M<hi rend="sup">r</hi> le Premier President de Lamoignon, &amp; fille de M<hi rend="sup">r</hi> le President de Lamoignon.</p>
+        <p>[...]</p>
+        <p>M<hi rend="sup">r</hi> le Marquis de Châteaumorant, Capitaine de Vaisseau est aussi mort au Mexique ; il a un Frere dans le service du Roy. Il le sert depuis plusieurs années avec gloire &amp; distinction. Celuy qui vient de mourir estoit fort estimé &amp; avoit fait paroistre une grande bravoure dans les Combats de mer où il s’est trouvé. Il a un Frere Ecclesiastique qui a demeuré long-temps au Seminaire de Saint Magloire &amp; qui est à présent dans la Communauté de Saint Sulpice où il vit avec une grande régularité &amp; travaille beaucoup. Madame leur Mere Dame N... de Costentin estoit Sœur de Feu M<hi rend="sup">r</hi> le Maréchal de Tourville. M<hi rend="sup">rs</hi> de Châteaumorant sont d’une tres ancienne Maison d’Angoulmois. Madame de Chasteaumorant demeure à l’Abbaye de Pantmont avec Madame sa Sœur qui en est l’Abbesse.</p>
+      </div>
     </body>
   </text>
 </TEI>

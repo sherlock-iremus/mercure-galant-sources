@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,25 +14,31 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p>L’air qui suit, &amp; que je vous envoye noté, est de M<hi rend="sup">r</hi> Campion de Roüen.</p>
-          <quote>
-            <label><hi rend="sc">Air Nouveau.</hi></label><note resp="author" place="margin"><hi rend="i">L’Air qui commence par </hi>Est-ce un crime, &amp;c.<hi rend="i"> page </hi>215.</note>
-            <lg>
-              <l> <hi rend="i">Est-ce un crime de trop aimer,</hi></l>
-              <l><hi rend="i">Quand le Ciel nous a fait un cœur sensible &amp; tendre ?</hi></l>
-              <l><hi rend="i">Si l’amour peut forcer les Dieux à s’enflammer,</hi></l>
-              <l> <hi rend="i">Un mortel peut-il s’en deffendre ?</hi></l>
-            </lg>
-          </quote>
-          <ref target="images/1704-10_214.JPG">
-            <figure>
-              <graphic url="images/1704-10_214.JPG"/>
-            </figure>
-          </ref>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>L’air qui suit, &amp; que je vous envoye noté, est de M<hi rend="sup">r</hi> Campion de Roüen.</p>
+        <quote>
+          <label>
+            <hi rend="sc">Air Nouveau.</hi>
+          </label>
+          <note resp="author" place="margin"><hi rend="i">L’Air qui commence par </hi>Est-ce un crime, &amp;c.<hi rend="i"> page </hi>215.</note>
+          <lg>
+            <l> <hi rend="i">Est-ce un crime de trop aimer,</hi></l>
+            <l>
+              <hi rend="i">Quand le Ciel nous a fait un cœur sensible &amp; tendre ?</hi>
+            </l>
+            <l>
+              <hi rend="i">Si l’amour peut forcer les Dieux à s’enflammer,</hi>
+            </l>
+            <l> <hi rend="i">Un mortel peut-il s’en deffendre ?</hi></l>
+          </lg>
+        </quote>
+        <ref target="images/1704-10_214.JPG">
+          <figure>
+            <graphic url="images/1704-10_214.JPG"/>
+          </figure>
+        </ref>
+      </div>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Les Vers qui suivent sont du mesme Auteur.<note resp="editor">Il s'agit de M. Pagot,
-            valet de chambre de Monsieur, dont le<hi rend="italic"> Mercure galant</hi> publie d'autres vers dans la même livraison (p. 80 sq., voir <ref target="MG-1690-02_078">cet article</ref>).</note></p>
+    <body>
+      <div>
+        <p>Les Vers qui suivent sont du mesme Auteur.<note resp="editor">Il s'agit de M. Pagot, valet de chambre de Monsieur, dont le<hi rend="italic"> Mercure galant</hi> publie d'autres vers dans la même livraison (p. 80 sq., voir <ref target="MG-1690-02_078">cet article</ref>).</note></p>
         <quote>
           <label>STANCES A IRIS.</label>
           <lg>
@@ -85,6 +83,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

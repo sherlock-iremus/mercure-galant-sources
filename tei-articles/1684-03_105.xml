@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Vous aurez entendu parler de la chûte du Pont-Rouge. Elle est arrivée avant que la Glace
-          ait commencé à se rompre, &amp; c’est là dessus que ce Madrigal a esté fait. Il est de
-            M<hi rend="sup">r</hi> Diéreville.</p>
+    <body>
+      <div>
+        <p>Vous aurez entendu parler de la chûte du Pont-Rouge. Elle est arrivée avant que la Glace ait commencé à se rompre, &amp; c’est là dessus que ce Madrigal a esté fait. Il est de M<hi rend="sup">r</hi> Diéreville.</p>
         <quote>
           <label>SUR LA CHUTE<lb/>du Pont-Rouge.</label>
           <lg>
@@ -42,6 +39,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,26 +14,25 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p>Vous aurez sans doute appris que Madame la Princesse d’Epinoy accoucha d’un Fils le mois passé. On n’en peut attendre que de grandes choses, puis qu’il aura à marcher sur les traces de M<hi rend="sup">r</hi> le Prince d’Epinoy son Pere, qui tout jeune qu’il est, s’est extrêmement distingué, &amp; a déja receu plusieurs blessures, qui luy sont tres-glorieuses. Voicy un Madrigal qui a esté fait sur la naissance de ce Fils. M<hi rend="sup">r</hi> du Perier en est l’Auteur.</p>
-          <quote>
-            <lg>
-              <l rend="i"> Prince charmant, qui dans ce jour</l>
-              <l rend="i">Viens commencer une noble carriere,</l>
-              <l rend="i"> Tu seras beau comme l’Amour.</l>
-              <l rend="i"> Joüis longtemps de la lumiere.</l>
-              <l rend="i">Le Ciel qui t’a formé du plus illustre sang,</l>
-              <l rend="i">Te donne en tes Ayeux un grand exemple à suivre.</l>
-              <l rend="i">Tu dois les imiter, ou renoncer à vivre ;</l>
-              <l rend="i">Et si tu veux remplir les devoirs de ton rang,</l>
-              <l rend="i"> Sois aussi vaillant que ton Pere,</l>
-              <l rend="i"> Sois vertueux comme ta Mere ;</l>
-              <l rend="i">On ne peut souhaiter pour toy rien de plus grand.</l>
-            </lg>
-          </quote>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>Vous aurez sans doute appris que Madame la Princesse d’Epinoy accoucha d’un Fils le mois passé. On n’en peut attendre que de grandes choses, puis qu’il aura à marcher sur les traces de M<hi rend="sup">r</hi> le Prince d’Epinoy son Pere, qui tout jeune qu’il est, s’est extrêmement distingué, &amp; a déja receu plusieurs blessures, qui luy sont tres-glorieuses. Voicy un Madrigal qui a esté fait sur la naissance de ce Fils. M<hi rend="sup">r</hi> du Perier en est l’Auteur.</p>
+        <quote>
+          <lg>
+            <l rend="i"> Prince charmant, qui dans ce jour</l>
+            <l rend="i">Viens commencer une noble carriere,</l>
+            <l rend="i"> Tu seras beau comme l’Amour.</l>
+            <l rend="i"> Joüis longtemps de la lumiere.</l>
+            <l rend="i">Le Ciel qui t’a formé du plus illustre sang,</l>
+            <l rend="i">Te donne en tes Ayeux un grand exemple à suivre.</l>
+            <l rend="i">Tu dois les imiter, ou renoncer à vivre ;</l>
+            <l rend="i">Et si tu veux remplir les devoirs de ton rang,</l>
+            <l rend="i"> Sois aussi vaillant que ton Pere,</l>
+            <l rend="i"> Sois vertueux comme ta Mere ;</l>
+            <l rend="i">On ne peut souhaiter pour toy rien de plus grand.</l>
+          </lg>
+        </quote>
+      </div>
+    </body>
   </text>
 </TEI>

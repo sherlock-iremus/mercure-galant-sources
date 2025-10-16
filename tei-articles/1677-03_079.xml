@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
         <p>Jamais la propreté, le bon ordre, &amp; la magnificence, n’ont plus paru ensemble, qu’ils firent au Bal qui a esté donné chez Monsieur Ranchain ; La Compagnie estoit belle &amp; bien choisie, rien n’y manquoit, on n’y souhaitoit rien, &amp; l’on peut dire que c’estoit un Bal de bon goût.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

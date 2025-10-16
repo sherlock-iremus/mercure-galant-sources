@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,22 +14,35 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p><hi rend="i">Nous joignons à la premiere Chanson un Vaudeville tiré de la Mode, petite Comedie en un Acte. L'air de la premiere Chanson, est de M. <hi rend="i">Dandrieux</hi> ; &amp; celui de la seconde, de M. <hi rend="i">Mouret</hi></hi></p>
+    <body>
+      <div>
+        <p>
+          <hi rend="i">Nous joignons à la premiere Chanson un Vaudeville tiré de la Mode, petite Comedie en un Acte. L'air de la premiere Chanson, est de M. <hi rend="i">Dandrieux</hi> ; &amp; celui de la seconde, de M. <hi rend="i">Mouret</hi></hi>
+        </p>
         <quote>
           <label>CHANSON.</label>
           <lg>
-            <l><hi rend="i">Pour conquerir Medée &amp; la Toison,</hi></l>
-            <l><hi rend="i">Le tendre Argonaute Jason,</hi></l>
-            <l><hi rend="i">N'alla que de Grece en Colchide.</hi></l>
-            <l><hi rend="i">Moi, pour vous voir, adorable Ninon,</hi></l>
-            <l><hi rend="i">J'irois de Paris au Japon,</hi></l>
-            <l><hi rend="i">Et du Japon à la Floride.</hi></l>
-          </lg> 
+            <l>
+              <hi rend="i">Pour conquerir Medée &amp; la Toison,</hi>
+            </l>
+            <l>
+              <hi rend="i">Le tendre Argonaute Jason,</hi>
+            </l>
+            <l>
+              <hi rend="i">N'alla que de Grece en Colchide.</hi>
+            </l>
+            <l>
+              <hi rend="i">Moi, pour vous voir, adorable Ninon,</hi>
+            </l>
+            <l>
+              <hi rend="i">J'irois de Paris au Japon,</hi>
+            </l>
+            <l>
+              <hi rend="i">Et du Japon à la Floride.</hi>
+            </l>
+          </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

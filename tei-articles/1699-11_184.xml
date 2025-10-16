@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p>L'Ouverture du Parlement se fit le Jeudy 12. de ce mois. Elle commença par une Messe Solemnelle, qui fut celebrée par M<hi rend="sup">r</hi> l'Evesque Duc de Laon à la Chapelle de la Grande Salle du Palais accompagnée d'une excellente Musique de la composition de M<hi rend="sup">r</hi> Charpentier, Maistre de celle de la Sainte Chapelle.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>L'Ouverture du Parlement se fit le Jeudy 12. de ce mois. Elle commença par une Messe Solemnelle, qui fut celebrée par M<hi rend="sup">r</hi> l'Evesque Duc de Laon à la Chapelle de la Grande Salle du Palais accompagnée d'une excellente Musique de la composition de M<hi rend="sup">r</hi> Charpentier, Maistre de celle de la Sainte Chapelle.</p>
+      </div>
+    </body>
   </text>
 </TEI>

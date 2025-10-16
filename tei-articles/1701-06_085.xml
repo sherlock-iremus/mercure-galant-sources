@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p>Le même Libraire qui debite le Democrite nouveau, vend une Comedie intitulée <hi rend="i">Le Capricieux</hi>. Il y a déja quelque temps qu’elle a esté representée. On ne sçauroit dire avec quel succés, puis qu’elle a reçu beaucoup de loüanges des uns, &amp; qu’elle a esté fort critiquée par les autres. L’Auteur a fait une Préface tres-ingenieuse là dessus, &amp; qui merite l’approbation de ceux qui jugent sans prévention.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>Le même Libraire qui debite le Democrite nouveau, vend une Comedie intitulée <hi rend="i">Le Capricieux</hi>. Il y a déja quelque temps qu’elle a esté representée. On ne sçauroit dire avec quel succés, puis qu’elle a reçu beaucoup de loüanges des uns, &amp; qu’elle a esté fort critiquée par les autres. L’Auteur a fait une Préface tres-ingenieuse là dessus, &amp; qui merite l’approbation de ceux qui jugent sans prévention.</p>
+      </div>
+    </body>
   </text>
 </TEI>

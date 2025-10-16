@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p>Je ne dois pas oublier en vous parlant d’un Ouvrage composé par une personne de vostre sexe que Mademoiselle Lheritier vient de donner au Public l’Apotheose de Mademoiselle de Scudery cet Ouvrage où l’invention brille, est rempli d’érudition. Il se vend chez Jean Moreau, ruë Saint Jacques, à la Toison d’or.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>Je ne dois pas oublier en vous parlant d’un Ouvrage composé par une personne de vostre sexe que Mademoiselle Lheritier vient de donner au Public l’Apotheose de Mademoiselle de Scudery cet Ouvrage où l’invention brille, est rempli d’érudition. Il se vend chez Jean Moreau, ruë Saint Jacques, à la Toison d’or.</p>
+      </div>
+    </body>
   </text>
 </TEI>

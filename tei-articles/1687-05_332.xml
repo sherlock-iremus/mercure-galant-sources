@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,21 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-                
-                
-                <p>Le Roy fait de si grandes choses tous les jours, &amp; en
-                        si grand nombre, pour le Commerce, &amp; pour la Religion, que ce qu’on
-                        n’auroit pas oublié autrefois, &amp; que l’on auroit marqué comme
-                        extraordinaire, &amp; qui le seroit en effet pour d’autres que pour ce Prince,
-                        se perd aujourd’huy parmy la foule. Sa Majesté vient d’envoyer de nouvelles
-                        Troupes en Canada avec une Escadre de Vaisseaux, commandée par M<hi rend="sup">r</hi> de
-                        Fusembert d’Amblimont. C’est un Gentilhomme qui s’est toûjours fort
-                        distingué dans toutes les occasions où il s’est trouvé, &amp; dont je vous
-                        entretins l’année derniere, en vous parlant de la prise d’un Galion
-                        d’Espagne, où il fit des actions surprenantes avec M<hi rend="sup">r</hi> Foran.</p>
-
-            </div>
+    <body>
+      <div>
+        <p>Le Roy fait de si grandes choses tous les jours, &amp; en si grand nombre, pour le Commerce, &amp; pour la Religion, que ce qu’on n’auroit pas oublié autrefois, &amp; que l’on auroit marqué comme extraordinaire, &amp; qui le seroit en effet pour d’autres que pour ce Prince, se perd aujourd’huy parmy la foule. Sa Majesté vient d’envoyer de nouvelles Troupes en Canada avec une Escadre de Vaisseaux, commandée par M<hi rend="sup">r</hi> de Fusembert d’Amblimont. C’est un Gentilhomme qui s’est toûjours fort distingué dans toutes les occasions où il s’est trouvé, &amp; dont je vous entretins l’année derniere, en vous parlant de la prise d’un Galion d’Espagne, où il fit des actions surprenantes avec M<hi rend="sup">r</hi> Foran.</p>
+      </div>
     </body>
   </text>
 </TEI>

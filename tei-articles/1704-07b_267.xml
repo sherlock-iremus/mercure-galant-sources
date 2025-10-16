@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-          
-          <p>Je dois presentement vous parler de ce qui s’est fait aux environs de Paris, où du moins d’une partie.</p>
-          <p>Le Samedy 28. Juin, Messieurs les Chanoines de la sainte Chapelle Royale du Château de Vincennes, y chanterent un <hi rend="i">Te Deum</hi> avec beaucoup de solemnité, au bruit d’un grand nombre de boëtes &amp; de toute l’artillerie du Château ; le soir il y eut une grande illumination au haut du donjon avec un tres beau feu d’artifice, qui fut tiré sur la terrasse de ce donjon. Ce qui fut parfaitement bien executé selon les ordres de Mr le Marquis de Bellefont, Gouverneur &amp; Capitaine du Château de Vincennes.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>Je dois presentement vous parler de ce qui s’est fait aux environs de Paris, où du moins d’une partie.</p>
+        <p>Le Samedy 28. Juin, Messieurs les Chanoines de la sainte Chapelle Royale du Château de Vincennes, y chanterent un <hi rend="i">Te Deum</hi> avec beaucoup de solemnité, au bruit d’un grand nombre de boëtes &amp; de toute l’artillerie du Château ; le soir il y eut une grande illumination au haut du donjon avec un tres beau feu d’artifice, qui fut tiré sur la terrasse de ce donjon. Ce qui fut parfaitement bien executé selon les ordres de Mr le Marquis de Bellefont, Gouverneur &amp; Capitaine du Château de Vincennes.</p>
+      </div>
+    </body>
   </text>
 </TEI>

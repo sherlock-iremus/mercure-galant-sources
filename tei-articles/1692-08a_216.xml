@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,28 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
-        <p>Le Lundy 25. de ce mois, l'Academie Françoise celébra, selon sa coûtume, la Feste de S.
-          Louis dans la Chapelle du Louvre, &amp; comme elle choisit toujours un predicateur parmi
-          les plus habiles, pour faire le Panegyrique de ce Saint, elle avoit jetté les yeux cette
-          année sur M. l'Abbé Bignon, Fils de M<hi rend="sup">r</hi> Bignon, Conseiller d'Etat,
-          &amp; Neveu de M<hi rend="sup">r</hi> de Pontchartrain. Les excellens Sermons qu'on a déja
-          entendus de luy, l'ayant mis dans une grande réputation, l'Assemblée fut fort nombreuse,
-          &amp; composée de plusieurs Prelats, Abbez, &amp; autres personnes d'un merite distingué.
-          Il pris pour son Texte ces paroles d'Isaïe, <hi rend="i">Princeps ea qua sunt digna
-            Principe cogitabit</hi>, &amp; traita cette matiere avec toute l'éloquence d'un Orateur
-          consommé. Il y eut des Peintures extrémement délicates, &amp; ceux qui s'appliquerent à
-          retenir de beaux traits, ne furent embarassez que dans le choix qu'ils en devoient faire.
-          Il fait sentir admirablement, en parlant des rares vertus de S. Loüis, que quand la pieté
-          regne dans le coeur d'un Roy, elle passe bien-tost en coûtume dans celuy de ses Sujets. Ce
-          Panegyrique fut precedé d'une Messe que dit M<hi rend="sup">r</hi> l'Abbé de la Vau, l'un
-          des quarante Académiciens, &amp; pendant laquelle on chanta divers Motets de la
-          Composition de M<hi rend="sup">r</hi> Oudot. La plûpart des plus belles voix de Paris
-          estoient de cette Musique, qui fut écoutée avec beaucoup de plaisir.</p>
+        <p>Le Lundy 25. de ce mois, l'Academie Françoise celébra, selon sa coûtume, la Feste de S. Louis dans la Chapelle du Louvre, &amp; comme elle choisit toujours un predicateur parmi les plus habiles, pour faire le Panegyrique de ce Saint, elle avoit jetté les yeux cette année sur M. l'Abbé Bignon, Fils de M<hi rend="sup">r</hi> Bignon, Conseiller d'Etat, &amp; Neveu de M<hi rend="sup">r</hi> de Pontchartrain. Les excellens Sermons qu'on a déja entendus de luy, l'ayant mis dans une grande réputation, l'Assemblée fut fort nombreuse, &amp; composée de plusieurs Prelats, Abbez, &amp; autres personnes d'un merite distingué. Il pris pour son Texte ces paroles d'Isaïe, <hi rend="i">Princeps ea qua sunt digna Principe cogitabit</hi>, &amp; traita cette matiere avec toute l'éloquence d'un Orateur consommé. Il y eut des Peintures extrémement délicates, &amp; ceux qui s'appliquerent à retenir de beaux traits, ne furent embarassez que dans le choix qu'ils en devoient faire. Il fait sentir admirablement, en parlant des rares vertus de S. Loüis, que quand la pieté regne dans le coeur d'un Roy, elle passe bien-tost en coûtume dans celuy de ses Sujets. Ce Panegyrique fut precedé d'une Messe que dit M<hi rend="sup">r</hi> l'Abbé de la Vau, l'un des quarante Académiciens, &amp; pendant laquelle on chanta divers Motets de la Composition de M<hi rend="sup">r</hi> Oudot. La plûpart des plus belles voix de Paris estoient de cette Musique, qui fut écoutée avec beaucoup de plaisir.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

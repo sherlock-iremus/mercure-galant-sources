@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>L’Air qui suit est de la composition de M<hi rend="sup">r</hi> Merieux. Voicy les Paroles <note resp="editor">. L'année suivante, cet air sert à la démonstration d'une nouvelle notation musicale en chiffres proposée par M. Chaudel (cf. <ref target="MG-1679-03e_276">cet article)</ref></note>.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">Amis, puis que Bacchus nous assemble en ce jour</hi>, doit regarder la page 103.</note>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">Amis, puis que Bacchus nous assemble en ce jour</hi>, doit regarder la page 103.</note>
           <lg>
             <l rend="i">Amis, puis que Bacchus nous assemble en ce jour,</l>
             <l rend="i"><space/>Chassons l’amoureuse folie.</l>
@@ -37,6 +37,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

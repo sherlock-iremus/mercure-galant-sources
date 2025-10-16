@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p>Le S<hi rend="sup">r</hi> Brunet, Libraire au Palais, debite la seconde partie du Livre intitulé <hi rend="i">L’honneste homme &amp; le Scelerat</hi>, qui en est la conclusion. Ce second volume contient l’histoire de Cacopiste, où l’Auteur fait voir toutes les friponneries dont un scelerat se trouve capable. Cacopiste en fait le détail à son Parent Agathandre, qui ayant toujours refusé d’acquerir du bien par des voyes honteuses &amp; illicites, est enfin récompensé de sa probité par une bonne fortune, qui le rend heureux, tandis que Cacopiste accusé de tous costez, voyant tous se crimes découverts, est contraint d’abandonner son pays, &amp; finit ses jours miserablement, peine qui ne manque point de suivre le vice.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>Le S<hi rend="sup">r</hi> Brunet, Libraire au Palais, debite la seconde partie du Livre intitulé <hi rend="i">L’honneste homme &amp; le Scelerat</hi>, qui en est la conclusion. Ce second volume contient l’histoire de Cacopiste, où l’Auteur fait voir toutes les friponneries dont un scelerat se trouve capable. Cacopiste en fait le détail à son Parent Agathandre, qui ayant toujours refusé d’acquerir du bien par des voyes honteuses &amp; illicites, est enfin récompensé de sa probité par une bonne fortune, qui le rend heureux, tandis que Cacopiste accusé de tous costez, voyant tous se crimes découverts, est contraint d’abandonner son pays, &amp; finit ses jours miserablement, peine qui ne manque point de suivre le vice.</p>
+      </div>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,19 +14,21 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Les paroles de la Chanson nouvelle que je vous envoye sont de Mademoiselle l'Heritier, &amp; c'est M<hi rend="sup">r</hi> Colignon qui les a mises en air.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin">L'Air doit regarder la page 143.</note>
-          <lg><l rend="i">Aprés m'avoir promis une ardeur éternelle,</l>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin">L'Air doit regarder la page 143.</note>
+          <lg>
+            <l rend="i">Aprés m'avoir promis une ardeur éternelle,</l>
             <l rend="i">Philis est infidelle,</l>
             <l rend="i">Et n'a plus pour mes feux qu'un outrageant mépris.</l>
             <l rend="i">Dans tout nostre hameau son inconstance éclate.</l>
             <l rend="i">Ah, pour me vanger de l'Ingrate</l>
             <l rend="i">Je vais suivre la jeune Iris,</l>
-            <l rend="i">Mon cœur, fait comme il est, en sera bien tost pris.</l></lg>
+            <l rend="i">Mon cœur, fait comme il est, en sera bien tost pris.</l>
+          </lg>
         </quote>
         <ref target="images/1700-12_142.JPG">
           <figure>
@@ -34,6 +36,6 @@
           </figure>
         </ref>
       </div>
-        </body>
+    </body>
   </text>
 </TEI>

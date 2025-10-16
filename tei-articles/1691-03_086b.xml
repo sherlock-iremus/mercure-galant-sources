@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Je n'ay rien autre chose à vous dire de l'Air nouveau dont vous allez lire les paroles,
-          sinon qu'il est de la composition d'un fort habile Musicien <note resp="editor">L'attribution du poème à Testu de Belleval est due à Frédéric Lachèvre (<hi rend="italic">Bibliographie des recueils collectifs de poésie...</hi>, [tome II], p. 631).</note>.</p>
+    <body>
+      <div>
+        <p>Je n'ay rien autre chose à vous dire de l'Air nouveau dont vous allez lire les paroles, sinon qu'il est de la composition d'un fort habile Musicien <note resp="editor">L'attribution du poème à Testu de Belleval est due à Frédéric Lachèvre (<hi rend="italic">Bibliographie des recueils collectifs de poésie...</hi>, [tome II], p. 631).</note>.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour
-              placer les Figures</hi> : l’Air qui commence par, <hi rend="i">Si vous voulez que je
-              cache ma flâme</hi>, doit regarder la page 87.</note>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par, <hi rend="i">Si vous voulez que je cache ma flâme</hi>, doit regarder la page 87.</note>
           <lg>
             <l rend="i">Si vous voulez que je cache ma flâme,</l>
             <l rend="i">Et que l'amour qui regne dans mon ame</l>
@@ -38,6 +35,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

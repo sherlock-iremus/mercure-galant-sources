@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-          
-          <p>Vous avertirez, s’il vous plaist, ceux de vos Amis que vous sçaurez qui travailleront sur les Sujets proposez par l’Academie Françoise, pour les prix qu’elle doit distribuer le 25. d’Aoust de l’année prochaine, que je me suis trompé en vous mandant, qu’il falloit que leurs Ouvrages fussent envoyez avant le premier jour de May. Il suffit qu’ils soient receus dans la fin de ce mesme mois de May, c’est-à-dire, avant le premier jour de Juin.</p>
-        </div>
-      </body>
+    <body>
+      <div>
+        <p>Vous avertirez, s’il vous plaist, ceux de vos Amis que vous sçaurez qui travailleront sur les Sujets proposez par l’Academie Françoise, pour les prix qu’elle doit distribuer le 25. d’Aoust de l’année prochaine, que je me suis trompé en vous mandant, qu’il falloit que leurs Ouvrages fussent envoyez avant le premier jour de May. Il suffit qu’ils soient receus dans la fin de ce mesme mois de May, c’est-à-dire, avant le premier jour de Juin.</p>
+      </div>
+    </body>
   </text>
 </TEI>

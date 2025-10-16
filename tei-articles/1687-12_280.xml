@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,20 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
-        <p>Il y a quelques années que je vous parlay de l'établissement de l'<hi rend="i">Opera</hi> de Marseille.
-          J'ay à vous dire aujourd'huy qu'un fort habile homme en établit un à Lion, dont les
-          premieres representations commenceront au mois de Janvier prochain. Il y a sujet de croire
-          que le succés en sera grand, puis qu'on a couru aux repetitions avec beaucoup
-          d'empressement, &amp; que ceux qui en ont vû les premieres, y ont pris tant de plaisir,
-          que la foule ayant augmenté, on a esté obligé de prendre de l'argent aux dernieres qu'on a
-          faites, le Public ayant demandé en grace qu'on le receust. <hi rend="i">Phaeton</hi> est le premier Opera
-          qui sera representé, &amp; l'on doit continuer ces divertissemens par l'Opera de
-          <hi rend="i">Bellerophon</hi>.</p>
+        <p>Il y a quelques années que je vous parlay de l'établissement de l'<hi rend="i">Opera</hi> de Marseille. J'ay à vous dire aujourd'huy qu'un fort habile homme en établit un à Lion, dont les premieres representations commenceront au mois de Janvier prochain. Il y a sujet de croire que le succés en sera grand, puis qu'on a couru aux repetitions avec beaucoup d'empressement, &amp; que ceux qui en ont vû les premieres, y ont pris tant de plaisir, que la foule ayant augmenté, on a esté obligé de prendre de l'argent aux dernieres qu'on a faites, le Public ayant demandé en grace qu'on le receust. <hi rend="i">Phaeton</hi> est le premier Opera qui sera representé, &amp; l'on doit continuer ces divertissemens par l'Opera de <hi rend="i">Bellerophon</hi>.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

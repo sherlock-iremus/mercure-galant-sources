@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,19 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-
-        
-        <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : La
-          Planche qui contient sept Devises, doit regarder la Page 27.</note>
-        <p>Les Devises dont il est parlé dans la Description de cette Feste, me font souvenir de ce
-          que vous m'avez mandé de la part de vos Amies sur celles qu'elles ont trouvées dans ma
-          Lettre du dernier Mois. Elles auroient souhaité de les voir gravées, &amp; c'est un
-          plaisir que je consens volontiers à leur donner. Faites leur examiner cette Planche. Elle
-          contient les Devises de l’une &amp; de l’autre Feste, je veux dire d’Aix &amp; de
-          Montpellier.</p>
+    <body>
+      <div>
+        <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : La Planche qui contient sept Devises, doit regarder la Page 27.</note>
+        <p>Les Devises dont il est parlé dans la Description de cette Feste, me font souvenir de ce que vous m'avez mandé de la part de vos Amies sur celles qu'elles ont trouvées dans ma Lettre du dernier Mois. Elles auroient souhaité de les voir gravées, &amp; c'est un plaisir que je consens volontiers à leur donner. Faites leur examiner cette Planche. Elle contient les Devises de l’une &amp; de l’autre Feste, je veux dire d’Aix &amp; de Montpellier.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

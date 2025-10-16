@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Vous m’avez demandé la Piece de Vers qui a remporté le Prix cette année par le jugement
-          de l’Academie Françoise, je vous l’envoye. Vous vous souviendrez que je vous manday la
-          derniere fois, qu’elle est de M<hi rend="sup">r</hi> d’Alibert de Saint Romain.</p>
+    <body>
+      <div>
+        <p>Vous m’avez demandé la Piece de Vers qui a remporté le Prix cette année par le jugement de l’Academie Françoise, je vous l’envoye. Vous vous souviendrez que je vous manday la derniere fois, qu’elle est de M<hi rend="sup">r</hi> d’Alibert de Saint Romain.</p>
         <quote>
-          <label>SUR LA GLOIRE que le Roy s’est acquise en se condamnant dans sa propre
-            cause.</label>
+          <label>SUR LA GLOIRE que le Roy s’est acquise en se condamnant dans sa propre cause.</label>
           <lg>
             <l rend="i">Maitresse des Heros, qui dans les nobles ames</l>
             <l rend="i">Allumes nuit &amp; jour de genereuses flâmes,</l>
@@ -30,8 +26,7 @@
             <l rend="i">Des horreurs de la mort inspirer le mépris,</l>
             <l rend="i">Déesse, de LOUIS compagne inseparable,</l>
             <l rend="i">GLOIRE, quel bruit te trouble, &amp; quel chagrin t’accable ?</l>
-            <l><hi rend="i">La tréve</hi> (<hi rend="i">à ce seul nom tu trembles, tu
-              fremis</hi>)</l>
+            <l><hi rend="i">La tréve</hi> (<hi rend="i">à ce seul nom tu trembles, tu fremis</hi>)</l>
             <l rend="i">T’anonce un long repos à l’Europe promis.</l>
             <l rend="i">Le plus vaillant des Rois en des saisons moins calmes</l>
             <l rend="i">T’eust fourny des moissons de lauriers &amp; de palmes,</l>
@@ -128,6 +123,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

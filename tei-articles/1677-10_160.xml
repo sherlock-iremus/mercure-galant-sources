@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,9 +14,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Cette conduite desespere souvent les Bergers fidelles, &amp; c’est ce qui a fait dire à l’Autheur de ces premiers Vers.</p>
         <quote>
           <label>RESOLUTION <lb/><hi rend="sc">de ne plus aimer.</hi></label>
@@ -29,6 +28,6 @@
         </quote>
         <p>Je ne doute point, Madame, que je ne vous oblige en vous envoyant ces Madrigaux. Ils marquent une veine aisée ; &amp; quand j’en recevray de pareils, j’auray soin de vous en faire part. Le dernier nous fait connoistre qu’il n’y a qu’à se faire violence pour venir à bout de l’Amour. Il est certain qu’on en guérit en cessant de voir ; mais contre la mort, point de remede.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

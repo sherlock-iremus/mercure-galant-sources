@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,19 +14,18 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div copyOf="JLB_MG-1688-01_000">
-          
-          
-          <quote>
-            <label>CATALOGUE DES LIVRES<lb/><hi rend="i">nouveaux qui se débitent chez le Sieur Guerout, Court-neuve du Palais.</hi></label>
-            <lg>
-          <l>Le Chevalier à la Mode, Comedie. 1. l. 10. s.</l>
-          <l>La Désolation des Joüeuses, Comedie. 15. s.</l>
-          <l>[...]</l>
-          <l>Divers Ouvrages en Musique de M. de Bacilly.</l>
-            </lg>
-          </quote>
-        </div>
-      </body>
+    <body>
+      <div copyOf="JLB_MG-1688-01_000">
+        <quote>
+          <label>CATALOGUE DES LIVRES<lb/><hi rend="i">nouveaux qui se débitent chez le Sieur Guerout, Court-neuve du Palais.</hi></label>
+          <lg>
+            <l>Le Chevalier à la Mode, Comedie. 1. l. 10. s.</l>
+            <l>La Désolation des Joüeuses, Comedie. 15. s.</l>
+            <l>[...]</l>
+            <l>Divers Ouvrages en Musique de M. de Bacilly.</l>
+          </lg>
+        </quote>
+      </div>
+    </body>
   </text>
 </TEI>

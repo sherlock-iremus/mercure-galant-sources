@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-
-        
-        <p>L’Adieu que fait Hector à son Epouse Andromaque, quand il la quitte pour aller combattre,
-          est un des endroits les plus touchans qu’on remarque dans Homere. On le trouve sur la fin
-          du sixiéme Livre de l’Iliade, &amp; il seroit à souhaiter que celuy qui l’a mis en Vers
-          François, voulust travailler sur d’autres endroits de cet inimitable Poëme. Il court icy
-          beaucoup de copies de cet Adieu, &amp; il n’est pas juste que vostre Province soit privée
-          des beautez qu’on y admire.</p>
+    <body>
+      <div>
+        <p>L’Adieu que fait Hector à son Epouse Andromaque, quand il la quitte pour aller combattre, est un des endroits les plus touchans qu’on remarque dans Homere. On le trouve sur la fin du sixiéme Livre de l’Iliade, &amp; il seroit à souhaiter que celuy qui l’a mis en Vers François, voulust travailler sur d’autres endroits de cet inimitable Poëme. Il court icy beaucoup de copies de cet Adieu, &amp; il n’est pas juste que vostre Province soit privée des beautez qu’on y admire.</p>
         <quote>
           <label>A DIEU D’HECTOR<lb/>ET D’ANDROMAQUE.</label>
           <lg>
@@ -186,6 +179,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

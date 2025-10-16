@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Je vous envoye une Chanson nouvelle, dont les paroles sont de Mr Morel, &amp; l'Air de
-          M<hi rend="sup">r</hi> Arnoul. <note resp="editor">Ce poème figure, avec une mise en musique différente, dans le <hi rend="italic">Recueil d'airs sérieux et à boire</hi> de juin 1697 (Paris, Ballard, 1697, p. 112) sous le titre d'« Air pour Madame la  duchesse de Bourgogne. De Monsieur de Saint Germain. »</note></p>
+    <body>
+      <div>
+        <p>Je vous envoye une Chanson nouvelle, dont les paroles sont de Mr Morel, &amp; l'Air de M<hi rend="sup">r</hi> Arnoul. <note resp="editor">Ce poème figure, avec une mise en musique différente, dans le <hi rend="italic">Recueil d'airs sérieux et à boire</hi> de juin 1697 (Paris, Ballard, 1697, p. 112) sous le titre d'« Air pour Madame la duchesse de Bourgogne. De Monsieur de Saint Germain. »</note></p>
         <quote>
           <label>AIR NOUVEAU.</label>
           <lg>
@@ -30,8 +28,7 @@
             <l rend="i">Pour vous unir au Sang qui luy donna le jour</l>
           </lg>
         </quote>
-        <p>Vous voyez bien que ces paroles ne peuvent regarder que Madame la Princesse de
-          Savoye.</p>
+        <p>Vous voyez bien que ces paroles ne peuvent regarder que Madame la Princesse de Savoye.</p>
         <ref target="images/1697-05_266.JPG">
           <figure>
             <graphic url="images/1697-05_266.JPG"/>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-          
-          <p>M<hi rend="sup">r</hi> l’Abbé Fléchier, de l’Academie Françoise, Aumônier Ordinaire de Madame la Dauphine, a esté nommé Evesque de Lavaur, à la place de M<hi rend="sup">r</hi> de la Berchere. On ne peut pousser dans un plus haut degré qu’il a fait l’éloquence de la Chaire, avoir le goust meilleur, plus de délicatesse d’esprit, ny estre plus honneste homme.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>M<hi rend="sup">r</hi> l’Abbé Fléchier, de l’Academie Françoise, Aumônier Ordinaire de Madame la Dauphine, a esté nommé Evesque de Lavaur, à la place de M<hi rend="sup">r</hi> de la Berchere. On ne peut pousser dans un plus haut degré qu’il a fait l’éloquence de la Chaire, avoir le goust meilleur, plus de délicatesse d’esprit, ny estre plus honneste homme.</p>
+      </div>
+    </body>
   </text>
 </TEI>

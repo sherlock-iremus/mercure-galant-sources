@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p>Les mêmes Libraires ont donné dans le même temps une cinquiéme édition d’un ouvrage
-            intitulé <hi rend="i">Maxime du Droit Canonique de France</hi>. Il est de feu Mr du
-            Bois, celebre Avocat au Parlement, &amp; il a esté enrichi de diverses observations
-            tirées des Conciles, des Peres, de l’Histoire Ecclesiastique, des libertez de l’Eglise
-            Gallicane, &amp; des décisions des Cours &amp; des meilleurs Auteurs. Par Mr Simon,
-            Assesseur en la Maréchaussée, Conseiller au Presidial de Beauvais. On trouvera plusieurs
-            augmentations considerables dans cette derniere édition.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>Les mêmes Libraires ont donné dans le même temps une cinquiéme édition d’un ouvrage intitulé <hi rend="i">Maxime du Droit Canonique de France</hi>. Il est de feu Mr du Bois, celebre Avocat au Parlement, &amp; il a esté enrichi de diverses observations tirées des Conciles, des Peres, de l’Histoire Ecclesiastique, des libertez de l’Eglise Gallicane, &amp; des décisions des Cours &amp; des meilleurs Auteurs. Par Mr Simon, Assesseur en la Maréchaussée, Conseiller au Presidial de Beauvais. On trouvera plusieurs augmentations considerables dans cette derniere édition.</p>
+      </div>
+    </body>
   </text>
 </TEI>

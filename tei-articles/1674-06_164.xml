@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Apres une Histoire si extraordinaire, je croy ne vous pouvoir rien envoyer qui vous soit
-          plus agreable que la piece suivante. Comme elle est naturellement écrite, je croy que vous
-          y trouverez beaucoup d’endroits qui vous plairont.</p>
+    <body>
+      <div>
+        <p>Apres une Histoire si extraordinaire, je croy ne vous pouvoir rien envoyer qui vous soit plus agreable que la piece suivante. Comme elle est naturellement écrite, je croy que vous y trouverez beaucoup d’endroits qui vous plairont.</p>
         <quote rend="border">
           <label rend="center b">Articles d’Union,</label>
           <label rend="center b">Entre Licidas &amp; Arelise.</label>
@@ -183,6 +180,6 @@
           <l>Que c’est le sort commun de toute chose humaine.</l>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

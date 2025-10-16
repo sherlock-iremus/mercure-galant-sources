@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Les Enigmes sont toûjours expliquées dans leur vray sens par quantité de Personnes. Vous
-          trouverez celuy de la premiere du dernier Mois <note resp="editor">Voir l'<ref target="MG-1678-08_346"><hi rend="i">Enigme</hi></ref> du mois d'août 1678 et <ref target="MG-1678-04_389"> l'explication de l'énigme</ref>.</note>dans ces Vers de
-            M<hi rend="sup">r</hi> le Courrier, de Caën.</p>
+    <body>
+      <div>
+        <p>Les Enigmes sont toûjours expliquées dans leur vray sens par quantité de Personnes. Vous trouverez celuy de la premiere du dernier Mois <note resp="editor">Voir l'<ref target="MG-1678-08_346"><hi rend="i">Enigme</hi></ref> du mois d'août 1678 et <ref target="MG-1678-04_389"> l'explication de l'énigme</ref>.</note>dans ces Vers de M<hi rend="sup">r</hi> le Courrier, de Caën.</p>
         <quote>
           <lg>
             <l rend="i">Que vostre humeur est obligeante !</l>
@@ -34,9 +31,8 @@
             <l rend="i">Vous nous faites encor present d’un Clavessin.</l>
           </lg>
         </quote>
-        <p>Ceux qui ont expliqué cette Enigme sur le mesme Mot du <hi rend="i">Clavessin</hi>, sont
-          [liste des noms].</p>
+        <p>Ceux qui ont expliqué cette Enigme sur le mesme Mot du <hi rend="i">Clavessin</hi>, sont [liste des noms].</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

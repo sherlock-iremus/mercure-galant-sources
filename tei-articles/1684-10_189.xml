@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Cet illustre Duc, qui se fait aimer de tout le monde, donne souvent de l’employ aux
-          Muses ; &amp; les deux Ouvrages qui suivent, &amp; qui ont esté faits à sa gloire, en sont
-          une preuve. L’un est de M<hi rend="sup">r</hi> Magnin, Conseiller au Présidial de Mascon ;
-          &amp; l’autre, de M<hi rend="sup">r</hi> Sabbatier, de l’Académie Royale d’Arles.</p>
+    <body>
+      <div>
+        <p>Cet illustre Duc, qui se fait aimer de tout le monde, donne souvent de l’employ aux Muses ; &amp; les deux Ouvrages qui suivent, &amp; qui ont esté faits à sa gloire, en sont une preuve. L’un est de M<hi rend="sup">r</hi> Magnin, Conseiller au Présidial de Mascon ; &amp; l’autre, de M<hi rend="sup">r</hi> Sabbatier, de l’Académie Royale d’Arles.</p>
         <quote>
           <label>ODE.</label>
           <lg>
@@ -145,6 +141,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

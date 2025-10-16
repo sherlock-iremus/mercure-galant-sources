@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,20 +14,22 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Vous estes tres-bonne Connoisseuse ; ainsi je ne vous dis rien de l'Air que je vous envoye.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin">L’Air doit regarder la page 278.</note>
-          <lg><l rend="i">C'est en vain que je suis fidelle,</l>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin">L’Air doit regarder la page 278.</note>
+          <lg>
+            <l rend="i">C'est en vain que je suis fidelle,</l>
             <l rend="i">Et que je languis nuit &amp; jour,</l>
             <l rend="i">Celle que j'aime est jeune &amp; belle,</l>
             <l rend="i">Et pour l'engager à mon tour,</l>
             <l rend="i">Il faudroit que le Dieu d'Amour</l>
             <l rend="i">Me rendist jeune &amp; beau comme elle.</l>
             <l rend="i">C'est en vain que je suis fidelle,</l>
-            <l rend="i">Et que je languis nuit &amp; jour.</l></lg>
+            <l rend="i">Et que je languis nuit &amp; jour.</l>
+          </lg>
         </quote>
         <ref target="images/1697-09_278.JPG">
           <figure>
@@ -35,6 +37,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

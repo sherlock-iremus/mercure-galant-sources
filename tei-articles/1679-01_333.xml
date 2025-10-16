@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,19 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>La Paix est un Ouvrage si glorieux pour le Roy, que tout ce qui en parle mérite vostre
-          curiosité. Ainsi quoy qu’une Paraphrase de l’<hi rend="i">Exaudiat</hi> semble n’estre pas
-          du caractere de ce qui doit entrer dans ma Lettre, je ne puis m’empécher de vous
-          l’envoyer. Outre le mérite de M<hi rend="sup">r</hi> le Président Nicole de Chartres qui
-          en est l’Autheur, des considérations tres-puissantes m’obligent à vous faire part de cette
-          Piece. Je ne doute point que vous n’y trouviez assez de beautez pour prendre plaisir à la
-          lire plus d’une fois.</p>
+    <body>
+      <div>
+        <p>La Paix est un Ouvrage si glorieux pour le Roy, que tout ce qui en parle mérite vostre curiosité. Ainsi quoy qu’une Paraphrase de l’<hi rend="i">Exaudiat</hi> semble n’estre pas du caractere de ce qui doit entrer dans ma Lettre, je ne puis m’empécher de vous l’envoyer. Outre le mérite de M<hi rend="sup">r</hi> le Président Nicole de Chartres qui en est l’Autheur, des considérations tres-puissantes m’obligent à vous faire part de cette Piece. Je ne doute point que vous n’y trouviez assez de beautez pour prendre plaisir à la lire plus d’une fois.</p>
         <quote>
-          <label>PARAPHRASE<lb/>DE L’EXAUDIAT,<lb/>Accommodée aux Campagnes de Sa<lb/>Majesté, &amp;
-            à la Paix qu’il donne<lb/>à l’Europe.</label>
+          <label>PARAPHRASE<lb/>DE L’EXAUDIAT,<lb/>Accommodée aux Campagnes de Sa<lb/>Majesté, &amp; à la Paix qu’il donne<lb/>à l’Europe.</label>
           <label>EN VERS LIBRES.</label>
           <lg>
             <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Seigneur, de qui la Providence,</l>

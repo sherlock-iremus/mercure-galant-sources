@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,9 +14,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>On croit quelquefois ne donner son cœur qu’en riant. Il est reçeu de la mesme sorte. On s’accoûtume à se voir, &amp; l’habitude estant une fois formée, il n’y a plus moyen de s’en dédire. C’est ce que vous trouverez fort spirituellement décrit dans ce Madrigal. Il est de M<hi rend="sup">r</hi> le Chevalier de la Terrie, Capitaine au Regiment du Roy, &amp; fait voir que le commerce des Muses n’est pas incompatible avec la profession des Armes.</p>
         <quote rend="border">
           <label>Madrigal.</label>
@@ -32,6 +31,6 @@
           <l><seg type="tab">    </seg>Il n’est plus temps de se défendre.</l>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

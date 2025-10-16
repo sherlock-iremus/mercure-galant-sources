@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
-        <p>En voicy deux autres encor sur les mesmes rimes, mais sur diférens sujets. L’un est de
-            M<hi rend="sup">r</hi> l’Abbé le Laboureur, &amp; l’autre m’a esté envoyé sous le nom de
-          l’Habitant en esprit du Pré Saint Gervais.</p>
+        <p>En voicy deux autres encor sur les mesmes rimes, mais sur diférens sujets. L’un est de M<hi rend="sup">r</hi> l’Abbé le Laboureur, &amp; l’autre m’a esté envoyé sous le nom de l’Habitant en esprit du Pré Saint Gervais.</p>
         <quote>
           <label>SUR LE BONHEUR<lb/>de la Vie champestre.</label>
           <lg>
@@ -50,6 +47,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

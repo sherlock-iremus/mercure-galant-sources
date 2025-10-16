@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,21 +14,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Je puis enfin vous tenir parole touchant les Vers de M<hi rend="sup">r</hi> de Fontenelle
-          que je vous envoye. Il y a apparence qu’ils ont esté faits un peu apres la Bataille de
-          Sénef.</p>
+    <body>
+      <div>
+        <p>Je puis enfin vous tenir parole touchant les Vers de M<hi rend="sup">r</hi> de Fontenelle que je vous envoye. Il y a apparence qu’ils ont esté faits un peu apres la Bataille de Sénef.</p>
         <quote>
-          <label type="head">Sur ce que <lb/>M<hi rend="sup">r</hi> le Prince <lb/>ne vit plus que
-            de Lait.</label>
+          <label type="head">Sur ce que <lb/>M<hi rend="sup">r</hi> le Prince <lb/>ne vit plus que de Lait.</label>
           <l>SI la frugalité qui regne en vos Repas,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Succede au luxe qu’elle
-            chasse ;</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Succede au luxe qu’elle chasse ;</l>
           <l>Si de cent mets exquis le Lait y tient la place,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Grand Prince, n’en rougissez
-            pas.</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Grand Prince, n’en rougissez pas.</l>
           <l/>
           <ab type="ornament">***</ab>
           <l><seg type="tab">    </seg>Autrefois lors que la Nature</l>
@@ -37,8 +31,7 @@
           <l><seg type="tab">    </seg><seg type="tab">    </seg>En se conservant toute pure,</l>
           <l>La Terre vit couler mille ruisseaux de Lait</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Sur ses Campagnes fortunées ;</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Dieux &amp; Héros en burent à
-            souhait,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Dieux &amp; Héros en burent à souhait,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Et vêcurent longues années.</l>
           <l/>
           <ab type="ornament">***</ab>
@@ -53,8 +46,7 @@
           <l>Et quel fut le sujet de la métamorphose</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>D'Apollon en simple Berger ?</l>
           <l>À garder un Troupeau s’il voulut s’engager,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Quelle en pouvoit estre la
-            cause,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Quelle en pouvoit estre la cause,</l>
           <l>Si ce n’est que ce Dieu se sentoit dégoúté</l>
           <l>De ce fade Nectar versé par Ganimede,</l>
           <l>Et que son dégoust c’estoit le vray remede,</l>
@@ -107,8 +99,7 @@
           <l>Ces Allémans, qui puisoient dans un Verre</l>
           <l>L'héroïque chaleur qu’ils portoient aux combats.</l>
           <l>La Sambre avec effroy vit ses ondes troublées</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>De Sang &amp; de Vin
-            confondus ;</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>De Sang &amp; de Vin confondus ;</l>
           <l>Aujourd’huy dans Sénef ces grands Corps étendus,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Remplissent encor les Vallées.</l>
           <l/>
@@ -118,14 +109,12 @@
           <l>C'est un Buveur de Lait. Nostre Posterité</l>
           <l>En lisant ces Exploits, les pourra-t-elle croire ?</l>
           <l>S'en rapportera-t-elle à la fidelité,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Ou de ma Muse, ou de
-            l’Histoire ?</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Ou de ma Muse, ou de l’Histoire ?</l>
           <l/>
           <ab type="ornament">***</ab>
           <l>Tel qu’un jeune Lion qui boit en mesme temps</l>
           <l><seg type="tab">    </seg>Et la fureur &amp; le lait de sa Mere,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Et qui des ongles &amp; des
-            dents</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Et qui des ongles &amp; des dents</l>
           <l><seg type="tab">    </seg>Sur les Troupeaux exerce sa colere ;</l>
           <l>Tel, graces à ce Lait dont la douce liqueur</l>
           <l>Vous a fait de vos ans oublier la foiblesse,</l>
@@ -177,10 +166,8 @@
           <l>Il est vray que de Fille elle devint Genisse,</l>
           <l>De Genisse, Déesse, &amp; qu’au pied des Autels</l>
           <l>Tout un Peuple attend d’elle un seul regard propice,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Et qu’il suffit qu’elle
-            mugisse,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Pour rendre un Oracle aux
-            Mortels.</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Et qu’il suffit qu’elle mugisse,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Pour rendre un Oracle aux Mortels.</l>
           <l/>
           <ab type="ornament">***</ab>
           <l><seg type="tab">    </seg>Mais laisse-luy ces foibles avantages,</l>
@@ -190,8 +177,7 @@
           <l>Là, par un doux hymen tu te verras unie</l>
           <l>Au celeste Taureau digne de tes amours,</l>
           <l><seg type="tab">    </seg>Et vous viendrez tous deux de compagnie</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Nous amener nos plus beaux
-            jours.</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Nous amener nos plus beaux jours.</l>
           <l/>
           <ab type="ornament">***</ab>
           <l>Cependant repais-toy plus qu’à ton ordinaire,</l>
@@ -207,6 +193,6 @@
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Le plus tard ce sera le mieux.</l>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

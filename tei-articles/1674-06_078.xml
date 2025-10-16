@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,9 +14,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Vociy quelques Vers qui vous divertiront peut-estre davantage.</p>
         <quote rend="border">
           <label rend="center b">Elegie.</label>
@@ -113,9 +112,8 @@
           <l>Oüy, c’est là qu’il m’en faut expliquer avec vous :</l>
           <l>Vous m’aimez, je vous aime, helas ! qu’attendons-nous ?</l>
         </quote>
-        <p>Ces Vers ont plû à beaucoup de Gens, &amp; je croy que les Amans passionnez les doivent
-          trouver à leur goust.</p>
+        <p>Ces Vers ont plû à beaucoup de Gens, &amp; je croy que les Amans passionnez les doivent trouver à leur goust.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

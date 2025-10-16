@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,24 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-                
-                
-                <p>On écrit de Goëra, coste de Caraque en l’Amerique
-                        Espagnole, que la Fregate du Roy l’Hermione, allant de-là à Carthagene pour
-                        les affaires de la Compagnie de l’Assiente, y avoit arresté à son profit,
-                        deux Vaisseaux Portugais, qui y apportoient en fraude de cette Compagnie,
-                        pour cent mille écus d’Esclaves Negres, &amp; que les Portugais venoient
-                        apporter là de leurs Ports de la coste d’Afrique, ce qu’ils avoient
-                        accoutumé de faire auparavant, &amp; pendant que leur Compagnie de l’Assiente
-                        pour le commerce des Negres avec les Espagnols subsistoit, &amp; à laquelle
-                        Compagnie a succedé dépuis la guerre avec le Portugal, celle qui a esté
-                        formée pour le même commerce par les François &amp; par les Espagnols, qui le
-                        continuent avec succès dans tous les Ports de l’Amerique Espagnole.</p>
-
-            </div>
-
-
+    <body>
+      <div>
+        <p>On écrit de Goëra, coste de Caraque en l’Amerique Espagnole, que la Fregate du Roy l’Hermione, allant de-là à Carthagene pour les affaires de la Compagnie de l’Assiente, y avoit arresté à son profit, deux Vaisseaux Portugais, qui y apportoient en fraude de cette Compagnie, pour cent mille écus d’Esclaves Negres, &amp; que les Portugais venoient apporter là de leurs Ports de la coste d’Afrique, ce qu’ils avoient accoutumé de faire auparavant, &amp; pendant que leur Compagnie de l’Assiente pour le commerce des Negres avec les Espagnols subsistoit, &amp; à laquelle Compagnie a succedé dépuis la guerre avec le Portugal, celle qui a esté formée pour le même commerce par les François &amp; par les Espagnols, qui le continuent avec succès dans tous les Ports de l’Amerique Espagnole.</p>
+      </div>
     </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
-        <p>[...] Je ne puis finir ce grand Article, sans vous faire part d’un Madrigal qui fut
-          présenté à M<hi rend="sup">r</hi> le Comte d’Avaux sur la Naissance du jeune Prince.</p>
+    <body>
+      <div>
+        <p>[...] Je ne puis finir ce grand Article, sans vous faire part d’un Madrigal qui fut présenté à M<hi rend="sup">r</hi> le Comte d’Avaux sur la Naissance du jeune Prince.</p>
         <quote>
           <lg>
             <l rend="i"> C’est aujourd’huy que de trois Lys</l>
@@ -44,6 +41,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,20 +14,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
+    <body>
+      <div>
         <quote>
           <label>XXV.</label>
-          <p><hi rend="i">Qu’il sera permis à ladite Garnison de Limerich de sortir en une seule ou
-              plusieurs fois selon qu’elle pourra estre embarquée avec armes &amp; Bagage, Tambour
-              battant, Mesche allumée par les deux bouts, Enseignes déployées, six pieces de Canon
-              de fonte au choix des Assiegez, deux Mortiers, &amp; la moitié de toutes les Munitions
-              de Guerre qui sont dans les Magazins de ladite Place, &amp; pour cet effet il en sera
-              fait un Inventaire en presence de telle personne que le General Guinkel nommera le
-              lendemain de la signature dudit Traité.</hi></p>
+          <p>
+            <hi rend="i">Qu’il sera permis à ladite Garnison de Limerich de sortir en une seule ou plusieurs fois selon qu’elle pourra estre embarquée avec armes &amp; Bagage, Tambour battant, Mesche allumée par les deux bouts, Enseignes déployées, six pieces de Canon de fonte au choix des Assiegez, deux Mortiers, &amp; la moitié de toutes les Munitions de Guerre qui sont dans les Magazins de ladite Place, &amp; pour cet effet il en sera fait un Inventaire en presence de telle personne que le General Guinkel nommera le lendemain de la signature dudit Traité.</hi>
+          </p>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

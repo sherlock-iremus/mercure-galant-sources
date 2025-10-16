@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,9 +14,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
         <p>Les Religieux de l'Abbaye de S. Germain des Prez, dont Mr le Duc de Verneüil avoit esté Abbé pendant plus de quarante ans, luy ont fait faire un Service solemnel, avec le plus de magnificence qu'il leur a esté possible. Madame la Duchesse de Verneüil sa Veuve, les ayant fait avertir que ce Prince leur avoit laissé son Coeur, deux d'entr'eux, accompagnez de l'un de ses Aumôniers &amp; de son Premier Valet de Chambre, se rendirent à Pontoise le Samedy 4. de ce mois, pour y recevoir ce Coeur. Il estoit en dépost dans le Convent des Religieuses Carmelites, où son Corps est enterré. [...]</p>
         <p>Ce Coeur fut gardé dans la Sacristie de S. Germain des Prez jusques pour la cerémonie du Service. [...]</p>
@@ -24,6 +23,6 @@
         <p>[…]</p>
         <p>Quoy que nostre Langue n’ait ny la force ny la grace du Latin dans ces Epitaphes, j’ay crû devoir vous les envoyer pour vos Amies, parce qu’elles expriment assez bien les principaux emplois de feu M<hi rend="sup">r</hi> le Duc de Verneüil. Quatre Pieces d’architecture remplissoient l’espace qui séparoit les quatre Figures. Chacune avoit deux Enfans panchez sur le costé, la teste posée sur une main, &amp; tenant un Brandon de l’autre. Une espece de Fronton les appuyoit, surmonté par une Teste de Mort, qui portoit une Urne d’argent chargée d’une Lampe à cinq lumieres. Les Enfans, &amp; cette Teste de Mort, estoient a demy couverts d’un Crêpe doré. Le grand Autel surprenoit par sa beauté &amp; par sa richesse. Outre la Table qui luy sert de devant, &amp; qui est toute de vermeil doré, d’une tres-rare &amp; tres-ancienne Orfévrerie, &amp; enrichie de plusieurs Figures en relief, &amp; d’un grand nombre de Pierreries, les Gradins estoient garnis de dix-huit Chandeliers d’argent, &amp; au milieu, une Croix aussi d’argent, d’une hauteur &amp; d’une grosseur extraordinaire.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

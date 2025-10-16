@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p>Pendant que le bruit des armes se fait entendre, les Muses ne laissent pas de chanter &amp; les Lettres de fleurir. On voit souvent des Livres nouveaux, dont les Journaux des Sçavants &amp; de Trévoux, ont soin de vous entretenir, &amp; l’Auteur du Livre Intitulé, <hi rend="i">deux cens cinquante-huit questions &amp; reponses sur differents sujets</hi>, continuë à donner tous les mois cet ouvrage qui est fort souhaité &amp; recherché.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>Pendant que le bruit des armes se fait entendre, les Muses ne laissent pas de chanter &amp; les Lettres de fleurir. On voit souvent des Livres nouveaux, dont les Journaux des Sçavants &amp; de Trévoux, ont soin de vous entretenir, &amp; l’Auteur du Livre Intitulé, <hi rend="i">deux cens cinquante-huit questions &amp; reponses sur differents sujets</hi>, continuë à donner tous les mois cet ouvrage qui est fort souhaité &amp; recherché.</p>
+      </div>
+    </body>
   </text>
 </TEI>

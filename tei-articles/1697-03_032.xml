@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,29 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Je vous envoye un Ouvrage, auquel l’Auteur n’a donné le nom de Satyre, que parce qu’il a
-          cru que ce titre luy attireroit plus de Lecteurs. En effet, c’est une pure Morale, qui ne
-          peut estre que d’une tres-grande utilité, si l’on considere quels maux naissent
-          ordinairement du gros Jeu ; car le Jeu où la perte ne sçauroit estre assez grande pour
-          incommoder personne, peut passer pour un divertissement permis, &amp; quelquefois
-          necessaire à ceux qui ont besoin de se délasser l’esprit. Il est même toujours innocent,
-          pourvû qu’on n’y perde point trop de temps ; au lieu que le gros Jeu estant un commerce de
-          gens avares &amp; cruels, qui ne cherchent qu’à ravir le bien de ceux contre qui ils
-          joüent, peut estre la source des plus grands malheurs. L’Auteur, aprés avoir averti que
-          tout le mal qu’il dit dans cette Satyre, ne regarde que luy-même, ce qui le met à couvert
-          de la crainte qu’il auroit dû avoir sans cela de se faire des Ennemis, explique ce qu’il a
-          entendu par le nom de Rustan, dont il fait des railleries. Tous les Joüeurs, dit-il dans
-          sa Préface, qui ont parcouru plusieurs Academies, me sont témoins qu’on trouve dans toutes
-          des Rustans tels que le mien. Ce sont de vieux piliers d’Academie, gens sans politesse,
-          qui font du Jeu leur principale occupation. Leur unique dessein est de ruiner tout le
-          monde, s’ils peuvent, par toutes sortes de voyes. Quand les Dupes leur manquent, ils
-          jugent des coups, ou prestent de l’argent. Ce sont ces sortes de gens que je censure en
-          general sous le nom de Rustan. Que cette lanterne dont je parle, ne soit point suspecte.
-          On peut se souvenir que la plûpart d’eux tous sont gens à lanterne, soit que leur
-          condition ou leur air l’exige ainsi, ou qu’ils soient d’humeur à s’y borner.</p>
+    <body>
+      <div>
+        <p>Je vous envoye un Ouvrage, auquel l’Auteur n’a donné le nom de Satyre, que parce qu’il a cru que ce titre luy attireroit plus de Lecteurs. En effet, c’est une pure Morale, qui ne peut estre que d’une tres-grande utilité, si l’on considere quels maux naissent ordinairement du gros Jeu ; car le Jeu où la perte ne sçauroit estre assez grande pour incommoder personne, peut passer pour un divertissement permis, &amp; quelquefois necessaire à ceux qui ont besoin de se délasser l’esprit. Il est même toujours innocent, pourvû qu’on n’y perde point trop de temps ; au lieu que le gros Jeu estant un commerce de gens avares &amp; cruels, qui ne cherchent qu’à ravir le bien de ceux contre qui ils joüent, peut estre la source des plus grands malheurs. L’Auteur, aprés avoir averti que tout le mal qu’il dit dans cette Satyre, ne regarde que luy-même, ce qui le met à couvert de la crainte qu’il auroit dû avoir sans cela de se faire des Ennemis, explique ce qu’il a entendu par le nom de Rustan, dont il fait des railleries. Tous les Joüeurs, dit-il dans sa Préface, qui ont parcouru plusieurs Academies, me sont témoins qu’on trouve dans toutes des Rustans tels que le mien. Ce sont de vieux piliers d’Academie, gens sans politesse, qui font du Jeu leur principale occupation. Leur unique dessein est de ruiner tout le monde, s’ils peuvent, par toutes sortes de voyes. Quand les Dupes leur manquent, ils jugent des coups, ou prestent de l’argent. Ce sont ces sortes de gens que je censure en general sous le nom de Rustan. Que cette lanterne dont je parle, ne soit point suspecte. On peut se souvenir que la plûpart d’eux tous sont gens à lanterne, soit que leur condition ou leur air l’exige ainsi, ou qu’ils soient d’humeur à s’y borner.</p>
         <quote>
           <label>SATIRE<lb/>CONTRE LE JEU.<lb/><hi rend="i">A LYCAS.</hi></label>
           <lg>
@@ -245,8 +225,7 @@
             <l>Le reste maudissant les <hi rend="i">Dez</hi> &amp; le <hi rend="i">Cornet</hi></l>
             <l>Eprouve à l’Hôpital le destin de Galet.</l>
             <l>Philargire &amp; Clytus ne sont pas moins à plaindre,</l>
-            <l>Aux <hi rend="i">Cartes</hi>, comme aux <hi rend="i">Dez,</hi> je vois beaucoup à
-              craindre.</l>
+            <l>Aux <hi rend="i">Cartes</hi>, comme aux <hi rend="i">Dez,</hi> je vois beaucoup à craindre.</l>
             <l>Qu’à jamais, cher Lycas, on ignore ton nom</l>
             <l>Dans ces Cercles nombreux qu’assemble <hi rend="i">Pharaon,</hi></l>
             <l>Parmy les <hi rend="i">Lansquenets,</hi> &amp; tous ces Jeux funestes,</l>
@@ -256,6 +235,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

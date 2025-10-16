@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,9 +14,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
         <p>Je vous ay promis que je rechercherois avec soin toutes les particularitez qui regardent le Mariage de Monsieur le Duc de Bourbon, &amp; de Mademoiselle de Nantes, afin de vous en donner une Relation exacte ; mais il est bien difficile qu'il n'échape quelques circonstances de tout ce qui a précedé, accompagné, &amp; suivy l'Union de ces deux Augustes Personnes. Le Roy ne fait rien qui ne marque sa Grandeur ; Monsieur le Duc est galant &amp; magnifique, &amp; tous ceux qui touchent de prés au jeune Prince &amp; à la jeune Princesse que le Mariage vient d'unir, aiment la belle dépense. La Liberalité leur est naturelle ; ils n'épargnent rien lors qu'il s'agit d'affaires d'éclat, &amp; il semble que le bon goust soit né avec eux. Jugez aprés cela, s'il m'a pû estre facile de ramasser toutes les circonstances qui ont rapport à ce Mariage ; mais il y a plus encore, c'est qu'il s'est fait avec un tel agrément, &amp; tant de joye de toute la Cour, que chacun en son particulier a contribué autant qu'il a pû, à l'éclat de cette Feste, par des Habits magnifiques, par des marques de réjoüissance, &amp; mesme par de somptueux repas, accompagnez de divertissemens. [...]</p>
         <p/>
@@ -34,7 +33,6 @@
         <p>Le Dimanche Monsieur donna une grande Feste à Saint Cloud. Il y eut Collation, Musique, Jeu, Promenade, bal, Souper, &amp; Comédie. Il s'est fait encore beaucoup d'autres Festes devant &amp; aprés ce Mariage, &amp; qui y ont toutes rapport par la joye que la Cour a fait paroistre, &amp; par les marques d'amitié que le Roy a données aux Mariez. [...]</p>
         <p/>
       </div>
-        
-      </body>
+    </body>
   </text>
 </TEI>

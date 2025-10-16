@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Comme vous estimez fort tous les Ouvrages de M<hi rend="sup">r</hi> de Calvy, Juge Royal
-          de Grace, je ne veux pas vous priver du plaisir de voir le dernier qu’il a fait sur les
-          affaires du Temps. Vous y trouverez beaucoup d’esprit &amp; d’imagination.</p>
+    <body>
+      <div>
+        <p>Comme vous estimez fort tous les Ouvrages de M<hi rend="sup">r</hi> de Calvy, Juge Royal de Grace, je ne veux pas vous priver du plaisir de voir le dernier qu’il a fait sur les affaires du Temps. Vous y trouverez beaucoup d’esprit &amp; d’imagination.</p>
         <quote>
           <label>L’OMBRE DE PHAETON<lb/>au Duc de Savoye.</label>
           <lg>
@@ -116,6 +113,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,20 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
-        <p><hi rend="i">On ne voit ordinairement dans les Poëtes, que des Fictions ; dans les
-            Orateurs, que du fard ; &amp; dans les Philosophes, que des tenebres ; mais la Poësie
-            n’a point d’illusions, que la Verité ne défasse ; l’Eloquence point d’enchantemens, que
-            la Verité ne détruise ; &amp; la Philosophie point de nuages, que la Verité ne dissipe.
-            Oüy, Messieurs, la Verité toute nuë qu’elle est, triomphe des armes de la Philosophie
-            &amp; de l’Eloquence. Sa simplicité confond leur magnificence, leur subtilité, &amp;
-            leur pompe, &amp; sa naïveté renverse tous leurs artifices : Sans chatoüiller les
-            oreilles, elle gagne les cœurs ; &amp; sans estre éloquente, elle persuade les
-            Peuples.</hi></p>
+        <p>
+          <hi rend="i">On ne voit ordinairement dans les Poëtes, que des Fictions ; dans les Orateurs, que du fard ; &amp; dans les Philosophes, que des tenebres ; mais la Poësie n’a point d’illusions, que la Verité ne défasse ; l’Eloquence point d’enchantemens, que la Verité ne détruise ; &amp; la Philosophie point de nuages, que la Verité ne dissipe. Oüy, Messieurs, la Verité toute nuë qu’elle est, triomphe des armes de la Philosophie &amp; de l’Eloquence. Sa simplicité confond leur magnificence, leur subtilité, &amp; leur pompe, &amp; sa naïveté renverse tous leurs artifices : Sans chatoüiller les oreilles, elle gagne les cœurs ; &amp; sans estre éloquente, elle persuade les Peuples.</hi>
+        </p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

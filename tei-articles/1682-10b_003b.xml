@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Cette Anagramme qu’il a présentée à Sa Majesté, aussi bien que la premiere, luy a donné
-          lieu de faire ces autres Vers. Ils vous plairont d’autant plus, qu’ils loüent ce grand
-          Prince sur la qualité que vous admirez davantage en luy ; je veux dire sur ce zele ardent
-          qu’il fait sans cesse éclater pour l’intérest de l’Eglise.</p>
+    <body>
+      <div>
+        <p>Cette Anagramme qu’il a présentée à Sa Majesté, aussi bien que la premiere, luy a donné lieu de faire ces autres Vers. Ils vous plairont d’autant plus, qu’ils loüent ce grand Prince sur la qualité que vous admirez davantage en luy ; je veux dire sur ce zele ardent qu’il fait sans cesse éclater pour l’intérest de l’Eglise.</p>
         <quote>
           <label>AU ROY.<lb/>LE JOUR DE S. LOUIS.<lb/><hi rend="sc">Epistre</hi>.</label>
           <lg>
@@ -53,6 +49,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

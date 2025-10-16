@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Ces paroles sont de M<hi rend="sup">r</hi> Dader, qui toujours charmé de la gloire que
-          s’est acquise l’illustre Mademoiselle de Scuderi, a fait son éloge par ce Madrigal.</p>
+    <body>
+      <div>
+        <p>Ces paroles sont de M<hi rend="sup">r</hi> Dader, qui toujours charmé de la gloire que s’est acquise l’illustre Mademoiselle de Scuderi, a fait son éloge par ce Madrigal.</p>
         <quote>
           <lg>
             <l rend="i">Sapho, les éloges divers</l>
@@ -32,6 +30,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

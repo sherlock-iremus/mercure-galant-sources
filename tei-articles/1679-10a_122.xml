@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
+    <body>
+      <div>
         <quote>
-          <label type="head">Reponse<lb/>à Madame D***<lb/>l’Ombre de Madame<lb/>la C. D. L.
-            S.</label>
+          <label type="head">Reponse<lb/>à Madame D***<lb/>l’Ombre de Madame<lb/>la C. D. L. S.</label>
           <l>L’Amour se plaint à tort, quand tout le favorise,</l>
           <l>La France de tout temps à ses Loix fut soûmise,</l>
           <l>Et mesme dans Paphos où Vénus tient sa Cour,</l>
@@ -31,11 +28,9 @@
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Des plus severes Magistrats</l>
           <l>N’en peuvent garantir les dernieres années ;</l>
           <l>Mais quand avec l’Hymen on connoit aujourd’huy</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Qu’il veut partager sa
-            puissance,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Qu’il veut partager sa puissance,</l>
           <l>On n’a plus pour ce Dieu la mesme obeïssance,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Et les Loix ne sont plus pour
-            luy.</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Et les Loix ne sont plus pour luy.</l>
           <l/>
           <ab type="ornament">***</ab>
           <l>Vous l’avez éprouvé, charmante Cythérée,</l>
@@ -44,6 +39,6 @@
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Creuser le tombeau de l’Amour.</l>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

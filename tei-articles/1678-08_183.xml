@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Il y a longtemps que je ne vous ay fait voir de Rondeau. En voicy un sur un sujet fort
-          particulier. M<hi rend="sup">r</hi> Robbe nourrissoit un petit Loup privé qu’il avoit
-          promis à Monsieur le Duc du Maine ; &amp; comme ce jeune Prince l’attendoit impatiemment,
-          il vint à Paris, &amp; le trouva étranglé dans le temps qu’il croyoit le faire porter à S.
-          Germain. Ainsi il ne pût que donner ce Rondeau au lieu du Loup.</p>
+    <body>
+      <div>
+        <p>Il y a longtemps que je ne vous ay fait voir de Rondeau. En voicy un sur un sujet fort particulier. M<hi rend="sup">r</hi> Robbe nourrissoit un petit Loup privé qu’il avoit promis à Monsieur le Duc du Maine ; &amp; comme ce jeune Prince l’attendoit impatiemment, il vint à Paris, &amp; le trouva étranglé dans le temps qu’il croyoit le faire porter à S. Germain. Ainsi il ne pût que donner ce Rondeau au lieu du Loup.</p>
         <quote>
           <label rend="center">À MONSIEUR <lb/>LE DUC <lb/>DU MAYNE. <hi rend="sc">Rondeau.</hi></label>
           <lg>
@@ -49,6 +44,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

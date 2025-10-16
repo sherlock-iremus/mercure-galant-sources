@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,23 +14,20 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Voicy ce qui a esté fait depuis peu de jours pour mettre sur celle<note resp="editor">La sépulture.</note> d’une fort aimable Personne.</p>
         <quote>
           <label type="head">Epitaphe <lb/>pour la Belle <lb/>Mademoiselle ***</label>
           <l><space rend="tab"> </space><space rend="tab"> </space>Ny la vertu, ny les appas,</l>
           <l><space rend="tab"> </space><space rend="tab"> </space>Ne pûrent sauver du trépas</l>
           <l>La belle Amarillis que couvre cette Pierre.</l>
-          <l><space rend="tab"> </space><space rend="tab"> </space>Le Ciel la prit dans son
-            Printemps,</l>
+          <l><space rend="tab"> </space><space rend="tab"> </space>Le Ciel la prit dans son Printemps,</l>
           <l><space rend="tab"> </space><space rend="tab"> </space>N'ayant pas jugé que la Terre</l>
           <l>Fust digne de porter ce Trésor plus longtemps.</l>
         </quote>
-        <p>Cette Devise a esté faite aussi pour la mesme. Une Fusée qui s’éleve &amp; qui se creve
-          dans l’air, avec ces paroles, <hi rend="i">Quæsivit cœlo lucem</hi>.</p>
+        <p>Cette Devise a esté faite aussi pour la mesme. Une Fusée qui s’éleve &amp; qui se creve dans l’air, avec ces paroles, <hi rend="i">Quæsivit cœlo lucem</hi>.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

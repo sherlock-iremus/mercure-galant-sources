@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Ce n’est pas un petit avantage que de bien choisir en se mariant. Le repentir suit
-          souvent cette sorte de Contract. Voyez dans ce Madrigal les plaintes que font deux Dames ;
-          l’une d’avoir pris un Mary trop vieux, &amp; l’autre d’en avoir pris un trop jeune.</p>
+    <body>
+      <div>
+        <p>Ce n’est pas un petit avantage que de bien choisir en se mariant. Le repentir suit souvent cette sorte de Contract. Voyez dans ce Madrigal les plaintes que font deux Dames ; l’une d’avoir pris un Mary trop vieux, &amp; l’autre d’en avoir pris un trop jeune.</p>
         <quote rend="border">
           <label rend="center">Madrigal</label>
           <l>On blâme d’un Mary la trop grande vieillesse,</l>
@@ -30,6 +27,6 @@
           <l>Moy, je me plains d’avoir ce qui n’est point encore.</l>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
-        <p>Il s’est fait depuis peu une Table contenant les principes de la Musique en Dialogue. Non
-          seulement elle est facile &amp; divertissante pour ceux qui apprennent cette Science de
-          cette maniere, mais elle est aussi fort curieuse pour les Speculatifs, &amp; les plus
-          habiles, qui ont témoigné en faire grand cas. Cette Table se distribuë chez M<hi rend="sup">r</hi> Fleury, qui en est l’Auteur. On y trouve encore d’autres Ouvrages fort
-          considerables, qu’il a faits pour joüer la Basse continuë sur le Theorbe, sur le Lut,
-          &amp; sur la Guitarre.</p>
+        <p>Il s’est fait depuis peu une Table contenant les principes de la Musique en Dialogue. Non seulement elle est facile &amp; divertissante pour ceux qui apprennent cette Science de cette maniere, mais elle est aussi fort curieuse pour les Speculatifs, &amp; les plus habiles, qui ont témoigné en faire grand cas. Cette Table se distribuë chez M<hi rend="sup">r</hi> Fleury, qui en est l’Auteur. On y trouve encore d’autres Ouvrages fort considerables, qu’il a faits pour joüer la Basse continuë sur le Theorbe, sur le Lut, &amp; sur la Guitarre.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

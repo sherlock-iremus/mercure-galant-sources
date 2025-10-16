@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
-        <p>Voicy d’autres Vers que vous trouverez fort agreables. Vous sçavez, Madame, que selon les
-          Poëtes, chaque Fontaine a sa Nymphe. Vous serez peut estre bien aise d’en entendre parler
-          une à une Personne aussi distinguée par son mérite que par sa naissance.</p>
+        <p>Voicy d’autres Vers que vous trouverez fort agreables. Vous sçavez, Madame, que selon les Poëtes, chaque Fontaine a sa Nymphe. Vous serez peut estre bien aise d’en entendre parler une à une Personne aussi distinguée par son mérite que par sa naissance.</p>
         <quote>
-          <label>LA NYMPHE<lb/>DE BOURBON,<lb/>A M<hi rend="sup">me</hi> la Duchesse de
-            Nevers.</label>
+          <label>LA NYMPHE<lb/>DE BOURBON,<lb/>A M<hi rend="sup">me</hi> la Duchesse de Nevers.</label>
           <lg>
             <l rend="i">Depuis que je fournis du secours aux Humains,</l>
             <l rend="i"> Et que je verse à pleines mains</l>
@@ -60,6 +56,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

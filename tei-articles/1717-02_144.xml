@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,37 +14,36 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-                    
-                  
-                  <quote>
-                    <label>SARABANDE.</label>
-                      <label><hi rend="i">Par M. Dufreny</hi>.</label>
-                    <lg>
-                      <l>Trompeur Amour, ta voix sans cesse appelle</l>
-                      <l>Hymen, Hymen, pour combler nos souhaits ;</l>
-                      <l>Hymen vient-il, tu fuis à tire-d'aile,</l>
-                      <l>Ah ! ah ! c’est par l'Hymen que tu nous fais</l>
-                      <l>Lancer tes derniers traits.</l>
-                    </lg>
-                    <ab type="ornament">***</ab>
-                    <lg>
-                      <l>Ou tes liens, Hymen, sont trop durables,</l>
-                      <l>Ou tes plaisirs devroient être moins courts,</l>
-                      <l>Combien nous donnes-tu de jours aimables ?</l>
-                      <l>Un, deux, trois, tout au plus, fixent le cours </l>
-                      <l>Des plus tendres Amours.</l>
-                    </lg>
-                    <ab type="ornament">***</ab>
-                    <lg>
-                      <l>Credule Hymen, ta voix en vain rappelle</l>
-                      <l>Amour, Amour, pour combler nos souhaits ;</l>
-                      <l>Mais Amour est chien de Jean de Nivelle,</l>
-                      <l>Tais, tais, l'Hymen a beau courir aprés,</l>
-                      <l>Il fuit &amp; rompt ses traits. </l>
-                    </lg>
-                    </quote>
-                </div>  
-            </body>
+    <body>
+      <div>
+        <quote>
+          <label>SARABANDE.</label>
+          <label><hi rend="i">Par M. Dufreny</hi>.</label>
+          <lg>
+            <l>Trompeur Amour, ta voix sans cesse appelle</l>
+            <l>Hymen, Hymen, pour combler nos souhaits ;</l>
+            <l>Hymen vient-il, tu fuis à tire-d'aile,</l>
+            <l>Ah ! ah ! c’est par l'Hymen que tu nous fais</l>
+            <l>Lancer tes derniers traits.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l>Ou tes liens, Hymen, sont trop durables,</l>
+            <l>Ou tes plaisirs devroient être moins courts,</l>
+            <l>Combien nous donnes-tu de jours aimables ?</l>
+            <l>Un, deux, trois, tout au plus, fixent le cours </l>
+            <l>Des plus tendres Amours.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l>Credule Hymen, ta voix en vain rappelle</l>
+            <l>Amour, Amour, pour combler nos souhaits ;</l>
+            <l>Mais Amour est chien de Jean de Nivelle,</l>
+            <l>Tais, tais, l'Hymen a beau courir aprés,</l>
+            <l>Il fuit &amp; rompt ses traits. </l>
+          </lg>
+        </quote>
+      </div>
+    </body>
   </text>
 </TEI>

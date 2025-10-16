@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Une Fille de qualité, belle, jeune, &amp; toute aimable, ayant paru avec grand éclat dans
-          une Assemblée qui se fit un des derniers jours du Carnaval, a donné lieu à ces Vers, qui
-          ont esté mis en Air par un tres-habile Maistre.</p>
+    <body>
+      <div>
+        <p>Une Fille de qualité, belle, jeune, &amp; toute aimable, ayant paru avec grand éclat dans une Assemblée qui se fit un des derniers jours du Carnaval, a donné lieu à ces Vers, qui ont esté mis en Air par un tres-habile Maistre.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour
-              placer les Figures</hi> : l’Air qui commence par <hi rend="i">L'Hyver flêtrit toutes
-              choses</hi>, doit regarder la page 155.</note>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">L'Hyver flêtrit toutes choses</hi>, doit regarder la page 155.</note>
           <lg>
             <l rend="i">L'Hyver flêtrit toutes choses</l>
             <l rend="i">Quand il fait voir ses glaçons ;</l>
@@ -39,6 +35,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

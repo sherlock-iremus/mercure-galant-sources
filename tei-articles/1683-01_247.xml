@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Plusieurs autres Souverains ont envoyé aux Ambassadeurs, &amp; aux Envoyez qu’ils ont
-          icy, des Lettres de congratulation sur la Naissance de Monseigneur le Duc de Bourgogne.
-          Voicy un Madrigal que cette Naissance a fait faire à M<hi rend="sup">r</hi> Daubaine.</p>
+    <body>
+      <div>
+        <p>Plusieurs autres Souverains ont envoyé aux Ambassadeurs, &amp; aux Envoyez qu’ils ont icy, des Lettres de congratulation sur la Naissance de Monseigneur le Duc de Bourgogne. Voicy un Madrigal que cette Naissance a fait faire à M<hi rend="sup">r</hi> Daubaine.</p>
         <quote>
           <label>A MADAME<lb/>LA DAUPHINE.</label>
           <lg>
@@ -36,6 +33,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

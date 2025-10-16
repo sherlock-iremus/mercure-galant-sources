@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,9 +14,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Monsieur le Duc du Mayne partit ces jours passez pour aller prendre les Eaux de Barrege, par l’Avis de M<hi rend="sup">r</hi> Fagon, qui passe pour un des plus habiles Medecins que vous ayons, &amp; qui connoist le mieux les Simples. Ces Eaux avoient commencé à soulager ce jeune Prince dés l’année derniere. On ne peut avoir plus d’esprit pour son âge. Il a du Jugement, de la vivacité, du feu &amp; des reparties admirables. Voicy des Vers qui ont esté faits sur son départ par M<hi rend="sup">r</hi> le President Nicole, à qui les agreables Traductions qu’il a données au Public de nos Poëtes les plus Galans ont acquis tant d’estime &amp; de reputation. Il fait parler Clagny, Maison de plaisance où Monsieur le Duc du Mayne va se divertir quelquefois.</p>
         <quote>
           <label>CLAGNY, <lb/>A MONSEIGNEUR <lb/>LE DUC DU MAYNE, <lb/>Sur son Voyage de Barrege.</label>
@@ -54,6 +53,6 @@
           <l rend="i">De la Divinité qui préside en ces lieux.</l>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

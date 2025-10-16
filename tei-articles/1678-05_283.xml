@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
-        <p>J'adjoûte deux Madrigaux qui sont d’un caractere bien opposé. L'un est d’un Amant
-          content, &amp; l’autre d’un Amant plaintif. Il y en a toûjours eu de toutes manieres.</p>
+    <body>
+      <div>
+        <p>J'adjoûte deux Madrigaux qui sont d’un caractere bien opposé. L'un est d’un Amant content, &amp; l’autre d’un Amant plaintif. Il y en a toûjours eu de toutes manieres.</p>
         <quote rend="border">
           <label rend="center">L'AMANT CONTENT.<lb/><hi rend="sc">Madrigal.</hi></label>
           <lg>
@@ -42,6 +40,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

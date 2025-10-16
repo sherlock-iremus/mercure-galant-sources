@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,18 +14,17 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p>Voicy un Distique Latin en lettres numerales, sur l’heureuse entrée du Roy Philippe V, en Espagne.</p>
-          <quote>
-            <lg>
-              <l>IngreDItVr <hi rend="sc">p</hi>rInCeps hIspanICa regna <hi rend="sc">p</hi>hILIppVs,</l>
-              <l><hi rend="sc">h</hi>VnC CVnCtI eXCIpIVnt, &amp; probat Ipse DeVs.</l>
-            </lg>
-          </quote>
-          <p>Ces lettres numerales font DD CCCCCC. VVVV VV IIIIIIIIIII. qui marquent 1701.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>Voicy un Distique Latin en lettres numerales, sur l’heureuse entrée du Roy Philippe V, en Espagne.</p>
+        <quote>
+          <lg>
+            <l>IngreDItVr <hi rend="sc">p</hi>rInCeps hIspanICa regna <hi rend="sc">p</hi>hILIppVs,</l>
+            <l><hi rend="sc">h</hi>VnC CVnCtI eXCIpIVnt, &amp; probat Ipse DeVs.</l>
+          </lg>
+        </quote>
+        <p>Ces lettres numerales font DD CCCCCC. VVVV VV IIIIIIIIIII. qui marquent 1701.</p>
+      </div>
+    </body>
   </text>
 </TEI>

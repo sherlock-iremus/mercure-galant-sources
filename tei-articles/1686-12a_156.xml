@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p/>
-          <p>Je ne sçay, Madame, si je vous ay mandé, que les Dames Chanoinesses de Bouxfier en Lorraine ayant tenu Chapitre, y avoient élu pour leur Abbesse Madame Anne de Simiane de Moncha, Chanoinesse de Remiremont, que son mérite rend aussi considérable que sa naissance. [...] [On reprend ici les circonstances de son élection et la description des cérémonies organisées à cette occasion à l'issue desquelles :] [...]</p>
-          <p/>
-          <p>On chanta le Te Deum, où une belle Simphonie se fit entendre aussi bien à la Messe qui fut célébrée ensuite. Au sortir de l'Eglise, toutes les Dames [menèrent la nouvelle Abbesse] dans sa Maison, &amp; elle leur donna un repas très magnifique.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p/>
+        <p>Je ne sçay, Madame, si je vous ay mandé, que les Dames Chanoinesses de Bouxfier en Lorraine ayant tenu Chapitre, y avoient élu pour leur Abbesse Madame Anne de Simiane de Moncha, Chanoinesse de Remiremont, que son mérite rend aussi considérable que sa naissance. [...] [On reprend ici les circonstances de son élection et la description des cérémonies organisées à cette occasion à l'issue desquelles :] [...]</p>
+        <p/>
+        <p>On chanta le Te Deum, où une belle Simphonie se fit entendre aussi bien à la Messe qui fut célébrée ensuite. Au sortir de l'Eglise, toutes les Dames [menèrent la nouvelle Abbesse] dans sa Maison, &amp; elle leur donna un repas très magnifique.</p>
+      </div>
+    </body>
   </text>
 </TEI>

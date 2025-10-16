@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-
-        
-        <p>L'Abbaye de S. Hilaire, aux environs de Narbonne, a esté donnée au second Fils de M<hi rend="sup">r</hi> Lully Surintendant de la Musique de la Chambre du Roy. La mort de M<hi rend="sup">r</hi> l’Abbé de la Barre, Officier de sa Chapelle, la laissoit vacante. Si
-          celuy qui en est présentement pourveu, devient dans l’Eglise ce que M<hi rend="sup">r</hi> Lully son Pere est dans la Musique, il fera un des premier Hommes de son
-          Siecle.</p>
+    <body>
+      <div>
+        <p>L'Abbaye de S. Hilaire, aux environs de Narbonne, a esté donnée au second Fils de M<hi rend="sup">r</hi> Lully Surintendant de la Musique de la Chambre du Roy. La mort de M<hi rend="sup">r</hi> l’Abbé de la Barre, Officier de sa Chapelle, la laissoit vacante. Si celuy qui en est présentement pourveu, devient dans l’Eglise ce que M<hi rend="sup">r</hi> Lully son Pere est dans la Musique, il fera un des premier Hommes de son Siecle.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

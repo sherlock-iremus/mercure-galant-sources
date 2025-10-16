@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>M<hi rend="sup">r</hi> Chevalier a fait l’Air nouveau que je vous envoye <note resp="editor">L'air a également été publié dans le <hi rend="italic">XXV. livre d'airs de différents auteurs</hi> (Paris, Christophe Ballard, 1682, f. 20v-21, cf. LADDA 1682-16).</note>. Les
-          Connoisseurs l’ont fort approuvé. Ainsi j’ay sujet de croire que vous en serez
-          contente.</p>
+    <body>
+      <div>
+        <p>M<hi rend="sup">r</hi> Chevalier a fait l’Air nouveau que je vous envoye <note resp="editor">L'air a également été publié dans le <hi rend="italic">XXV. livre d'airs de différents auteurs</hi> (Paris, Christophe Ballard, 1682, f. 20v-21, cf. LADDA 1682-16).</note>. Les Connoisseurs l’ont fort approuvé. Ainsi j’ay sujet de croire que vous en serez contente.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour
-              placer les Figures</hi> : l’Air qui commence par <hi rend="i">Vous qui m’avez promis
-              un amour eternel</hi>, doit regarder la page 178.</note>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Vous qui m’avez promis un amour eternel</hi>, doit regarder la page 178.</note>
           <lg>
             <l rend="i">Vous qui m’avez promis une amour eternelle,</l>
             <l rend="i">Vous que j’aimois si tendrement,</l>
@@ -41,6 +37,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

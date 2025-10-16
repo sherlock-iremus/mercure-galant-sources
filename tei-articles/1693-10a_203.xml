@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-                
-                
-                <p>Les François continuent toujours à faire grand nombre
-                        de Prises sur les Ennemis, &amp; l’Espion, Armateur de Saint Malo, y a amené
-                        une Fluste de cent cinquante Tonneaux. Elle estoit chargée de Tabac de
-                        Virginie, &amp; autres diverses Marchandises.</p>
-
-            </div>
+    <body>
+      <div>
+        <p>Les François continuent toujours à faire grand nombre de Prises sur les Ennemis, &amp; l’Espion, Armateur de Saint Malo, y a amené une Fluste de cent cinquante Tonneaux. Elle estoit chargée de Tabac de Virginie, &amp; autres diverses Marchandises.</p>
+      </div>
     </body>
   </text>
 </TEI>

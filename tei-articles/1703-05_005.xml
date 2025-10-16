@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,24 +14,30 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p>Je suis persuadé que je ne puis mieux commencer ma Lettre que par les Vers suivans.</p>
-          <quote>
-            <label>AU ROY.</label>
-            <lg>
-              <l><hi rend="i">Deux mots, Grand Roy, daignes m’entendre.</hi></l>
-              <l><hi rend="i">Tu ne fais rien qui puisse me surprendre.</hi></l>
-              <l> <hi rend="i">La raison ? je la vais donner :</hi></l>
-              <l><hi rend="i">Par mon étonnement, j’offencerois ta gloire.</hi></l>
-              <l><hi rend="i">Vas, cours au Champs de Mars, reviens sans la Victoire,</hi></l>
-              <l> <hi rend="i">Et j’auray de quoy m’étonner.</hi></l>
-            </lg>
-          </quote>
-          <p>Ces Vers sont de M<hi rend="sup">r</hi> l’Abbé de Poissi. Ce qui suit estant à la gloire du mesme Monarque
-            doit meriter vôtre attention.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>Je suis persuadé que je ne puis mieux commencer ma Lettre que par les Vers suivans.</p>
+        <quote>
+          <label>AU ROY.</label>
+          <lg>
+            <l>
+              <hi rend="i">Deux mots, Grand Roy, daignes m’entendre.</hi>
+            </l>
+            <l>
+              <hi rend="i">Tu ne fais rien qui puisse me surprendre.</hi>
+            </l>
+            <l> <hi rend="i">La raison ? je la vais donner :</hi></l>
+            <l>
+              <hi rend="i">Par mon étonnement, j’offencerois ta gloire.</hi>
+            </l>
+            <l>
+              <hi rend="i">Vas, cours au Champs de Mars, reviens sans la Victoire,</hi>
+            </l>
+            <l> <hi rend="i">Et j’auray de quoy m’étonner.</hi></l>
+          </lg>
+        </quote>
+        <p>Ces Vers sont de M<hi rend="sup">r</hi> l’Abbé de Poissi. Ce qui suit estant à la gloire du mesme Monarque doit meriter vôtre attention.</p>
+      </div>
+    </body>
   </text>
 </TEI>

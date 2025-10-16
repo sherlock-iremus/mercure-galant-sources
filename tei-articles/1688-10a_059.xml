@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
+    <body>
+      <div>
         <p/>
-        <p>Aprés vous avoir parlé dans plusieurs Lettres des avantages qu’on tire des eaux minerales
-          pour beaucoup de maladies, je vous envoye aujourd’huy une description des Bains d’Aix en
-          Savoye, qui a esté leuë icy avec plaisir. On m’assure que la peinture des lieux y est fort
-          juste.</p>
+        <p>Aprés vous avoir parlé dans plusieurs Lettres des avantages qu’on tire des eaux minerales pour beaucoup de maladies, je vous envoye aujourd’huy une description des Bains d’Aix en Savoye, qui a esté leuë icy avec plaisir. On m’assure que la peinture des lieux y est fort juste.</p>
         <quote>
           <label>BAINS D’AIX<lb/>EN SAVOYE.</label>
           <lg>
@@ -133,6 +128,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

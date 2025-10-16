@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
         <p>Je croyois avoir finy l’Article des Bals, mais je ne me puis empescher de parler encor de trois ; ils ont fait tant de bruit, qu’ils méritent bien de trouver icy leur place.</p>
         <p>L’Assemblée qui se trouva à celuy qui se fit chez Monsieur de Mannevillette Secretaire des Commandemens de Monsieur, fut grande ; Leurs Altesses Royales y furent en Masque, &amp; jamais Bal n’en a esté si remply que le fut celuy-là. Il ne faut pas s’étonner de ce concours ; comme on sçait qu’il y en a tous les ans dans le mesme lieu, que rien n’y manque, &amp; que tout y est magnifique, chacun y court avec empressement.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

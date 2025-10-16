@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,20 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <label rend="center">À <lb/>MONSEIGNEUR <lb/>LE <lb/>DAUPHIN</label>
         <p><hi rend="sc">Monseigneur</hi>,</p>
-        <p rend="i">On se sert du Mercure pour avoir accés aupres de Vous ; &amp; puis que c’est un
-          Ouvrage public, il est juste qu’il favorise l’empressement que chacun a de vous y faire sa
-          cour. Ce qu’il a fait connoistre par tout de l’adresse merveilleuse qui vous fait si
-          avantageusement réüssir dans vos Exercices, a donné l’idée que vous allez voir. On n’a pû
-          apprendre avec combien de force &amp; de vigueur vous montez les Chevaux les plus
-          difficiles à estre domptez, sans s’imaginer un juste orgueil dans ces Animaux. On les a
-          fait parler sur la gloire qu’ils ont de servir à vous instruire, &amp; par une figure dont
-          l’usage vous est connu. Voicy, MONSEIGNEUR, en quels termes ils doivent s’estre
-          expliquez.</p>
+        <p rend="i">On se sert du Mercure pour avoir accés aupres de Vous ; &amp; puis que c’est un Ouvrage public, il est juste qu’il favorise l’empressement que chacun a de vous y faire sa cour. Ce qu’il a fait connoistre par tout de l’adresse merveilleuse qui vous fait si avantageusement réüssir dans vos Exercices, a donné l’idée que vous allez voir. On n’a pû apprendre avec combien de force &amp; de vigueur vous montez les Chevaux les plus difficiles à estre domptez, sans s’imaginer un juste orgueil dans ces Animaux. On les a fait parler sur la gloire qu’ils ont de servir à vous instruire, &amp; par une figure dont l’usage vous est connu. Voicy, MONSEIGNEUR, en quels termes ils doivent s’estre expliquez.</p>
         <quote>
           <lg>
             <l>Nous sommes destinez pour former un grand <hi rend="sc">Prince</hi></l>
@@ -99,16 +90,12 @@
             <l><space/>Aussitost nous l’y porterons.</l>
           </lg>
         </quote>
-        <p rend="i">Quoy que ces Vers ne soient pas de moy, j’ay crû, MONSEIGNEUR, que vous ne
-          desaprouveriez pas la liberté que je prens de les faire paroistre icy. Ils sont une marque
-          de l’admiration que tout le monde a pour Vous, &amp; je m’en fais l’interprete avec
-          beaucoup de plaisir pour avoir occasion de vous réïterer les assurances du profond respect
-          avec lequel je suis,</p>
+        <p rend="i">Quoy que ces Vers ne soient pas de moy, j’ay crû, MONSEIGNEUR, que vous ne desaprouveriez pas la liberté que je prens de les faire paroistre icy. Ils sont une marque de l’admiration que tout le monde a pour Vous, &amp; je m’en fais l’interprete avec beaucoup de plaisir pour avoir occasion de vous réïterer les assurances du profond respect avec lequel je suis,</p>
         <p rend="i">MONSEIGNEUR,</p>
         <p>Vostre tres-humble, tres-</p>
         <p>obeïssant, &amp; tres-fidele</p>
         <p>Serviteur,        D.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

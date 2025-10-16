@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
+    <body>
+      <div>
         <p>Vous auriez eu tout lieu de vous loüer de la mienne, à vous rendre compte des Harangues qui ont esté faites à Monsieur le Chancelier, outre celles dont je vous ay déja parlé, si je n’eusse appris qu’un Homme de beaucoup d’esprit qui s’est soigneusement trouvé à toutes, en fait un Recueil pour le Public. Il auroit déja paru, s’il n’avoit pas dessein d’y joindre les Discours qui se doivent encor faire à la gloire de ce grand Homme au Parlement &amp; au Grand Conseil, le 20. du Mois prochain. Il n’y aura rien de plus curieux que ce Recueil, &amp; celuy qui le fait ne pouvoit former une entreprise plus noble que de travailler à éterniser la memoire de ce digne Chef de la Justice.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

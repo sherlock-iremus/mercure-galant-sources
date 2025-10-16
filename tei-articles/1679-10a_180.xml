@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
+    <body>
+      <div>
         <quote>
           <label type="head">Zenobin,<lb/>nouvelle.</label>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Par grands vols &amp; succés
-            heureux,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Par grands vols &amp; succés heureux,</l>
           <l>Zénobin devenu redoutable sur l’onde,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Ne crût son nom assez fameux,</l>
           <l>S’il ne faisoit trembler tous les Marys du monde.</l>
@@ -37,8 +34,7 @@
           <l>Ainsi perdre son cœur n’est un fort grand dommage,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Et qui n’y perd rien davantage,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>En est quite à fort bon marché.</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Mais revenons à nostre
-            histoire,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Mais revenons à nostre histoire,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Laissons-là le raisonnement.</l>
           <l><seg type="tab">    </seg>Un jour voguoit sur l’onde arrogamment</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Un Vaisseau de triste mémoire ;</l>
@@ -51,10 +47,8 @@
           <l>C’est de peur de méprise aussi que franchement</l>
           <l>J’en ay donné le nom à ce Païs aimable,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Où chaque Belle avoit Amant,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Et chaque Amant, Belle
-            traitable.</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Croiroit-on qu’en lieu si
-            charmant</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Et chaque Amant, Belle traitable.</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Croiroit-on qu’en lieu si charmant</l>
           <l><seg type="tab">    </seg>Se rencontrast un Mary seulement ?</l>
           <l>S’en rencontra pourtant un seul que l’Hymenée</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Faisoit gémir dans ces lieux.</l>
@@ -63,18 +57,15 @@
           <l>Aussi plus d’une nuit leur parut une année ;</l>
           <l>Tous deux s’estoient aimez pendant assez longtemps,</l>
           <l>L’Amour seul avoit fait leurs plus cheres delices,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Mais par je ne sçay quels
-            caprices,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Mais par je ne sçay quels caprices,</l>
           <l>Ils crûrent que l’Hymen les rendroit plus contens.</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Hymen leur offre ses services ;</l>
           <l>Rendre service aux Gens n’est pourtant son mestier ;</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>C’est un contretemps quand on
-            s’aime,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>C’est un contretemps quand on s’aime,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Que de vouloir se marier ;</l>
           <l>Aussi bientost apres leur chagrin fust extréme.</l>
           <l><seg type="tab">    </seg>Un mois passé, l’Amour se retira,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Ils s’ennuyoient d’estre en
-            ménage,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Ils s’ennuyoient d’estre en ménage,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Le froid Hymen seul demeura.</l>
           <l><seg type="tab">    </seg>Que mariage est lors chose importune,</l>
           <l><seg type="tab">    </seg>Quand on en est une fois à ce point !</l>
@@ -86,8 +77,7 @@
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Galante avanture il cherchoit.</l>
           <l><seg type="tab">    </seg>Il voit l’Epouse, &amp; l’Epouse le voit,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Qui cherchoit galante avanture.</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>C’estoit assez pour la
-            conclure ;</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>C’estoit assez pour la conclure ;</l>
           <l>Un <hi rend="i">je vous aime</hi> dit, un <hi rend="i">je vous aime aussy</hi>,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Fait toute la cerémonie.</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Dans peu soûpirs ont réüssy,</l>
@@ -104,8 +94,7 @@
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Moy, qui n’ay jamais soûpiré ?</l>
           <l>Toûjours il est certain que la nuit ils passerent</l>
           <l><seg type="tab">    </seg>Ensemblement, mesme avec quelque émoy,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Et que les Dieux ils
-            offencerent,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Et que les Dieux ils offencerent,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Qui mirent tout en desarroy.</l>
           <l>(Dieux froids s’entend) car Dieux galans en rirent,</l>
           <l>Teste-à-testes pour eux ne sont griefs pechez,</l>
@@ -138,18 +127,15 @@
           <l>Car d’un petit peché c’est l’ordinaire sort.</l>
           <l>Le grand fait esquiver l’indiscrete lumiere ;</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Sombre nuit, silence, mistere,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Tout se trouve avec luy
-            d’accord.</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Tout se trouve avec luy d’accord.</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Petit peché tout au contraire,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Se découvre presque d’abord ;</l>
           <l>Il est bien peu de Gens qui voulussent en faire.</l>
           <l>Or ce Portrait donné, dans la Mer fut perdu,</l>
           <l>Et quelque temps apres, par la Mer fut rendu.</l>
           <l>Le Peuple accourt, il croit que la Déesse</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Qui fait languir Hommes &amp;
-            Dieux,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Pour luy témoigner sa
-            tendresse,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Qui fait languir Hommes &amp; Dieux,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Pour luy témoigner sa tendresse,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Donne son Portrait à ces lieux.</l>
           <l>On le porte à son Temple en magnifique pompe,</l>
           <l>Mille vœux en passant le Portrait recevoit,</l>
@@ -169,16 +155,12 @@
           <l>Zénobin par hazard se trouvant pres de luy,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Luy dit pour flater son ennuy ;</l>
           <l><hi rend="i">Cher Amy, lors qu’on a chez soy telle Déesse</hi>,</l>
-          <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg>Il ne faut point estre
-            jaloux,</l>
-          <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg>Si chacun à l’envy
-            s’esmpresse,</l>
-          <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg>Quand nostre encens pour
-            elle cesse,</l>
-          <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg>À luy rendre hommage pour
-            nous. </l>
+          <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg>Il ne faut point estre jaloux,</l>
+          <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg>Si chacun à l’envy s’esmpresse,</l>
+          <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg>Quand nostre encens pour elle cesse,</l>
+          <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg>À luy rendre hommage pour nous. </l>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

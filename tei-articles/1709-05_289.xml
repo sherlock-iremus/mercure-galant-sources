@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,31 +14,43 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-
-<p>Pendant que ces nouveaux époux goûtent les plaisirs que leurs donnent leurs jeunes années. Je passe aux effets que produit sur la Terre le retour de la saison nouvelle que l’on nomme Printemps.</p>
-<quote>
-  <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">Que ne devons-nous pas au retour du Printemps</hi>, doit regarder la page 289.</note>
-<lg>
-<l><hi rend="i">Que ne devons-nous pas au retour du Printemps ?</hi></l>
-<l> <hi rend="i">Il chasse de l’Hiver l’inhumaine froidure</hi></l>
-<l> <hi rend="i">Paré de mille fleurs, ombragé de verdure,</hi></l>
-<l><hi rend="i">Il enrichit nos bois, il embellit nos Champs.</hi></l>
-<l><hi rend="i">Que ne devons-nous pas à l’Auteur du Printemps ?</hi></l>
-<l><hi rend="i">Il rend à nos ruisseaux leur cours &amp; leur murmure,</hi></l>
-<l> <hi rend="i">Il redonne aux Oiseaux leurs chants,</hi></l>
-<l> <hi rend="i">Il ranime nos cœurs &amp; toute la nature,</hi></l>
-<l><hi rend="i">Redit cent &amp; cent fois dans ces jeux innocens</hi></l>
-<l><hi rend="i">Que ne devons-nous pas, &amp;c.</hi></l>
-</lg>
-</quote>
-  <ref target="images/1709-05_289.JPG">
-    <figure>
-      <graphic url="images/1709-05_289.JPG"/>
-    </figure>
-  </ref>
-</div>
-</body>
+    <body>
+      <div>
+        <p>Pendant que ces nouveaux époux goûtent les plaisirs que leurs donnent leurs jeunes années. Je passe aux effets que produit sur la Terre le retour de la saison nouvelle que l’on nomme Printemps.</p>
+        <quote>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">Que ne devons-nous pas au retour du Printemps</hi>, doit regarder la page 289.</note>
+          <lg>
+            <l>
+              <hi rend="i">Que ne devons-nous pas au retour du Printemps ?</hi>
+            </l>
+            <l> <hi rend="i">Il chasse de l’Hiver l’inhumaine froidure</hi></l>
+            <l> <hi rend="i">Paré de mille fleurs, ombragé de verdure,</hi></l>
+            <l>
+              <hi rend="i">Il enrichit nos bois, il embellit nos Champs.</hi>
+            </l>
+            <l>
+              <hi rend="i">Que ne devons-nous pas à l’Auteur du Printemps ?</hi>
+            </l>
+            <l>
+              <hi rend="i">Il rend à nos ruisseaux leur cours &amp; leur murmure,</hi>
+            </l>
+            <l> <hi rend="i">Il redonne aux Oiseaux leurs chants,</hi></l>
+            <l> <hi rend="i">Il ranime nos cœurs &amp; toute la nature,</hi></l>
+            <l>
+              <hi rend="i">Redit cent &amp; cent fois dans ces jeux innocens</hi>
+            </l>
+            <l>
+              <hi rend="i">Que ne devons-nous pas, &amp;c.</hi>
+            </l>
+          </lg>
+        </quote>
+        <ref target="images/1709-05_289.JPG">
+          <figure>
+            <graphic url="images/1709-05_289.JPG"/>
+          </figure>
+        </ref>
+      </div>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-          
-          <p/>
-          <p>M<hi rend="sup">r</hi> de Vaillant, Maire de la Ville de Chaulny, y fit mettre toute la Bourgeoisie sous les Armes. Elle fut conduite en tres-bon ordre à l’Eglise de Nostre-Dame, où l’on chanta le <hi rend="i">Te Deum</hi> en Musique.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p/>
+        <p>M<hi rend="sup">r</hi> de Vaillant, Maire de la Ville de Chaulny, y fit mettre toute la Bourgeoisie sous les Armes. Elle fut conduite en tres-bon ordre à l’Eglise de Nostre-Dame, où l’on chanta le <hi rend="i">Te Deum</hi> en Musique.</p>
+      </div>
+    </body>
   </text>
 </TEI>

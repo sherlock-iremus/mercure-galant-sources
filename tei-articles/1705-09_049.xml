@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p>Quoique les Lutheriens de Hambourg ayent censuré le Livre de Mr Poiret, <hi rend="i">de l’Education des enfans</hi>, comme contenant la doctrine du pur Sabellianisme, ainsi que Mr Basnage l’a remarqué dans son Histoire des ouvrages des Sçavans de 1694. page 189. On en vient de faire une Edition nouvelle à Amsterdam, in 12. qui se vend chez Henry Desbordes.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>Quoique les Lutheriens de Hambourg ayent censuré le Livre de Mr Poiret, <hi rend="i">de l’Education des enfans</hi>, comme contenant la doctrine du pur Sabellianisme, ainsi que Mr Basnage l’a remarqué dans son Histoire des ouvrages des Sçavans de 1694. page 189. On en vient de faire une Edition nouvelle à Amsterdam, in 12. qui se vend chez Henry Desbordes.</p>
+      </div>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,27 +14,30 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-
-<p>Les Vers Latins qui suivent, sont du Pere d’Augier, Jesuite.</p>
-<quote>
-<lg>
-<l><hi rend="i">Victor abit victus, latè vastavit Olivas,</hi></l>
-<l><hi rend="i">Intactas Lauros, linquere cura fuit.</hi></l>
-</lg>
-</quote>
-<quote>
-<label>TRADUCTION.</label>
-<lg>
-<l>Victor étant vaincu, pour cacher sa défaite,</l>
-<l>Fit un vaste dégast des Forests d’Oliviers ;</l>
-<l> Mais il eut soin dans sa retraite,</l>
-<l> De ne pas toucher aux Lauriers.</l>
-</lg>
-<p>De la Marés, C. ****</p>
-</quote>
-</div>
-</body>
+    <body>
+      <div>
+        <p>Les Vers Latins qui suivent, sont du Pere d’Augier, Jesuite.</p>
+        <quote>
+          <lg>
+            <l>
+              <hi rend="i">Victor abit victus, latè vastavit Olivas,</hi>
+            </l>
+            <l>
+              <hi rend="i">Intactas Lauros, linquere cura fuit.</hi>
+            </l>
+          </lg>
+        </quote>
+        <quote>
+          <label>TRADUCTION.</label>
+          <lg>
+            <l>Victor étant vaincu, pour cacher sa défaite,</l>
+            <l>Fit un vaste dégast des Forests d’Oliviers ;</l>
+            <l> Mais il eut soin dans sa retraite,</l>
+            <l> De ne pas toucher aux Lauriers.</l>
+          </lg>
+          <p>De la Marés, C. ****</p>
+        </quote>
+      </div>
+    </body>
   </text>
 </TEI>

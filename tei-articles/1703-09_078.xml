@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,20 +14,26 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p>Mr Fuzelier, dont les Vers sont estimez, &amp; qui a autant d’érudition que de
-            vivacité, a fait sur le sujet de cette conversation, le Madrigal qui suit.</p>
-          <quote>
-            <lg>
-              <l><hi rend="i">C’est en vain que Baste &amp; Manille,</hi></l>
-              <l><hi rend="i">Pretendent chez Nanette à l’Empire du jeu,</hi></l>
-              <l><hi rend="i">Ils étallent en vain, leur merite avec feu,</hi></l>
-              <l><hi rend="i">Les Dames, de tout temps, ont esté pour Spadille.</hi></l>
-            </lg>
-          </quote>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>Mr Fuzelier, dont les Vers sont estimez, &amp; qui a autant d’érudition que de vivacité, a fait sur le sujet de cette conversation, le Madrigal qui suit.</p>
+        <quote>
+          <lg>
+            <l>
+              <hi rend="i">C’est en vain que Baste &amp; Manille,</hi>
+            </l>
+            <l>
+              <hi rend="i">Pretendent chez Nanette à l’Empire du jeu,</hi>
+            </l>
+            <l>
+              <hi rend="i">Ils étallent en vain, leur merite avec feu,</hi>
+            </l>
+            <l>
+              <hi rend="i">Les Dames, de tout temps, ont esté pour Spadille.</hi>
+            </l>
+          </lg>
+        </quote>
+      </div>
+    </body>
   </text>
 </TEI>

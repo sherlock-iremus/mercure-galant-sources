@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>M<hi rend="sup">r</hi> de Santeüil, Chanoine de S. Victor, a fait des Vers Latins pour le
-          Roy. Il ne faut rien vous dire de plus pour vous faire entendre qu’il a fait un fort bel
-          Ouvrage, puis qu’il a un genie superieur qui luy attire la faveur des Muses. Je ne doute
-          point, Madame, que vous n’en lisiez la Traduction avec plaisir. Elle est de M<hi rend="sup">r</hi> Diereville, dont vous avez estimé toutes les Pieces que je vous ay
-          envoyées de sa composition.</p>
+    <body>
+      <div>
+        <p>M<hi rend="sup">r</hi> de Santeüil, Chanoine de S. Victor, a fait des Vers Latins pour le Roy. Il ne faut rien vous dire de plus pour vous faire entendre qu’il a fait un fort bel Ouvrage, puis qu’il a un genie superieur qui luy attire la faveur des Muses. Je ne doute point, Madame, que vous n’en lisiez la Traduction avec plaisir. Elle est de M<hi rend="sup">r</hi> Diereville, dont vous avez estimé toutes les Pieces que je vous ay envoyées de sa composition.</p>
         <quote>
-          <label>LA FRANCE<lb/>A M<hi rend="sup">r</hi>
-            <hi rend="sc">de Santeüil.</hi></label>
+          <label>LA FRANCE<lb/>A M<hi rend="sup">r</hi> <hi rend="sc">de Santeüil.</hi></label>
           <lg>
             <l rend="i">Augustes Habitans du celeste sejour,</l>
             <l rend="i">Si pour la Terre encor vous avez quelque amour,</l>
@@ -82,7 +76,9 @@
             <l rend="i">Qu’employoient les Plaideurs à s’arracher leurs biens.</l>
             <l rend="i">Voy l’ordre qu’il a mis luy-mesme à ses Finances,</l>
             <l rend="i">Et par quels Reglemens, par quelles Ordonnances</l>
-            <l><hi rend="i">Dans ses Tresors pillez il a fait raporter</hi></l>
+            <l>
+              <hi rend="i">Dans ses Tresors pillez il a fait raporter</hi>
+            </l>
             <l rend="i">Ce que d’injustes mains en sceurent écarter.</l>
             <l rend="i">Tu sçais le châtiment de ces horribles crimes,</l>
             <l rend="i">Dont le secret fatal a fait tant de victimes,</l>
@@ -97,17 +93,23 @@
             <l rend="i">Contemple ce Heros, &amp; dans ses fiers regards</l>
             <l rend="i">Reconnois le courage &amp; la grandeur de Mars.</l>
             <l rend="i">Il semble ne vouloir respirer que la Guerre,</l>
-            <l><hi rend="i">Et porter en tous lieux les coups de son Tonnere ;</hi></l>
+            <l>
+              <hi rend="i">Et porter en tous lieux les coups de son Tonnere ;</hi>
+            </l>
             <l rend="i">Mais toûjours sa clemence a desarmé son bras.</l>
             <l rend="i">Il préfere la Paix au succez des Combats,</l>
             <l rend="i">Quand également fort sur la Terre &amp; sur l’Onde,</l>
-            <l><hi rend="i">Il pourroit, s’il vouloit, être Maistre du Monde.</hi></l>
+            <l>
+              <hi rend="i">Il pourroit, s’il vouloit, être Maistre du Monde.</hi>
+            </l>
             <l rend="i">Ses Ennemis vaincus adorent leur Vainqueur,</l>
             <l rend="i">Dans leur propre defaite ils trouvent leur bonheur,</l>
             <l rend="i">Si-tost qu’il en triomphe il en devient le Pere,</l>
             <l rend="i">Et s’il fait ressentir l’effet de sa colere,</l>
             <l rend="i">Sçache que c’est de voir détruits tout à la fois</l>
-            <l><hi rend="i">Le Culte des Autels &amp; le pouvoir des Rois.</hi></l>
+            <l>
+              <hi rend="i">Le Culte des Autels &amp; le pouvoir des Rois.</hi>
+            </l>
             <l rend="i"> Venez, Filles du Ciel, celebrer sur la Terre</l>
             <l rend="i">Un Heros qui malgré les fureurs d’une Guerre</l>
             <l rend="i">Qu’un monde d’Ennemis ouvre de toutes parts,</l>
@@ -141,6 +143,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

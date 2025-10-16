@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,19 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Je vous envoye deux Sonnets que j’ay reçeus d’Allemagne. Ils sont tous deux sur la Paix,
-          quoy que diférens de stile. M<hi rend="sup">r</hi> de la Barre Matéï en est l’Autheur.
-          C'est un Gentilhomme d’un fort grand mérite, auquel Sa Majesté, par estime particuliere, a
-          témoigné avoir envie de faire du bien. C'est là-dessus qu’il a fait le premier de ces
-          Sonnets. Il fut presenté au Roy ces jours passez par une Personne de tres-grande qualité.
-          Le second est un Inpromptu pour M<hi rend="sup">r</hi> le Comte de Louvigny, qui, comme
-          vous sçavez, est un des plus braves Hommes qu’il y ait dans le Party de l’Empereur. Il y a
-          peu de temps qu’il traita magnifiquement toute la Cour de Monsieur le Duc de Hannover,
-          dans son Quartier sur le chemin d’Embs, où ce Prince alloit aux Eaux. M<hi rend="sup">r</hi> de la Barre Matéï estoit du Régal, &amp; fit ce Sonnet en buvant à la santé de
-          ce fameux Commandant.</p>
+    <body>
+      <div>
+        <p>Je vous envoye deux Sonnets que j’ay reçeus d’Allemagne. Ils sont tous deux sur la Paix, quoy que diférens de stile. M<hi rend="sup">r</hi> de la Barre Matéï en est l’Autheur. C'est un Gentilhomme d’un fort grand mérite, auquel Sa Majesté, par estime particuliere, a témoigné avoir envie de faire du bien. C'est là-dessus qu’il a fait le premier de ces Sonnets. Il fut presenté au Roy ces jours passez par une Personne de tres-grande qualité. Le second est un Inpromptu pour M<hi rend="sup">r</hi> le Comte de Louvigny, qui, comme vous sçavez, est un des plus braves Hommes qu’il y ait dans le Party de l’Empereur. Il y a peu de temps qu’il traita magnifiquement toute la Cour de Monsieur le Duc de Hannover, dans son Quartier sur le chemin d’Embs, où ce Prince alloit aux Eaux. M<hi rend="sup">r</hi> de la Barre Matéï estoit du Régal, &amp; fit ce Sonnet en buvant à la santé de ce fameux Commandant.</p>
         <quote>
           <label type="head">Au Roy.</label>
           <label type="head">Sonnet.</label>
@@ -52,6 +42,6 @@
           <l>Ce sont deux intérests que je dois maintenir.</l>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

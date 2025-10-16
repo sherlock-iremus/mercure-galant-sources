@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,20 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
+    <body>
+      <div>
         <p/>
-        <p>Clermont, petite Ville de Picardie, n'a pas oublié de marquer son zele. Les plaisirs y
-          commencerent par une marche que firent les Habitans du Fauxbourg, ayant M<hi rend="sup">r</hi> Bonvillé pour Capitaine à leur teste. Ils marcherent en fort bon ordre, Tambour
-          batant, jusques à la Ville, où ils furent reçeus par les Echevins, qui les prierent de
-          partager le divertissement du Feu de joye. M<hi rend="sup">r</hi> de Reberque, Huissier du
-          Cabinet du Roy, qui a eu l'honneur de servir Sa Majesté plusieurs années en qualité de
-          Commissaire General des Vivres dans ses Armées, se distingua fort dans cette Feste. Il fit
-          couler une Fontaine de Vin pendant tout le jour, traita splendidement Messieurs de Ville,
-          &amp; donna le soir le Bal aux Dames, avec une Magnifique Collation.</p>
+        <p>Clermont, petite Ville de Picardie, n'a pas oublié de marquer son zele. Les plaisirs y commencerent par une marche que firent les Habitans du Fauxbourg, ayant M<hi rend="sup">r</hi> Bonvillé pour Capitaine à leur teste. Ils marcherent en fort bon ordre, Tambour batant, jusques à la Ville, où ils furent reçeus par les Echevins, qui les prierent de partager le divertissement du Feu de joye. M<hi rend="sup">r</hi> de Reberque, Huissier du Cabinet du Roy, qui a eu l'honneur de servir Sa Majesté plusieurs années en qualité de Commissaire General des Vivres dans ses Armées, se distingua fort dans cette Feste. Il fit couler une Fontaine de Vin pendant tout le jour, traita splendidement Messieurs de Ville, &amp; donna le soir le Bal aux Dames, avec une Magnifique Collation.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,170 +1,21 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
-        <p />
+        <p/>
       </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text>
-
     <body>
-      <div>
-
-        
-          tres-chevaleureux Chevalier
-
-        
-          <title>Extraordinaire du Mercure galant</title>, quartier d’avril 1679 (tome VI), p.
-
-        <label>LETTRE <lb />EN VIEUX LANGAGE, <lb />
-          <hi rend="i">À tres-galant, tres-preux,
-          tres-loyal &amp; tres-chevaleureux Chevalier Mercurius.</hi>
-        </label>
-        <p>Or sus, Gentil Chevalier, tant outrecuidé ne suis que de mébatre à l’encontre de vous,
-          qu’êtes fort, &amp;
-          addextré en toute puissance d’armes faées, &amp; science de bon parler, &amp; à qui grand
-          los est du pour vos
-          vertus qui reluisent si tres-fort, que oncques ne vis mortel plus gracieux, à tant que
-          femelles d’icetuy Païs
-          sont ébahies de vostre accortise en beaux dicts &amp; excellens gestes dont vostre labeur
-          est illustré.
-          Partant moy, pauvret Jouvenceau, à qui default toute cautelle, suis desireux de vostre
-          accointance, si êtes
-          benevole à mon vouloir, grand soulas auray dans ma douloureuse tribulation d’amour, &amp;
-          Dieu guerdonnera
-          vostre benignité. A donc, Beau Sire, sçachez que mainte flamêche d’amour m’époint pour
-          tant parfaite beauté
-          que mon cœur en panthele d’émoy.</p>
-        <quote>
-          <lg>
-            <l rend="i">Or la Pucelle pour qui Cupidon</l>
-            <l rend="i">M’at enflambé de l’amoureux brandon,</l>
-            <l rend="i">A de ses yeux la couleur radieuse,</l>
-            <l rend="i">
-              <space rend="tab"> </space>
-              <space rend="tab"> </space>Sa tendre peau en blancheur
-              glorieuse, </l>
-            <l rend="i">Nez bien tourné, chevelure honorable,</l>
-            <l rend="i">Si que l’Aurore en est bien lamentable :</l>
-            <l rend="i">
-              <space rend="tab"> </space>
-              <space rend="tab"> </space>Finablement il n’est une
-              parcelle </l>
-            <l rend="i">De tout son Corps qui ne soit gente &amp; belle,</l>
-            <l rend="i">
-              <space rend="tab"> </space>
-              <space rend="tab"> </space>Et ce petit Amour qui tout
-              semond, </l>
-            <l rend="i">
-              <space rend="tab"> </space>
-              <space rend="tab"> </space>D’une Sagette aussitost me
-              confond, </l>
-            <l rend="i">
-              <space rend="tab"> </space>
-              <space rend="tab"> </space>Que je la vis, &amp; bien avant
-              me fiche </l>
-            <l rend="i">
-              <space rend="tab"> </space>
-              <space rend="tab"> </space>Iceluy dard dont il n’est pas
-              trop chiche, </l>
-            <l rend="i">
-              <space rend="tab"> </space>
-              <space rend="tab"> </space>Ores je brûle &amp; ards d’un
-              feu pressant </l>
-            <l rend="i">
-              <space rend="tab"> </space>
-              <space rend="tab"> </space>Qui jusqu’aux os &amp; moüelle
-              me descend. </l>
-          </lg>
-        </quote>
-        <p>O moy chetif, ce me fis-je à part moy, Convenante &amp; fine beauté plus charmante qu’une
-          Colombelle, si-bien
-          m’a éprins que ne clos plus la prunelle, ains suis tout aheurté de tant pognant esclandre,
-          &amp; vilaine
-          perplexité si-toit ne bien heures le cœur angoisseux de tou éploré Amant : heureux cil qui
-          par Mariage te fera
-          conjoint, mais à si haut penser n’ose voguer mon ame, que ne m’ayes octroyé d’estre à ton
-          servage, parquoy si
-          es pourveuë de mansuetude, ne laisses mourir icetuy ton angoisseux serf que à toy s’affie
-          par grande loyauté
-          de perdurable Chevalerie. Tels dicts je tins à ma Belle navre cœur, mais</p>
-        <quote>
-          <lg>
-            <l rend="i">Point n’allegea ce cœur plus dur que Roc</l>
-            <l rend="i">L’élan piteux d’un Amant qui lamente ;</l>
-            <l rend="i">
-              <space rend="tab"> </space>
-              <space rend="tab"> </space>Sa dureté ainsi que vitupere </l>
-            <l rend="i">Veut toûjours fuir l’œuvre &amp; le nom d’Amante.</l>
-            <l rend="i">
-              <space rend="tab"> </space>
-              <space rend="tab"> </space>Déconforté ne faut plus que
-              j’espere, </l>
-            <l rend="i">
-              <space rend="tab"> </space>
-              <space rend="tab"> </space>Issir ne veut pitié de son
-              estoc. </l>
-            <l rend="i">
-              <space rend="tab"> </space>
-              <space rend="tab"> </space>Las que faut-il que je fasse en
-              ma braise, </l>
-            <l rend="i">
-              <space rend="tab"> </space>
-              <space rend="tab"> </space>Si son bel œil aussitost ne
-              l’appaise ? </l>
-            <l rend="i">
-              <space rend="tab"> </space>
-              <space rend="tab"> </space>Que deviendray-je en ce maudit
-              méchef </l>
-            <l rend="i">
-              <space rend="tab"> </space>
-              <space rend="tab"> </space>Qui décourage ores mon pauvre
-              chef ? </l>
-            <l rend="i">
-              <space rend="tab"> </space>
-              <space rend="tab"> </space>Peste du Dieu qui me fait
-              larmoyer, </l>
-            <l rend="i">
-              <space rend="tab"> </space>
-              <space rend="tab"> </space>Pour qui si mal sçait mon cœur
-              festoyer. </l>
-            <l rend="i">
-              <space rend="tab"> </space>
-              <space rend="tab"> </space>Jus les arçons ce Dieu
-              porte-bandeau </l>
-            <l rend="i">
-              <space rend="tab"> </space>
-              <space rend="tab"> </space>Malencontreux m’est venu
-              déconfire, </l>
-            <l rend="i">
-              <space rend="tab"> </space>
-              <space rend="tab"> </space>Plus je ne puis suporter le
-              fardeau </l>
-            <l rend="i">
-              <space rend="tab"> </space>
-              <space rend="tab"> </space>De mon martir qui bientost va
-              m’occire. </l>
-          </lg>
-        </quote>
-        <p>Tant me vilipenda la Belle par l’aiguillon de sa dure felonie, que suis tout deconforté,
-          &amp; boursouflé
-          d’ire. Partant, agreable Sire, en cette mienne anxieté ne puis trouver meilleur réconfort
-          dans les pleurs qui
-          me font bondir, que d’aller requerir joyeuseté dans vos devis plus doux que Nectar,
-          parquoy vous prie n’être
-          pas illec dans vostre cour si rigoureux ne si coy que d’éconduire mon oraison, car ne
-          sçauroye goûter plus
-          émerveillable liesse que d’être vostre aimé, &amp; féal serviteur.</p>
-        <label rend="sc right">Le Chevalier Dantonius.</label>
-      </div>
+      <div> tres-chevaleureux Chevalier <title>Extraordinaire du Mercure galant</title>, quartier d’avril 1679 (tome VI), p. <label>LETTRE <lb/>EN VIEUX LANGAGE, <lb/> <hi rend="i">À tres-galant, tres-preux, tres-loyal &amp; tres-chevaleureux Chevalier Mercurius.</hi> </label> <p>Or sus, Gentil Chevalier, tant outrecuidé ne suis que de mébatre à l’encontre de vous, qu’êtes fort, &amp; addextré en toute puissance d’armes faées, &amp; science de bon parler, &amp; à qui grand los est du pour vos vertus qui reluisent si tres-fort, que oncques ne vis mortel plus gracieux, à tant que femelles d’icetuy Païs sont ébahies de vostre accortise en beaux dicts &amp; excellens gestes dont vostre labeur est illustré. Partant moy, pauvret Jouvenceau, à qui default toute cautelle, suis desireux de vostre accointance, si êtes benevole à mon vouloir, grand soulas auray dans ma douloureuse tribulation d’amour, &amp; Dieu guerdonnera vostre benignité. A donc, Beau Sire, sçachez que mainte flamêche d’amour m’époint pour tant parfaite beauté que mon cœur en panthele d’émoy.</p> <quote><lg><l rend="i">Or la Pucelle pour qui Cupidon</l><l rend="i">M’at enflambé de l’amoureux brandon,</l><l rend="i">A de ses yeux la couleur radieuse,</l><l rend="i"><space rend="tab"> </space><space rend="tab"> </space>Sa tendre peau en blancheur glorieuse, </l><l rend="i">Nez bien tourné, chevelure honorable,</l><l rend="i">Si que l’Aurore en est bien lamentable :</l><l rend="i"><space rend="tab"> </space><space rend="tab"> </space>Finablement il n’est une parcelle </l><l rend="i">De tout son Corps qui ne soit gente &amp; belle,</l><l rend="i"><space rend="tab"> </space><space rend="tab"> </space>Et ce petit Amour qui tout semond, </l><l rend="i"><space rend="tab"> </space><space rend="tab"> </space>D’une Sagette aussitost me confond, </l><l rend="i"><space rend="tab"> </space><space rend="tab"> </space>Que je la vis, &amp; bien avant me fiche </l><l rend="i"><space rend="tab"> </space><space rend="tab"> </space>Iceluy dard dont il n’est pas trop chiche, </l><l rend="i"><space rend="tab"> </space><space rend="tab"> </space>Ores je brûle &amp; ards d’un feu pressant </l><l rend="i"><space rend="tab"> </space><space rend="tab"> </space>Qui jusqu’aux os &amp; moüelle me descend. </l></lg></quote> <p>O moy chetif, ce me fis-je à part moy, Convenante &amp; fine beauté plus charmante qu’une Colombelle, si-bien m’a éprins que ne clos plus la prunelle, ains suis tout aheurté de tant pognant esclandre, &amp; vilaine perplexité si-toit ne bien heures le cœur angoisseux de tou éploré Amant : heureux cil qui par Mariage te fera conjoint, mais à si haut penser n’ose voguer mon ame, que ne m’ayes octroyé d’estre à ton servage, parquoy si es pourveuë de mansuetude, ne laisses mourir icetuy ton angoisseux serf que à toy s’affie par grande loyauté de perdurable Chevalerie. Tels dicts je tins à ma Belle navre cœur, mais</p> <quote><lg><l rend="i">Point n’allegea ce cœur plus dur que Roc</l><l rend="i">L’élan piteux d’un Amant qui lamente ;</l><l rend="i"><space rend="tab"> </space><space rend="tab"> </space>Sa dureté ainsi que vitupere </l><l rend="i">Veut toûjours fuir l’œuvre &amp; le nom d’Amante.</l><l rend="i"><space rend="tab"> </space><space rend="tab"> </space>Déconforté ne faut plus que j’espere, </l><l rend="i"><space rend="tab"> </space><space rend="tab"> </space>Issir ne veut pitié de son estoc. </l><l rend="i"><space rend="tab"> </space><space rend="tab"> </space>Las que faut-il que je fasse en ma braise, </l><l rend="i"><space rend="tab"> </space><space rend="tab"> </space>Si son bel œil aussitost ne l’appaise ? </l><l rend="i"><space rend="tab"> </space><space rend="tab"> </space>Que deviendray-je en ce maudit méchef </l><l rend="i"><space rend="tab"> </space><space rend="tab"> </space>Qui décourage ores mon pauvre chef ? </l><l rend="i"><space rend="tab"> </space><space rend="tab"> </space>Peste du Dieu qui me fait larmoyer, </l><l rend="i"><space rend="tab"> </space><space rend="tab"> </space>Pour qui si mal sçait mon cœur festoyer. </l><l rend="i"><space rend="tab"> </space><space rend="tab"> </space>Jus les arçons ce Dieu porte-bandeau </l><l rend="i"><space rend="tab"> </space><space rend="tab"> </space>Malencontreux m’est venu déconfire, </l><l rend="i"><space rend="tab"> </space><space rend="tab"> </space>Plus je ne puis suporter le fardeau </l><l rend="i"><space rend="tab"> </space><space rend="tab"> </space>De mon martir qui bientost va m’occire. </l></lg></quote> <p>Tant me vilipenda la Belle par l’aiguillon de sa dure felonie, que suis tout deconforté, &amp; boursouflé d’ire. Partant, agreable Sire, en cette mienne anxieté ne puis trouver meilleur réconfort dans les pleurs qui me font bondir, que d’aller requerir joyeuseté dans vos devis plus doux que Nectar, parquoy vous prie n’être pas illec dans vostre cour si rigoureux ne si coy que d’éconduire mon oraison, car ne sçauroye goûter plus émerveillable liesse que d’être vostre aimé, &amp; féal serviteur.</p> <label rend="sc right">Le Chevalier Dantonius.</label> </div>
     </body>
   </text>
 </TEI>

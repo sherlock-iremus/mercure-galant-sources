@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,19 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Je ne vous dis rien de la Chanson dont vous allez lire les paroles. Vous en connoîtrez le prix en les chantant.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air doit regarder la page 244.</note>
-          <lg><l rend="i">Berger, gardez vostre cœur pour une autre,</l>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air doit regarder la page 244.</note>
+          <lg>
+            <l rend="i">Berger, gardez vostre cœur pour une autre,</l>
             <l rend="i">Le soin de mon troupeau suffit pour m'occuper.</l>
             <l rend="i">L'on voit trop souvent échaper</l>
             <l rend="i">Un cœur leger comme le vostre.</l>
-            <l rend="i">Berger, gardez vostre cœur pour une autre.</l></lg>
+            <l rend="i">Berger, gardez vostre cœur pour une autre.</l>
+          </lg>
         </quote>
         <ref target="images/1697-07_244.JPG">
           <figure>
@@ -32,6 +34,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

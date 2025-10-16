@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Je vous envoye des Paroles d´un Amant, qu´un habile Maistre a mises en Air. Vous jugez
-          bien, puis qu´elles sont d´un Amant, qu´il faut qu´elles soient plaintives.</p>
+    <body>
+      <div>
+        <p>Je vous envoye des Paroles d´un Amant, qu´un habile Maistre a mises en Air. Vous jugez bien, puis qu´elles sont d´un Amant, qu´il faut qu´elles soient plaintives.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour
-              placer les Figures</hi> : l’Air qui commence par <hi rend="i">Beau Jardin, beau
-              Ruisseau</hi>, doit regarder la page 154.</note>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Beau Jardin, beau Ruisseau</hi>, doit regarder la page 154.</note>
           <lg>
             <l rend="i">Beau Jardin, beau Ruisseau, témoin de mon martyre,</l>
             <l rend="i">Bois, où loin de Philis je viens verser des pleurs,</l>
@@ -38,6 +35,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

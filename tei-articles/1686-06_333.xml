@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Je ne vous dis rien du second Air que je vous envoye. Vous vous connoissez assez en
-          Musique pour en juger par vous mesme.</p>
+    <body>
+      <div>
+        <p>Je ne vous dis rien du second Air que je vous envoye. Vous vous connoissez assez en Musique pour en juger par vous mesme.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour
-              placer les Figures</hi> : l’Air qui commence par, <hi rend="i">Pensers tristes &amp;
-              sombres</hi>, doit regarder la page 333.</note>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par, <hi rend="i">Pensers tristes &amp; sombres</hi>, doit regarder la page 333.</note>
           <lg>
             <l rend="i">Pensers tristes &amp; sombres,</l>
             <l rend="i">Venez-vous m'accabler encor parmy ces Ombres ?</l>
@@ -40,6 +37,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

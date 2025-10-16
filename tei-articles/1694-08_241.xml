@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Vous ne serez pas fachée de chanter dans vos agréables parties de Province, des Vers qui
-          ont esté faits sur nos dernieres Conquestes.</p>
+    <body>
+      <div>
+        <p>Vous ne serez pas fachée de chanter dans vos agréables parties de Province, des Vers qui ont esté faits sur nos dernieres Conquestes.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour
-              placer les Figures</hi> : l’Air doit regarder la page 242.</note>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air doit regarder la page 242.</note>
           <lg>
             <l rend="i">Les François ont du courage.</l>
             <l rend="i">Par tout où croist le bon Vin,</l>
@@ -43,6 +41,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Voicy d’autres Ouvrages de Vers sur cette mesme matiere. Les trois premiers Sonnets sont
-          de M<hi rend="sup">r</hi> Boyer, de l’Academie Françoise : le quatriéme, de M<hi rend="sup">r</hi> le Clerc, de la mesme Academie, &amp; le cinquiéme, de M<hi rend="sup">r</hi> de Liniere.</p>
+    <body>
+      <div>
+        <p>Voicy d’autres Ouvrages de Vers sur cette mesme matiere. Les trois premiers Sonnets sont de M<hi rend="sup">r</hi> Boyer, de l’Academie Françoise : le quatriéme, de M<hi rend="sup">r</hi> le Clerc, de la mesme Academie, &amp; le cinquiéme, de M<hi rend="sup">r</hi> de Liniere.</p>
         <quote>
           <label>LE ROY<lb/>A SON PEUPLE.</label>
           <lg>
@@ -78,8 +76,12 @@
         <quote>
           <label>Sur la Victoire remportée<lb/>en Savoye.<lb/>AU ROY.</label>
           <lg>
-            <l><hi rend="i">Que le Ciel fait pour vous de miracles visibles !</hi></l>
-            <l><hi rend="i">Grand Roy, la Ligue en vain redouble ses efforts ;</hi></l>
+            <l>
+              <hi rend="i">Que le Ciel fait pour vous de miracles visibles !</hi>
+            </l>
+            <l>
+              <hi rend="i">Grand Roy, la Ligue en vain redouble ses efforts ;</hi>
+            </l>
             <l rend="i">Rien ne peut ébranler vos forces invincibles ;</l>
             <l rend="i">Rien ne peut épuiser vos immenses tresors.</l>
           </lg>
@@ -148,7 +150,9 @@
           </lg>
           <ab type="ornament">***</ab>
           <lg>
-            <l><hi rend="i">Luxembourg à Fleurus sa vaillance déploye ;</hi></l>
+            <l>
+              <hi rend="i">Luxembourg à Fleurus sa vaillance déploye ;</hi>
+            </l>
             <l rend="i">Le hardy Catinat se signale en Savoyee</l>
             <l rend="i">Et Tourville sur mer a mis l’Anglois, à bas.</l>
           </lg>
@@ -160,6 +164,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <quote>
-            <label>AU LECTEUR.</label>
-            <p>Des ordres auxquels il est glorieux d’obeïr, ayant engagé à un Ouvrage du temps, dont le travail ne souffre point de delay, l’Extraordinaire qui devoit paroistre au quinziéme d’Avril, ne sera mis en vente qu’au quinziéme de Juillet. On est aussi obligé de remettre l’Histoire des Estampes. Le Public sera averty par un Avis particulier du temps auquel elle paroistra.</p>
-          </quote>
-        </div>
-        </body>
+    <body>
+      <div>
+        <quote>
+          <label>AU LECTEUR.</label>
+          <p>Des ordres auxquels il est glorieux d’obeïr, ayant engagé à un Ouvrage du temps, dont le travail ne souffre point de delay, l’Extraordinaire qui devoit paroistre au quinziéme d’Avril, ne sera mis en vente qu’au quinziéme de Juillet. On est aussi obligé de remettre l’Histoire des Estampes. Le Public sera averty par un Avis particulier du temps auquel elle paroistra.</p>
+        </quote>
+      </div>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,22 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>J’ay oublié de vous dire qu’un peu avant que M<hi rend="sup">r</hi> l’Evesque de
-          Strasbourg partist, il avoit esté, aussi bien que Madame de Furstemberg, du magnifique
-          Régal, que M<hi rend="sup">r</hi> le Président de Mesmes a donné à M<hi rend="sup">r</hi> l’Ambassadeur &amp; à Madame l’Ambassadrice d’Espagne. Les autres Conviez estoient
-          Madame la Princesse d’Elbeuf, Madame la Duchesse de Vivonne, M<hi rend="sup">r</hi> le
-          Prince de Monaco, M<hi rend="sup">r</hi> le Prince d’Eysenac, M<hi rend="sup">r</hi> le
-          Baron de Rosvuorm, M<hi rend="sup">r</hi> le Duc de Mortemar, M<hi rend="sup">r</hi> le
-          Chevalier d’Harcourt, M<hi rend="sup">r</hi> de Soyecourt, M<hi rend="sup">r</hi> Courtin
-          l’Ambassadeur, M<hi rend="sup">r</hi> &amp; Madame de Tambonneau, &amp; Mademoiselle de la
-          Baziniere. Il y eut trois grands Services de Rosty, sans compter les Entremets &amp; le
-          Fruit. Les Services estoient de trois grands Plats, de six plus petits, &amp; de huit
-          Assietes hors d’œuvre. Trois concerts de diférens Instrumens divertirent l’Assemblée,
-          &amp; le tout fut digne de la magnificence de ce Président.</p>
+    <body>
+      <div>
+        <p>J’ay oublié de vous dire qu’un peu avant que M<hi rend="sup">r</hi> l’Evesque de Strasbourg partist, il avoit esté, aussi bien que Madame de Furstemberg, du magnifique Régal, que M<hi rend="sup">r</hi> le Président de Mesmes a donné à M<hi rend="sup">r</hi> l’Ambassadeur &amp; à Madame l’Ambassadrice d’Espagne. Les autres Conviez estoient Madame la Princesse d’Elbeuf, Madame la Duchesse de Vivonne, M<hi rend="sup">r</hi> le Prince de Monaco, M<hi rend="sup">r</hi> le Prince d’Eysenac, M<hi rend="sup">r</hi> le Baron de Rosvuorm, M<hi rend="sup">r</hi> le Duc de Mortemar, M<hi rend="sup">r</hi> le Chevalier d’Harcourt, M<hi rend="sup">r</hi> de Soyecourt, M<hi rend="sup">r</hi> Courtin l’Ambassadeur, M<hi rend="sup">r</hi> &amp; Madame de Tambonneau, &amp; Mademoiselle de la Baziniere. Il y eut trois grands Services de Rosty, sans compter les Entremets &amp; le Fruit. Les Services estoient de trois grands Plats, de six plus petits, &amp; de huit Assietes hors d’œuvre. Trois concerts de diférens Instrumens divertirent l’Assemblée, &amp; le tout fut digne de la magnificence de ce Président.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

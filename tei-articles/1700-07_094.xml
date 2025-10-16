@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p>Vous sçavez, Madame, ce que j’aurois à vous dire sur le merite de M<hi rend="sup">r</hi> l’Abbé de Poissi, à qui le Pere Tavillon, Jesuite fameux, a adressé cette Lettre.</p>
-          <quote>
+    <body>
+      <div>
+        <p>Vous sçavez, Madame, ce que j’aurois à vous dire sur le merite de M<hi rend="sup">r</hi> l’Abbé de Poissi, à qui le Pere Tavillon, Jesuite fameux, a adressé cette Lettre.</p>
+        <quote>
           <p>Vous me donnez de la confusion, vous &amp; l’illustre M<hi rend="sup">r</hi> de Segrais, de vous souvenir de moy d’une maniere aussi obligeante que vous le faites. Le morceau de Lettre que vous m’envoyez, Monsieur, me flate bien agréablement, &amp; les Vers que vous y ajoûtez, me paroissent d’un tour &amp; d’un goust tout à fait nouveau. Il suffit qu’ils viennent de M<hi rend="sup">r</hi> l’Abbé de Poissi, pour prévenir aussi-tost. Je suis seulement fâché que mon suffrage dans le monde Poëtique soit compté pour si peu de chose. Depuis que je me suis exilé par devoir, plûtost que par inclination, de cet agréable &amp; riant Pays, je trouve que mes anciennes idées se sont évanoüies ; la severe Theologie a tout chassé, &amp; a établi à sa place <hi rend="i">merum rus, &amp; meram barbariem</hi>. Voilà, Monsieur, en partie ce qui m’a obligé de me retirer à petit bruit, &amp; à ne plus me montrer aux yeux delicats &amp; clairvoyans du grand M<hi rend="sup">r</hi> de Segrais. Quoy que les badinages du Parnasse me soient maintenant de fort peu de chose, depuis qu’on m’a lié à des Etudes toutes opposées ; j’ay pourtant de l’obligation aux plaisantes folies de ma jeunesse, de m’avoir valu la connoissance, &amp; si je l’ose dire, la bienveillance d’un homme comme luy. Si même il estoit d’humeur à me pardonner mes omissions du passé, &amp; à ne se point rebuter de mes grossieretez presentes, volontiers, Monsieur, je vous prierois de ménager mon pardon. En tout cas j’ay un jeune Frere, qui de temps en temps tiendroit la Plume en ma place, &amp; le dédommageroit de l’ennuy que je donne aux Gens. Je crois avoir eu déja l’honneur de vous parler de ce jeune homme de vingt-deux ans. Pour vous en rafraîchir l’idée, trouvez bon que je finisse ma Lettre par une bagatelle de sa façon. Il y a quelque temps que le jeune Comte de Crecy fit ces quatre Vers Latins sur la Paix.</p>
           <quote>
             <lg>
@@ -46,8 +45,8 @@
             </lg>
           </quote>
           <p>Les Vers &amp; la traduction furent fort goûtez à la Cour ; mais tout cela est peu de chose, si vous &amp; M<hi rend="sup">r</hi> de Segrais n’y mettez vostre marque. Je suis, Monsieur, à l’un &amp; à l’autre vostre tres, &amp;c.</p>
-          </quote>
-        </div>
-        </body>
+        </quote>
+      </div>
+    </body>
   </text>
 </TEI>

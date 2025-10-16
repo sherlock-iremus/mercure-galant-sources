@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
-        <p>Vous attendez le détail de ce qui se passa le jour de la Feste de S. Loüis à l'Académie
-          Françoise, &amp; je vay vous satisfaire. Cette illustre &amp; sçavante Compagnie,
-          regardant ce Saint comme le Patron de <hi rend="sc">Loüis le Grand</hi>, en fait faire
-          tous les ans le Panégyrique. Il est précedé d'une Messe, celebrée dans la Chapelle du
-          Louvre par M<hi rend="sup">r</hi> l'Abbé du Pont, qui en est le Chapelain. La Musique y
-          est chantée par un grand nombre des plus belles Voix de France, &amp; jusques icy elle a
-          toûjours esté de la composition de M<hi rend="sup">r</hi> Oudot.</p>
+    <body>
+      <div>
+        <p>Vous attendez le détail de ce qui se passa le jour de la Feste de S. Loüis à l'Académie Françoise, &amp; je vay vous satisfaire. Cette illustre &amp; sçavante Compagnie, regardant ce Saint comme le Patron de <hi rend="sc">Loüis le Grand</hi>, en fait faire tous les ans le Panégyrique. Il est précedé d'une Messe, celebrée dans la Chapelle du Louvre par M<hi rend="sup">r</hi> l'Abbé du Pont, qui en est le Chapelain. La Musique y est chantée par un grand nombre des plus belles Voix de France, &amp; jusques icy elle a toûjours esté de la composition de M<hi rend="sup">r</hi> Oudot.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Les Lettres de Monsieur le Tellier ont esté enregistrées à la Cour des Aydes, comme elles
-          l’ont esté au Parlement &amp; au Grand Conseil. M<hi rend="sup">r</hi> Pajot fit l’Eloge
-          de ce grand Ministre avec son éloquence ordinaire, &amp; montra qu’il estoit non seulement
-          un sage Pere de Famille &amp; fidelle Amy, mais genéreux, obligeant, &amp; officieux à
-          tout le monde. M<hi rend="sup">r</hi> Ravot Avocat General parla aussi. Je ne puis vous
-          dire quel fut le sujet de son Discours. On doit me l’apprendre, &amp; je vous le feray
-          sçavoir.</p>
+    <body>
+      <div>
+        <p>Les Lettres de Monsieur le Tellier ont esté enregistrées à la Cour des Aydes, comme elles l’ont esté au Parlement &amp; au Grand Conseil. M<hi rend="sup">r</hi> Pajot fit l’Eloge de ce grand Ministre avec son éloquence ordinaire, &amp; montra qu’il estoit non seulement un sage Pere de Famille &amp; fidelle Amy, mais genéreux, obligeant, &amp; officieux à tout le monde. M<hi rend="sup">r</hi> Ravot Avocat General parla aussi. Je ne puis vous dire quel fut le sujet de son Discours. On doit me l’apprendre, &amp; je vous le feray sçavoir.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

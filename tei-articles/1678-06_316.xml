@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Les uns songent à l’amour, les autres à boire. Cette Chanson qui s’adresse à nos Amis les
-          Hollandois, a esté faite pour les derniers. L’Air est de M<hi rend="sup">r</hi> Rigaut de
-          Tours.</p>
+    <body>
+      <div>
+        <p>Les uns songent à l’amour, les autres à boire. Cette Chanson qui s’adresse à nos Amis les Hollandois, a esté faite pour les derniers. L’Air est de M<hi rend="sup">r</hi> Rigaut de Tours.</p>
         <quote>
-          <label rend="center">AIR A BOIRE.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par, <hi rend="i">Puis que le
-              grand Loüis en bornant ses Exploits</hi>, doit regarder la page 316.</note>
+          <label rend="center">AIR A BOIRE.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par, <hi rend="i">Puis que le grand Loüis en bornant ses Exploits</hi>, doit regarder la page 316.</note>
           <lg>
             <l rend="i">Puis que le grand Loüis en bornant ses Exploits,</l>
             <l rend="i"><space/>Vous a permis de quiter la rapiere,</l>
@@ -40,6 +37,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

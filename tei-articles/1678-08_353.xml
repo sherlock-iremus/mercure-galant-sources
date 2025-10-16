@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
-        <p>Toute la Cour est à Fontainebleau, où elle prend les plaisirs de la Saison. Outre ceux de
-          la Promenade, de la Chasse, du Jeu, &amp; de la Paume, elle a celuy de la Comédie
-          Françoise &amp; Italienne. Le Roy est venu cette semaine à Versailles. Il retourna coucher
-          à Fontainebleau. Ce sont pres de quarante lieuës que ce grand Prince fit dans le mesme
-          jour pour son seul divertissement. On ne doit pas s’étonner apres cela s’il est
-          infatigable, quand il s’agit de la Guerre, &amp; si dans les Saisons les plus incommodes
-          il vole aux Conquestes malgré les plus cruelles injures du temps.</p>
+    <body>
+      <div>
+        <p>Toute la Cour est à Fontainebleau, où elle prend les plaisirs de la Saison. Outre ceux de la Promenade, de la Chasse, du Jeu, &amp; de la Paume, elle a celuy de la Comédie Françoise &amp; Italienne. Le Roy est venu cette semaine à Versailles. Il retourna coucher à Fontainebleau. Ce sont pres de quarante lieuës que ce grand Prince fit dans le mesme jour pour son seul divertissement. On ne doit pas s’étonner apres cela s’il est infatigable, quand il s’agit de la Guerre, &amp; si dans les Saisons les plus incommodes il vole aux Conquestes malgré les plus cruelles injures du temps.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

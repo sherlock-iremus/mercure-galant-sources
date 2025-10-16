@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Les Vers qui suivent sont de Mademoiselle de Scudery, &amp; ils ont esté mis en chant par M<hi rend="sup">r</hi> le Camus <note resp="editor">Le poème fait allusion à Marie-Adélaïde de Savoie, arrivée en novembre 1696 à la cour de France. L'air a également été publié dans le <hi rend="italic">Recueil d'airs sérieux et à boire</hi> de février 1697 (Paris, Ballard, 1697, p. 26).</note>.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin">L’Air doit regarder la page 281.</note>
-          <lg><l rend="i">Avoir tous les appas de l'aimable jeunesse,</l>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin">L’Air doit regarder la page 281.</note>
+          <lg>
+            <l rend="i">Avoir tous les appas de l'aimable jeunesse,</l>
             <l rend="i">Joindre avec la beauté l'esprit &amp; la sagesse,</l>
             <l rend="i">Suivi d'un air charmant qu'on ne peut exprimer,</l>
             <l rend="i">C'est ce qu'on trouve en la Princesse</l>
@@ -34,6 +35,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

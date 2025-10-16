@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,20 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>La gloire du Roy n’occupe pas seulement les Muses Françoises, elle fait parler les
-          Italiennes, ; &amp; M<hi rend="sup">r</hi> Fredino de Venise, dont je me souviens que je
-          vous ay déja fait voir une Lettre, a composé en sa Langue une Fable fort ingénieuse qui
-          vous apprendra l’avantage que peut prétendre le Lys sur les autres Fleurs. Comme il me
-          fait la grace de me la promettre, vous l’aurez dans le premier Extraordinaire. Cependant
-          il m’en envoye la traduction qu’il m’assure avoir esté faite tres-fidellement. Je vous en
-          fais part. Elle est de M<hi rend="sup">r</hi> l’Abbé Gradenigo Bibliotéquaire de S. Marc
-          dans la mesme Ville. Vous n’aurez pas de peine à connoistre que les Aquilons, &amp; les
-          Autans, représentent les Princes du Nort, &amp; que le Duc de Lorraine est le Héraut qui
-          flate l’Impériale. Flore, dans la pensée de l’Autheur, est la Reyne Christine de
-          Suede.</p>
+    <body>
+      <div>
+        <p>La gloire du Roy n’occupe pas seulement les Muses Françoises, elle fait parler les Italiennes, ; &amp; M<hi rend="sup">r</hi> Fredino de Venise, dont je me souviens que je vous ay déja fait voir une Lettre, a composé en sa Langue une Fable fort ingénieuse qui vous apprendra l’avantage que peut prétendre le Lys sur les autres Fleurs. Comme il me fait la grace de me la promettre, vous l’aurez dans le premier Extraordinaire. Cependant il m’en envoye la traduction qu’il m’assure avoir esté faite tres-fidellement. Je vous en fais part. Elle est de M<hi rend="sup">r</hi> l’Abbé Gradenigo Bibliotéquaire de S. Marc dans la mesme Ville. Vous n’aurez pas de peine à connoistre que les Aquilons, &amp; les Autans, représentent les Princes du Nort, &amp; que le Duc de Lorraine est le Héraut qui flate l’Impériale. Flore, dans la pensée de l’Autheur, est la Reyne Christine de Suede.</p>
         <quote>
           <label type="head">Les Fleurs.</label>
           <label type="head">Fable.</label>
@@ -149,6 +138,6 @@
           <l><seg type="tab">    </seg>Eviter de deux maux, le pire.</l>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

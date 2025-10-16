@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,22 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-                
-                
-                <p>Dom Pedro de Yrles-y-Pineda a esté fait Mestre de Camp,
-                        &amp; le Roy d’Espagne luy a donné le Gouvernement de Vera Crux. C’est une
-                        Ville maritime de la Province de Sepeaca, dans le Mexique ou Nouvelle
-                        Espagne en Amerique. Elle est habitée par deux cens familles d’Espagnols, la
-                        plûpart desquels sont Mariniers ou facteurs qui reçoivent les marchandises
-                        d’Espagne. Cette Ville est mal saine à cause que les pluyes sont
-                        frequentes depuis le mois d’Avril jusqu’au mois de Novembre ; mais depuis
-                        Novembre jusqu’à la fin de Mars ; il n’y pleut jamais, &amp; l’air du
-                        Septentrion y tempere en ce temps-là l’ardeur du Soleil. Dom Pedro de
-                        Yrles-y-Pineda est fort connu par ses services : il est generalement
-                        estimé.</p>
-
-            </div>
+    <body>
+      <div>
+        <p>Dom Pedro de Yrles-y-Pineda a esté fait Mestre de Camp, &amp; le Roy d’Espagne luy a donné le Gouvernement de Vera Crux. C’est une Ville maritime de la Province de Sepeaca, dans le Mexique ou Nouvelle Espagne en Amerique. Elle est habitée par deux cens familles d’Espagnols, la plûpart desquels sont Mariniers ou facteurs qui reçoivent les marchandises d’Espagne. Cette Ville est mal saine à cause que les pluyes sont frequentes depuis le mois d’Avril jusqu’au mois de Novembre ; mais depuis Novembre jusqu’à la fin de Mars ; il n’y pleut jamais, &amp; l’air du Septentrion y tempere en ce temps-là l’ardeur du Soleil. Dom Pedro de Yrles-y-Pineda est fort connu par ses services : il est generalement estimé.</p>
+      </div>
     </body>
   </text>
 </TEI>

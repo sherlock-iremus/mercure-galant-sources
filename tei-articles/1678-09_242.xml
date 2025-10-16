@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Si le mal de dents estoit aussi dangereux qu’il est cruel, on auroit souvent à trembler
-          pour de fort aimables Personnes. Voyez ce qui m’a esté envoyé là-dessus.</p>
+    <body>
+      <div>
+        <p>Si le mal de dents estoit aussi dangereux qu’il est cruel, on auroit souvent à trembler pour de fort aimables Personnes. Voyez ce qui m’a esté envoyé là-dessus.</p>
         <quote>
           <label>A SYLVIE,<lb/>SUR SON MAL DE DENTS.<lb/><hi rend="sc">Madrigal.</hi></label>
           <lg>
@@ -33,6 +31,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,9 +14,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <quote>
           <label rend="center">Réponse d’Iris.</label>
           <lg>
@@ -24,7 +23,8 @@
             <l>Vous attendrez longtemps à parler de vos feux,</l>
             <l>Si vous croyez me voir éclaircir vostre doute,</l>
             <l><space/>Avant que de m’ofrir vos vœux.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l>Vous vous déclarez trop en Ame intéressée ;</l>
             <l>Et quand je conviendrois que mes yeux fussent doux,</l>
             <l><space/>C’est vous flater d’une injuste pensée,</l>
@@ -32,6 +32,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

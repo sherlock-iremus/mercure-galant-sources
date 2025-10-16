@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
+    <body>
+      <div>
         <p>Le Siege de Valenciennes estant une des plus considérables [entreprises] qu’on pût faire, par toutes les raisons que nous avons dites cy-dessus ; si-tost que le Roy fut arrivé au Camp, il reconnut la Place, &amp; l’on peut dire que les ordres qu’il donna, furent d’un Capitaine consommé, puis qu’ils ont si bien reüssy. Les Bourgeois fiers de tout ce que nous avons marqué qui servoit à leur défense, donnerent sur leurs Rampars le jour de Caresme prenant, les Violons, pour se moquer des Troupes qui avoient investy la Place ; mais on leur répondit quelques jours apres avec d’autres Instrumens qui leur osterent l’envie de dançer.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

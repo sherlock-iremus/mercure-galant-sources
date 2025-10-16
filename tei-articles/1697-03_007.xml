@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Je ne puis mieux commencer cette Lettre que par une Devise qui a esté faite pour le Roy,
-          &amp; qui convient parfaitement au Surnom de Grand, que ses merveilleuses qualitez luy ont
-          fait donner si justement. Cette Devise a le Soleil pour Corps, &amp; ces mots Latins pour
-          Ame. <hi rend="i">Non surrexit major</hi>. Vous en trouverez l’explication dans ce
-          Sonnet.</p>
+    <body>
+      <div>
+        <p>Je ne puis mieux commencer cette Lettre que par une Devise qui a esté faite pour le Roy, &amp; qui convient parfaitement au Surnom de Grand, que ses merveilleuses qualitez luy ont fait donner si justement. Cette Devise a le Soleil pour Corps, &amp; ces mots Latins pour Ame. <hi rend="i">Non surrexit major</hi>. Vous en trouverez l’explication dans ce Sonnet.</p>
         <quote>
           <lg>
             <l rend="i">Ces grands Heros qu’on voit tant vantez dans l’histoire,</l>
@@ -50,6 +45,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

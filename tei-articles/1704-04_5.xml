@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,27 +14,37 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p>Vous serez surprise de voir commencer ma Lettre par une Chanson ; mais vostre étonnement cessera, quand vous verrez que cette Chanson regarde le Roy dont les grandes actions font le Prelude de mes Lettres depuis vingt-huit années que je vous les adresse.</p>
-          <quote>
-            <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par <hi rend="i">Ciel, de nostre Monarque augmente</hi>, doit regarder la page 6.</note>
-            <lg>
-              <l><hi rend="i">Ciel, de nostre Monarque, augmente les beaux jours,</hi></l>
-              <l><hi rend="i">Que de ce grand Soleil rien n’arreste le cours ;</hi></l>
-              <l><hi rend="i">Qu’il remporte toûjours Victoire sur Victoire,</hi></l>
-              <l><hi rend="i">Qu’il impose ses Loix à cent Peuples divers ;</hi></l>
-              <l><hi rend="i">Qu’il vive enfin, ô Ciel, il y va de ta gloire,</hi></l>
-              <l> <hi rend="i">Et du repos de l’Univers.</hi></l>
-            </lg>
-          </quote>
-          <ref target="images/1704-04_5.JPG">
-            <figure>
-              <graphic url="images/1704-04_5.JPG"/>
-            </figure>
-          </ref>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>Vous serez surprise de voir commencer ma Lettre par une Chanson ; mais vostre étonnement cessera, quand vous verrez que cette Chanson regarde le Roy dont les grandes actions font le Prelude de mes Lettres depuis vingt-huit années que je vous les adresse.</p>
+        <quote>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par <hi rend="i">Ciel, de nostre Monarque augmente</hi>, doit regarder la page 6.</note>
+          <lg>
+            <l>
+              <hi rend="i">Ciel, de nostre Monarque, augmente les beaux jours,</hi>
+            </l>
+            <l>
+              <hi rend="i">Que de ce grand Soleil rien n’arreste le cours ;</hi>
+            </l>
+            <l>
+              <hi rend="i">Qu’il remporte toûjours Victoire sur Victoire,</hi>
+            </l>
+            <l>
+              <hi rend="i">Qu’il impose ses Loix à cent Peuples divers ;</hi>
+            </l>
+            <l>
+              <hi rend="i">Qu’il vive enfin, ô Ciel, il y va de ta gloire,</hi>
+            </l>
+            <l> <hi rend="i">Et du repos de l’Univers.</hi></l>
+          </lg>
+        </quote>
+        <ref target="images/1704-04_5.JPG">
+          <figure>
+            <graphic url="images/1704-04_5.JPG"/>
+          </figure>
+        </ref>
+      </div>
+    </body>
   </text>
 </TEI>

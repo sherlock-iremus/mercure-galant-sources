@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,19 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-            
-            <p>Sa Majesté ne permettant plus que ses Charges d’Aumônier se vendent, &amp; voulant à
-                l’avenir les remplir Elle mesme de Personnes de merite [,] c’est par là qu’Elle a
-                donné à M<hi rend="sup">r</hi> l’Abbé de la Sale, Frere de M<hi rend="sup">r</hi> de la Sale Maistre de sa Garde-robe, une
-                autre Charge d’Aumônier, vacante par la démission volontaire de M<hi rend="sup">r</hi> l’abbé de Saint
-                Valier, qui est party pour le Canada, où il doit estre Coadjurateur de M<hi rend="sup">r</hi> l’Evesque
-                de Quebec. Une grande dévotion &amp; le zele de convertir des Infidèles, luy font
-                faire ce Voyage. Il accompagne M<hi rend="sup">r</hi> le Marquis d’Enonvile, Colonel des Dragons de la
-                Reyne, qui doit estre Commandant en ce Païs-là, dont vous sçavez que M<hi rend="sup">r</hi> le Maréchal
-                d’Estrades est Viceroy.</p>
-
-        </div>
+    <body>
+      <div>
+        <p>Sa Majesté ne permettant plus que ses Charges d’Aumônier se vendent, &amp; voulant à l’avenir les remplir Elle mesme de Personnes de merite [,] c’est par là qu’Elle a donné à M<hi rend="sup">r</hi> l’Abbé de la Sale, Frere de M<hi rend="sup">r</hi> de la Sale Maistre de sa Garde-robe, une autre Charge d’Aumônier, vacante par la démission volontaire de M<hi rend="sup">r</hi> l’abbé de Saint Valier, qui est party pour le Canada, où il doit estre Coadjurateur de M<hi rend="sup">r</hi> l’Evesque de Quebec. Une grande dévotion &amp; le zele de convertir des Infidèles, luy font faire ce Voyage. Il accompagne M<hi rend="sup">r</hi> le Marquis d’Enonvile, Colonel des Dragons de la Reyne, qui doit estre Commandant en ce Païs-là, dont vous sçavez que M<hi rend="sup">r</hi> le Maréchal d’Estrades est Viceroy.</p>
+      </div>
     </body>
   </text>
 </TEI>

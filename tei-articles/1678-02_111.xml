@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Vous devez estre contente. Le Ruisseau que vous avez tant aimé a fait d’étrange fracas.
-          Une troisième Prairie n’a pû souffrir que les deux qui se sont declarées Rivales pour luy,
-          prissent tant de peine à meriter son attachement. Elle a esté trahie par un Ruisseau un
-          peu plus voisin de la Mer que celuy que M<hi rend="sup">r</hi> de Fontenelle a fait
-          parler, &amp; dont elle prétend qu’il soit connu ; &amp; voicy le conseil qu’elle donne
-          aux Prairies ses Sœurs pour les faire renoncer l’une &amp; l’autre au Ruisseau qui est la
-          cause de leur broüillerie.</p>
+    <body>
+      <div>
+        <p>Vous devez estre contente. Le Ruisseau que vous avez tant aimé a fait d’étrange fracas. Une troisième Prairie n’a pû souffrir que les deux qui se sont declarées Rivales pour luy, prissent tant de peine à meriter son attachement. Elle a esté trahie par un Ruisseau un peu plus voisin de la Mer que celuy que M<hi rend="sup">r</hi> de Fontenelle a fait parler, &amp; dont elle prétend qu’il soit connu ; &amp; voicy le conseil qu’elle donne aux Prairies ses Sœurs pour les faire renoncer l’une &amp; l’autre au Ruisseau qui est la cause de leur broüillerie.</p>
         <quote rend="border">
           <label rend="center">La Prairie</label>
           <label rend="center">trompée,</label>
@@ -118,6 +111,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

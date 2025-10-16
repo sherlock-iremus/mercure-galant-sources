@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,34 +14,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-                
-                
-                <p>Je vous ay souvent envoyé des Lettres de M<hi rend="sup">r</hi> Deslandes, Grand Archidiacre &amp;
-                    Chanoine de Treguier, écrites à M<hi rend="sup">r</hi> le Chevalier Deslandes, son Neveu, Garde
-                    Marine du Département de Brest. Ce sçavant homme a trouvé moyen par ces
-                    Lettres de rendre ce neveu habile, &amp; en luy écrivant familierement, il luy
-                    apprend tout ce que les Gouverneurs des jeunes Seigneurs devroient enseigner à
-                    leurs Pupilles. Ainsi ses Lettres sont remplies de morceaux d’érudition, dont la
-                    lecture doit faire plaisir. Elles contiennent mille choses curieuses pour ceux
-                    qui les ignorent, &amp; rafraischissent la memoire de ceux qui les ont sceuës.
-                    Voicy encore une de ces Letres, dont une copie est tombée entre mes
-                    mains.</p>
-    <quote>
-                <label>À M<hi rend="sup">r</hi> le Chevalier Deslandes</label>
-                <p>[...]</p>
-                <p>Je ne puis me souvenir qu’avec douleur des Procez verbaux que l’on m’envoya,
-                    lors que les Isles de la Mer Mexicaine estoient de mon département. Ce fut
-                    l’an 1655 que les Anglois s’estant rendus les Maistres des Isles de l’Amerique
-                    Septentrionale, chasserent les Espagnols de la Jamaique, &amp; exercerent sur eux
-                    des cruautez inoüies. C’est un abus, &amp; c’est se tromper soy-mesme que de
-                    s’aller imaginer que les forces de la France s’épuiseront, que cet Etat ne
-                    pourra pas toûjours resister à toute l’Europe liguée pour l’affoiblir. Ne nous
-                    aveuglons point, &amp; jugeons sans passion des choses comme elles sont.</p>
+    <body>
+      <div>
+        <p>Je vous ay souvent envoyé des Lettres de M<hi rend="sup">r</hi> Deslandes, Grand Archidiacre &amp; Chanoine de Treguier, écrites à M<hi rend="sup">r</hi> le Chevalier Deslandes, son Neveu, Garde Marine du Département de Brest. Ce sçavant homme a trouvé moyen par ces Lettres de rendre ce neveu habile, &amp; en luy écrivant familierement, il luy apprend tout ce que les Gouverneurs des jeunes Seigneurs devroient enseigner à leurs Pupilles. Ainsi ses Lettres sont remplies de morceaux d’érudition, dont la lecture doit faire plaisir. Elles contiennent mille choses curieuses pour ceux qui les ignorent, &amp; rafraischissent la memoire de ceux qui les ont sceuës. Voicy encore une de ces Letres, dont une copie est tombée entre mes mains.</p>
+        <quote>
+          <label>À M<hi rend="sup">r</hi> le Chevalier Deslandes</label>
+          <p>[...]</p>
+          <p>Je ne puis me souvenir qu’avec douleur des Procez verbaux que l’on m’envoya, lors que les Isles de la Mer Mexicaine estoient de mon département. Ce fut l’an 1655 que les Anglois s’estant rendus les Maistres des Isles de l’Amerique Septentrionale, chasserent les Espagnols de la Jamaique, &amp; exercerent sur eux des cruautez inoüies. C’est un abus, &amp; c’est se tromper soy-mesme que de s’aller imaginer que les forces de la France s’épuiseront, que cet Etat ne pourra pas toûjours resister à toute l’Europe liguée pour l’affoiblir. Ne nous aveuglons point, &amp; jugeons sans passion des choses comme elles sont.</p>
         </quote>
-            </div>
-
-
+      </div>
     </body>
   </text>
 </TEI>

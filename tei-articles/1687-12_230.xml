@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
-        <p>Le Pere Bouhours, qui écrit toûjours d’une maniere si juste, aprés nous avoir donné des
-          Remarques nouvelles sur la Langue, dans lesquelles on trouve de seurs éclaircissemens sur
-          plusieurs doutes qu’on pourroit avoir, a bien voulu nous apprendre <hi rend="i">la maniere
-            de bien penser dans les Ouvrages d’esprit</hi>, en faisant paroistre un Livre excellent
-          de sa façon qui porte ce titre. Je n’entreray point dans le détail des beautez qui s’y
-          rencontrent, la voix publique vous en instruira. Je vous diray seulement que cet Ouvrage,
-          qui est estimé de tout le monde, a donné lieu à ce Madrigal.</p>
+        <p>Le Pere Bouhours, qui écrit toûjours d’une maniere si juste, aprés nous avoir donné des Remarques nouvelles sur la Langue, dans lesquelles on trouve de seurs éclaircissemens sur plusieurs doutes qu’on pourroit avoir, a bien voulu nous apprendre <hi rend="i">la maniere de bien penser dans les Ouvrages d’esprit</hi>, en faisant paroistre un Livre excellent de sa façon qui porte ce titre. Je n’entreray point dans le détail des beautez qui s’y rencontrent, la voix publique vous en instruira. Je vous diray seulement que cet Ouvrage, qui est estimé de tout le monde, a donné lieu à ce Madrigal.</p>
         <quote>
           <lg>
             <l rend="i"> Bouhours, par tes divins écrits</l>
@@ -38,6 +31,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

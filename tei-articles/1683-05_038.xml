@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Vous aurez sans-doute entendu parler d’une Question qu’on a agitée depuis quelques mois,
-          &amp; qui a partagé quantité d’habiles Gens. Voicy ce qu’en a pensé le Berger de
-          Flore.</p>
+    <body>
+      <div>
+        <p>Vous aurez sans-doute entendu parler d’une Question qu’on a agitée depuis quelques mois, &amp; qui a partagé quantité d’habiles Gens. Voicy ce qu’en a pensé le Berger de Flore.</p>
         <quote>
-          <label>SUR LA QUESTION<lb/>qui court, Si Apollon &amp; le<lb/>Soleil sont deux
-            diférens<lb/>Dieux.</label>
+          <label>SUR LA QUESTION<lb/>qui court, Si Apollon &amp; le<lb/>Soleil sont deux diférens<lb/>Dieux.</label>
           <lg>
             <l rend="i"> Pour dire mon avis sur ce que l’on propose,</l>
             <l rend="i"> Sans consulter Corneille, ny le Brun,</l>
@@ -49,6 +45,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

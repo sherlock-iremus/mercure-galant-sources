@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,19 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
-        <p>Le Sieur Blageart imprime un Livre nouveau, qu’il doit debiter au commencement de
-          Février. Si l’on en croit les Connoisseurs les plus délicats, c’est une Copie qui égale
-          les beautez d’un tres-excellent Original. Ce Livre a pour Titre, <hi rend="i">Les
-            Dialogues des Morts</hi>. Ils sont faits à l’imitation de ceux de Lucien, dont vous
-          aimez tant les Ouvrages, &amp; contiennent des Satyres genérales sur tous les défauts des
-          Hommes. Rien n’est ny plus finement, ny plus agreablement tourné. Tout ce qui peut
-          contenter l’esprit, s’y trouve. Chaque Dialogue finit par une Morale, dont ceux qui
-          voudront en profiter, pourront se faire une tres-utile application. Les Matieres y sont
-          traitées avec beaucoup d’enjouëment, &amp; il est impossible qu’elles ennuyent, puis que
-          leur diversité y mesle un grand charme.</p>
+    <body>
+      <div>
+        <p>Le Sieur Blageart imprime un Livre nouveau, qu’il doit debiter au commencement de Février. Si l’on en croit les Connoisseurs les plus délicats, c’est une Copie qui égale les beautez d’un tres-excellent Original. Ce Livre a pour Titre, <hi rend="i">Les Dialogues des Morts</hi>. Ils sont faits à l’imitation de ceux de Lucien, dont vous aimez tant les Ouvrages, &amp; contiennent des Satyres genérales sur tous les défauts des Hommes. Rien n’est ny plus finement, ny plus agreablement tourné. Tout ce qui peut contenter l’esprit, s’y trouve. Chaque Dialogue finit par une Morale, dont ceux qui voudront en profiter, pourront se faire une tres-utile application. Les Matieres y sont traitées avec beaucoup d’enjouëment, &amp; il est impossible qu’elles ennuyent, puis que leur diversité y mesle un grand charme.</p>
       </div>
     </body>
   </text>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Vous avez esté si satisfaite de tous les Airs que je vous ay envoyez de M<hi rend="sup">r</hi>
-          de Montailly, que je ne doute point que vous ne receviez de celuy-cy, qui est encore de sa
-          composition, le mesme plaisir que vous ont donné les autres.</p>
+    <body>
+      <div>
+        <p>Vous avez esté si satisfaite de tous les Airs que je vous ay envoyez de M<hi rend="sup">r</hi> de Montailly, que je ne doute point que vous ne receviez de celuy-cy, qui est encore de sa composition, le mesme plaisir que vous ont donné les autres.</p>
         <quote>
           <label>AIR NOUVEAU.</label>
-          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> :
-            l’Air qui commence par, <hi rend="i">L'espoir nourrit la constance</hi>, doit regarder
-            la page 168 [rect. 97].</note>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">L'espoir nourrit la constance</hi>, doit regarder la page 168 [rect. 97].</note>
           <lg>
             <l rend="i">L'Espoir nourrit la constance,</l>
             <l rend="i">Et l'amour sans esperance</l>
@@ -43,6 +38,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

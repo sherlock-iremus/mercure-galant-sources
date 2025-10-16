@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Je vous ay conté la derniere fois l’Histoire de la Belle morte d’amour pour son Mary.
-          Ceux qui ont crû qu’elle n’estoit pas veritable, n’ont pas pris la peine de s’en informer.
-          Elle est sçeuë de tant de Gens du premier rang, que je m’étonne qu’il y ait des incrédules
-          sur les particularitez que je vous en ay dites. Voicy deux Epitaphes qui ont esté faits
-          pour elle par M<hi rend="sup">r</hi> Lelleron Avocat à Provins.</p>
+    <body>
+      <div>
+        <p>Je vous ay conté la derniere fois l’Histoire de la Belle morte d’amour pour son Mary. Ceux qui ont crû qu’elle n’estoit pas veritable, n’ont pas pris la peine de s’en informer. Elle est sçeuë de tant de Gens du premier rang, que je m’étonne qu’il y ait des incrédules sur les particularitez que je vous en ay dites. Voicy deux Epitaphes qui ont esté faits pour elle par M<hi rend="sup">r</hi> Lelleron Avocat à Provins.</p>
         <quote>
           <label>EPITAPHE<lb/>D’une Femme morte d’amour pour son Mary.</label>
           <lg>
@@ -47,18 +42,8 @@
             <l rend="i"><space/>Que le beau Sexe n’aime pas.</l>
           </lg>
         </quote>
-        <p>Cette mode seroit en effet un peu cruelle à introduire pour un Sexe qui contribuë tant
-          aux douceurs de la societé. Si l’Avanture eust esté moins extraordinaire, elle n’auroit
-          point paru suspecte à ceux qui manquent de foy pour les prodiges que peut causer l’amour
-          conjugal. On n’a pas moins douté de l’Histoire du Solitaire que beaucoup ont voulu croire
-          une fiction. C’est celle du Conseiller qui avoit choisy la retraite par un principe
-          d’aversion pour les Femmes, &amp; à qui son Pere envoya une Belle d’une vertu chancelante
-          dont il fut si charmé, qu’il l’épousa. La chose est si vraye, que le Procés intenté la
-          rupture du Mariage doit estre jugé au premier jour dans un des plus celebres Parlemens de
-          France. Le Fils en poursuit la validité contre son Pere, &amp; fait tellement son bonheur
-          de la tendresse de celle qu’on luy veut oster, qu’il traite de calomnie tout ce qui s’est
-          publié de l’égarement de sa conduite.</p>
+        <p>Cette mode seroit en effet un peu cruelle à introduire pour un Sexe qui contribuë tant aux douceurs de la societé. Si l’Avanture eust esté moins extraordinaire, elle n’auroit point paru suspecte à ceux qui manquent de foy pour les prodiges que peut causer l’amour conjugal. On n’a pas moins douté de l’Histoire du Solitaire que beaucoup ont voulu croire une fiction. C’est celle du Conseiller qui avoit choisy la retraite par un principe d’aversion pour les Femmes, &amp; à qui son Pere envoya une Belle d’une vertu chancelante dont il fut si charmé, qu’il l’épousa. La chose est si vraye, que le Procés intenté la rupture du Mariage doit estre jugé au premier jour dans un des plus celebres Parlemens de France. Le Fils en poursuit la validité contre son Pere, &amp; fait tellement son bonheur de la tendresse de celle qu’on luy veut oster, qu’il traite de calomnie tout ce qui s’est publié de l’égarement de sa conduite.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

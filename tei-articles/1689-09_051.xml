@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,19 +14,21 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Si vous avez esté contente des deux Chansons que vous avez trouvées dans ma Lettre du mois passé, vous ne devez pas l'estre moins de celle-cy, puis qu'elle est d'un excellent Maistre, &amp; que les paroles sont de M<hi rend="sup">r</hi> de F[r]ontiniere. Il a un talent si particulier pour les bien tourner, qu'il seroit fort difficile d'y mieux réussir.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">Trouver sur l'herbette</hi>, doit regarder la page 51.</note>
-          <lg><l rend="i">Trouver sur l'herbette</l>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">Trouver sur l'herbette</hi>, doit regarder la page 51.</note>
+          <lg>
+            <l rend="i">Trouver sur l'herbette</l>
             <l rend="i">Une Bergere seulette,</l>
             <l rend="i">C'est un grand bien, c'est un grand mal.</l>
             <l rend="i">C'est un grand bien quand elle est tendre &amp; belle,</l>
             <l rend="i">Mais si par un destin fatal,</l>
             <l rend="i">Elle est cruelle,</l>
-            <l rend="i">C'est un grand mal.</l></lg>
+            <l rend="i">C'est un grand mal.</l>
+          </lg>
         </quote>
         <ref target="images/1689-09_051.JPG">
           <figure>
@@ -34,6 +36,6 @@
           </figure>
         </ref>
       </div>
-        </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>C’est sur cet attachement reciproque que sont tournez les Vers que vous allez voir. Ils
-          accompagnoient le Cupidon qui fut envoyé pour Estrennes. Souvenez-vous, Madame, que c’est
-          ce petit Cupidon qui parle au nom des Amours.</p>
+    <body>
+      <div>
+        <p>C’est sur cet attachement reciproque que sont tournez les Vers que vous allez voir. Ils accompagnoient le Cupidon qui fut envoyé pour Estrennes. Souvenez-vous, Madame, que c’est ce petit Cupidon qui parle au nom des Amours.</p>
         <quote rend="border">
           <label rend="center">À Madame</label>
           <label rend="center">la Comtesse</label>
@@ -104,6 +101,6 @@
           <l><space/><space/>Et c’est tout ce que nous voulons.</l>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

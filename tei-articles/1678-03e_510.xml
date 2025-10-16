@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,26 +14,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
-        <p rend="i">Comme c’est chez elles que s’agitent toutes les Questions d’esprit, une Dame qui
-          en a infiniment, en proposa une il y a quelques jours à plusieurs Personnes tres-éclairées
-          de l’un &amp; l’autre Sexe. La voicy. </p>
+    <body>
+      <div>
+        <p rend="i">Comme c’est chez elles que s’agitent toutes les Questions d’esprit, une Dame qui en a infiniment, en proposa une il y a quelques jours à plusieurs Personnes tres-éclairées de l’un &amp; l’autre Sexe. La voicy. </p>
         <quote>
           <label rend="center">Question proposée</label>
-          <p><hi rend="i">Sçavoir</hi>, Qui l’on croyoit qui fit le plus souffrir un Amant, <hi rend="i">Ou</hi> une Maistresse dont il connoist l’infidelité, &amp; qui ne voulant
-            point rompre avec luy, tâche de le retenir par des flateries &amp; par de fausses
-            protestations ; <hi rend="i">Ou</hi> Une Maistresse qui le quite sans ménagement, &amp;
-            qui ne luy cache point qu’elle l’abandonne pour un Rival ?</p>
+          <p><hi rend="i">Sçavoir</hi>, Qui l’on croyoit qui fit le plus souffrir un Amant, <hi rend="i">Ou</hi> une Maistresse dont il connoist l’infidelité, &amp; qui ne voulant point rompre avec luy, tâche de le retenir par des flateries &amp; par de fausses protestations ; <hi rend="i">Ou</hi> Une Maistresse qui le quite sans ménagement, &amp; qui ne luy cache point qu’elle l’abandonne pour un Rival ?</p>
         </quote>
-        <p rend="i">La Dame qui proposa la Question, pria qu’on ne répondit point sur le champ, afin
-          qu’on eust le temps de se consulter &amp; que les Réponses pussent estre mieux raisonnées.
-          Vous pouvez prendre party là-dessus vous &amp; vos Amies. Vous ne penserez rien qui ne
-          soit juste, &amp; je ne doute point que la pluralité d’Avis ne se trouve de vostre costé.
-        </p>
+        <p rend="i">La Dame qui proposa la Question, pria qu’on ne répondit point sur le champ, afin qu’on eust le temps de se consulter &amp; que les Réponses pussent estre mieux raisonnées. Vous pouvez prendre party là-dessus vous &amp; vos Amies. Vous ne penserez rien qui ne soit juste, &amp; je ne doute point que la pluralité d’Avis ne se trouve de vostre costé. </p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

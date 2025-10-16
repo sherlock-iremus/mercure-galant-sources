@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p>Mr le Marquis de Torcy a donné un soupé magnifique à Monseigneur le Duc de Bourgogne, &amp; à Monseigneur le Duc de Berry ; Ceux qui eurent l’honneur de souper avec ces Princes, sont Madame la Maréchale de Cœuvres M<hi rend="exp">e</hi> de Mailly, M<hi rend="exp">e</hi> de Torcy, M<hi rend="exp">e</hi> de la Vrilliere, M<hi rend="exp">e</hi> d’O, M<hi rend="exp">e</hi> de Villacerf, &amp; Mrs les Marquis de Razilly &amp; de Torcy. La Compagnie se divertit tres-agréablement pendant le soupé, qui dura deux heures, pendant lesquelles la Musique se fit entendre à diverses reprises.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>Mr le Marquis de Torcy a donné un soupé magnifique à Monseigneur le Duc de Bourgogne, &amp; à Monseigneur le Duc de Berry ; Ceux qui eurent l’honneur de souper avec ces Princes, sont Madame la Maréchale de Cœuvres M<hi rend="exp">e</hi> de Mailly, M<hi rend="exp">e</hi> de Torcy, M<hi rend="exp">e</hi> de la Vrilliere, M<hi rend="exp">e</hi> d’O, M<hi rend="exp">e</hi> de Villacerf, &amp; Mrs les Marquis de Razilly &amp; de Torcy. La Compagnie se divertit tres-agréablement pendant le soupé, qui dura deux heures, pendant lesquelles la Musique se fit entendre à diverses reprises.</p>
+      </div>
+    </body>
   </text>
 </TEI>

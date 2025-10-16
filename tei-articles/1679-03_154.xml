@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>On voulut en faire l’épreuve <note resp="editor">Du fait que « plus les Rimes que l’on donnoit estoient communes &amp; faciles, plus le Sonnet estoit malaisé », cf. <ref target="MG-1679-03_149">cet article</ref>.</note> ; &amp; le lendemain lors que M<hi rend="sup">r</hi> le Duc de S. Aignan rentroit chez luy, il trouva les Bouts-Rimez qui suivent,
-          &amp; fit ce second Sonnet sur la mesme matiere aussi promptement qu’il avoit fait
-          l’autre.</p>
+    <body>
+      <div>
+        <p>On voulut en faire l’épreuve <note resp="editor">Du fait que « plus les Rimes que l’on donnoit estoient communes &amp; faciles, plus le Sonnet estoit malaisé », cf. <ref target="MG-1679-03_149">cet article</ref>.</note> ; &amp; le lendemain lors que M<hi rend="sup">r</hi> le Duc de S. Aignan rentroit chez luy, il trouva les Bouts-Rimez qui suivent, &amp; fit ce second Sonnet sur la mesme matiere aussi promptement qu’il avoit fait l’autre.</p>
         <quote>
           <label>Sonnet.</label>
           <l>Un Roy grand &amp; <hi rend="i">magnanime</hi>,</l>
@@ -44,6 +41,6 @@
           <l>Nous met à couvert de <hi rend="i">tout</hi>.</l>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

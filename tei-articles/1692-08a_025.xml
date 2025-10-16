@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>L’Illustre Madame des Houlieres qui ne suit jamais la route commune, &amp; qui donne
-          toujours sujet d’admirer le surprenant &amp; rare talent qu’elle a pour les Vers, a trouvé
-          un tour ingenieux pour peindre les alarmes que nous cause l’intrepidité qui porte le Roy à
-          mépriser le peril. Vous en conviendrez quand vous aurez leu l’Ouvrage qui suit.</p>
+    <body>
+      <div>
+        <p>L’Illustre Madame des Houlieres qui ne suit jamais la route commune, &amp; qui donne toujours sujet d’admirer le surprenant &amp; rare talent qu’elle a pour les Vers, a trouvé un tour ingenieux pour peindre les alarmes que nous cause l’intrepidité qui porte le Roy à mépriser le peril. Vous en conviendrez quand vous aurez leu l’Ouvrage qui suit.</p>
         <quote>
           <label>EPITRE<lb/>DE MADAME<lb/>DES HOULIERES,<lb/>A LA GOUTTE.</label>
           <lg>
@@ -112,7 +108,9 @@
             <l rend="i">Nassau, par plus d’un crime en Monarque érigé,</l>
             <l rend="i"> Dés qu’il sçait Namur assiegé,</l>
             <l rend="i">Fremit, rassemble tout, &amp; vers la Sambre vole,</l>
-            <l><hi rend="i">A voir si prés de nous floter ses Etendars.</hi></l>
+            <l>
+              <hi rend="i">A voir si prés de nous floter ses Etendars.</hi>
+            </l>
             <l rend="i">A quelque noble effort qui n’auroit dû s’attendre ?</l>
             <l rend="i">Mais tout sçavant qu’il est dans le Métier de Mars,</l>
             <l rend="i">Il semble n’estre enfin venu que pour apprendre</l>
@@ -164,6 +162,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

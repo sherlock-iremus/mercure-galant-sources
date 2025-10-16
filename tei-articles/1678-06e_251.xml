@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,25 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
+    <body>
+      <div>
         <quote>
           <label rend="center">Lettre XXXV.</label>
           <p rend="i">À Montplaisant, pres </p>
           <p rend="i">Bourg en Bresse. </p>
-          <p>CE n’est pas dans les Villes seulement, Monsieur, que vostre Mercure fait le plaisir
-            des honnestes Gens ; nous le voyons regulierement tous les Mois dans nostre Campagne,
-            &amp; depuis qu’il y paroist, le soin de nos Troupeaux ne fait plus nostre principale
-            occupation. Nous citons vos Vers à tous propos. Nous ne chantons plus que les Chansons
-            du Mercure ; &amp; quelques-unes de parmy nous que la lecture de vos Ouvrages a renduës
-            plus habiles, s’avisent depuis peu de faire des Vers, &amp; d’expliquer vos Enigmes. Nos
-            Bergers se piquent aussi de bel Esprit à leur exemple. Leurs Flustes n’aprennent plus
-            aux Echos que les Airs qu’ils ont appris de vous. Leur galanterie s’épure, &amp; nous ne
-            desesperons pas de vous envoyer bientost de leurs Ouvrages. Voyez, par là, Monsieur,
-            combien nous vous sommes obligées, puis qu’outre tous les plaisirs que nous donne vostre
-            Mercure, il polit l’esprit de nos Amans.</p>
+          <p>CE n’est pas dans les Villes seulement, Monsieur, que vostre Mercure fait le plaisir des honnestes Gens ; nous le voyons regulierement tous les Mois dans nostre Campagne, &amp; depuis qu’il y paroist, le soin de nos Troupeaux ne fait plus nostre principale occupation. Nous citons vos Vers à tous propos. Nous ne chantons plus que les Chansons du Mercure ; &amp; quelques-unes de parmy nous que la lecture de vos Ouvrages a renduës plus habiles, s’avisent depuis peu de faire des Vers, &amp; d’expliquer vos Enigmes. Nos Bergers se piquent aussi de bel Esprit à leur exemple. Leurs Flustes n’aprennent plus aux Echos que les Airs qu’ils ont appris de vous. Leur galanterie s’épure, &amp; nous ne desesperons pas de vous envoyer bientost de leurs Ouvrages. Voyez, par là, Monsieur, combien nous vous sommes obligées, puis qu’outre tous les plaisirs que nous donne vostre Mercure, il polit l’esprit de nos Amans.</p>
           <lg>
             <l>Ces Bergers dont l’amour fut autrefois bornéee</l>
             <l><space/>À faire paistre nos Troupeaux,</l>
@@ -78,30 +66,18 @@
             <l><space/>    Et tous les jours quelques Festes nouvelles</l>
             <l><space/>    Découvrent de nouveaux Amans.</l>
           </lg>
-          <p>Nostre Campagne est assurément un des lieux où vostre Mercure est le mieux reçeu. Il
-            n’est personne parmy nous dont l’esprit ne se soit déterré, pour ainsi dire, depuis
-            quelques mois. Vos dernieres Enigmes semblent estre particulierement proposées à des
-            Bergeres. <hi rend="i">Le Soleil</hi> qu’elles voyent tous les jours, &amp; <hi rend="i">la</hi> Fluste de leurs Bergers, sont l’un &amp; l’autre de leur connoissance. Il
-            nous estoit difficile de nous y tromper. Un Gentilhomme de nos Voisins nous assure fort,
-            que nous avons rencontré juste. Il s’apelle M<hi rend="sup">r</hi> de Besserel, Neveu de
-              M<hi rend="sup">r</hi> le Doyen des Comtes de Lyon. Il n’a manqué jusqu’icy aucune de
-            vos Enigmes, &amp; il ne se peut que son sentiment ne donne bonne opinion du nostre.</p>
-          <p>Nous souhaiterions, pour répondre aux obligations que vous a tout nostre Sexe, vous
-            pouvoir faire des presens aussi agreables que le sont pour vous les Ouvrages delicats de
-            Madame des Houlieres ; mais ce n’est plus sur le bord des eaux, ny dans les Forests, que
-            naissent les meilleurs Fruits du Parnasse.</p>
+          <p>Nostre Campagne est assurément un des lieux où vostre Mercure est le mieux reçeu. Il n’est personne parmy nous dont l’esprit ne se soit déterré, pour ainsi dire, depuis quelques mois. Vos dernieres Enigmes semblent estre particulierement proposées à des Bergeres. <hi rend="i">Le Soleil</hi> qu’elles voyent tous les jours, &amp; <hi rend="i">la</hi> Fluste de leurs Bergers, sont l’un &amp; l’autre de leur connoissance. Il nous estoit difficile de nous y tromper. Un Gentilhomme de nos Voisins nous assure fort, que nous avons rencontré juste. Il s’apelle M<hi rend="sup">r</hi> de Besserel, Neveu de M<hi rend="sup">r</hi> le Doyen des Comtes de Lyon. Il n’a manqué jusqu’icy aucune de vos Enigmes, &amp; il ne se peut que son sentiment ne donne bonne opinion du nostre.</p>
+          <p>Nous souhaiterions, pour répondre aux obligations que vous a tout nostre Sexe, vous pouvoir faire des presens aussi agreables que le sont pour vous les Ouvrages delicats de Madame des Houlieres ; mais ce n’est plus sur le bord des eaux, ny dans les Forests, que naissent les meilleurs Fruits du Parnasse.</p>
           <lg>
             <l><space/>    On dit qu’Apollon autrefois</l>
             <l><space/>    Tint sa cour sur une Montagne ;</l>
             <l>Mais il loge aujourd’huy chez le plus grand des Roys,</l>
             <l><space/>Et ne vient plus à la Campagne.</l>
           </lg>
-          <p>Sans cela, Monsieur, vous recevriez d’autres marques de nostre reconnoissance que les
-            assurances que nous vous donnons, qu’on ne peut avoir ny plus d’empressement pour vôtre
-            Mercure, ny plus d’estime pour vous qu’en ont</p>
+          <p>Sans cela, Monsieur, vous recevriez d’autres marques de nostre reconnoissance que les assurances que nous vous donnons, qu’on ne peut avoir ny plus d’empressement pour vôtre Mercure, ny plus d’estime pour vous qu’en ont</p>
           <p><hi rend="sc">Les Bergeres</hi><hi rend="i"> de Montplaisant</hi>.</p>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

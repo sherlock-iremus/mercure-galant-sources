@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,20 +14,22 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Les saisons passent, mais le temps des belles choses ne passe point, &amp; l'Air que je vous envoye, quoy que fait sur le Printemps, ne peut manquer de vous plaire, puis qu'il est de la composition du fameux M<hi rend="sup">r</hi> Lambert. Ce nom vous dit tout. Les paroles sont du temps, &amp; plus d'une personne a sujet de les chanter.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">Tout brillant des beautez de Flore</hi>, doit regarder la page 121.</note>
-          <lg><l rend="i">Tout brillant des beautez de Flore,</l>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">Tout brillant des beautez de Flore</hi>, doit regarder la page 121.</note>
+          <lg>
+            <l rend="i">Tout brillant des beautez de Flore,</l>
             <l rend="i">Printemps, vous n'avez point d'appas,</l>
             <l rend="i">Vous pressez le départ du Heros que j'adore,</l>
             <l rend="i">Vous estes la saison des plus affreux Combats ;</l>
             <l rend="i">Mais si vous me livrez à des peines mortelles</l>
             <l rend="i">Durant le cours de ses travaux guerriers,</l>
             <l rend="i">L'Hyver me le rendra plus couvert de Lauriers,</l>
-            <l rend="i">Que vous n'avez de fleurs nouvelles.</l></lg>
+            <l rend="i">Que vous n'avez de fleurs nouvelles.</l>
+          </lg>
         </quote>
         <ref target="images/1689-08a_120.JPG">
           <figure>
@@ -35,6 +37,6 @@
           </figure>
         </ref>
       </div>
-        </body>
+    </body>
   </text>
 </TEI>

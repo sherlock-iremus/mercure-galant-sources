@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p><hi rend="i"><seg type="tab">    </seg></hi>Le Roy, que sa pieté &amp; sa magnificence ne rendent pas moins le plus grand Prince du Monde, que les autres rares qualitez qui éclatent dans son Auguste Personne, ayant assigné un Fonds depuis quelques temps pour bâtir une Eglise aux Jesuites de Vienne en Dauphiné ; le seiziéme jour de Novembre dernier fut choisi pour benir la premiere Pierre de ce superbe Edifice. Comme le jour estoit tres-beau, M<hi rend="sup">r</hi> l’Archevesque de Vienne accompagné d’une partie de son Clergé, se rendit au College sur les neuf heures. Les avenuës en estoient occupées par quelques Compagnies d’Habitans qui s’estoient mis sous les armes. Les Habitans suivis d’un concours universel de toute la Ville, ne tarderent pas longtemps à s’y rendre avec leurs habits de Magistrature. Ce Prélat s’estant revétu de ses habits Pontificaux, fit la Cerémonie au bruit des Fanfares, &amp; de toute la Mousqueterie qui fit plusieurs décharges. La Feste fut terminée par le recit de plusieurs Vers Latins, dont je ne pourrois vous faire part sans donner occasion de murmurer à vos Amies.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

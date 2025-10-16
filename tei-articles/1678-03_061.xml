@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,18 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Je ne vous ay point parlé des Loteries qui se sont tirées dans les derniers jours du
-          Carnaval. Vous sçavez que c’est un divertissement qu’on se donne icy tous les Ans, mais
-          vous n’auriez peut-estre pas crû qu’on en pust faire une purement galante. Cependant elle
-          s’est faite le dernier Mois. On fit des Vers pour plusieurs Belles d’un Quartier, &amp;
-          ces Vers ayant du raport avec l’état présent ou de leur cœur ou de leur fortune, on voulut
-          voir de quelle maniere le hazard les distribuëroit. Il y a de l’esprit en ce nouveau genre
-          de Loterie ; mais comme elle est trop particuliere, &amp; que les Billets ne peuvent estre
-          entendus que des Personnes intéressées, je me contente de vous en envoyer trois ou quatre
-          pour vous faire juger de tous les autres.</p>
+    <body>
+      <div>
+        <p>Je ne vous ay point parlé des Loteries qui se sont tirées dans les derniers jours du Carnaval. Vous sçavez que c’est un divertissement qu’on se donne icy tous les Ans, mais vous n’auriez peut-estre pas crû qu’on en pust faire une purement galante. Cependant elle s’est faite le dernier Mois. On fit des Vers pour plusieurs Belles d’un Quartier, &amp; ces Vers ayant du raport avec l’état présent ou de leur cœur ou de leur fortune, on voulut voir de quelle maniere le hazard les distribuëroit. Il y a de l’esprit en ce nouveau genre de Loterie ; mais comme elle est trop particuliere, &amp; que les Billets ne peuvent estre entendus que des Personnes intéressées, je me contente de vous en envoyer trois ou quatre pour vous faire juger de tous les autres.</p>
         <quote>
           <label rend="sc">Billet pour Candace.</label>
           <lg>
@@ -70,6 +61,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Vous devez estre contente de l'Air nouveau que je vous envoye, puis qu'une personne des plus difficiles en Musique, &amp; qui chante avec le plus de justesse, l'a appellé son Air favory <note resp="editor">L'air a également été publié, avec basse continue et avec variantes rythmiques à la voix, dans le <hi rend="italic">XXIX. livre d'airs de différents auteurs</hi> (Paris, Christophe Ballard, 1686, f. 30v-31, cf. LADDA 1686-23).</note>.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour
-              placer les Figures</hi> : l’Air qui commence par <hi rend="i">Le Printemps commence à
-              paroistre</hi>, doit regarder la page 179.</note>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Le Printemps commence à paroistre</hi>, doit regarder la page 179.</note>
           <lg>
             <l rend="i">Le Printemps commence à paroistre,</l>
             <l rend="i">Il s'est enfin rendu le maistre</l>
@@ -38,6 +36,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

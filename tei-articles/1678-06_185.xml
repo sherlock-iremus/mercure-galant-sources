@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>L’inconsiderée jalousie de certains Marys engage souvent les Femmes à une conduite fort
-          éloignée de leurs propres sentimens. L’honnesteté est née avec elles ; &amp; si on les
-          abandonnoit à leur vertu, je ne doute point qu’on n’eust sujet de dire presque de toutes
-          ce que vous allez voir dans ce Madrigal. Il m’a esté envoyé de Nismes sans qu’on m’ait
-          appris le nom de l’Autheur.</p>
+    <body>
+      <div>
+        <p>L’inconsiderée jalousie de certains Marys engage souvent les Femmes à une conduite fort éloignée de leurs propres sentimens. L’honnesteté est née avec elles ; &amp; si on les abandonnoit à leur vertu, je ne doute point qu’on n’eust sujet de dire presque de toutes ce que vous allez voir dans ce Madrigal. Il m’a esté envoyé de Nismes sans qu’on m’ait appris le nom de l’Autheur.</p>
         <quote>
           <label rend="center">Madrigal.</label>
           <l>Non, non, de mes Rivaux je ne suis point jaloux,</l>
@@ -36,6 +31,6 @@
           <l>Et qui sont en tout temps mieux écoutez que moy.</l>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

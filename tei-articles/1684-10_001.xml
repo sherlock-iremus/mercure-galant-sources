@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,21 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Il y a des actions si éclatantes d’elles-mesmes par leur grandeur, si glorieuses pour les
-          Princes qui les font, &amp; si utiles pour les Peuples qui en recueillent le fruit, qu’il
-          est impossible qu’on se lasse de les admirer. Telle est la Tréve de vingt années que le
-          Roy vient de faire avec ceux qui blessez du grand éclat de sa gloire, vouloient malgré luy
-          demeurer ses Ennemis. Toutes les Nations parleront longtemps de cette Tréve, &amp; elle
-          sera marquée à la Postérité avec des caracteres qu’aucune suite de siécles ne sera capable
-          d’effacer. M<hi rend="sup">r</hi> Magnin, Conseiller au Présidial de Mascon, continuant à
-          faire éclater son zele &amp; son esprit dans toutes les choses qui regardent Sa Majesté, a
-          fait sur cette matiere les deux Devises qui suivent. Elles ont toutes deux pour corps le
-          Soleil, qui paroist serein au sortir d’un nuage tranché d’éclairs. Ces mots, qui font
-          l’ame de la premiere, <hi rend="i">Pacem vultus habet</hi>, sont expliquez par ce
-          Madrigal.</p>
+    <body>
+      <div>
+        <p>Il y a des actions si éclatantes d’elles-mesmes par leur grandeur, si glorieuses pour les Princes qui les font, &amp; si utiles pour les Peuples qui en recueillent le fruit, qu’il est impossible qu’on se lasse de les admirer. Telle est la Tréve de vingt années que le Roy vient de faire avec ceux qui blessez du grand éclat de sa gloire, vouloient malgré luy demeurer ses Ennemis. Toutes les Nations parleront longtemps de cette Tréve, &amp; elle sera marquée à la Postérité avec des caracteres qu’aucune suite de siécles ne sera capable d’effacer. M<hi rend="sup">r</hi> Magnin, Conseiller au Présidial de Mascon, continuant à faire éclater son zele &amp; son esprit dans toutes les choses qui regardent Sa Majesté, a fait sur cette matiere les deux Devises qui suivent. Elles ont toutes deux pour corps le Soleil, qui paroist serein au sortir d’un nuage tranché d’éclairs. Ces mots, qui font l’ame de la premiere, <hi rend="i">Pacem vultus habet</hi>, sont expliquez par ce Madrigal.</p>
         <quote>
           <lg>
             <l rend="i"> Il est grand, il est glorieux,</l>
@@ -38,8 +26,7 @@
             <l rend="i">Qu’il vient assûrément donner la Paix au monde.</l>
           </lg>
         </quote>
-        <p>L’autre Devise a ces mots pour ame, <hi rend="i">Non formidabile lumen</hi>, &amp; cet
-          autre Madrigal les explique.</p>
+        <p>L’autre Devise a ces mots pour ame, <hi rend="i">Non formidabile lumen</hi>, &amp; cet autre Madrigal les explique.</p>
         <quote>
           <lg>
             <l rend="i">Brillant d’une lumiere &amp; douce &amp; bienfaisante,</l>
@@ -48,10 +35,7 @@
             <l rend="i">Elle va desormais estre seure &amp; constante.</l>
           </lg>
         </quote>
-        <p>M<hi rend="sup">r</hi> Rault de Roüen a fait cette troisiéme Devise. Le corps est une
-          Iris sur un nuage, que le Soleil estant à l’opposite, peint avec ses rayons. Voicy les
-          paroles qui luy servent d’ame, <hi rend="i">Redituræ nuntia pacis</hi>, avec l’explication
-          qu’il leur a donnée.</p>
+        <p>M<hi rend="sup">r</hi> Rault de Roüen a fait cette troisiéme Devise. Le corps est une Iris sur un nuage, que le Soleil estant à l’opposite, peint avec ses rayons. Voicy les paroles qui luy servent d’ame, <hi rend="i">Redituræ nuntia pacis</hi>, avec l’explication qu’il leur a donnée.</p>
         <quote>
           <lg>
             <l rend="i">Brillant Astre du jour, qui dans vostre carriere</l>
@@ -77,6 +61,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

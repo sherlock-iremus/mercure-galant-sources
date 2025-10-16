@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,18 +14,17 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Vous sçavez, Madame, avec quel succés M<hi rend="sup">r</hi> l’Evêque d’Agen prêcha
-          l’Avent dernier à Versailles. Il alla aussi prêcher à Saint-Cyr, &amp; c’est sur ce Sermon
-          que Mademoiselle de Scudery a fait le Madrigal que vous allez lire.</p>
+    <body>
+      <div>
+        <p>Vous sçavez, Madame, avec quel succés M<hi rend="sup">r</hi> l’Evêque d’Agen prêcha l’Avent dernier à Versailles. Il alla aussi prêcher à Saint-Cyr, &amp; c’est sur ce Sermon que Mademoiselle de Scudery a fait le Madrigal que vous allez lire.</p>
         <quote>
           <label>A M<hi rend="sup">r</hi> L’EVESQUE<lb/>COMTE D’AGEN.</label>
           <lg>
             <l rend="i">Aprés avoir charmé des Courtisans sans nombre,</l>
             <l rend="i">Et touché fortement les plus ambitieux,</l>
-            <l><hi rend="i">Vous allez à Saint-Cyr, desert delicieux,</hi></l>
+            <l>
+              <hi rend="i">Vous allez à Saint-Cyr, desert delicieux,</hi>
+            </l>
             <l rend="i">Où l’on voit la vertu sans nuage &amp; sans ombre,</l>
             <l rend="i"> Telle qu’elle descend des Cieux.</l>
             <l rend="i">Dans tant de jeunes cœurs, vostre vive éloquence</l>
@@ -40,9 +39,7 @@
             <l rend="i">Et dont l’illustre nom ne perira jamais.</l>
           </lg>
         </quote>
-        <p>Cet autre Madrigal a esté fait par M<hi rend="sup">r</hi> Bosquillon, de l’Academie
-          Royale de Soissons, sur ce que le même Prelat devoit prêcher à Saint-Cyr le jour de
-          l’Annonciation.</p>
+        <p>Cet autre Madrigal a esté fait par M<hi rend="sup">r</hi> Bosquillon, de l’Academie Royale de Soissons, sur ce que le même Prelat devoit prêcher à Saint-Cyr le jour de l’Annonciation.</p>
         <quote>
           <lg>
             <l rend="i">Pour inspirer l’amour des plus hautes vertus,</l>
@@ -68,6 +65,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

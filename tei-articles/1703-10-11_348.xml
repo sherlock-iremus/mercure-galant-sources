@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,52 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-                
-                
-
-                <p>M<hi rend="sup">r</hi> le Marquis de Castel dos Rios<note xml:id="_ftn0" resp="editor" n="1"> « Rius » a
-                            été corrigé par « Rios ».</note>,
-                        Ambassadeur d’Espagne, a eu son Audiance de congé, où le Roy a
-                        continué de le traiter avec tous les témoignages d’estime &amp; de bonté de
-                        laquelle Sa Majesté l’a toûjours honoré. Vous sçavez de quel œil est regardé
-                        ce Ministre en France, &amp; avec quelle veneration &amp; quelle tendresse le
-                        regardent la Ville &amp; la Cour ; peu d’hommes sont nés avec des qualitez plus
-                        éclatantes &amp; plus singulieres. Sa presence previent, son esprit impose, &amp;
-                        toutes ses manieres le font autant admirer que ses discours, avec un merite
-                        qui n’a guere de semblable ; c’est l’homme du monde qui pense de luy aussi
-                        modestement. Il aime la gloire, mais il hait la vanité. Je vous ay cent fois
-                        parlé de luy, &amp; j’ay toûjours quelque chose de nouveau à vous en
-                        dire, aussi ne peut-on le voir ny l’entendre qu’on ne luy découvre quelque
-                        merite nouveau. Ce seroit icy une occasion de vous entretenir des succez
-                        éclatans de l’Ambassade la plus glorieuse qui ait peut-être jamais été. Le
-                        Roy l’a dit publiquement, &amp; nous pouvons le redire après Sa Majesté. M<hi rend="sup">r</hi> le
-                        Marquis de Castel-dos-Rius peut se flater qu’il n’y a homme sur la terre
-                        entre les mains de qui il ait passé autant d’affaires &amp; d’une aussi grande
-                        importance qu’il en a passé par les siennes. Ses succez ont été grands
-                        pendant qu’il a commandé la Noblesse en Catalogne, pendant qu’il a été
-                        Viceroy à Mayorque, &amp; pendant qu’il a été Ambassadeur en Portugal ; mais
-                        des succez d’un autre nature &amp; d’un autre éclat l’attendoient icy. C’est un
-                        détail que je vous feray le mois prochain<hi rend="sup "
-                            ><note xml:id="_ftn1" resp="editor" n="2">
-                                L’édition de décembre 1703 publie des stances sur ce sujet. Voir
-                                M<hi rend="sup">r</hi> de Montfort, « Stances à M<hi rend="sup">r</hi> l’Ambassadeur d’Espagne sur son
-                                Audiance de congé », <hi rend="italic">Mercure
-                                galant</hi>, Paris, Michel Brunet,
-                                p. 235-244. </note></hi>. Je me
-                        contenteray, pour ne pas vous affliger du départ de M<hi rend="sup">r</hi> le Marquis de
-                        Castel-dos-Rius, de vous dire icy, qu’il ne partira pas si-tôt, &amp;<note xml:id="_ftn2" resp="editor" n="3"> « &amp; &amp; » a
-                            été corrigé par « &amp; ».</note> que selon
-                        les apparences, il demeurera encore icy une bonne partie de l’hiver. Le
-                        Perou est instruit de tout ce qu’il est &amp; de tout ce qu’il vaut, &amp; tout ce
-                        vaste &amp; magnifique Royaume l’attend avec autant d’impatience, que nous
-                        avons de peine à le voir partir. C’est un employ si grand que celuy
-                        d’être Viceroy du Perou, qu’il faut nous consoler de le perdre à pareille
-                        condition.</p>
-
-            </div>
-
-
+    <body>
+      <div>
+        <p>M<hi rend="sup">r</hi> le Marquis de Castel dos Rios<note xml:id="_ftn0" resp="editor" n="1"> « Rius » a été corrigé par « Rios ».</note>, Ambassadeur d’Espagne, a eu son Audiance de congé, où le Roy a continué de le traiter avec tous les témoignages d’estime &amp; de bonté de laquelle Sa Majesté l’a toûjours honoré. Vous sçavez de quel œil est regardé ce Ministre en France, &amp; avec quelle veneration &amp; quelle tendresse le regardent la Ville &amp; la Cour ; peu d’hommes sont nés avec des qualitez plus éclatantes &amp; plus singulieres. Sa presence previent, son esprit impose, &amp; toutes ses manieres le font autant admirer que ses discours, avec un merite qui n’a guere de semblable ; c’est l’homme du monde qui pense de luy aussi modestement. Il aime la gloire, mais il hait la vanité. Je vous ay cent fois parlé de luy, &amp; j’ay toûjours quelque chose de nouveau à vous en dire, aussi ne peut-on le voir ny l’entendre qu’on ne luy découvre quelque merite nouveau. Ce seroit icy une occasion de vous entretenir des succez éclatans de l’Ambassade la plus glorieuse qui ait peut-être jamais été. Le Roy l’a dit publiquement, &amp; nous pouvons le redire après Sa Majesté. M<hi rend="sup">r</hi> le Marquis de Castel-dos-Rius peut se flater qu’il n’y a homme sur la terre entre les mains de qui il ait passé autant d’affaires &amp; d’une aussi grande importance qu’il en a passé par les siennes. Ses succez ont été grands pendant qu’il a commandé la Noblesse en Catalogne, pendant qu’il a été Viceroy à Mayorque, &amp; pendant qu’il a été Ambassadeur en Portugal ; mais des succez d’un autre nature &amp; d’un autre éclat l’attendoient icy. C’est un détail que je vous feray le mois prochain<hi rend="sup "><note xml:id="_ftn1" resp="editor" n="2"> L’édition de décembre 1703 publie des stances sur ce sujet. Voir M<hi rend="sup">r</hi> de Montfort, « Stances à M<hi rend="sup">r</hi> l’Ambassadeur d’Espagne sur son Audiance de congé », <hi rend="italic">Mercure galant</hi>, Paris, Michel Brunet, p. 235-244. </note></hi>. Je me contenteray, pour ne pas vous affliger du départ de M<hi rend="sup">r</hi> le Marquis de Castel-dos-Rius, de vous dire icy, qu’il ne partira pas si-tôt, &amp;<note xml:id="_ftn2" resp="editor" n="3"> « &amp; &amp; » a été corrigé par « &amp; ».</note> que selon les apparences, il demeurera encore icy une bonne partie de l’hiver. Le Perou est instruit de tout ce qu’il est &amp; de tout ce qu’il vaut, &amp; tout ce vaste &amp; magnifique Royaume l’attend avec autant d’impatience, que nous avons de peine à le voir partir. C’est un employ si grand que celuy d’être Viceroy du Perou, qu’il faut nous consoler de le perdre à pareille condition.</p>
+      </div>
     </body>
   </text>
 </TEI>

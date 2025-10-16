@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,9 +14,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Voicy d’autres Paroles sur un sujet tout diférent. M<hi rend="sup">r</hi> Moliere en a fait l’Air depuis peu avec son succés ordinaire.</p>
         <quote>
           <label>AIR.</label>
@@ -27,6 +26,6 @@
           <l rend="i">J’aime l’Eau pour l’amour du Vin.</l>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

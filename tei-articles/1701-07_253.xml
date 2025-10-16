@@ -1,26 +1,22 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
-        <p />
+        <p/>
       </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text>
     <body>
       <div>
-        <p>Sa Majesté a nommé [...] M<hi rend="sup">r</hi> Ducasse, Gouverneur de l’Isle de
-          Saint Domingue, pour estre Chef d’Escadre de ses Armées Navales &amp; luy a donné ordre de
-          se preparer pour retourner en Espagne, où Sa Majesté Catholique le souhaite. Il a de
-          grandes lumieres, &amp; est homme de bon conseil, &amp; d’expedition &amp; tres-capable de
-          rendre des services importans.</p>
+        <p>Sa Majesté a nommé [...] M<hi rend="sup">r</hi> Ducasse, Gouverneur de l’Isle de Saint Domingue, pour estre Chef d’Escadre de ses Armées Navales &amp; luy a donné ordre de se preparer pour retourner en Espagne, où Sa Majesté Catholique le souhaite. Il a de grandes lumieres, &amp; est homme de bon conseil, &amp; d’expedition &amp; tres-capable de rendre des services importans.</p>
       </div>
     </body>
   </text>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Ce mesme Abbé a fait l’Anagramme de ces autres mots, <hi rend="i">Loüis le Grand, Roy de
-            France &amp; de Navarre</hi>. Les lettres transposées y font trouver, <hi rend="i">Fortune aviendra par regard de ce Soleil.</hi></p>
+    <body>
+      <div>
+        <p>Ce mesme Abbé a fait l’Anagramme de ces autres mots, <hi rend="i">Loüis le Grand, Roy de France &amp; de Navarre</hi>. Les lettres transposées y font trouver, <hi rend="i">Fortune aviendra par regard de ce Soleil.</hi></p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

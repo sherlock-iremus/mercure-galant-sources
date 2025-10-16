@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Je vous envoye quatre Vers qui ont esté trouvez admirables. M<hi rend="sup">r</hi> des
-          Halus les a mis en Air ; mais comme cet Air a commencé déja à courir, &amp; que vous
-          pourriez reprocher qu’il ne seroit pas nouveau, je me contente de vous en faire voir les
-          Paroles.</p>
+    <body>
+      <div>
+        <p>Je vous envoye quatre Vers qui ont esté trouvez admirables. M<hi rend="sup">r</hi> des Halus les a mis en Air ; mais comme cet Air a commencé déja à courir, &amp; que vous pourriez reprocher qu’il ne seroit pas nouveau, je me contente de vous en faire voir les Paroles.</p>
         <quote>
           <label>AIR.</label>
           <lg>
@@ -31,6 +27,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

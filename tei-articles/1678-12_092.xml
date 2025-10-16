@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,20 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Je reviens à la Publication de la Paix. Si tost qu’elle eut esté faite à Saumur, M<hi rend="sup">r</hi>  des Haves Lieutenant de Roy, reçeut ordre de faire allumer des Feux
-          de joye. Le jour qui fut choisy pour cette Cerémonie estant arrivé, tous les Ordres de la
-          Ville s’assemblerent dans l’Eglise de S. Pierre. On y chanta le <hi rend="i">Te Deum</hi>
-          , avec un grand nombre de Voix &amp; d’Instrumens, apres quoy on marcha au son des
-          Trompetes vers le Feu qui avoit esté preparé, &amp; qui fut allumé par M <hi rend="sup">rs</hi>  le Lieutenant de Roy, le Maire, &amp; les Echevins de la Ville. Les cris de
-            <hi rend="i">Vive le Roy</hi> se firent aussi tost entendre. Les Canons du Chasteau leur
-          répondirent, &amp; à peine eurent-ils cessé de tirer, qu’on vit éclater un Feu d’artifice.
-          Mille Fusées volantes parurent en l’air dans le mesme temps, &amp; finirent une Feste qui
-          fut celébrée avec toutes les démonstrations de joye, qu’exige la reconnoissance qu’on doit
-          aux bontez que le Roy temoigne avoir pour ses Peuples.</p>
+    <body>
+      <div>
+        <p>Je reviens à la Publication de la Paix. Si tost qu’elle eut esté faite à Saumur, M<hi rend="sup">r</hi>  des Haves Lieutenant de Roy, reçeut ordre de faire allumer des Feux de joye. Le jour qui fut choisy pour cette Cerémonie estant arrivé, tous les Ordres de la Ville s’assemblerent dans l’Eglise de S. Pierre. On y chanta le <hi rend="i">Te Deum</hi> , avec un grand nombre de Voix &amp; d’Instrumens, apres quoy on marcha au son des Trompetes vers le Feu qui avoit esté preparé, &amp; qui fut allumé par M <hi rend="sup">rs</hi>  le Lieutenant de Roy, le Maire, &amp; les Echevins de la Ville. Les cris de <hi rend="i">Vive le Roy</hi> se firent aussi tost entendre. Les Canons du Chasteau leur répondirent, &amp; à peine eurent-ils cessé de tirer, qu’on vit éclater un Feu d’artifice. Mille Fusées volantes parurent en l’air dans le mesme temps, &amp; finirent une Feste qui fut celébrée avec toutes les démonstrations de joye, qu’exige la reconnoissance qu’on doit aux bontez que le Roy temoigne avoir pour ses Peuples.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

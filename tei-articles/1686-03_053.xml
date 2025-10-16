@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,21 +14,20 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p/>
-          <p>M<hi rend="sup">r</hi> Botu de la Barmondiere, de l’Academie de Ville-franche en Beaujolois, a fait l’Anagramme que j’ajoûte icy.</p>
-          <quote>
-            <label>LOUIS LE GRAND.<lb/>RANG DU SOLEIL.</label>
-            <lg>
-              <l rend="i">Si comme un Astre au Ciel un Roy brille sur terre,</l>
-              <l rend="i"> LOUIS le Grand se trouvant sans pareil,</l>
-              <l rend="i">  Soit dans la Paix, soit dans la Guerre,</l>
-              <l rend="i">  Tient le Rang du Soleil.</l>
-            </lg>
-          </quote>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p/>
+        <p>M<hi rend="sup">r</hi> Botu de la Barmondiere, de l’Academie de Ville-franche en Beaujolois, a fait l’Anagramme que j’ajoûte icy.</p>
+        <quote>
+          <label>LOUIS LE GRAND.<lb/>RANG DU SOLEIL.</label>
+          <lg>
+            <l rend="i">Si comme un Astre au Ciel un Roy brille sur terre,</l>
+            <l rend="i"> LOUIS le Grand se trouvant sans pareil,</l>
+            <l rend="i">  Soit dans la Paix, soit dans la Guerre,</l>
+            <l rend="i">  Tient le Rang du Soleil.</l>
+          </lg>
+        </quote>
+      </div>
+    </body>
   </text>
 </TEI>

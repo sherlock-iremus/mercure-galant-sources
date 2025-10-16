@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-                    
-                    <p>Le Parnasse François vient de perdre M<hi rend="sup">r</hi> de Riouperoux,
-                        Auteur de plusieurs Pieces de Theatre, qui ont eu un grand succés, du nombre
-                        desquelles sont <hi rend="i">Valerien</hi> &amp; <hi rend="i">Hypermnestre</hi>,
-                        qui ont reçu de grands applaudissemens.</p>
-                </div>
-                </body>
+    <body>
+      <div>
+        <p>Le Parnasse François vient de perdre M<hi rend="sup">r</hi> de Riouperoux, Auteur de plusieurs Pieces de Theatre, qui ont eu un grand succés, du nombre desquelles sont <hi rend="i">Valerien</hi> &amp; <hi rend="i">Hypermnestre</hi>, qui ont reçu de grands applaudissemens.</p>
+      </div>
+    </body>
   </text>
 </TEI>

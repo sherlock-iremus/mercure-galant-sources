@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p/>
-          <p>Les Peres Barnabites de Montargis aprés avoir fait bâtir leur Eglise, qui est une des plus belles de la Province, font aussi bâtir leur College, où ils sont établis depuis 1620. feuë Son A.R. Monsieur ayant mis la premiere pierre de l’Eglise en 1679. S.A.R. Madame a bien voulu que celle du College fust mise en son nom. Cette Ceremonie se fit le 30. du mois passé. Le Clergé de la Ville, le Maire &amp; les Echevins precedez des Compagnies de toute la Bourgeoisie sous les armes, les Officiers du Presidial, de l’Election, de la Prevosté, de la Maréchaussée, &amp; des Eaux &amp; Forests, y ont assisté par ordre de Son Altesse Royale. Mr de la Motte, Lieutenant general de Police &amp; Procureur du Roy &amp; de Son Altesse Royale, a mis la premiere pierre au nom de Madame. Les Ecoliers du College reciterent avant la Ceremonie plusieurs Pieces de Vers à la loüange de cette Princesse &amp; de S.A.R. Monsieur le Duc d’Orleans.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p/>
+        <p>Les Peres Barnabites de Montargis aprés avoir fait bâtir leur Eglise, qui est une des plus belles de la Province, font aussi bâtir leur College, où ils sont établis depuis 1620. feuë Son A.R. Monsieur ayant mis la premiere pierre de l’Eglise en 1679. S.A.R. Madame a bien voulu que celle du College fust mise en son nom. Cette Ceremonie se fit le 30. du mois passé. Le Clergé de la Ville, le Maire &amp; les Echevins precedez des Compagnies de toute la Bourgeoisie sous les armes, les Officiers du Presidial, de l’Election, de la Prevosté, de la Maréchaussée, &amp; des Eaux &amp; Forests, y ont assisté par ordre de Son Altesse Royale. Mr de la Motte, Lieutenant general de Police &amp; Procureur du Roy &amp; de Son Altesse Royale, a mis la premiere pierre au nom de Madame. Les Ecoliers du College reciterent avant la Ceremonie plusieurs Pieces de Vers à la loüange de cette Princesse &amp; de S.A.R. Monsieur le Duc d’Orleans.</p>
+      </div>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,19 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
+    <body>
+      <div>
         <p/>
-        <p>Je vous ay envoyé quelques Ouvrages de M<hi rend="sup">r</hi> de la Barmondiere
-          Gentilhomme de Beaujolois, &amp; l’un de ceux de l’Academie qu’on a establie depuis
-          quelque temps à Ville-franche. On me mande qu’il y est mort le 24. du dernier mois, âgé
-          seulement de quarante-quatre ans, &amp; qu’il est generalement regretté dans la Province.
-          Il n’avoit pas moins de pieté que d’érudition &amp; d’esprit, &amp; vous le croirez quand
-          je vous diray qu’il estoit digne Frere de M<hi rend="sup">r</hi> de la Barmondiere, Curé
-          de S. Sulpice. Voicy un Sonnet qu’il fit au mois d’Octobre dernier, sur le sujet que donna
-            M<hi rend="sup">r</hi> de Vertron du Paralelle de Sa Majesté avec les Princes qui ont
-          porté le surnom de Grand.</p>
+        <p>Je vous ay envoyé quelques Ouvrages de M<hi rend="sup">r</hi> de la Barmondiere Gentilhomme de Beaujolois, &amp; l’un de ceux de l’Academie qu’on a establie depuis quelque temps à Ville-franche. On me mande qu’il y est mort le 24. du dernier mois, âgé seulement de quarante-quatre ans, &amp; qu’il est generalement regretté dans la Province. Il n’avoit pas moins de pieté que d’érudition &amp; d’esprit, &amp; vous le croirez quand je vous diray qu’il estoit digne Frere de M<hi rend="sup">r</hi> de la Barmondiere, Curé de S. Sulpice. Voicy un Sonnet qu’il fit au mois d’Octobre dernier, sur le sujet que donna M<hi rend="sup">r</hi> de Vertron du Paralelle de Sa Majesté avec les Princes qui ont porté le surnom de Grand.</p>
         <quote>
           <label>AU ROY.</label>
           <lg>
@@ -56,6 +47,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

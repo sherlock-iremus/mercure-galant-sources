@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-
-        
+    <body>
+      <div>
         <p/>
-        <p>Les Vers qui suivent meritent vostre curiosité, &amp; par le titre qu’ils portent, &amp;
-          par le nom de M<hi rend="sup">r</hi> Magnin qui en est l’Autheur. Vous sçavez qu’il est de
-          l’Academie Royale d’Arles, &amp; que sa Muse, qui a toujours le Roy pour objet, en a fait
-          souvent l’Eloge.</p>
-        <label>REMONTRANCE<lb/>de la Déesse Pallas<lb/>À LOUIS LE GRAND,<lb/>Pour l’établissement
-          des Cadets du Parnasse.<lb/><hi rend="i">VERS LIBRES.</hi></label>
+        <p>Les Vers qui suivent meritent vostre curiosité, &amp; par le titre qu’ils portent, &amp; par le nom de M<hi rend="sup">r</hi> Magnin qui en est l’Autheur. Vous sçavez qu’il est de l’Academie Royale d’Arles, &amp; que sa Muse, qui a toujours le Roy pour objet, en a fait souvent l’Eloge.</p>
+        <label>REMONTRANCE<lb/>de la Déesse Pallas<lb/>À LOUIS LE GRAND,<lb/>Pour l’établissement des Cadets du Parnasse.<lb/><hi rend="i">VERS LIBRES.</hi></label>
         <lg>
           <l rend="i">Grand Roy, dont la sagesse égale la vaillance,</l>
           <l rend="i">Je suis entre les Dieux, sage, &amp; guerriere aussi ;</l>
@@ -250,6 +244,6 @@
           <l rend="i">Apprendra de LOUIS, qu’on n’y va que par elles.</l>
         </lg>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

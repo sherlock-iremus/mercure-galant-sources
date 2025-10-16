@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-          
-          <p>Je vous envoye une <hi rend="i">Traduction nouvelle de la seconde Philippique de Ciceron</hi>, faite par M<hi rend="sup">r</hi> Gillet Avocat au Parlement. Il a conservé toutes les beautez de l’Original ; &amp; ce n’est pas une petite gloire pour luy, puis que cette Piéce passe pour le Chef-d’œuvre de ce grand Maistre de l’Eloquence. Je suis, Madame, vostre, &amp;c.</p>
-          <p/>
-          <p><hi rend="i">A Paris ce 31. May 1685.</hi></p>
-        </div>
-      </body>
+    <body>
+      <div>
+        <p>Je vous envoye une <hi rend="i">Traduction nouvelle de la seconde Philippique de Ciceron</hi>, faite par M<hi rend="sup">r</hi> Gillet Avocat au Parlement. Il a conservé toutes les beautez de l’Original ; &amp; ce n’est pas une petite gloire pour luy, puis que cette Piéce passe pour le Chef-d’œuvre de ce grand Maistre de l’Eloquence. Je suis, Madame, vostre, &amp;c.</p>
+        <p/>
+        <p>
+          <hi rend="i">A Paris ce 31. May 1685.</hi>
+        </p>
+      </div>
+    </body>
   </text>
 </TEI>

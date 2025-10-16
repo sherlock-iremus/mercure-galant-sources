@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
+    <body>
+      <div>
         <p>L'Enigme en Prose du spirituel Berger Fleuriste, a esté ainsi expliquée par le Nouvel Habitant de la Coste des Singes Verts.</p>
         <p/>
         <p>Il ne se peut rien de plus agreablement imaginé, que l'Enigme en Prose du XIX. Extraordinaire. C'est le Monosillabe Si, qui dans les premiers temps, n'estoit aparement employé qu'à un seul usage, c'est à dire, dans le discours ordinaire, &amp; qui l'a esté depuis diféremment par les diférentes significations, que les Nations luy ont donnée. On l'a fait mesme servir à un autre employ, en l'ajoûtant aux six tons de la Musique, cette Science agreable &amp; pénible, mais plus facile présentement par l'addition du Si.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

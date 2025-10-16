@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p/>
-          <p>On vient de donner au Public un premier tome de <hi rend="i">Lettres Spirituelles</hi>, d'un des hommes du monde qui a esté le plus éclairé dans la science mistique, &amp; qui en a le plus solidement écrit. Ce que feu Monsieur le Prince de Conti a fait imprimer de ses Ouvrages en est une preuve. On attendoit le reste avec impatience. Ce premier tome sera suivi de plusieurs autres, qui satisferont le desir des bonnes ames. Il est imprimé à Nantes par Jacques Maréchal, &amp; se vend à Paris chez Edme Couterot, rue S. Jacques, au bon Pasteur.</p>
-        </div>
-      </body>
+    <body>
+      <div>
+        <p/>
+        <p>On vient de donner au Public un premier tome de <hi rend="i">Lettres Spirituelles</hi>, d'un des hommes du monde qui a esté le plus éclairé dans la science mistique, &amp; qui en a le plus solidement écrit. Ce que feu Monsieur le Prince de Conti a fait imprimer de ses Ouvrages en est une preuve. On attendoit le reste avec impatience. Ce premier tome sera suivi de plusieurs autres, qui satisferont le desir des bonnes ames. Il est imprimé à Nantes par Jacques Maréchal, &amp; se vend à Paris chez Edme Couterot, rue S. Jacques, au bon Pasteur.</p>
+      </div>
+    </body>
   </text>
 </TEI>

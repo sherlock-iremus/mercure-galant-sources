@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Nous commençons d’entrer dans l’Automne. Si vous voulez voir les avantages que cette
-          Saison a sur le Printemps, vous n’avez qu’à lire ces Vers de M<hi rend="sup">r</hi> de
-          Breteüil de la Lane, Lieutenant general du Païs Bas Armagnac.</p>
+    <body>
+      <div>
+        <p>Nous commençons d’entrer dans l’Automne. Si vous voulez voir les avantages que cette Saison a sur le Printemps, vous n’avez qu’à lire ces Vers de M<hi rend="sup">r</hi> de Breteüil de la Lane, Lieutenant general du Païs Bas Armagnac.</p>
         <quote>
           <label rend="center">ZEPHIRE À FLORE.</label>
           <lg>
@@ -34,6 +31,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

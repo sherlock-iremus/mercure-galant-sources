@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,10 +14,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
+    <body>
+      <div>
         <quote>
           <label rend="center">L'Amour </label>
           <label rend="center">Poete, </label>
@@ -28,12 +26,14 @@
             <l>Que vous voulez qu’on fasse à tout moment</l>
             <l>Quelque Poëme agreable &amp; charmant,</l>
             <l>Comme eust pû faire Horace, ou bien Virgile.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l>Ce me seroit une peine inutile,</l>
             <l>Et je perdrois bientost le jugement,</l>
             <l>Si je voulois sur vostre éloignement</l>
             <l><space/>Faire des Vers.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l>Mais en voilà, ce me semble, un fragment ;</l>
             <l>Phébus sans-doute aujourd’huy me dément.</l>
             <l>Ah ! je sens bien qu’une flame subtile</l>
@@ -43,6 +43,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

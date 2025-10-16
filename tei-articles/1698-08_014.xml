@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Ce que M<hi rend="sup">r</hi> Vittement a dit sur la Paix, m’oblige à vous faire part de
-          ce que Mademoiselle Bernard, si connuë par ses beaux Ouvrages, a écrit sur cette même
-          matiere. C’est une Ode qui luy a fait meriter le Prix des Jeux Floraux à Toulouse. Elle
-          l’adresse à M<hi rend="sup">r</hi> le Chancelier, par ces Vers.</p>
+    <body>
+      <div>
+        <p>Ce que M<hi rend="sup">r</hi> Vittement a dit sur la Paix, m’oblige à vous faire part de ce que Mademoiselle Bernard, si connuë par ses beaux Ouvrages, a écrit sur cette même matiere. C’est une Ode qui luy a fait meriter le Prix des Jeux Floraux à Toulouse. Elle l’adresse à M<hi rend="sup">r</hi> le Chancelier, par ces Vers.</p>
         <quote>
           <lg>
             <l rend="i"> Ne pouvant payer vos bienfaits,</l>
@@ -35,7 +31,9 @@
           </lg>
         </quote>
         <quote>
-          <label><hi rend="i">ODE.</hi></label>
+          <label>
+            <hi rend="i">ODE.</hi>
+          </label>
           <lg>
             <l>À la fin tout change de face,</l>
             <l>Nos Temples ne sont plus parez</l>
@@ -167,6 +165,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

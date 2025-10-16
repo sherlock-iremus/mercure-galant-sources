@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,9 +14,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <quote>
           <label><hi rend="i">Sur ce qu’on demande le Portrait d’un Homme parfaitement heureux</hi>.</label>
           <p>Il se fait des Portraits achevez en diférentes manieres, en Peinture, Gravure, Cire, Sculpture, en Pastel &amp; en Mignature. C’est en cette derniere façon que je prétens contenter le Mercure sur sa demande. Pour l’accomplissement de ce dessein, je ne puis me servir d’un Pinceau &amp; d’une meilleure main, que de celle qui a formé toutes choses sur le modelle de son Idée, &amp; qui a creé l’Homme à son image &amp; semblance. Cet excellent Ouvrier a prévenu nostre curiosité sur les Questions que nous aurions à proposer au sujet de ce Discours. Il a decidé des objets, qui pourroient y faire naistre un doute raisonnable dans le choix &amp; la preférence, en donnant l’exclusion à ceux dont les aparences trompeuses &amp; ébloüissantes pourroient nous surprendre, &amp; nous découvrant tout ce qu’avec raison &amp; verité on devoit estimer propre à l’établissement d’un solide &amp; entier bonheur. Il n’est donc besoin icy que de raporter nuëment ses paroles, qui tracent le plus beau Portrait d’un Homme parfaitement heureux, que toutes les Langues, les Plumes, &amp; les Pinceaux de l’Univers, ne sçauroient décrire ou dépeindre. Ces paroles sont, <hi rend="i">Les uns ont mis la Beatitude dans les richesses, d’autres dans les honneurs, ceux-cy dans les plaisirs ; &amp; tous unanimement, chez les Anciens prophanes, ont estimé pour tres-heureux, les Gens qui possedoient ensemble ces avantages, mais ce jugement est vain. Heureux uniquement le Peuple, qui faisant un bon usage des graces du Ciel, en mérite la protection, &amp; dont le Seigneur soit connu le Dieu.</hi></p>
@@ -48,6 +47,6 @@
           <p><hi rend="sc">Le Marquis d’Ally</hi>.</p>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

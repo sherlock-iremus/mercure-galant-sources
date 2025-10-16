@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,20 +14,22 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Les paroles que vous allez lire ont esté faites à Toulouse ; ainsi que l'Air que l'on a composé sur ces paroles.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : [l’Air] qui commence par <hi rend="i">Eveillez comme moy</hi>, doit regarder la page 198.</note>
-          <lg><l rend="i">Eveillez comme moy par les soins de l'Amour.</l>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : [l’Air] qui commence par <hi rend="i">Eveillez comme moy</hi>, doit regarder la page 198.</note>
+          <lg>
+            <l rend="i">Eveillez comme moy par les soins de l'Amour.</l>
             <l rend="i">Jour &amp; nuit, Rossignols, vous chantez vostre flame ;</l>
             <l rend="i">Et je chante à mon tour,</l>
             <l rend="i">Les transports de mon ame.</l>
             <l rend="i">Nous sommes tous également charmez ;</l>
             <l rend="i">Mais nous ne parlons pas de même :</l>
             <l rend="i">Vous vous loüez de ce que vous aimez,</l>
-            <l rend="i">Et je me plains de ce que j'aime.</l></lg>
+            <l rend="i">Et je me plains de ce que j'aime.</l>
+          </lg>
         </quote>
         <ref target="images/1707-08_197.JPG">
           <figure>
@@ -35,6 +37,6 @@
           </figure>
         </ref>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

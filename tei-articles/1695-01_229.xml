@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p/>
-          <p>Ildegerte, Nouvelle Historique dont je vous parlay le mois passé, a esté si bien receuë dans vostre Province, que je croy vous faire plaisir en vous disant que le S<hi rend="sup">r</hi> de Luynes, Libraire au Palais, en debite une seconde, intitulée <hi rend="i">Zulima</hi>. Les Avantures en sont surprenantes &amp; fort agreablement diversifiées, en sorte que ce petit Ouvrage contient autant de matiere qu’il s’en trouvoit autrefois dans un gros Volume de nos anciens Romans. Je ne vous dis rien du stile ; vous le connoissez, puis que Zulima &amp; Ildegerte sont du mesme Auteur.</p>
-        </div>
-      </body>
+    <body>
+      <div>
+        <p/>
+        <p>Ildegerte, Nouvelle Historique dont je vous parlay le mois passé, a esté si bien receuë dans vostre Province, que je croy vous faire plaisir en vous disant que le S<hi rend="sup">r</hi> de Luynes, Libraire au Palais, en debite une seconde, intitulée <hi rend="i">Zulima</hi>. Les Avantures en sont surprenantes &amp; fort agreablement diversifiées, en sorte que ce petit Ouvrage contient autant de matiere qu’il s’en trouvoit autrefois dans un gros Volume de nos anciens Romans. Je ne vous dis rien du stile ; vous le connoissez, puis que Zulima &amp; Ildegerte sont du mesme Auteur.</p>
+      </div>
+    </body>
   </text>
 </TEI>

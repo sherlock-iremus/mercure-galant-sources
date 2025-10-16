@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,18 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
-        <p>La Machine qu’on préparoit pour le Dimanche 23. n’ayant pû estre élevée dans la Place du
-          Palais de M<hi rend="sup">r</hi> le Résident, parce qu’elle est trop petite, il choisit
-          celle de Campetto, où est la Maison Consulaire. Ainsi ce troisiéme jour, on y vit
-          paroistre dés le matin une Victoire sur un Char de Triomphe tiré par des Chevaux, qui
-          sembloient estre entraînez dans la Mer, le tout d’un tres-beau dessein. Cela faisoit une
-          juste allusion au nom de Victoire que porte Madame la Dauphine. Cette Figure estoit ornée
-          de Fleurs-de-Lys d’or, aussi bien que le Theatre sur lequel estoit ce Char de Triomphe. Un
-          peu au dessous de la Victoire, on lisoit cette Inscription au devant du Char,</p>
+    <body>
+      <div>
+        <p>La Machine qu’on préparoit pour le Dimanche 23. n’ayant pû estre élevée dans la Place du Palais de M<hi rend="sup">r</hi> le Résident, parce qu’elle est trop petite, il choisit celle de Campetto, où est la Maison Consulaire. Ainsi ce troisiéme jour, on y vit paroistre dés le matin une Victoire sur un Char de Triomphe tiré par des Chevaux, qui sembloient estre entraînez dans la Mer, le tout d’un tres-beau dessein. Cela faisoit une juste allusion au nom de Victoire que porte Madame la Dauphine. Cette Figure estoit ornée de Fleurs-de-Lys d’or, aussi bien que le Theatre sur lequel estoit ce Char de Triomphe. Un peu au dessous de la Victoire, on lisoit cette Inscription au devant du Char,</p>
         <quote>
           <lg>
             <l>
@@ -106,6 +97,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
+    <body>
+      <div>
         <p>Le 2. du mois, si tost que Sa Majesté eut dîné, Elle visita les Fortifications de la Ville. La Reyne, Madame la Dauphine, &amp; Madame, accompagnées d’un grand nombre de Dames des plus qualifiées de la Cour, allerent faire Collation dans le Jardin de la Contrescarpe. Elles y furent magnifiquement régalées par Madame la Maréchale de Humieres, qui leur donna le divertissement de deux Concerts, &amp; apres la Collation, celuy d’un Combat que des Bateliers firent sur l’eau. Cette auguste Compagnie y prit un fort grand plaisir, &amp; sortit de là tres-satisfaite.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

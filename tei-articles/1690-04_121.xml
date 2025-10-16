@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p>M<hi rend="sup">r</hi> l’Abbé Baudry, dont l’on a vû plusieurs beaux Ouvrages en Vers François à la gloire du Roy, a esté receu depuis peu dans l’Academie Royale de Nismes. M<hi rend="sup">r</hi> l’Abbé Flechier, nommé à cet Evesché, a esté élû Protecteur de cette celebre Compagnie, par tous les suffrages des doctes Academiciens qui la composent. Elle ne pouvoit faire un choix plus judicieux que de prendre pour Chef un Prelat également sage, éloquent, habile &amp; zelé.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>M<hi rend="sup">r</hi> l’Abbé Baudry, dont l’on a vû plusieurs beaux Ouvrages en Vers François à la gloire du Roy, a esté receu depuis peu dans l’Academie Royale de Nismes. M<hi rend="sup">r</hi> l’Abbé Flechier, nommé à cet Evesché, a esté élû Protecteur de cette celebre Compagnie, par tous les suffrages des doctes Academiciens qui la composent. Elle ne pouvoit faire un choix plus judicieux que de prendre pour Chef un Prelat également sage, éloquent, habile &amp; zelé.</p>
+      </div>
+    </body>
   </text>
 </TEI>

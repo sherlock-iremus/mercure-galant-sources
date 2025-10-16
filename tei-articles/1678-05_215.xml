@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Cependant quand vos Amies devroient encor murmurer, elles n’auront que par vous
-          l’intelligence du Sonnet Italien que je vous envoye. À dire vray, je ne croy pas qu’il
-          soit possible de le traduire, &amp; d’en conserver les graces. La Poësie Italienne a des
-          élevations dont nostre Langue ne sçauroit s’accommoder. Ce Sonnet est adressé au Roy. Le
-          nom de l’Autheur est au bas.</p>
+    <body>
+      <div>
+        <p>Cependant quand vos Amies devroient encor murmurer, elles n’auront que par vous l’intelligence du Sonnet Italien que je vous envoye. À dire vray, je ne croy pas qu’il soit possible de le traduire, &amp; d’en conserver les graces. La Poësie Italienne a des élevations dont nostre Langue ne sçauroit s’accommoder. Ce Sonnet est adressé au Roy. Le nom de l’Autheur est au bas.</p>
         <quote rend="border">
           <label rend="center">AL INVITISSIMO<lb/>RÉ LUIGI XIV</label>
           <lg>
@@ -49,10 +44,12 @@
             <l rend="i">(Poëtico furor suela il futuro)</l>
             <l rend="i">T'adori il Mondo incoronato</l>
           </lg>
-          <p><hi rend="sc">Augusto.</hi></p>
+          <p>
+            <hi rend="sc">Augusto.</hi>
+          </p>
           <p>Del D. A. PAJOLI, <hi rend="i">Ferrarese.</hi></p>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

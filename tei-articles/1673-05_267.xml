@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,18 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Comme je m’informe avec soin de tout ce qui se passe de nouveau, afin de vous en faire
-          part, j’appris dernierment que la Ruelle d’Alcidalis qui vous connoissez, estoit devenuë
-          fort celebre depuis que vous estes partie de Paris. Je ne manquay pas d’aller aussi-tost
-          chez elle ; j’y trouvay de fort beau monde, &amp; comme parmy tant de Personnes, il se
-          trouve toûjours des Gens qui sçavent quelques Histoires, je trouvay moyen de conter une de
-          celles que je vous ay mandées, me doutant bien que ceux qui en sçavoient, ne manqueroient
-          pas d’en raconter apres moy. Je ne me trompay point, &amp; dés que j’eus achevé un jeune
-          Homme qui m’avoit paru assez galant, raconta l’Histoire suivante, &amp; commença de la
-          sorte.</p>
+    <body>
+      <div>
+        <p>Comme je m’informe avec soin de tout ce qui se passe de nouveau, afin de vous en faire part, j’appris dernierment que la Ruelle d’Alcidalis qui vous connoissez, estoit devenuë fort celebre depuis que vous estes partie de Paris. Je ne manquay pas d’aller aussi-tost chez elle ; j’y trouvay de fort beau monde, &amp; comme parmy tant de Personnes, il se trouve toûjours des Gens qui sçavent quelques Histoires, je trouvay moyen de conter une de celles que je vous ay mandées, me doutant bien que ceux qui en sçavoient, ne manqueroient pas d’en raconter apres moy. Je ne me trompay point, &amp; dés que j’eus achevé un jeune Homme qui m’avoit paru assez galant, raconta l’Histoire suivante, &amp; commença de la sorte.</p>
         <label rend="center b">Le</label>
         <label rend="center b">Mal de Mere.</label>
         <label rend="center b">Nouvelle.</label>

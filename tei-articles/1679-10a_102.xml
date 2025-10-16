@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
-        <p>Voicy quatre Madrigaux que vous ne serez point fâchée de voir. Ils sont de M<hi rend="sup">r</hi> Brossard de Montaney, &amp; sur une matiere dont la proposition ne
-          vous avoit pas déplû.</p>
+    <body>
+      <div>
+        <p>Voicy quatre Madrigaux que vous ne serez point fâchée de voir. Ils sont de M<hi rend="sup">r</hi> Brossard de Montaney, &amp; sur une matiere dont la proposition ne vous avoit pas déplû.</p>
         <quote>
           <label type="head">Contre <lb/>une vieille.</label>
           <label type="head">I. </label>
@@ -30,8 +27,7 @@
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Ne faites plus l’agreable,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Ce soin est hors de saison.</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>L'Amour veut comme la Table,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Jeune Chair, &amp; vieux
-            Poisson.</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Jeune Chair, &amp; vieux Poisson.</l>
           <label type="head">II. </label>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>EN cachant vos cheveux gris</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Sous une Perruque blonde,</l>
@@ -55,19 +51,16 @@
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Me trouveroit bien plus docile.</l>
           <label type="head">IV.</label>
           <l>UN jour la vieille Iris me faisant les yeux doux,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Autant qu’elle pouvoit le
-            faire,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Autant qu’elle pouvoit le faire,</l>
           <l>Me disoit bonnement, j’ay dessein de vous plaire,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Ne pensez pas de fuir mes
-            coups,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>J'en ay bien pris d’autres que
-            vous.</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Ne pensez pas de fuir mes coups,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>J'en ay bien pris d’autres que vous.</l>
           <l>Je le sçay, répondis-je, on m’a dit vostre vie.</l>
           <l>Longtemps vos yeux ont sçeu tout asservir,</l>
           <l>Mais ils vous ont si longuement servie,</l>
           <l>Qu'ils ne sont plus en état de servir.</l>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

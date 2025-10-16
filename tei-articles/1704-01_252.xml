@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,20 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-                
-                
-                <p>M<hi rend="sup">r</hi> le Chevalier de Roucy a épousé Mademoiselle du
-                        Casse, fille de M<hi rend="sup">r</hi> du Casse Chef d’Escadre des Armées du Roy, &amp;
-                        Gouverneur de Saint Domingue. Je vous ay parlé d’une infinité d’actions par
-                        lesquelles il s’est distingué ; la derniere a fait beaucoup de bruit dans
-                        toute l’Europe, puisqu’avec des forces beaucoup inégales, il battit, pendant
-                        plusieurs jours &amp; défit la flote du Vice-amiral Bembow qui fut blessé dans
-                        ce combat, &amp; qui mourut ensuite de sa blessure.</p>
-
-            </div>
-
-
+    <body>
+      <div>
+        <p>M<hi rend="sup">r</hi> le Chevalier de Roucy a épousé Mademoiselle du Casse, fille de M<hi rend="sup">r</hi> du Casse Chef d’Escadre des Armées du Roy, &amp; Gouverneur de Saint Domingue. Je vous ay parlé d’une infinité d’actions par lesquelles il s’est distingué ; la derniere a fait beaucoup de bruit dans toute l’Europe, puisqu’avec des forces beaucoup inégales, il battit, pendant plusieurs jours &amp; défit la flote du Vice-amiral Bembow qui fut blessé dans ce combat, &amp; qui mourut ensuite de sa blessure.</p>
+      </div>
     </body>
   </text>
 </TEI>

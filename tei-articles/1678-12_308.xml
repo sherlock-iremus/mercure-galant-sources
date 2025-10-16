@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Je vous envoyeray au premier jour un Livre nouveau qui va sortir de la Presse. C'est une
-          Dissertation sur un Voyage de Grece publié par M<hi rend="sup">r</hi>  Spon. Vous y
-          trouverez des Remarques fort curieuses sur les Medailles &amp; sur les Inscriptions ;
-          &amp; ce qui vous y plaira le plus, vous y verrez la Défense d’un autre Livre qui n’a pas
-          moins esté de vostre goust que de celuy du Public. Je parle d’<hi rend="i">Athenes
-            ancienne &amp; nouvelle</hi> , que M <hi rend="sup">r</hi>   de la Guilletiere nous
-          donna il y a trois ans. On l’a attaqué. Vous examinerez si on a eu raison de le faire.</p>
+    <body>
+      <div>
+        <p>Je vous envoyeray au premier jour un Livre nouveau qui va sortir de la Presse. C'est une Dissertation sur un Voyage de Grece publié par M<hi rend="sup">r</hi>  Spon. Vous y trouverez des Remarques fort curieuses sur les Medailles &amp; sur les Inscriptions ; &amp; ce qui vous y plaira le plus, vous y verrez la Défense d’un autre Livre qui n’a pas moins esté de vostre goust que de celuy du Public. Je parle d’<hi rend="i">Athenes ancienne &amp; nouvelle</hi> , que M <hi rend="sup">r</hi>   de la Guilletiere nous donna il y a trois ans. On l’a attaqué. Vous examinerez si on a eu raison de le faire.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

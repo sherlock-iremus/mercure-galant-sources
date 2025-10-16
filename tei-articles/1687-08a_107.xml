@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
+    <body>
+      <div>
         <p/>
-        <p>Monsieur le Comte de Toulouse, en allant à Maintenon, passa par Ramboüillet, où il fut
-          receu magnifiquement par M<hi rend="sup">r</hi> &amp; Madame d’Antin. Il y dîna, &amp;
-          voulut ensuite avoir le plaisir de la Promenade du Parc &amp; des Roches, qui sont un
-          endroit fort agreable. On luy chanta dans les Roches ces Vers que M<hi rend="sup">r</hi>
-          de Messange avoit faits à sa loüange dés qu’il sçeut son arrivée. Ils sont sur l’Air du
-          Menuet de l’Opera de M<hi rend="sup">r</hi> Matau.</p>
+        <p>Monsieur le Comte de Toulouse, en allant à Maintenon, passa par Ramboüillet, où il fut receu magnifiquement par M<hi rend="sup">r</hi> &amp; Madame d’Antin. Il y dîna, &amp; voulut ensuite avoir le plaisir de la Promenade du Parc &amp; des Roches, qui sont un endroit fort agreable. On luy chanta dans les Roches ces Vers que M<hi rend="sup">r</hi> de Messange avoit faits à sa loüange dés qu’il sçeut son arrivée. Ils sont sur l’Air du Menuet de l’Opera de M<hi rend="sup">r</hi> Matau.</p>
         <quote>
           <lg>
             <l rend="i">  Un Amour</l>
@@ -68,12 +61,8 @@
             <l rend="i">Doit mettre en feu tout l’empire des Eaux.</l>
           </lg>
         </quote>
-        <p>Ces Vers furent trouvez fort galans, &amp; M<hi rend="sup">r</hi> de Messange eut le
-          plaisir de les entendre loüer par la plus belle bouche du monde, puisque l’Amour n’en peut
-          avoir de plus belle, ny estre plus beau que Monsieur le Comte de Thoulouse. Ce jeune
-          Prince dit à l’Auteur, &amp; cela de son propre mouvement, &amp; avec un agrément plein de
-          bonté, qu’il les montreroit au Roy.</p>
+        <p>Ces Vers furent trouvez fort galans, &amp; M<hi rend="sup">r</hi> de Messange eut le plaisir de les entendre loüer par la plus belle bouche du monde, puisque l’Amour n’en peut avoir de plus belle, ny estre plus beau que Monsieur le Comte de Thoulouse. Ce jeune Prince dit à l’Auteur, &amp; cela de son propre mouvement, &amp; avec un agrément plein de bonté, qu’il les montreroit au Roy.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

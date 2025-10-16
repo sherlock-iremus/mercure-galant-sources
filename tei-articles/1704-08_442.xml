@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <quote>
-            <label>AVIS.</label>
-            <p>Le Public doit être satisfait des deux volumes qui luy ont esté donnez le mois dernier ; tous ceux qui ont lû le Mercure l’ont trouvé si rempli de pieces curieuses, qu’ils assurent que l’Auteur n’en n’a point fait de plus beau, depuis vingt-sept ans qu’il travaille à cet ouvrage. Il estoit accompagné d’un second volume, qui ne contenoit que des réjoüissances faites pour la naissance de Monseigneur le Duc de Bretagne. Jamais on ne vit tant de varieté sur un même sujet, tant de fêtes galantes, tant de devises differentes, &amp; tant de choses capables de marquer l’esprit inventif des François. Cependant toutes les rejoüissances n’ayant pû entrer dans ce volume separé, on en a inseré beaucoup dans le Mercure d’Aoust, &amp; comme il n’a pas encore suffi, on mettra le reste de ces rejoüissances dans le Mercure prochain, afin de faire connoître le zele &amp; l’amour des François pour le Roy, &amp; pour toute la Famille Royale.</p>
-          </quote>
-        </div>
-      </body>
+    <body>
+      <div>
+        <quote>
+          <label>AVIS.</label>
+          <p>Le Public doit être satisfait des deux volumes qui luy ont esté donnez le mois dernier ; tous ceux qui ont lû le Mercure l’ont trouvé si rempli de pieces curieuses, qu’ils assurent que l’Auteur n’en n’a point fait de plus beau, depuis vingt-sept ans qu’il travaille à cet ouvrage. Il estoit accompagné d’un second volume, qui ne contenoit que des réjoüissances faites pour la naissance de Monseigneur le Duc de Bretagne. Jamais on ne vit tant de varieté sur un même sujet, tant de fêtes galantes, tant de devises differentes, &amp; tant de choses capables de marquer l’esprit inventif des François. Cependant toutes les rejoüissances n’ayant pû entrer dans ce volume separé, on en a inseré beaucoup dans le Mercure d’Aoust, &amp; comme il n’a pas encore suffi, on mettra le reste de ces rejoüissances dans le Mercure prochain, afin de faire connoître le zele &amp; l’amour des François pour le Roy, &amp; pour toute la Famille Royale.</p>
+        </quote>
+      </div>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,20 +14,19 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Je croy, Madame, que vous vous ferez un plaisir d’entendre le Pseaume, <hi rend="i">Quare
-            fremuerunt Gentes</hi>, dans la bouche de nostre Auguste Monarque. On en a fait une
-          version dont je vous fais part. Pour peu que vous fassiez de reflexion à ce que contient
-          ce Pseaume, &amp; à ce qui se passe presentement en Europe, il ne vous sera pas difficile
-          de découvrir les endroits par où il peut estre appliqué au Roy.</p>
+    <body>
+      <div>
+        <p>Je croy, Madame, que vous vous ferez un plaisir d’entendre le Pseaume, <hi rend="i">Quare fremuerunt Gentes</hi>, dans la bouche de nostre Auguste Monarque. On en a fait une version dont je vous fais part. Pour peu que vous fassiez de reflexion à ce que contient ce Pseaume, &amp; à ce qui se passe presentement en Europe, il ne vous sera pas difficile de découvrir les endroits par où il peut estre appliqué au Roy.</p>
         <quote>
           <label>VERSION DU PSEAUME<lb/>Quare fremuerunt Gentes.</label>
           <lg>
-            <l><hi rend="i">Quel sujet de couroux, quelle nouvelle injure</hi></l>
+            <l>
+              <hi rend="i">Quel sujet de couroux, quelle nouvelle injure</hi>
+            </l>
             <l rend="i">De tant de Nations excite le murmure ?</l>
-            <l><hi rend="i">Que pretend leur fureur ? quel frivole dessein,</hi></l>
+            <l>
+              <hi rend="i">Que pretend leur fureur ? quel frivole dessein,</hi>
+            </l>
             <l rend="i">A mis à tant de Rois les armes à la main ?</l>
             <l rend="i">Rebelles au vray Dieu, corrupteurs témeraires</l>
             <l rend="i">De la Loy que son Verbe a transmise à leurs Peres,</l>
@@ -64,6 +63,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

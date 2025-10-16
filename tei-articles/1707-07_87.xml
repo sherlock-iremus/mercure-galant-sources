@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-
-<p>Pierre le Grand, natif de la Paroisse de Menerval, Diocese de Rouen, Chantre &amp; Greffier de l’Eglise Collegiale de S. Pierre de Gerbroy en Beauvaisis, est mort âgé de 104. ans. Il estoit Chantre de cette Eglise depuis prés de 80 ans. Mr le Cardinal de Janson en qualité d’Evêque de Beauvais, est Vidame de Gerbroy.</p>
-</div>
-</body>
+    <body>
+      <div>
+        <p>Pierre le Grand, natif de la Paroisse de Menerval, Diocese de Rouen, Chantre &amp; Greffier de l’Eglise Collegiale de S. Pierre de Gerbroy en Beauvaisis, est mort âgé de 104. ans. Il estoit Chantre de cette Eglise depuis prés de 80 ans. Mr le Cardinal de Janson en qualité d’Evêque de Beauvais, est Vidame de Gerbroy.</p>
+      </div>
+    </body>
   </text>
 </TEI>

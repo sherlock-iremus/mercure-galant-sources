@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p/>
-          <p>On a écrit de Honfleur, que les Echevins y avoient fait sonner toutes les Cloches, sitost qu’ils eurent appris la mort de Mademoiselle d’Orleans, qui estoit Dame de leur Ville. Cela fut continué jusqu’au 6. de ce Mois qu’ils luy firent faire un Service solemnel dans la principale Eglise. Elle estoit tenduë à double rang, ornée d’Ecussons, &amp; dans le Choeur un superbe Mausolée. Le Pere Pascal Capucin, l’un des plus celebres Predicateurs de la Province, prononça l’Oraison Funebre de cette Princesse avec beaucoup d’applaudissement.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p/>
+        <p>On a écrit de Honfleur, que les Echevins y avoient fait sonner toutes les Cloches, sitost qu’ils eurent appris la mort de Mademoiselle d’Orleans, qui estoit Dame de leur Ville. Cela fut continué jusqu’au 6. de ce Mois qu’ils luy firent faire un Service solemnel dans la principale Eglise. Elle estoit tenduë à double rang, ornée d’Ecussons, &amp; dans le Choeur un superbe Mausolée. Le Pere Pascal Capucin, l’un des plus celebres Predicateurs de la Province, prononça l’Oraison Funebre de cette Princesse avec beaucoup d’applaudissement.</p>
+      </div>
+    </body>
   </text>
 </TEI>

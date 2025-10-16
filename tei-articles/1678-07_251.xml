@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div copyOf="JLB-MG-1678-07_252a">
-        
-        
-        <p>Ces autres Paroles m’ont esté envoyées de Montpellier avec les Notes. Vous les trouverez
-          en suite de celles qui vous aprendront l’Air du Quatrain.</p>
+    <body>
+      <div copyOf="JLB-MG-1678-07_252a">
+        <p>Ces autres Paroles m’ont esté envoyées de Montpellier avec les Notes. Vous les trouverez en suite de celles qui vous aprendront l’Air du Quatrain.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour
-              placer les Figures</hi> : l'’Air qui commence par, <hi rend="i">Vous demandez, Iris,
-              pourquoy je vous évite</hi>, &amp; celuy qui le suit, doivent regarder la page
-            251.</note>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l'’Air qui commence par, <hi rend="i">Vous demandez, Iris, pourquoy je vous évite</hi>, &amp; celuy qui le suit, doivent regarder la page 251.</note>
           <lg>
             <l rend="i"> Pour boire avec plus de plaisir</l>
             <l rend="i"> Cette liqueur qui nous enchante,</l>
@@ -39,6 +35,6 @@
           <graphic url="../img/MG-1678-07_251.png"/>
         </figure>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

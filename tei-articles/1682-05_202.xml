@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
-        <p>Il s’est fait un Mariage entre deux Amans, qui apres de longs obstacles, ont eu la joye
-          de se voir unis. Un de leurs Amis, qui a les sentimens aussi délicats, que l’esprit
-          galant, leur donna ces Vers le lendemain de leurs Nôces. Ils portent leur recommandation
-          par eux-mesmes, &amp; il me seroit inutile de vous les vanter.</p>
+        <p>Il s’est fait un Mariage entre deux Amans, qui apres de longs obstacles, ont eu la joye de se voir unis. Un de leurs Amis, qui a les sentimens aussi délicats, que l’esprit galant, leur donna ces Vers le lendemain de leurs Nôces. Ils portent leur recommandation par eux-mesmes, &amp; il me seroit inutile de vous les vanter.</p>
         <quote>
           <label>EPITHALAME.</label>
           <lg>
@@ -92,6 +88,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,18 +14,20 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>L'Air nouveau qui a esté fait sur les paroles que vous allez lire, a fort plu icy à beaucoup de Connoisseurs.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin">L’Air qui commence par, <hi rend="i">On ne peut vous voir sans aimer, &amp;c.</hi> doit regarder la page 274.</note>
-          <lg><l rend="i">On ne peut vous voir sans aimer,</l>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin">L’Air qui commence par, <hi rend="i">On ne peut vous voir sans aimer, &amp;c.</hi> doit regarder la page 274.</note>
+          <lg>
+            <l rend="i">On ne peut vous voir sans aimer,</l>
             <l rend="i">On ne peut vous le dire, Iris, sans vous déplaire</l>
             <l rend="i">Je sens mon cœur s'en allarmer,</l>
             <l rend="i">Il se plaint en secret d'une loy si severe.</l>
             <l rend="i">On ne peut vous voir sans aimer</l>
-            <l rend="i">Ne peut-on vous le dire au moins sans vous déplaire.</l></lg>
+            <l rend="i">Ne peut-on vous le dire au moins sans vous déplaire.</l>
+          </lg>
         </quote>
         <ref target="images/1700-09_273.JPG">
           <figure>
@@ -33,6 +35,6 @@
           </figure>
         </ref>
       </div>
-        </body>
+    </body>
   </text>
 </TEI>

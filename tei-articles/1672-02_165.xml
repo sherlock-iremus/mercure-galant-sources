@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        <p>A la nouvelle de cette mort [celle de Monsieur de Troisvilles] succeda celle du départ de
-          Monsieur
-          de Frontenac, Comte de Palluau, nommé par Sa Majesté au Gouvernement
-          de l’Amérique Septentrionale. Comme cet employ demande un Homme d’esprit,
-          d’intelligence, &amp; de cœur, il ne faut point douter que ce Comte n’ait
-          toutes ces qualitez.</p>
+    <body>
+      <div>
+        <p>A la nouvelle de cette mort [celle de Monsieur de Troisvilles] succeda celle du départ de Monsieur de Frontenac, Comte de Palluau, nommé par Sa Majesté au Gouvernement de l’Amérique Septentrionale. Comme cet employ demande un Homme d’esprit, d’intelligence, &amp; de cœur, il ne faut point douter que ce Comte n’ait toutes ces qualitez.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

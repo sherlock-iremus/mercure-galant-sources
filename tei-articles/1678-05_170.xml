@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,30 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Monsieur le Duc de Saint Aignan dont vous connoissez le zele pour la gloire &amp; le
-          service du Roy, ayant mis la Coste de son Gouvernement en état de ne rien craindre, fit
-          ces derniers jours un Ballet, qu’il appella <hi rend="i">Ballet Inpromptu</hi>, &amp;
-          qu’il avouë pouvoir estre plus justement nommé le Ballet sans suite, puis qu’il n’est
-          qu’un mélange de plusieurs Entrées confuses, &amp; sans aucun ordre, la précipitation avec
-          laquelle ce Ballet se fit, n’ayant pas laissé le temps de s’appliquer à les rendre plus
-          régulieres. On s’attacha à les faire presque toutes ridicules, afin d’entretenir la joye
-          de quelques Dames, qui dans le plaisir d’avoir reçeu une nouvelle agreable, avoient obligé
-          des Cavaliers à leur donner cette marque de leur complaisance. Vous avoüerez que c’est
-          quelque chose de bien glorieux pour la France, que dans le temps où elle a toute l’Europe
-          à combattre, on joüisse d’une assez grande tranquillité pour estre en état de se divertir
-          sur les Costes. M<hi rend="sup">r</hi> Labbé de Caën, qui est une des meilleures Basses de
-          Viole qui soit en France, &amp; qui jouë les quatre Parties de la maniere la plus
-          délicate, contribua fort à la beauté des Concerts &amp; des Airs qui furent chantez dans
-          ce Ballet. Il passe la meilleure partie de l’année au Havre, où il se trouve un assez
-          grand nombre de Danseurs, tous Gens d’execution &amp; d’oreille. Voicy en quels termes le
-          Projet de ce Divertissement fut dressé.</p>
+    <body>
+      <div>
+        <p>Monsieur le Duc de Saint Aignan dont vous connoissez le zele pour la gloire &amp; le service du Roy, ayant mis la Coste de son Gouvernement en état de ne rien craindre, fit ces derniers jours un Ballet, qu’il appella <hi rend="i">Ballet Inpromptu</hi>, &amp; qu’il avouë pouvoir estre plus justement nommé le Ballet sans suite, puis qu’il n’est qu’un mélange de plusieurs Entrées confuses, &amp; sans aucun ordre, la précipitation avec laquelle ce Ballet se fit, n’ayant pas laissé le temps de s’appliquer à les rendre plus régulieres. On s’attacha à les faire presque toutes ridicules, afin d’entretenir la joye de quelques Dames, qui dans le plaisir d’avoir reçeu une nouvelle agreable, avoient obligé des Cavaliers à leur donner cette marque de leur complaisance. Vous avoüerez que c’est quelque chose de bien glorieux pour la France, que dans le temps où elle a toute l’Europe à combattre, on joüisse d’une assez grande tranquillité pour estre en état de se divertir sur les Costes. M<hi rend="sup">r</hi> Labbé de Caën, qui est une des meilleures Basses de Viole qui soit en France, &amp; qui jouë les quatre Parties de la maniere la plus délicate, contribua fort à la beauté des Concerts &amp; des Airs qui furent chantez dans ce Ballet. Il passe la meilleure partie de l’année au Havre, où il se trouve un assez grand nombre de Danseurs, tous Gens d’execution &amp; d’oreille. Voicy en quels termes le Projet de ce Divertissement fut dressé.</p>
         <quote rend="border">
           <label rend="center">BALLET INPROMTU.</label>
-          <label rend="i">La Toille represente une Place où plusieurs Ruës aboutissent, &amp; dont
-            une Hostellerie fait le coin, ayant pour Enseigne les trois Pucelles.</label>
+          <label rend="i">La Toille represente une Place où plusieurs Ruës aboutissent, &amp; dont une Hostellerie fait le coin, ayant pour Enseigne les trois Pucelles.</label>
           <p/>
           <label rend="center">Récit des trois Filles du Maistre de cette Maison.</label>
           <lg>
@@ -60,26 +42,25 @@
             <l rend="i">Marque nostre Logement.</l>
           </lg>
           <label rend="center">I. ENTRÉE.</label>
-          <stage>Les trois Sœurs témoignent par la gayeté de leur danse, qu’elles sont satisfaites
-            de l’état présent de leur fortune.</stage>
+          <stage>Les trois Sœurs témoignent par la gayeté de leur danse, qu’elles sont satisfaites de l’état présent de leur fortune.</stage>
           <label rend="center">2. ENTRÉE.</label>
           <stage>Le Maistre de la Maison, sa Femme, son Valet, &amp; sa Servante.</stage>
           <label rend="center">3. ENTRÉE.</label>
           <stage>Barbacole Pédant, avec quatre de ses Ecoliers.</stage>
           <label rend="center">4. ENTRÉE <hi rend="i">parlante.</hi></label>
-          <stage>M<hi rend="sup">r</hi> Buisson Juge de Village ; M<hi rend="sup">e</hi> Macé &amp;
-              M<hi rend="sup">e</hi>Hilaire Avocats, faisant devant luy un Plaidoyé tres-ridicule en
-            Vers.</stage>
+          <stage>M<hi rend="sup">r</hi> Buisson Juge de Village ; M<hi rend="sup">e</hi> Macé &amp; M<hi rend="sup">e</hi>Hilaire Avocats, faisant devant luy un Plaidoyé tres-ridicule en Vers.</stage>
           <label rend="center">5. ENTRÉE.</label>
           <stage>Deux Bergers, deux Bergeres, &amp; deux Pastres.</stage>
-          <label rend="center"><hi rend="i">CONCERT DE FLUSTES.</hi></label>
+          <label rend="center">
+            <hi rend="i">CONCERT DE FLUSTES.</hi>
+          </label>
         </quote>
-        <p>[Voir le <ref target="MG-1678-05_000c"><hi rend="i">Recit du Dieu Pan</hi> oublié lors
-            de l’impression et donné au début de ce volume</ref>.]</p>
+        <p>[Voir le <ref target="MG-1678-05_000c"><hi rend="i">Recit du Dieu Pan</hi> oublié lors de l’impression et donné au début de ce volume</ref>.]</p>
         <label rend="center">6. ENTRÉE.</label>
-        <stage>L’Amour de Village, &amp; l’Hymen champestre, accompagnez du Jeu, du Ris, &amp; de
-          l’Innocence.</stage>
-        <label rend="center"><hi rend="i">CHANSON DE L’AMOUR.</hi></label>
+        <stage>L’Amour de Village, &amp; l’Hymen champestre, accompagnez du Jeu, du Ris, &amp; de l’Innocence.</stage>
+        <label rend="center">
+          <hi rend="i">CHANSON DE L’AMOUR.</hi>
+        </label>
         <lg>
           <l rend="i">Je suis l’Amour de Village,</l>
           <l rend="i">Plein des constance &amp; de foy.</l>
@@ -102,17 +83,13 @@
         <label rend="center">9. ENTRÉE.</label>
         <stage>Une Sage-Femme &amp; deux Nourrices.</stage>
         <label rend="center">10. ENTRÉE.</label>
-        <stage>Combat de six Espagnols à l’épée &amp; au poignard, interrompu par deux Cavaliers
-          Joüeurs de Guitarre.</stage>
+        <stage>Combat de six Espagnols à l’épée &amp; au poignard, interrompu par deux Cavaliers Joüeurs de Guitarre.</stage>
         <label rend="center">11. ENTRÉE.</label>
-        <stage>Quatre Garçons Patissiers présentent aux Dames plusieurs choses de leur mestier fort
-          délicates, &amp; dansent en suite.</stage>
+        <stage>Quatre Garçons Patissiers présentent aux Dames plusieurs choses de leur mestier fort délicates, &amp; dansent en suite.</stage>
         <label rend="center">12. ENTRÉE.</label>
-        <stage>Orphée joüant admirablement bien d’une Basse de Viole ; &amp; deux Bacchantes le
-          cherchant pour le tuer.</stage>
+        <stage>Orphée joüant admirablement bien d’une Basse de Viole ; &amp; deux Bacchantes le cherchant pour le tuer.</stage>
         <label rend="center">13. ENTRÉE.</label>
-        <stage>Bacchus &amp; quatre de ses Suivans, chasse les Bacchantes, &amp; se réjoüit apres
-          avec les siens qu’il enyvre.</stage>
+        <stage>Bacchus &amp; quatre de ses Suivans, chasse les Bacchantes, &amp; se réjoüit apres avec les siens qu’il enyvre.</stage>
         <label rend="center">CHANSON À BOIRE</label>
         <stage>de l’un des Yvrognes, à laquelle tous les autres répondent.</stage>
         <lg>
@@ -139,7 +116,9 @@
           <l rend="i">Dans le Vin saisons merveille.</l>
         </lg>
         <label rend="center">CONCERT DE VOIX<lb/>&amp; d’Instrumens.<lb/></label>
-        <label rend="center"><hi rend="i">CHANSON.</hi></label>
+        <label rend="center">
+          <hi rend="i">CHANSON.</hi>
+        </label>
         <lg>
           <l rend="i">Quand il est doux de se rendre,</l>
           <l rend="i">Peut-on défendre</l>
@@ -164,6 +143,6 @@
         <label rend="center">15. &amp; DER. ENTRÉE.</label>
         <stage>Deux autres Bohemiens &amp; quatre Bohemiennes.</stage>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

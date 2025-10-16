@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,9 +14,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
         <p>Il n’y a rien d’inventé dans l’Avanture qui suit. Elle est écrite par une Personne de qualité, à qui elle est arrivée, dans toutes les circonstances que l’on y marque. Peut-estre le Bois, les Oiseaux de mauvais augure, &amp; les Animaux farouches, ne sont pas des mots qu’il faille prendre à la lettre. Il est des lieux où l’on court de plus grands périls que dans les Forests les plus obscures, &amp; toutes les Bestes qui nous déchirent, ne sont pas armées de griffes.</p>
         <quote>
@@ -55,7 +54,9 @@
           </lg>
         </quote>
         <p/>
-        <p><hi rend="i">Quelle fut leur joye, de se voir si promptement retirées des griffes de ces devorantes Bestes ! Que ne me dirent point la Mere &amp; la Fille (car je sçeus d’elles que l’une estoit Veuve, &amp; Mere de l’autre) pour me remercier de l’assistance que je leur avois donnée ! Mais sur tout la Fille accompagna de tant de charmes les remercîmens qu’elle me fit, que ne pouvant tenir un moment contr’eux, je me laissay tout d’un coup engager dans ses liens.</hi></p>
+        <p>
+          <hi rend="i">Quelle fut leur joye, de se voir si promptement retirées des griffes de ces devorantes Bestes ! Que ne me dirent point la Mere &amp; la Fille (car je sçeus d’elles que l’une estoit Veuve, &amp; Mere de l’autre) pour me remercier de l’assistance que je leur avois donnée ! Mais sur tout la Fille accompagna de tant de charmes les remercîmens qu’elle me fit, que ne pouvant tenir un moment contr’eux, je me laissay tout d’un coup engager dans ses liens.</hi>
+        </p>
         <quote>
           <lg>
             <l>Ainsi par un revers qu’on auroit peine à croire,</l>
@@ -65,7 +66,9 @@
           </lg>
         </quote>
         <p/>
-        <p><hi rend="i">Depuis ce temps, l’image de cette Belle ne s’effaça point de mon esprit, &amp; je songeois à chercher l’occasion d’aller chez elle pour luy déclarer ma passion, lors qu’un jour je fus surpris de la voir entrer dans ma Chambre en compagnie de sa Mere &amp; d’une de ses Sœurs. La Mere, qui ne croyoit pas pouvoir me témoigner assez sa reconnoissance du peu que j’avois fait pour elle &amp; pour sa Fille, l’avoit encore amenée pour m’en rendre graces, &amp; avoit voulu que son Aînée les accompagnast, afin de joindre ses remercîmens aux leurs. O Dieu, la charmante Personne que cette Aînée ! J’avois crû jusque-là que rien ne pouvoit égaler la premiere ; mais d’abord que je vis l’autre, elle me fit balancer entre sa Sœur &amp; elle, &amp; partagea tellement mon cœur, que je fus plusieurs mois sans pouvoir décider celle que j’en devois rendre l’unique Maîtresse. Puis-je exprimer la peine que me causa cette incertitude pendant ce temps ?</hi></p>
+        <p>
+          <hi rend="i">Depuis ce temps, l’image de cette Belle ne s’effaça point de mon esprit, &amp; je songeois à chercher l’occasion d’aller chez elle pour luy déclarer ma passion, lors qu’un jour je fus surpris de la voir entrer dans ma Chambre en compagnie de sa Mere &amp; d’une de ses Sœurs. La Mere, qui ne croyoit pas pouvoir me témoigner assez sa reconnoissance du peu que j’avois fait pour elle &amp; pour sa Fille, l’avoit encore amenée pour m’en rendre graces, &amp; avoit voulu que son Aînée les accompagnast, afin de joindre ses remercîmens aux leurs. O Dieu, la charmante Personne que cette Aînée ! J’avois crû jusque-là que rien ne pouvoit égaler la premiere ; mais d’abord que je vis l’autre, elle me fit balancer entre sa Sœur &amp; elle, &amp; partagea tellement mon cœur, que je fus plusieurs mois sans pouvoir décider celle que j’en devois rendre l’unique Maîtresse. Puis-je exprimer la peine que me causa cette incertitude pendant ce temps ?</hi>
+        </p>
         <quote>
           <lg>
             <l>On ne peut éprouver de plus cruel martire</l>
@@ -89,7 +92,9 @@
           </lg>
         </quote>
         <p/>
-        <p><hi rend="i">Enfin estant un jour avec elles à une Maison de Campagne, où elles m’avoient permis d’aller prendre l’air, nous fismes une Partie de Chasse, &amp; l’ayant exécutée, nous ne fusmes pas longtemps sans faire partir un Liévre ; mais comme nous le courions, mon malheur, ou plutost mon bonheur voulut, que mon Cheval tomba d’un faux pas qu’il fit. Sa chûte fut cause que je me blessay à la jambe, en sorte que je fus obligé de me faire remener à cette Maison. La Cadete, qui estoit plus avancée, suivit la Chasse ; mais l’autre plus charitable, revint avec moy, &amp; ne voulut point m’abandonner.</hi></p>
+        <p>
+          <hi rend="i">Enfin estant un jour avec elles à une Maison de Campagne, où elles m’avoient permis d’aller prendre l’air, nous fismes une Partie de Chasse, &amp; l’ayant exécutée, nous ne fusmes pas longtemps sans faire partir un Liévre ; mais comme nous le courions, mon malheur, ou plutost mon bonheur voulut, que mon Cheval tomba d’un faux pas qu’il fit. Sa chûte fut cause que je me blessay à la jambe, en sorte que je fus obligé de me faire remener à cette Maison. La Cadete, qui estoit plus avancée, suivit la Chasse ; mais l’autre plus charitable, revint avec moy, &amp; ne voulut point m’abandonner.</hi>
+        </p>
         <quote>
           <lg>
             <l> Tant de bonté dans cette Belle</l>
@@ -109,6 +114,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

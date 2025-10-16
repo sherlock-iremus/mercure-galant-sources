@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,18 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Voicy des paroles qui ont esté mises en air par un fort habile Musicien.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin">Avis pour placer les Figures : l’air qui commence par <hi rend="i">Sitost que la cruelle eut vû naistre ma flamme</hi>, doit regarder la page 149.</note>
-          <lg><l rend="i">Si tost que la cruelle eut vû naistre ma flâme,</l>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin">Avis pour placer les Figures : l’air qui commence par <hi rend="i">Sitost que la cruelle eut vû naistre ma flamme</hi>, doit regarder la page 149.</note>
+          <lg>
+            <l rend="i">Si tost que la cruelle eut vû naistre ma flâme,</l>
             <l rend="i">Que ne m'opposoit-elle un devoir rigoureux !</l>
             <l rend="i">Elle attendoit pour rebuter mes feux,</l>
-            <l rend="i">Qu'ils se fussent rendus les maistres de mon ame.</l></lg>
+            <l rend="i">Qu'ils se fussent rendus les maistres de mon ame.</l>
+          </lg>
         </quote>
         <ref target="images/1699-02_149.JPG">
           <figure>
@@ -31,6 +33,6 @@
           </figure>
         </ref>
       </div>
-        </body>
+    </body>
   </text>
 </TEI>

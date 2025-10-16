@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,18 +14,20 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Voicy une réponse à la Chanson que vous avez trouvée dans les premieres feuilles de cette Lettre. Les paroles sont du même Auteur, &amp; c'est le même Musicien qui les a mises en Air. <note resp="editor">L'air <ref target="MG-1698-12_084">« Lorsque pour moi l'amour a su vous enflammer »</ref> est des mêmes auteurs ; les vers sont donc de « l'auteur de la Vie de Mr de Saint André ».</note></p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin">L’Air qui commence par <hi rend="i">Non, on n'aima jamais, &amp;c.</hi>, regarde la page 272.</note>
-          <lg><l rend="i">Non, on n'aima jamais autant que je vous aime</l>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin">L’Air qui commence par <hi rend="i">Non, on n'aima jamais, &amp;c.</hi>, regarde la page 272.</note>
+          <lg>
+            <l rend="i">Non, on n'aima jamais autant que je vous aime</l>
             <l rend="i">Et malgré mon amour extrême</l>
             <l rend="i">Je n'ay ny soupçon ny frayeur.</l>
             <l rend="i">Les soins que je prens pour vous plaire,</l>
             <l rend="i">Mon respect, mon amour sincere,</l>
-            <l rend="i">Me répondent de vostre cœur.</l></lg>
+            <l rend="i">Me répondent de vostre cœur.</l>
+          </lg>
         </quote>
         <ref target="images/1698-12_271.JPG">
           <figure>
@@ -33,6 +35,6 @@
           </figure>
         </ref>
       </div>
-        </body>
+    </body>
   </text>
 </TEI>

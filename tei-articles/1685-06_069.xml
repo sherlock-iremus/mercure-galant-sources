@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Il est difficile de s’employer pour la gloire de ce Prince d’une maniere plus ingénieuse
-          &amp; plus nouvelle que M<hi rend="sup">r</hi> Magnin. Comme le Soleil est sa Devise, tout
-          ce qui est attribué à cét Astre luy peut convenir, &amp; c’est sur ce qui regarde le
-          Soleil, &amp; qui a rapport au Roy, que M<hi rend="sup">r</hi> Magnin a déja fait un grand
-          nombre de Devises. Celle qui suit vous fera connoistre qu’il est inépuisable sur cette
-          matiere. Elle a pour Corps le Soleil au Signe de la Balance, &amp; pour ame ces paroles.
-            <hi rend="i">Orbem inde gubernat</hi>. Vous en trouverez l’explication dans ce
-          Madrigal.</p>
+    <body>
+      <div>
+        <p>Il est difficile de s’employer pour la gloire de ce Prince d’une maniere plus ingénieuse &amp; plus nouvelle que M<hi rend="sup">r</hi> Magnin. Comme le Soleil est sa Devise, tout ce qui est attribué à cét Astre luy peut convenir, &amp; c’est sur ce qui regarde le Soleil, &amp; qui a rapport au Roy, que M<hi rend="sup">r</hi> Magnin a déja fait un grand nombre de Devises. Celle qui suit vous fera connoistre qu’il est inépuisable sur cette matiere. Elle a pour Corps le Soleil au Signe de la Balance, &amp; pour ame ces paroles. <hi rend="i">Orbem inde gubernat</hi>. Vous en trouverez l’explication dans ce Madrigal.</p>
         <quote>
           <lg>
             <l rend="i">Sa Course est noble &amp; reguliere,</l>
@@ -39,6 +31,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

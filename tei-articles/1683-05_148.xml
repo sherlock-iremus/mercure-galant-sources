@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Ma derniere Lettre vous fit part d’une Avanture, moitié en Vers &amp; moitié en Prose,
-          dont vous m’avez témoigné avoir esté fort contente. En voicy une autre qui est toute en
-          Vers, &amp; que vous lirez avec plaisir, quand vous apprendrez que M<hi rend="sup">r</hi> Diéreville en est l’Autheur. J’entens Autheur des Vers, &amp; non pas de
-          l’Avanture, car il proteste, comme témoin oculaire, qu’elle est veritable dans toutes ses
-          circonstances. Elle a fait bruit parmy les Personnes du plus haut rang, &amp; vos Amis de
-          Province seront d’un goust difficile à contenter, s’ils ne la trouvent agreablement
-          contée.</p>
+    <body>
+      <div>
+        <p>Ma derniere Lettre vous fit part d’une Avanture, moitié en Vers &amp; moitié en Prose, dont vous m’avez témoigné avoir esté fort contente. En voicy une autre qui est toute en Vers, &amp; que vous lirez avec plaisir, quand vous apprendrez que M<hi rend="sup">r</hi> Diéreville en est l’Autheur. J’entens Autheur des Vers, &amp; non pas de l’Avanture, car il proteste, comme témoin oculaire, qu’elle est veritable dans toutes ses circonstances. Elle a fait bruit parmy les Personnes du plus haut rang, &amp; vos Amis de Province seront d’un goust difficile à contenter, s’ils ne la trouvent agreablement contée.</p>
         <quote>
           <label>LE CHIEN<lb/>DANS UN PUITS.</label>
           <lg>
@@ -163,6 +156,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

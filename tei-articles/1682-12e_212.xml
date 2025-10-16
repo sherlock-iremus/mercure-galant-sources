@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,9 +14,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <quote>
           <label><hi rend="i">EXPOSITION D’UNE<lb/>premiere Ecriture Universelle</hi>.</label>
           <p>Ma derniere Lettre vous ayant expliqué en abregé, la diférence des deux méthodes, dont je juge qu’on peut dresser le Dictionnaire Universel, je me trouve obligé de vous raporter des modelles, ou au moins des échantillons de l’une &amp; de l’autre, contre l’intention que j’avois euë d’abord de ne point entrer dans ce détail. Vous ne pourriez sans cela assez bien connoître leur diférence, &amp; elle est d’autant plus necessaire à sçavoir, que ces deux méthodes produisent par leur diversité deux sortes d’Ecritures, au lieu d’une que j’ay proposée jusqu’à ce jour ; mais ne vous attendez pas à voir dans ces échantillons l’extrait d’une Ouvrage achevé, ce n’est que l’abregé d’une ébauche, &amp; autant court qu’on le peut faire d’une Matiere si ample.</p>
@@ -131,7 +130,9 @@
           <p>Il me reste, Monsieur, à vous entretenir des diminutifs, &amp; des augmentatifs, dont aucun n’a esté joint aux mots que j’ay raportez, quoy que de leurs dépendances, &amp; de leurs variations directes comme il a esté dit. La raison de ce procedé, est le défaut que nous en avons dans nostre Langue, n’y ayant presque dans tous ces mots que <hi rend="i">Cheval</hi>, à qui elle donne un diminutif, qui est <hi rend="i">Bidet. Dieutelet</hi>, pour exprimer Petit-Dieu, n’y estant pas trop en usage. Sçachez neantmoins, qu’il n’y a pas un seul nom substantif ou adjectif, pas un de leurs adverbes, ny mesme un seul verbe, à qui je n’attribuë ces degrez de diminution &amp; d’augmentation ; parce qu’il n’y a aucun de ces mots que je n’en trouve également susceptible. En quoy je fournis abondamment à la perfection, &amp; à la délicatesse de l’Ecriture &amp; de la Langue Universelle ; &amp; la grande étenduë de ces degrez que je pousse plus loin que je n’avois résolu par ma derniere Lettre, puis que je ne les y attachois qu’aux noms substantifs, est encor une des causes qui m’a fait diférer d’en parler, jugeant qu’il estoit de l’ordre d’exprimer le principal avant l’accessoire. Vous verrez bien-tost, Monsieur, la maniere dont je les marque tous.</p>
           <label><hi rend="i">SECONDE &amp; III. Partie</hi>.</label>
           <p>Me voicy parvenu à la seconde &amp; à la troisiéme Partie du Dictionnaire Universel, suivant la Methode commune, dont l’une a la barre dessous, &amp; exprime les nombres qui demeurent en nature ; &amp; dont l’autre l’a dessus, &amp; marquent les noms des lieux &amp; des personnes, les parties invariables du discours, &amp; les Proverbes. Il seroit de l’ordre que j’en donnasse icy le détail ; mais comme je n’y pourrois satisfaire, sans aller au delà des bornes que j’ay prescrites à mes Lettres, ainsi que vous, Monsieur, à vos Mercures, j’aime mieux sauter par dessus, que de m’étendre jusqu’à l’importunité, sauf à y revenir par une Lettre de supplément, dans un autre Extraordinaire. Persuadé donc que vous ne des-approuverez pas cette conduite, puis qu’elle s’accommode à la vostre &amp; à vos intentions ; je vais passer au Traité qui doit suivre ces deux Parties, &amp; auquel la premiere a le principal intérest.</p>
-          <label><hi rend="i">Maniere d’exprimer les variations des mots de ce Dictionnaire.</hi></label>
+          <label>
+            <hi rend="i">Maniere d’exprimer les variations des mots de ce Dictionnaire.</hi>
+          </label>
           <p>Ce Traité ne regarde que les expressions qui ont une enseigne, entre leurs chiffres primitifs, &amp; leurs auxiliaires, parce qu’il n’y a qu’elles qui soient sujettes à variation ; d’où vous voyez, Monsieur, qu’il ne s’agit que de ce qui se décline, &amp; de ce qui se conjugue.</p>
           <p>J’ay dit dans ma derniere Lettre, que cette enseigne estoit <hi rend="i">une apostrophe</hi>, ou <hi rend="i">une division</hi> ; La premiere, quand il n’y avoit qu’un chiffre auxiliaire ; &amp; l’autre lors qu’il y en avoit davantage ; &amp; une des raisons de cette diférence, est que l’apostrophe suffit pour la séparation d’un chiffre ; &amp; que la division, qui est plus remarquable, m’a paru plus propre à la séparation de plusieurs.</p>
           <p>Je vais commencer par l’expression de la déclinaison, en suivant l’ordre de la Grammaire. J’ay assez parlé des chiffres primitifs, il ne s’agit plus que des auxiliaires ; &amp; voicy le premier employ que je leur donne.</p>
@@ -206,6 +207,6 @@
           <p>Vostre tres-humble, &amp; tres-affectionné Serviteur, <hi rend="sc">De Vienne-Plancy</hi>.</p>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

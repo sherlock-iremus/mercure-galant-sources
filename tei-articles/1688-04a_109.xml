@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,19 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
+    <body>
+      <div>
         <p/>
-        <p>Messire Loüis Rose de Coye, Secretaire du Cabinet du Roy, &amp; Conseiller au Parlement
-          de Mets. Il a laissé des Enfans de Dame.… de Bailleul, Fille de Messire Loüis de Bailleul,
-          Marquis de Chasteau-Gontier, &amp; President au Mortier au Parlement de Paris, &amp;
-          petite-Fille de Messire Nicolas de Bailleul, aussi President au Mortier dans le même
-          Parlement, &amp; Surintendant des Finances de France. M. de Coye estoit Fils de Messire
-          Toussaint Rose, President en la Chambre des Comptes de Paris, &amp; Secretaire du Cabinet
-          du Roy. C’est un homme d’un merite tres distingué ; vous sçavez qu’il est de l’Academie
-          Françoise.</p>
+        <p>Messire Loüis Rose de Coye, Secretaire du Cabinet du Roy, &amp; Conseiller au Parlement de Mets. Il a laissé des Enfans de Dame.… de Bailleul, Fille de Messire Loüis de Bailleul, Marquis de Chasteau-Gontier, &amp; President au Mortier au Parlement de Paris, &amp; petite-Fille de Messire Nicolas de Bailleul, aussi President au Mortier dans le même Parlement, &amp; Surintendant des Finances de France. M. de Coye estoit Fils de Messire Toussaint Rose, President en la Chambre des Comptes de Paris, &amp; Secretaire du Cabinet du Roy. C’est un homme d’un merite tres distingué ; vous sçavez qu’il est de l’Academie Françoise.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

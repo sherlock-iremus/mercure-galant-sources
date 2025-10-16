@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-      
-      <p> Je vous envoye le Portrait de Monseigneur, &amp; ceux des Princes ses enfans, gravez d’après une Medaille de Mr Roussel. Il y a déjà quelque temps que cette Medaille a esté frappée.</p>
+    <body>
+      <div>
+        <p> Je vous envoye le Portrait de Monseigneur, &amp; ceux des Princes ses enfans, gravez d’après une Medaille de Mr Roussel. Il y a déjà quelque temps que cette Medaille a esté frappée.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

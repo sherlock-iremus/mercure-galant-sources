@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Voicy une seconde Chanson dont apparemment vous serez contente <note resp="editor">Attribution à Lambert grâce aux <hi rend="italic">Airs de M. Lambert</hi> (Paris, Christophe Ballard, 1689, p. 116-117) ainsi qu'aux sources manuscrites F-Pn/ Rés. Vmd. ms. 302 et F-Pn/ Rés. Vma. ms. 958 p. 225. L'attribution du poème à La Sablières est due à A.-M. Goulet (cf. LADDA 1688-01). L'air a été publié, avec basse continue et variantes rythmiques et mélodiques à la voix, dans le <hi rend="italic">XXXI. livre d'airs de differents auteurs</hi> (Paris, Christophe Ballard, 1688, p. 2-4 ; LADDA 1688-01).</note>.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour
-              placer les Figures</hi> : l’Air qui commence par, <hi rend="i">Iris n'est plus, mon
-              Iris m'est ravie</hi>, doit regarder la page 299.</note>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par, <hi rend="i">Iris n'est plus, mon Iris m'est ravie</hi>, doit regarder la page 299.</note>
           <lg>
             <l rend="i">IRIS n'est plus, mon Iris m'est ravie.</l>
             <l rend="i">Iris n'est plus, le puis-je prononcer,</l>
@@ -39,6 +37,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

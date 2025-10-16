@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Le Pere Mourgues, Jesuite, Professeur Royal des Mathematiques à Toulouse, qui a donné les
-          Regles de la Poësie Françoise, &amp; mis au jour differens Ouvrages en Prose &amp; en
-          Vers, a fait imprimer depuis peu de jours des Apophtegmes, où brillent également l’esprit
-          &amp; la delicatesse de l’Art poëtique. Voicy un Sonnet de sa façon à M<hi rend="sup">r</hi> le Maréchal Duc de Noailles, Viceroy de Catalogne.</p>
+    <body>
+      <div>
+        <p>Le Pere Mourgues, Jesuite, Professeur Royal des Mathematiques à Toulouse, qui a donné les Regles de la Poësie Françoise, &amp; mis au jour differens Ouvrages en Prose &amp; en Vers, a fait imprimer depuis peu de jours des Apophtegmes, où brillent également l’esprit &amp; la delicatesse de l’Art poëtique. Voicy un Sonnet de sa façon à M<hi rend="sup">r</hi> le Maréchal Duc de Noailles, Viceroy de Catalogne.</p>
         <quote>
           <label>SONNET.</label>
           <lg>
@@ -49,10 +45,7 @@
             <l rend="i">Que si je te mettois au dessus des Cesars.</l>
           </lg>
         </quote>
-        <p>Le Pere l’Heritier, Jesuite, de la Maison Professe de Toulouse, homme distingué dans
-          cette celebre Compagnie, ayant fait une Anagramme en Vers Latins sur les Mouches de S.
-          Narcisse, le Pere Mourgues en a rendu toutes les beautez en nostre Langue, par ces quatre
-          Vers.</p>
+        <p>Le Pere l’Heritier, Jesuite, de la Maison Professe de Toulouse, homme distingué dans cette celebre Compagnie, ayant fait une Anagramme en Vers Latins sur les Mouches de S. Narcisse, le Pere Mourgues en a rendu toutes les beautez en nostre Langue, par ces quatre Vers.</p>
         <quote>
           <lg>
             <l rend="i">Tant qu’un zele pieux arma vos Escadrons,</l>
@@ -62,6 +55,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

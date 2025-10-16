@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Le Mariage dont vous me demandez des nouvelles, est entiérement rompu. L’Amant, quoy que
-          charmé de la Belle, s’est apperceu qu’elle ne l’avoit tenu en balance pendant deux ans,
-          que dans l’espérance d’une plus haute fortune ; &amp; quand elle a commencé à se déclarer
-          en sa faveur, il s’est refroidy, &amp; n’a point voulu d’une Personne dont il croyoit
-          n’avoir pas touché le cœur. La Fable qui suit a grand rapport à cette Avanture. Vous la
-          ferez voir aux Belles de vostre Province. La moralité en sera utile à celles, qui pour
-          trop attendre de leur mérite, refusent des avantages, qu’il ne leur est pas toûjours aisé
-          de trouver.</p>
+    <body>
+      <div>
+        <p>Le Mariage dont vous me demandez des nouvelles, est entiérement rompu. L’Amant, quoy que charmé de la Belle, s’est apperceu qu’elle ne l’avoit tenu en balance pendant deux ans, que dans l’espérance d’une plus haute fortune ; &amp; quand elle a commencé à se déclarer en sa faveur, il s’est refroidy, &amp; n’a point voulu d’une Personne dont il croyoit n’avoir pas touché le cœur. La Fable qui suit a grand rapport à cette Avanture. Vous la ferez voir aux Belles de vostre Province. La moralité en sera utile à celles, qui pour trop attendre de leur mérite, refusent des avantages, qu’il ne leur est pas toûjours aisé de trouver.</p>
         <quote>
           <label>L’ARTICHAUT ET LA LAITUE.<lb/>FABLE.</label>
           <lg>
@@ -63,8 +55,7 @@
             <l rend="i"> N’inspiroit pas à sa Voisine</l>
             <l rend="i"> Quelque sentiment de pitié.</l>
             <l rend="i"> Il rompit donc un jour silence,</l>
-            <l><hi rend="i">Et les larmes aux yeux</hi> (<hi rend="i">il venoit de
-              pleuvoir</hi>)</l>
+            <l><hi rend="i">Et les larmes aux yeux</hi> (<hi rend="i">il venoit de pleuvoir</hi>)</l>
             <l> Belle à qui jour &amp; nuit je pense,</l>
             <l>Estes-vous de ma flâme à vous appercevoir ?</l>
             <l> Un légitime mariage</l>
@@ -120,6 +111,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

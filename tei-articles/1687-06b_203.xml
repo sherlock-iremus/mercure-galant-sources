@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-          
-          <p/>
-          <p>Les Jésuites y ont une tres-grande Eglise, fort propre &amp; fort riche. Elle est plus grande que celle des Carmes de la Place-Maubert, &amp; a deux aisles, &amp; trois beaux Autels. Ils tiennent le College, &amp; ces Peres sont ordinairement au nombre de vingt-cinq dans cette Maison. Encore qu'ils soient tous François, il y en a quelques-uns qui sçavent fort bien l'Allemand, &amp; qui ont esté élevez en Allemagne. Leur Jardin est beau &amp; spacieux &amp; leur maison toute neuve &amp; bien ordonnée. Ils ont une Musique Allemande, que la Cour alla entendre le jour de la Trinité.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p/>
+        <p>Les Jésuites y ont une tres-grande Eglise, fort propre &amp; fort riche. Elle est plus grande que celle des Carmes de la Place-Maubert, &amp; a deux aisles, &amp; trois beaux Autels. Ils tiennent le College, &amp; ces Peres sont ordinairement au nombre de vingt-cinq dans cette Maison. Encore qu'ils soient tous François, il y en a quelques-uns qui sçavent fort bien l'Allemand, &amp; qui ont esté élevez en Allemagne. Leur Jardin est beau &amp; spacieux &amp; leur maison toute neuve &amp; bien ordonnée. Ils ont une Musique Allemande, que la Cour alla entendre le jour de la Trinité.</p>
+      </div>
+    </body>
   </text>
 </TEI>

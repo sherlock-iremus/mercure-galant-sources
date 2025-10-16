@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,18 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Il s’en est fait beaucoup d’autres pour le Bal, où l’on n’a pas moins admiré la
-          magnificence &amp; la propreté des Masques, que la grace qu’ils ont fait paroistre en
-          dançant. Ce talent de bien dançer est devenu si considérable, qu’un jeune Homme qui ne
-          croyoit pas avoir la jambe assez droite, se l’est fait rompre dans le seul dessein d’avoir
-          l’air meilleur quand il se la seroit fait raccommoder. Ce qui contribuë fort à faire
-          naistre l’envie de courir le Bal, c’est qu’on le peut faire avec toute sorte de seûreté.
-          L’ordre qu’on donne pour l’entretenir, aussi-bien que, pour la netteté &amp; la clarté,
-          est quelque chose d’admirable.</p>
+    <body>
+      <div>
+        <p>Il s’en est fait beaucoup d’autres pour le Bal, où l’on n’a pas moins admiré la magnificence &amp; la propreté des Masques, que la grace qu’ils ont fait paroistre en dançant. Ce talent de bien dançer est devenu si considérable, qu’un jeune Homme qui ne croyoit pas avoir la jambe assez droite, se l’est fait rompre dans le seul dessein d’avoir l’air meilleur quand il se la seroit fait raccommoder. Ce qui contribuë fort à faire naistre l’envie de courir le Bal, c’est qu’on le peut faire avec toute sorte de seûreté. L’ordre qu’on donne pour l’entretenir, aussi-bien que, pour la netteté &amp; la clarté, est quelque chose d’admirable.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

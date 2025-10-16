@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,26 +14,34 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-
-<quote>
-  <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : [l’Air] qui commence par, <hi rend="i">Petits Oiseaux</hi>, doit regarder la page 438.</note>
-<lg>
-<l><hi rend="i">Petits Oyseaux, que mon sort seroit doux,</hi></l>
-<l> <hi rend="i">Si je pouvois ainsi que vous,</hi></l>
-<l><hi rend="i">Avecque le Printemps, voir finir mes allarmes :</hi></l>
-<l><hi rend="i">Mais las ! rien ne sçauroit éteindre mon ardeur</hi></l>
-<l> <hi rend="i">Tircis a toujours trop de charmes</hi></l>
-<l><hi rend="i">Pour ne pas regner dans mon cœur.</hi></l>
-</lg>
-</quote>
-  <ref target="images/1709-04_438.JPG">
-    <figure>
-      <graphic url="images/1709-04_438.JPG"/>
-    </figure>
-  </ref>
-</div>
-</body>
+    <body>
+      <div>
+        <quote>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : [l’Air] qui commence par, <hi rend="i">Petits Oiseaux</hi>, doit regarder la page 438.</note>
+          <lg>
+            <l>
+              <hi rend="i">Petits Oyseaux, que mon sort seroit doux,</hi>
+            </l>
+            <l> <hi rend="i">Si je pouvois ainsi que vous,</hi></l>
+            <l>
+              <hi rend="i">Avecque le Printemps, voir finir mes allarmes :</hi>
+            </l>
+            <l>
+              <hi rend="i">Mais las ! rien ne sçauroit éteindre mon ardeur</hi>
+            </l>
+            <l> <hi rend="i">Tircis a toujours trop de charmes</hi></l>
+            <l>
+              <hi rend="i">Pour ne pas regner dans mon cœur.</hi>
+            </l>
+          </lg>
+        </quote>
+        <ref target="images/1709-04_438.JPG">
+          <figure>
+            <graphic url="images/1709-04_438.JPG"/>
+          </figure>
+        </ref>
+      </div>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
+    <body>
+      <div>
         <p/>
-        <p>Je vous envoye un Madrigal, que M<hi rend="sup">r</hi> Vignier a fait pour une Dame de la
-          Religion Pretenduë Reformée, qui songeant à s’échaper du Royaume, luy demanda une Fuite de
-          nostre Seigneur en Egypte, d’aprés le Poussin. Il accompagna ce present des Vers qui
-          suivent.</p>
+        <p>Je vous envoye un Madrigal, que M<hi rend="sup">r</hi> Vignier a fait pour une Dame de la Religion Pretenduë Reformée, qui songeant à s’échaper du Royaume, luy demanda une Fuite de nostre Seigneur en Egypte, d’aprés le Poussin. Il accompagna ce present des Vers qui suivent.</p>
         <quote>
           <lg>
             <l rend="i">Voicy les Fugitifs que vous me demandez,</l>
@@ -34,10 +29,7 @@
           </lg>
         </quote>
         <p/>
-        <p>J’ay sceu que la Dame ne parle plus de se retirer, &amp; que donnant tous ses soins à se
-          faire instruire, elle se sert de ce Madrigal, pour engager ceux qu’elle voit encore dans
-          l’aveuglement où elle estoit, à imiter son exemple. Les Conversions ont donné lieu à cet
-          autre Madrigal, qu’on a tourné d’une maniere galante.</p>
+        <p>J’ay sceu que la Dame ne parle plus de se retirer, &amp; que donnant tous ses soins à se faire instruire, elle se sert de ce Madrigal, pour engager ceux qu’elle voit encore dans l’aveuglement où elle estoit, à imiter son exemple. Les Conversions ont donné lieu à cet autre Madrigal, qu’on a tourné d’une maniere galante.</p>
         <quote>
           <lg>
             <l rend="i">La France sous LOUIS, prend des faces nouvelles,</l>
@@ -47,6 +39,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,42 +14,31 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
-        <p>Il y a quelques années que je vous fis une exacte &amp; entiere description de tous les
-          Appartemens de Versailles, &amp; de ce que l’on appelle tenir Apartement. La Musique est
-          du nombre des divertissemens que l’on y prend les jours qu’on le tient. Non seulement les
-          plus beaux Airs de M<hi rend="sup">r</hi> de Lully y sont chantez, mais encore ceux des
-          Maistres de Musique qui ont quelque distinction, &amp; dont les Ouvrages ont fait bruit.
-          Cela fait qu’ils s’empressent tous à travailler, &amp; qu’ils cherchent de belles paroles,
-          parce que lors qu’ils sont assez heureux pour en avoir, ils sont seurs que leur Musique
-          paroistra beaucoup davantage. C’est ce qui arriva dernierement au Sieur Marets, qui ayant
-          mis en Musique l’Idille que je vous envoye, le fit chanter aux Apartemens en presence de
-          toute la Cour. Il y arriva une chose extraordinaire, &amp; qui fait connoistre son grand
-          succés. Madame la Dauphine en fut si contente, qu’elle le fit recommencer sur l’heure.
-          Tous ceux qui l’avoient déja oüy, l’entendirent une seconde fois, &amp; témoignerent y
-          prendre un nouveau plaisir. Il fut encore chanté le jour d’Appartement suivant. Je vous ay
-          souvent parlé des Ouvrages de Prose &amp; de Vers, &amp; de differens caracteres, de
-          l’Auteur des paroles, c’est tout ce que je vous en diray aujourd’huy. J’espere vous
-          envoyer le mois prochain quelques endroits notez de l’Idille.</p>
+        <p>Il y a quelques années que je vous fis une exacte &amp; entiere description de tous les Appartemens de Versailles, &amp; de ce que l’on appelle tenir Apartement. La Musique est du nombre des divertissemens que l’on y prend les jours qu’on le tient. Non seulement les plus beaux Airs de M<hi rend="sup">r</hi> de Lully y sont chantez, mais encore ceux des Maistres de Musique qui ont quelque distinction, &amp; dont les Ouvrages ont fait bruit. Cela fait qu’ils s’empressent tous à travailler, &amp; qu’ils cherchent de belles paroles, parce que lors qu’ils sont assez heureux pour en avoir, ils sont seurs que leur Musique paroistra beaucoup davantage. C’est ce qui arriva dernierement au Sieur Marets, qui ayant mis en Musique l’Idille que je vous envoye, le fit chanter aux Apartemens en presence de toute la Cour. Il y arriva une chose extraordinaire, &amp; qui fait connoistre son grand succés. Madame la Dauphine en fut si contente, qu’elle le fit recommencer sur l’heure. Tous ceux qui l’avoient déja oüy, l’entendirent une seconde fois, &amp; témoignerent y prendre un nouveau plaisir. Il fut encore chanté le jour d’Appartement suivant. Je vous ay souvent parlé des Ouvrages de Prose &amp; de Vers, &amp; de differens caracteres, de l’Auteur des paroles, c’est tout ce que je vous en diray aujourd’huy. J’espere vous envoyer le mois prochain quelques endroits notez de l’Idille.</p>
         <quote>
-          <label>IDILLE<lb/>DRAMATIQUE<lb/>SCENE I.<lb/>La France, la Paix, le Repos,<lb/>les
-            Plaisirs, Chœur.</label>
+          <label>IDILLE<lb/>DRAMATIQUE<lb/>SCENE I.<lb/>La France, la Paix, le Repos,<lb/>les Plaisirs, Chœur.</label>
           <lg>
-            <label><hi rend="sc">La France.</hi></label>
+            <label>
+              <hi rend="sc">La France.</hi>
+            </label>
             <l rend="i">Venez, aimable Paix,</l>
             <l rend="i">Venez, Repos tranquille,</l>
             <l rend="i">La France pour jamais</l>
             <l rend="i">Doit estre vostre azile.</l>
           </lg>
           <lg>
-            <label><hi rend="sc">Le Repos.</hi></label>
+            <label>
+              <hi rend="sc">Le Repos.</hi>
+            </label>
             <l rend="i">Allons, aimable Paix.</l>
           </lg>
           <lg>
-            <label><hi rend="sc">La Paix.</hi></label>
+            <label>
+              <hi rend="sc">La Paix.</hi>
+            </label>
             <l rend="i">Allons, Repos tranquille.</l>
           </lg>
           <lg>
@@ -89,7 +78,9 @@
             <l rend="i">Que les chaisnes de l’Amour.</l>
           </lg>
           <lg>
-            <label><hi rend="sc">Entrée.</hi></label>
+            <label>
+              <hi rend="sc">Entrée.</hi>
+            </label>
             <l>Les Bergeres s’en vont avec les Plaisirs.</l>
             <l> Les Bergers restent seuls.</l>
           </lg>
@@ -97,14 +88,18 @@
         <quote>
           <label>SCENE II.<lb/>Tirsis, Iris, Lisandre.</label>
           <lg>
-            <label><hi rend="sc">Tirsis.</hi></label>
+            <label>
+              <hi rend="sc">Tirsis.</hi>
+            </label>
             <l rend="i"> Suivons nos jeunes Bergeres,</l>
             <l rend="i">Les Jeux &amp; les Plaisirs s’attachent à leurs pas,</l>
             <l rend="i"> Les Bergers ne se plaisent gueres</l>
             <l rend="i"> Où les Bergeres ne sont pas.</l>
           </lg>
           <lg>
-            <label><hi rend="sc">Lisandre.</hi></label>
+            <label>
+              <hi rend="sc">Lisandre.</hi>
+            </label>
             <l rend="i"> Allez, Bergers, dans ce Boccage,</l>
             <l rend="i">Vous qui vivez contens dans l’Empire amoureux,</l>
             <l rend="i"> Les Ris, les Jeux, le Badinage</l>
@@ -115,7 +110,9 @@
             <l rend="i"> Tous les plaisirs ne touchent guere.</l>
           </lg>
           <lg>
-            <label><hi rend="sc">Iris.</hi></label>
+            <label>
+              <hi rend="sc">Iris.</hi>
+            </label>
             <l rend="i">Ne plaist on plus dés que l’on aime ?</l>
             <l rend="i"> J’avois sceu le charmer</l>
             <l rend="i"> Avant que de sçavoir aimer,</l>
@@ -126,41 +123,55 @@
             <l rend="i"> Ne plaist-on plus dés que l’on aime ?</l>
           </lg>
           <lg>
-            <label><hi rend="sc">Lisandre.</hi></label>
+            <label>
+              <hi rend="sc">Lisandre.</hi>
+            </label>
             <l rend="i">Je vous entens, vous soûpirez,</l>
             <l rend="i">Depuis quand estes-vous si tendre ?</l>
           </lg>
           <lg>
-            <label><hi rend="sc">Iris.</hi></label>
+            <label>
+              <hi rend="sc">Iris.</hi>
+            </label>
             <l rend="i"> Depuis que vous ignorez</l>
             <l rend="i">Que vous sçavez vous faire entendre.</l>
           </lg>
           <lg>
-            <label><hi rend="sc">Lisandre.</hi></label>
+            <label>
+              <hi rend="sc">Lisandre.</hi>
+            </label>
             <l rend="i"> Tirsis n’est pas avec vous,</l>
             <l rend="i">Vous croyez luy parler sans doute.</l>
           </lg>
           <lg>
-            <label><hi rend="sc">Iris.</hi></label>
+            <label>
+              <hi rend="sc">Iris.</hi>
+            </label>
             <l rend="i">Depuis que Lisandre est jaloux</l>
             <l rend="i">Je luy parle sans qu’il m’écoute.</l>
           </lg>
           <lg>
-            <label><hi rend="sc">Lisandre.</hi></label>
+            <label>
+              <hi rend="sc">Lisandre.</hi>
+            </label>
             <l rend="i">Mon cœur toujours de bonne foy</l>
             <l rend="i">Ne sçauroit s’attacher qu’au vostre,</l>
             <l rend="i">Et vous, quand vous parlez à moy,</l>
             <l rend="i"> Vous songez à quelque autre.</l>
           </lg>
           <lg>
-            <label><hi rend="sc">Iris.</hi></label>
+            <label>
+              <hi rend="sc">Iris.</hi>
+            </label>
             <l rend="i">Vous affectez un vain couroux</l>
             <l rend="i">Pour me faire une querelle ;</l>
             <l rend="i">Vous voulez estre cru jaloux,</l>
             <l rend="i"> Pour estre cru fidelle.</l>
           </lg>
           <lg>
-            <label><hi rend="sc">Lisandre.</hi></label>
+            <label>
+              <hi rend="sc">Lisandre.</hi>
+            </label>
             <l rend="i">Si vous craignez toujours que je puisse changer</l>
             <l rend="i"> L’objet d’un amour extrême,</l>
             <l rend="i">Iris, connoissez-moy, connoissez-vous vous-mesme,</l>
@@ -203,21 +214,29 @@
         <quote>
           <label>SCENE III.<lb/>La France, la Paix, la Victoire,<lb/>Chœur.</label>
           <lg>
-            <label><hi rend="sc">La France.</hi></label>
+            <label>
+              <hi rend="sc">La France.</hi>
+            </label>
             <l rend="i">Quels Tambours, quelles Trompettes ?</l>
           </lg>
           <lg>
-            <label><hi rend="sc">La Paix &amp; la France.</hi></label>
+            <label>
+              <hi rend="sc">La Paix &amp; la France.</hi>
+            </label>
             <l rend="i">Quelles clameurs mal à propos</l>
             <l rend="i">Interrompent nos Musettes,</l>
             <l rend="i">Et menacent nostre repos ?</l>
           </lg>
           <lg>
-            <label><hi rend="sc">La Paix a la France.</hi></label>
+            <label>
+              <hi rend="sc">La Paix a la France.</hi>
+            </label>
             <l rend="i">Quoy, jusque dans ton sein craindray-je la Victoire ?</l>
           </lg>
           <lg>
-            <label><hi rend="sc">Le Repos.</hi></label>
+            <label>
+              <hi rend="sc">Le Repos.</hi>
+            </label>
             <l rend="i">La barbare en tous lieux m’attaque &amp; me détruit,</l>
             <l rend="i"> Je suis d’accord avec la Gloire,</l>
             <l rend="i"> Et la Victoire me poursuit.</l>
@@ -228,7 +247,9 @@
             <l rend="i">Et la Victoire me poursuit.</l>
           </lg>
           <lg>
-            <label><hi rend="sc">La France.</hi></label>
+            <label>
+              <hi rend="sc">La France.</hi>
+            </label>
             <l rend="i"> Victoire toujours agissante,</l>
             <l rend="i">La Paix &amp; le Repos regnent dans mes Etats,</l>
             <l rend="i">Les Plaisirs &amp; les Jeux suivent icy leurs pas,</l>
@@ -237,7 +258,9 @@
             <l rend="i"> Et la Victoire ne l’est pas.</l>
           </lg>
           <lg>
-            <label><hi rend="sc">La Victoire.</hi></label>
+            <label>
+              <hi rend="sc">La Victoire.</hi>
+            </label>
             <l rend="i"> Non, je ne puis souffrir tes Festes,</l>
             <l rend="i">Et tu reçois trop bien la Paix &amp; le Repos.</l>
             <l rend="i">  La bonté du Heros</l>
@@ -246,14 +269,18 @@
             <l rend="i"> Ta gloire alloit plus loin que tes souhaits</l>
           </lg>
           <lg>
-            <label><hi rend="sc">La France.</hi></label>
+            <label>
+              <hi rend="sc">La France.</hi>
+            </label>
             <l rend="i">Tout rit, tout chante,</l>
             <l rend="i">Dans ces lieux pleins d’appas,</l>
             <l rend="i">La Gloire en est contente,</l>
             <l rend="i">Et la Victoire ne l’est pas.</l>
           </lg>
           <lg>
-            <label><hi rend="sc">La Victoire.</hi></label>
+            <label>
+              <hi rend="sc">La Victoire.</hi>
+            </label>
             <l rend="i"> Quelle terreur, quelle épouvante</l>
             <l rend="i"> A jamais trouble tes Etats</l>
             <l rend="i"> Dans le temps mesme des combats ?</l>
@@ -265,7 +292,9 @@
             <l rend="i"> Dans le temps même des combats ?</l>
           </lg>
           <lg>
-            <label><hi rend="sc">La France.</hi></label>
+            <label>
+              <hi rend="sc">La France.</hi>
+            </label>
             <l rend="i">Du Heros que tu sers la douceur est charmante,</l>
             <l rend="i">Iusqu’à ses ennemis, il veut que tout ressente</l>
             <l rend="i">Le tranquille repos qui regne en ses Etats.</l>
@@ -273,7 +302,9 @@
             <l rend="i"> Et la Victoire ne l’est pas.</l>
           </lg>
           <lg>
-            <label><hi rend="sc">La Victoire.</hi></label>
+            <label>
+              <hi rend="sc">La Victoire.</hi>
+            </label>
             <l rend="i">Le Maistre de cet Empire</l>
             <l rend="i">Devoit l’estre de l’Univers.</l>
             <l rend="i">Dans les plaisirs divers</l>
@@ -290,7 +321,9 @@
             <l rend="i">Cherche moins son bonheur que le bonheur du Monde.</l>
           </lg>
           <lg>
-            <label><hi rend="sc">La Victoire.</hi></label>
+            <label>
+              <hi rend="sc">La Victoire.</hi>
+            </label>
             <l rend="i">Il faut donc ceder au Repos,</l>
             <l rend="i"> La Paix m’arreste,</l>
             <l rend="i">Je ne vay qu’avec le Heros,</l>
@@ -330,6 +363,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,55 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-                
-
-                
-                <p>Ceux dont les appointemens ont esté augmentez jusqu’à 200 livres par mois, sont
-                    M<hi rend="sup">r</hi>  de la Barre, M<hi rend="sup">r</hi>  le Commandeur d’Arbouville, M<hi rend="sup">r</hi> 
-                    de Sevigné, M<hi rend="sup">r</hi>  le Chevalier de
-                    Châteaumorant, M<hi rend="sup">r</hi>  du Quesne-Mosnier, &amp; M<hi rend="sup">r</hi>  des Augiers.</p>
-                <p>M<hi rend="sup">r</hi>  de la Barre fut fait Enseigne de Vaisseau en 1671 dans la même Promotion où
-                    feu M<hi rend="sup">r</hi>  de la Barre son pere fut fait Capitaine. M<hi rend="sup">r</hi>  de la Barre le pere, après
-                    avoir esté successivement Conseiller au Parlement, Maistre des Requestes &amp;
-                    Intendant du Bourbonnois, il vendit sa Charge de M<hi rend="sup">e</hi> des
-                    Requestes ; mais son zele pour le service ne lui permettant pas de demeurer
-                    oisif, il fut fait en 1664 Gouverneur &amp; Lieutenant General de Cayenne &amp; de
-                    la Terre-Ferme, adjacente de l’Amérique Meridionale, d’où il chassa les
-                    Hollandois, qui s’y estoient puissamment establis depuis long-tems. Quelques
-                    années ensuite, le Roy l’envoya aux Isles de l’Amérique, en qualité de
-                    Gouverneur &amp; Lieutenant General pour Sa Majesté, tant sur Terre que sur Mer, où
-                    il commanda 25 ou 30 Vaisseaux, avec lesquels en divers combats il remporta en
-                    1666 plusieurs avantages sur les Anglois, avec lesquels nous estions alors en
-                    guerre, &amp; il y acquit beaucoup de gloire par plusieurs actions de valeur,
-                    dont il porta depuis les marques par ses blessures. Sa Majesté fut si satisfaite
-                    de ses services, qu’Elle l’envoya en Canada, pour y succeder à M<hi rend="sup">r</hi>  le Comte de
-                    Frontenac, en qualité de Gouverneur &amp; de Lieutenant General dans les Isles &amp;
-                    Terre-Ferme de la nouvelle France, dont il s’acquita à son ordinaire avec
-                    beaucoup de reputation.</p>
-                <p>Feu M<hi rend="sup">r</hi>  de la Barre avoit laissé pour Gouverneur de Cayenne, à sa place, M<hi rend="sup">r</hi>  le
-                    Fèvre de Lezy, son frere, Chevalier de Malthe, qui y est mort pendant ses
-                    caravannes, il y a déja quelques années, en odeur de sainteté, après plusieurs
-                    actions d’éclat &amp; de valeur. Ce Chevalier avoit laissé M<hi rend="sup">r</hi>  de la Barre, son
-                    neveu, dont nous parlons, pour son successeur au Gouvernement de Cayenne, où
-                    après avoir commandé avec reputation pendant sept ou huit ans, il obtint son
-                    Congé ; &amp; il a toûjours servi depuis, ou dans les Armées Navales, ou en
-                    commandant en chef la Marine à Dieppe, &amp; en d’autres Ports. Il est frère de
-                    M<hi rend="sup">e</hi> la Presidente de Quincy, &amp; de M<hi rend="sup"
-                        >e</hi> d’Ormesson.</p>
-                <p>M<hi rend="sup">r</hi>  des Augiers s’est signalé en plusieurs occasions,
-                        depuis long-temps qu’il est Capitaine de Vaisseau, tant aux Indes
-                        Orientales, où il alla, il y a quelques années, commandant une Escadre de
-                        quatre ou cinq Vaisseaux, pour escorter ceux de la Compagnie, tant en allant
-                        qu’en revenant ; que dans les Indes Occidentales, où il commandoit une
-                        Escadre de trois ou quatre Vaisseaux du Roy, avec lesquels il prit, il y a
-                        huit ou neuf ans, un Vaisseau de guerre Espagnol, de cinquante Canons
-                        de fonte dans le Golfe de Mexique. C’étoit l’Amiral de l’Escadre, que les
-                        Espagnols appellent <hi rend="italic">Armadille</hi>,
-                        employée pour purger ces Mers-là des Flibustiers &amp;
-                        des Corsaires qui leur faisoient alors la guerre.</p>
-
-            </div>
+    <body>
+      <div>
+        <p>Ceux dont les appointemens ont esté augmentez jusqu’à 200 livres par mois, sont M<hi rend="sup">r</hi>  de la Barre, M<hi rend="sup">r</hi>  le Commandeur d’Arbouville, M<hi rend="sup">r</hi> de Sevigné, M<hi rend="sup">r</hi>  le Chevalier de Châteaumorant, M<hi rend="sup">r</hi>  du Quesne-Mosnier, &amp; M<hi rend="sup">r</hi>  des Augiers.</p>
+        <p>M<hi rend="sup">r</hi>  de la Barre fut fait Enseigne de Vaisseau en 1671 dans la même Promotion où feu M<hi rend="sup">r</hi>  de la Barre son pere fut fait Capitaine. M<hi rend="sup">r</hi>  de la Barre le pere, après avoir esté successivement Conseiller au Parlement, Maistre des Requestes &amp; Intendant du Bourbonnois, il vendit sa Charge de M<hi rend="sup">e</hi> des Requestes ; mais son zele pour le service ne lui permettant pas de demeurer oisif, il fut fait en 1664 Gouverneur &amp; Lieutenant General de Cayenne &amp; de la Terre-Ferme, adjacente de l’Amérique Meridionale, d’où il chassa les Hollandois, qui s’y estoient puissamment establis depuis long-tems. Quelques années ensuite, le Roy l’envoya aux Isles de l’Amérique, en qualité de Gouverneur &amp; Lieutenant General pour Sa Majesté, tant sur Terre que sur Mer, où il commanda 25 ou 30 Vaisseaux, avec lesquels en divers combats il remporta en 1666 plusieurs avantages sur les Anglois, avec lesquels nous estions alors en guerre, &amp; il y acquit beaucoup de gloire par plusieurs actions de valeur, dont il porta depuis les marques par ses blessures. Sa Majesté fut si satisfaite de ses services, qu’Elle l’envoya en Canada, pour y succeder à M<hi rend="sup">r</hi>  le Comte de Frontenac, en qualité de Gouverneur &amp; de Lieutenant General dans les Isles &amp; Terre-Ferme de la nouvelle France, dont il s’acquita à son ordinaire avec beaucoup de reputation.</p>
+        <p>Feu M<hi rend="sup">r</hi>  de la Barre avoit laissé pour Gouverneur de Cayenne, à sa place, M<hi rend="sup">r</hi>  le Fèvre de Lezy, son frere, Chevalier de Malthe, qui y est mort pendant ses caravannes, il y a déja quelques années, en odeur de sainteté, après plusieurs actions d’éclat &amp; de valeur. Ce Chevalier avoit laissé M<hi rend="sup">r</hi>  de la Barre, son neveu, dont nous parlons, pour son successeur au Gouvernement de Cayenne, où après avoir commandé avec reputation pendant sept ou huit ans, il obtint son Congé ; &amp; il a toûjours servi depuis, ou dans les Armées Navales, ou en commandant en chef la Marine à Dieppe, &amp; en d’autres Ports. Il est frère de M<hi rend="sup">e</hi> la Presidente de Quincy, &amp; de M<hi rend="sup">e</hi> d’Ormesson.</p>
+        <p>M<hi rend="sup">r</hi>  des Augiers s’est signalé en plusieurs occasions, depuis long-temps qu’il est Capitaine de Vaisseau, tant aux Indes Orientales, où il alla, il y a quelques années, commandant une Escadre de quatre ou cinq Vaisseaux, pour escorter ceux de la Compagnie, tant en allant qu’en revenant ; que dans les Indes Occidentales, où il commandoit une Escadre de trois ou quatre Vaisseaux du Roy, avec lesquels il prit, il y a huit ou neuf ans, un Vaisseau de guerre Espagnol, de cinquante Canons de fonte dans le Golfe de Mexique. C’étoit l’Amiral de l’Escadre, que les Espagnols appellent <hi rend="italic">Armadille</hi>, employée pour purger ces Mers-là des Flibustiers &amp; des Corsaires qui leur faisoient alors la guerre.</p>
+      </div>
     </body>
   </text>
 </TEI>

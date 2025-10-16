@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,32 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
+    <body>
+      <div>
         <p/>
-        <p>M<hi rend="sup">r</hi> Daguesseau Intendant en Languedoc, a esté témoin de ce qui s'est
-          fait à Pezenas. Il fut surpris de l'ardeur avec laquelle tous les Habitans se portoient à
-          la dépense. L'invention des Feux d'artifices qu'on fit en beaucoup d'endroits, outre celuy
-          que les Consuls de la Ville avoient fait dresser, n'estoit pas moins une preuve de leur
-          esprit qu'elle l'estoit de leur zele. M<hi rend="sup">r</hi> le Chastelain, comme Chef de
-          Justice, donna les ordres pour toute la Feste ; &amp; on ne se contenta pas de les suivre,
-          on alla encor plus loin. M<hi rend="sup">r</hi> Pugeol, Secretaire pour le Roy aux Etats,
-          &amp; Agent de la Province, qui dans toutes les occasions qui regardent la Maison Royale,
-          est des premiers à marquer son zele, se distingua dans celle-cy par une Illumination des
-          plus éclatantes qu'il fit dans sa Maison, dont la face est fort grande sur la petite Place
-          de la Ville. L'entablement &amp; les cordons qui regnent autour de cett face estoient
-          remplis de plus de deux milles lampes. A la place des Croisées de menuiserie, qu'il avoit
-          fait oster aux Fenestres qui sont en grand nombre, il y avoit des Chassis sur lesquels on
-          voyait briller quantités d'Emblèmes &amp; de Devises par les lumières qui estoient
-          derriere. Entre ces Croisées on avoit dressé des Pyramides, dont le piédestal étoit
-          enrichy d'Oripeau, &amp; au milieu de ce piédestal, estoient encore des Devises disposées
-          dans un bel ordre, éamp; fort agreablement illuminées. Au milieu de la petite place sur
-          laquelle regarde cette maison, M<hi rend="sup">r</hi> Pugeol avoit fait faire un Feu
-          d'artifice ; &amp; pour accompagner cette Feste, il donna le Bal aux Dames, &amp; une
-          magnifique Collation. [...]</p>
+        <p>M<hi rend="sup">r</hi> Daguesseau Intendant en Languedoc, a esté témoin de ce qui s'est fait à Pezenas. Il fut surpris de l'ardeur avec laquelle tous les Habitans se portoient à la dépense. L'invention des Feux d'artifices qu'on fit en beaucoup d'endroits, outre celuy que les Consuls de la Ville avoient fait dresser, n'estoit pas moins une preuve de leur esprit qu'elle l'estoit de leur zele. M<hi rend="sup">r</hi> le Chastelain, comme Chef de Justice, donna les ordres pour toute la Feste ; &amp; on ne se contenta pas de les suivre, on alla encor plus loin. M<hi rend="sup">r</hi> Pugeol, Secretaire pour le Roy aux Etats, &amp; Agent de la Province, qui dans toutes les occasions qui regardent la Maison Royale, est des premiers à marquer son zele, se distingua dans celle-cy par une Illumination des plus éclatantes qu'il fit dans sa Maison, dont la face est fort grande sur la petite Place de la Ville. L'entablement &amp; les cordons qui regnent autour de cett face estoient remplis de plus de deux milles lampes. A la place des Croisées de menuiserie, qu'il avoit fait oster aux Fenestres qui sont en grand nombre, il y avoit des Chassis sur lesquels on voyait briller quantités d'Emblèmes &amp; de Devises par les lumières qui estoient derriere. Entre ces Croisées on avoit dressé des Pyramides, dont le piédestal étoit enrichy d'Oripeau, &amp; au milieu de ce piédestal, estoient encore des Devises disposées dans un bel ordre, éamp; fort agreablement illuminées. Au milieu de la petite place sur laquelle regarde cette maison, M<hi rend="sup">r</hi> Pugeol avoit fait faire un Feu d'artifice ; &amp; pour accompagner cette Feste, il donna le Bal aux Dames, &amp; une magnifique Collation. [...]</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

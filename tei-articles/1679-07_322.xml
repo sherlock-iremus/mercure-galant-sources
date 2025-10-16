@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Vous m’avez demandé des nouvelles de Madame le Camus, dans le temps que je me préparois à
-          vous en donner. La vivacité de son Esprit éclate de jour en jour par ses Inpromptu ; &amp;
-          comme Leurs Altesses Royales ont pour elle une estime particuliere, elle a fait le
-          Portrait de Monsieur, depuis quelques jours. Je vous l’envoye tel qu’elle l’a envoyé à
-          Madame. Vous y trouverez la mesme facilité de Poësie qui est dans tout ce que vous avez
-          veu d’elle.</p>
+    <body>
+      <div>
+        <p>Vous m’avez demandé des nouvelles de Madame le Camus, dans le temps que je me préparois à vous en donner. La vivacité de son Esprit éclate de jour en jour par ses Inpromptu ; &amp; comme Leurs Altesses Royales ont pour elle une estime particuliere, elle a fait le Portrait de Monsieur, depuis quelques jours. Je vous l’envoye tel qu’elle l’a envoyé à Madame. Vous y trouverez la mesme facilité de Poësie qui est dans tout ce que vous avez veu d’elle.</p>
         <quote>
           <label type="head">Portrait <lb/>de Monsieur, <lb/>envoyé à Madame.</label>
           <l>ILlustre Rejetton des Princes &amp; des Rois,</l>
@@ -57,6 +51,6 @@
           <l>Vous le reconnoissez, il n’est rien plus semblable.</l>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,23 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
-        <p>Comme il n'y avoit point de Salle assez grande pour recevoir tous les Conviez<note resp="editor">Voir <ref target="MG-1687-03a_025">l'article
-            précédent</ref> et <ref target="MG-1687-03a_046">suivant</ref> qui relatent également la
-          fête.</note>, on avoit
-          dressé un Theatre sur la Terrasse qui regne le long de l'Apartement de Madame
-          l'Intendante, afin d'y representer un <hi rend="i">Opera</hi> fait exprés, qui avoit pour
-          titre, <hi rend="i">Le Jugement du Soleil</hi>. Les Vers estoient de M<hi rend="sup">r</hi> de Bonnecorse, &amp; la Musique de M<hi rend="sup">r</hi> Gautier, Chef de
-          l'Academie Royale de Musique de Marseille. Pour se parer du vent, qui estoit tres-grand,
-          on avoit eu soin de couvrir toute la Terrasse &amp; le Theatre, tant de voiles que
-          d'étofes, en sorte qu'on n'en receut aucune incommodité. Il s'y trouva plus de mille
-          personnes distinguées. Le Theatre representoit un Paysage, où l'on voyoit des Mers, des
-          Fleuves, des Montagnes, des Forests, &amp; des Villes, avec le Soleil sur l'horison. Il
-          fut ouvert par les quatre Parties du Monde, suivies de toutes les Nations. Voicy les Vers
-          qui furent chantez.</p>
+        <p>Comme il n'y avoit point de Salle assez grande pour recevoir tous les Conviez<note resp="editor">Voir <ref target="MG-1687-03a_025">l'article précédent</ref> et <ref target="MG-1687-03a_046">suivant</ref> qui relatent également la fête.</note>, on avoit dressé un Theatre sur la Terrasse qui regne le long de l'Apartement de Madame l'Intendante, afin d'y representer un <hi rend="i">Opera</hi> fait exprés, qui avoit pour titre, <hi rend="i">Le Jugement du Soleil</hi>. Les Vers estoient de M<hi rend="sup">r</hi> de Bonnecorse, &amp; la Musique de M<hi rend="sup">r</hi> Gautier, Chef de l'Academie Royale de Musique de Marseille. Pour se parer du vent, qui estoit tres-grand, on avoit eu soin de couvrir toute la Terrasse &amp; le Theatre, tant de voiles que d'étofes, en sorte qu'on n'en receut aucune incommodité. Il s'y trouva plus de mille personnes distinguées. Le Theatre representoit un Paysage, où l'on voyoit des Mers, des Fleuves, des Montagnes, des Forests, &amp; des Villes, avec le Soleil sur l'horison. Il fut ouvert par les quatre Parties du Monde, suivies de toutes les Nations. Voicy les Vers qui furent chantez.</p>
         <quote>
           <p>L'EUROPE.</p>
           <lg>
@@ -127,8 +114,7 @@
             <l rend="i">Chantons, chantons sans cesse</l>
             <l rend="i">Que de tous les Heros LOUIS est le plus grand.</l>
           </lg>
-          <p>Une Troupe d'Européens vinrent témoigner ensuite par des danses la joye qu'ils
-            ressentoient.</p>
+          <p>Une Troupe d'Européens vinrent témoigner ensuite par des danses la joye qu'ils ressentoient.</p>
           <p>DEUX EUROPEENS.</p>
           <lg>
             <l rend="i">Celebrons la gloire</l>
@@ -138,17 +124,14 @@
             <l rend="i">A peine on peut croire</l>
             <l>Ses fameux Exploits.</l>
           </lg>
-          <p>Une Troupe d'Asiatiques ayant dansé aprés eux, l'Europe &amp; l'Asie chanterent
-            ensemble ces quatre Vers qui furent repetez par les Choeurs.</p>
+          <p>Une Troupe d'Asiatiques ayant dansé aprés eux, l'Europe &amp; l'Asie chanterent ensemble ces quatre Vers qui furent repetez par les Choeurs.</p>
           <lg>
             <l rend="i">On ne voit rien d'égal dans le Siecle où nous sommes.</l>
             <l rend="i">Ah, que l'on est heureux de vivre sous ses Loix !</l>
             <l rend="i">C'est le plus grand de tous les Rois</l>
             <l rend="i">Et le mieux fait de tous les hommes.</l>
           </lg>
-          <p>Ces deux Entrées furent suivies de deux autres. Une Troupe d'Afriquains, &amp; une
-            autre d'Ameriquains firent connoistre leur joye par diverses danses, aprés quoy
-            l'Afrique &amp; l'Amerique chanterent ensemble.</p>
+          <p>Ces deux Entrées furent suivies de deux autres. Une Troupe d'Afriquains, &amp; une autre d'Ameriquains firent connoistre leur joye par diverses danses, aprés quoy l'Afrique &amp; l'Amerique chanterent ensemble.</p>
           <lg>
             <l rend="i">Jamais Roy n'a conceu de plus nobles projets ;</l>
             <l rend="i">Tout ce qu'il execute, &amp; tout ce qu'il desire</l>
@@ -162,8 +145,7 @@
             <l rend="i">A peine on peut croire</l>
             <l rend="i">Ses fameux Exploits.</l>
           </lg>
-          <p>Les Ris &amp; les Jeux parurent, &amp; se joignant aux quatre Nymphes, chanterent les
-            Vers qui suivent.</p>
+          <p>Les Ris &amp; les Jeux parurent, &amp; se joignant aux quatre Nymphes, chanterent les Vers qui suivent.</p>
           <lg>
             <l rend="i">Plus de chagrin, plus de querelle,</l>
             <l rend="i">Goûtez les douceurs de la Paix,</l>
@@ -193,23 +175,9 @@
           <lg>
             <l rend="i">Ciel, conservez LOUIS, exaucez nos souhaits.</l>
           </lg>
-          <p>Aprés l'Opera, les Violons furent partagez, &amp; l'on commença le Bal en trois
-            endroits differens. Les Hommes &amp; les Femmes avoient le plaisir de passer de l'un à
-            l'autre, &amp; sans sortir de la Maison, trouvoient de tres-belles Assemblées. Il vint
-            au commencement un Masque déguisé en Courrier, qui rendit aux plus considerables de
-            l'Assemblée plusieurs paquets, où l'on trouva des Vers fort agréables. A minuit on
-            servit une grande Collation de Fruits &amp; de Confitures, &amp; pendant toute la Feste
-            il y eut des rafraichissemens de toutes sortes de liqueurs pour tous ceux qui en
-            voulurent. Les Apartemens estoient éclairez d'une infinité de lumieres, aussi bien que
-            l'Escalier. On avoit encore préparé des Illuminations par dehors aux logemens de
-            l'Arcenal, &amp; aux Galeres, mais le grand vent en empescha le succés. M<hi rend="sup">r</hi> du Pile, qui fournit tous les vivres de la Marine, fit voir la part qu'il
-            prenoit aux réjoüissances publiques par une liberalité qu'il fit faire à tous les
-            Forçats des Galeres, &amp; à ceux de l'Hospital, qui sont au nombre de huit mille. Outre
-            leur Ration ordinaire, il fit distribuer à chacun une livre de mouton, quatre onces de
-            lard, quatre onces de ris, &amp; une pinte de vin. Il fit encore servir quatre Tables de
-            seize couverts chacune, pour les Officiers des Galeres qu'il avoit fait convier.</p>
+          <p>Aprés l'Opera, les Violons furent partagez, &amp; l'on commença le Bal en trois endroits differens. Les Hommes &amp; les Femmes avoient le plaisir de passer de l'un à l'autre, &amp; sans sortir de la Maison, trouvoient de tres-belles Assemblées. Il vint au commencement un Masque déguisé en Courrier, qui rendit aux plus considerables de l'Assemblée plusieurs paquets, où l'on trouva des Vers fort agréables. A minuit on servit une grande Collation de Fruits &amp; de Confitures, &amp; pendant toute la Feste il y eut des rafraichissemens de toutes sortes de liqueurs pour tous ceux qui en voulurent. Les Apartemens estoient éclairez d'une infinité de lumieres, aussi bien que l'Escalier. On avoit encore préparé des Illuminations par dehors aux logemens de l'Arcenal, &amp; aux Galeres, mais le grand vent en empescha le succés. M<hi rend="sup">r</hi> du Pile, qui fournit tous les vivres de la Marine, fit voir la part qu'il prenoit aux réjoüissances publiques par une liberalité qu'il fit faire à tous les Forçats des Galeres, &amp; à ceux de l'Hospital, qui sont au nombre de huit mille. Outre leur Ration ordinaire, il fit distribuer à chacun une livre de mouton, quatre onces de lard, quatre onces de ris, &amp; une pinte de vin. Il fit encore servir quatre Tables de seize couverts chacune, pour les Officiers des Galeres qu'il avoit fait convier.</p>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

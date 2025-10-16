@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,22 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
+    <body>
+      <div>
         <quote>
           <label rend="center">Lettre XXIV.</label>
           <p rend="i">À Lyon. </p>
-          <p>PUis que les Enigmes du Mercure exercent si agreablement l’Esprit, je ne puis vous
-            cacher, Monsieur, le plaisir que j’ay reçeu à chercher le sens de celle du Mois de
-            Janvier, qui m’a paru fort spirituelle. Il me semble qu’on peut l’appliquer assez
-            justement à <hi rend="i">l’Académie Françoise</hi>. Vous en jugerez par les Vers
-            suivans. Je seray peut-estre plus heureux dans cette Explication, que je ne le fus dans
-            celle de l’Enigme des Conféderez, qui n’eut pas le bonheur d’aller à vous. Ce n’est pas
-            que je prenne à cœur un silence qui ne pouvoit estre qu’avantageux aux petits Ouvrages
-            que je vous envoyois ; mais je ne me console pas d’en estre encor réduit à vous assurer
-            que je suis vostre, &amp;c.</p>
+          <p>PUis que les Enigmes du Mercure exercent si agreablement l’Esprit, je ne puis vous cacher, Monsieur, le plaisir que j’ay reçeu à chercher le sens de celle du Mois de Janvier, qui m’a paru fort spirituelle. Il me semble qu’on peut l’appliquer assez justement à <hi rend="i">l’Académie Françoise</hi>. Vous en jugerez par les Vers suivans. Je seray peut-estre plus heureux dans cette Explication, que je ne le fus dans celle de l’Enigme des Conféderez, qui n’eut pas le bonheur d’aller à vous. Ce n’est pas que je prenne à cœur un silence qui ne pouvoit estre qu’avantageux aux petits Ouvrages que je vous envoyois ; mais je ne me console pas d’en estre encor réduit à vous assurer que je suis vostre, &amp;c.</p>
           <p rend="sc">Da… </p>
           <label rend="center">Explication de l’Enigme du Mois de Janvier 1678.</label>
           <l>Je suis cette fameuse &amp; sage Académie,</l>
@@ -58,6 +48,6 @@
           <l>Quoy que j’en sois encor à l’Art de bien parler.</l>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

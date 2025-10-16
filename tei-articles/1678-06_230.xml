@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>J’aurois beaucoup à vous dire sur ce qui s’est fait d’éclatant dans les deux jours
-          destinez aux plus solemnelles Processions. Il y a eu une tres-agreable Symphonie aux
-          Gobelins ; &amp; ce qui s’est fait avec beaucoup de magnificence en plusieurs endroits de
-          Paris, s’est également pratiqué dans les Provinces.</p>
+    <body>
+      <div>
+        <p>J’aurois beaucoup à vous dire sur ce qui s’est fait d’éclatant dans les deux jours destinez aux plus solemnelles Processions. Il y a eu une tres-agreable Symphonie aux Gobelins ; &amp; ce qui s’est fait avec beaucoup de magnificence en plusieurs endroits de Paris, s’est également pratiqué dans les Provinces.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

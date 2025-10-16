@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
+    <body>
+      <div>
         <p/>
-        <p>Je vous envoye une Eglogue qui a esté faite par un Amant fort passionné. Les Vers vous le
-          feront aisément connoistre. Ils sont fort tendres, &amp; marquent le desespoir d’un cœur
-          veritablement touché d’amour. Cette Eglogue est d’un jeune Chevalier, qui aimoit une
-          personne toute charmante, &amp; d’une naissance tres-considerable. Ils furent trahis par
-          une Confidente qui découvrit le secret de leur tendresse, &amp; on mit la Demoiselle dans
-          un Convent auprés d’une Tante Religieuse.</p>
+        <p>Je vous envoye une Eglogue qui a esté faite par un Amant fort passionné. Les Vers vous le feront aisément connoistre. Ils sont fort tendres, &amp; marquent le desespoir d’un cœur veritablement touché d’amour. Cette Eglogue est d’un jeune Chevalier, qui aimoit une personne toute charmante, &amp; d’une naissance tres-considerable. Ils furent trahis par une Confidente qui découvrit le secret de leur tendresse, &amp; on mit la Demoiselle dans un Convent auprés d’une Tante Religieuse.</p>
         <quote>
           <label>DAPHNIS.<lb/><hi rend="i">EGLOGUE.</hi></label>
           <lg>
@@ -244,6 +237,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

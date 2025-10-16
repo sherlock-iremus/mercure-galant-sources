@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-                
-                <p>Les Lettres de Lisbonne du 28 Octobre, portent que la
-                        Flotte du Bresil, escortée par six Vaisseaux de guerre Portugais, estoit
-                        arrivée le 9 au nombre de soixante-trois Vaisseaux marchands richement
-                        chargez, &amp; deux Vaisseaux venant de Goa aussi fort riches. Elle a apporté
-                        entre autres, mille Arrobes ou vingt-quatre mille livres de poudre d’Or ;
-                        trente mille livres de Tabac, &amp; une grande quantité de Cuirs &amp; autres
-                        Marchandises.</p>
-
-            </div>
+    <body>
+      <div>
+        <p>Les Lettres de Lisbonne du 28 Octobre, portent que la Flotte du Bresil, escortée par six Vaisseaux de guerre Portugais, estoit arrivée le 9 au nombre de soixante-trois Vaisseaux marchands richement chargez, &amp; deux Vaisseaux venant de Goa aussi fort riches. Elle a apporté entre autres, mille Arrobes ou vingt-quatre mille livres de poudre d’Or ; trente mille livres de Tabac, &amp; une grande quantité de Cuirs &amp; autres Marchandises.</p>
+      </div>
     </body>
   </text>
 </TEI>

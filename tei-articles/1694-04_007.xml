@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>C’est une chose qu’on ne sçauroit assez admirer, que depuis l’ouverture de la Guerre que
-          le Roy soutient aujourd’huy contre toute l’Europe, en faveur de la Religion, il ne s’est
-          passé aucune Campagne, sans que ce Prince ait pris des Places considerables à ses Ennemis,
-          &amp; gagné des Batailles. Cette reflexion a donné lieu à M<hi rend="sup">r</hi> Roubin,
-          de l’Academie Royale d’Arles, d’adresser à Sa Majesté le Madrigal que vous allez lire.</p>
+    <body>
+      <div>
+        <p>C’est une chose qu’on ne sçauroit assez admirer, que depuis l’ouverture de la Guerre que le Roy soutient aujourd’huy contre toute l’Europe, en faveur de la Religion, il ne s’est passé aucune Campagne, sans que ce Prince ait pris des Places considerables à ses Ennemis, &amp; gagné des Batailles. Cette reflexion a donné lieu à M<hi rend="sup">r</hi> Roubin, de l’Academie Royale d’Arles, d’adresser à Sa Majesté le Madrigal que vous allez lire.</p>
         <quote>
           <label>AU ROY.</label>
           <lg>
@@ -38,6 +33,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

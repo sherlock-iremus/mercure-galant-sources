@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
-        <p>Rien n’estant plus à la mode que les Nouvelles, rien n’est aussi plus commun que les
-          Nouvellistes. Cette curiosité doit estre pardonnable dans un siecle aussi fecond que celuy
-          cy en évenemens extraordinaires ; mais comme on se rend ridicule en outrant les meilleures
-          choses, on ne doit jamais porter rien jusqu’à l’excés, à moins que de vouloir paroistre
-          semblable à celuy qui est dépeint dans un Ouvrage nouveau de M<hi rend="sup">r</hi> de Vin
-          que vous allez lire.</p>
+        <p>Rien n’estant plus à la mode que les Nouvelles, rien n’est aussi plus commun que les Nouvellistes. Cette curiosité doit estre pardonnable dans un siecle aussi fecond que celuy cy en évenemens extraordinaires ; mais comme on se rend ridicule en outrant les meilleures choses, on ne doit jamais porter rien jusqu’à l’excés, à moins que de vouloir paroistre semblable à celuy qui est dépeint dans un Ouvrage nouveau de M<hi rend="sup">r</hi> de Vin que vous allez lire.</p>
         <quote>
           <label>LE NOUVELISTE<lb/>Sur la Guerre de Hollande, commencée en 1672.</label>
           <lg>
@@ -119,8 +113,7 @@
             <l> <hi rend="i">Il veut par le terme de</hi> Nous</l>
             <l rend="i"> Prendre sa part de la Victoire,</l>
             <l rend="i">Et vole effrontément la moitié de sa gloire.</l>
-            <l><hi rend="i">Il met ce</hi> Nous <hi rend="i">par tout. Nous avons, (c’est
-              ainsi</hi></l>
+            <l><hi rend="i">Il met ce</hi> Nous <hi rend="i">par tout. Nous avons, (c’est ainsi</hi></l>
             <l rend="i">Qu’il parle) Nous avons, dit-il, prés de Nancy</l>
             <l rend="i">Défait les Allemans qui vouloient nous surprendre ;</l>
             <l rend="i">Nous les battrons encor, s’ils osent nous attendre ;</l>
@@ -287,16 +280,8 @@
             <l rend="i">Quand mesme on ne sçait pas ce qui se fait chez soy.</l>
           </lg>
         </quote>
-        <p>La guerre seule ne fait pas des Nouvelistes. On en voit de Galans dans les ruelles, &amp;
-          qui ont encore plus d’occupation, parce que l’amour a plus de sujets que Mars, &amp; que
-          les deux Sexes reconnoissent son Empire. Comme il est perpetuellement agité, &amp; que ses
-          révolutions fournissent de la matiere à une infinité d’Histoires, on en voit depuis peu un
-          Recueil imprimé, sous le Titre de <hi rend="i">Galant Nouveliste, Histoires du Temps</hi>.
-          Toutes les avantures en sont d’un caractere different ; les incidens en paroissent
-          nouveaux, &amp; les Vers qui s’y trouvent ont un tour agreable, &amp; sont remplis de
-          pensées. Ce Livre se debite chez le S<hi rend="sup">r</hi> Brunet, dans la Galerie neuve
-          du Palais, au Dauphin.</p>
+        <p>La guerre seule ne fait pas des Nouvelistes. On en voit de Galans dans les ruelles, &amp; qui ont encore plus d’occupation, parce que l’amour a plus de sujets que Mars, &amp; que les deux Sexes reconnoissent son Empire. Comme il est perpetuellement agité, &amp; que ses révolutions fournissent de la matiere à une infinité d’Histoires, on en voit depuis peu un Recueil imprimé, sous le Titre de <hi rend="i">Galant Nouveliste, Histoires du Temps</hi>. Toutes les avantures en sont d’un caractere different ; les incidens en paroissent nouveaux, &amp; les Vers qui s’y trouvent ont un tour agreable, &amp; sont remplis de pensées. Ce Livre se debite chez le S<hi rend="sup">r</hi> Brunet, dans la Galerie neuve du Palais, au Dauphin.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

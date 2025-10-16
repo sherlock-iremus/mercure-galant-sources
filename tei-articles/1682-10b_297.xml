@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,22 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
+    <body>
+      <div>
         <p/>
-        <p>Les Religieux de l'Abbaye Royale de Clervaux s'estant assemblez le 23. Aoust au nombre de
-          plus de six-vingts dans leur grande Eglise, exposerent devant le Maistre-Autel les Chefs
-          de S. Bernard, premier Abbé de cette Abbaye, de S. Malachie, de S. Marc Evangeliste, de S.
-          Barnabé, &amp; de S. Vincent Martyr, le Reliquaire du Grand Constantin, &amp; une infinité
-          d'autres Reliques tres-rares de leur Trésor, qu'ils porterent en suite processionnellement
-          à leur ancien Monastere, où ils chanterent la Messe. Lors qu'elle fut dite, ils
-          retournerent en leur Abbaye dans le mesme ordre qu'ils estoient partis ; &amp; rentrant
-          dans leur Eglise, le Prieur en l'absence de l'Abbé, entonna le <hi rend="i">Te Deum</hi>,
-          que l'Orgue &amp; le Choeur continuerent. Toute la Noblesse du voisinage, &amp; quantité
-          d'Ecclesiastiques, assisterent à cette Procession. [...]</p>
+        <p>Les Religieux de l'Abbaye Royale de Clervaux s'estant assemblez le 23. Aoust au nombre de plus de six-vingts dans leur grande Eglise, exposerent devant le Maistre-Autel les Chefs de S. Bernard, premier Abbé de cette Abbaye, de S. Malachie, de S. Marc Evangeliste, de S. Barnabé, &amp; de S. Vincent Martyr, le Reliquaire du Grand Constantin, &amp; une infinité d'autres Reliques tres-rares de leur Trésor, qu'ils porterent en suite processionnellement à leur ancien Monastere, où ils chanterent la Messe. Lors qu'elle fut dite, ils retournerent en leur Abbaye dans le mesme ordre qu'ils estoient partis ; &amp; rentrant dans leur Eglise, le Prieur en l'absence de l'Abbé, entonna le <hi rend="i">Te Deum</hi>, que l'Orgue &amp; le Choeur continuerent. Toute la Noblesse du voisinage, &amp; quantité d'Ecclesiastiques, assisterent à cette Procession. [...]</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

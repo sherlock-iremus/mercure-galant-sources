@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p/>
-          <p>Le Dimanche 7. du dernier mois, Dame Catherine Elisabeth de Longueval de Manicamp, Abbesse de l'Abbaye de Bestancour en Picardie, fut benite par les mains de Messire François Faure, Evesque d'Amiens. Ce Prelat estoit revestu de ses Habits Pontificaux, &amp; assisté de tous ses Officiers. La Ceremonie se fit au bruit de plusieurs décharges, &amp; en presence de quantité de Noblesse de la province, de l'un &amp; de l'autre sexe. La Messe fut chantée par la Musique. Cette Abbesse alla recevoir sa Benediction, précédée de Dame Elisabeth de Monchi de Senarpont, Religieuse de l'Abbaye de Bestancour, sa Chapelaine, qui portoit la Crosse. A costé d'elle marcherent Dame Gabrielle Faure, Niece de M<hi rend="sup">r</hi> l'Evesque d'Amiens, Prieure de cette Abbaye, &amp; Dame Marguerite Foucault Souprieure. Mademoiselle de Monchi, seconde Fille de M<hi rend="sup">r</hi> de Monchi, Marquis de Senarpont, &amp; Mademoiselle d'Augenlieu, Pensionnaires de la mesme Abbaye, portoient sa queuë. Une simphonie fort agreable se fit entendre pendant la marche du Chœur des Religieuses jusques à l'Autel. M<hi rend="sup">r</hi> de Senarpont, dont je viens de vous parler, M<hi rend="sup">r</hi> de la Roche Marquis de Fonteville, M<hi rend="sup">r</hi> de Monchi Baron de Vismes, M<hi rend="sup">r</hi> de Monchi Seigneur de Courcelle, &amp; M<hi rend="sup">r</hi> de Vauchelle, portoient les Offrandes. La Ceremonie finit par le <hi rend="i">Te Deum</hi> chanté en Musique [...].</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p/>
+        <p>Le Dimanche 7. du dernier mois, Dame Catherine Elisabeth de Longueval de Manicamp, Abbesse de l'Abbaye de Bestancour en Picardie, fut benite par les mains de Messire François Faure, Evesque d'Amiens. Ce Prelat estoit revestu de ses Habits Pontificaux, &amp; assisté de tous ses Officiers. La Ceremonie se fit au bruit de plusieurs décharges, &amp; en presence de quantité de Noblesse de la province, de l'un &amp; de l'autre sexe. La Messe fut chantée par la Musique. Cette Abbesse alla recevoir sa Benediction, précédée de Dame Elisabeth de Monchi de Senarpont, Religieuse de l'Abbaye de Bestancour, sa Chapelaine, qui portoit la Crosse. A costé d'elle marcherent Dame Gabrielle Faure, Niece de M<hi rend="sup">r</hi> l'Evesque d'Amiens, Prieure de cette Abbaye, &amp; Dame Marguerite Foucault Souprieure. Mademoiselle de Monchi, seconde Fille de M<hi rend="sup">r</hi> de Monchi, Marquis de Senarpont, &amp; Mademoiselle d'Augenlieu, Pensionnaires de la mesme Abbaye, portoient sa queuë. Une simphonie fort agreable se fit entendre pendant la marche du Chœur des Religieuses jusques à l'Autel. M<hi rend="sup">r</hi> de Senarpont, dont je viens de vous parler, M<hi rend="sup">r</hi> de la Roche Marquis de Fonteville, M<hi rend="sup">r</hi> de Monchi Baron de Vismes, M<hi rend="sup">r</hi> de Monchi Seigneur de Courcelle, &amp; M<hi rend="sup">r</hi> de Vauchelle, portoient les Offrandes. La Ceremonie finit par le <hi rend="i">Te Deum</hi> chanté en Musique [...].</p>
+      </div>
+    </body>
   </text>
 </TEI>

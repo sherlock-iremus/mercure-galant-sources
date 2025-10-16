@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
+    <body>
+      <div>
         <p/>
-        <p>J’ajoûte un Sonnet qui a esté presenté au Roy, &amp; que M<hi rend="sup">r</hi> Mallement
-          de Messange, qui en est l’Auteur, a fait à son retour de Rome. Vous sçavez par plusieurs
-          Ouvrages que je vous ay envoyez de luy qu’il a beaucoup d’érudition, &amp; qu’il sçait
-          faire autre chose que des Vers.</p>
+        <p>J’ajoûte un Sonnet qui a esté presenté au Roy, &amp; que M<hi rend="sup">r</hi> Mallement de Messange, qui en est l’Auteur, a fait à son retour de Rome. Vous sçavez par plusieurs Ouvrages que je vous ay envoyez de luy qu’il a beaucoup d’érudition, &amp; qu’il sçait faire autre chose que des Vers.</p>
         <quote>
           <lg>
             <l rend="i">Vous qui sans redouter le danger ny la peine,</l>
@@ -51,6 +46,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

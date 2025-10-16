@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-          
-          <p/>
-          <p>Toute la Cour alla ce mesme jour dîner à Brabant, &amp; arriva un peu tard à Sainte-Menehout. M<hi rend="sup">r</hi> l'Evesque de Châlons s'y trouva avec quelques Ecclesiastiques qu'il y avoit amenez. M<hi rend="sup">r</hi> le Duc de Noailles ayant de son costé amené de Luxembourg M<hi rend="sup">r</hi> de Ville, &amp; pris à Verdun des Musiciens qui se joignirent à d'autres qu'il avoit fait venir de Châlons, le Salut fut chanté en Musique aux Capucins sur les sept heures du soir. M<hi rend="sup">r</hi> de Châlons y donna la benediction du S. Sacrement.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p/>
+        <p>Toute la Cour alla ce mesme jour dîner à Brabant, &amp; arriva un peu tard à Sainte-Menehout. M<hi rend="sup">r</hi> l'Evesque de Châlons s'y trouva avec quelques Ecclesiastiques qu'il y avoit amenez. M<hi rend="sup">r</hi> le Duc de Noailles ayant de son costé amené de Luxembourg M<hi rend="sup">r</hi> de Ville, &amp; pris à Verdun des Musiciens qui se joignirent à d'autres qu'il avoit fait venir de Châlons, le Salut fut chanté en Musique aux Capucins sur les sept heures du soir. M<hi rend="sup">r</hi> de Châlons y donna la benediction du S. Sacrement.</p>
+      </div>
+    </body>
   </text>
 </TEI>

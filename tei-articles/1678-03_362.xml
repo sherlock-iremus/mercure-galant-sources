@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-
-        
-        <p>Quant à la seconde Enigme, dont le mot est <hi rend="i">une Enseigne</hi>, voicy
-          l’Explication qu’en a faite M<hi rend="sup">r</hi> le Comte de Clisson qui demeure en
-          Aulnis. Son esprit &amp; son mérite répondent à sa naissance.</p>
+    <body>
+      <div>
+        <p>Quant à la seconde Enigme, dont le mot est <hi rend="i">une Enseigne</hi>, voicy l’Explication qu’en a faite M<hi rend="sup">r</hi> le Comte de Clisson qui demeure en Aulnis. Son esprit &amp; son mérite répondent à sa naissance.</p>
         <quote>
           <lg>
             <l rend="i"><space/>Ouy, l’Enigme qu’on nous propose,</l>
@@ -63,12 +59,8 @@
             <l rend="i"><space/>Et ne signifie autre chose.</l>
           </lg>
         </quote>
-        <p>Ce mot a esté aussi trouvé par M<hi rend="sup">r</hi> de Fontenay Capitaine ; M<hi rend="sup">r</hi> Cousinot Abbé de Nostre-Dame de Sully ; M<hi rend="sup">r</hi>
-          Baillon ; M<hi rend="sup">r</hi> Boissel, du Pont-Levesque ; M<hi rend="sup">r</hi>
-          Trébuchet, d’Auxerre ; M<hi rend="sup">r</hi> Malbet, Directeur des Postes de Champagne ;
-          &amp; M<hi rend="sup">r</hi> Hébert de Rocmont. D’autres ont prétendu que ce fut <hi rend="i">le Papier, la Monnoye, la Lettre missive, la Toile, le Canevas à faire de la
-          Tapisserie</hi>, &amp; <hi rend="i">l’Impression</hi>.</p>
+        <p>Ce mot a esté aussi trouvé par M<hi rend="sup">r</hi> de Fontenay Capitaine ; M<hi rend="sup">r</hi> Cousinot Abbé de Nostre-Dame de Sully ; M<hi rend="sup">r</hi> Baillon ; M<hi rend="sup">r</hi> Boissel, du Pont-Levesque ; M<hi rend="sup">r</hi> Trébuchet, d’Auxerre ; M<hi rend="sup">r</hi> Malbet, Directeur des Postes de Champagne ; &amp; M<hi rend="sup">r</hi> Hébert de Rocmont. D’autres ont prétendu que ce fut <hi rend="i">le Papier, la Monnoye, la Lettre missive, la Toile, le Canevas à faire de la Tapisserie</hi>, &amp; <hi rend="i">l’Impression</hi>.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

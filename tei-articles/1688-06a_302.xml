@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,19 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Elles sont si éclatantes &amp; en si grand nombre que la beauté &amp; l’abondance
-          engagent une infinité de gens à les décrire, qui sans de si beaux sujets ne mettroient
-          peut-estre pas la main à la plume. Le beau sexe ne peut là-dessus retenit son zele, &amp;
-          l’Ouvrage que vous avez leu dans ma Lettre de Mars dernier, du <hi rend="i">Triomphe du
-            Roy sur la Religion Protestante</hi>, estoit de Madame de Pringy. Je l’ay découvert
-          depuis ce temps-là, &amp; je vous l’apprens, non seulement parce que vous avez souhaité
-          sçavoir de qui il estoit, mais aussi parce qu’il luy doit estre glorieux, que son esprit
-          &amp; son zele pour le Roy soient connus de tout le monde, &amp; qu’on doit toûjours plus
-          admirer ce que font les Dames, principalement en Ouvrages d’éloquence.</p>
+    <body>
+      <div>
+        <p>Elles sont si éclatantes &amp; en si grand nombre que la beauté &amp; l’abondance engagent une infinité de gens à les décrire, qui sans de si beaux sujets ne mettroient peut-estre pas la main à la plume. Le beau sexe ne peut là-dessus retenit son zele, &amp; l’Ouvrage que vous avez leu dans ma Lettre de Mars dernier, du <hi rend="i">Triomphe du Roy sur la Religion Protestante</hi>, estoit de Madame de Pringy. Je l’ay découvert depuis ce temps-là, &amp; je vous l’apprens, non seulement parce que vous avez souhaité sçavoir de qui il estoit, mais aussi parce qu’il luy doit estre glorieux, que son esprit &amp; son zele pour le Roy soient connus de tout le monde, &amp; qu’on doit toûjours plus admirer ce que font les Dames, principalement en Ouvrages d’éloquence.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

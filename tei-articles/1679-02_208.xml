@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,9 +14,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Comme vous avez pû prendre méchante impression de ceux qui naissent à Pezenas, sur quelques peintures publiques qui en ont esté faites, il est bon de vous faire connoistre par la maniere dont on y a publié la Paix d’Espagne, que quoy que cette Ville soit une des plus éloignées de la Cour, la Noblesse qui s’y trouve en assez grand nombre, n’y manque ny de galanterie, ny de politesse. En effet, les jeunes Gentilshommes qui ont esté presque tous élevez dans les Armées du Roy, y ont acquis un air ouvert, aisé, &amp; tout-à-fait diférent de celuy que le Baron de la Crasse prend sur le Theatre. Les Dames y sont belles, honnestes, &amp; spirituelles, &amp; on n’y en connoit aucune d’assez mauvais goust, pour courir fortement après un Mary du mérite de M<hi rend="sup">r</hi> de Pourceaugnac. Voicy les particularitez de la Feste. Le 22. de Janvier, qui estoit le jour que les Consuls de Pezenas avoient choisy, estant arrivé, on entendit dans toute la Ville un bruit guerrier de Hautbois, de Trompetes, de Fifres, &amp; de Tambours. Tous les Artisans sous les armes, se mirent en haye dans les principales Ruës. La Noblesse monta à cheval, &amp; alla se ranger en haste sous son Etendart. Cet agreable desordre qui dura jusqu’à midy, estoit si bien concerté, que Pezenas ressembloit plutost à une place de guerre qu’on alloit assieger, qu’à une Ville où l’on devoit publier la Paix. Le Chastelain &amp; les Consuls, accompagnez de leur Assesseur &amp; de leur Greffier, monterent ensuite à cheval, &amp; allerent faire le tour de la Ville. Ils estoient précedez par deux bataillons d’Artisans, &amp; suivis d’un escadron de jeunes Gens, la plûpart Personnes de qualité. On fit alte dans les principales Ruës. Le Greffier y publia la Paix. En mesme temps cette petite Troupe fit une décharge aussi juste que si elle avoit esté instruite de tout temps dans le mestier de la Guerre. Leur Cavalcade estant finie, les Armes disparurent &amp; on n’entendit plus par tout que des Violons, des Musetes, &amp; des Flustes douces. Les Gentilshommes voulant plaire aux Dames qui s’estoient déguisées en Bergeres, furent assez galans pour changer leur Epée en Houlete. Le Chastelain régala les Belles d’un Bal, qui fut suivy d’un Soupé aussi propre que magnifique. Le Dessert fut assez particulier. Il y eut cinq grands Bassins, quatre de Fruit &amp; de Confitures, &amp; un cinquiéme au milieu, dans lequel estoient autant de Couronnes d’Olivier, qu’il y avoit d’Hommes à table, avec un Bouquet de Fleurs pour chaque Dame. Le Chastelain leur distribua ces Bouquets, &amp; elles furent fort surprises d’y voir toutes un petit Billet attaché. Chacun ouvrit promptement le sien, &amp; trouva des Vers. J’en ay recouvré quelques-uns que je vous envoye.</p>
         <quote rend="border">
           <label>Pour Madame de N. T. S.</label>
@@ -73,6 +72,6 @@
         </quote>
         <p>Vous jugez bien, Madame, que les autres Billets qui ne me sont pas tombez entre les mains, avoient comme ceux-cy quelque rapport à l’inclination &amp; à l’état du cœur des Belles à qui ils estoient adressez. On recommença le Bal dés qu’on eut achevé de souper, &amp; cette charmante Assemblée ne se sépara qu’apres avoir employé à dancer la plus grande partie de la nuit.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

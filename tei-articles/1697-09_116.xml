@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p>[L’evêque de d’Auxerre fit réunir, le 31 août, les Maladeries des environs de Clamecy pour parvenir à l’établissement d’un Hôpital suivant les lettres patentes de Louis XIV d’avril 1697 [tome 4], et en vertu de l’Edit de mars 1693.]</p>
-          <p>[...] Le lendemain [de son arrivée], qui estoit le Dimanche I<hi rend="sup">r</hi>. jour de ce mois, ce Prelat alla dire la Messe sur les 8. heures, &amp; fut complimenté à la porte de l’Eglise par M<hi rend="sup">r</hi> de l’Isle, Chantre &amp; Curé de Clamecy. Il donna le sacrement de Confirmation jusqu’à midy, &amp; à une heure il assista à la Prédication du méme Pere Durand, &amp; ensuite à Vêpres, à l’issuë desquelles il fit chanter le <hi rend="i">Te Deum</hi> en action de graces de la Prise de Barcelone. [...]</p>
-          <p>[Suit la description des cérémonies marquant la visite de l’évêque dans la ville de Clamecy et ses environs (feux de Joie, processions, célébrations religieuses).]</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>[L’evêque de d’Auxerre fit réunir, le 31 août, les Maladeries des environs de Clamecy pour parvenir à l’établissement d’un Hôpital suivant les lettres patentes de Louis XIV d’avril 1697 [tome 4], et en vertu de l’Edit de mars 1693.]</p>
+        <p>[...] Le lendemain [de son arrivée], qui estoit le Dimanche I<hi rend="sup">r</hi>. jour de ce mois, ce Prelat alla dire la Messe sur les 8. heures, &amp; fut complimenté à la porte de l’Eglise par M<hi rend="sup">r</hi> de l’Isle, Chantre &amp; Curé de Clamecy. Il donna le sacrement de Confirmation jusqu’à midy, &amp; à une heure il assista à la Prédication du méme Pere Durand, &amp; ensuite à Vêpres, à l’issuë desquelles il fit chanter le <hi rend="i">Te Deum</hi> en action de graces de la Prise de Barcelone. [...]</p>
+        <p>[Suit la description des cérémonies marquant la visite de l’évêque dans la ville de Clamecy et ses environs (feux de Joie, processions, célébrations religieuses).]</p>
+      </div>
+    </body>
   </text>
 </TEI>

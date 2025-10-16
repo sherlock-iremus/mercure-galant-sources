@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
+    <body>
+      <div>
         <quote>
-          <p>Avoüez, Monsieur, que ces Explications sont fort agreablement tournées, pour une
-            Personne du sexe de Mademoiselle Loyseau, qui ne fait que commencer à noüer commerce
-            avec les Muses. Voicy un Madrigal qui vous fera juger de son mérite. Il luy a esté
-            envoyé depuis quelques jours par un galant Homme qui en est fort touché.</p>
+          <p>Avoüez, Monsieur, que ces Explications sont fort agreablement tournées, pour une Personne du sexe de Mademoiselle Loyseau, qui ne fait que commencer à noüer commerce avec les Muses. Voicy un Madrigal qui vous fera juger de son mérite. Il luy a esté envoyé depuis quelques jours par un galant Homme qui en est fort touché.</p>
           <lg>
             <l>Soyez, charmante Iris, plus traitable, ou plus fiere,</l>
             <l>Augmentez vos bontez, ou vostre humeur severe,</l>
@@ -39,6 +34,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,21 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-            
-            
-            <p>On passa de ces Nouvelles à celles de l’Entrée publique du Nonce de Sa Sainteté, que
-              Monsieur le Duc de Verneüil avoit esté prendre dans le Carosse de la Reyne ; &amp;
-              quoy que cette Entrée ne pût estre mise qu’au nombre de ces choses qui arrivent tous
-              les jours, on y remarqua un particularité, qui fut qu’il avoit fait son Entrée dans un
-              Carosse de la Reyne, &amp; non dans un de ceux du Roy ; &amp; qu’ainsi cette Princesse
-              l’avoit reçeu comme Regente. Cette remarque donna occasion de parler du merite de la
-              Personne de Monsieur le Nonce, dont le Roy fait une estime toute particuliere ; &amp;
-              les marques qu’il en a données en le choisissant entre trois que Sa Sainteté avoit
-              nommez, en sont des preuves incontestables. On parla encor ce jour-là du <hi rend="i">Te
-              Deum</hi>, chanté en l’Eglise de Nostre-Dame, pour la Rédition de toutes les Places
-              conquises, où ce Nonce assista.</p>
-          </div>
-        </body>
+    <body>
+      <div>
+        <p>On passa de ces Nouvelles à celles de l’Entrée publique du Nonce de Sa Sainteté, que Monsieur le Duc de Verneüil avoit esté prendre dans le Carosse de la Reyne ; &amp; quoy que cette Entrée ne pût estre mise qu’au nombre de ces choses qui arrivent tous les jours, on y remarqua un particularité, qui fut qu’il avoit fait son Entrée dans un Carosse de la Reyne, &amp; non dans un de ceux du Roy ; &amp; qu’ainsi cette Princesse l’avoit reçeu comme Regente. Cette remarque donna occasion de parler du merite de la Personne de Monsieur le Nonce, dont le Roy fait une estime toute particuliere ; &amp; les marques qu’il en a données en le choisissant entre trois que Sa Sainteté avoit nommez, en sont des preuves incontestables. On parla encor ce jour-là du <hi rend="i">Te Deum</hi>, chanté en l’Eglise de Nostre-Dame, pour la Rédition de toutes les Places conquises, où ce Nonce assista.</p>
+      </div>
+    </body>
   </text>
 </TEI>

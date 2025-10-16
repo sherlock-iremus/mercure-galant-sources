@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,21 +14,20 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p>Ce Madrigal de M<hi rend="sup">r</hi> de Poissi ne viendra pas mal à la suite de cette Ode.</p>
-          <quote>
-            <lg>
-              <l rend="i">Que doit faire un grand Prince issu du sang des Rois,</l>
-              <l rend="i"> Pour se voir à la fois</l>
-              <l rend="i">Aimé, craint, reveré, sur la Terre &amp; sur l’Onde ;</l>
-              <l rend="i">Et s’immortaliser par cent faits inoüis ?</l>
-              <l rend="i"> Pour devenir le plus grand Roy du monde,</l>
-              <l rend="i">Qu’il fasse la moitié de ce qu’a fait LOUIS.</l>
-            </lg>
-          </quote>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>Ce Madrigal de M<hi rend="sup">r</hi> de Poissi ne viendra pas mal à la suite de cette Ode.</p>
+        <quote>
+          <lg>
+            <l rend="i">Que doit faire un grand Prince issu du sang des Rois,</l>
+            <l rend="i"> Pour se voir à la fois</l>
+            <l rend="i">Aimé, craint, reveré, sur la Terre &amp; sur l’Onde ;</l>
+            <l rend="i">Et s’immortaliser par cent faits inoüis ?</l>
+            <l rend="i"> Pour devenir le plus grand Roy du monde,</l>
+            <l rend="i">Qu’il fasse la moitié de ce qu’a fait LOUIS.</l>
+          </lg>
+        </quote>
+      </div>
+    </body>
   </text>
 </TEI>

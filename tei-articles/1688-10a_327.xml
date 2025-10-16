@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,19 +14,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
-
+    <body>
+      <div>
         <p/>
-        <p>Vous voulez bien, Madame, que je ne pousse pas plus loin cet article. Je ne l’ay pas mis
-          dans son entiere étenduë pour me reserver à vous décrire dans une autre Lettre toute la
-          premiere Campagne de Monseigneur le Dauphin. Vous l’aurez un peu aprés que la nouvelle de
-          la prise de Philisbourg aura esté apportée. Ainsi ce que je viens de vous dire, est
-          seulement pour satisfaire vostre curiosité, en attendant que je vous l’envoye accompagné
-          de toutes les circonstances qui doivent y estre jointes, &amp; dont on n’est jamais assez
-          bien instruit par les premieres nouvelles. Je suis, Vostre, &amp;c.</p>
-        <p><hi rend="i">A Paris, ce 31. Octobre 1688.</hi></p>
+        <p>Vous voulez bien, Madame, que je ne pousse pas plus loin cet article. Je ne l’ay pas mis dans son entiere étenduë pour me reserver à vous décrire dans une autre Lettre toute la premiere Campagne de Monseigneur le Dauphin. Vous l’aurez un peu aprés que la nouvelle de la prise de Philisbourg aura esté apportée. Ainsi ce que je viens de vous dire, est seulement pour satisfaire vostre curiosité, en attendant que je vous l’envoye accompagné de toutes les circonstances qui doivent y estre jointes, &amp; dont on n’est jamais assez bien instruit par les premieres nouvelles. Je suis, Vostre, &amp;c.</p>
+        <p>
+          <hi rend="i">A Paris, ce 31. Octobre 1688.</hi>
+        </p>
       </div>
     </body>
   </text>

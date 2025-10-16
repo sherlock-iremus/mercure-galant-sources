@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,30 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
-        <p>Le Jeudy 21. de ce mois, Monseigneur le Dauphin courut un Défy à la Bague. Il avoit de
-          son costé Monsieur le Duc de Vendosme &amp; Monsieur de Brione ; &amp; de l’autre estoient
-          Monsieur le Prince d’Harcourt, Monsieur de la Feüillade, &amp; Monsieur le Comte de
-          Marsan. Ils coururent six sois, &amp; ce fut le Party de Monseigneur qui gagna. Il mit
-          quatre dedans, &amp; fit les plus belles Courses du monde. Le Prix estoit de cinquante
-          Pistoles chacun. La Reyne &amp; Madame la Dauphine étoient présentes avec Monsieur,
-          Madame, Mademoiselle, &amp; presque toute la Cour.</p>
-        <p>Le Dimanche 24. il y eut une Course de Bague &amp; de Testes, dans laquelle Monsieur le
-          Duc de S. Aignan, &amp; Monsieur le Duc de Gramont, furent établis Juges du Camp. Ce
-          premier avoit esté choisy seul Juge des Courses dés l’année derniere, mais la maladie de
-          Madame la Dauphine empécha ce divertissement. Quelques jours avant cette Course du 24. le
-          Roy qui estoit à table, ayant apperçeu Monsieur le Duc de S. Aignan, luy dit en riant,
-          qu’il y avoit d’autres Juges nommez que luy ; à quoy ce Duc répondit, que s’il croyoit
-          qu’une Requeste Inpromptu pust luy redonner cette Place, elle seroit bientost faite ; mais
-          qu’avant que de travailler, il eust bien voulu estre assuré du succés. Monseigneur le
-          Dauphin prit la parole, &amp; dit qu’il pouvoit toûjours faire sa Requeste. Monsieur de S.
-          Aignan sortit aussitost. Quoy que le Repas fust si avancé, que l’Entremets étoit prest
-          d’estre servy, il ne laissa pas d’apporter ces seize Vers, avant que Leurs Majestez
-          fussent hors de table. Elles témoignerent en estre fort satisfaites, aussi bien que
-          Monseigneur, &amp; Madame la Dauphine.</p>
+        <p>Le Jeudy 21. de ce mois, Monseigneur le Dauphin courut un Défy à la Bague. Il avoit de son costé Monsieur le Duc de Vendosme &amp; Monsieur de Brione ; &amp; de l’autre estoient Monsieur le Prince d’Harcourt, Monsieur de la Feüillade, &amp; Monsieur le Comte de Marsan. Ils coururent six sois, &amp; ce fut le Party de Monseigneur qui gagna. Il mit quatre dedans, &amp; fit les plus belles Courses du monde. Le Prix estoit de cinquante Pistoles chacun. La Reyne &amp; Madame la Dauphine étoient présentes avec Monsieur, Madame, Mademoiselle, &amp; presque toute la Cour.</p>
+        <p>Le Dimanche 24. il y eut une Course de Bague &amp; de Testes, dans laquelle Monsieur le Duc de S. Aignan, &amp; Monsieur le Duc de Gramont, furent établis Juges du Camp. Ce premier avoit esté choisy seul Juge des Courses dés l’année derniere, mais la maladie de Madame la Dauphine empécha ce divertissement. Quelques jours avant cette Course du 24. le Roy qui estoit à table, ayant apperçeu Monsieur le Duc de S. Aignan, luy dit en riant, qu’il y avoit d’autres Juges nommez que luy ; à quoy ce Duc répondit, que s’il croyoit qu’une Requeste Inpromptu pust luy redonner cette Place, elle seroit bientost faite ; mais qu’avant que de travailler, il eust bien voulu estre assuré du succés. Monseigneur le Dauphin prit la parole, &amp; dit qu’il pouvoit toûjours faire sa Requeste. Monsieur de S. Aignan sortit aussitost. Quoy que le Repas fust si avancé, que l’Entremets étoit prest d’estre servy, il ne laissa pas d’apporter ces seize Vers, avant que Leurs Majestez fussent hors de table. Elles témoignerent en estre fort satisfaites, aussi bien que Monseigneur, &amp; Madame la Dauphine.</p>
         <quote>
           <label>A MONSEIGNEUR<lb/>LE DAUPHIN,<lb/>Requeste Inpromptu.</label>
           <lg>
@@ -60,6 +41,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

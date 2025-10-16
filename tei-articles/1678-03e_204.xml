@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,25 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
+    <body>
+      <div>
         <quote>
           <label rend="center">Lettre XXXV.</label>
           <p rend="i">À la Rochelle. </p>
-          <p>JE croirois faire tort au Mestier dont je suis, &amp; la curiosité de l’Autheur du
-            Mercure Galant, si je negligeois de luy faire part de ces Pieces d’un Amy, qui sans se
-            piquer de Poësie ny de bel Esprit, peut montrer que tous les Péagers ne sont ny de
-            mauvaise vie comme on les croyoit au temps des Juifs, ny ennemis des belles Lettres. Cet
-            Amy qui est renfermé dans l’Isle de Ré, ignore que je dispose de ses Ouvrages, &amp; il
-            prend si peu d’interest à ce qui se dit dans le monde, que je ne sçay s’il ne me sçaura
-            pas mauvais gré de le déterrer ainsi, &amp; de le faire sortir des resveries que luy
-            inspire la veuë d’une Mer sauvage. Si l’on juge à propos de donner à ces petites Pieces
-            une place dans le Mercure, l’on sçait mieux que personne le moyen de les y introduire ;
-            &amp; celuy qui sçait distribuer la gloire &amp; le rang à tout le monde, n’a besoin
-            d’aucun avis sur cela. On se contente de luy fournir la matiere, &amp; de l’assurer que
-            si ces Vers sont bien reçeus, ils seront suivis de beaucoup d’autres.</p>
+          <p>JE croirois faire tort au Mestier dont je suis, &amp; la curiosité de l’Autheur du Mercure Galant, si je negligeois de luy faire part de ces Pieces d’un Amy, qui sans se piquer de Poësie ny de bel Esprit, peut montrer que tous les Péagers ne sont ny de mauvaise vie comme on les croyoit au temps des Juifs, ny ennemis des belles Lettres. Cet Amy qui est renfermé dans l’Isle de Ré, ignore que je dispose de ses Ouvrages, &amp; il prend si peu d’interest à ce qui se dit dans le monde, que je ne sçay s’il ne me sçaura pas mauvais gré de le déterrer ainsi, &amp; de le faire sortir des resveries que luy inspire la veuë d’une Mer sauvage. Si l’on juge à propos de donner à ces petites Pieces une place dans le Mercure, l’on sçait mieux que personne le moyen de les y introduire ; &amp; celuy qui sçait distribuer la gloire &amp; le rang à tout le monde, n’a besoin d’aucun avis sur cela. On se contente de luy fournir la matiere, &amp; de l’assurer que si ces Vers sont bien reçeus, ils seront suivis de beaucoup d’autres.</p>
           <label rend="center">Sonnet.</label>
           <lg>
             <l>TIrannique respect, froids mouvemens de crainte,</l>
@@ -58,6 +45,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

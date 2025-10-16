@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>J'ajoûte à la Gavotte de M<hi rend="sup">r</hi> Martin que vous avez trouvée au commencement de cette Lettre, une Gigue du mesme Auteur. C'est encore l'Amour que l'on fait parler dans les paroles qui ont esté faites pour en chanter l'air.</p>
         <quote>
-          <label>GUIGUE.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">De mes filets</hi>, doit regarder la page 318.</note>
+          <label>GUIGUE.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">De mes filets</hi>, doit regarder la page 318.</note>
           <lg>
             <l rend="i">De mes filets,</l>
             <l rend="i">De mes lacets,</l>
@@ -67,6 +67,6 @@
           </figure>
         </ref>
       </div>
-        </body>
+    </body>
   </text>
 </TEI>

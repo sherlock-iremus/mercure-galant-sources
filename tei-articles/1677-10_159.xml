@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,9 +14,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Il faut choisir bien heureusement, pour se pouvoir assurer du dernier, car le cœur des Belles est quelquefois un peu fugitif, &amp; telle qui assure un Amant de sa tendresse quand elle n’a que luy à qui parler, ne s’en souvient guére dans le temps qu’elle voit grossir sa Cour. Jugez-en par la Plainte qui a esté fait là-dessus.</p>
         <quote>
           <label>REPROCHE <lb/><hi rend="sc">amoureux</hi></label>
@@ -28,6 +27,6 @@
           <l rend="i"> Quand la foule est aupres de toy.</l>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,22 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-     
-     
-     <p>Je continuë à vous envoyer des Fables. Aucune lecture ne peut estre plus utile, pourveu
-      qu’on en veüille profiter. Les Anciens qui sçavoient du moins aussibien que nous, en quoy
-      consiste la véritable Sagesse, ne dédaignoient pas d’y employer quelques heures ; &amp; ces
-      Ouvrages, quoy que courts &amp; enjoüez, n’estoient point traitez de bagatelles. En effet, les
-      Moralitez que l’on en tire sont des Leçons qui s’impriment dans le cœur ; &amp; si c’est le
-      plus agréable moyen d’y faire naître de l’aversion pour le vice, ç’en est en mesme temps le
-      plus seûr, puis que les Fables instruisent en divertissant, &amp; qu’elles font faire de
-      solides refléxions à l’Homme sur ce qu’il entend dire à l’égard des Bestes. Plusieurs des
-      Peres s’en sont servis dans la mesme veuë ; &amp; si on veut lire le neufviéme Chapitre du
-      Livre des Juges, on verra que Joatham, pour faire connoistre à ceux de Sichem ce qu’ils
-      devoient craindre d’Abimelech qu’ils avoient choisy pour Roy, fait parler les Arbres comme
-      s’ils avoient voulu prendre un Souverain.</p>
-    </div>
+    <body>
+      <div>
+        <p>Je continuë à vous envoyer des Fables. Aucune lecture ne peut estre plus utile, pourveu qu’on en veüille profiter. Les Anciens qui sçavoient du moins aussibien que nous, en quoy consiste la véritable Sagesse, ne dédaignoient pas d’y employer quelques heures ; &amp; ces Ouvrages, quoy que courts &amp; enjoüez, n’estoient point traitez de bagatelles. En effet, les Moralitez que l’on en tire sont des Leçons qui s’impriment dans le cœur ; &amp; si c’est le plus agréable moyen d’y faire naître de l’aversion pour le vice, ç’en est en mesme temps le plus seûr, puis que les Fables instruisent en divertissant, &amp; qu’elles font faire de solides refléxions à l’Homme sur ce qu’il entend dire à l’égard des Bestes. Plusieurs des Peres s’en sont servis dans la mesme veuë ; &amp; si on veut lire le neufviéme Chapitre du Livre des Juges, on verra que Joatham, pour faire connoistre à ceux de Sichem ce qu’ils devoient craindre d’Abimelech qu’ils avoient choisy pour Roy, fait parler les Arbres comme s’ils avoient voulu prendre un Souverain.</p>
+      </div>
     </body>
   </text>
 </TEI>

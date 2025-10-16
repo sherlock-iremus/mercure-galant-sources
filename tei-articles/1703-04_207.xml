@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-          
-          <p>M<hi rend="sup">r</hi> Prevost a eu la Chanterie de Herdins. Il succede à un tres-honneste homme &amp; qui
-            estoit fort aimé dans ce pays là, il ne falloit pas un autre sujet pour consoler les
-            Habitans de ce lieu &amp; reparer la perte du dernier Chantre. M<hi rend="sup">r</hi> Prevost les
-            dédommagera &amp; au delà, car c’est un tres vertueux Ecclesiastique &amp; fort attaché
-            à ses devoirs.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>M<hi rend="sup">r</hi> Prevost a eu la Chanterie de Herdins. Il succede à un tres-honneste homme &amp; qui estoit fort aimé dans ce pays là, il ne falloit pas un autre sujet pour consoler les Habitans de ce lieu &amp; reparer la perte du dernier Chantre. M<hi rend="sup">r</hi> Prevost les dédommagera &amp; au delà, car c’est un tres vertueux Ecclesiastique &amp; fort attaché à ses devoirs.</p>
+      </div>
+    </body>
   </text>
 </TEI>

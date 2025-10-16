@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,25 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-                
-                
-
-                <p>Je passe aux nouvelles d’Espagne, dont j’ay beaucoup de
-                        choses à vous dire, &amp; je commence par l’extrait d’une Lettre de
-                        Madrid.</p>
-    <quote>
-                <p>[...]</p>
-                <p>On a appris par des nouvelles de Lisbonne que les Portugais ont perdu
-                    48 vaisseaux de leur Flotte du Bresil en comptant ceux que la Tempeste a fait
-                    perir aux costes du Bresil &amp; dans le Tage, &amp; qu’on ne voit plus de monnoyes
-                    d’argent en Portugal, les Anglois &amp; les Hollandais les faisant passer chez
-                    eux.</p>
+    <body>
+      <div>
+        <p>Je passe aux nouvelles d’Espagne, dont j’ay beaucoup de choses à vous dire, &amp; je commence par l’extrait d’une Lettre de Madrid.</p>
+        <quote>
+          <p>[...]</p>
+          <p>On a appris par des nouvelles de Lisbonne que les Portugais ont perdu 48 vaisseaux de leur Flotte du Bresil en comptant ceux que la Tempeste a fait perir aux costes du Bresil &amp; dans le Tage, &amp; qu’on ne voit plus de monnoyes d’argent en Portugal, les Anglois &amp; les Hollandais les faisant passer chez eux.</p>
         </quote>
-
-            </div>
-
-
+      </div>
     </body>
   </text>
 </TEI>

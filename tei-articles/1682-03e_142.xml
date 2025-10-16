@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,10 +14,8 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
-
+    <body>
+      <div>
         <quote>
           <label>Quelle est la marque la plus essentielle<lb/>d’une veritable Amitié.</label>
           <lg>
@@ -28,8 +26,7 @@
           </lg>
         </quote>
         <quote>
-          <label>S’il est facile de distinguer dans<lb/>une mesme Personne, les mouvemens<lb/>de
-            Politique, d’avec<lb/>ceux d’Inclination.</label>
+          <label>S’il est facile de distinguer dans<lb/>une mesme Personne, les mouvemens<lb/>de Politique, d’avec<lb/>ceux d’Inclination.</label>
           <lg>
             <l rend="i">D’un cœur indiférent l’équitable balance</l>
             <l rend="i"> Sçaura faire la diférence,</l>
@@ -40,9 +37,7 @@
           </lg>
         </quote>
         <quote>
-          <label>Ce que doit faire un galant Homme, à qui une belle Personne plaist fort, &amp; qui
-            est employé aupres d’elle pour les intérests de son Amy, qui en est l’Amant, cette Belle
-            luy ayant dit qu’il peut parler pour luy-mesme.</label>
+          <label>Ce que doit faire un galant Homme, à qui une belle Personne plaist fort, &amp; qui est employé aupres d’elle pour les intérests de son Amy, qui en est l’Amant, cette Belle luy ayant dit qu’il peut parler pour luy-mesme.</label>
           <lg>
             <l rend="i">Contre toy-mesme &amp; ta Maîtresse,</l>
             <l rend="i"> Croy-moy, tu combats vainement.</l>
@@ -58,6 +53,6 @@
           <p>D.C. des Rives d’Alier,</p>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

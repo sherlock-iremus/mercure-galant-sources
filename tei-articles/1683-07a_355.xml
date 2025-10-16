@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,24 +14,23 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p>C’est ce qui a donné occasion de faire ce Madrigal à M<hi rend="sup">r</hi> de S. Autheur du Sonnet, que je vous ay déja envoyé sur le Mariage de M<hi rend="sup">r</hi> le Marquis du Quesne, le Fils.</p>
-          <quote>
-            <label>A MONSIEUR<lb/>LE MARQUIS<lb/>DU QUESNE.</label>
-            <lg>
-              <l rend="i">Quoy, malgré les efforts d’un Barbare indompté,</l>
-              <l rend="i">Délivrer nos François d’un cruel esclavage,</l>
-              <l rend="i"> Et par l’effet d’un grand courage</l>
-              <l rend="i">Leur faire dans Alger trouver la liberté ;</l>
-              <l rend="i"> C’est ce qu’on auroit peine à croire,</l>
-              <l rend="i">Si l’on ne sçavoit pas, que toûjours la Victoire</l>
-              <l rend="i"> Accompagne dans vos Exploits</l>
-              <l rend="i">Les Armes du plus juste &amp; du plus grand des Rois.</l>
-            </lg>
-          </quote>
-        </div>
-      </body>
+    <body>
+      <div>
+        <p>C’est ce qui a donné occasion de faire ce Madrigal à M<hi rend="sup">r</hi> de S. Autheur du Sonnet, que je vous ay déja envoyé sur le Mariage de M<hi rend="sup">r</hi> le Marquis du Quesne, le Fils.</p>
+        <quote>
+          <label>A MONSIEUR<lb/>LE MARQUIS<lb/>DU QUESNE.</label>
+          <lg>
+            <l rend="i">Quoy, malgré les efforts d’un Barbare indompté,</l>
+            <l rend="i">Délivrer nos François d’un cruel esclavage,</l>
+            <l rend="i"> Et par l’effet d’un grand courage</l>
+            <l rend="i">Leur faire dans Alger trouver la liberté ;</l>
+            <l rend="i"> C’est ce qu’on auroit peine à croire,</l>
+            <l rend="i">Si l’on ne sçavoit pas, que toûjours la Victoire</l>
+            <l rend="i"> Accompagne dans vos Exploits</l>
+            <l rend="i">Les Armes du plus juste &amp; du plus grand des Rois.</l>
+          </lg>
+        </quote>
+      </div>
+    </body>
   </text>
 </TEI>

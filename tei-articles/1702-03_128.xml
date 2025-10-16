@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,34 +14,63 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p>Voicy ce que Mrs de l’Academie des Lanternistes de Toulouze ont publié cette année touchant le Prix qu’ils doivent donner le jour de la Feste de Saint Jean.</p>
+    <body>
+      <div>
+        <p>Voicy ce que Mrs de l’Academie des Lanternistes de Toulouze ont publié cette année touchant le Prix qu’ils doivent donner le jour de la Feste de Saint Jean.</p>
+        <quote>
+          <label>
+            <hi rend="i">BOUTS RIMEZ.</hi>
+          </label>
+          <p>Nos Bouts-Rimez ont toûjours en veüe l’éloge de <hi rend="sc">Loüis le Grand</hi> : L’unique application de ce Genereux Monarque est de maintenir le repos qu’il a procuré à toute l’Europe, pendant que des Puissances jalouses de sa grandeur, ne cherchent qu’à traverser de si beaux desseins. C’est ce qui nous a déterminez à choisir des Rimes qui fussent également propres &amp; pour la Paix &amp; pour la Guerre.</p>
           <quote>
-            <label><hi rend="i">BOUTS RIMEZ.</hi></label>
-            <p>Nos Bouts-Rimez ont toûjours en veüe l’éloge de <hi rend="sc">Loüis le Grand</hi> : L’unique application de ce Genereux Monarque est de maintenir le repos qu’il a procuré à toute l’Europe, pendant que des Puissances jalouses de sa grandeur, ne cherchent qu’à traverser de si beaux desseins. C’est ce qui nous a déterminez à choisir des Rimes qui fussent également propres &amp; pour la Paix &amp; pour la Guerre.</p>
-            <quote>
-              <lg>
-                <l><hi rend="i">Déploye.</hi></l>
-                <l><hi rend="i">Concers.</hi></l>
-                <l><hi rend="i">Désers.</hi></l>
-                <l><hi rend="i">Joye.</hi></l>
-                <l><hi rend="i">Troye.</hi></l>
-                <l><hi rend="i">Revers.</hi></l>
-                <l><hi rend="i">Couvers.</hi></l>
-                <l><hi rend="i">Proye.</hi></l>
-                <l><hi rend="i">Embelis.</hi></l>
-                <l><hi rend="i">Lys.</hi></l>
-                <l><hi rend="i">Répanduë.</hi></l>
-                <l><hi rend="i">Fureur.</hi></l>
-                <l><hi rend="i">Etenduë.</hi></l>
-                <l><hi rend="i">Terreur.</hi></l>
-              </lg>
-            </quote>
-            <p>Les Auteurs mettront leur seing couvert &amp; cacheté ; &amp; feront remettre leurs paquets francs de port, huit jours avant la Saint Jean, chez M<hi rend="sup">r</hi> Seré prés la place de Roüaix, à Toulouse.</p>
+            <lg>
+              <l>
+                <hi rend="i">Déploye.</hi>
+              </l>
+              <l>
+                <hi rend="i">Concers.</hi>
+              </l>
+              <l>
+                <hi rend="i">Désers.</hi>
+              </l>
+              <l>
+                <hi rend="i">Joye.</hi>
+              </l>
+              <l>
+                <hi rend="i">Troye.</hi>
+              </l>
+              <l>
+                <hi rend="i">Revers.</hi>
+              </l>
+              <l>
+                <hi rend="i">Couvers.</hi>
+              </l>
+              <l>
+                <hi rend="i">Proye.</hi>
+              </l>
+              <l>
+                <hi rend="i">Embelis.</hi>
+              </l>
+              <l>
+                <hi rend="i">Lys.</hi>
+              </l>
+              <l>
+                <hi rend="i">Répanduë.</hi>
+              </l>
+              <l>
+                <hi rend="i">Fureur.</hi>
+              </l>
+              <l>
+                <hi rend="i">Etenduë.</hi>
+              </l>
+              <l>
+                <hi rend="i">Terreur.</hi>
+              </l>
+            </lg>
           </quote>
-        </div>
-        </body>
+          <p>Les Auteurs mettront leur seing couvert &amp; cacheté ; &amp; feront remettre leurs paquets francs de port, huit jours avant la Saint Jean, chez M<hi rend="sup">r</hi> Seré prés la place de Roüaix, à Toulouse.</p>
+        </quote>
+      </div>
+    </body>
   </text>
 </TEI>

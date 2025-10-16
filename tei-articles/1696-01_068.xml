@@ -1,133 +1,27 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
-        <p />
+        <p/>
       </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text>
-
     <body>
       <div>
-
-        
-        
-
-        <p>Puis que nous sommes sur les origines, je ne dois pas oublier à vous envoyer ce qui a
-          esté écrit au même M<hi
-            rend="sup">r</hi> Cipiere, sur celle du mot <hi rend="i">Payen</hi>. Voicy les termes
-          dont on s’est servi. </p>
+        <p>Puis que nous sommes sur les origines, je ne dois pas oublier à vous envoyer ce qui a esté écrit au même M<hi rend="sup">r</hi> Cipiere, sur celle du mot <hi rend="i">Payen</hi>. Voicy les termes dont on s’est servi. </p>
         <quote>
-          <p>
-            <hi rend="i">L’Origine du mot</hi> Payen<hi rend="i">, que vous me proposez comme une
-            conjecture, est
-              peut-estre plus veritable que vous ne pensez, &amp; vous voulez bien que je vous dise
-            que plusieurs grands
-              hommes ont pensé la même chose avant vous. En effet, le mot de</hi> Paganus <hi
-              rend="i">ne doit pas estre
-              mis dans le sens de l’Epistre vingt-cinquiéme de Pline à Rufus, pour un homme rustique
-            &amp; grossier, ou
-              comme Perse le prend, pour un demi sçavant. Ce seroit offenser la verité &amp; la
-            justice, &amp; il y a eu
-              parmy les Payens des gens tres sçavans &amp; tres polis ; parmy les testes couronnées,
-            les Mithridates,
-              les Marc Aureles ; parmy les Philosophes, les Aristotes, les Plines ; parmy les
-            Orateurs, les Demosthenes,
-              les Cicerons ; parmy les Poëtes les Anacreons, les Horaces &amp;c.</hi>
-          </p>
-          <p>
-            <hi rend="i">Je croirois plûtost, suivant vostre sentiment, que la Religion Chrestienne
-            s’étant dabord
-              établie dans les Villes : car nous sçavons que les Apostres alloient ordinairement
-            prêcher dans les
-              Villes, parce qu’il y avoit plus de monde, plus d’esperance de faire de grandes
-            conversions, plus de gens
-              sçavans contre lesquels il falloit disputer, plus de grands Seigneurs dont la
-            conversion pouvoit servir
-              d’exemple, plus d’occasions à soutenir la Foy par le martyre. Je croirois donc
-            plûtost, dis-je, que les
-              Villes estant devenuës Chrestiennes, &amp; l’Idolatrie ayant esté releguée dans les
-            Villages, on auroit
-              appellé les Idolatres du nom de</hi> Pagani<hi rend="i">, ainsi qu’on appelloit les
-            Villageois, suivant
-              Servius. Cet Auteur dit aussi que le nom de</hi> Pagani <hi rend="i">vient de</hi>
-            pagus<hi rend="i">,
-              &amp; que celuy cy vient du Grec</hi> pegué<hi rend="i">, Fontaine, parce
-            qu’ordinairement on bâtissoit
-              les Villages prés des fontaines. Le Poëte Prudence a appellé les Idolatres attachez à
-            leurs superstitions,
-              des gens attachez à leurs Villages,</hi> deditos pago<hi rend="i">, &amp; sans doute
-            l’usage a voulu dans
-              la suite qu’on appellast du même nom ceux qui dans les Villes mêmes refloient adonnez
-            aux Idoles, qui
-              n’estoient plus adorées que par les simples &amp; les ignorans qui habitoient dans les
-            campagnes.</hi>
-          </p>
-          <p>
-            <hi rend="i">Mais, Monsieur, agréez que je vous propose une autre origine du mot de</hi>
-            Payen<hi rend="i">,
-              &amp; je ne sçay si vous ne l’aurez point déja pensé. Vous pensez si bien sur toutes
-            choses, que je ne
-              crois pas vous rien dire de nouveau ; &amp; si je vous dis icy une autre opinion, ce
-            n’est qu’afin de vous
-              faire connoistre que je n’ignore pas ce que d’autres ont trouvé sur ce sujet.</hi>
-          </p>
-          <p>
-            <hi rend="i">Le grand Saumaise croit que le mot de</hi> pagus <hi rend="i">n’a pas
-            seulement voulu dire un
-              village, mais un grand Pays, &amp; une Nation, comme si nous disions par exemple,</hi>
-            Pagus Aquitanus<hi
-              rend="i">, pour la Guienne. En effet, la Glose de Philoxene fait sinonimes les mots de</hi>
-            Toparchie<hi
-              rend="i">,</hi> Koratis<hi rend="i">,</hi> Nomos<hi rend="i">,</hi> Pagus<hi rend="i">,
-            de sorte que ce
-              dernier mot signifie ce que les François appellent un Pays, les Hebreux</hi> Goim<hi
-              rend="i">, les Grecs
-            </hi> Ethnos<hi rend="i">, les Latins</hi> gens <hi rend="i">ou</hi>
-            pagus<hi rend="i">. De là est venu le
-              mot</hi> Payen<hi rend="i">,</hi> Ethnicus<hi rend="i">,</hi> Gentilis<hi rend="i">,</hi>
-            Paganus<hi
-              rend="i">, comme il se trouve dans le Code Theodosien,</hi> de Hereticis leg. 46.
-            Judaei atque Gentiles quos vulgo Paganos appellant<hi rend="i">. Vous sçavez, Monsieur,
-            que l’Ecriture &amp; les Peres de l’Eglife
-              parlant des Idolatres, les appellent toujours</hi> les Nations<hi rend="i">, &amp; ce
-            qui est digne de
-              remarque, les Juifs ont donné aux Gentils les noms de</hi> Hellenes <hi rend="i">ou de
-            Grecs. C’est ainsi
-              que la Vulgate a traduit le verset 35. du chap. 7. de Saint Jean, où elle a mis,</hi>
-            numquid in dispersionem gentium iturus est<hi rend="i">. Le mot de</hi> Gentium <hi
-              rend="i">est employé là pour</hi> Hellenon<hi rend="i">. La sagesse Grecque &amp; la
-            sagesse Payenne veulent encore dire une même chose. La
-              raison de cela est, que les Grecs s’estant répandus presque dans toute l’Asie aprés la
-            mort d’Alexandre,
-              la pluspart des Idolatres voisins des Juifs, parloient Grec vulgairement. Tout cela me
-            fait voir tant de
-              vrai-semblance dans cette seconde origine du nom de</hi> Payen<hi rend="i">, que je ne
-            sçaurois m’empêcher
-              de me declarer pour elle. À la verité il y a dans vostre Etimologie plus d’érudition
-            &amp; plus de
-              recherches ; elle paroist plus ageéable, parce qu’elle nous represente une image du
-            premier Christianisme,
-              &amp; qu’elle nous fait voir les lieux où l’Evangile a pris naissance. La mienne sent
-            plus la Grammaire,
-              &amp; ne nous donnant d’abord que des noms à connoistre, elle n’a pas l’avantage de
-            plaire à la premiere
-              veuë, comme la vostre ; mais comme il s’agit icy d’un nom, ne peut-on pas dire qu’il
-            n’appartient qu’aux
-              Grammairiens d’en donner l’étymologie. Dites moy, je vous prie, Monsieur, ce que vous
-            en pensez. Je sçay
-              que vous estes également bon Historien &amp; bon Grammairien, &amp; ainsi habile Juge
-            dans les matieres
-              qui regardent l’Histoire &amp; la Grammaire.</hi>
-          </p>
+          <p><hi rend="i">L’Origine du mot</hi> Payen<hi rend="i">, que vous me proposez comme une conjecture, est peut-estre plus veritable que vous ne pensez, &amp; vous voulez bien que je vous dise que plusieurs grands hommes ont pensé la même chose avant vous. En effet, le mot de</hi> Paganus <hi rend="i">ne doit pas estre mis dans le sens de l’Epistre vingt-cinquiéme de Pline à Rufus, pour un homme rustique &amp; grossier, ou comme Perse le prend, pour un demi sçavant. Ce seroit offenser la verité &amp; la justice, &amp; il y a eu parmy les Payens des gens tres sçavans &amp; tres polis ; parmy les testes couronnées, les Mithridates, les Marc Aureles ; parmy les Philosophes, les Aristotes, les Plines ; parmy les Orateurs, les Demosthenes, les Cicerons ; parmy les Poëtes les Anacreons, les Horaces &amp;c.</hi> </p>
+          <p><hi rend="i">Je croirois plûtost, suivant vostre sentiment, que la Religion Chrestienne s’étant dabord établie dans les Villes : car nous sçavons que les Apostres alloient ordinairement prêcher dans les Villes, parce qu’il y avoit plus de monde, plus d’esperance de faire de grandes conversions, plus de gens sçavans contre lesquels il falloit disputer, plus de grands Seigneurs dont la conversion pouvoit servir d’exemple, plus d’occasions à soutenir la Foy par le martyre. Je croirois donc plûtost, dis-je, que les Villes estant devenuës Chrestiennes, &amp; l’Idolatrie ayant esté releguée dans les Villages, on auroit appellé les Idolatres du nom de</hi> Pagani<hi rend="i">, ainsi qu’on appelloit les Villageois, suivant Servius. Cet Auteur dit aussi que le nom de</hi> Pagani <hi rend="i">vient de</hi> pagus<hi rend="i">, &amp; que celuy cy vient du Grec</hi> pegué<hi rend="i">, Fontaine, parce qu’ordinairement on bâtissoit les Villages prés des fontaines. Le Poëte Prudence a appellé les Idolatres attachez à leurs superstitions, des gens attachez à leurs Villages,</hi> deditos pago<hi rend="i">, &amp; sans doute l’usage a voulu dans la suite qu’on appellast du même nom ceux qui dans les Villes mêmes refloient adonnez aux Idoles, qui n’estoient plus adorées que par les simples &amp; les ignorans qui habitoient dans les campagnes.</hi> </p>
+          <p><hi rend="i">Mais, Monsieur, agréez que je vous propose une autre origine du mot de</hi> Payen<hi rend="i">, &amp; je ne sçay si vous ne l’aurez point déja pensé. Vous pensez si bien sur toutes choses, que je ne crois pas vous rien dire de nouveau ; &amp; si je vous dis icy une autre opinion, ce n’est qu’afin de vous faire connoistre que je n’ignore pas ce que d’autres ont trouvé sur ce sujet.</hi> </p>
+          <p><hi rend="i">Le grand Saumaise croit que le mot de</hi> pagus <hi rend="i">n’a pas seulement voulu dire un village, mais un grand Pays, &amp; une Nation, comme si nous disions par exemple,</hi> Pagus Aquitanus<hi rend="i">, pour la Guienne. En effet, la Glose de Philoxene fait sinonimes les mots de</hi> Toparchie<hi rend="i">,</hi> Koratis<hi rend="i">,</hi> Nomos<hi rend="i">,</hi> Pagus<hi rend="i">, de sorte que ce dernier mot signifie ce que les François appellent un Pays, les Hebreux</hi> Goim<hi rend="i">, les Grecs </hi> Ethnos<hi rend="i">, les Latins</hi> gens <hi rend="i">ou</hi> pagus<hi rend="i">. De là est venu le mot</hi> Payen<hi rend="i">,</hi> Ethnicus<hi rend="i">,</hi> Gentilis<hi rend="i">,</hi> Paganus<hi rend="i">, comme il se trouve dans le Code Theodosien,</hi> de Hereticis leg. 46. Judaei atque Gentiles quos vulgo Paganos appellant<hi rend="i">. Vous sçavez, Monsieur, que l’Ecriture &amp; les Peres de l’Eglife parlant des Idolatres, les appellent toujours</hi> les Nations<hi rend="i">, &amp; ce qui est digne de remarque, les Juifs ont donné aux Gentils les noms de</hi> Hellenes <hi rend="i">ou de Grecs. C’est ainsi que la Vulgate a traduit le verset 35. du chap. 7. de Saint Jean, où elle a mis,</hi> numquid in dispersionem gentium iturus est<hi rend="i">. Le mot de</hi> Gentium <hi rend="i">est employé là pour</hi> Hellenon<hi rend="i">. La sagesse Grecque &amp; la sagesse Payenne veulent encore dire une même chose. La raison de cela est, que les Grecs s’estant répandus presque dans toute l’Asie aprés la mort d’Alexandre, la pluspart des Idolatres voisins des Juifs, parloient Grec vulgairement. Tout cela me fait voir tant de vrai-semblance dans cette seconde origine du nom de</hi> Payen<hi rend="i">, que je ne sçaurois m’empêcher de me declarer pour elle. À la verité il y a dans vostre Etimologie plus d’érudition &amp; plus de recherches ; elle paroist plus ageéable, parce qu’elle nous represente une image du premier Christianisme, &amp; qu’elle nous fait voir les lieux où l’Evangile a pris naissance. La mienne sent plus la Grammaire, &amp; ne nous donnant d’abord que des noms à connoistre, elle n’a pas l’avantage de plaire à la premiere veuë, comme la vostre ; mais comme il s’agit icy d’un nom, ne peut-on pas dire qu’il n’appartient qu’aux Grammairiens d’en donner l’étymologie. Dites moy, je vous prie, Monsieur, ce que vous en pensez. Je sçay que vous estes également bon Historien &amp; bon Grammairien, &amp; ainsi habile Juge dans les matieres qui regardent l’Histoire &amp; la Grammaire.</hi> </p>
         </quote>
       </div>
     </body>

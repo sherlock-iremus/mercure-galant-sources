@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,22 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-
+    <body>
+      <div>
         <p/>
-        <p>Madame de Souvré, Abbesse de Villers-Canivet, proche Falaise, fit assembler sa Communauté
-          dans son Eglise magnifiquement parée. Il est impossible de se rien imaginer de plus
-          éclatant. Outre les Lustres de cristal &amp; les Lumieres dont le bas estoit remply, on en
-          voyoit briller jusques à la Voûte. Les Tapisseries &amp; les Ornemens répondoient à la
-          solemnité de la Feste, &amp; on lisoit de tous costez des Inscriptions &amp; des Devises
-          sur l'heureux état de la France. Cette illustre Abbesse dont je vous ay déjà parlé
-          plusieurs fois, voulant marquer sa joye avec plus d'éclat, fit mettre tous ses Vassaux
-          sous les armes. Il s'y trouva plus de six cens ; &amp; les salves des Mousquets, le bruit
-          des Boëtes, &amp; le carrillon des Cloches, apprirent aux Lieux voisins ce qu'on faisoit à
-          Villers. [...]</p>
+        <p>Madame de Souvré, Abbesse de Villers-Canivet, proche Falaise, fit assembler sa Communauté dans son Eglise magnifiquement parée. Il est impossible de se rien imaginer de plus éclatant. Outre les Lustres de cristal &amp; les Lumieres dont le bas estoit remply, on en voyoit briller jusques à la Voûte. Les Tapisseries &amp; les Ornemens répondoient à la solemnité de la Feste, &amp; on lisoit de tous costez des Inscriptions &amp; des Devises sur l'heureux état de la France. Cette illustre Abbesse dont je vous ay déjà parlé plusieurs fois, voulant marquer sa joye avec plus d'éclat, fit mettre tous ses Vassaux sous les armes. Il s'y trouva plus de six cens ; &amp; les salves des Mousquets, le bruit des Boëtes, &amp; le carrillon des Cloches, apprirent aux Lieux voisins ce qu'on faisoit à Villers. [...]</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

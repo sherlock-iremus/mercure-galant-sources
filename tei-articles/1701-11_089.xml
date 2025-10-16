@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Les Vers suivans ont esté notez par un fort habile Musicien.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin">L’Air, <hi rend="i">Sombres deserts</hi>, page 89.</note>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin">L’Air, <hi rend="i">Sombres deserts</hi>, page 89.</note>
           <lg>
             <l rend="i">Sombres deserts qui cachez ma tristesse,</l>
             <l rend="i">Si je pouvois dans vos détours secrets</l>
@@ -37,6 +37,6 @@
           </figure>
         </ref>
       </div>
-        </body>
+    </body>
   </text>
 </TEI>

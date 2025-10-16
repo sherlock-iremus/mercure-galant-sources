@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,19 +14,23 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <quote>
-            <label>EPIGRAMME<lb/>Pour mettre au bas du Portrait de Madame la Duchesse de Bourgogne.</label>
-            <lg>
-              <l><hi rend="i">O Vous qui paroissez surpris</hi></l>
-              <l> <hi rend="i">Des beaux traits qu’à vos yeux ce tableau dévelope,</hi></l>
-              <l><hi rend="i">Vous le prenez à tort pour celuy de Cypris</hi> <note resp="author">Déesse Venus.</note></l>
-              <l> <hi rend="i">C’est celuy de Penelope.</hi></l>
-            </lg>
-          </quote>
-        </div>
-        </body>
+    <body>
+      <div>
+        <quote>
+          <label>EPIGRAMME<lb/>Pour mettre au bas du Portrait de Madame la Duchesse de Bourgogne.</label>
+          <lg>
+            <l>
+              <hi rend="i">O Vous qui paroissez surpris</hi>
+            </l>
+            <l> <hi rend="i">Des beaux traits qu’à vos yeux ce tableau dévelope,</hi></l>
+            <l>
+              <hi rend="i">Vous le prenez à tort pour celuy de Cypris</hi>
+              <note resp="author">Déesse Venus.</note>
+            </l>
+            <l> <hi rend="i">C’est celuy de Penelope.</hi></l>
+          </lg>
+        </quote>
+      </div>
+    </body>
   </text>
 </TEI>

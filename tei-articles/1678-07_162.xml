@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Autres Vers sur la rigueur d’une Belle. Je vous les envoye notez, afin que le plaisir de
-          les lire puisse estre suivy pour vous de celuy de les chanter.</p>
+    <body>
+      <div>
+        <p>Autres Vers sur la rigueur d’une Belle. Je vous les envoye notez, afin que le plaisir de les lire puisse estre suivy pour vous de celuy de les chanter.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour
-              placer les Figures</hi> : l’Air qui commence par, <hi rend="i">Le Soleil sur nos
-              champs trop longtemps arresté</hi>, doit regarder la page 162.</note>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par, <hi rend="i">Le Soleil sur nos champs trop longtemps arresté</hi>, doit regarder la page 162.</note>
           <lg>
             <l rend="i">Le Soleil sur nos Champs trop longtemps arresté,</l>
             <l rend="i"> Seche nos Fleurs, met en cendre nos Plaines,</l>
@@ -38,6 +35,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

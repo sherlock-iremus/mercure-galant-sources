@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
+    <body>
+      <div>
         <p/>
-        <p>M<hi rend="sup">r</hi> Boursault a fait le premier des deux Sonnets que je vous envoye
-          encor sur cette Naissance. Le second est de M<hi rend="sup">r</hi> Richebourg.</p>
+        <p>M<hi rend="sup">r</hi> Boursault a fait le premier des deux Sonnets que je vous envoye encor sur cette Naissance. Le second est de M<hi rend="sup">r</hi> Richebourg.</p>
         <quote>
-          <label>AU ROY,<lb/>Sur la Naissance de Monseigneur<lb/>le Duc de
-            Bourgogne.<lb/>SONNET.</label>
+          <label>AU ROY,<lb/>Sur la Naissance de Monseigneur<lb/>le Duc de Bourgogne.<lb/>SONNET.</label>
           <lg>
             <l rend="i">Grand Roy, sur qui le Ciel répand grace sur grace,</l>
             <l rend="i">Il ne manque plus rien à ta félicité ;</l>
@@ -78,6 +75,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

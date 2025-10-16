@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Les paroles qui suivent ont esté mises en Air par un habile Musicien.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">Helas dequoy me sert la Saison des Zephirs</hi>, doit regarder la page [2]69.</note>
-          <lg><l rend="i">Helas ! dequoy me sert la Saison des Zephirs,</l>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">Helas dequoy me sert la Saison des Zephirs</hi>, doit regarder la page [2]69.</note>
+          <lg>
+            <l rend="i">Helas ! dequoy me sert la Saison des Zephirs,</l>
             <l rend="i">Je suis trop malheureux pour goûter ses plaisirs.</l>
             <l rend="i">Cessez doux Rossignols, vostre amoureux ramage ;</l>
             <l rend="i">Il augmente ma langueur</l>
@@ -31,7 +32,8 @@
             <l rend="i">Naissantes fleurs qui brillez dans la Plaine,</l>
             <l rend="i">Mourez avec mon espoir,</l>
             <l rend="i">Je n'aimois à vous voir</l>
-            <l rend="i">Que pour vous offrir à Climeine.</l></lg>
+            <l rend="i">Que pour vous offrir à Climeine.</l>
+          </lg>
         </quote>
         <ref target="images/1700-06_268.JPG">
           <figure>
@@ -39,6 +41,6 @@
           </figure>
         </ref>
       </div>
-        </body>
+    </body>
   </text>
 </TEI>

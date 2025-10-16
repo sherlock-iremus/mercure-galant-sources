@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,21 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-                
-                
-
-                <p>On a reçu des nouvelles du Mexique, toutes contraires
-                        aux bruits que l’on avoit fait courir, puisque l’on apprend par ces
-                        nouvelles que le Viceroy, les personnes de distinction du païs, &amp; les
-                        Peuples ont en tant de joye de l’élevation de Monseigneur le Duc d’Anjou sur
-                        le Trône d’Espagne, qu’ils l’ont proclamé Roy avec des acclamations qui vont
-                        au delà de tout ce qu’on peut imaginer. Ils ont fait de grandes festes qui
-                        leur ont coûté de fort grosses sommes, se persuadant qu’avec la protection
-                        du Roy Tres-Chrestien, leur repos ne pourra plus estre troublé par aucune
-                        Puissance.</p>
-
-            </div>
+    <body>
+      <div>
+        <p>On a reçu des nouvelles du Mexique, toutes contraires aux bruits que l’on avoit fait courir, puisque l’on apprend par ces nouvelles que le Viceroy, les personnes de distinction du païs, &amp; les Peuples ont en tant de joye de l’élevation de Monseigneur le Duc d’Anjou sur le Trône d’Espagne, qu’ils l’ont proclamé Roy avec des acclamations qui vont au delà de tout ce qu’on peut imaginer. Ils ont fait de grandes festes qui leur ont coûté de fort grosses sommes, se persuadant qu’avec la protection du Roy Tres-Chrestien, leur repos ne pourra plus estre troublé par aucune Puissance.</p>
+      </div>
     </body>
   </text>
 </TEI>

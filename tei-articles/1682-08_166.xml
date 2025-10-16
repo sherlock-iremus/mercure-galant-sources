@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
+    <body>
+      <div>
         <p/>
-        <p>Les deux Sonnets que vous allez voir, sont de deux Autheurs, à qui leurs Ouvrages ont
-          acquis beaucoup de gloire. Le premier est de M<hi rend="sup">r</hi> Boyer, &amp; le second
-          de M<hi rend="sup">r</hi> le Clerc, tous deux de l’Académie Françoise.</p>
+        <p>Les deux Sonnets que vous allez voir, sont de deux Autheurs, à qui leurs Ouvrages ont acquis beaucoup de gloire. Le premier est de M<hi rend="sup">r</hi> Boyer, &amp; le second de M<hi rend="sup">r</hi> le Clerc, tous deux de l’Académie Françoise.</p>
         <quote>
-          <label>SUR LA NAISSANCE<lb/><hi rend="sc">de Monseigneur</hi><lb/>LE DUC DE
-              BOURGOGNE.<lb/><hi rend="sc">Sonnet.</hi></label>
+          <label>SUR LA NAISSANCE<lb/><hi rend="sc">de Monseigneur</hi><lb/>LE DUC DE BOURGOGNE.<lb/><hi rend="sc">Sonnet.</hi></label>
           <lg>
             <l rend="i">Quel éclat surprenant, quelle clarté nouvelle</l>
             <l rend="i">Se répand aujourd’huy sur l’Empire François !</l>
@@ -79,6 +75,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,16 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-
-        
+    <body>
+      <div>
         <p/>
-        <p>La Piece de Vers que vous allez lire, est de M<hi rend="sup">r</hi> Boursaut, connu par
-          beaucoup d’Ouvrages que le Public a fort estimez.</p>
+        <p>La Piece de Vers que vous allez lire, est de M<hi rend="sup">r</hi> Boursaut, connu par beaucoup d’Ouvrages que le Public a fort estimez.</p>
         <quote>
-          <label>LE PIEDESTAL.<lb/>À M<hi rend="sup">r</hi> de Bertillat, ancien Garde du Tresor
-            Royal.</label>
+          <label>LE PIEDESTAL.<lb/>À M<hi rend="sup">r</hi> de Bertillat, ancien Garde du Tresor Royal.</label>
           <lg>
             <l rend="i">Je doute qu’Alexandre ait esté magnanime,</l>
             <l rend="i">Et que Jules Cesar eust le cœur bien placé ;</l>
@@ -78,6 +74,6 @@
           </lg>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

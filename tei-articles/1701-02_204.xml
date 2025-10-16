@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,20 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-                
-                
-
-                <p>Sœur Marguerite Bourgeois, premiere Abbesse de
-                        Nostre-Dame de Montréal en Canada, &amp; d’une des plus anciennes familles de
-                        Troye en Champagne, mourut il y a quatre ou cinq mois dans ce Monastère,
-                        âgée de quatre-vingt-dix ans. Son zele pour la Foy estoit inimitable, &amp; la
-                        charité qu’elle avoit pour le prochain luy a fait traverser plusieurs fois
-                        les mers, &amp; exposer sa vie parmi les Sauvages, qui firent mourir
-                        cruellement deux de ses Nieces. Les Peuples de la Nouvelle France la
-                        reclament comme une Sainte.</p>
-
-            </div>
+    <body>
+      <div>
+        <p>Sœur Marguerite Bourgeois, premiere Abbesse de Nostre-Dame de Montréal en Canada, &amp; d’une des plus anciennes familles de Troye en Champagne, mourut il y a quatre ou cinq mois dans ce Monastère, âgée de quatre-vingt-dix ans. Son zele pour la Foy estoit inimitable, &amp; la charité qu’elle avoit pour le prochain luy a fait traverser plusieurs fois les mers, &amp; exposer sa vie parmi les Sauvages, qui firent mourir cruellement deux de ses Nieces. Les Peuples de la Nouvelle France la reclament comme une Sainte.</p>
+      </div>
     </body>
   </text>
 </TEI>

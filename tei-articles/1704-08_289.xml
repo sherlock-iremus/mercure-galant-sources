@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p>Le 10. de ce mois M<hi rend="sup">r</hi> de Guyonnet, fils M<hi rend="sup">r</hi> de Guyonnet, Conseiller au Parlement de Bordeaux, soutint dans le College de Guyenne une These de Geometrie &amp; de Fortifications, dediée au Parlement ; l’Assemblée estoit tres-nombreuse. Le soutenant surprit d’autant plus l’Auditoire par la solidité de ses demonstrations &amp; de ses réponses, que c’est un jeune homme de quatorze ans ; ce qui donne lieu de croire, que si son esprit continuë à faire d’aussi grands progrés, l’âge le rendra un jour, un des plus habiles hommes de son siécle.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>Le 10. de ce mois M<hi rend="sup">r</hi> de Guyonnet, fils M<hi rend="sup">r</hi> de Guyonnet, Conseiller au Parlement de Bordeaux, soutint dans le College de Guyenne une These de Geometrie &amp; de Fortifications, dediée au Parlement ; l’Assemblée estoit tres-nombreuse. Le soutenant surprit d’autant plus l’Auditoire par la solidité de ses demonstrations &amp; de ses réponses, que c’est un jeune homme de quatorze ans ; ce qui donne lieu de croire, que si son esprit continuë à faire d’aussi grands progrés, l’âge le rendra un jour, un des plus habiles hommes de son siécle.</p>
+      </div>
+    </body>
   </text>
 </TEI>

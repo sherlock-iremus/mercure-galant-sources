@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,13 +14,9 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Il suffit que cet Incomparable Monarque veüille entreprendre pour se répondre d’une
-          nouvelle Victoire, &amp; il nous a tellement accoustumez aux Conquestes, que si on admire
-          toûjours celles qu’il fait, on cesse presque de s’en étonner. C’est une pensée de M<hi rend="sup">r</hi> de la Monnoye. Voyez le tour spirituel qu’il luy donne dans ce
-          Sonnet.</p>
+    <body>
+      <div>
+        <p>Il suffit que cet Incomparable Monarque veüille entreprendre pour se répondre d’une nouvelle Victoire, &amp; il nous a tellement accoustumez aux Conquestes, que si on admire toûjours celles qu’il fait, on cesse presque de s’en étonner. C’est une pensée de M<hi rend="sup">r</hi> de la Monnoye. Voyez le tour spirituel qu’il luy donne dans ce Sonnet.</p>
         <quote rend="border">
           <label rend="center">Au Roy,</label>
           <label rend="center">Sonnet.</label>
@@ -52,6 +48,6 @@
         </quote>
         <p>Voila de fameux exemples pour nostre Illustre Dauphin.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

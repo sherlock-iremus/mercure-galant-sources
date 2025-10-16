@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,14 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p/>
-          <p>[...] Il s'eleva en mesme temps un Broüillard si épais, que les Ennemis ne pouvoient voir l'Armée, ny l'Armée les Ennemis, quoy qu'on entendist de part &amp; d'autre le bruit des Tambours &amp; des Trompettes. [...]</p>
-          <p/>
-          <p/>
-          <p>[...] Aprés la Bataille, Monsieur le Prince de Conty envoya M<hi rend="sup">r</hi> de la Chapelle Secretaire de ses Commandemens, porter cent cinquante Ducats aux Cavaliers de l'Escadron dans lequel il avoit combattu, &amp; dix en particulier au Cavalier qui s'estoit trouvé à son costé. Cette liberalité fut receuë avec des marques de joye &amp; d'admiration, qui durent tout le reste du jour, &amp; au bruit des Trompettes &amp; des Timbales. [...]</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p/>
+        <p>[...] Il s'eleva en mesme temps un Broüillard si épais, que les Ennemis ne pouvoient voir l'Armée, ny l'Armée les Ennemis, quoy qu'on entendist de part &amp; d'autre le bruit des Tambours &amp; des Trompettes. [...]</p>
+        <p/>
+        <p/>
+        <p>[...] Aprés la Bataille, Monsieur le Prince de Conty envoya M<hi rend="sup">r</hi> de la Chapelle Secretaire de ses Commandemens, porter cent cinquante Ducats aux Cavaliers de l'Escadron dans lequel il avoit combattu, &amp; dix en particulier au Cavalier qui s'estoit trouvé à son costé. Cette liberalité fut receuë avec des marques de joye &amp; d'admiration, qui durent tout le reste du jour, &amp; au bruit des Trompettes &amp; des Timbales. [...]</p>
+      </div>
+    </body>
   </text>
 </TEI>

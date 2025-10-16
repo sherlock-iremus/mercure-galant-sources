@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p/>
-          <p>Le Jeudy 17. du dernier mois, M<hi rend="sup">r</hi> Dalibert, un des premiers Officiers de la Reine de Suede, fit une grande Feste à Rome dans l'Eglise de la Maison Professe des Peres Jesuites dediée au Nom de JESUS, au sujet de la convalescence de cette Princesse. L'Eglise qui est une des plus belles de la Ville, estoit tenduë des plus riches Tapisseries de la Reine, avec des Vases d'argent remplis de bouquets &amp; de fleurs sur les corniches &amp; sur les piedestaux. Il y eut une excellente Musique &amp; une Simphonie des plus belles. L'Evesque de Verceil celebra la Messe, &amp; douze Cardinaux y assisterent, avec une affluence de monde incroyable. Le soir le Palais de la Reine fut illuminé, &amp; toutes les ruës des environs, de mesme que toutes celles qui conduisent de ce Palais à l'Eglise de JESUS. Le Dimanche suivant, tous les Marchands Ouvriers &amp; Artisans qui travaillent pour cette Princesse, firent aussi une superbe Feste dans l'Eglise de S. <hi rend="i">Salvator in Lauro</hi>, où il y eut encore une fort belle Musique. Ils avoient fait orner la façade de l'Eglise de toiles peintes, avec quantités de figures, de Médaillons, &amp; de Devises, &amp; des Festons de fleurs sous les voûtes &amp; sous les arcades.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p/>
+        <p>Le Jeudy 17. du dernier mois, M<hi rend="sup">r</hi> Dalibert, un des premiers Officiers de la Reine de Suede, fit une grande Feste à Rome dans l'Eglise de la Maison Professe des Peres Jesuites dediée au Nom de JESUS, au sujet de la convalescence de cette Princesse. L'Eglise qui est une des plus belles de la Ville, estoit tenduë des plus riches Tapisseries de la Reine, avec des Vases d'argent remplis de bouquets &amp; de fleurs sur les corniches &amp; sur les piedestaux. Il y eut une excellente Musique &amp; une Simphonie des plus belles. L'Evesque de Verceil celebra la Messe, &amp; douze Cardinaux y assisterent, avec une affluence de monde incroyable. Le soir le Palais de la Reine fut illuminé, &amp; toutes les ruës des environs, de mesme que toutes celles qui conduisent de ce Palais à l'Eglise de JESUS. Le Dimanche suivant, tous les Marchands Ouvriers &amp; Artisans qui travaillent pour cette Princesse, firent aussi une superbe Feste dans l'Eglise de S. <hi rend="i">Salvator in Lauro</hi>, où il y eut encore une fort belle Musique. Ils avoient fait orner la façade de l'Eglise de toiles peintes, avec quantités de figures, de Médaillons, &amp; de Devises, &amp; des Festons de fleurs sous les voûtes &amp; sous les arcades.</p>
+      </div>
+    </body>
   </text>
 </TEI>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,12 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-    
-    <p>A propos de Musique, elle a fait une grande perte en la personne de M<hi rend="sup">r</hi> Langeais, tres-estimé de tous ceux qui prennent plaisir à ce divertissement. Il estoit
-     de celle du Roy, &amp; mourut quelques jours avant la premiere représentation du Balet.</p>
-   </div>
-   </body>
+    <body>
+      <div>
+        <p>A propos de Musique, elle a fait une grande perte en la personne de M<hi rend="sup">r</hi> Langeais, tres-estimé de tous ceux qui prennent plaisir à ce divertissement. Il estoit de celle du Roy, &amp; mourut quelques jours avant la premiere représentation du Balet.</p>
+      </div>
+    </body>
   </text>
 </TEI>

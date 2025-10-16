@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,25 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
-        <p>Il n’y a rien de si bas qui ne soit à estimer lors qu’il vient de mains habiles. Vous
-          mépriseriez une Souriciere, &amp; Madame de Villeneuve, Femme de M<hi rend="sup">r</hi> Ribier de Villeneuve, cy-devant Conseiller au Parlement, a trouvé moyen d’en faire
-          un present qui a fait bruit. Madame de Fourcy à qui elle estoit allée rendre visite,
-          s’estant plainte de quelques Souris qui l’incommodoient, Madame de Villeneuve luy dit
-          qu’elle avoit chez-elle une sorte de Souriciere merveilleuse pour prendre ces animaux.
-          C’estoit un pot plein d’eau &amp; couvert d’un ais, au milieu duquel il y avoit une petite
-          bascule qui s’abaissoit aussi-tost que les Souris venoient manger ce que l’on mettoit
-          dessus, en sorte qu’en tombant dans l’eau, elles se noyoient sans qu’il en pust échaper
-          aucune. Madame de Fourcy l’ayant priée de luy envoyer l’Ouvrier qui les faisoit, Madame de
-          Villeneuve s’engagea à luy en fournir une toute faite. Aprés qu’elle l’eut quittée, elle
-          songea comment elle pourroit relever par quelque galanterie une chose aussi-peu
-          considerable qu’une Souriciere. Elle chercha une belle Cuvette de fayence, fit peindre le
-          couvercle de bois où est la bascule, &amp; fit faire un petit Pavillon de taffetas couvert
-          de Galons d’argent, &amp; orné de rubans qui couvroit la machine comme une petite tente.
-          Cette Lettre accompagna le present.</p>
+        <p>Il n’y a rien de si bas qui ne soit à estimer lors qu’il vient de mains habiles. Vous mépriseriez une Souriciere, &amp; Madame de Villeneuve, Femme de M<hi rend="sup">r</hi> Ribier de Villeneuve, cy-devant Conseiller au Parlement, a trouvé moyen d’en faire un present qui a fait bruit. Madame de Fourcy à qui elle estoit allée rendre visite, s’estant plainte de quelques Souris qui l’incommodoient, Madame de Villeneuve luy dit qu’elle avoit chez-elle une sorte de Souriciere merveilleuse pour prendre ces animaux. C’estoit un pot plein d’eau &amp; couvert d’un ais, au milieu duquel il y avoit une petite bascule qui s’abaissoit aussi-tost que les Souris venoient manger ce que l’on mettoit dessus, en sorte qu’en tombant dans l’eau, elles se noyoient sans qu’il en pust échaper aucune. Madame de Fourcy l’ayant priée de luy envoyer l’Ouvrier qui les faisoit, Madame de Villeneuve s’engagea à luy en fournir une toute faite. Aprés qu’elle l’eut quittée, elle songea comment elle pourroit relever par quelque galanterie une chose aussi-peu considerable qu’une Souriciere. Elle chercha une belle Cuvette de fayence, fit peindre le couvercle de bois où est la bascule, &amp; fit faire un petit Pavillon de taffetas couvert de Galons d’argent, &amp; orné de rubans qui couvroit la machine comme une petite tente. Cette Lettre accompagna le present.</p>
         <quote>
           <label>A MADAME DE FOURCY,<lb/>en luy envoyant une<lb/>Souriciere.</label>
           <quote>
@@ -55,15 +40,11 @@
               <l rend="i">Nous allons voir finir vos jours &amp; vostre orgueil.</l>
             </lg>
           </quote>
-          <p><hi rend="i">Ce sera, Madame, par le moyen de la petite Souriciere que je vous envoye
-              que vous viendrez à bout de ces petites insolentes qui vous font tant de desordre. Je
-              croy qu’elles s’y prendront aisément, car on a pris toutes les mesures possibles pour
-              la rendre juste ; il ne faut qu’un grain pour faire baisser la bascule ; je croy mesme
-              que les Mouches s’y prendroient, si elles venoient s’y reposer. Neantmoins si quelque
-              accident la faisoit manquer, faites-m’en avertir, j’iray aussi-tost chez vous pour y
-              remedier, &amp; vous témoigner combien je suis, Madame, vostre, &amp;c.</hi></p>
+          <p>
+            <hi rend="i">Ce sera, Madame, par le moyen de la petite Souriciere que je vous envoye que vous viendrez à bout de ces petites insolentes qui vous font tant de desordre. Je croy qu’elles s’y prendront aisément, car on a pris toutes les mesures possibles pour la rendre juste ; il ne faut qu’un grain pour faire baisser la bascule ; je croy mesme que les Mouches s’y prendroient, si elles venoient s’y reposer. Neantmoins si quelque accident la faisoit manquer, faites-m’en avertir, j’iray aussi-tost chez vous pour y remedier, &amp; vous témoigner combien je suis, Madame, vostre, &amp;c.</hi>
+          </p>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

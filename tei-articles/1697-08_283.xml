@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,20 +14,22 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p>Les Vers que vous allez lire ont esté mis en Air par une personne qui se connoist parfaitement en Musique.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air doit regarder la page 283.</note>
-          <lg><l rend="i">Ce seroit une étrange chose,</l>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air doit regarder la page 283.</note>
+          <lg>
+            <l rend="i">Ce seroit une étrange chose,</l>
             <l rend="i">Si je n'avois qu'un seul Amant,</l>
             <l rend="i">N'accusez point, Lisis, un changement</l>
             <l rend="i">Dont vous estes la cause.</l>
             <l rend="i">Quand vous allez dans ce Hameau,</l>
             <l rend="i">Faire l'amour ailleurs en tout temps, à toute heure,</l>
             <l rend="i">Prétendez-vous que je demeure</l>
-            <l rend="i">Seulette prés de mon Troupeau ?</l></lg>
+            <l rend="i">Seulette prés de mon Troupeau ?</l>
+          </lg>
         </quote>
         <ref target="images/1697-08_283.JPG">
           <figure>
@@ -35,6 +37,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

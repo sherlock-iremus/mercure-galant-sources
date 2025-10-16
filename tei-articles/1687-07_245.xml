@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,14 +14,15 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
+    <body>
+      <div>
         <p/>
         <quote>
           <label>SUR LE MESME SUJET<lb/>par le mesme.</label>
           <quote>
-            <label><hi rend="i">SONNET.</hi></label>
+            <label>
+              <hi rend="i">SONNET.</hi>
+            </label>
             <lg>
               <l rend="i">Saint-Aignan ne vit plus, &amp; la Parque traistresse,</l>
               <l rend="i">Jalouse qu’elle estoit de ses longs &amp; beaux jours,</l>
@@ -48,12 +49,7 @@
               <l rend="i">On sçait, &amp; c’est assez, quel rang il occupa.</l>
             </lg>
           </quote>
-          <p>On a fait une autre Devise sur la mort de M<hi rend="sup">r</hi> le Duc de Saint
-            Aignan. Elle a pour Corps une Statuë de Marbre de plein relief, representant ce Duc avec
-            des Trophées d’Armes autour, &amp; sur le front de cette Statuë, la Gloire éleve la main
-            pour y mettre une Couronne avec ces mots, <hi rend="i">Virtuti hæc debita merces</hi>.
-              M<hi rend="sup">r</hi> Rault de Roüen, Autheur de cette Devise, fait ainsi parler la
-            Gloire.</p>
+          <p>On a fait une autre Devise sur la mort de M<hi rend="sup">r</hi> le Duc de Saint Aignan. Elle a pour Corps une Statuë de Marbre de plein relief, representant ce Duc avec des Trophées d’Armes autour, &amp; sur le front de cette Statuë, la Gloire éleve la main pour y mettre une Couronne avec ces mots, <hi rend="i">Virtuti hæc debita merces</hi>. M<hi rend="sup">r</hi> Rault de Roüen, Autheur de cette Devise, fait ainsi parler la Gloire.</p>
           <quote>
             <lg>
               <l rend="i">Moy qui des grands Heros connois le vray merite,</l>
@@ -101,10 +97,7 @@
               <l rend="i">Vient d’estre à Saint-Aignan ravie.</l>
             </lg>
           </quote>
-          <p>M<hi rend="sup">r</hi> Petit, pour qui feu M<hi rend="sup">r</hi> le Duc de Saint
-            Aignan avoit depuis fort long-temps une estime tres-particuliere, jusqu’à le traiter de
-            Frere en Apollon, comme vous l’avez veu par quelques Lettres que je vous ay envoyées, a
-            voulu marquer par ce Madrigal combien la memoire de ce Duc luy est precieuse.</p>
+          <p>M<hi rend="sup">r</hi> Petit, pour qui feu M<hi rend="sup">r</hi> le Duc de Saint Aignan avoit depuis fort long-temps une estime tres-particuliere, jusqu’à le traiter de Frere en Apollon, comme vous l’avez veu par quelques Lettres que je vous ay envoyées, a voulu marquer par ce Madrigal combien la memoire de ce Duc luy est precieuse.</p>
           <quote>
             <lg>
               <l rend="i">Chery de Mars &amp; des neuf Sœurs</l>
@@ -121,6 +114,6 @@
           </quote>
         </quote>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

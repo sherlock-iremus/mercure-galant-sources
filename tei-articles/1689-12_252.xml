@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,17 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-
-        
+    <body>
+      <div>
         <p/>
-        <p>Emery Bigot. Il estoit d’une fort bonne Famille de Roüen, &amp; Fils d’un Conseiller de
-          la Cour des Aides. Sa grande capacité luy faisoit avoir commerce avec tout ce qu’il y a de
-          Sçavans, &amp; il se faisoit chez luy fort souvent des Conferences sur toutes sortes de
-          matieres de belles Lettres. Il avoit une fort grande Bibliotheque, composée des Livres les
-          plus recherchez, &amp; on peut dire qu’elle estoit parfaite du costé de l’Histoire. Il est
-          mort le 18. de ce mois, âgé d’environ soixante &amp; quatre ans.</p>
+        <p>Emery Bigot. Il estoit d’une fort bonne Famille de Roüen, &amp; Fils d’un Conseiller de la Cour des Aides. Sa grande capacité luy faisoit avoir commerce avec tout ce qu’il y a de Sçavans, &amp; il se faisoit chez luy fort souvent des Conferences sur toutes sortes de matieres de belles Lettres. Il avoit une fort grande Bibliotheque, composée des Livres les plus recherchez, &amp; on peut dire qu’elle estoit parfaite du costé de l’Histoire. Il est mort le 18. de ce mois, âgé d’environ soixante &amp; quatre ans.</p>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

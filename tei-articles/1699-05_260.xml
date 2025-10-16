@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,11 +14,10 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-          
-          
-          <p>On vient de donner au Public un recueïl d'Airs spirituels &amp; nouveaux à une, deux, &amp; trois parties ; composez dans le goust des Airs de l'Opera. Cet ouvrage est dedié à M<hi rend="sup">r</hi> l'Archevesque de Paris. L'Auteur donnera au commencement de chaque mois un Recüeil semblable, &amp; dans chacun, il y aura deux Airs choisis des Opera anciens &amp; nouveaux, sur des paroles de devotion. Ce recüeil se vend chez Claude Roussel, Graveur, ruë S. Jacques au Lion d'argent, prés les Mathurins.</p>
-        </div>
-        </body>
+    <body>
+      <div>
+        <p>On vient de donner au Public un recueïl d'Airs spirituels &amp; nouveaux à une, deux, &amp; trois parties ; composez dans le goust des Airs de l'Opera. Cet ouvrage est dedié à M<hi rend="sup">r</hi> l'Archevesque de Paris. L'Auteur donnera au commencement de chaque mois un Recüeil semblable, &amp; dans chacun, il y aura deux Airs choisis des Opera anciens &amp; nouveaux, sur des paroles de devotion. Ce recüeil se vend chez Claude Roussel, Graveur, ruë S. Jacques au Lion d'argent, prés les Mathurins.</p>
+      </div>
+    </body>
   </text>
 </TEI>

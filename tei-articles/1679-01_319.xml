@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,23 +14,16 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Le vray Mot de la seconde Enigme est dans le Madrigal suivant. L'aimable Alexandre en est
-          l’Autheur.</p>
-        <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Le Mercure
-          plaist en tous lieux,</l>
+    <body>
+      <div>
+        <p>Le vray Mot de la seconde Enigme est dans le Madrigal suivant. L'aimable Alexandre en est l’Autheur.</p>
+        <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Le Mercure plaist en tous lieux,</l>
         <l>C'est pour les beaux Esprits un mets délicieux,</l>
-        <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Et comme
-          tel on le regarde ;</l>
-        <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Mais pour
-          contenter chaque goust,</l>
-        <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Depuis
-          longtemps à ce Ragoust</l>
-        <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Il manquoit
-          un grain de <hi rend="i">Moutarde</hi>.</l>
+        <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Et comme tel on le regarde ;</l>
+        <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Mais pour contenter chaque goust,</l>
+        <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Depuis longtemps à ce Ragoust</l>
+        <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Il manquoit un grain de <hi rend="i">Moutarde</hi>.</l>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>

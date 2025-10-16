@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,20 +14,11 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-                
-                
-                <label>De Lisbonne le 13 Novembre</label>
-                <p>On est icy dans de grandes inquiétudes, sur l’avis qu’on a eu, que M<hi rend="sup">r</hi> du
-                    Gué-Troüin, avoit débarqué des Troupes aux Isles du Cap Vert ; &amp; qu’étant
-                    entré<note xml:id="_ftn0" resp="editor" n="1"> « entrée » a été corrigé par
-                        « entré ».</note> dans la Baye de Tous-les-Saints, il avoit pillé la Ville
-                    de San Salvador, Capitale du Brésil, ainsi qu’un autre Port, où il avoit brûlé
-                    tous les Vaisseaux qui y étoient.</p>
-
-            </div>
-
-
+    <body>
+      <div>
+        <label>De Lisbonne le 13 Novembre</label>
+        <p>On est icy dans de grandes inquiétudes, sur l’avis qu’on a eu, que M<hi rend="sup">r</hi> du Gué-Troüin, avoit débarqué des Troupes aux Isles du Cap Vert ; &amp; qu’étant entré<note xml:id="_ftn0" resp="editor" n="1"> « entrée » a été corrigé par « entré ».</note> dans la Baye de Tous-les-Saints, il avoit pillé la Ville de San Salvador, Capitale du Brésil, ainsi qu’un autre Port, où il avoit brûlé tous les Vaisseaux qui y étoient.</p>
+      </div>
     </body>
   </text>
 </TEI>

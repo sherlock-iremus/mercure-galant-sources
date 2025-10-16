@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title></title>
+        <title/>
       </titleStmt>
       <publicationStmt>
-        <publisher></publisher>
+        <publisher/>
       </publicationStmt>
       <sourceDesc>
         <p/>
@@ -14,15 +14,12 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <body><div>
-        
-        
-        <p>Les Vers que vous allez lire ont esté mis en air par l'Illustre M<hi rend="sup">r</hi>
-          Lambert. Ce nom est un grand Eloge <note resp="editor">L'air a également été publié, avec de nombreuses variantes affectant plus particulièrement la basse continue, dans le <hi rend="italic">XXXV. livre d'airs de différents auteurs</hi> (Paris, Christophe Ballard, 1692, p. 18-19, cf. LADDA 1692-06).</note>.</p>
+    <body>
+      <div>
+        <p>Les Vers que vous allez lire ont esté mis en air par l'Illustre M<hi rend="sup">r</hi> Lambert. Ce nom est un grand Eloge <note resp="editor">L'air a également été publié, avec de nombreuses variantes affectant plus particulièrement la basse continue, dans le <hi rend="italic">XXXV. livre d'airs de différents auteurs</hi> (Paris, Christophe Ballard, 1692, p. 18-19, cf. LADDA 1692-06).</note>.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour
-              placer les Figures</hi> : l’Air qui commence par, <hi rend="i">La Paix estoit
-              maistresse de mon cœur</hi>, doit regarder la page 83.</note>
+          <label>AIR NOUVEAU.</label>
+          <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par, <hi rend="i">La Paix estoit maistresse de mon cœur</hi>, doit regarder la page 83.</note>
           <lg>
             <l rend="i">La Paix estoit maistresse de mon cœur,</l>
             <l rend="i">Et je goustois le tranquille bonheur</l>
@@ -38,6 +35,6 @@
           </figure>
         </ref>
       </div>
-      </body>
+    </body>
   </text>
 </TEI>
