@@ -1,1 +1,1 @@
-[https://lichess.org/]()
+[](https://lichess.org/)
