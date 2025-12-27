@@ -20,7 +20,7 @@
         <p>Aprés vous avoir fait part d’un si grand nombre d’ouvrages sur les Conquestes de Monseigneur le Dauphin, je ne puis m’empescher d’y ajoûter un Madrigal qui a esté estimé de tout le monde. Il dit beaucoup en fort peu de Vers, &amp; il seroit mal aisé de faire un plus bel éloge de ce Prince.</p>
         <quote>
           <label>SUR LA CAMPAGNE<lb/>de Monseigneur le Dauphin.</label>
-          <lg>
+          <lg><lg>
             <l rend="i"> Prince, que vos desseins sont beaux !</l>
             <l rend="i">Le Monarque puissant qui fait trembler la terre,</l>
             <l rend="i"> Remet en vos mains son tonnerre.</l>
@@ -37,7 +37,7 @@
               <hi rend="i">La France vous benit, l’Univers vous admire,</hi>
             </l>
             <l rend="i"> Et Loüis est content de vous</l>
-          </lg>
+          </lg></lg>
         </quote>
       </div>
     </body>
