@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title />
+      </titleStmt>
+      <publicationStmt>
+        <publisher />
+      </publicationStmt>
+      <sourceDesc>
+        <p />
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>De l'Art Oratoire</head>
+        <bibl><title>Mercure galant</title>, janvier 1683 [tome 1], p. 133-147</bibl>
+        <p>Quoy que beaucoup de Parties soient necessaires à un Parfait Orateur, il y en a deux qui
+          contribuënt ordinairement plus que les autres à luy attirer ces nombreuses Assemblées, qui
+          mettent en réputation ceux qui parlent en public. Il en est traité dans le Discours dont
+          je vous envoye une Copie. L'Autheur nous cache son nom, mais il ne peut cacher son esprit.
+          Lisez, Madame, &amp; vous serez de son sentiment.</p>
+        <quote>
+          <label>DE L’ART<lb />ORATOIRE</label>
+        </quote>
+        <p>
+          <hi rend="i">Ce n'est pas assez qu'un Orateur ait de l'esprit pour raisonner
+            judicieusement, &amp; pour parler avec politesse ; qu'il ait de la mémoire, pour
+            prononcer un Discours ; il faut plus qu'il ait un extérieur agreable, afin de persuader,
+            &amp; de plaire à mesme temps. Nos sens sont les premiers Juges qui connoissent d'une
+            Oraison. On ne peut gagner ces Juges que par l'action &amp; par la parole. C'est
+            pourquoy l'on veut bien traiter icy de l'une &amp; de l'autre, mais d'une manière
+            nouvelle, &amp; qui ne sera peut-estre pas au dessous de l'Eloquence moderne.</hi>
+        </p>
+        <p>
+          <hi rend="i">La Parole n'a jamais plus de charme, que quand elle plaist aux oreilles, ce
+            qui dépend principalement de la voix ; &amp; comme rien n'apprend mieux à conduire la
+            voix, que la Musique, on ne fait pas difficulté d'avancer que la Musique seroit
+            necessaire à un Orateur. La proposition n'est pas si hardie, qu'on ne puisse bien la
+            soûtenir.</hi>
+        </p>
+        <p>
+          <hi rend="i">Pour l'Action, comme sa beauté dépend du geste, &amp; que le geste ne se
+            regle que par les diverses situations du Corps, on peut dire que pour avoir des gestes
+            bien composez, il faut avoir appris à danser.</hi>
+        </p>
+        <p>
+          <hi rend="i">Il paroist d'abord surprenant, pour ne pas dire absurde, qu'on veüille faire
+            servir la Musique &amp; la Dance à l'Art Oratoire ; &amp; une telle proposition mérite
+            bien un peu d'éclaircissement.</hi>
+        </p>
+        <p>
+          <hi rend="i">La Musique est utile à un Orateur pour la conduite de sa voix, dont les
+            inflexions doivent s'accommoder à la diversité des Sujets qu'il traite. Ceux qui ont
+            donné des préceptes sur l'Art Oratoire, conviennent qu'on doit élever plus ou moins la
+            voix aux diférentes parties d’une Oraison ; que l'on doit continuer, &amp; finir
+            autrement que l'on ne commence ; qu'on n'agite pas toutes les passions d'une égale
+            maniere ; &amp; qu'ainsi on ne garde pas toûjours le mesme ton de voix dans le Discours.
+            Il y a des tons propres à certains sentimens ; d'où vient qu'on parle autrement en
+            colere, que de sang-froid ; d'où vient que la joye &amp; la tristesse s'expriment
+            diversement, &amp; que l'on ne répond pas toûjours sur le mesme ton que l'on est
+            interrogé. On peut remarquer que les divers tons de voix viennent souvent des diférentes
+            passions qui nous agitent ; &amp; que les passions dépendent quelquefois des humeurs qui
+            dominent dans nos corps, tant il y a de raport entre le corps &amp; l'esprit. Ce raport
+            est d'autant plus fort, que c'est la Nature elle-mesme qui l'a formé. Aussi on ne
+            sçauroit séparer les passions des humeurs. C'est pour cela que les Paroles sont les
+            images de nos pensées, &amp; qu'elles nous expriment au dehors ce nous sentons au
+            dedans. La Parole est éloquente, selon qu'elle s'accommode aux oreilles de ceux qui
+            l'écoutent. Je diray plus. Les sons mesme peuvent exciter en nous quelque passion ; de
+            sorte qu'à la Guerre on n'est jamais plus animé que par le bruit du Canon, &amp; par
+            celuy des Tambours &amp; des Trompetes. L'Histoire rapporte qu'un Capitaine Grec se
+            servoit à l'Armée d'un Instrument pour sonner tantost la Charge, tantost la Retraite,
+            suivant qu'il en joüait d'une maniere élevée, ou tendre. L'expérience nous montre, que
+            les plus beaux sentimens perdent toute leur force quand ils ne sont pas soûtenus par une
+            voix qui leur soit propre. Les Comédies &amp; les Tragédies en Musique ne sont plus
+            agreables que les autres, que parce que le Chant y rend les passions plus naturelles.
+            C'est là où l'on sent bien mieux qu'on ne le peut dire, le raport qu'il y a entre la
+            douceur de la voix, &amp; la tendresse de l'amour, &amp; où l'on éprouve qu'on se laisse
+            aisément persuader par des sons, qui semblent faits pour nos humeurs, &amp; pour nos
+            tempéramens. Mais puis que l'Eloquence n'est pas moins utile au Barreau qu'à la Chaire,
+            on peut remarquer des exemples moins profanes. La Religion ne nous en présente-t-elle
+            pas de tres-beaux dans l'Ancien Testament, où Dieu sembloit se plaire aux Cantiques
+            &amp; aux Instrumens ? La Musique n'est pas moins agreable dans l'Eglise, puis que quand
+            elle y est bien chantée, elle éleve l'ame à Dieu, &amp; luy donne, s'il faut ainsi dire,
+            un avant-goust des plaisirs du Ciel.</hi>
+        </p>
+        <p>
+          <hi rend="i">La Dance est utile à une Personne qui doit parler en public, non seulement
+            pour luy fortifier les organes de la voix (comme nous apprend Démostene qui prononçoit
+            souvent un Discours à haute voix en montant avec violence sur une haute Montagne) mais
+            encore pour luy former une action qui n'ait rien de géné ny de contraint ; d'où vient
+            qu'anciennement les Orateurs parloient en public sur des Galeries, &amp; à leur exemple
+            en Italie les Prédicateurs preschent encore dans de grandes Chaires, où ils peuvent
+            facilement se promener, &amp; avoir une action libre. On ne voudroit pourtant pas donner
+            un Orateur Italien pour modelle à un François. Un Italien seroit plus propre à former un
+            Bouffon de Theatre, qu'à faire l'ornement d'une Chaire. Il faut de la modération &amp;
+            de la retenuë dans l'action. C'est pourquoy l'action Françoise est si agreable. Elle
+            n'est point contrainte ; elle est libre, hardie ; elle s'accommode au Discours, &amp;
+            n'a que des mouvemens naturels. On ne doute pas que les gestes ne soient quelquefois
+            aussi éloquens que les paroles. Pour marque de cela, l'Inquisition d'Espagne a esté
+            obligée de défendre la Sarabande, à cause qu'elle excitoit trop les passions. On peut
+            dire que le geste est proprement l'ame de l'action. En effet, Ciceron ne fit pas de
+            difficulté (pour perfectionner son geste) de consulter longtemps des Comédiens, comme
+            des Gens qui font profession de plaire par là. Il n'y a que la Dance qui puisse faire
+            acquérir cette perfection de geste, qui est si propre à persuader, qu'on tient que
+            Socrate n'apprit à dancer sur la fin de ses jours, qu'afin de pouvoir professer la
+            Philosophie avec une action plus libre &amp; plus insinuante.</hi>
+        </p>
+        <p>
+          <hi rend="i">Cependant pour tirer quelque fruit de ce Discours, il faut remarquer qu'on
+            n'entend pas imposer icy aux Orateurs une necessité absoluë de chanter, &amp; de dancer.
+            On prétend seulement leur faire connoistre combien le Chant &amp; la Dance pourroient
+            leur estre utiles pour gagner un Auditoire, s'ils en sçavoient faire un bon usage ; la
+            Musique servant à parler d'un ton propre à persuader, soit en fléchissant la voix dans
+            les diférentes passions, soit en l'accommodant aux parties du Discours, aux Auditeurs,
+            &amp; au Lieu où l'on parle ; &amp; la Dance servant à fortifier le geste, à donner une
+            situation naturelle au Corps, à enhardir l'Orateur, à le faire parler de bonne grace,
+            &amp; d'une maniere agreable ; de sorte qu'il est à présumer qu'avec une voix &amp; une
+            action reglées par la Musique &amp; par la Dance, on auroit acquis deux belles
+            dispositions à persuader &amp; à plaire dans l'Art Oratoire.</hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
