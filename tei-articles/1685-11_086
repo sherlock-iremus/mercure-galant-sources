@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> Un celebre Mathematicien Anglois, ayant remarqué que trois heures sonnerent au moment qu’on posa la Couronne sur la teste de Jacques II. Roy d’Angleterre, a eu la curiosité de suputer les vrais lieux des Planetes, &amp; de dresse un Théme celeste pour cet instant. Il l’a communiqué en Latin à un François de ses Amis, qui en a fait la traduction qui suit en nostre Langue. </p>
+<p> L’an 1685. le 23. d’Avril, Stile Julien, à trois heures aprés midy temps égal, ou 2. heures 56. minutes 48. secondes aprés midy, temps apparent à Londres. Latitude 51. degrez 32.minutes. sept. &amp; longit. 17. degrez 57. minutes. </p> […]
+<p> J’ay fait graver ce Théme celeste, &amp; je vous l’envoye. </p>
+      </div>
+    </body>
+  </text>
+</TEI>
