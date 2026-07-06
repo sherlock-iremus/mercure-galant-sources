@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> Je reçeus la Figure de la Comete, &amp; des trois Oeufs extraordinaires qu’on a veux à Rome, dans le temps que j’achevois ma derniere Lettre. Cela fut cause que je me contentay de vous en faire la description. Je vous envoye aujourd’huy cette Figure, gravée sur celle de Rome, afin que vous voyiez par vous-mesme ce que je puis vous avoir représenté imparfaitement. On a imputé à l’apparition de cette Comete, le froid extraordinaire qu’on a souffert cette année en Italie. Il a esté grand en France, mais nous d’y avons éprouvé aucun malheur general dont la Comete puisse estre accusée. </p>
+      </div>
+    </body>
+  </text>
+</TEI>
