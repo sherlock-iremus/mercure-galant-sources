@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p>Je vous parlay dans ma Lettre de Juin dernier, de la découverte d’une Statuë de Mercure, faite auprés de la Ville de Beauvais. Depuis ce temps-là j’ay fait graver la figure de cette Statuë. Je vous l’envoye, &amp; pour vous renouveller la memoire de ce que je vous ay déja dit sur ce sujet, je vous fais part d’une autre Relation qui m’en a esté adressée, &amp; qui doit estre d’autant plus exacte, qu’elle a esté écrite par M<hi rend="sup">r</hi> du Causroy, Docteur en Medecine, à qui appartient la terre où cette Statuë a esté trouvée. </p>
+      </div>
+    </body>
+  </text>
+</TEI>
