@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> M <hi rend="sup"> r </hi> de Maran Lieutenant Colonel des Fuzeliers, &amp; Brigadier d’Infanterie, n’a pû resister à une fiévre, apres avoir si souvent bravé les plus fortes attaques de nos Ennemis. </p>
+<p> On a fait paroistre beaucoup de douleur à Troyes, pour la mort que je vous ay déja apprise de M<hi rend="sup"> r </hi> Mallier du Houssay son dernier Evesque. Entre les autres honneurs qui ont esté rendus à sa mémoire, on luy a fait élever une espece de Mausolée dans une des plus considerables Eglises de son Diocese. Je vous en envoye la Figure qui vous le representera. Tout le corps de l’Ouvrage estoit d’un Marbre jaspé rouge. Le Marbre blanc avoit esté employé aux Panneaux du pied-d'estal, aux ornemens, &amp; aux quatre Enfans qui s’y voyent. Les deux Panneaux de devant &amp; de derriere avoient des Inscriptions. Vous en pouvez lire une. Voicy ce qui estoit dans l’autre. <hi rend="i"> Piis manibus R. R. In Chr. Pat. Fr. Mallier du Houssay, Trec. Dioec. Episc. Cap. Reg. Eccl. Trec. dicat, consecrat. </hi> Aux Panneaux des deux costez estoient des Basse-tailles qui representoient la charité, &amp; la douceur de ce grand Evesque. </p>
+      </div>
+    </body>
+  </text>
+</TEI>
