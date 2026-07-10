@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> Je m’acquite de la promesse que je vous ay faite dans ma Lettre du dernier Mois, de vous envoyer les deux autres Faces du Palais de Madrid dont vous avez déjà veu la premiere, qui est celle de l’entrée. Voicy une Veuë du mesme Palais du costé qui regarde <hi rend="i"> la Casa del Campo </hi> Si vous avez envie de connoistre cette <hi rend="i"> Casa del Campo. </hi>, je vous diray que c’est comme une Maison de Campagne, où est la Ménagerie du Roy. Elle est fort déchuë depuis qu’on a basty <hi rend="i"> El Buen-Retiro </hi>, mais on auroit pû en faire un tres-beau Lieu avec fort peu de dépense, parce que les Arbres y viennent fort bien. Il y en a d’assez beaux autour d’un grand Estang, &amp; dans le Jardin. Ce Jardin a pour principal ornement une Statuë de Bronze, où le Roy Philippe IV. est assez bien représenté à cheval. </p>
+      </div>
+    </body>
+  </text>
+</TEI>
