@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> Je ne doute point que la Figure que je vous envoye, ne vous surprenne. Quoy qu’elle ne soit pas nouvelle, comme vous ny vos Amies ne l’avez pas veüe, j’ay crû devoir vous en faire part. Voicy ce qui estoit écrit au-dessous, quand je l’ay reçüe. <hi rend="i"> Figure étrange, que vit en songe le Grand Seigneur, estant à Belgrade, la nuit avant la Levée du Siége de Vienne, d’un Monstre semblable à celuy-cy, qui avoit abatu le Croissant avec un Marteau. Elle a esté envoyée à Leopold en Pologne.</hi> Je croy qu’il n’y a rien à ajoûter à ces paroles. Ce que je pourrois vous dire sur cette Figure, ne seroit genéralement reçû ; &amp; puis que c’est un sujet propre à exercer les Esprits, il faut laisser raisonner chacun à sa fantaisie. On pourroit la regarder comme une Enigme en Tableau, &amp; en dire son sentiment, ainsi qu’on a fait de celles que je vous ay envoyées dans mes premieres Lettres.</p> 
+      </div>
+    </body>
+  </text>
+</TEI>
