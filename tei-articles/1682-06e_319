@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<h> Lettre de M<hi rend="sup">r</hi> Comiers, Prevost de Ternant, Professeur des Mathématiques; contenant toutes les Machines anciennes &amp; modernes pour élever les Eaux, & les avantages  que la Machine qu'il appelle Royale, a par dessus toutes les autres qu'on a cy-devant exécuté. </h>
+      </div>
+    </body>
+  </text>
+</TEI>
