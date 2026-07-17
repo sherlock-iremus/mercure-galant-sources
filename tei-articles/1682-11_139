@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> Il se fit un Duel le 5. de Septembre, dont la plus grande partie du Peuple de Dantzic fut témoin. On le vit avec plaisir, parce qu’il n’estoit qu’entre deux Poissons. J’en ay receu une Lettre, avec la figure d’un des Combatans, que j’ay fait graver. Vous la pouvez voir dans la Planche que je vous envoye. Je croiy que vous n’avez jamais oüy parler d’un pareil Poisson. Il se battit fort longtemps contre un autre de son espece, &amp; ils se servirent tous deux pour cela des Epées que la Nature leur avoit fournies. Elles sont fort longues, comme vous pouvez remarquer dans la Figure ; &amp; je doute qu’il y ait des Poissons mieux armez dans la Mer. Ils s’opiniâtrerent tellement au combat, qu’il ne cessa que par la mort de l’un d’eux. </p> 
+      </div>
+    </body>
+  </text>
+</TEI>
