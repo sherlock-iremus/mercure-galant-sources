@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> <hi rend="i"> Protée </hi> est la nouvelle Enigme en figure que je vous propose. Vous sçavez qu’il avoit le don de prédire l’avenir ; mais qu’ayant aussi le pouvoir de prendre telles formes qu’il vouloit, il trouvoit par là le moyen de s’échapper &amp; ne donnoit jamais aucune réponse, si on ne l’y contraignoit en le liant. </p>
+      </div>
+    </body>
+  </text>
+</TEI>
