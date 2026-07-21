@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> Je continuë à satisfaire la curiosité que vous avez pour les Médailles, en vous envoyant celle du Duc de Brunsvic &amp; de Lunebourg. La face droite vous represente ce Prince. Il y a dans le Revers une Palme sur un Rocher, avec ces mots, <hi rend="i">Ex duris gloria</hi>. C’est la Devise de la Maison de Brunsvic. On me promet encor d’autres Médailles que j’auray soin de faire graver. Elles ne peuvent estre que fort curieuses, estant faites par d’habiles Gens, &amp; avec grand soin. Comme ce tous tous Portraits qui ressemblent, avant qu’il soit peu il n’y aura point de Souverain dans toute l’Europe dont le visage de vous soit connu. </p>
+      </div>
+    </body>
+  </text>
+</TEI>
