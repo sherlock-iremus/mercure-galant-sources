@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> Je vous envoye la Liste de tous les Vaisseaux du Roy, selon leur département. Vous verrez par là ceux qui les commandent, &amp; combien il y a d'hommes &amp; de Canons sur cette Flote. Il manque à cet estat les noms de quelques Capitaines, mais comme ils changent presque tous les ans de Vaisseaux, il est quelquefois difficile de sçavoir les derniers nommez. Il peut y avoir aussi quelques noms defigurez ; vous y supplerez dans ceux que vous pourrez reconnoistre. </p>
+<p> Outre cette grande Armée Navale, qui doit faire tout trembler sur l'Ocean, &amp; qui ne sçauroit avoir à craindre que la Mer seule, le Roy a trente-cinq Galeres bien armées sur la Mediteranée, sur chacune desquelles, il y a un nombre considerable de Troupes de débarquement, &amp; toutes les choses propres, tant à se bien retrancher, qu'à escalader une Place. Ces Galeres sont accompagnées de quatre Galiotes à bombes, &amp; de deux Fregates, &amp; le tout fait plus de quatre-vingt Voiles. </p>
+<p> Vous croyez peut-estre, qu'aprés le grand nombre de Bâtimens sur l'une &amp; sur l'autre Mer dont je viens de vous faire le détail, le Roy n'a plus de Vaisseaux pour donner de la terreur à ses Ennemis, &amp; étendre la gloire de la France ; cependant cinq ou six gros Vaisseaux de guerre &amp; une Galiote à bombes viennent encore de partir, pour punir la Ville de Tripoli dont les Vaisseaux ont osé prendre un Navire François contre la foy des Traitez, dans la pensée que la France ayant un grand nombre d'ennemis à soutenir, elle ne seroit de long-temps en estat de les punir de leur perfidie. </p>
+<p> Tous ces Bâtimens dont les deux Mers sont couvertes, n'empeschent pas que Sa Majesté n'en ait aussi un grand nombre dans toutes les parties du monde, où diverses Nations ont bien voulu reconnoistre sa puissance, &amp; il en reste encore aujourd'huy huit dans les Isles de l'Amerique, sans les autres Bâtimens qui sont moins considerables. </p>
+      </div>
+    </body>
+  </text>
+</TEI>
