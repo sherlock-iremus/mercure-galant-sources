@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> Le Jeton de la Maison de de Madame la Dauphine m'ayant esté donné trop tard le mois passé, je ne pûs le mettre dans son rang parmy les autres. C'est ce qui m'a obligé à le faire graver seul. Le Portrait de cette Princesse est à la face droite. On voit au Revers une Aigle sur son aire avec son Aiglon, & ces paroles. </p>
+<p rend="center">PROLEM DAT JOUE DIGNAM. </p>
+<p>Comme on peut dire que l'Aigle fait des Petits dignes de Jupiter, qui est le plus grand des Dieux, puis que nous apprenons de la Fable, que cet Oiseau a esté choisy pour le servir, l'accompagner & porter la foudre ; de mesme Madame la Dauphine, en donnant la naissance à Monseigneur le Duc de Bourgogne, donne au plus grand Roy du Monde, un Fils qui sera un jour digne de l'accompagner dans toutes ses entreprises, & digne enfin de porter par tout la terreur de ses Armes. On a trouvé cette Devise tres-belle. Elle est de M<hi rend="sup">r</hi> l'Abbé Tallemand le jeune. </p>
+      </div>
+    </body>
+  </text>
+</TEI>
