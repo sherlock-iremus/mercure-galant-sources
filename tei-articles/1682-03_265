@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> Je satisfais avec grand plaisir, à la curiosité que vous m'avez témoignée, touchant des Veuës du Palais qu'ont fait bastir les Roys Afriquains dans l'Alhambre de Grenade. En voicy une nouvelle qui ne vous plaira pas moins que celle que je vous ay envoyée dans ma Lettre de Janvier. Je continuëray à vous faire part de tout ce que j'en pourray recouvrer, afin que vous puissiez prendre une idée parfaite des beautez de ce superbe Palais. Outre les deux grands Sallons dont je vous ay fait la description, il y en a un troisiéme, qui est appellé <hi rend="i">Sallon des Secrets</hi>, à cause que la Voute en est faite de maniere, que deux Personnes se peuvent entendre d'un bout à l'autre, quoy qu'elles parlent tres-bas, pourveu qu'elles s'approchent de la muralle, &amp; qu'elles prononcent distinctement les paroles. On dit qu'il y en a un semblable dans la grosse Tour du Château d'Heidelberg. </p>
+      </div>
+    </body>
+  </text>
+</TEI
