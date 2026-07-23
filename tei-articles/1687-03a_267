@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>	
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> Je vous envoye à mon ordinaire les Jettons, qu'on a fait fraper pour estre distribuez au commencement de cette année. Le premier est pour le Tresor Royal ; Le second pour la Maison de Madame la Dauphine ; le troisiéme pour l'Amirauté ; le quatriéme pour les Galeres ; le cinquiéme pour les Revenus Casuels ; le sixiéme pour l'Extraordinaire des Guerres ; le septiéme pour l'Ordinaire des Guerres, &amp; le dernier pour la Ville; Ces Jettons se doivent connoistre par leurs Devises, qui ne manquent jamais de convenir à ce qu'ils representent. </p> 
+      </div>
+    </body>
+  </text>
+</TEI>
