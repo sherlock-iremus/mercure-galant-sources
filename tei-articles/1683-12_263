@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>	
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> Ayant donné dans ma Relation de tout ce qui s'est passé au Siege de Vienne, un Portrait du Comte de Stastemberg, on m'a demandé celuy du Roy de Pologne avec tant d'empressement, qu'encore que je vous l'aye déjà envoyé dans une de mes Lettres, je suis obligé de vous faire voir encore ce mesme Portrait. Il est gravé sur une Médaille qui a esté faite à l'occasion de la derniere Paix de Pologne concluë avec les Turcs. La Face droite contient l'Effigie du Roy, &amp; de la Reyne, qui comme vous sçavez, est Fille de M<hi rend="sup">r</hi> le Marquis d'Arquien. Il y a dans le Revers un Palmier, &amp; un Olivier, avec un Bouclier attaché entre les deux. La Couronne de Pologne porte également sur l'un, &amp; sur l'autre de ces Arbres. Les paroles qui sont autour sont assez intelligibles. Celles que vous voyez à costé de l'Estampe, sont gravées dans l'épaisseur du cercle de la Médaille.
+      </div>
+    </body>
+  </text>
+</TEI>
