@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>	
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> La mesme Compagnie des Chirurgiens voulant faire passer à la posterité le zele soûmis & respectueux qu'elle a pour le Roy, a fait fraper un Jetton d'argent, sur lequel elle s'est appliquée à representer ingenieusement quelque chose qui ait rapport à la Santé de ce Prince, qui luy est infiniment chere, & à la conservation de laquelle elle peut dire qu'elle contribuë en quelque sorte par les soins & par l'application de M<hi rend="sup">r</hi> Felix, premier Chirurgien de Sa Majesté, qu'elle regarde comme son Superieur & son Chef. Je vous envoye ce Jetton gravé. Dans la face droite est un Soleil qui sort d'un nuage avec plus d'éclat qu'on ne luy en a encore vû, ce qui fait entendre que le Roy heureusement guéry de sa maladie, joüira à l'avenir d'une meilleure santé, & qui sera plus durable. Le Soleil répand ses rayons sur un Parterre semé de toutes sortes de fleurs, pour faire allusion aux bontez que Sa Majesté verse sans cesse sur tous ses Sujets, sans distinction d'estat ny de condition, & plus particulierement sur la Compagnie des Maistres Chirurgiens de Paris, qu'Elle honore de sa protection Royale, comme ont fait ses Augustes Prédecesseurs, depuis S. Loüis qui en a esté le Fondateur. Le tour du cercle est bordé de cette legende, <hi rend="i">LUDOVICUS MAGNUS SANITAS ORBIS</hi>, ce qui fait connoître que lors que le Roy est dans une santé parfaite, non seulement la France, mais aussi la plus grande partie de l'Univers joüit d'un bonheur parfait. </p>
+<p> Au revers de ce Jetton on voit Apollon en relief. Ce Dieu, qui est l'Inventeur de la Medecine & de la Chirurgie, tient d'une main sa Lyre, Instrument qui marque la Paix, & de l'autre un baston noüeux entortillé d'un Serpent, pour faire connoître que si ceux qui exercent ces Arts, veulent arriver au but qu'ils se proposent, ils ont également besoin de l'experience qui ne s'acquiert que par de fort longs travaux, & d'une prudence consommée. On lit autour ces deux mots, <hi rend="i">Salus publica</hi>. Ils sont placez en ce lieu à l'imitation des Anciens, & font entendre que ce Corps n'est pas moins penetré d'estime pour nostre Auguste Monarque, que devoüé au service de tous les Peuples, pour leur donner lieu de benir long-temps un si beau Regne. </p>
+      </div>
+    </body>
+  </text>
+</TEI>
