@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>	
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> Il y a peu de temps que je vous ay fait part d'un éloge de M<hi rend="sup">r</hi> l'Abbé de la Trappe. Je vous envoye aujourd'huy son Portrait, ne doutant point que vous ne soyez ravie d'avoir devant les yeux les traits d'un homme si veritablement consacré à Dieu. Le revers nous le fait voir dans le Desert avec ces paroles <hi rend="i">Rediviva per illum Thebais</hi>. Vous sçavez combien les Deserts de la Thebaïde ont esté rendus fameux par la retraite d'un grand nombre de saints Solitaires qui y sont venus finir leurs jours, separez du commerce entier des hommes. La Medaille qui vous represente cet illustre Abbé, est fort ressemblante. Je l'ay fait graver sur le coin de celle qui est de M<hi rend="sup">r</hi> Cheron, l'un des plus habiles hommes que nous ayons en ce genre. Le Roy qui le fit venir exprés de Rome il y a plusieurs années, luy a donné un logement dans les Galeries du Louvre. </p>
+      </div>
+    </body>
+  </text>
+</TEI>
