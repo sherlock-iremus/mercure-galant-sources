@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>	
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> Je vous envoye les Jettons de cette année ; ils ont esté frapez à l'ordinaire, à la Monnoye des Medailles dont il ne sort rien que d'achever, nonobstant le peu de temps que l'on a souvent pour le perfectionner. On attend toujours à la fin de l'année fournir les Devises, afin d'en voir les évenemens, sur lesquels les Devises roulent ordinairement ; ainsi ce travail est toujours precipité. </p>
+      </div>
+    </body>
+  </text>
+</TEI>
