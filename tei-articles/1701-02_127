@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>	
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> Je vous envoye les Jettons qui ont esté frappez cette année. Si la gravure pouvoir repondre à la beauté de ces Jettons, vous verriez qu'il ne sort rien que d'achevé de la Monnoye des Medailles dont M<hi rend="sup">r</hi> est Directeur general. </p>
+      </div>
+    </body>
+  </text>
+</TEI>
+
