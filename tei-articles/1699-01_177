@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>	
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> Je vous envoye les Jettons qui ont esté faits pour le commencement de cette année, au Balancier Royal de la Monnoye des Medailles, dont vous sçavez que M<hi rend="sup">r</hi> de Launay est Directeur. Ainsi l'on ne doit pas estre surpris s'ils sont si bien frapez. La teste du Roy dans tous ces Jettons est de M<hi rend="sup">r</hi> Brenard. Il a fait aussi le revers de celuy des Parties Casuelles. M<hi rend="sup">r</hi> Roussel a fait la teste des Jettons de Madame la Duchesse de Bourgogne, avec le revers de ceux de l'Artillerie, &amp; de ceux des Bâtimens. M<hi rend="sup">r</hi> Roestier a fait les revers de ceux du Tresor Royal &amp; des Galeres ; M<hi rend="sup">r</hi> Mauger, de ceux de l'Extraordinaire des Guerres &amp; de la Chambre aux deniers ; M<hi rend="sup">r</hi> Heupiere celuy du Jetton de la marine, &amp; M<hi rend="sup">r</hi> le Breton ceux de l'ordinaire des Guerres &amp; de la Ville.
+      </div>
+    </body>
+  </text>
+</TEI>
