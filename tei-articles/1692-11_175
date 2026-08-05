@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>	
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> Je vous envoye encore le revers d’une Medaille, frapée à la gloire du Roy, sur la prise de Namur. Il s’en est peu vû d’aussi belles, &amp; ce qui la fait estimer, c’est qu’elle fait voir noblement, &amp; sans embarras, ce que l’on veut representer, de sorte qu’il n’y a personne qui n’en conçoive d’abord toute la beauté; au lieu que la plupart des Medailles (je ne dis pas celles qui regardent l'Histoire du Roy) sont souvent si énigmatiques, qu’on a de la peine à deviner sur quelles actions elles ont esté faites, &amp; moins encore ce qu’on a voulu faire voir de glorieux dans ces actions. Cela est cause qu’on est souvent obligé d’en demander l’explication, les plus éclairez ayant de la peine à la developer. La Medaille que je vous envoye est encore de M<hi rend="sup">r</hi> l’Abbé Bizot, qui ne laisse échaper aucune des actions du Roy sans signaler son zele en faisant voir son esprit. Ce Prince est representé dans la face droite, avec ces mots tout autour : <hi rend="i">Ludovicus Magnus, Gallorum Rex, felix, Augustus, Pater Patriæ</hi>. La Ville &amp; la Citadelle de Namur que rend à Sa Majesté le Prince de Barbançon, font le revers de cette Medaille, &amp; dans le lointain on voit le Prince d’Orange &amp; le Duc de Baviere à la teste de cent mille hommes, de l’autre costé de la Riviere, qui regardent cette action. Ces paroles sont au haut, <hi rend="i">Amat victoria testes</hi>, &amp; dans l’Exergue, <hi rend="i">Namurcum expugnatum, spectante Auriaco &amp; Bavaro, cum centum armatorum millibus, die 30. Junii 1692</hi>. La Victoire que le Roy a remportée sur les Alliez, par la prise de Namur, est d’autant plus glorieuse, que la Conqueste en a esté faite à la veuë du Prince d’Orange &amp; du Duc de Baviere, qui semblent ne s’estre approchez du Siege avec une Armée de cent mille hommes, que pour avoir la confusion d’estre les témoins tranquilles de la perte de la plus forte Place des Pays-Bas.
+      </div>
+    </body>
+  </text>
+</TEI>
