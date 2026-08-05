@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>	
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> Je vous envoye une Medaille qui a esté frapée pour la Prise de Philisbourg. C'est la premiere Conqueste que le Roy ait faite aprés avoir découvert ce qui avoit esté resolu contre ses Etats à la Ligue d'Ausbourg. Les Alliez ne devoient faire agir leurs Troupes que quand le Prince d'Orange se seroit rendu Maistre de l'Angleterre. Le Roy ne me jugea pas à propos d'attendre que l'orage fondist pour chercher à s'en mettre à couvert, &amp; ce Prince qui n'avoit commencé à se preparer que long-temps aprés ses Ennemis, mit ses Troupes en Campagne avant eux, dont ils furent aussi mecontent que surpris. Ils n'ont pû luy pardonner l'extrême diligence qu'il fit en cette occasion, &amp; les Conseils que sa prudence luy suggera, de sorte que le dépit leur a toujours fait dire depuis ce temps-là que ce Monarque estoit l'agresseur, quoy qu'il n'eust fait autre chose que d'aller au-devant du coup pour le parer. La Medaille que je vous envoye frapée à l'occasion de cette Conqueste, dit beaucoup en un seul mot. </p>
+      </div>
+    </body>
+  </text>
+</TEI>
