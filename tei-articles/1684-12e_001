@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>	
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<h> Huitieme partie du traité des lunettes dedié à Monseigneur le duc de Bourgogne par M<hi rend="i">r</hi> Comiers d'Ambrun, Prevost de Ternant, Professeur des Mathematiques à Paris. </h>
+<p> [...] [p. 208] </p>
+<p> Enfin le diametre de l’ouverture du verre objectif estant déterminée, comme aussi sa distance au diaphragmme des filets, faites en la <hi rend="i">Figure XVI. </hi> sur un plan, tirez les deux lignes <hi rend="i">e C e C</hi>, comme aussi les lignes traversantes <hi rend="i">o o. M M. ii</hi>. leurs parties comprises entre les lignes <hi rend="i">e C. e C</hi> feront les diamétres des ouvertures des diaphragmges des tuyaux. Vous marquerez leurs repaires, afin que tous les diaphragmges puissent toûjours estre mis en mesme distance les uns des autres, pour toûjours composer le cone tronqué. </p>
+<p> On peut facilement déterminer par le calcul le diamétre des diaphragmges, car vous connoissez la distance <hi rend="i">A B</hi> du verre objectif <hi rend="i">A</hi> au point <hi rend="i">B</hi>, intersection des filets mis sur l'ouverture du diaphragmge, dans laquelle se doit toûjours terminer l'image de l'objet. Vous connoissez <hi rend="i">b C</hi> demy-diamétre de l'ouverture du diaphragmge principal, ou baze de l'image aërienne de l'objet. Vous connoissez aussi <hi rend="i">a E</hi> demy-diamétre de l'ouverture du verre objectif. </p>
+      </div>
+    </body>
+  </text>
+</TEI>
+
