@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>	
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> Je vous envoyay le mois passé l'ordre de Bataille de l'Armée de Flandre, lors qu'elle est entrée en campagne. Vous avez souhaité de voir celuy de l'Armée d'Allemagne, quand elle a passé le Rhin pour entrer dans le pays ennemi, &amp; je satisfais à ce que vous demandez. Je vous ay déja dit qu'il est malaisé que tant de corps demeurent longtemps ensemble, &amp; qu'aprés l'ouverture de la Campagne il ne s'en fasse pas plusieurs détachemens pour attaquer, ou pour se défendre, selon l'occurence des affaires. </p>
+      </div>
+    </body>
+  </text>
+</TEI>
