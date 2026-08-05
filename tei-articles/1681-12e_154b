@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>	
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> J'ay commencé à vous faire connoistre l'Escurial par quelques Planches que je vous en ay déja envoyées. En voicy une nouvelle qui vous offrira la Veuë d'un des Cloistres de cette superbe Maison. </p>
+      </div>
+    </body>
+  </text>
+</TEI>
+
