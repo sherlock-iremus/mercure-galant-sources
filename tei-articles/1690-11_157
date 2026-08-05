@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>	
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> Le Roy ayant honoré feu M<hi rend="sup">r</hi> le Prince Charles de Lorraine de son estime, &amp; en ayant souvent parlé avec éloge, j'en fis un de ce Prince aprés sa mort, qui devoit estre accompagné de son Portrait, mais comme je n'en avois pas alors de Medaille bien travaillée, ny qui luy ressemblat assez, j'ay attendu jusqu'à aujourd'huy à vous l'envoyez. Le revers vous fait voir ce que ce Prince triomphoit des Turcs avec autant de rapidité, que les Turcs triomphent aujourd'huy des Allemans. </p>
+      </div>
+    </body>
+  </text>
+</TEI>
