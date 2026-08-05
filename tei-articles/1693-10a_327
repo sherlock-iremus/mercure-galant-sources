@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>	
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> Je vous envoye la Medaille qui fut frapée en 1662, lors que dans une disette pareille à celle de cette année, le Roy fit distribuer du bled &amp; du pain aux Tuileries. On connoît par là, &amp; par ce qui se passe aujourd'hui, que ce Monarque est toujours prest de soulager ses Peuples, &amp; de leur faire du bien lors que l'occasion s'en presente. </p>
+      </div>
+    </body>
+  </text>
+</TEI>
+
