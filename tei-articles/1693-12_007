@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>	
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> VOUS serez surprise, Madame, de trouver une Médaille à la teste de cette Lettre, mais comme je les commence toutes ordinairement par quelque action du Roy, &amp; que cette Médaille fait l'Eloge de la generosité de Sa Majesté, &amp; de sa consideration pour les Officiers de Marine, vous ne serez pas étonnée de la voir icy. Ce Monarque, qui se plaist à récompenser le merite &amp; la vertu, l'a fait fraper pour estre distribuée aux Officiers de Marine qui ont fait des actions de valeur, afin que cette distinction &amp; cette marque d'honneur serve à leur donner de l'émulation. Ce Prince y est assis sur la pouppe d'un Navire, &amp; tient d'une main un Trident, &amp; de l'autre une Couronne Rostrale, qu'il donne à un Officier qui se presente à luy. On y lit ces paroles, </p>
+<p> <hi rend="i">Virtuti Nauticæ præmia data. </hi></p>
+      </div>
+    </body>
+  </text>
+</TEI>
+
