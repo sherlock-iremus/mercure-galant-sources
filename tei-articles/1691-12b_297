@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>	
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p>p. 343</p>
+<p rend="center"> BENTING. </p>
+<p rend="center"> LE PRINCE D'ORANGE. </p>
+<p>J'avois trop bien commencé pour n'achever pas de mesme. Les Habitans de Dordrecht, Capitale de la Hollande, à qui j'estois redevable de mon élevation, firent fraper une Médaille pour ma nomination à la Charge de Stadthouder. </p>
+<p rend="center"> BENTING. </p>
+<p>Je sçay ce que c'est que cette Médaille ; &amp; je l'ay gravée dans mon esprit. La Déesse Pallas est representée dans le revers, tenant d'une main une demy-pique, &amp; de l'autre un Peuplier. On voit à sa droite un Oranger, &amp; à sa gauche un Bucher qui a servy à consumer un Phenix. Ces paroles qui s'y lisent, <hi rend="i">Nec forte, nec fato</hi>, font connoistre que vostre élection n'est point l'Ouvrage de la fortune, &amp; que c'est une justice que les Etats ont voulu vous rendre. L'Oranger verdoyant vous represente renaissant des cendres de vostre Pere comme un jeune Phenix, &amp; le Peuplier qui est un arbre aquatique, designe les Provinces de Hollande &amp; de Zelande, qui semblent estre situées dans le sein de la Mer &amp; des Rivieres. </p>
+      </div>
+    </body>
+  </text>
+</TEI>
+
