@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>	
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> Je vous envoye une Seconde Planche d'Aranjuez, dans laquelle vous trouverez encor deux de ses Fontaines representées. On appelle l'une la Fontaine de Neptune, &amp; l'autre la Fontaine de Bacchus ; à cause de ces deux divinitez qui en font les Ornemens. </p>
+      </div>
+    </body>
+  </text>
+</TEI>
+
