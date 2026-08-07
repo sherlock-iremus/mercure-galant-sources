@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>	
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> Je vous ay déja marqué que les Fontaines qu'on trouve dans la plupart des Allées du Jardin d'Aranjuez, faisoient une des principales beautez de cette Maison. Celle qui vous est representée dans cette Planche, s'appelle la Fontaine des Dauphins. Il vous est aisé de vous figurer en jettant les yeux dessus, combien elle est agreable. </p>
+      </div>
+    </body>
+  </text>
+</TEI>
+

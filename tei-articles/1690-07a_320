@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>	
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> Il court une Liste de l'état de l'Armée Navale imprimée &amp; si défigurée, qu'à peine y peut on reconnoistre douze noms. Cela m'oblige à vous en envoyer une tres correcte avec les noms des Brulots &amp; de ceux qui les commandent. </p>
+      </div>
+    </body>
+  </text>
+</TEI>
+

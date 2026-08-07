@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>	
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> Je vous envoye une Medaille, dont le revers represente une couronne de Grenades &amp; de Roses, entrelacée du nom du Roy, <hi rend="i">Ludovicio Magno, </hi> &amp; au dedans, <hi rend="i">Ob Regem, Reginam &amp; Principem magnæ Britanniæ servatos.</hi> Cette Medaille a esté frapée pour transmettre à la posterité le souvenir d'une des plus belles &amp; des plus éclatantes actions de la vie de Sa Majesté. C'est l'azile &amp; la protection que Loüis le Grand donne au Roy, à la Reine d'Angleterre, &amp; à toute leur Famille Royale, prenant leur défense luy seul contre leurs Ennemis confederez. Cette action n'est pas seulement une des plus belles de la vie du Roy, mais elle n'a peut-estre point d'exemple dans tous les siecles, puis qu'il n'y en a point d'une pareille Ligue contre un Souverain, &amp; que cependant le Roy soutient tous ses efforts avec la même constance, &amp; continuë genereusement de donner sa protection au Roy d'Angleterre, &amp; à toute sa Famille Royale. </p>
+      </div>
+    </body>
+  </text>
+</TEI>
+

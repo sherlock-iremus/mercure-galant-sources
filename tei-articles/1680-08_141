@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>	
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> Je vous ay déja envoyé les diverses Veuës du Palais du Roy d'Espagne, &amp; celle de la grande Place, où se font les Festes de Taureaux &amp; de <hi rend="i">Cañas</hi>. Je vous envoye aujourd'huy la Veuë d'un des plus beaux Bastimens qui soit à Madrid apres ce Palais. C'est celuy de la Prison. Il a esté fait depuis assez peu d'années pour tenir la Jurisdiction des <hi rend="i">Alcaldes del crimen</hi>. Ce nom d'<hi rend="i">Alcalde</hi>, se donne à tous ceux qui sont en Espagne comme nos Baillifs, &amp; devant qui on commence à instruire les Procez. Il n'y en a qu'un dans les petits Bourgs qu'on nomme <hi rend="i">Villas</hi> &amp; il a un <hi rend="i">Teniente</hi>, &amp; un <hi rend="i">Alguazil</hi>, avec lesquels il juge les Affaires civiles &amp; criminelles ; mais dans les Villes on a estably une Cour d'<hi rend="i">Alcaldes</hi>, qui sont plus ou moins, selon que la Ville est considérable. Il y en a huit à Madrid, dont le plus ancien est Président. La marque d'autorité, non seulement des plus simples Officiers, mais aussi des Présidens des <hi rend="i">Alcaldes</hi>, &amp; des plus grands Magistrats, est une petite Baguete blanche longue d'une aune, qu'ils meurent <hi rend="i">Vara</hi>, &amp; qui est fort respectée en ce Païs-là. Dans la Cour des <hi rend="i">Alcaldes</hi> de Pampelune, qui est composée de quatre, le Roy ne peut mettre qu'un seul Castillan, les trois autres doivent estre Navarrois. Je ne vous dis rien de particulier de celle qu'on a establie à Madrid pour le criminel. Par les beautez du dehors que vous offre cette Planche, vous pouvez juger du dedans du Bastiment. </p>
+      </div>
+    </body>
+  </text>
+</TEI>
+

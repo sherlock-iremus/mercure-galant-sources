@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> Je vous tiens parole, en vous envoyant les Devises que les Chevaliers portoient sur leurs Ecus à la Course des Testes qu’on fit à Versailles le dernier Dimanche du Carnaval. Vous les trouverez gravées dans cette planche, ou j’ay tres-peu observé les rangs, les ayant fait graver à mesure qu’elles me sont tombées entre les mains. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

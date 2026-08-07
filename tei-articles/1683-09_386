@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> Il y a quelques jours que l’on trouva dans la Cave d’un des six Ammaistres de Strasbourg, six Rats qui estoient sortis d’un trou, attachez ensemble par la queuë, de la maniere que représente l’Estampe que je vous envoye. Ceux qui accorent au bruit que faisoient ces Rats, les tuerent, à la réserve d’un qui se détacha, &amp; se sauva pendant qu’on tuoit les autres. Un Medecin de la Ville les a embaumez, &amp; on remarque que le noeud qui les tient attachez est si meslé, qu’il n’est pas possible de le défaire sans couper quelques-unes des queuës. Cela donne lieu à diférens Pronostics. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

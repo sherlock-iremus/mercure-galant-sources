@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>	
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> Je vous envoye une Medaille frapée depuis peu de temps. La face droite represente le Prince Charles de Lorraine, &amp; le revers fait voir que l'on a fait la Medaille à l'occasion des Conquestes de Hongrie. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

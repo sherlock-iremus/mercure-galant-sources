@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> Quoy que je ne puisse déchifrer la Lettre proposée au nom du Marchand Venitien, je ne laisse pas, Madame, de vous en promettre une semblable dans le premier Extraordinaire, c’est à dire que je prétens cacher sous des paroles qui auront un sens parfait, d’autres paroles qui auront aussi un sens parfait, mais tout contraire au premier, par le moyen d’un Compte de Marchand rendu. Cela fait connoistre qu’il y a différens moyens de mettre en pratique le Secret de Tritème &amp; de Ventura, puis qu’assurément la Clef de la Lettre que je promets, n’est point celle dont M<hi rend="sup">r </hi> de Vienne-Plancy se servira pour nous ouvrir le sens de la sienne. Il est vray que c’est à luy seul que j’en dois l’idée. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

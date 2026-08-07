@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> On a écrit icy de Madrid que le Roy &amp; la Reyne d’Espagne ont pris fort souvent le divertissement de la Chasse, &amp; que les Seigneurs les ayant complimentez le jour que l’Archiduchesse, Fille de l’Empereur, entroit dans sa treizoéme année, il y eut le soir de grandes réjouissances au Palais. Je vous envoye la Veuë des Jardins de ce qu’on appelle en ce Païs-là <hi rend="i"> Casa del Campo </hi>. C’est la Ménagerie du Roy. Cette Maison est un peu décheuë, depuis qu’on a bâty <hi rend="i"> El Buen Retiro </hi>, qui en est tout proche. Cependant on pouvoit y faire un tres-beau Lieu, &amp; avec peu de dépense. Les Arbres y viennent fort bien. On y voit un grand Etang, autour duquel il y a encor d’assez beaux. Dans le Jardin est une Statuë de bronze, où le Roy Philippe IV. est tres-bien représenté à cheval. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

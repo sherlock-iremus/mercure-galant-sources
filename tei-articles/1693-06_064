@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>	
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> Je vous ay déja mandé que M<hi rend="sup">r</hi> l'Abbé de Lavau avoit fait voir à l'Academie Françoise, le jour que M<hi rend="sup">r</hi> l'Abbé de la Motte-Fenelon y fut receu, une Devise qu'il avoit faite à l'occasion de cette Ligue. </p>
+<p> Elle fut generalement applaudie. C'estoit un Soleil environné de nuages épais &amp; d'éclairs qui sortoient de ces nuages. Ils estoient aussi remplis de gresle &amp; de pluye, avec ces paroles, </p>
+<p rend="center"> <hi rend="i">Nec conjurata morantur. </hi></p>
+<p>M<hi rend="sup">r</hi> l'Abbé de Lavau les expliqua par ces Vers.</p>
+<lg rend="i">
+<l>Les Ennemis liguez, &amp; la Nature entiere </l>
+<l>S'efforcent vainement de suspendre son cours ; </l>
+<l>Sans jamais s'affoiblir, &amp; sans autre secours </l>
+<l>Que celuy qu'il reçoit de sa propre lumiere, </l>
+<l>D'un pas toujours égal il fournit sa carriere, </l>
+<l>Et le Monde entier voit toujours </l>
+<l>De cet Astre puissant dépendre les beaux jours. </l></hi>
+
+<p>Vous trouverez icy cette Devise gravée. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

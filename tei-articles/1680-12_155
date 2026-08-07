@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> Vous sçavez les avantages qu’ont reçeu les Suedois de la protection de Sa Majesté. Leur jeune Roy dont l’esprit est penetrant, &amp; la fermeté inébranlable, a toûjours marqué une entiere confiance en la parole de ce grand Monarque, &amp; les effets ont fait voir qu’il s’y assuroit avec raison, ce Prince ayant renoncé à une partie de ses plus considérables Conquestes, pour faire restituer à la Suede les Places que le malheur de la Guerre, &amp; un nombre infiny d’Ennemis liguez contre elle luy avoient fait perdre. Elle en a fait voir sa reconnoissance par la Médaille que je vous envoye. D’un costé est un Globe traversé d’une Bande sur laquelle est écrit <hi rend="i"> Suecia, </hi> &amp; au dessus un Coq avec ces mots, <hi rend="i"> sub umbra alarum </hi>. Dans le Revers, on voit une Gerbe, qui représente les Armes de la Famille Royale de Suede, &amp; à costé sont les Isles avec ces paroles, <hi rend="i"> Gallus Protector </hi>. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>	
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> Je ne doute point que vous n'ayez de l'impatience de sçavoir au vray comment on se coiffe à la Cour, depuis que les coiffures y sont baissées. Comme on estoit en deüil lors que ce changement des modes est arrivé, j'ay fait graver deux testes coëffées en deüil, & je vous les envoye. L'une est d'une personne vêtuë en corps de juppe. En voicy l'explication. </p>
+<p> <hi rend="i">A</hi> Cheveux. </p>
+<p> <hi rend="i">B</hi> Nompareille noire. </p>
+<p> <hi rend="i">C</hi> Ruban large de Tafetas blanc, rayé de satin blanc. </p>
+<p> <hi rend="i">D</hi> Petit bonnet fraizé de mousseline avec de l'Efilé. </p>
+<p> La seconde Teste est d'une peronne en deshabillé. </p>
+<p> <hi rend="i">A</hi> Cheveux. </p>
+<p> <hi rend="i">B</hi> Bourgogne de Baptiste claire. </p>
+<p> <hi rend="i">C</hi> Effilé. </p>
+<p> <hi rend="i">D</hi> Coëffe de gaze blanche à fleurs </p>
+      </div>
+    </body>
+  </text>
+</TEI>
+

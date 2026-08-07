@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>	
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> Le Siege de Mons a fait tant de bruit, que j'ay cru devoir vous en envoyer le Plan. On en a fait une infinité, mais comme pour satisfaire l'impatience du Public, ils ont esté gravez avant qu'on eust pris la Place, on n'en voit aucun qui ne soit defectueux. Ainsi je puis assurer que celuy-cy est le seul parfait ; aussi n'a-t-il esté levé qu'aprés le Siege finy. Ceux qui n'ont pas une entiere connoissance des Fortifications, auront peut-estre peine à s'appercevoir de la difference qu'il y a de ce Plan à ceux qui ont esté donnez d'abord au Public. Cependant il ne faut que tres-peu de chose pour faire un grand changement, &amp; un trait trop droit ou trop de travers peut faire croire qu'un Ouvrage défend ou ne défend pas un autre Ouvrage, &amp; ainsi des autres parties des Fortifications. C'est pourquoy, encore que la difference du Plan que je vous envoye ne soit peut-estre pas bien sensible aux yeux, en le conferant à ceux que l'on a donnez avant le Siege, elle ne laisse pas d'estre grande. </p>
+      </div>
+    </body>
+  </text>
+</TEI>
+

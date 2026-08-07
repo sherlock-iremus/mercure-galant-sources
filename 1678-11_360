@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> Resvez à présent sur l’Enigme d’<hi rend="i"> Euridice </hi>. Elle mourut piquée d’un Serpent. Orphée l’alla redemander aux Dieux des Enfers, &amp; les charma si bien par la douceur de son chant qu’ils luy accorderent ce qu’il vouloit. Il retournoit avec elle tout remply de joye, lors que sur le point de revoir le jour, il tourna la teste pour la regarder, contre la défense qui luy avoit esté faite. En mesme temps il eut la douleur de voir Euridice qui luy tendoit les bras, &amp; des Spectres qui s’en saississoient pour la remener aux Enfers. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

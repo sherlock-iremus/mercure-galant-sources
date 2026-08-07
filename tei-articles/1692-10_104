@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>	
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> Je vous envoye une Medaille sur la prise de Namur ; elle a esté faite par les soins de M<hi rend="sup">r</hi> l'Abbé Bisot. On y voit le Roy à la face droite avec ces mots, <hi rend="i">Ludovicus Magnus Galliarum Rex, Pius, Felix, Augustus, Pater Patriæ</hi>. Au revers est une Couronne de Chesne entrelacée de Laurier, avec ces autres mots, <hi rend="i">Senatus, Populusque Namurcensis, optimo Principi</hi>, &amp; autour de la Couronne Civique, <hi rend="i">Ludovico Magno, Expugnatori simul &amp; Conservatori Urbis</hi>. Cette Medaille est imitée de l'Antique. Le Senat &amp; le Peuple Romain donnoient à leurs plus grands Empereurs, ces titres de Pius, Felix, Augustus, Pater Patriæ</hi>, qui conviennent avec tant de justice à nostre Auguste Monarque. Ils firent frapper nombre de Medailles à l'honneur de Trajan, avec cette legende, <hi rend="i">Senatus Populusque Romanus, optimo Principi</hi>, dans une Couronne de Chesne, qu'ils nommoient Civique. La Ville de Namur ne devoit pas une moindre reconnoissance à LOUIS LE GRAND, qui l'a conservée contre la Citadelle qui n'estoit pas encore prise. La clemence est la veritable vertu des Souverains, &amp; Namur &amp; Valenciennes seront des monumens eternels de la grandeur &amp; de la bonté du Roy. </p> 
+      </div>
+    </body>
+  </text>
+</TEI>

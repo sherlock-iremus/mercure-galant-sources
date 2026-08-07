@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>	
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> Je vous envoye une Médaille, qui a esté frapée sur la prise de Nice. Je sçay qu'il y a déja quelques années que cette conqueste est faite, &amp; qu'elle a esté suivie de beaucoup d'autres ; mais je vous envoye les Medailles qui regardent la Vie du Roy, sans observer tout à fait la suite des temps, vous assurant qu'il n'en sera frapé aucune dont je ne vous fasse part. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

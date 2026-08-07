@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> Je me souviens que je me suis engagé à vous donner une troisième Veuë du Palais de Madrid, différente des deux premieres. Jettez les yeux sur la nouvelle Planche que je vous envoye, &amp; vous le verrez tel qu’il s’offre aux yeux du costé de la premiere Court. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

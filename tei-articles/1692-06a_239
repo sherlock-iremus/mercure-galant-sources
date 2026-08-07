@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>	
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> Je vous envoye le Campement de l'Armée du Roy &amp; des Alliez, sur la Mehaine. Vous y trouverez le lieu où le Prince d'Orange a demeuré le plus long temps, &amp; où il a tant fait construire &amp; abattre de ponts. C'est de ce mesme lieu que sont venuës de sa part tant de menaces de donner bataille, &amp; que les deux Armées se sont canonnées. Il n'y a point d'échelle à cette Carte, parce qu'il suffit de vous dire que nostre Armée occupoit prés de deux lieuës de terrain, &amp; qu'il y arrivoit continuellement des Troupes pour former la troisiéme Ligne que vous voyez commencée. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

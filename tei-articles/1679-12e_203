@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p rend="i"> Il y a quelque temps qu’un fort habile Homme présenta au Roy une [...]ere d’une invention nouvelle, &amp; qui fut tres-bien reçeuë. Je vous en envoye la Figure que j’ay fait graver, afin qu’elle vous en représente mieux le dessein. Les douze Maison où le Soleil entre tous les ans, [...] autour de cette Sphere ; &amp; chacune de ces Maisons est marquée par [...] des Conquestes de Sa Majesté. [...] ne peut estre plus juste, puis que cet incomparable Monarque a le Soleil pour Devise, &amp; qui ne s’est passé aucun Mois, pendant lequel il n’ait remporté quelque avantage considérable sur ses Ennemis. Le Vers Latin que vous trouverez dans le demy-cercle, est expliqué par les quatre Vers François écrits au pied de la Sphere. </i> </p>
+      </div>
+    </body>
+  </text>
+</TEI>

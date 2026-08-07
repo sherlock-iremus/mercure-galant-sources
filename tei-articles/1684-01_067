@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>	
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> Je vous parlay il y a un mois, de deux Médailles d'or, qui furent distribuées par M<hi rend="sup">r</hi> de Louvoys à l'Académie des beaux Arts, pour les Prix de Peinture & de Sculpture, lors qu'il y fut reçû Protecteur. Je vous en envoye le Revers gravé. La face droite représente le Roy, dont vous trouverez le Portrait dans plusieurs de mes Lettres. Je vous dis à l'égard de la mesme Académie, que M<hi rend="sup">r</hi> de Louvoys avoit résolu d'en faire augmenter les apointemens par le Roy, afin que tous les Etudians y pussent dessiner sans rien payer. Cela est déja exécuté. On voit par là, que tout ce que dit ce Ministre, doit estre tenu pour fait. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

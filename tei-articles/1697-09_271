@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>	
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> Je vous ay déja donné la veuë du Chasteau de Risvvik, du côté de la Cour. Je vous envoye aujourd'huy la face du mesme Chasteau du costé du Jardin. Les Conferences qui s'y tiennent pour la Paix le rendent fameux. </p>
+      </div>
+    </body>
+  </text>
+</TEI>
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> Vous vous plaignez que je ne vous fais plus voir de Médailles. J’en ay cherché pour vous satisfaire, &amp; je vous en envoye une de Monsieur. Il y a plus d’un an que vous m’en demandez de ce Prince. La Grenade que vous trouverez dans le Revers, fait du bruit depuis longtemps, &amp; chacun sçait qu’on dit d’elle, <hi rend="i>Alter post fulmina terror</hi> La Grenade est le plus redoutable Foudre de guerre apres le Canon, Comme Monsieur est le premier qu’on doit craindre, &amp; respecter apres le Roy ; si sa Naissance luy donne cet avantage, la fermeté de son cœur ne le distingue pas moins parmy les plus vaillans Capitaines. La Bataille de Cassel en peut faire foy. On sçait quelle fut la résolution à l’entreprendre, &amp; avec quelle présence d’esprit il donna toûjours l’exemple dans cet important Combat. On luy voyoit aussi peu d’émotion, que si chaque mois de sa vie eust esté marqué par une Bataille. Il regardoit le péril sans le moindre étonnement ; &amp; son intrépidité animant tous les Soldats, faisoit avancer les plus timides. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

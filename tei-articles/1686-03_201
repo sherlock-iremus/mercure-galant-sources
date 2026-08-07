@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>	
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> Je vous envoye une Medaille, que l'on peut dire nouvelle, puis qu'elle n'a esté frapée que depuis le commencement de cette année. On y voit le Buste du Roy d'Angleterre sur plusieurs Sceptres. Dans le revers est une Justice l'épée à la main droite, &amp; la balance à la gauche, terrassant des pieds deux Cadavres sans teste. Ces testes sont sur deux élévations quarrées, sur l'une desquelles, du costé de l'épée, est écrit, <hi rend="i">Jacobus de Monmouth</hi> ; & sur celle qui est du costé de la balance il y a ces mots, <hi rend="i">Archibal d'Argil</hi>. On lit ceux-cy sur le piedestal qui soûtient le tout, <hi rend="i">Ambitio malesuada ruit.</hi></p>
+      </div>
+    </body>
+  </text>
+</TEI>
+

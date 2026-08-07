@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>	
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> On travaille toujours en France à l’accroissement des Sciences &amp; à la perfection des Arts, &amp; la fecondité de l’esprit des François produit souvent quelque chose de nouveau. C’est ce qui est cause que je vous fais part d’une nouvelle Montre &amp; pendule sans roüe de champs ny roüe de rencontre, par un nouvel échapage. Cet Ouvrage est de l’invention de Monsieur Herquin, Horlogeur en sa Profession, &amp; qui a beaucoup de genie pour les Machines. Monsieur de Comiers, qui joint à une profonde érudition la parfaite intelligence des beaux Arts, presenta le quinziéme du mois passé à Messieurs de l’Academie Royale des Sciences, de la part de M<hi rend="sup">r</hi> Herquin, la premiere Horloge de cette nature. Vous connoistrez par la figure que je vous envoye en quoy consiste l’artifice. La grande roüe <hi rend="i">C</hi> a soixante-quatre dents ; elle engrene dans un pignon de six de la roüe moyenne <hi rend="i">O</hi>, qui a cinquante-deux dents ; ces dents engrenent dans un pignon de cinq de la roüe de rochet <hi rend="i">M</hi>, qui a 27. dents, lesquelles rencontrent alternativement deux palettes, qui sont, l’une dans l’axe <hi rend="i">I</hi>, &amp; l’autre dans l’axe <hi rend="i">E</hi>. Ces deux axes sont posez horizontalement l’un à costé de l’autre à la distance d’une ligne &amp; demie. Ils ont chacun un pignon de 12 qui engrene l’un dans l’autre. Chaque palette a une ligne de largeur. Lors qu’une dent de la roüe de rochet rencontre la palette du premier axe <hi rend="i">I</hi>, son pignon engrene dans le pignon du second axe <hi rend="i">E</hi>, qui porte la Pendule <hi rend="i">RS</hi>. Sa palette s’abaissant se presente à la dent de la roüe de rochet, &amp; cela se fait en mesme temps que la palette du premier axe <hi rend="i">I</hi> a échapé. Ainsi cette palette estant à son tour élevée, le pignon de son axe qui engrene dans la pignon de l’autre axe, luy donne un mouvement contraire, &amp; par consequent sa palette s’abaisse &amp; se presente à la dent de rochet, &amp; ainsi toujours alternativement. </p>
+      </div>
+    </body>
+  </text>
+</TEI>
+

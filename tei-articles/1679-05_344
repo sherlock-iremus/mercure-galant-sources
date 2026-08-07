@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> Hyacinte si tendrement aimé d’Apollon, &amp; changé en une Fleur de son nom apres sa mort, est la nouvelle Enigme en Figure que je vous envoye. Celle de Narcisse a esté expliquée sur <hi rend="i"> un Parterre de Fleurs pres d’un Jet d’eau, la Jaunisse, le Cerf, le Paon, le Soleil paroissant dans une Fontaine, la Magie, l’Amour propre, l’Inconstance, le Cachet, le Pinceau, le Parélie, le Jet d’eau, l’Oeil, l’Iris, le Vers François, &amp; le Songe. </hi> </p>
+      </div>
+    </body>
+  </text>
+</TEI>
