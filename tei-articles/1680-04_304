@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>	
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> La nouvelle Médaille du Roy que vous trouverez icy, est du Sieur Joseph Rottier. Il la fit à son retour d’Angleterre, d’où il a esté tiré pour continuer icy dans les Galeries du Louvre, avec les autres Graveurs, l’Histoire de Sa Majesté, à laquelle il travaille incessamment. Dans le Revers de cette Médaille on voit ce grãd Prince, revêtu de son Manteau, &amp; armé à la Romaine. La Victoire le couronne, &amp; deux Déesse qui luy présentent les Clefs, sont à ses genoux. Celle qui est à sa droite représente la Ville de Tournay. On le connoit par le Fleuve de l’Escaut, qui est à ses pieds couché sur son Urne. Le mot <hi rend="i">Scaldis</hi> est écrit dessus. L’autre Déesse est la Ville de Courtray. Le Fleuve de la Lys, qui a sur son Urne <hi rend="i">Lisa</hi>, est au dessus d’elle. On a mis 1667. sur un Rouleau qui est dans le bas de ce Revers, pour marquer que ce fut dans cette année que ces puissantes deux Villes furent conquises par Sa Majesté. </p>
+      </div>
+    </body>
+  </text>
+</TEI>
+
