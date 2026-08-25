@@ -1,0 +1,102 @@
+./tei-articles/1678-01_999.xml:20: parser error : Opening and ending tag mismatch: quote line 19 and p
+re Regne le trentecinquiéme. Signé, Par le Roy en son Conseil, JUNQUIERES.</p>
+                                                                               ^
+./tei-articles/1678-01_999.xml:21: parser error : Opening and ending tag mismatch: body line 17 and quote
+                    </quote>
+                            ^
+./tei-articles/1678-01_999.xml:22: parser error : Opening and ending tag mismatch: text line 16 and div
+                    </div>
+                          ^
+./tei-articles/1678-01_999.xml:23: parser error : Opening and ending tag mismatch: TEI line 2 and body
+        </body>
+               ^
+./tei-articles/1678-01_999.xml:24: parser error : Extra content at the end of the document
+    </text>
+    ^
+./tei-articles/1678-03_365.xml:2: parser error : Extra content at the end of the document
+<p>LE DUC DE ST AIGNAN,</p>
+^
+./tei-articles/1678-08_353b.xml:20: parser error : Opening and ending tag mismatch: p line 19 and div
+      </div>
+            ^
+./tei-articles/1678-08_353b.xml:21: parser error : Opening and ending tag mismatch: div line 18 and body
+    </body>
+           ^
+./tei-articles/1678-08_353b.xml:22: parser error : Opening and ending tag mismatch: body line 17 and text
+  </text>
+         ^
+./tei-articles/1678-08_353b.xml:23: parser error : Opening and ending tag mismatch: text line 16 and TEI
+</TEI>
+      ^
+./tei-articles/1678-08_353b.xml:24: parser error : Premature end of data in tag TEI line 2
+
+^
+./tei-articles/1681-09_049.xml:20: parser error : Premature end of data in tag body line 17
+      </div>
+            ^
+./tei-articles/1682-12_001.xml:20: parser error : xmlParseEntityRef: no name
+tfonds, environné d’Armes que l’on prend soin de luy préparer. La Gloire &
+                                                                               ^
+./tei-articles/1682-12_001.xml:20: parser error : xmlParseEntityRef: no name
+lone sont peintes dans les deux Tableaux des costez. Quatre Bas reliefs ronds, &
+                                                                               ^
+./tei-articles/1682-12_001.xml:20: parser error : xmlParseEntityRef: no name
+tre Bas reliefs ronds, & deux en ovale, sont aux costez de ces trois Tableaux, &
+                                                                               ^
+./tei-articles/1682-12_001.xml:20: parser error : xmlParseEntityRef: no name
+leaux, & font voir des Héros marchant à la Guerre. Les Bordures, les Angles, &
+                                                                               ^
+./tei-articles/1682-12_001.xml:20: parser error : xmlParseEntityRef: no name
+d’Armes en relief doré. Six Portraits du Titien sont sur les quatre Portes, &
+                                                                               ^
+./tei-articles/1682-12_001.xml:20: parser error : xmlParseEntityRef: no name
+délicatesse merveilleuse. Six Groupes de Figures d’argent, quatre Statües, &
+                                                                               ^
+./tei-articles/1682-12_001.xml:20: parser error : xmlParseEntityRef: no name
+’argent, quatre Statües, & quatre Buires de mesme métal, hauts d’un pied &
+                                                                               ^
+./tei-articles/1682-12_001.xml:20: parser error : xmlParseEntityRef: no name
+, de quatre pieds de haut, sur six de large, portent des Vazes de deux pieds ; &
+                                                                               ^
+./tei-articles/1682-12_001.xml:20: parser error : xmlParseEntityRef: no name
+ accompagnent. Quatre grand[e]s Buires de six pieds de haut, sont aux Angles ; &
+                                                                               ^
+./tei-articles/1682-12_001.xml:20: parser error : xmlParseEntityRef: no name
+les, sur lesquelles posent deux grandes Corbeilles, quatre grands Chandeliers, &
+                                                                               ^
+./tei-articles/1682-12_001.xml:20: parser error : xmlParseEntityRef: no name
+ortées par quatre Guéridons de mesme richesse, accompagnent ces deux Tables, &
+                                                                               ^
+./tei-articles/1682-12_001.xml:20: parser error : xmlParseEntityRef: no name
+mpagnent ces deux Tables, & parent les entre- deux des Fenestres. Des Chénets &
+                                                                               ^
+./tei-articles/1682-12_001.xml:20: parser error : xmlParseEntityRef: no name
+e d’or, est au milieu de la Chambre. Une Table quarrée, quatre en triangle, &
+                                                                               ^
+./tei-articles/1682-12_001.xml:20: parser error : xmlParseEntityRef: no name
+sont autour. Toutes ces Tables sont couvertes de Velours vert, galonné d’or &
+                                                                               ^
+./tei-articles/1682-12_001.xml:20: parser error : xmlParseEntityRef: no name
+eurs sortes de Jeux de Cartes, ainsi qu’à divers Jeux de hazard. La Bassete &
+                                                                               ^
+./tei-articles/1682-12_001.xml:20: parser error : xmlParseEntityRef: no name
+ la mesme Chambre des Tables pour plusieurs autres Jeux nouvellement inventez, &
+                                                                               ^
+./tei-articles/1682-12_001.xml:24: parser error : Opening and ending tag mismatch: p line 20 and div
+      </div>
+            ^
+./tei-articles/1682-12_001.xml:25: parser error : Opening and ending tag mismatch: div line 18 and body
+    </body>
+           ^
+./tei-articles/1682-12_001.xml:26: parser error : Opening and ending tag mismatch: body line 17 and text
+  </text>
+         ^
+./tei-articles/1682-12_001.xml:27: parser error : Opening and ending tag mismatch: text line 16 and TEI
+</TEI>
+      ^
+./tei-articles/1682-12_001.xml:28: parser error : Premature end of data in tag TEI line 2
+
+^
+./tei-articles/1683-03e_102.xml:52: parser error : Extra content at the end of the document
+</TEI><h> Suite du traité des lunetes, Par Mr Comiers d'Ambrun, Prevost de Tern
+      ^
