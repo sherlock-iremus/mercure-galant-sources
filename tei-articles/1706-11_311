@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>	
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> Le mesme Nicolas Langlois vient de faire un Almanach qui doit paroistre fort curieux, &amp; qui est fort de saison. On y voit le Roy qui reçoit la clef de l’Eglise des Invalides des mains de Mʳ Mansard, &amp; le portrait de cette superbe Eglise. Tous les cartouches qui composent le reste de cet Almanach, sont remplis de tout ce qui se trouve de plus beau aux Invalides, &amp; representent beaucoup de choses qui se passent dans l’interieur de cette maison, de maniere qu’en jettant les yeux sur cet Almanach, on peut voir d’un coup d’œil quantité de choses dont il faudroit un livre entier pour instruire le public. </p>
+      </div>
+    </body>
+  </text>
+</TEI>
