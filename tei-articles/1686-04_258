@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>	
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> On a fait un Coin particulier pour Sa Majesté. Il est une fois plus grand, &amp; l'on ne frappera qu'une Medaille pour le Roy, afin que ce monarque en ait une qui soit unique dans le monde. Monsieur de la Feüillade fait encore fraper une grande quantité de Medailles d'or pour les envoyer à tout ce qu'il y a de Potentats ou de Princes, non seulement en Europe, mais sur la Terre. Il en fait aussi fraper un fort grand nombre d'argent &amp; de cuivre pour le peuple. J'en ay fait graver une que je vous envoye. </p>
+      </div>
+    </body>
+  </text>
+</TEI>
