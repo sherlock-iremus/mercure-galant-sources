@@ -1,3 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>	
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
 <p>A MONSEIGNEUR</p>
 <p>LE DUC DE ST AIGNAN,</p>
 <p>PAIR DE FRANCE.</p>
@@ -12,7 +30,8 @@
 <p>approbation que je me suis enhardy à le poursuivre. De quel poids ne sera-t-elle point auprès des Critiques, cette glorieuse approbation dont vous</p>
 <p>souffrez que je me flate? Dira-t-on que vous manquez de lumieres pour juger fainement des chofes, Vous, MONSEIGNEUR, qui estes reconnu de</p>
 <p>tout le monde pour un esprit tout éclairé, qui possedez à iij</p>
-</div>
-</body>
-</text>
+      </div>
+    </body>
+  </text>
 </TEI>
+
