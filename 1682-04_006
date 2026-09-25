@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>	
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> M<hi rend="sup">r</hi> Gardien, Secretaire du Roy, a touché cette pensée dans les derniers Vers de ce Sonnet. </p>
+<h rend="center"> SUR QUELQUES-UNES DES PRINCIPALES ACTIONS de sa Majesté. SONNET. </h>
+<lg>
+<l rend="i"> CElébrons sur la Lire, &amp; sur le Flageolet, </l>
+<l rend="i"> L’invincible LOUIS, l’appuys du Décalogue, </l>
+<l rend="i"> Pres de ce Roy, tout autre est moins qu’un Roytelet, </l>
+<l rend="i"> Que tout chante sa gloire, Ode, Sonnet, Eglogue. </l>
+</lg>
+<ab/>
+<lg>
+<l rend="i"> Ses Loix ont réformé Chicane &amp; Chasterlet, </l>
+<l rend="i"> Son exemple à son Peuple est un seûr Prédagogue ; </l>
+<l rend="i"> Le Pauvre est écouté sans garder le Mulet, </l>
+<l rend="i"> Et le Duel barbare enchaîné comme un Dogue. </l>
+</lg>
+<ab/>
+<lg>
+<l rend="i"> Sous luy le vray mérite est du faux é-curé ; </l>
+<l rend="i"> Ceux qui suivoient Calvin retournent au Curé. </l>
+<l rend="i"> Quel Héros fit jamais de Conquestes plus belles, </l>
+</lg>
+<ab/>
+<lg>
+<l rend="i"> Le bruit de son pouvoir alarme l’Hellespont ; </l>
+<l rend="i"> Et son Nom qui par toutu du succés luy répond, </l>
+<l rend="i"> Fait prendre à l’Ottoman des manieres nouvelles. </l>
+</lg>
+      </div>
+    </body>
+  </text>
+</TEI>
+

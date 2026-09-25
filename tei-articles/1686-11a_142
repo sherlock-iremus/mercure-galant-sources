@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>	
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+<p> C'est chez le mesme que se vendent les belles Estampes de M<hi rend="sup">r</hi> de Vandermeulen, dont je vous ay déjà parlé, &amp; qui representent au naturel toutes les Conquêtes du Roy dessinées sur les lieux par ce fameux Peintre. Il est impossible de mieux travailler en ce genre, &amp; l'on peut dire que non seulement il est original pour ces sortes d'ouvrages, mais que nous ne voyons personne aujourd'huy qui travaille à le copier, tant il est difficile d'y atteindre. Si vos amis souhaitent avoir de ces Estampes, vous devez leur dire qu'elles commencent à devenir rares, à cause du grand nombre que les Etrangers en enlevent, &amp; qu'on en porte jusqu'au fond des Indes, ces Peuples estant curieux de voir les Conquêtes de Sa Majesté, qui n'y font pas moins de bruit qu'elles en font dans toute l'Europe. </p>
+      </div>
+    </body>
+  </text>
+</TEI>
